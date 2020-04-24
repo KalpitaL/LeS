@@ -1,0 +1,74 @@
+02/05/2019 09:56:03 ================02/05/2019 09:56:03================
+02/05/2019 09:56:03 Union Marine HTTP processor started
+02/05/2019 09:56:05 Union Marine login process started for User 0119701378
+02/05/2019 09:56:07 Union Marine has login Successfully.
+02/05/2019 09:56:07 Processing Quote File MTML_QUOTE_V-19-LCN-060-E_SM0215_V10001_02051909064938.xml started.
+02/05/2019 09:56:07 Search records from the List
+02/05/2019 09:56:10 Download RFQ files for VRNO V-19-LCN-060-E.
+02/05/2019 09:56:12 RFQ 'OrderQuotation-5144026_190502_090135956.pdf' for VRNO 'V-19-LCN-060-E' downloaded successfully.
+02/05/2019 09:56:16 Processing Quote file for VRNO V-19-LCN-060-E.
+02/05/2019 09:56:25 Processing Quote Header and Items  for VRNO V-19-LCN-060-E.
+02/05/2019 10:07:38 ================02/05/2019 10:07:38================
+02/05/2019 10:07:38 Union Marine HTTP processor started
+02/05/2019 10:07:40 Union Marine login process started for User 0119701378
+02/05/2019 10:07:42 Union Marine has login Successfully.
+02/05/2019 10:07:42 Processing Quote File MTML_QUOTE_V-19-LCN-060-E_SM0215_V10001_02051909064938.xml started.
+02/05/2019 10:07:42 Search records from the List
+02/05/2019 10:07:43 File is already downloaded for VRNO V-19-LCN-060-E.
+02/05/2019 10:07:44 Processing Quote file for VRNO V-19-LCN-060-E.
+02/05/2019 10:07:47 Processing Quote Header and Items  for VRNO V-19-LCN-060-E.
+02/05/2019 10:09:53 ================02/05/2019 10:09:53================
+02/05/2019 10:09:53 Union Marine HTTP processor started
+02/05/2019 10:09:55 Union Marine login process started for User 0119701378
+02/05/2019 10:10:00 Union Marine has login Successfully.
+02/05/2019 10:10:00 Processing Quote File MTML_QUOTE_V-19-LCN-060-E_SM0215_V10001_02051909064938.xml started.
+02/05/2019 10:10:00 Search records from the List
+02/05/2019 10:10:01 File is already downloaded for VRNO V-19-LCN-060-E.
+02/05/2019 10:10:04 Processing Quote file for VRNO V-19-LCN-060-E.
+02/05/2019 10:10:09 Processing Quote Header and Items  for VRNO V-19-LCN-060-E.
+02/05/2019 10:10:56 ================02/05/2019 10:10:56================
+02/05/2019 10:10:56 Union Marine HTTP processor started
+02/05/2019 10:10:59 Union Marine login process started for User 0119701378
+02/05/2019 10:11:00 Union Marine has login Successfully.
+02/05/2019 10:11:01 Processing Quote File MTML_QUOTE_V-19-LCN-060-E_SM0215_V10001_02051909064938.xml started.
+02/05/2019 10:11:01 Search records from the List
+02/05/2019 10:11:03 File is already downloaded for VRNO V-19-LCN-060-E.
+02/05/2019 10:11:03 Processing Quote file for VRNO V-19-LCN-060-E.
+02/05/2019 10:11:06 Processing Quote Header and Items  for VRNO V-19-LCN-060-E.
+02/05/2019 10:17:31 ================02/05/2019 10:17:31================
+02/05/2019 10:17:31 Union Marine HTTP processor started
+02/05/2019 10:17:33 Union Marine login process started for User 0119701378
+02/05/2019 10:17:35 Union Marine has login Successfully.
+02/05/2019 10:17:35 Processing Quote File MTML_QUOTE_V-19-LCN-060-E_SM0215_V10001_02051909064938.xml started.
+02/05/2019 10:17:35 Search records from the List
+02/05/2019 10:17:38 File is already downloaded for VRNO V-19-LCN-060-E.
+02/05/2019 10:17:39 Processing Quote file for VRNO V-19-LCN-060-E.
+02/05/2019 10:17:42 Processing Quote Header and Items  for VRNO V-19-LCN-060-E.
+02/05/2019 10:18:56 Total amount mismatch for file -MTML_QUOTE_V-19-LCN-060-E_SM0215_V10001_02051909064938.xml
+02/05/2019 10:19:08 ================02/05/2019 10:19:08================
+02/05/2019 10:19:08 Union Marine HTTP processor started
+02/05/2019 10:19:10 Union Marine login process started for User 0119701378
+02/05/2019 10:19:12 Union Marine has login Successfully.
+02/05/2019 10:19:12 Processing Quote File MTML_QUOTE_V-19-LCN-060-E_SM0215_V10001_02051909064938.xml started.
+02/05/2019 10:19:12 Search records from the List
+02/05/2019 10:19:14 File is already downloaded for VRNO V-19-LCN-060-E.
+02/05/2019 10:19:15 Processing Quote file for VRNO V-19-LCN-060-E.
+02/05/2019 10:19:18 Processing Quote Header and Items  for VRNO V-19-LCN-060-E.
+02/05/2019 10:21:07 ================02/05/2019 10:21:07================
+02/05/2019 10:21:07 Union Marine HTTP processor started
+02/05/2019 10:21:09 Union Marine login process started for User 0119701378
+02/05/2019 10:21:11 Union Marine has login Successfully.
+02/05/2019 10:21:12 Processing Quote File MTML_QUOTE_V-19-LCN-060-E_SM0215_V10001_02051909064938.xml started.
+02/05/2019 10:21:12 Search records from the List
+02/05/2019 10:21:16 File is already downloaded for VRNO V-19-LCN-060-E.
+02/05/2019 10:21:17 Processing Quote file for VRNO V-19-LCN-060-E.
+02/05/2019 10:21:19 Processing Quote Header and Items  for VRNO V-19-LCN-060-E.
+02/05/2019 10:22:16 ================02/05/2019 10:22:16================
+02/05/2019 10:22:16 Union Marine HTTP processor started
+02/05/2019 10:22:18 Union Marine login process started for User 0119701378
+02/05/2019 10:22:19 Union Marine has login Successfully.
+02/05/2019 10:22:19 Processing Quote File MTML_QUOTE_V-19-LCN-060-E_SM0215_V10001_02051909064938.xml started.
+02/05/2019 10:22:19 Search records from the List
+02/05/2019 10:22:21 File is already downloaded for VRNO V-19-LCN-060-E.
+02/05/2019 10:22:22 Processing Quote file for VRNO V-19-LCN-060-E.
+02/05/2019 10:22:24 Processing Quote Header and Items  for VRNO V-19-LCN-060-E.

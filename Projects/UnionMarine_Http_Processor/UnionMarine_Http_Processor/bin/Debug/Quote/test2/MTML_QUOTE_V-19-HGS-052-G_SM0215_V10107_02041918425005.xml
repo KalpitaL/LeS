@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8742371-1" Identifier="UNOC" Recipient="SM0215_NEKOPDF" Sender="V10107" PreparationDate="2019-Apr-02" PreparationTime="18:42" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3614" LesRecordID="11545849" LesLinkID="104385" ParentRecordID="11544972" MTML_DOCID="5688E3BB-13FF-4CE6-8469-2D30EE92698D">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-HGS-052-G" MessageNumber="V-19-HGS-052-G" LineItemCount="24" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" DepartmentCode="GALLEY" LeadTimeDays="0" OriginalFile="20190402122856-QUO-V-19-HGS-052-G-1.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201904021242" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201906011842" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>STORE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-HGS-052-G" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8742371-1" />
+      <Party Qualifier="UD" Identification="9368900" Name="HOEGH SYDNEY">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="TRANSPARENT PLASTIC SHEETING, 0.1X915MMX50MTR " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20243501" SystemItemNo="1" MonetaryAmount="14.78" Identification="150661" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.39" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.39" />
+        <Comments Qualifier="LIN">
+          <value>TRANSPARENT PLASTIC SHEETING, 0.1X915MMX50MTR </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="PLATE DISPOSABLE PAPER 18CM PCK/ 100S " MeasureUnitQualifier="PA" Quantity="10" TypeCode="BP" OriginatingSystemRef="20243502" SystemItemNo="2" MonetaryAmount="42.30" Identification="170486" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.23" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.23" />
+        <Comments Qualifier="LIN">
+          <value>PLATE DISPOSABLE PAPER 18CM PCK/ 100S </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="DISPOSABLE CUPS (PAPER) 200ML, 100PC/PKT " MeasureUnitQualifier="PKT" Quantity="5" TypeCode="BP" OriginatingSystemRef="20243503" SystemItemNo="3" MonetaryAmount="18.95" Identification="170685" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.79" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.79" />
+        <Comments Qualifier="LIN">
+          <value>DISPOSABLE CUPS (PAPER) 200ML, 100PC/PKT </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="NAPKIN PAPER 1/4 FOLDED WHITE, 320X320MM 500S " MeasureUnitQualifier="PKT" Quantity="30" TypeCode="BP" OriginatingSystemRef="20243504" SystemItemNo="4" MonetaryAmount="64.50" Identification="171454" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.15" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.15" />
+        <Comments Qualifier="LIN">
+          <value>NAPKIN PAPER 1/4 FOLDED WHITE, 320X320MM 500S </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="FLOUR SIFTER HAND 10CM X 9.5CM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20243505" SystemItemNo="5" MonetaryAmount="10.84" Identification="172281" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.42" />
+        <Comments Qualifier="LIN">
+          <value>FLOUR SIFTER HAND 10CM X 9.5CM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="MEASURING SPOON SET S/S 1/4-1/2 1 TEASPOON 1 TABLE SPOON SET " MeasureUnitQualifier="SET" Quantity="2" TypeCode="BP" OriginatingSystemRef="20243506" SystemItemNo="6" MonetaryAmount="4.12" Identification="174024" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.06" />
+        <Comments Qualifier="LIN">
+          <value>MEASURING SPOON SET S/S 1/4-1/2 1 TEASPOON 1 TABLE SPOON SET </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="MEASURING CUP PLASTIC 0.5 LTR " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20243507" SystemItemNo="7" MonetaryAmount="1.69" Identification="174027" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.69" />
+        <Comments Qualifier="LIN">
+          <value>MEASURING CUP PLASTIC 0.5 LTR </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="MEASURING CUP S/S 0.5 LTR " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20243508" SystemItemNo="8" MonetaryAmount="6.29" Identification="174032" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.29" />
+        <Comments Qualifier="LIN">
+          <value>MEASURING CUP S/S 0.5 LTR </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="MEASURING CUP S/S 2.LTR " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20243509" SystemItemNo="9" MonetaryAmount="14.06" Identification="174034" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.06" />
+        <Comments Qualifier="LIN">
+          <value>MEASURING CUP S/S 2.LTR </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="OVEN MITT / POT HOLDER ECONOMY SET " MeasureUnitQualifier="SET" Quantity="10" TypeCode="BP" OriginatingSystemRef="20243510" SystemItemNo="10" MonetaryAmount="21.20" Identification="174048" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.12" />
+        <Comments Qualifier="LIN">
+          <value>OVEN MITT / POT HOLDER ECONOMY SET </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="BAGS GARBAGE 60X80CM T20 60 LTR BLACK HDPE NON-KOMO ROLL/20S " MeasureUnitQualifier="PCE" Quantity="50" TypeCode="BP" OriginatingSystemRef="20243511" SystemItemNo="11" MonetaryAmount="37.00" Identification="174169" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.74" />
+        <Comments Qualifier="LIN">
+          <value>BAGS GARBAGE 60X80CM T20 60 LTR BLACK HDPE NON-KOMO ROLL/20S </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="PLASTIC BAGS FOR GARBAGE DISPOSAL, 250*350MM, 50PCS/PKT " MeasureUnitQualifier="PKT" Quantity="10" TypeCode="BP" OriginatingSystemRef="20243512" SystemItemNo="12" MonetaryAmount="4.60" Identification="174171" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.46" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.46" />
+        <Comments Qualifier="LIN">
+          <value>PLASTIC BAGS FOR GARBAGE DISPOSAL, 250*350MM, 50PCS/PKT </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="BAGS PLASTIC WITH SELF FASTENER 30 MICRON 17X25CM PCK/ 100S " MeasureUnitQualifier="PA" Quantity="6" TypeCode="BP" OriginatingSystemRef="20243513" SystemItemNo="13" MonetaryAmount="13.32" Identification="174185" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.22" />
+        <Comments Qualifier="LIN">
+          <value>BAGS PLASTIC WITH SELF FASTENER 30 MICRON 17X25CM PCK/ 100S </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="GREASE PROOF PAPER 42X62CM / 1KG (50 SHEETS) " MeasureUnitQualifier="PKT" Quantity="2" TypeCode="BP" OriginatingSystemRef="20243514" SystemItemNo="14" MonetaryAmount="8.18" Identification="174215" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.09" />
+        <Comments Qualifier="LIN">
+          <value>GREASE PROOF PAPER 42X62CM / 1KG (50 SHEETS) </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="TISSUE PAPER ECONOMY SIZE BOX 100 PCS. " MeasureUnitQualifier="BX" Quantity="20" TypeCode="BP" OriginatingSystemRef="20243515" SystemItemNo="15" MonetaryAmount="9.60" Identification="391491" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.48" />
+        <Comments Qualifier="LIN">
+          <value>TISSUE PAPER ECONOMY SIZE BOX 100 PCS. </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="MINI TORK 120MTR X 22CM &#xA;&#xA;**PLEASE CHECK QUANTITY**" MeasureUnitQualifier="PCE" Quantity="60" TypeCode="BP" OriginatingSystemRef="20243516" SystemItemNo="16" MonetaryAmount="65.40" Identification="232924" IsExtraItem="0" MarkedRemarks="PLEASE CHECK QUANTITY" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.09" />
+        <Comments Qualifier="LIN">
+          <value>MINI TORK 120MTR X 22CM 
+
+**PLEASE CHECK QUANTITY**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="TOILETPAPER WHITE 200SHEET 2PLY CELLULOSE &#xA;&#xA;**PLEASE CHECK QUANTITY**" MeasureUnitQualifier="PCE" Quantity="680" TypeCode="BP" OriginatingSystemRef="20243517" SystemItemNo="17" MonetaryAmount="115.60" Identification="174242" IsExtraItem="0" MarkedRemarks="PLEASE CHECK QUANTITY" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.17" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.17" />
+        <Comments Qualifier="LIN">
+          <value>TOILETPAPER WHITE 200SHEET 2PLY CELLULOSE 
+
+**PLEASE CHECK QUANTITY**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="WASHINGPOWDER 600GRAM/PACK  *PHOSPHATE FREE*" MeasureUnitQualifier="PKT" Quantity="200" TypeCode="BP" OriginatingSystemRef="20243518" SystemItemNo="18" MonetaryAmount="94.00" Identification="550107" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.47" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.47" />
+        <Comments Qualifier="LIN">
+          <value>WASHINGPOWDER 600GRAM/PACK  *PHOSPHATE FREE*</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="WASHINGPOWDER GEN.USE 20KG/BAG  *PHOSPHATE FREE* " MeasureUnitQualifier="BG" Quantity="10" TypeCode="BP" OriginatingSystemRef="20243519" SystemItemNo="19" MonetaryAmount="95.50" Identification="550133" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.55" />
+        <Comments Qualifier="LIN">
+          <value>WASHINGPOWDER GEN.USE 20KG/BAG  *PHOSPHATE FREE* </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="DISHWASHING LIQUID CITRON 1 LTR. " MeasureUnitQualifier="BO" Quantity="60" TypeCode="BP" OriginatingSystemRef="20243520" SystemItemNo="20" MonetaryAmount="36.60" Identification="550141" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.61" />
+        <Comments Qualifier="LIN">
+          <value>DISHWASHING LIQUID CITRON 1 LTR. </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="ALL CLEANER 1LTR LIME/EUCALYPTUS " MeasureUnitQualifier="BO" Quantity="12" TypeCode="BP" OriginatingSystemRef="20243521" SystemItemNo="21" MonetaryAmount="6.84" Identification="550163" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.57" />
+        <Comments Qualifier="LIN">
+          <value>ALL CLEANER 1LTR LIME/EUCALYPTUS </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="AJAX ALL CLEANER 1LTR. " MeasureUnitQualifier="BO" Quantity="12" TypeCode="BP" OriginatingSystemRef="20243522" SystemItemNo="22" MonetaryAmount="19.08" Identification="550163" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.59" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.59" />
+        <Comments Qualifier="LIN">
+          <value>AJAX ALL CLEANER 1LTR. </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="AMERICOL SANITARY CLEANER 5 LITER " MeasureUnitQualifier="CA" Quantity="12" TypeCode="BP" OriginatingSystemRef="20243523" SystemItemNo="23" MonetaryAmount="138.12" Identification="550172" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.51" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.51" />
+        <Comments Qualifier="LIN">
+          <value>AMERICOL SANITARY CLEANER 5 LITER </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="LUX TOILETSOAP 85GR." MeasureUnitQualifier="PCE" Quantity="200" TypeCode="BP" OriginatingSystemRef="20243524" SystemItemNo="24" MonetaryAmount="48.00" Identification="550249" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.24" />
+        <Comments Qualifier="LIN">
+          <value>LUX TOILETSOAP 85GR.</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="890.570" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="890.570" />
+    </Quote>
+  </Interchange>
+</MTML>

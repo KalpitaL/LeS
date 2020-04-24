@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="5139404" Identifier="UNOC" Recipient="B60543_MLPDF" Sender="V10001" PreparationDate="2019-Apr-05" PreparationTime="12:02" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2880" LesRecordID="11549495" LesLinkID="103884" ParentRecordID="11549477" MTML_DOCID="B2058D17-C423-4246-9FD9-F6EE239BC477">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-SLM-031-E" MessageNumber="V-19-SLM-031-E" LineItemCount="3" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" TransportModeCode="_3" DepartmentCode="Engine" LeadTimeDays="6" OriginalFile="OrderQuotation-5139404_190405_115535824.pdf" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201904051202" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201904110000" />
+      <Comments Qualifier="SUR">
+        <value>Thanks for your inquiry. We're pleased to offer our quotation for your consideration.
+
+All quoted items are ex-stock subject to prior sales.
+
+Item 3 is low in inventory.
+
+Delivery Charge (alongside) @  Port VANCOUVER, BRITISH COLUMBIA  : USD 106
+Delivery Lead time: 2 - 3 working days.
+Subject to additional delivery charge, hire of barge/crane, custom fee, etc.
+
+Please allow another 1-2 working days’ notice for delivery arrangement.
+
+We look forward to receiving your earliest order confirmation.
+
+Best Regards,
+Ivan Yeo
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 4 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 106 USD
+ Item Total : 928.81 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-SLM-031-E" />
+      <Reference Qualifier="AAG" ReferenceNumber="5139404" />
+      <Party Qualifier="UD" Identification="9801718" Name="SCARLETT MANX">
+        <PartyLocation Qualifier="ZUC" Berth="VANCOUVER, BRITISH COLUMBIA" Port="CAVAN" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="EM" Number="intuitships@unimarships.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service">
+        <Contact FunctionCode="SR" Name="John Inge">
+          <CommunicationMethod Qualifier="TE" Number="65 6395 4545" />
+          <CommunicationMethod Qualifier="FX" Number="65 6872 6319" />
+        </Contact>
+        <StreetAddress>128376</StreetAddress>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="Electrosolve-E" MeasureUnitQualifier="LTR" Quantity="25" TypeCode="BP" OriginatingSystemRef="20284582" SystemItemNo="1" MonetaryAmount="171.75" Identification="604389" DeliveryTime="6" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.87" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.87" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Enviroclean" MeasureUnitQualifier="LTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="20284583" SystemItemNo="2" MonetaryAmount="268.50" Identification="765018" DeliveryTime="6" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.37" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.37" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="GAMAZYME MSC 12X1 LTR" MeasureUnitQualifier="LTR" Quantity="24" TypeCode="BP" OriginatingSystemRef="20284584" SystemItemNo="3" MonetaryAmount="382.56" Identification="587618" DeliveryTime="6" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="15.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="15.94" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="928.810" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="928.810" />
+      <MonetaryAmount Qualifier="_99" Value="106.000" />
+      <MonetaryAmount Qualifier="_90" Value="822.810" />
+    </Quote>
+  </Interchange>
+</MTML>

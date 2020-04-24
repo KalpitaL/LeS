@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPages/Base.Master" AutoEventWireup="true" CodeBehind="BaseDetail.master.cs" Inherits="MetroLesMonitor.MasterPages.BaseDetail" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">  
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="detailHead" runat="server">
+</asp:Content>
+<asp:Content ID="Content5" ContentPlaceHolderID="MainContent" runat="server">
+  <asp:ContentPlaceHolder ID="DetailContent" runat="server">
+      <input type="hidden" id="baseDetail" />
+     <div class="page-container1">
+      <div class="page-content container" style="min-height: 558px;background-color:#fff!important;">
+            <div class="page-head">
+            <div class="row">
+                  <div class="col-md-12 col-sm-12">
+                      <div class="portlet custom">
+                            <div class="portlet-title margin-bottom-0">
+                                <div class="caption">
+                                    <i class="fa fa-cogs font-blue-chambray"></i><span class="caption-subject font-blue-chambray bold" id="pageTitle"></span>
+                                </div>
+                                <div id="toolbtngroupdet"> </div>
+                             </div>
+                       </div>
+                 <div class="clearfix">
+              </div>
+                </div>
+            </div>
+                 <asp:ContentPlaceHolder ID="ChildDetailContent" runat="server">
+                  </asp:ContentPlaceHolder>
+                 <div class="clearfix">   </div>
+           
+             </div>
+          </div>
+      </div>        
+    </asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content8" ContentPlaceHolderID="detailScriptContent" runat="server">        
+     <script src="../assets/Scripts/min/jquery.bootstrap.wizard.new.js"></script>      
+    <script>   jQuery(document).ready(function () {  }); </script>  <%--BaseDetail.init();--%>
+      <asp:ContentPlaceHolder ID="childScriptHolder" runat="server">    </asp:ContentPlaceHolder>
+</asp:Content>

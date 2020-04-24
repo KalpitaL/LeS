@@ -1,0 +1,24 @@
+13/03/2019 15:12:26 ================13/03/2019 15:12:26================
+13/03/2019 15:12:26 Union Marine HTTP processor started
+13/03/2019 15:12:39 Union Marine login process started for User 1220130196
+13/03/2019 15:12:48 Union Marine has login Successfully.
+13/03/2019 15:12:50 Search records from the List
+13/03/2019 15:12:52 Filter the List
+13/03/2019 15:12:52 Download RFQ files for VRNO V-19-RKE-035-E.
+13/03/2019 15:12:54 RFQ '20190313101858-QUO-V-19-RKE-035-E-1.xml' for VRNO 'V-19-RKE-035-E' downloaded successfully.
+13/03/2019 15:14:31 ================13/03/2019 15:14:31================
+13/03/2019 15:14:31 Union Marine HTTP processor started
+13/03/2019 15:14:45 Union Marine login process started for User 1220130196
+13/03/2019 15:14:47 Union Marine has login Successfully.
+13/03/2019 15:14:47 Search records from the List
+13/03/2019 15:14:49 Filter the List
+13/03/2019 15:26:30 ================13/03/2019 15:26:30================
+13/03/2019 15:26:30 Union Marine HTTP processor started
+13/03/2019 15:26:34 Union Marine login process started for User 1220130196
+13/03/2019 15:26:36 Union Marine has login Successfully.
+13/03/2019 15:26:36 Search records from the List
+13/03/2019 15:26:38 Filter the List
+13/03/2019 15:26:41 Download RFQ files for VRNO V-19-RKE-035-E.
+13/03/2019 15:26:57 RFQ '20190313101858-QUO-V-19-RKE-035-E-1.xml' for VRNO 'V-19-RKE-035-E' downloaded successfully.
+13/03/2019 15:26:58 Processing Quote file for VRNO V-19-RKE-035-E.
+13/03/2019 15:26:59 Processing Quote Header and Items  for VRNO V-19-RKE-035-E.

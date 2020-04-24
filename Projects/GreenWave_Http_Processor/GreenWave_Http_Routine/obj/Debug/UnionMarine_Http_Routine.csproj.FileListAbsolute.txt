@@ -1,0 +1,16 @@
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\UnionMarine_Http_Routine.dll
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\UnionMarine_Http_Routine.pdb
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\HTTPMethods.dll
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\HTTPWrapper.dll
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\LeSCommon.dll
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\MTML.GENERATOR.dll
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\SautinSoft.PdfVision.dll
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\Dictionary.dll
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\HTTPMethods.pdb
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\HTTPWrapper.pdb
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\LeSCommon.pdb
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\MTML.GENERATOR.pdb
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\obj\Debug\UnionMarine_Http_Routine.csprojResolveAssemblyReference.cache
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\obj\Debug\UnionMarine_Http_Routine.dll
+E:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\obj\Debug\UnionMarine_Http_Routine.pdb

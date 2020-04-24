@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="5144026" Identifier="UNOC" Recipient="B60543_MLPDF" Sender="V10001" PreparationDate="2019-May-02" PreparationTime="09:06" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2880" LesRecordID="11576959" LesLinkID="103884" ParentRecordID="11574606" MTML_DOCID="0BA32BF9-02D4-4DEF-A121-103F4D5839C5">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-LCN-060-E" MessageNumber="V-19-LCN-060-E" LineItemCount="2" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" TransportModeCode="_3" DepartmentCode="ENGINE" LeadTimeDays="5" OriginalFile="OrderQuotation-5144026_190502_090135956.pdf" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201905020906" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201905070000" />
+      <Comments Qualifier="SUR">
+        <value>Thanks for your inquiry. We're pleased to offer our quotation for your consideration.
+
+All quoted items are out of stock.
+New stock will be available estimate after 6th May subject to carrier approval and custom clearance.
+
+Delivery Charge (alongside) @ NEW ORLEANS can be ranged from USD53 – USD221 depending on vessels location at time of scheduled delivery.
+Delivery Lead time: 2-3  working days
+Subject to additional delivery charge, hire of barge/crane, custom fee, etc.
+
+Please allow another 1-2 working days’ notice for delivery arrangement.
+
+Cylinder deposits will be applicable if vessel does not have any Unitor Cylinder in return.
+
+We look forward to receiving your earliest order confirmation.
+Best Regards,
+Ivan Yeo
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 3 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 53 USD
+Item Added - 4 : TOTAL CYLINDER DEPOSIT CHARGE | QTY : 1 | UOM : PCS | Price : 4680 USD
+ Item Total : 6103.88 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>CHEMICAL</value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-LCN-060-E" />
+      <Reference Qualifier="AAG" ReferenceNumber="5144026" />
+      <Party Qualifier="UD" Identification="9277565" Name="LACON">
+        <PartyLocation Qualifier="ZUC" Berth="NEW ORLEANS" Port="USMSY" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="EM" Number="intuitships@unimarships.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service">
+        <Contact FunctionCode="SR" Name="John Inge">
+          <CommunicationMethod Qualifier="TE" Number="65 6395 4545" />
+          <CommunicationMethod Qualifier="FX" Number="65 6872 6319" />
+        </Contact>
+        <StreetAddress>128376</StreetAddress>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="OXYGEN 0-40 (BOTTLE)" MeasureUnitQualifier="PCS" Quantity="8" TypeCode="BP" OriginatingSystemRef="20521300" SystemItemNo="1" MonetaryAmount="806.40" Identification="905034" DeliveryTime="5" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="100.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="100.8" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="ACETYLENE A-40 (BOTTLE)" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="20521301" SystemItemNo="2" MonetaryAmount="564.48" Identification="905026" DeliveryTime="5" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="141.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="141.12" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="6103.880" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="6103.880" />
+      <MonetaryAmount Qualifier="_99" Value="53.000" />
+      <MonetaryAmount Qualifier="_97" Value="4680.000" />
+      <MonetaryAmount Qualifier="_90" Value="1370.880" />
+    </Quote>
+  </Interchange>
+</MTML>

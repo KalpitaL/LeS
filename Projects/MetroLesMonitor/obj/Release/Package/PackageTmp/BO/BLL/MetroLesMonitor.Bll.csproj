@@ -1,0 +1,1253 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B481ED8D-CBCA-4582-9163-8B0CA2482DAA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MetroLesMonitor.Bll</RootNamespace>
+    <AssemblyName>MetroLesMonitor.Bll</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\ProjectDirector\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+<Reference Include="System" />
+<Reference Include="System.configuration" />
+<Reference Include="System.Data" />
+<Reference Include="System.Xml" />
+</ItemGroup>
+
+  <ItemGroup>
+<Compile Include="Dtproperties.generated.cs">
+<DependentUpon>Dtproperties.cs</DependentUpon>
+</Compile>
+<Compile Include="Dtproperties.cs" />
+<Compile Include="DtpropertiesCollection.generated.cs">
+<DependentUpon>DtpropertiesCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="DtpropertiesCollection.cs" />
+<Compile Include="LesClientConnectLog.generated.cs">
+<DependentUpon>LesClientConnectLog.cs</DependentUpon>
+</Compile>
+<Compile Include="LesClientConnectLog.cs" />
+<Compile Include="LesClientConnectLogCollection.generated.cs">
+<DependentUpon>LesClientConnectLogCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesClientConnectLogCollection.cs" />
+<Compile Include="LesInventory.generated.cs">
+<DependentUpon>LesInventory.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventory.cs" />
+<Compile Include="LesInventoryCollection.generated.cs">
+<DependentUpon>LesInventoryCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventoryCollection.cs" />
+<Compile Include="LesInventoryAudit.generated.cs">
+<DependentUpon>LesInventoryAudit.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventoryAudit.cs" />
+<Compile Include="LesInventoryAuditCollection.generated.cs">
+<DependentUpon>LesInventoryAuditCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventoryAuditCollection.cs" />
+<Compile Include="LesInventoryHistory.generated.cs">
+<DependentUpon>LesInventoryHistory.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventoryHistory.cs" />
+<Compile Include="LesInventoryHistoryCollection.generated.cs">
+<DependentUpon>LesInventoryHistoryCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventoryHistoryCollection.cs" />
+<Compile Include="LesInventorySupplierLink.generated.cs">
+<DependentUpon>LesInventorySupplierLink.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventorySupplierLink.cs" />
+<Compile Include="LesInventorySupplierLinkCollection.generated.cs">
+<DependentUpon>LesInventorySupplierLinkCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventorySupplierLinkCollection.cs" />
+<Compile Include="LesInventorylocation.generated.cs">
+<DependentUpon>LesInventorylocation.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventorylocation.cs" />
+<Compile Include="LesInventorylocationCollection.generated.cs">
+<DependentUpon>LesInventorylocationCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesInventorylocationCollection.cs" />
+<Compile Include="LesLocations.generated.cs">
+<DependentUpon>LesLocations.cs</DependentUpon>
+</Compile>
+<Compile Include="LesLocations.cs" />
+<Compile Include="LesLocationsCollection.generated.cs">
+<DependentUpon>LesLocationsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesLocationsCollection.cs" />
+<Compile Include="LesModuleAccess.generated.cs">
+<DependentUpon>LesModuleAccess.cs</DependentUpon>
+</Compile>
+<Compile Include="LesModuleAccess.cs" />
+<Compile Include="LesModuleAccessCollection.generated.cs">
+<DependentUpon>LesModuleAccessCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesModuleAccessCollection.cs" />
+<Compile Include="LesModuleActions.generated.cs">
+<DependentUpon>LesModuleActions.cs</DependentUpon>
+</Compile>
+<Compile Include="LesModuleActions.cs" />
+<Compile Include="LesModuleActionsCollection.generated.cs">
+<DependentUpon>LesModuleActionsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesModuleActionsCollection.cs" />
+<Compile Include="LesMonitorLoginHistory.generated.cs">
+<DependentUpon>LesMonitorLoginHistory.cs</DependentUpon>
+</Compile>
+<Compile Include="LesMonitorLoginHistory.cs" />
+<Compile Include="LesMonitorLoginHistoryCollection.generated.cs">
+<DependentUpon>LesMonitorLoginHistoryCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesMonitorLoginHistoryCollection.cs" />
+<Compile Include="LesPartcategory.generated.cs">
+<DependentUpon>LesPartcategory.cs</DependentUpon>
+</Compile>
+<Compile Include="LesPartcategory.cs" />
+<Compile Include="LesPartcategoryCollection.generated.cs">
+<DependentUpon>LesPartcategoryCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesPartcategoryCollection.cs" />
+<Compile Include="LesParttype.generated.cs">
+<DependentUpon>LesParttype.cs</DependentUpon>
+</Compile>
+<Compile Include="LesParttype.cs" />
+<Compile Include="LesParttypeCollection.generated.cs">
+<DependentUpon>LesParttypeCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesParttypeCollection.cs" />
+<Compile Include="LesRelatedInventory.generated.cs">
+<DependentUpon>LesRelatedInventory.cs</DependentUpon>
+</Compile>
+<Compile Include="LesRelatedInventory.cs" />
+<Compile Include="LesRelatedInventoryCollection.generated.cs">
+<DependentUpon>LesRelatedInventoryCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesRelatedInventoryCollection.cs" />
+<Compile Include="LesResendDocNotify.generated.cs">
+<DependentUpon>LesResendDocNotify.cs</DependentUpon>
+</Compile>
+<Compile Include="LesResendDocNotify.cs" />
+<Compile Include="LesResendDocNotifyCollection.generated.cs">
+<DependentUpon>LesResendDocNotifyCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesResendDocNotifyCollection.cs" />
+<Compile Include="LesSalesorder.generated.cs">
+<DependentUpon>LesSalesorder.cs</DependentUpon>
+</Compile>
+<Compile Include="LesSalesorder.cs" />
+<Compile Include="LesSalesorderCollection.generated.cs">
+<DependentUpon>LesSalesorderCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesSalesorderCollection.cs" />
+<Compile Include="LesSalesorderDetails.generated.cs">
+<DependentUpon>LesSalesorderDetails.cs</DependentUpon>
+</Compile>
+<Compile Include="LesSalesorderDetails.cs" />
+<Compile Include="LesSalesorderDetailsCollection.generated.cs">
+<DependentUpon>LesSalesorderDetailsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesSalesorderDetailsCollection.cs" />
+<Compile Include="LesSupplierLocationLink.generated.cs">
+<DependentUpon>LesSupplierLocationLink.cs</DependentUpon>
+</Compile>
+<Compile Include="LesSupplierLocationLink.cs" />
+<Compile Include="LesSupplierLocationLinkCollection.generated.cs">
+<DependentUpon>LesSupplierLocationLinkCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesSupplierLocationLinkCollection.cs" />
+<Compile Include="LesSupplierSubsupplierLink.generated.cs">
+<DependentUpon>LesSupplierSubsupplierLink.cs</DependentUpon>
+</Compile>
+<Compile Include="LesSupplierSubsupplierLink.cs" />
+<Compile Include="LesSupplierSubsupplierLinkCollection.generated.cs">
+<DependentUpon>LesSupplierSubsupplierLinkCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesSupplierSubsupplierLinkCollection.cs" />
+<Compile Include="LesVessels.generated.cs">
+<DependentUpon>LesVessels.cs</DependentUpon>
+</Compile>
+<Compile Include="LesVessels.cs" />
+<Compile Include="LesVesselsCollection.generated.cs">
+<DependentUpon>LesVesselsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="LesVesselsCollection.cs" />
+<Compile Include="MtmlDeliveryTerms.generated.cs">
+<DependentUpon>MtmlDeliveryTerms.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDeliveryTerms.cs" />
+<Compile Include="MtmlDeliveryTermsCollection.generated.cs">
+<DependentUpon>MtmlDeliveryTermsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDeliveryTermsCollection.cs" />
+<Compile Include="MtmlDocAmounts.generated.cs">
+<DependentUpon>MtmlDocAmounts.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocAmounts.cs" />
+<Compile Include="MtmlDocAmountsCollection.generated.cs">
+<DependentUpon>MtmlDocAmountsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocAmountsCollection.cs" />
+<Compile Include="MtmlDocComments.generated.cs">
+<DependentUpon>MtmlDocComments.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocComments.cs" />
+<Compile Include="MtmlDocCommentsCollection.generated.cs">
+<DependentUpon>MtmlDocCommentsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocCommentsCollection.cs" />
+<Compile Include="MtmlDocDatetime.generated.cs">
+<DependentUpon>MtmlDocDatetime.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocDatetime.cs" />
+<Compile Include="MtmlDocDatetimeCollection.generated.cs">
+<DependentUpon>MtmlDocDatetimeCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocDatetimeCollection.cs" />
+<Compile Include="MtmlDocHeader.generated.cs">
+<DependentUpon>MtmlDocHeader.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocHeader.cs" />
+<Compile Include="MtmlDocHeaderCollection.generated.cs">
+<DependentUpon>MtmlDocHeaderCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocHeaderCollection.cs" />
+<Compile Include="MtmlDocItem.generated.cs">
+<DependentUpon>MtmlDocItem.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocItem.cs" />
+<Compile Include="MtmlDocItemCollection.generated.cs">
+<DependentUpon>MtmlDocItemCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocItemCollection.cs" />
+<Compile Include="MtmlDocItemEquipment.generated.cs">
+<DependentUpon>MtmlDocItemEquipment.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocItemEquipment.cs" />
+<Compile Include="MtmlDocItemEquipmentCollection.generated.cs">
+<DependentUpon>MtmlDocItemEquipmentCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocItemEquipmentCollection.cs" />
+<Compile Include="MtmlDocParty.generated.cs">
+<DependentUpon>MtmlDocParty.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocParty.cs" />
+<Compile Include="MtmlDocPartyCollection.generated.cs">
+<DependentUpon>MtmlDocPartyCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocPartyCollection.cs" />
+<Compile Include="MtmlDocReference.generated.cs">
+<DependentUpon>MtmlDocReference.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocReference.cs" />
+<Compile Include="MtmlDocReferenceCollection.generated.cs">
+<DependentUpon>MtmlDocReferenceCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlDocReferenceCollection.cs" />
+<Compile Include="MtmlTransactionHeader.generated.cs">
+<DependentUpon>MtmlTransactionHeader.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlTransactionHeader.cs" />
+<Compile Include="MtmlTransactionHeaderCollection.generated.cs">
+<DependentUpon>MtmlTransactionHeaderCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlTransactionHeaderCollection.cs" />
+<Compile Include="MtmlTransportMode.generated.cs">
+<DependentUpon>MtmlTransportMode.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlTransportMode.cs" />
+<Compile Include="MtmlTransportModeCollection.generated.cs">
+<DependentUpon>MtmlTransportModeCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MtmlTransportModeCollection.cs" />
+<Compile Include="MxmlAddress.generated.cs">
+<DependentUpon>MxmlAddress.cs</DependentUpon>
+</Compile>
+<Compile Include="MxmlAddress.cs" />
+<Compile Include="MxmlAddressCollection.generated.cs">
+<DependentUpon>MxmlAddressCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MxmlAddressCollection.cs" />
+<Compile Include="MxmlDocHeader.generated.cs">
+<DependentUpon>MxmlDocHeader.cs</DependentUpon>
+</Compile>
+<Compile Include="MxmlDocHeader.cs" />
+<Compile Include="MxmlDocHeaderCollection.generated.cs">
+<DependentUpon>MxmlDocHeaderCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MxmlDocHeaderCollection.cs" />
+<Compile Include="MxmlDocItems.generated.cs">
+<DependentUpon>MxmlDocItems.cs</DependentUpon>
+</Compile>
+<Compile Include="MxmlDocItems.cs" />
+<Compile Include="MxmlDocItemsCollection.generated.cs">
+<DependentUpon>MxmlDocItemsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MxmlDocItemsCollection.cs" />
+<Compile Include="MxmlTransactionHeader.generated.cs">
+<DependentUpon>MxmlTransactionHeader.cs</DependentUpon>
+</Compile>
+<Compile Include="MxmlTransactionHeader.cs" />
+<Compile Include="MxmlTransactionHeaderCollection.generated.cs">
+<DependentUpon>MxmlTransactionHeaderCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="MxmlTransactionHeaderCollection.cs" />
+<Compile Include="Rfqline.generated.cs">
+<DependentUpon>Rfqline.cs</DependentUpon>
+</Compile>
+<Compile Include="Rfqline.cs" />
+<Compile Include="RfqlineCollection.generated.cs">
+<DependentUpon>RfqlineCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="RfqlineCollection.cs" />
+<Compile Include="Rfqmas.generated.cs">
+<DependentUpon>Rfqmas.cs</DependentUpon>
+</Compile>
+<Compile Include="Rfqmas.cs" />
+<Compile Include="RfqmasCollection.generated.cs">
+<DependentUpon>RfqmasCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="RfqmasCollection.cs" />
+<Compile Include="SmAddress.generated.cs">
+<DependentUpon>SmAddress.cs</DependentUpon>
+</Compile>
+<Compile Include="SmAddress.cs" />
+<Compile Include="SmAddressCollection.generated.cs">
+<DependentUpon>SmAddressCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmAddressCollection.cs" />
+<Compile Include="SmAttachment.generated.cs">
+<DependentUpon>SmAttachment.cs</DependentUpon>
+</Compile>
+<Compile Include="SmAttachment.cs" />
+<Compile Include="SmAttachmentCollection.generated.cs">
+<DependentUpon>SmAttachmentCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmAttachmentCollection.cs" />
+<Compile Include="SmAuditlog.generated.cs">
+<DependentUpon>SmAuditlog.cs</DependentUpon>
+</Compile>
+<Compile Include="SmAuditlog.cs" />
+<Compile Include="SmAuditlogCollection.generated.cs">
+<DependentUpon>SmAuditlogCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmAuditlogCollection.cs" />
+<Compile Include="SmBuyerSupplierGroupFlow.generated.cs">
+<DependentUpon>SmBuyerSupplierGroupFlow.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierGroupFlow.cs" />
+<Compile Include="SmBuyerSupplierGroupFlowCollection.generated.cs">
+<DependentUpon>SmBuyerSupplierGroupFlowCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierGroupFlowCollection.cs" />
+<Compile Include="SmBuyerSupplierGroups.generated.cs">
+<DependentUpon>SmBuyerSupplierGroups.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierGroups.cs" />
+<Compile Include="SmBuyerSupplierGroupsCollection.generated.cs">
+<DependentUpon>SmBuyerSupplierGroupsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierGroupsCollection.cs" />
+<Compile Include="SmBuyerSupplierItemRef.generated.cs">
+<DependentUpon>SmBuyerSupplierItemRef.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierItemRef.cs" />
+<Compile Include="SmBuyerSupplierItemRefCollection.generated.cs">
+<DependentUpon>SmBuyerSupplierItemRefCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierItemRefCollection.cs" />
+<Compile Include="SmBuyerSupplierItemRefTemp.generated.cs">
+<DependentUpon>SmBuyerSupplierItemRefTemp.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierItemRefTemp.cs" />
+<Compile Include="SmBuyerSupplierItemRefTempCollection.generated.cs">
+<DependentUpon>SmBuyerSupplierItemRefTempCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierItemRefTempCollection.cs" />
+<Compile Include="SmBuyerSupplierLink.generated.cs">
+<DependentUpon>SmBuyerSupplierLink.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierLink.cs" />
+<Compile Include="SmBuyerSupplierLinkCollection.generated.cs">
+<DependentUpon>SmBuyerSupplierLinkCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierLinkCollection.cs" />
+<Compile Include="SmBuyerSupplierLinkRule.generated.cs">
+<DependentUpon>SmBuyerSupplierLinkRule.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierLinkRule.cs" />
+<Compile Include="SmBuyerSupplierLinkRuleCollection.generated.cs">
+<DependentUpon>SmBuyerSupplierLinkRuleCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierLinkRuleCollection.cs" />
+<Compile Include="SmBuyerSupplierRules.generated.cs">
+<DependentUpon>SmBuyerSupplierRules.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierRules.cs" />
+<Compile Include="SmBuyerSupplierRulesCollection.generated.cs">
+<DependentUpon>SmBuyerSupplierRulesCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmBuyerSupplierRulesCollection.cs" />
+<Compile Include="SmByrSuppMailConfig.generated.cs">
+<DependentUpon>SmByrSuppMailConfig.cs</DependentUpon>
+</Compile>
+<Compile Include="SmByrSuppMailConfig.cs" />
+<Compile Include="SmByrSuppMailConfigCollection.generated.cs">
+<DependentUpon>SmByrSuppMailConfigCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmByrSuppMailConfigCollection.cs" />
+<Compile Include="SmCurrency.generated.cs">
+<DependentUpon>SmCurrency.cs</DependentUpon>
+</Compile>
+<Compile Include="SmCurrency.cs" />
+<Compile Include="SmCurrencyCollection.generated.cs">
+<DependentUpon>SmCurrencyCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmCurrencyCollection.cs" />
+<Compile Include="SmCurrencyMapped.generated.cs">
+<DependentUpon>SmCurrencyMapped.cs</DependentUpon>
+</Compile>
+<Compile Include="SmCurrencyMapped.cs" />
+<Compile Include="SmCurrencyMappedCollection.generated.cs">
+<DependentUpon>SmCurrencyMappedCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmCurrencyMappedCollection.cs" />
+<Compile Include="SmDefaultRules.generated.cs">
+<DependentUpon>SmDefaultRules.cs</DependentUpon>
+</Compile>
+<Compile Include="SmDefaultRules.cs" />
+<Compile Include="SmDefaultRulesCollection.generated.cs">
+<DependentUpon>SmDefaultRulesCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmDefaultRulesCollection.cs" />
+<Compile Include="SmDocEquipment.generated.cs">
+<DependentUpon>SmDocEquipment.cs</DependentUpon>
+</Compile>
+<Compile Include="SmDocEquipment.cs" />
+<Compile Include="SmDocEquipmentCollection.generated.cs">
+<DependentUpon>SmDocEquipmentCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmDocEquipmentCollection.cs" />
+<Compile Include="SmErrorLog.generated.cs">
+<DependentUpon>SmErrorLog.cs</DependentUpon>
+</Compile>
+<Compile Include="SmErrorLog.cs" />
+<Compile Include="SmErrorLogCollection.generated.cs">
+<DependentUpon>SmErrorLogCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmErrorLogCollection.cs" />
+<Compile Include="SmEsupplierRules.generated.cs">
+<DependentUpon>SmEsupplierRules.cs</DependentUpon>
+</Compile>
+<Compile Include="SmEsupplierRules.cs" />
+<Compile Include="SmEsupplierRulesCollection.generated.cs">
+<DependentUpon>SmEsupplierRulesCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmEsupplierRulesCollection.cs" />
+<Compile Include="SmExportedQuotations.generated.cs">
+<DependentUpon>SmExportedQuotations.cs</DependentUpon>
+</Compile>
+<Compile Include="SmExportedQuotations.cs" />
+<Compile Include="SmExportedQuotationsCollection.generated.cs">
+<DependentUpon>SmExportedQuotationsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmExportedQuotationsCollection.cs" />
+<Compile Include="SmExportedQuoteItems.generated.cs">
+<DependentUpon>SmExportedQuoteItems.cs</DependentUpon>
+</Compile>
+<Compile Include="SmExportedQuoteItems.cs" />
+<Compile Include="SmExportedQuoteItemsCollection.generated.cs">
+<DependentUpon>SmExportedQuoteItemsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmExportedQuoteItemsCollection.cs" />
+<Compile Include="SmExternalUsers.generated.cs">
+<DependentUpon>SmExternalUsers.cs</DependentUpon>
+</Compile>
+<Compile Include="SmExternalUsers.cs" />
+<Compile Include="SmExternalUsersCollection.generated.cs">
+<DependentUpon>SmExternalUsersCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmExternalUsersCollection.cs" />
+<Compile Include="SmFileAudit.generated.cs">
+<DependentUpon>SmFileAudit.cs</DependentUpon>
+</Compile>
+<Compile Include="SmFileAudit.cs" />
+<Compile Include="SmFileAuditCollection.generated.cs">
+<DependentUpon>SmFileAuditCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmFileAuditCollection.cs" />
+<Compile Include="SmFileAuditOld.generated.cs">
+<DependentUpon>SmFileAuditOld.cs</DependentUpon>
+</Compile>
+<Compile Include="SmFileAuditOld.cs" />
+<Compile Include="SmFileAuditOldCollection.generated.cs">
+<DependentUpon>SmFileAuditOldCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmFileAuditOldCollection.cs" />
+<Compile Include="SmInvoiceAddrlink.generated.cs">
+<DependentUpon>SmInvoiceAddrlink.cs</DependentUpon>
+</Compile>
+<Compile Include="SmInvoiceAddrlink.cs" />
+<Compile Include="SmInvoiceAddrlinkCollection.generated.cs">
+<DependentUpon>SmInvoiceAddrlinkCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmInvoiceAddrlinkCollection.cs" />
+<Compile Include="SmItemUomMapping.generated.cs">
+<DependentUpon>SmItemUomMapping.cs</DependentUpon>
+</Compile>
+<Compile Include="SmItemUomMapping.cs" />
+<Compile Include="SmItemUomMappingCollection.generated.cs">
+<DependentUpon>SmItemUomMappingCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmItemUomMappingCollection.cs" />
+<Compile Include="SmMailDownloadLog.generated.cs">
+<DependentUpon>SmMailDownloadLog.cs</DependentUpon>
+</Compile>
+<Compile Include="SmMailDownloadLog.cs" />
+<Compile Include="SmMailDownloadLogCollection.generated.cs">
+<DependentUpon>SmMailDownloadLogCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmMailDownloadLogCollection.cs" />
+<Compile Include="SmMailTransactionLog.generated.cs">
+<DependentUpon>SmMailTransactionLog.cs</DependentUpon>
+</Compile>
+<Compile Include="SmMailTransactionLog.cs" />
+<Compile Include="SmMailTransactionLogCollection.generated.cs">
+<DependentUpon>SmMailTransactionLogCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmMailTransactionLogCollection.cs" />
+<Compile Include="SmPartunit.generated.cs">
+<DependentUpon>SmPartunit.cs</DependentUpon>
+</Compile>
+<Compile Include="SmPartunit.cs" />
+<Compile Include="SmPartunitCollection.generated.cs">
+<DependentUpon>SmPartunitCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmPartunitCollection.cs" />
+<Compile Include="SmPdfBuyerLink.generated.cs">
+<DependentUpon>SmPdfBuyerLink.cs</DependentUpon>
+</Compile>
+<Compile Include="SmPdfBuyerLink.cs" />
+<Compile Include="SmPdfBuyerLinkCollection.generated.cs">
+<DependentUpon>SmPdfBuyerLinkCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmPdfBuyerLinkCollection.cs" />
+<Compile Include="SmPdfItemMapping.generated.cs">
+<DependentUpon>SmPdfItemMapping.cs</DependentUpon>
+</Compile>
+<Compile Include="SmPdfItemMapping.cs" />
+<Compile Include="SmPdfItemMappingCollection.generated.cs">
+<DependentUpon>SmPdfItemMappingCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmPdfItemMappingCollection.cs" />
+<Compile Include="SmPdfMapping.generated.cs">
+<DependentUpon>SmPdfMapping.cs</DependentUpon>
+</Compile>
+<Compile Include="SmPdfMapping.cs" />
+<Compile Include="SmPdfMappingCollection.generated.cs">
+<DependentUpon>SmPdfMappingCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmPdfMappingCollection.cs" />
+<Compile Include="SmQuotationdetailBuyer.generated.cs">
+<DependentUpon>SmQuotationdetailBuyer.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationdetailBuyer.cs" />
+<Compile Include="SmQuotationdetailBuyerCollection.generated.cs">
+<DependentUpon>SmQuotationdetailBuyerCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationdetailBuyerCollection.cs" />
+<Compile Include="SmQuotationdetailVendor.generated.cs">
+<DependentUpon>SmQuotationdetailVendor.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationdetailVendor.cs" />
+<Compile Include="SmQuotationdetailVendorCollection.generated.cs">
+<DependentUpon>SmQuotationdetailVendorCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationdetailVendorCollection.cs" />
+<Compile Include="SmQuotationsBuyer.generated.cs">
+<DependentUpon>SmQuotationsBuyer.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationsBuyer.cs" />
+<Compile Include="SmQuotationsBuyerCollection.generated.cs">
+<DependentUpon>SmQuotationsBuyerCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationsBuyerCollection.cs" />
+<Compile Include="SmQuotationsVendor.generated.cs">
+<DependentUpon>SmQuotationsVendor.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationsVendor.cs" />
+<Compile Include="SmQuotationsVendorCollection.generated.cs">
+<DependentUpon>SmQuotationsVendorCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationsVendorCollection.cs" />
+<Compile Include="SmQuotationsVendorAddress.generated.cs">
+<DependentUpon>SmQuotationsVendorAddress.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationsVendorAddress.cs" />
+<Compile Include="SmQuotationsVendorAddressCollection.generated.cs">
+<DependentUpon>SmQuotationsVendorAddressCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmQuotationsVendorAddressCollection.cs" />
+<Compile Include="SmReqnInvoice.generated.cs">
+<DependentUpon>SmReqnInvoice.cs</DependentUpon>
+</Compile>
+<Compile Include="SmReqnInvoice.cs" />
+<Compile Include="SmReqnInvoiceCollection.generated.cs">
+<DependentUpon>SmReqnInvoiceCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmReqnInvoiceCollection.cs" />
+<Compile Include="SmReqnInvoiceItem.generated.cs">
+<DependentUpon>SmReqnInvoiceItem.cs</DependentUpon>
+</Compile>
+<Compile Include="SmReqnInvoiceItem.cs" />
+<Compile Include="SmReqnInvoiceItemCollection.generated.cs">
+<DependentUpon>SmReqnInvoiceItemCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmReqnInvoiceItemCollection.cs" />
+<Compile Include="SmSendMailAudit.generated.cs">
+<DependentUpon>SmSendMailAudit.cs</DependentUpon>
+</Compile>
+<Compile Include="SmSendMailAudit.cs" />
+<Compile Include="SmSendMailAuditCollection.generated.cs">
+<DependentUpon>SmSendMailAuditCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmSendMailAuditCollection.cs" />
+<Compile Include="SmSendMailQueue.generated.cs">
+<DependentUpon>SmSendMailQueue.cs</DependentUpon>
+</Compile>
+<Compile Include="SmSendMailQueue.cs" />
+<Compile Include="SmSendMailQueueCollection.generated.cs">
+<DependentUpon>SmSendMailQueueCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmSendMailQueueCollection.cs" />
+<Compile Include="SmShipmentDocuments.generated.cs">
+<DependentUpon>SmShipmentDocuments.cs</DependentUpon>
+</Compile>
+<Compile Include="SmShipmentDocuments.cs" />
+<Compile Include="SmShipmentDocumentsCollection.generated.cs">
+<DependentUpon>SmShipmentDocumentsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmShipmentDocumentsCollection.cs" />
+<Compile Include="SmShipmentItems.generated.cs">
+<DependentUpon>SmShipmentItems.cs</DependentUpon>
+</Compile>
+<Compile Include="SmShipmentItems.cs" />
+<Compile Include="SmShipmentItemsCollection.generated.cs">
+<DependentUpon>SmShipmentItemsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmShipmentItemsCollection.cs" />
+<Compile Include="SmXlsBuyerLink.generated.cs">
+<DependentUpon>SmXlsBuyerLink.cs</DependentUpon>
+</Compile>
+<Compile Include="SmXlsBuyerLink.cs" />
+<Compile Include="SmXlsBuyerLinkCollection.generated.cs">
+<DependentUpon>SmXlsBuyerLinkCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmXlsBuyerLinkCollection.cs" />
+<Compile Include="SmXlsBuyerMapping.generated.cs">
+<DependentUpon>SmXlsBuyerMapping.cs</DependentUpon>
+</Compile>
+<Compile Include="SmXlsBuyerMapping.cs" />
+<Compile Include="SmXlsBuyerMappingCollection.generated.cs">
+<DependentUpon>SmXlsBuyerMappingCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmXlsBuyerMappingCollection.cs" />
+<Compile Include="SmXlsGroupMapping.generated.cs">
+<DependentUpon>SmXlsGroupMapping.cs</DependentUpon>
+</Compile>
+<Compile Include="SmXlsGroupMapping.cs" />
+<Compile Include="SmXlsGroupMappingCollection.generated.cs">
+<DependentUpon>SmXlsGroupMappingCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmXlsGroupMappingCollection.cs" />
+<Compile Include="SmXlsSections.generated.cs">
+<DependentUpon>SmXlsSections.cs</DependentUpon>
+</Compile>
+<Compile Include="SmXlsSections.cs" />
+<Compile Include="SmXlsSectionsCollection.generated.cs">
+<DependentUpon>SmXlsSectionsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SmXlsSectionsCollection.cs" />
+<Compile Include="Sysdiagrams.generated.cs">
+<DependentUpon>Sysdiagrams.cs</DependentUpon>
+</Compile>
+<Compile Include="Sysdiagrams.cs" />
+<Compile Include="SysdiagramsCollection.generated.cs">
+<DependentUpon>SysdiagramsCollection.cs</DependentUpon>
+</Compile>
+<Compile Include="SysdiagramsCollection.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="Views.generated.cs">
+<DependentUpon>Views.cs</DependentUpon>
+</Compile>
+<Compile Include="Views.cs" />
+<Compile Include="GlobalTools.generated.cs">
+<DependentUpon>GlobalTools.cs</DependentUpon>
+</Compile>
+<Compile Include="GlobalTools.cs" />
+</ItemGroup>
+
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8740225-1" Identifier="UNOC" Recipient="SM0215_NEKOPDF" Sender="V10107" PreparationDate="2019-Mar-25" PreparationTime="22:02" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3614" LesRecordID="11536941" LesLinkID="104385" ParentRecordID="11536367" MTML_DOCID="B938EDFB-B1A6-4558-9960-5B86E6BF2F96">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-RKE-034-D" MessageNumber="V-19-RKE-034-D" LineItemCount="18" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" DepartmentCode="DECK" LeadTimeDays="0" OriginalFile="20190325144215-QUO-V-19-RKE-034-D-1.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201903251602" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201905242202" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>STORE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-RKE-034-D" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8740225-1" />
+      <Party Qualifier="UD" Identification="9784362" Name="RIKKE">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="DEE SHACKLE SCREW PIN, STAINLESS STEEL PROOF LOAD: 1,20 TON; SAFE WORKING LOAD: 0,60 TON; SIZE: DIM. 12X12X24X48 MM; " MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="20176416" SystemItemNo="1" MonetaryAmount="51.30" Identification="233505" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.13" />
+        <Comments Qualifier="LIN">
+          <value>DEE SHACKLE SCREW PIN, STAINLESS STEEL PROOF LOAD: 1,20 TON; SAFE WORKING LOAD: 0,60 TON; SIZE: DIM. 12X12X24X48 MM; </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="ROPE LADDER SPREADER 1800MM REPLACEMENT TYPE  WOOD-FLAT" MeasureUnitQualifier="PCE" Quantity="3" TypeCode="BP" OriginatingSystemRef="20176417" SystemItemNo="2" MonetaryAmount="91.41" Identification="232039" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="30.47" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="30.47" />
+        <Comments Qualifier="LIN">
+          <value>ROPE LADDER SPREADER 1800MM REPLACEMENT TYPE  WOOD-FLAT</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="SPLIT DISTANCE PIECE NYLON" MeasureUnitQualifier="PCE" Quantity="12" TypeCode="BP" OriginatingSystemRef="20176418" SystemItemNo="3" MonetaryAmount="26.28" Identification="232042" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.19" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.19" />
+        <Comments Qualifier="LIN">
+          <value>SPLIT DISTANCE PIECE NYLON</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="SPARE NEEDLE FOR JET CHISEL, 3X180MM 100 S " MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="20176419" SystemItemNo="4" MonetaryAmount="11.66" Identification="590468" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.83" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.83" />
+        <Comments Qualifier="LIN">
+          <value>SPARE NEEDLE FOR JET CHISEL, 3X180MM 100 S </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="WHEEL FREE SWIVEL TYPE 130 MM FOR PLATFORM TRUCK " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20176420" SystemItemNo="5" MonetaryAmount="7.96" Identification="617167" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.98" />
+        <Comments Qualifier="LIN">
+          <value>WHEEL FREE SWIVEL TYPE 130 MM FOR PLATFORM TRUCK </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="WHEEL FIXED TYPE 130 MM FOR PLATFORM TRUCK " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20176421" SystemItemNo="6" MonetaryAmount="6.12" Identification="617175" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.06" />
+        <Comments Qualifier="LIN">
+          <value>WHEEL FIXED TYPE 130 MM FOR PLATFORM TRUCK </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="CAP STAINLESS STEEL BSP 1 1/4&quot;" MeasureUnitQualifier="PCE" Quantity="5" TypeCode="BP" OriginatingSystemRef="20176422" SystemItemNo="7" MonetaryAmount="18.70" Identification="732542" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.74" />
+        <Comments Qualifier="LIN">
+          <value>CAP STAINLESS STEEL BSP 1 1/4"</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="CANVAS COTTON GREEN, WATER-PROOF NO.4 915MM WIDTH " MeasureUnitQualifier="MTR" Quantity="100" TypeCode="BP" OriginatingSystemRef="20176423" SystemItemNo="8" MonetaryAmount="431.00" Identification="232211" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.31" />
+        <Comments Qualifier="LIN">
+          <value>CANVAS COTTON GREEN, WATER-PROOF NO.4 915MM WIDTH </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="PLASTIC TRANSPARENT HOSE SIZE 19 X 23MM - PRICE PER METER - NO STOCK " MeasureUnitQualifier="PCE" Quantity="100" TypeCode="BP" OriginatingSystemRef="20176424" SystemItemNo="9" MonetaryAmount="99.00" Identification="350234" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.99" />
+        <Comments Qualifier="LIN">
+          <value>PLASTIC TRANSPARENT HOSE SIZE 19 X 23MM - PRICE PER METER - NO STOCK </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="ROPE LADDER STEP 525MM WOOD-FLAT" MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="20176425" SystemItemNo="10" MonetaryAmount="49.26" Identification="232035" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.21" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.21" />
+        <Comments Qualifier="LIN">
+          <value>ROPE LADDER STEP 525MM WOOD-FLAT</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="FIRE HOSE 52 MM 15 BAR 20 MTR -10C TO +60C MED RED 82 MM" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20176426" SystemItemNo="11" MonetaryAmount="150.98" Identification="333733" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="75.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="75.49" />
+        <Comments Qualifier="LIN">
+          <value>FIRE HOSE 52 MM 15 BAR 20 MTR -10C TO +60C MED RED 82 MM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="RAT GUARD 600MM " MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="20176427" SystemItemNo="12" MonetaryAmount="34.32" Identification="232362" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.72" />
+        <Comments Qualifier="LIN">
+          <value>RAT GUARD 600MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="ROPE LADDER STEP 525MM RUBBER  WITH HEARTS" MeasureUnitQualifier="PCE" Quantity="3" TypeCode="BP" OriginatingSystemRef="20176428" SystemItemNo="13" MonetaryAmount="42.18" Identification="232037" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.06" />
+        <Comments Qualifier="LIN">
+          <value>ROPE LADDER STEP 525MM RUBBER  WITH HEARTS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="HEAD LAMP LED RECHARGEABLE WATERPROOF 110/240V  HEAVY DUTY TYPE INC. BATTERY " MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="20176429" SystemItemNo="14" MonetaryAmount="141.00" Identification="330618" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="23.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="23.5" />
+        <Comments Qualifier="LIN">
+          <value>HEAD LAMP LED RECHARGEABLE WATERPROOF 110/240V  HEAVY DUTY TYPE INC. BATTERY </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="TUBE BICYCLE INTERIOR USED " MeasureUnitQualifier="PCE" Quantity="50" TypeCode="BP" OriginatingSystemRef="20176430" SystemItemNo="15" MonetaryAmount="40.50" Identification="232422" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.81" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.81" />
+        <Comments Qualifier="LIN">
+          <value>TUBE BICYCLE INTERIOR USED </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="FLASHLIGHT LED RECHARGEABLE, AC110/220V CAP 300MAH INC. ADAPTOR " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20176431" SystemItemNo="16" MonetaryAmount="7.18" Identification="792246" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.18" />
+        <Comments Qualifier="LIN">
+          <value>FLASHLIGHT LED RECHARGEABLE, AC110/220V CAP 300MAH INC. ADAPTOR </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="SCUPPER PLUG 45/65MM PLUG DIAM STAINLESS STEEL " MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="20176432" SystemItemNo="17" MonetaryAmount="30.84" Identification="232481" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.14" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.14" />
+        <Comments Qualifier="LIN">
+          <value>SCUPPER PLUG 45/65MM PLUG DIAM STAINLESS STEEL </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="INSECTICIDE SPRAY FLYING  400 ML, P/ST" MeasureUnitQualifier="cs" Quantity="2" TypeCode="BP" OriginatingSystemRef="20176433" SystemItemNo="18" MonetaryAmount="6.90" Identification="550625" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.45" />
+        <Comments Qualifier="LIN">
+          <value>INSECTICIDE SPRAY FLYING  400 ML, P/ST</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1246.590" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1246.590" />
+    </Quote>
+  </Interchange>
+</MTML>

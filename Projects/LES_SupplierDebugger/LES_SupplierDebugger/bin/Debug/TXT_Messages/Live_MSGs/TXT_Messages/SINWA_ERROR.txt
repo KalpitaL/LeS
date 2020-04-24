@@ -1,0 +1,31 @@
+Alert from eSupplier ...
+
+ 
+
+Message received          : #Msg_DATE#
+
+From                      : Sinwa Singapore Pte Ltd
+
+Senders filename          : #FILENAME#
+
+Format/message type       : TXT - ERROR
+
+Document type             : #DOC_TYPE#
+
+Receiver of message       : eSupplier
+
+Message reference         : #REF_NO#
+
+Error description:
+
+ #FILENAME# has failed to import into eSupplier and hence not delivered to the buyer due to the following errors:
+
+ #ERROR_DESC#
+
+
+The quote file is enclosed for further investigations. It is advised that this should be verified and in case it is 
+necessary to submit the quote urgently, then this should be handled manually directly by the supplier.
+
+
+Notification from eSupplier Portal
+

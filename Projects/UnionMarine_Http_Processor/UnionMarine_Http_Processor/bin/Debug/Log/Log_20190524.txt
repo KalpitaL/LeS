@@ -1,0 +1,154 @@
+24/05/2019 16:51:46 ================24/05/2019 16:51:46================
+24/05/2019 16:51:46 Union Marine HTTP processor started
+24/05/2019 16:51:49 Union Marine login process started for User 1220130196
+24/05/2019 16:51:51 Union Marine has login Successfully.
+24/05/2019 16:51:51 Processing Quote File MTML_QUOTE_V-19-MNM-038-D_SM0215_V10107_24051918505392.xml started.
+24/05/2019 16:51:51 Search records from the List
+24/05/2019 16:51:58 Download RFQ files for VRNO V-19-MNM-038-D.
+24/05/2019 16:52:00 RFQ '20190524123011-QUO-V-19-MNM-038-D-1.xml' for VRNO 'V-19-MNM-038-D' downloaded successfully.
+24/05/2019 16:52:03 Processing Quote file for VRNO V-19-MNM-038-D.
+24/05/2019 16:52:08 Processing Quote Header and Items  for VRNO V-19-MNM-038-D.
+24/05/2019 16:52:27 Quotation for VRNO V-19-MNM-038-D updated successfully.
+24/05/2019 16:52:59 Processing Quote File ended.
+24/05/2019 16:52:59 ---------------------------------------
+24/05/2019 16:53:04 Union Marine HTTP processor stopped
+24/05/2019 16:53:04 ====================================================
+24/05/2019 16:53:09 ================24/05/2019 16:53:09================
+24/05/2019 16:53:09 Union Marine HTTP processor started
+24/05/2019 16:53:12 Union Marine login process started for User 1220130196
+24/05/2019 16:53:13 Union Marine has login Successfully.
+24/05/2019 16:53:14 Processing Quote File MTML_QUOTE_V-19-MNM-038-D_SM0215_V10107_24051918505392.xml started.
+24/05/2019 16:53:14 Search records from the List
+24/05/2019 16:53:17 File is already downloaded for VRNO V-19-MNM-038-D.
+24/05/2019 16:53:36 Processing Quote file for VRNO V-19-MNM-038-D.
+24/05/2019 16:53:37 Processing Quote Header and Items  for VRNO V-19-MNM-038-D.
+24/05/2019 16:53:45 Quotation for VRNO V-19-MNM-038-D updated successfully.
+24/05/2019 16:53:51 Processing Quote File ended.
+24/05/2019 16:53:51 ---------------------------------------
+24/05/2019 16:53:51 Union Marine HTTP processor stopped
+24/05/2019 16:53:51 ====================================================
+24/05/2019 17:08:20 ================24/05/2019 17:08:20================
+24/05/2019 17:08:20 Union Marine HTTP processor started
+24/05/2019 17:08:22 Union Marine login process started for User 1220130196
+24/05/2019 17:08:24 Union Marine has login Successfully.
+24/05/2019 17:08:24 Processing Quote File MTML_QUOTE_V-19-MNM-038-D_SM0215_V10107_24051918505392.xml started.
+24/05/2019 17:08:24 Search records from the List
+24/05/2019 17:10:08 File is already downloaded for VRNO V-19-MNM-038-D.
+24/05/2019 17:10:32 ================24/05/2019 17:10:32================
+24/05/2019 17:10:32 Union Marine HTTP processor started
+24/05/2019 17:10:34 Union Marine login process started for User 1220130196
+24/05/2019 17:10:36 Union Marine has login Successfully.
+24/05/2019 17:10:36 Processing Quote File MTML_QUOTE_V-19-MNM-038-D_SM0215_V10107_24051918505392.xml started.
+24/05/2019 17:10:36 Search records from the List
+24/05/2019 17:10:41 File is already downloaded for VRNO V-19-MNM-038-D.
+24/05/2019 17:10:44 Processing Quote file for VRNO V-19-MNM-038-D.
+24/05/2019 17:10:46 Processing Quote Header and Items  for VRNO V-19-MNM-038-D.
+24/05/2019 17:10:50 Quotation for VRNO V-19-MNM-038-D updated successfully.
+24/05/2019 17:10:55 Processing Quote File ended.
+24/05/2019 17:10:55 ---------------------------------------
+24/05/2019 17:10:55 Processing Quote File MTML_QUOTE_V-19-MNM-043-D_SM0215_V10107_24051918505433.xml started.
+24/05/2019 17:10:55 Search records from the List
+24/05/2019 17:12:25 ================24/05/2019 17:12:25================
+24/05/2019 17:12:25 Union Marine HTTP processor started
+24/05/2019 17:12:27 Union Marine login process started for User 1220130196
+24/05/2019 17:12:29 Union Marine has login Successfully.
+24/05/2019 17:12:29 Processing Quote File MTML_QUOTE_V-19-MNM-043-D_SM0215_V10107_24051918505433.xml started.
+24/05/2019 17:12:29 Search records from the List
+24/05/2019 17:13:58 ================24/05/2019 17:13:58================
+24/05/2019 17:13:58 Union Marine HTTP processor started
+24/05/2019 17:14:07 ================24/05/2019 17:14:07================
+24/05/2019 17:14:07 Union Marine HTTP processor started
+24/05/2019 17:14:09 Union Marine login process started for User 1220130196
+24/05/2019 17:14:11 Union Marine has login Successfully.
+24/05/2019 17:14:11 Processing Quote File MTML_QUOTE_V-19-MNM-043-D_SM0215_V10107_24051918505433.xml started.
+24/05/2019 17:14:11 Search records from the List
+24/05/2019 17:14:31 Download RFQ files for VRNO V-19-MNM-043-D.
+24/05/2019 17:14:33 RFQ '20190524123011-QUO-V-19-MNM-043-D-1.xml' for VRNO 'V-19-MNM-043-D' downloaded successfully.
+24/05/2019 17:14:35 Processing Quote file for VRNO V-19-MNM-043-D.
+24/05/2019 17:14:35 Processing Quote Header and Items  for VRNO V-19-MNM-043-D.
+24/05/2019 17:14:39 Quotation for VRNO V-19-MNM-043-D updated successfully.
+24/05/2019 17:16:12 Processing Quote File ended.
+24/05/2019 17:16:12 ---------------------------------------
+24/05/2019 17:16:12 Union Marine HTTP processor stopped
+24/05/2019 17:16:12 ====================================================
+24/05/2019 17:16:25 ================24/05/2019 17:16:25================
+24/05/2019 17:16:25 Union Marine HTTP processor started
+24/05/2019 17:16:27 Union Marine login process started for User 1220130196
+24/05/2019 17:16:29 Union Marine has login Successfully.
+24/05/2019 17:16:29 Processing Quote File MTML_QUOTE_V-19-MNM-038-D_SM0215_V10107_24051918505392.xml started.
+24/05/2019 17:16:29 Search records from the List
+24/05/2019 17:16:30 File is already downloaded for VRNO V-19-MNM-038-D.
+24/05/2019 17:16:30 Processing Quote file for VRNO V-19-MNM-038-D.
+24/05/2019 17:16:31 Processing Quote Header and Items  for VRNO V-19-MNM-038-D.
+24/05/2019 17:16:32 Quotation for VRNO V-19-MNM-038-D updated successfully.
+24/05/2019 17:16:33 Processing Quote File ended.
+24/05/2019 17:16:33 ---------------------------------------
+24/05/2019 17:16:33 Processing Quote File MTML_QUOTE_V-19-MNM-043-D_SM0215_V10107_24051918505433.xml started.
+24/05/2019 17:16:33 Search records from the List
+24/05/2019 17:16:34 File is already downloaded for VRNO V-19-MNM-043-D.
+24/05/2019 17:16:34 Processing Quote file for VRNO V-19-MNM-043-D.
+24/05/2019 17:16:35 Processing Quote Header and Items  for VRNO V-19-MNM-043-D.
+24/05/2019 17:16:35 Quotation for VRNO V-19-MNM-043-D updated successfully.
+24/05/2019 17:16:37 Processing Quote File ended.
+24/05/2019 17:16:37 ---------------------------------------
+24/05/2019 17:16:37 Union Marine HTTP processor stopped
+24/05/2019 17:16:37 ====================================================
+24/05/2019 17:19:13 ================24/05/2019 17:19:13================
+24/05/2019 17:19:13 Union Marine HTTP processor started
+24/05/2019 17:19:15 Union Marine login process started for User 1220130196
+24/05/2019 17:19:17 Union Marine has login Successfully.
+24/05/2019 17:19:17 Processing Quote File MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml started.
+24/05/2019 17:19:17 Search records from the List
+24/05/2019 17:19:18 File is already downloaded for VRNO V-19-HGB-021-D.
+24/05/2019 17:19:18 Processing Quote File ended.
+24/05/2019 17:19:18 ---------------------------------------
+24/05/2019 17:19:18 Processing Quote File MTML_QUOTE_V-19-HGB-030-E_SM0215_V10107_29041918425171.xml started.
+24/05/2019 17:19:18 Search records from the List
+24/05/2019 17:19:20 File is already downloaded for VRNO V-19-HGB-030-E.
+24/05/2019 17:19:20 Quote is already updated for VRNO V-19-HGB-030-E.
+24/05/2019 17:19:20 Processing Quote File ended.
+24/05/2019 17:19:20 ---------------------------------------
+24/05/2019 17:19:20 Processing Quote File MTML_QUOTE_V-19-LLB-056-S_SM0215_V10107_25041922585077.xml started.
+24/05/2019 17:19:20 Search records from the List
+24/05/2019 17:19:20 File is already downloaded for VRNO V-19-LLB-056-S.
+24/05/2019 17:19:20 Processing Quote file for VRNO V-19-LLB-056-S.
+24/05/2019 17:19:21 Processing Quote Header and Items  for VRNO V-19-LLB-056-S.
+24/05/2019 17:19:22 Quotation for VRNO V-19-LLB-056-S has zero Total  and is declined.
+24/05/2019 17:19:22 Processing Quote File ended.
+24/05/2019 17:19:22 ---------------------------------------
+24/05/2019 17:19:22 Processing Quote File MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml started.
+24/05/2019 17:19:22 Search records from the List
+24/05/2019 17:19:24 File is already downloaded for VRNO V-19-LNB-020-G.
+24/05/2019 17:19:24 Quote is already updated for VRNO V-19-LNB-020-G.
+24/05/2019 17:19:24 Processing Quote File ended.
+24/05/2019 17:19:24 ---------------------------------------
+24/05/2019 17:19:24 Processing Quote File MTML_QUOTE_V-19-LNB-020-O_SM0215_V10107_25041918185026.xml started.
+24/05/2019 17:19:24 Search records from the List
+24/05/2019 17:19:25 File is already downloaded for VRNO V-19-LNB-020-O.
+24/05/2019 17:19:25 Quote is already updated for VRNO V-19-LNB-020-O.
+24/05/2019 17:19:25 Processing Quote File ended.
+24/05/2019 17:19:25 ---------------------------------------
+24/05/2019 17:19:25 Processing Quote File MTML_QUOTE_V-19-MNM-030-D_SM0215_V10107_09051920265035.xml started.
+24/05/2019 17:19:25 Search records from the List
+24/05/2019 17:19:26 File is already downloaded for VRNO V-19-MNM-030-D.
+24/05/2019 17:19:26 Quote is already updated for VRNO V-19-MNM-030-D.
+24/05/2019 17:19:26 Processing Quote File ended.
+24/05/2019 17:19:26 ---------------------------------------
+24/05/2019 17:19:26 Processing Quote File MTML_QUOTE_V-19-MNM-038-D_SM0215_V10107_24051918505392.xml started.
+24/05/2019 17:19:26 Search records from the List
+24/05/2019 17:19:27 File is already downloaded for VRNO V-19-MNM-038-D.
+24/05/2019 17:19:27 Processing Quote file for VRNO V-19-MNM-038-D.
+24/05/2019 17:19:28 Processing Quote Header and Items  for VRNO V-19-MNM-038-D.
+24/05/2019 17:19:29 Quotation for VRNO V-19-MNM-038-D updated successfully.
+24/05/2019 17:19:29 Processing Quote File ended.
+24/05/2019 17:19:29 ---------------------------------------
+24/05/2019 17:19:29 Processing Quote File MTML_QUOTE_V-19-MNM-043-D_SM0215_V10107_24051918505433.xml started.
+24/05/2019 17:19:29 Search records from the List
+24/05/2019 17:19:31 File is already downloaded for VRNO V-19-MNM-043-D.
+24/05/2019 17:19:31 Processing Quote file for VRNO V-19-MNM-043-D.
+24/05/2019 17:19:32 Processing Quote Header and Items  for VRNO V-19-MNM-043-D.
+24/05/2019 17:19:32 Quotation for VRNO V-19-MNM-043-D updated successfully.
+24/05/2019 17:19:33 Processing Quote File ended.
+24/05/2019 17:19:33 ---------------------------------------
+24/05/2019 17:19:33 Union Marine HTTP processor stopped
+24/05/2019 17:19:33 ====================================================

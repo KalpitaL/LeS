@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="596071" Identifier="UNOC" Recipient="B60543_MLPDF" Sender="V10001" PreparationDate="2018-Aug-01" PreparationTime="15:10" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2880" LesRecordID="11262919" LesLinkID="103884" ParentRecordID="11261476" MTML_DOCID="98F12255-3F7C-4844-B433-B6157837A761">
+    <Quote MessageReferenceNumber="RequestForQuote : V-18-MNM-084-D" MessageNumber="V-18-MNM-084-D" LineItemCount="1" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" TransportModeCode="_3" DepartmentCode="Deck" LeadTimeDays="6" OriginalFile="OrderQuotation-596071_180801_150615888.pdf" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201808011510" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201808080000" />
+      <DateTimePeriod Qualifier="_132" FormatQualifier="_203" Value="201808080000" />
+      <Comments Qualifier="SUR">
+        <value>Thanks for your inquiry. We're pleased to offer our quotation for your consideration.
+
+Item 1: We offer our EDP# 909001, SODIUM HYPOCHLORITE POTABLE GRADE
+Item can be locally sourced with lead time 4-5 working days . Standard packaging is 20 liters per drum.
+***Non-standard items cannot be returned once delivered. 
+***Non-standard items that are on order from supplier cannot be cancelled once confirmation has been received from supplier.
+
+Item quoted is ex-stock subject to prior sales. 
+
+Delivery Charge (alongside) @  Port SINGAPORE
+Delivery Lead time: 1-2  working days
+Subject to additional delivery charge, hire of barge/crane, custom fee, etc.
+
+Please allow another 1-2 working days’ notice for delivery arrangement.
+
+Please note: Vessel is now under credit block. All outstanding payments need to be settle in order to release for delivery.
+
+All deliveries in Singapore are subject to 7% Goods and Services Tax (GST) under local regulation. This GST could be waived by providing Vessel Stamps on D/O or any other relevant export documentation within 14 days.
+
+We look forward to receiving your earliest order confirmation.
+
+Best Regards,
+Edlyn Tan
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 2 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 0 USD
+ Item Total : 3820.51 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-18-MNM-084-D" />
+      <Reference Qualifier="AAG" ReferenceNumber="596071" />
+      <Party Qualifier="UD" Identification="9801706" Name="MONA MANX">
+        <PartyLocation Qualifier="ZUC" Berth="SINGAPORE" Port="SGSIN" />
+        <Contact />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="65 6395 4545" />
+          <CommunicationMethod Qualifier="FX" Number="65 6872 6319" />
+        </Contact>
+        <StreetAddress>128376</StreetAddress>
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="EM" Number="purchasing@ummsportal.com" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="Cement Remover" MeasureUnitQualifier="LTR" Quantity="600" TypeCode="BP" OriginatingSystemRef="17780202" SystemItemNo="1" MonetaryAmount="3820.51" Identification="909001" DeliveryTime="6" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.3675" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.3675" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="3820.512" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="3820.512" />
+      <MonetaryAmount Qualifier="_90" Value="3820.512" />
+    </Quote>
+  </Interchange>
+</MTML>

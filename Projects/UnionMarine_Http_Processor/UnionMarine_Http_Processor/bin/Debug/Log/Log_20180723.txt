@@ -1,0 +1,8 @@
+23-07-2018 17:03:15 ================23-07-2018 17:03:15================
+23-07-2018 17:03:15 Union Marine HTTP processor started
+23-07-2018 17:04:53 ================23-07-2018 17:04:53================
+23-07-2018 17:04:53 Union Marine HTTP processor started
+23-07-2018 17:05:54 Union Marine has Login Successfully.
+23-07-2018 17:06:27 Download RFQ files for VRNO V-18-SLM-007-E.
+23-07-2018 17:06:36 RFQ 'RFQ_V-18-SLM-007-E_23072018170627.pdf' for VRNO 'V-18-SLM-007-E' downloaded successfully.
+23-07-2018 17:07:27 Processing Quote file for VRNO V-18-SLM-007-E.

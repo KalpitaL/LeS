@@ -1,0 +1,15 @@
+﻿ table{margin: 0 auto;width: 100%;clear: both;border-collapse: collapse;table-layout: fixed;}
+        table.dataTable tbody th, table.dataTable tbody td {padding-right: 3px !important;   }       
+        .table td, .table th,.table thead tr th {  font-size: 8pt !important;  font-family:Helvetica;  white-space:nowrap;   }
+        .block {  display: block;  }
+        /*.gridHeader { border-color: #BFBFBF !important; background-image: none !important;  background-color: #808080 !important;  color: #FAFCFB !important;   font-size:8pt;   font-family:Helvetica; }#7d7a7a*/        
+        .portlet > .portlet-title > .caption {  font-size:10pt;  font-family:Helvetica; }
+         .portlet > .portlet-title { min-height:30px;}
+        .portlet.box > .portlet-body { background-color: #fff; padding: 8px; font-size:10pt;  font-family:Helvetica; max-width:100%; }
+        .hide_column {  display: none;}
+        .btn-icon-only { height: 20px; width: 20px; text-align: center; padding-left: 0;  padding-right: 0; }
+        /*.portlet.box > .portlet-title { border-bottom: 0;  padding: 0 10px;  margin-bottom: 0; color: #fff; }*/     
+        .td-backgroundcolor{  background-color:red;}  
+        .dt-center { text-align: center; } 
+        /*table.dataTable tr:nth-child(odd)  { background-color: #f6f5e1;  }*/
+      a.disabled >i{ pointer-events: none;cursor: default;}

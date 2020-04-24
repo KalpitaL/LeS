@@ -1,0 +1,178 @@
+08/03/2019 10:06:55 ================08/03/2019 10:06:55================
+08/03/2019 10:06:55 Union Marine HTTP processor started
+08/03/2019 10:06:58 Union Marine has login Successfully.
+08/03/2019 10:07:00 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 10:07:02 RFQ 'RFQ_V-18-MKM-166-E_08032019100700.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 10:11:33 ================08/03/2019 10:11:33================
+08/03/2019 10:11:33 Union Marine HTTP processor started
+08/03/2019 10:11:36 Union Marine has login Successfully.
+08/03/2019 10:12:00 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 10:14:55 RFQ 'RFQ_V-18-MKM-166-E_08032019101156.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 10:26:08 ================08/03/2019 10:26:08================
+08/03/2019 10:26:08 Union Marine HTTP processor started
+08/03/2019 10:26:12 Union Marine has login Successfully.
+08/03/2019 10:26:55 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 10:27:02 RFQ 'RFQ_V-18-MKM-166-E_08032019102655.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 10:32:28 ================08/03/2019 10:32:28================
+08/03/2019 10:32:28 Union Marine HTTP processor started
+08/03/2019 10:32:57 ================08/03/2019 10:32:57================
+08/03/2019 10:32:57 Union Marine HTTP processor started
+08/03/2019 10:33:00 Union Marine has login Successfully.
+08/03/2019 10:33:01 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 10:33:06 RFQ 'RFQ_V-18-MKM-166-E_08032019103301.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 10:34:51 ================08/03/2019 10:34:51================
+08/03/2019 10:34:51 Union Marine HTTP processor started
+08/03/2019 10:34:53 Union Marine has login Successfully.
+08/03/2019 10:34:55 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 10:34:59 RFQ 'RFQ_V-18-MKM-166-E_08032019103455.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 10:41:45 ================08/03/2019 10:41:45================
+08/03/2019 10:41:45 Union Marine HTTP processor started
+08/03/2019 10:44:39 ================08/03/2019 10:44:39================
+08/03/2019 10:44:39 Union Marine HTTP processor started
+08/03/2019 10:44:41 Union Marine has login Successfully.
+08/03/2019 10:44:43 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 10:44:48 RFQ 'RFQ_V-18-MKM-166-E_08032019104443.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 10:44:51 Processing Quote file for VRNO V-18-MKM-166-E.
+08/03/2019 10:45:18 Union Marine HTTP processor stopped
+08/03/2019 10:45:18 ====================================================
+08/03/2019 11:19:01 ================08/03/2019 11:19:01================
+08/03/2019 11:19:01 Union Marine HTTP processor started
+08/03/2019 11:19:04 Union Marine has login Successfully.
+08/03/2019 11:19:06 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 11:19:08 RFQ 'RFQ_V-18-MKM-166-E.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 11:20:53 ================08/03/2019 11:20:53================
+08/03/2019 11:20:53 Union Marine HTTP processor started
+08/03/2019 11:20:56 Union Marine has login Successfully.
+08/03/2019 11:20:59 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 11:21:01 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 11:26:23 ================08/03/2019 11:26:23================
+08/03/2019 11:26:23 Union Marine HTTP processor started
+08/03/2019 11:26:27 Union Marine has login Successfully.
+08/03/2019 11:26:29 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 11:26:30 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 11:36:22 ================08/03/2019 11:36:22================
+08/03/2019 11:36:22 Union Marine HTTP processor started
+08/03/2019 11:36:25 Union Marine has login Successfully.
+08/03/2019 11:36:27 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 11:36:28 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 11:37:15 ================08/03/2019 11:37:15================
+08/03/2019 11:37:15 Union Marine HTTP processor started
+08/03/2019 11:37:18 Union Marine has login Successfully.
+08/03/2019 11:37:20 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 11:37:21 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 11:39:52 ================08/03/2019 11:39:52================
+08/03/2019 11:39:52 Union Marine HTTP processor started
+08/03/2019 11:39:55 Union Marine has login Successfully.
+08/03/2019 11:39:58 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 11:40:00 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 11:46:38 ================08/03/2019 11:46:38================
+08/03/2019 11:46:38 Union Marine HTTP processor started
+08/03/2019 11:46:41 Union Marine has login Successfully.
+08/03/2019 11:46:43 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 11:46:44 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 11:49:57 ================08/03/2019 11:49:57================
+08/03/2019 11:49:57 Union Marine HTTP processor started
+08/03/2019 11:50:00 Union Marine has login Successfully.
+08/03/2019 11:50:02 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 11:50:03 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 12:00:32 ================08/03/2019 12:00:32================
+08/03/2019 12:00:32 Union Marine HTTP processor started
+08/03/2019 12:00:35 Union Marine has login Successfully.
+08/03/2019 12:00:37 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 12:00:38 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 12:02:24 ================08/03/2019 12:02:24================
+08/03/2019 12:02:24 Union Marine HTTP processor started
+08/03/2019 12:02:27 Union Marine has login Successfully.
+08/03/2019 12:02:29 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 12:02:31 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 12:04:33 ================08/03/2019 12:04:33================
+08/03/2019 12:04:33 Union Marine HTTP processor started
+08/03/2019 12:04:36 Union Marine has login Successfully.
+08/03/2019 12:04:38 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 12:04:40 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 12:05:22 Processing Quote file for VRNO V-18-MKM-166-E.
+08/03/2019 12:08:53 ================08/03/2019 12:08:53================
+08/03/2019 12:08:53 Union Marine HTTP processor started
+08/03/2019 12:08:56 Union Marine has login Successfully.
+08/03/2019 12:08:59 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 12:09:01 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 12:09:07 Processing Quote file for VRNO V-18-MKM-166-E.
+08/03/2019 12:10:22 ================08/03/2019 12:10:22================
+08/03/2019 12:10:22 Union Marine HTTP processor started
+08/03/2019 12:10:25 Union Marine has login Successfully.
+08/03/2019 12:10:28 Download RFQ files for VRNO V-18-MKM-166-E.
+08/03/2019 12:10:30 RFQ 'OrderQuotation-5133776_190307_194338457.pdf' for VRNO 'V-18-MKM-166-E' downloaded successfully.
+08/03/2019 12:10:32 Processing Quote file for VRNO V-18-MKM-166-E.
+08/03/2019 16:59:57 ================08/03/2019 16:59:57================
+08/03/2019 16:59:57 Union Marine HTTP processor started
+08/03/2019 17:00:45 Union Marine login process started for User 0119701378
+08/03/2019 17:01:04 Union Marine has login Successfully.
+08/03/2019 17:01:07 Search records from the List
+08/03/2019 17:01:19 Filter the List
+08/03/2019 17:01:27 Download RFQ files for VRNO V-18-SLM-091-E.
+08/03/2019 17:01:51 RFQ 'OrderQuotation-5134193_190308_181336418.pdf' for VRNO 'V-18-SLM-091-E' downloaded successfully.
+08/03/2019 17:02:29 Processing Quote file for VRNO V-18-SLM-091-E.
+08/03/2019 17:02:50 Processing Quote Header and Items  for VRNO V-18-SLM-091-E.
+08/03/2019 17:05:16 ================08/03/2019 17:05:16================
+08/03/2019 17:05:16 Union Marine HTTP processor started
+08/03/2019 17:05:34 Union Marine login process started for User 0119701378
+08/03/2019 17:05:36 Union Marine has login Successfully.
+08/03/2019 17:05:36 Search records from the List
+08/03/2019 17:05:38 Filter the List
+08/03/2019 17:05:42 Download RFQ files for VRNO V-18-SLM-091-E.
+08/03/2019 17:05:52 RFQ 'OrderQuotation-5134193_190308_181336418.pdf' for VRNO 'V-18-SLM-091-E' downloaded successfully.
+08/03/2019 17:05:56 Processing Quote file for VRNO V-18-SLM-091-E.
+08/03/2019 17:06:01 Processing Quote Header and Items  for VRNO V-18-SLM-091-E.
+08/03/2019 17:30:50 ================08/03/2019 17:30:50================
+08/03/2019 17:30:50 Union Marine HTTP processor started
+08/03/2019 17:30:52 Union Marine login process started for User 0119701378
+08/03/2019 17:30:54 Union Marine has login Successfully.
+08/03/2019 17:30:54 Search records from the List
+08/03/2019 17:30:55 Filter the List
+08/03/2019 17:30:55 Download RFQ files for VRNO V-18-SLM-091-E.
+08/03/2019 17:30:58 RFQ 'OrderQuotation-5134193_190308_181336418.pdf' for VRNO 'V-18-SLM-091-E' downloaded successfully.
+08/03/2019 17:31:00 Processing Quote file for VRNO V-18-SLM-091-E.
+08/03/2019 17:31:01 Processing Quote Header and Items  for VRNO V-18-SLM-091-E.
+08/03/2019 17:33:07 ================08/03/2019 17:33:07================
+08/03/2019 17:33:07 Union Marine HTTP processor started
+08/03/2019 17:33:08 Union Marine login process started for User 0119701378
+08/03/2019 17:33:10 Union Marine has login Successfully.
+08/03/2019 17:33:10 Search records from the List
+08/03/2019 17:33:11 Filter the List
+08/03/2019 17:33:11 Download RFQ files for VRNO V-18-SLM-091-E.
+08/03/2019 17:33:39 RFQ 'OrderQuotation-5134193_190308_181336418.pdf' for VRNO 'V-18-SLM-091-E' downloaded successfully.
+08/03/2019 17:33:41 Processing Quote file for VRNO V-18-SLM-091-E.
+08/03/2019 17:33:42 Processing Quote Header and Items  for VRNO V-18-SLM-091-E.
+08/03/2019 17:36:08 ================08/03/2019 17:36:08================
+08/03/2019 17:36:08 Union Marine HTTP processor started
+08/03/2019 17:36:09 Union Marine login process started for User 0119701378
+08/03/2019 17:36:11 Union Marine has login Successfully.
+08/03/2019 17:36:11 Search records from the List
+08/03/2019 17:36:12 Filter the List
+08/03/2019 17:36:12 Download RFQ files for VRNO V-18-SLM-091-E.
+08/03/2019 17:36:16 RFQ 'OrderQuotation-5134193_190308_181336418.pdf' for VRNO 'V-18-SLM-091-E' downloaded successfully.
+08/03/2019 17:36:18 Processing Quote file for VRNO V-18-SLM-091-E.
+08/03/2019 17:36:19 Processing Quote Header and Items  for VRNO V-18-SLM-091-E.
+08/03/2019 17:36:57 Error on SetAuditLogFile : Object reference not set to an instance of an object. StackTace :    at UnionMarine_Http_Routine.Routines.SetAuditLogFile(String BuyerID, String SuppID, String ModuleName, String FileName, String BuyerRefNo, String Action, String LogMsg) in e:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Routine\Routines.cs:line 916
+08/03/2019 17:40:35 ================08/03/2019 17:40:35================
+08/03/2019 17:40:35 Union Marine HTTP processor started
+08/03/2019 17:40:37 Union Marine login process started for User 0119701378
+08/03/2019 17:40:38 Union Marine has login Successfully.
+08/03/2019 17:40:38 Search records from the List
+08/03/2019 17:40:39 Filter the List
+08/03/2019 17:40:39 Download RFQ files for VRNO V-18-SLM-091-E.
+08/03/2019 17:41:20 ================08/03/2019 17:41:20================
+08/03/2019 17:41:20 Union Marine HTTP processor started
+08/03/2019 17:41:22 Union Marine login process started for User 0119701378
+08/03/2019 17:41:24 Union Marine has login Successfully.
+08/03/2019 17:41:24 Search records from the List
+08/03/2019 17:41:25 Filter the List
+08/03/2019 17:41:25 Download RFQ files for VRNO V-18-SLM-091-E.
+08/03/2019 17:41:43 RFQ 'OrderQuotation-5134193_190308_181336418.pdf' for VRNO 'V-18-SLM-091-E' downloaded successfully.
+08/03/2019 17:41:48 Processing Quote file for VRNO V-18-SLM-091-E.
+08/03/2019 17:41:48 Processing Quote Header and Items  for VRNO V-18-SLM-091-E.
+08/03/2019 17:41:49 Error on SetAuditLogFile : Object reference not set to an instance of an object. StackTace :    at UnionMarine_Http_Routine.Routines.SetAuditLogFile(String BuyerID, String SuppID, String ModuleName, String FileName, String BuyerRefNo, String Action, String LogMsg) in e:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Routine\Routines.cs:line 921
+08/03/2019 17:43:38 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-18-SLM-091-E_SM0215_V10001_08031918185010.xml'.
+08/03/2019 17:43:38 Error on SetAuditLogFile : Object reference not set to an instance of an object. StackTace :    at UnionMarine_Http_Routine.Routines.SetAuditLogFile(String BuyerID, String SuppID, String ModuleName, String FileName, String BuyerRefNo, String Action, String LogMsg)
+08/03/2019 17:43:57 Union Marine HTTP processor stopped
+08/03/2019 17:43:57 ====================================================

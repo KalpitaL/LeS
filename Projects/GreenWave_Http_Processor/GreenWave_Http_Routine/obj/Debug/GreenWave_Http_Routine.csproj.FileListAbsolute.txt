@@ -1,0 +1,63 @@
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\GreenWave_Http_Routine.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\GreenWave_Http_Routine.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\DotNetBrowser.Chromium.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\DotNetBrowser.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\DotNetBrowserWrapper.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HtmlAgilityPack.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HTTPMethods.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HTTPWrapper.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeSCommon.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeSXML.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\SautinSoft.PdfVision.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\DotNetBrowserWrapper.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HTTPMethods.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HTTPWrapper.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeSCommon.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeSXML.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\obj\Debug\GreenWave_Http_Routine.csprojResolveAssemblyReference.cache
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\obj\Debug\GreenWave_Http_Routine.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\obj\Debug\GreenWave_Http_Routine.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\FILE.Conversion.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\PQC.ReadXML.Routine.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\Dictionary.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\eSupplier.DataMain.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeS.Common.Routines.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\EASendMail20.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\Interop.DSOFile.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\Aspose.Email.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\FILE.Conversion.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\PQC.ReadXML.Routine.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\eSupplier.DataMain.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeS.Common.Routines.pdb
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\MTML.GENERATOR.dll
+E:\Projects\LES\Http_POST\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\MTML.GENERATOR.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\GreenWave_Http_Routine.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\GreenWave_Http_Routine.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\FILE.Conversion.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HtmlAgilityPack.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HTTPMethods.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HTTPWrapper.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeSCommon.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\Newtonsoft.Json.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\PQC.ReadXML.Routine.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\SautinSoft.PdfVision.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\Dictionary.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeS.Common.Routines.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\eSupplier.DataMain.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\Aspose.Email.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\EASendMail20.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\Interop.DSOFile.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\DotNetBrowserWrapper.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\FILE.Conversion.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HTTPMethods.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\HTTPWrapper.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeSCommon.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeSXML.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\MTML.GENERATOR.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\PQC.ReadXML.Routine.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\LeS.Common.Routines.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\bin\Debug\eSupplier.DataMain.pdb
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\obj\Debug\GreenWave_Http_Routine.csprojResolveAssemblyReference.cache
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\obj\Debug\GreenWave_Http_Routine.dll
+D:\Office Work\Projects_16032020\GreenWave_Http_Processor\GreenWave_Http_Routine\obj\Debug\GreenWave_Http_Routine.pdb

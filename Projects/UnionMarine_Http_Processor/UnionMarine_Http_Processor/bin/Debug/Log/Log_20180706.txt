@@ -1,0 +1,15 @@
+06-07-2018 10:06:03 ================06-07-2018 10:06:03================
+06-07-2018 10:06:03 Union Marine HTTP processor started
+06-07-2018 10:06:08 Union Marine has Login Successfully.
+06-07-2018 10:06:29 ================06-07-2018 10:06:29================
+06-07-2018 10:06:29 Union Marine HTTP processor started
+06-07-2018 10:06:33 Union Marine has Login Successfully.
+06-07-2018 10:06:35 Download RFQ files for VRNO V-17-MKM-051-D.
+06-07-2018 10:06:36 RFQ 'RFQ_V-17-MKM-051-D_06072018100635.pdf' for VRNO 'V-17-MKM-051-D' downloaded successfully.
+06-07-2018 10:06:39 Processing Quote file for VRNO <img src="/img/icon-quote.png" alt="">.
+06-07-2018 10:06:40 Exception while Processing file : System.ArgumentException: Illegal characters in path.
+   at HTTPWrapper.HTTPWrapper.PrintScreen(String sFileName) in e:\Projects\LES\UnionMarine_Http_Processor\HTTPWrapper\HTTPWrapper\HTTPWrapper.cs:line 263
+   at LeSCommon.LeSCommon.PrintScreen(String sFileName) in e:\Projects\LES\UnionMarine_Http_Processor\HTTPWrapper\LeSCommon\LeSCommon.cs:line 239
+   at UnionMarine_Http_Routine.Routines.ProcessQuotations(String cVrNo, String cHrefUrl, MTMLInterchange _interchange) in e:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\Routines.cs:line 270
+06-07-2018 10:06:41 Union Marine HTTP processor stopped
+06-07-2018 10:06:41 ====================================================

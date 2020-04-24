@@ -1,0 +1,12 @@
+ResponsePath=D:\OCR\OCRServiceText\TEXT1\
+PdfText=D:\OCR\OCRServiceText\TEXT2\
+File_Path=D:\OCR\OCRServiceText\PDF\
+ExportPath=C:\Shipmaster\eSupplierPortal\ESUPPLIER_MTML_INBOX\
+AuduitLogPath=D:\OCR\OCRServiceText\Audit\
+DocType=RequestForQuote
+Sender=SM0306_PDF
+Recipient=V00026
+BuyerID=SM0306
+SupplierID=V00026
+UserID=LESSG
+OCRKey=80EB34FB-E978-4ADA-91A2-4EFC2BD74DC2

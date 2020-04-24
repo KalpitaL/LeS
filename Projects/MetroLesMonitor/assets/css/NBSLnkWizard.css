@@ -1,0 +1,10 @@
+﻿   #dataGridNewDRule{margin: 0 auto;width: 100%;clear: both;border-collapse: collapse;table-layout: fixed;}
+        .form-wizard .steps { padding: 1px 0;margin-bottom: 10px;background-color: #fff;background-image: none;filter: none;border: 0px;box-shadow: none;}
+       .btn-pad { padding:6px 12px;font-weight:400;font-size:14px; }.closebtn{text-align:center;margin-top:8px;}
+       .form-horizontal .radio>span { margin-top: -2px;}
+       .nav>li>a { position: relative;display: block; padding: 5px 5px;}
+         .dropdown-menu{min-width:160px;}
+          .leftpad{padding-left:10px;}
+          .dropdown-menu { box-shadow: 5px 5px rgba(102,102,102,.1); left: 0;  min-width: 160px;  position: absolute; z-index: 1000; display: none; float: left;list-style: none;text-shadow: none;padding: 0;background-color: #fff3f3;margin: 10px 0 0;border: 1px solid #e46c6c; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;  -webkit-border-radius: 4px;-moz-border-radius: 4px;-ms-border-radius: 4px;-o-border-radius: 4px;border-radius: 4px;}
+           .dropdown-header, .dropdown-menu>li>a{}
+          .dropdown-menu > li > a {padding:0px;color: #6f6f6f;text-decoration: none; display: block;clear: both; margin-left:30px; font-weight: 300; line-height: 18px;white-space: nowrap;}  

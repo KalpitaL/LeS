@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DC47BE82-C250-4C70-BB1A-8C7FC93D0A08}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GreenWave_Http_Routine</RootNamespace>
+    <AssemblyName>GreenWave_Http_Routine</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotNetBrowser">
+      <HintPath>..\..\..\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasin_Processor\bin\Debug\DotNetBrowser.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetBrowser.Chromium">
+      <HintPath>..\..\..\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasin_Processor\bin\Debug\DotNetBrowser.Chromium.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetBrowserWrapper">
+      <HintPath>..\..\..\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasin_Processor\bin\Debug\DotNetBrowserWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="FILE.Conversion">
+      <HintPath>..\..\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\FILE.Conversion.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\HTTPWrapper\LeSCommon\bin\Debug\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="HTTPMethods, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HTTPWrapper\HTTPMethods\bin\Debug\HTTPMethods.dll</HintPath>
+    </Reference>
+    <Reference Include="HTTPWrapper">
+      <HintPath>..\HTTPWrapper\HTTPWrapper\bin\Debug\HTTPWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="LeSCommon">
+      <HintPath>..\HTTPWrapper\LeSCommon\bin\Debug\LeSCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="LeSXML, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>J:\Anita\Reference projects\LeSXML\obj\Debug\LeSXML.dll</HintPath>
+    </Reference>
+    <Reference Include="MTML.GENERATOR, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\ESupplier_debugger\LES_SupplierDebugger\bin\Debug\MTML.GENERATOR.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\ESupplier_debugger\LES_SupplierDebugger\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PQC.ReadXML.Routine">
+      <HintPath>..\..\UnionMarine_Http_Processor\UnionMarine_Http_Routine\bin\Debug\PQC.ReadXML.Routine.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Routines.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

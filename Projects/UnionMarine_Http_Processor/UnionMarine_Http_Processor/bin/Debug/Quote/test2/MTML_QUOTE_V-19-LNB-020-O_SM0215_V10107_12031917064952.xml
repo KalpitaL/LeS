@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8736058-1" Identifier="UNOC" Recipient="SM0215_NEKOPDF" Sender="V10107" PreparationDate="2019-Mar-12" PreparationTime="17:06" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3614" LesRecordID="11522042" LesLinkID="104385" ParentRecordID="11521457" MTML_DOCID="C1FE9192-2221-49B1-84CA-789813855F65">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-LNB-020-O" MessageNumber="V-19-LNB-020-O" LineItemCount="4" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" DepartmentCode="Others" LeadTimeDays="0" OriginalFile="20190312095734-QUO-V-19-LNB-020-O-1.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201903121106" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201905111706" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-LNB-020-O" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8736058-1" />
+      <Party Qualifier="UD" Identification="9723148" Name="LENA B">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="INK CARTRIDGE FOR COPY MACHINE BLACK 472179 TN-261 BK (FOR PRINTER BROTHER MFC-9140CDN | INK CARTRIDGE FOR COPY MACHINE BLACK&#xA;&#xA;**COMPATIBLE**" MeasureUnitQualifier="PCE" Quantity="4" TypeCode="BP" OriginatingSystemRef="20058869" SystemItemNo="1" MonetaryAmount="64.44" Identification="472179" IsExtraItem="0" MarkedRemarks="COMPATIBLE" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="16.11" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="16.11" />
+        <Comments Qualifier="LIN">
+          <value>INK CARTRIDGE FOR COPY MACHINE BLACK 472179 TN-261 BK (FOR PRINTER BROTHER MFC-9140CDN | INK CARTRIDGE FOR COPY MACHINE BLACK
+
+**COMPATIBLE**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="INK CARTRIDGE FOR COPY MACHINE CYAN (C) 472181 TN-261 C (FOR PRINTER BROTHER MFC-9140CDN | INK CARTRIDGE FOR COPY MACHINE CYAN (C)&#xA;&#xA;**COMPATIBLE**" MeasureUnitQualifier="PCE" Quantity="4" TypeCode="BP" OriginatingSystemRef="20058870" SystemItemNo="2" MonetaryAmount="64.44" Identification="472181" IsExtraItem="0" MarkedRemarks="COMPATIBLE" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="16.11" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="16.11" />
+        <Comments Qualifier="LIN">
+          <value>INK CARTRIDGE FOR COPY MACHINE CYAN (C) 472181 TN-261 C (FOR PRINTER BROTHER MFC-9140CDN | INK CARTRIDGE FOR COPY MACHINE CYAN (C)
+
+**COMPATIBLE**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="INK CARTRIDGE FOR COPY MACHINE MAGENTA (M) 472182 TN-261 M (FOR PRINTER BROTHER MFC-9140CDN | INK CARTRIDGE FOR COPY MACHINE MAGENTA (M)&#xA;&#xA;**COMPATIBLE**" MeasureUnitQualifier="PCE" Quantity="4" TypeCode="BP" OriginatingSystemRef="20058871" SystemItemNo="3" MonetaryAmount="64.44" Identification="472182" IsExtraItem="0" MarkedRemarks="COMPATIBLE" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="16.11" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="16.11" />
+        <Comments Qualifier="LIN">
+          <value>INK CARTRIDGE FOR COPY MACHINE MAGENTA (M) 472182 TN-261 M (FOR PRINTER BROTHER MFC-9140CDN | INK CARTRIDGE FOR COPY MACHINE MAGENTA (M)
+
+**COMPATIBLE**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="INK CARTRIDGE FOR COPY MACHINE YELLOW (Y) 472183 TN-261 Y (FOR PRINTER BROTHER MFC-9140CDN | INK CARTRIDGE FOR COPY MACHINE YELLOW (Y)&#xA;&#xA;**COMPATIBLE**" MeasureUnitQualifier="PCE" Quantity="4" TypeCode="BP" OriginatingSystemRef="20058872" SystemItemNo="4" MonetaryAmount="64.44" Identification="472183" IsExtraItem="0" MarkedRemarks="COMPATIBLE" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="16.11" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="16.11" />
+        <Comments Qualifier="LIN">
+          <value>INK CARTRIDGE FOR COPY MACHINE YELLOW (Y) 472183 TN-261 Y (FOR PRINTER BROTHER MFC-9140CDN | INK CARTRIDGE FOR COPY MACHINE YELLOW (Y)
+
+**COMPATIBLE**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="257.760" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="257.760" />
+    </Quote>
+  </Interchange>
+</MTML>

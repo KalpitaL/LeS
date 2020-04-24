@@ -1,0 +1,1 @@
+DOCTYPE|RequestForQuote,RFQ,RFQAck,Quote,Order,POAck,POC#LOGTYPE|Confirmed,Converted,Downloaded,Error,Exported,Imported,MailDownloader,Notify,Received,Submitted,TASK_STATE_DISABLED,TASK_STATE_READY,Updated,Uploaded

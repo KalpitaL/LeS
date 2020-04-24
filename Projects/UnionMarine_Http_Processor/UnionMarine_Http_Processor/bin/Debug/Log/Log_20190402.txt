@@ -1,0 +1,202 @@
+02/04/2019 16:39:54 ================02/04/2019 16:39:54================
+02/04/2019 16:39:54 Union Marine HTTP processor started
+02/04/2019 16:40:03 Union Marine login process started for User 1220130196
+02/04/2019 16:41:43 Union Marine has login Successfully.
+02/04/2019 16:41:53 ----Processing Quote File MTML_QUOTE_V-19-RKE-038-D_SM0215_V10107_19031900264926.xml started.
+02/04/2019 16:41:53 Search records from the List
+02/04/2019 16:42:02 Filter the List
+02/04/2019 16:42:26 ------------------------------------------------------------
+02/04/2019 16:42:26 Union Marine HTTP processor stopped
+02/04/2019 16:42:26 ====================================================
+02/04/2019 16:42:54 ================02/04/2019 16:42:54================
+02/04/2019 16:42:54 Union Marine HTTP processor started
+02/04/2019 16:42:58 Union Marine login process started for User 1220130196
+02/04/2019 16:43:01 Union Marine has login Successfully.
+02/04/2019 16:43:05 ----Processing Quote File MTML_QUOTE_V-19-RKE-038-D_SM0215_V10107_19031900264926.xml started.
+02/04/2019 16:43:05 Search records from the List
+02/04/2019 16:43:09 Filter the List
+02/04/2019 16:43:09 ------------------------------------------------------------
+02/04/2019 16:43:09 Union Marine HTTP processor stopped
+02/04/2019 16:43:09 ====================================================
+02/04/2019 16:43:44 ================02/04/2019 16:43:44================
+02/04/2019 16:43:44 Union Marine HTTP processor started
+02/04/2019 16:43:47 Union Marine login process started for User 1220130196
+02/04/2019 16:43:54 Union Marine has login Successfully.
+02/04/2019 16:43:55 ----Processing Quote File MTML_QUOTE_V-19-RKE-038-D_SM0215_V10107_19031900264926.xml started.
+02/04/2019 16:43:55 Search records from the List
+02/04/2019 16:44:03 Filter the List
+02/04/2019 16:48:57 ================02/04/2019 16:48:57================
+02/04/2019 16:48:57 Union Marine HTTP processor started
+02/04/2019 16:49:01 Union Marine login process started for User 1220130196
+02/04/2019 16:49:05 Union Marine has login Successfully.
+02/04/2019 16:49:06 ----Processing Quote File MTML_QUOTE_V-19-HGS-022-S_SM0215_V10107_02041918425020.xml started.
+02/04/2019 16:49:06 Search records from the List
+02/04/2019 16:49:10 Filter the List
+02/04/2019 16:49:44 Download RFQ files for VRNO V-19-HGS-022-S.
+02/04/2019 16:49:48 RFQ '20190402122856-QUO-V-19-HGS-022-S-1.xml' for VRNO 'V-19-HGS-022-S' downloaded successfully.
+02/04/2019 16:49:57  vrno :V-19-HGS-022-S Submit Quote
+02/04/2019 16:50:05 Processing Quote file for VRNO V-19-HGS-022-S.
+02/04/2019 16:50:08 Processing Quote Header and Items  for VRNO V-19-HGS-022-S.
+02/04/2019 16:53:24 ================02/04/2019 16:53:24================
+02/04/2019 16:53:24 Union Marine HTTP processor started
+02/04/2019 16:53:30 Union Marine login process started for User 1220130196
+02/04/2019 16:57:36 ================02/04/2019 16:57:36================
+02/04/2019 16:57:36 Union Marine HTTP processor started
+02/04/2019 16:57:39 Union Marine login process started for User 1220130196
+02/04/2019 16:57:42 Union Marine has login Successfully.
+02/04/2019 16:57:43 ----Processing Quote File MTML_QUOTE_V-19-HGS-038-EL_SM0215_V10107_02041918424971.xml started.
+02/04/2019 16:57:43 Search records from the List
+02/04/2019 16:57:50 Filter the List
+02/04/2019 16:57:52 Download RFQ files for VRNO V-19-HGS-038-EL.
+02/04/2019 16:57:55 RFQ '20190402122255-QUO-V-19-HGS-038-EL-1.xml' for VRNO 'V-19-HGS-038-EL' downloaded successfully.
+02/04/2019 16:57:58  vrno :V-19-HGS-038-EL Submit Quote
+02/04/2019 16:58:00 Processing Quote file for VRNO V-19-HGS-038-EL.
+02/04/2019 16:58:04 Processing Quote Header and Items  for VRNO V-19-HGS-038-EL.
+02/04/2019 16:58:38 Quotation for VRNO V-19-HGS-038-EL updated successfully.
+02/04/2019 16:59:39 ------------------------------------------------------------
+02/04/2019 16:59:43 ----Processing Quote File MTML_QUOTE_V-19-HGS-047-D_SM0215_V10107_02041918424984.xml started.
+02/04/2019 16:59:43 Search records from the List
+02/04/2019 16:59:46 Filter the List
+02/04/2019 16:59:49 Download RFQ files for VRNO V-19-HGS-047-D.
+02/04/2019 16:59:50 RFQ '20190402122255-QUO-V-19-HGS-047-D-1.xml' for VRNO 'V-19-HGS-047-D' downloaded successfully.
+02/04/2019 16:59:52  vrno :V-19-HGS-047-D Submit Quote
+02/04/2019 16:59:53 Processing Quote file for VRNO V-19-HGS-047-D.
+02/04/2019 16:59:54 Processing Quote Header and Items  for VRNO V-19-HGS-047-D.
+02/04/2019 17:00:14 Quotation for VRNO V-19-HGS-047-D updated successfully.
+02/04/2019 17:06:21 ================02/04/2019 17:06:21================
+02/04/2019 17:06:21 Union Marine HTTP processor started
+02/04/2019 17:06:24 Union Marine login process started for User 1220130196
+02/04/2019 17:06:26 Union Marine has login Successfully.
+02/04/2019 17:06:29 ----Processing Quote File MTML_QUOTE_V-19-LNB-020-O_SM0215_V10107_12031917064952.xml started.
+02/04/2019 17:06:29 Search records from the List
+02/04/2019 17:06:32 Filter the List
+02/04/2019 17:06:35 Download RFQ files for VRNO V-19-LNB-020-O.
+02/04/2019 17:06:37 RFQ '20190312095734-QUO-V-19-LNB-020-O-1.xml' for VRNO 'V-19-LNB-020-O' downloaded successfully.
+02/04/2019 17:06:45  vrno :V-19-LNB-020-O Update Quote
+02/04/2019 17:06:48 ------------------------------------------------------------
+02/04/2019 17:06:48 Union Marine HTTP processor stopped
+02/04/2019 17:06:48 ====================================================
+02/04/2019 17:08:33 ================02/04/2019 17:08:33================
+02/04/2019 17:08:33 Union Marine HTTP processor started
+02/04/2019 17:08:36 Union Marine login process started for User 1220130196
+02/04/2019 17:08:39 Union Marine has login Successfully.
+02/04/2019 17:08:57 ----Processing Quote File MTML_QUOTE_V-19-LNB-020-O_SM0215_V10107_12031917064952.xml started.
+02/04/2019 17:08:57 Search records from the List
+02/04/2019 17:09:01 Filter the List
+02/04/2019 17:09:02 Download RFQ files for VRNO V-19-LNB-020-O.
+02/04/2019 17:09:04 RFQ '20190312095734-QUO-V-19-LNB-020-O-1.xml' for VRNO 'V-19-LNB-020-O' downloaded successfully.
+02/04/2019 17:09:07  vrno :V-19-LNB-020-O Update Quote
+02/04/2019 17:09:25 ------------------------------------------------------------
+02/04/2019 17:09:25 Union Marine HTTP processor stopped
+02/04/2019 17:09:25 ====================================================
+02/04/2019 17:10:44 ================02/04/2019 17:10:44================
+02/04/2019 17:10:44 Union Marine HTTP processor started
+02/04/2019 17:10:53 Union Marine login process started for User 1220130196
+02/04/2019 17:10:57 Union Marine has login Successfully.
+02/04/2019 17:10:58 ----Processing Quote File MTML_QUOTE_V-19-RKE-001-E_SM0215_V10107_15031922265000.xml started.
+02/04/2019 17:10:58 Search records from the List
+02/04/2019 17:11:04 Filter the List
+02/04/2019 17:11:07 ------------------------------------------------------------
+02/04/2019 17:11:12 ----Processing Quote File MTML_QUOTE_V-19-RKE-010-EL_SM0215_V10107_15031922265010.xml started.
+02/04/2019 17:11:12 Search records from the List
+02/04/2019 17:11:14 Filter the List
+02/04/2019 17:11:16 ------------------------------------------------------------
+02/04/2019 17:11:16 ----Processing Quote File MTML_QUOTE_V-19-RKE-027-D_SM0215_V10107_19031900264982.xml started.
+02/04/2019 17:11:16 Search records from the List
+02/04/2019 17:11:18 Filter the List
+02/04/2019 17:11:19 ------------------------------------------------------------
+02/04/2019 17:11:19 ----Processing Quote File MTML_QUOTE_V-19-RKE-032-E_SM0215_V10107_15031922265056.xml started.
+02/04/2019 17:11:19 Search records from the List
+02/04/2019 17:11:21 Filter the List
+02/04/2019 17:11:22 ------------------------------------------------------------
+02/04/2019 17:11:22 ----Processing Quote File MTML_QUOTE_V-19-RKE-034-D_SM0215_V10107_25031922025005.xml started.
+02/04/2019 17:11:22 Search records from the List
+02/04/2019 17:11:24 Filter the List
+02/04/2019 17:11:31 ------------------------------------------------------------
+02/04/2019 17:11:35 ----Processing Quote File MTML_QUOTE_V-19-RKE-034-EL_SM0215_V10107_15031922265031.xml started.
+02/04/2019 17:11:35 Search records from the List
+02/04/2019 17:11:44 Filter the List
+02/04/2019 17:19:36 ================02/04/2019 17:19:36================
+02/04/2019 17:19:36 Union Marine HTTP processor started
+02/04/2019 17:19:39 Union Marine login process started for User 1220130196
+02/04/2019 17:19:42 Union Marine has login Successfully.
+02/04/2019 17:19:42 ----Processing Quote File MTML_QUOTE_V-19-RKE-001-E_SM0215_V10107_15031922265000.xml started.
+02/04/2019 17:19:42 Search records from the List
+02/04/2019 17:19:44 Filter the List
+02/04/2019 17:19:54 ------------------------------------------------------------
+02/04/2019 17:19:54 ----Processing Quote File MTML_QUOTE_V-19-RKE-010-EL_SM0215_V10107_15031922265010.xml started.
+02/04/2019 17:19:54 Search records from the List
+02/04/2019 17:19:59 Filter the List
+02/04/2019 17:20:04 ------------------------------------------------------------
+02/04/2019 17:20:04 ----Processing Quote File MTML_QUOTE_V-19-RKE-027-D_SM0215_V10107_19031900264982.xml started.
+02/04/2019 17:20:04 Search records from the List
+02/04/2019 17:20:08 Filter the List
+02/04/2019 17:20:08 ------------------------------------------------------------
+02/04/2019 17:20:08 ----Processing Quote File MTML_QUOTE_V-19-RKE-032-E_SM0215_V10107_15031922265056.xml started.
+02/04/2019 17:20:08 Search records from the List
+02/04/2019 17:20:14 Filter the List
+02/04/2019 17:20:14 ------------------------------------------------------------
+02/04/2019 17:20:14 ----Processing Quote File MTML_QUOTE_V-19-RKE-034-D_SM0215_V10107_25031922025005.xml started.
+02/04/2019 17:20:14 Search records from the List
+02/04/2019 17:20:23 Filter the List
+02/04/2019 17:20:23 ------------------------------------------------------------
+02/04/2019 17:20:23 ----Processing Quote File MTML_QUOTE_V-19-RKE-034-EL_SM0215_V10107_15031922265031.xml started.
+02/04/2019 17:20:23 Search records from the List
+02/04/2019 17:20:28 Filter the List
+02/04/2019 17:20:28 ------------------------------------------------------------
+02/04/2019 17:20:28 ----Processing Quote File MTML_QUOTE_V-19-RKE-034-G_SM0215_V10107_25031922185030.xml started.
+02/04/2019 17:20:28 Search records from the List
+02/04/2019 17:20:33 Filter the List
+02/04/2019 17:20:33 ------------------------------------------------------------
+02/04/2019 17:20:33 ----Processing Quote File MTML_QUOTE_V-19-RKE-034-O_SM0215_V10107_25031922104965.xml started.
+02/04/2019 17:20:33 Search records from the List
+02/04/2019 17:20:38 Filter the List
+02/04/2019 17:20:38 ------------------------------------------------------------
+02/04/2019 17:20:38 ----Processing Quote File MTML_QUOTE_V-19-RKE-035-E_SM0215_V10107_13031917305025.xml started.
+02/04/2019 17:20:38 Search records from the List
+02/04/2019 17:20:43 Filter the List
+02/04/2019 17:20:43 Download RFQ files for VRNO V-19-RKE-035-E.
+02/04/2019 17:20:47 RFQ '20190313101858-QUO-V-19-RKE-035-E-1.xml' for VRNO 'V-19-RKE-035-E' downloaded successfully.
+02/04/2019 17:20:52  vrno :V-19-RKE-035-E Update Quote
+02/04/2019 17:20:54 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-RKE-035-E_SM0215_V10107_13031917305025.xml'.
+02/04/2019 17:20:54 ------------------------------------------------------------
+02/04/2019 17:20:54 ----Processing Quote File MTML_QUOTE_V-19-RKE-037-D_SM0215_V10107_19031900265009.xml started.
+02/04/2019 17:20:54 Search records from the List
+02/04/2019 17:20:58 Filter the List
+02/04/2019 17:20:58 ------------------------------------------------------------
+02/04/2019 17:20:58 ----Processing Quote File MTML_QUOTE_V-19-RKE-038-D_SM0215_V10107_19031900264926.xml started.
+02/04/2019 17:20:58 Search records from the List
+02/04/2019 17:21:01 Filter the List
+02/04/2019 17:21:01 ------------------------------------------------------------
+02/04/2019 17:21:01 ----Processing Quote File MTML_QUOTE_V-19-RKE-039-S_SM0215_V10107_19031900265037.xml started.
+02/04/2019 17:21:01 Search records from the List
+02/04/2019 17:21:05 Filter the List
+02/04/2019 17:21:05 ------------------------------------------------------------
+02/04/2019 17:21:05 Union Marine HTTP processor stopped
+02/04/2019 17:21:05 ====================================================
+02/04/2019 17:29:54 ================02/04/2019 17:29:54================
+02/04/2019 17:29:54 Union Marine HTTP processor started
+02/04/2019 17:29:56 Union Marine login process started for User 1220130196
+02/04/2019 17:29:59 Union Marine has login Successfully.
+02/04/2019 17:30:36 ================02/04/2019 17:30:36================
+02/04/2019 17:30:36 Union Marine HTTP processor started
+02/04/2019 17:30:40 Union Marine login process started for User 1220130196
+02/04/2019 17:30:43 Union Marine has login Successfully.
+02/04/2019 17:31:16 ================02/04/2019 17:31:16================
+02/04/2019 17:31:16 Union Marine HTTP processor started
+02/04/2019 17:31:19 Union Marine login process started for User 1220130196
+02/04/2019 17:31:23 Union Marine has login Successfully.
+02/04/2019 17:34:05 ================02/04/2019 17:34:05================
+02/04/2019 17:34:05 Union Marine HTTP processor started
+02/04/2019 17:34:08 Union Marine login process started for User 1220130196
+02/04/2019 17:34:10 Union Marine has login Successfully.
+02/04/2019 17:34:11 ----Processing Quote File MTML_QUOTE_V-19-RKE-034-G_SM0215_V10107_25031922185030.xml started.
+02/04/2019 17:34:11 Search records from the List
+02/04/2019 17:34:13 Filter the List
+02/04/2019 17:37:13 ================02/04/2019 17:37:13================
+02/04/2019 17:37:13 Union Marine HTTP processor started
+02/04/2019 17:37:16 Union Marine login process started for User 1220130196
+02/04/2019 17:37:19 Union Marine has login Successfully.
+02/04/2019 17:37:20 ----Processing Quote File MTML_QUOTE_V-19-RKE-034-G_SM0215_V10107_25031922185030.xml started.
+02/04/2019 17:37:20 Search records from the List
+02/04/2019 17:37:22 Filter the List

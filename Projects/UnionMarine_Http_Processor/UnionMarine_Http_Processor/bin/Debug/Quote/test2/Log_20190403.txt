@@ -1,0 +1,226 @@
+4/3/2019 12:30:33 AM ================4/3/2019 12:30:33 AM================
+4/3/2019 12:30:33 AM Union Marine HTTP processor started
+4/3/2019 12:30:37 AM Union Marine login process started for User 1220130196
+4/3/2019 12:30:39 AM Union Marine has login Successfully.
+4/3/2019 12:30:39 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-022-O_SM0215_V10107_02041923064926.xml started.
+4/3/2019 12:30:39 AM Search records from the List
+4/3/2019 12:30:41 AM Filter the List
+4/3/2019 12:30:41 AM Download RFQ files for VRNO V-19-HGS-022-O.
+4/3/2019 12:30:43 AM RFQ '20190402164938-QUO-V-19-HGS-022-O-2.xml' for VRNO 'V-19-HGS-022-O' downloaded successfully.
+4/3/2019 12:30:43 AM Processing Quote file for VRNO V-19-HGS-022-O.
+4/3/2019 12:30:43 AM Processing Quote Header and Items  for VRNO V-19-HGS-022-O.
+4/3/2019 12:30:45 AM Quotation for VRNO V-19-HGS-022-O updated successfully.
+4/3/2019 12:30:46 AM ------------------------------------------------------------
+4/3/2019 12:30:46 AM Union Marine HTTP processor stopped
+4/3/2019 12:30:46 AM ====================================================
+4/3/2019 12:31:07 AM ================4/3/2019 12:31:07 AM================
+4/3/2019 12:31:07 AM Union Marine HTTP processor started
+4/3/2019 12:31:11 AM Union Marine login process started for User 1220130196
+4/3/2019 12:31:13 AM Union Marine has login Successfully.
+4/3/2019 12:31:13 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-029-D_SM0215_V10107_02041920424988.xml started.
+4/3/2019 12:31:13 AM Search records from the List
+4/3/2019 12:31:15 AM Filter the List
+4/3/2019 12:31:15 AM Download RFQ files for VRNO V-19-HGS-029-D.
+4/3/2019 12:31:17 AM RFQ '20190402142108-QUO-V-19-HGS-029-D-1.xml' for VRNO 'V-19-HGS-029-D' downloaded successfully.
+4/3/2019 12:31:17 AM Processing Quote file for VRNO V-19-HGS-029-D.
+4/3/2019 12:31:18 AM Processing Quote Header and Items  for VRNO V-19-HGS-029-D.
+4/3/2019 12:31:21 AM Quotation for VRNO V-19-HGS-029-D updated successfully.
+4/3/2019 12:31:22 AM Download RFQ files for VRNO V-19-HGS-029-D.
+4/3/2019 12:31:24 AM RFQ '20190402142108-QUO-V-19-HGS-029-D-1.xml' for VRNO 'V-19-HGS-029-D' downloaded successfully.
+4/3/2019 12:31:24 AM Processing Quote file for VRNO V-19-HGS-029-D.
+4/3/2019 12:31:24 AM Processing Quote Header and Items  for VRNO V-19-HGS-029-D.
+4/3/2019 12:31:25 AM Total amount mismatch for file -MTML_QUOTE_V-19-HGS-029-D_SM0215_V10107_02041920424988.xml
+4/3/2019 12:31:25 AM Error while Processing file : System.ArgumentOutOfRangeException: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at HtmlAgilityPack.HtmlNode.WriteTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.WriteContentTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.get_InnerHtml()
+   at UnionMarine_Http_Routine.Routines.GetFilterRecords(HtmlDocument _htmlDoc, MTMLInterchange _interchange, String cXML_FileName, String cSuppCode)
+4/3/2019 12:31:25 AM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-029-D_SM0215_V10107_02041920424988.xml'.
+4/3/2019 12:31:25 AM ------------------------------------------------------------
+4/3/2019 12:31:25 AM Union Marine HTTP processor stopped
+4/3/2019 12:31:25 AM ====================================================
+4/3/2019 12:31:46 AM ================4/3/2019 12:31:46 AM================
+4/3/2019 12:31:46 AM Union Marine HTTP processor started
+4/3/2019 12:31:51 AM Union Marine login process started for User 1220130196
+4/3/2019 12:31:52 AM Union Marine has login Successfully.
+4/3/2019 12:31:53 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-029-D_SM0215_V10107_02041923064974.xml started.
+4/3/2019 12:31:53 AM Search records from the List
+4/3/2019 12:31:54 AM Filter the List
+4/3/2019 12:31:54 AM Download RFQ files for VRNO V-19-HGS-029-D.
+4/3/2019 12:31:56 AM RFQ '20190402164938-QUO-V-19-HGS-029-D-2.xml' for VRNO 'V-19-HGS-029-D' downloaded successfully.
+4/3/2019 12:31:56 AM Processing Quote file for VRNO V-19-HGS-029-D.
+4/3/2019 12:31:57 AM Processing Quote Header and Items  for VRNO V-19-HGS-029-D.
+4/3/2019 12:32:01 AM Quotation for VRNO V-19-HGS-029-D updated successfully.
+4/3/2019 12:32:02 AM ------------------------------------------------------------
+4/3/2019 12:32:02 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-030-D_SM0215_V10107_02041921304980.xml started.
+4/3/2019 12:32:02 AM Search records from the List
+4/3/2019 12:32:04 AM Filter the List
+4/3/2019 12:32:04 AM Download RFQ files for VRNO V-19-HGS-030-D.
+4/3/2019 12:32:05 AM RFQ '20190402151716-QUO-V-19-HGS-030-D-1.xml' for VRNO 'V-19-HGS-030-D' downloaded successfully.
+4/3/2019 12:32:05 AM Processing Quote file for VRNO V-19-HGS-030-D.
+4/3/2019 12:32:06 AM Processing Quote Header and Items  for VRNO V-19-HGS-030-D.
+4/3/2019 12:32:06 AM Quotation for VRNO V-19-HGS-030-D updated successfully.
+4/3/2019 12:32:07 AM ------------------------------------------------------------
+4/3/2019 12:32:08 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-030-D_SM0215_V10107_02041923064965.xml started.
+4/3/2019 12:32:08 AM Search records from the List
+4/3/2019 12:32:09 AM Filter the List
+4/3/2019 12:32:09 AM Download RFQ files for VRNO V-19-HGS-030-D.
+4/3/2019 12:32:11 AM RFQ '20190402164939-QUO-V-19-HGS-030-D-2.xml' for VRNO 'V-19-HGS-030-D' downloaded successfully.
+4/3/2019 12:32:11 AM Processing Quote file for VRNO V-19-HGS-030-D.
+4/3/2019 12:32:11 AM Processing Quote Header and Items  for VRNO V-19-HGS-030-D.
+4/3/2019 12:32:12 AM Quotation for VRNO V-19-HGS-030-D updated successfully.
+4/3/2019 12:32:13 AM ------------------------------------------------------------
+4/3/2019 12:32:13 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-044-D_SM0215_V10107_02041921304951.xml started.
+4/3/2019 12:32:13 AM Search records from the List
+4/3/2019 12:32:16 AM Filter the List
+4/3/2019 12:32:16 AM Download RFQ files for VRNO V-19-HGS-044-D.
+4/3/2019 12:32:18 AM RFQ '20190402151716-QUO-V-19-HGS-044-D-1.xml' for VRNO 'V-19-HGS-044-D' downloaded successfully.
+4/3/2019 12:32:18 AM Processing Quote file for VRNO V-19-HGS-044-D.
+4/3/2019 12:32:18 AM Processing Quote Header and Items  for VRNO V-19-HGS-044-D.
+4/3/2019 12:32:19 AM Quotation for VRNO V-19-HGS-044-D updated successfully.
+4/3/2019 12:32:20 AM ------------------------------------------------------------
+4/3/2019 12:32:20 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-044-D_SM0215_V10107_02041923144978.xml started.
+4/3/2019 12:32:20 AM Search records from the List
+4/3/2019 12:32:22 AM Filter the List
+4/3/2019 12:32:22 AM Download RFQ files for VRNO V-19-HGS-044-D.
+4/3/2019 12:32:23 AM RFQ '20190402165139-QUO-V-19-HGS-044-D-2.xml' for VRNO 'V-19-HGS-044-D' downloaded successfully.
+4/3/2019 12:32:23 AM Processing Quote file for VRNO V-19-HGS-044-D.
+4/3/2019 12:32:24 AM Processing Quote Header and Items  for VRNO V-19-HGS-044-D.
+4/3/2019 12:32:25 AM Quotation for VRNO V-19-HGS-044-D updated successfully.
+4/3/2019 12:32:26 AM ------------------------------------------------------------
+4/3/2019 12:32:26 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-048-O_SM0215_V10107_02041921304990.xml started.
+4/3/2019 12:32:26 AM Search records from the List
+4/3/2019 12:32:27 AM Filter the List
+4/3/2019 12:32:27 AM Download RFQ files for VRNO V-19-HGS-048-O.
+4/3/2019 12:32:29 AM RFQ '20190402151516-QUO-V-19-HGS-048-O-1.xml' for VRNO 'V-19-HGS-048-O' downloaded successfully.
+4/3/2019 12:32:29 AM Processing Quote file for VRNO V-19-HGS-048-O.
+4/3/2019 12:32:30 AM Processing Quote Header and Items  for VRNO V-19-HGS-048-O.
+4/3/2019 12:32:33 AM Quotation for VRNO V-19-HGS-048-O updated successfully.
+4/3/2019 12:32:34 AM Download RFQ files for VRNO V-19-HGS-048-O.
+4/3/2019 12:32:36 AM RFQ '20190402151516-QUO-V-19-HGS-048-O-1.xml' for VRNO 'V-19-HGS-048-O' downloaded successfully.
+4/3/2019 12:32:36 AM Processing Quote file for VRNO V-19-HGS-048-O.
+4/3/2019 12:32:37 AM Processing Quote Header and Items  for VRNO V-19-HGS-048-O.
+4/3/2019 12:32:38 AM Total amount mismatch for file -MTML_QUOTE_V-19-HGS-048-O_SM0215_V10107_02041921304990.xml
+4/3/2019 12:32:38 AM Error while Processing file : System.ArgumentOutOfRangeException: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at HtmlAgilityPack.HtmlNode.WriteTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.WriteContentTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.get_InnerHtml()
+   at UnionMarine_Http_Routine.Routines.GetFilterRecords(HtmlDocument _htmlDoc, MTMLInterchange _interchange, String cXML_FileName, String cSuppCode)
+4/3/2019 12:32:38 AM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-048-O_SM0215_V10107_02041921304990.xml'.
+4/3/2019 12:32:38 AM ------------------------------------------------------------
+4/3/2019 12:32:38 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-048-O_SM0215_V10107_02041923144925.xml started.
+4/3/2019 12:32:38 AM Search records from the List
+4/3/2019 12:32:38 AM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/3/2019 12:32:38 AM Filter the List
+4/3/2019 12:32:38 AM ------------------------------------------------------------
+4/3/2019 12:32:38 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-049-O_SM0215_V10107_02041920504966.xml started.
+4/3/2019 12:32:38 AM Search records from the List
+4/3/2019 12:32:38 AM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/3/2019 12:32:38 AM Filter the List
+4/3/2019 12:32:38 AM ------------------------------------------------------------
+4/3/2019 12:32:38 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-049-O_SM0215_V10107_02041923144999.xml started.
+4/3/2019 12:32:38 AM Search records from the List
+4/3/2019 12:32:38 AM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/3/2019 12:32:38 AM Filter the List
+4/3/2019 12:32:38 AM ------------------------------------------------------------
+4/3/2019 12:32:38 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-052-G_SM0215_V10107_02041923144964.xml started.
+4/3/2019 12:32:38 AM Search records from the List
+4/3/2019 12:32:38 AM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/3/2019 12:32:38 AM Filter the List
+4/3/2019 12:32:38 AM ------------------------------------------------------------
+4/3/2019 12:32:38 AM Union Marine HTTP processor stopped
+4/3/2019 12:32:38 AM ====================================================
+4/3/2019 12:32:57 AM ================4/3/2019 12:32:57 AM================
+4/3/2019 12:32:57 AM Union Marine HTTP processor started
+4/3/2019 12:33:01 AM Union Marine login process started for User 1220130196
+4/3/2019 12:33:03 AM Union Marine has login Successfully.
+4/3/2019 12:33:03 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-048-O_SM0215_V10107_02041923144925.xml started.
+4/3/2019 12:33:03 AM Search records from the List
+4/3/2019 12:33:04 AM Filter the List
+4/3/2019 12:33:04 AM Download RFQ files for VRNO V-19-HGS-048-O.
+4/3/2019 12:33:06 AM RFQ '20190402165139-QUO-V-19-HGS-048-O-2.xml' for VRNO 'V-19-HGS-048-O' downloaded successfully.
+4/3/2019 12:33:06 AM Processing Quote file for VRNO V-19-HGS-048-O.
+4/3/2019 12:33:07 AM Processing Quote Header and Items  for VRNO V-19-HGS-048-O.
+4/3/2019 12:33:11 AM Quotation for VRNO V-19-HGS-048-O updated successfully.
+4/3/2019 12:33:12 AM ------------------------------------------------------------
+4/3/2019 12:33:12 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-049-O_SM0215_V10107_02041920504966.xml started.
+4/3/2019 12:33:12 AM Search records from the List
+4/3/2019 12:33:13 AM Filter the List
+4/3/2019 12:33:13 AM Download RFQ files for VRNO V-19-HGS-049-O.
+4/3/2019 12:33:15 AM RFQ '20190402142909-QUO-V-19-HGS-049-O-1.xml' for VRNO 'V-19-HGS-049-O' downloaded successfully.
+4/3/2019 12:33:15 AM Processing Quote file for VRNO V-19-HGS-049-O.
+4/3/2019 12:33:15 AM Processing Quote Header and Items  for VRNO V-19-HGS-049-O.
+4/3/2019 12:33:16 AM Quotation for VRNO V-19-HGS-049-O updated successfully.
+4/3/2019 12:33:17 AM ------------------------------------------------------------
+4/3/2019 12:33:17 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-049-O_SM0215_V10107_02041923144999.xml started.
+4/3/2019 12:33:17 AM Search records from the List
+4/3/2019 12:33:19 AM Filter the List
+4/3/2019 12:33:19 AM Download RFQ files for VRNO V-19-HGS-049-O.
+4/3/2019 12:33:20 AM RFQ '20190402165139-QUO-V-19-HGS-049-O-2.xml' for VRNO 'V-19-HGS-049-O' downloaded successfully.
+4/3/2019 12:33:20 AM Processing Quote file for VRNO V-19-HGS-049-O.
+4/3/2019 12:33:21 AM Processing Quote Header and Items  for VRNO V-19-HGS-049-O.
+4/3/2019 12:33:22 AM Quotation for VRNO V-19-HGS-049-O updated successfully.
+4/3/2019 12:33:23 AM ------------------------------------------------------------
+4/3/2019 12:33:23 AM ----Processing Quote File MTML_QUOTE_V-19-HGS-052-G_SM0215_V10107_02041923144964.xml started.
+4/3/2019 12:33:23 AM Search records from the List
+4/3/2019 12:33:24 AM Filter the List
+4/3/2019 12:33:24 AM Download RFQ files for VRNO V-19-HGS-052-G.
+4/3/2019 12:33:26 AM RFQ '20190402165139-QUO-V-19-HGS-052-G-2.xml' for VRNO 'V-19-HGS-052-G' downloaded successfully.
+4/3/2019 12:33:26 AM Processing Quote file for VRNO V-19-HGS-052-G.
+4/3/2019 12:33:27 AM Processing Quote Header and Items  for VRNO V-19-HGS-052-G.
+4/3/2019 12:33:29 AM Quotation for VRNO V-19-HGS-052-G updated successfully.
+4/3/2019 12:33:30 AM ------------------------------------------------------------
+4/3/2019 12:33:30 AM Union Marine HTTP processor stopped
+4/3/2019 12:33:30 AM ====================================================
+4/3/2019 2:47:24 PM Exception during initialise: System.Xml.XmlException: 'C' is an unexpected token. Expecting white space. Line 15, position 35.
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseAttributes()
+   at System.Xml.XmlTextReaderImpl.ParseElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Configuration.XmlUtil.CopyXmlNode(XmlUtilWriter utilWriter)
+   at System.Configuration.XmlUtil.CopyElement(XmlUtilWriter utilWriter)
+   at System.Configuration.XmlUtil.CopySection()
+   at System.Configuration.BaseConfigurationRecord.ScanSectionsRecursive(XmlUtil xmlUtil, String parentConfigKey, Boolean inLocation, String locationSubPath, OverrideModeSetting overrideMode, Boolean skipInChildApps)
+   at System.Configuration.BaseConfigurationRecord.ScanSections(XmlUtil xmlUtil)
+   at System.Configuration.BaseConfigurationRecord.InitConfigFromFile()
+4/3/2019 2:47:24 PM Error on SetAuditLogFile : Configuration system failed to initialize StackTace :    at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.get_AppSettings()
+   at UnionMarine_Http_Routine.Routines.SetAuditLogFile(String BuyerID, String SuppID, String ModuleName, String FileName, String BuyerRefNo, String Action, String LogMsg)
+4/3/2019 2:47:24 PM ================4/3/2019 2:47:24 PM================
+4/3/2019 2:47:24 PM Union Marine HTTP processor started
+4/3/2019 2:47:24 PM Exception while login : System.Xml.XmlException: 'C' is an unexpected token. Expecting white space. Line 15, position 35.
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String arg)
+   at System.Xml.XmlTextReaderImpl.ParseAttributes()
+   at System.Xml.XmlTextReaderImpl.ParseElement()
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Configuration.XmlUtil.CopyXmlNode(XmlUtilWriter utilWriter)
+   at System.Configuration.XmlUtil.CopyElement(XmlUtilWriter utilWriter)
+   at System.Configuration.XmlUtil.CopySection()
+   at System.Configuration.BaseConfigurationRecord.ScanSectionsRecursive(XmlUtil xmlUtil, String parentConfigKey, Boolean inLocation, String locationSubPath, OverrideModeSetting overrideMode, Boolean skipInChildApps)
+   at System.Configuration.BaseConfigurationRecord.ScanSections(XmlUtil xmlUtil)
+   at System.Configuration.BaseConfigurationRecord.InitConfigFromFile()
+4/3/2019 2:47:24 PM Error on SetAuditLogFile : Configuration system failed to initialize StackTace :    at System.Configuration.ConfigurationManager.PrepareConfigSystem()
+   at System.Configuration.ConfigurationManager.get_AppSettings()
+   at UnionMarine_Http_Routine.Routines.SetAuditLogFile(String BuyerID, String SuppID, String ModuleName, String FileName, String BuyerRefNo, String Action, String LogMsg)
+4/3/2019 2:47:24 PM Union Marine HTTP processor stopped
+4/3/2019 2:47:24 PM ====================================================
+4/3/2019 2:49:23 PM ================4/3/2019 2:49:23 PM================
+4/3/2019 2:49:23 PM Union Marine HTTP processor started
+4/3/2019 2:49:27 PM Union Marine login process started for User 1220130196
+4/3/2019 2:49:29 PM Union Marine has login Successfully.
+4/3/2019 2:49:29 PM Union Marine HTTP processor stopped
+4/3/2019 2:49:29 PM ====================================================
+4/3/2019 2:50:00 PM ================4/3/2019 2:50:00 PM================
+4/3/2019 2:50:00 PM Union Marine HTTP processor started
+4/3/2019 2:50:07 PM Union Marine login process started for User 1220130196
+4/3/2019 2:50:08 PM Union Marine has login Successfully.
+4/3/2019 2:50:08 PM Union Marine HTTP processor stopped
+4/3/2019 2:50:08 PM ====================================================

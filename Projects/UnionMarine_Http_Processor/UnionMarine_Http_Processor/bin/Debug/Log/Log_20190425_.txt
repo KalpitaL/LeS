@@ -1,0 +1,307 @@
+25/04/2019 16:04:53 ================25/04/2019 16:04:53================
+25/04/2019 16:04:53 Union Marine HTTP processor started
+25/04/2019 16:04:55 Union Marine login process started for User 1220130196
+25/04/2019 16:04:56 Union Marine has login Successfully.
+25/04/2019 16:05:02 Processing Quote File MTML_QUOTE_V-19-HGB-016-E_SM0215_V10107_25041918104926.xml started.
+25/04/2019 16:05:02 Search records from the List
+25/04/2019 16:05:03 Download RFQ files for VRNO V-19-HGB-016-E.
+25/04/2019 16:05:05 RFQ '20190425115403-QUO-V-19-HGB-016-E-1.xml' for VRNO 'V-19-HGB-016-E' downloaded successfully.
+25/04/2019 16:05:05 Processing Quote file for VRNO V-19-HGB-016-E.
+25/04/2019 16:05:06 Processing Quote Header and Items  for VRNO V-19-HGB-016-E.
+25/04/2019 16:05:07 Quotation for VRNO V-19-HGB-016-E updated successfully.
+25/04/2019 16:05:08 Processing Quote File ended.
+25/04/2019 16:05:08 ---------------------------------------
+25/04/2019 16:05:08 Processing Quote File MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml started.
+25/04/2019 16:05:08 Search records from the List
+25/04/2019 16:05:09 Download RFQ files for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:11 RFQ '20190425115002-QUO-V-19-HGB-021-D-1.xml' for VRNO 'V-19-HGB-021-D' downloaded successfully.
+25/04/2019 16:05:11 Processing Quote file for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:12 Processing Quote Header and Items  for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:12 Quotation for VRNO V-19-HGB-021-D updated successfully.
+25/04/2019 16:05:13 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:13 Processing Quote file for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:14 Processing Quote Header and Items  for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:14 Quotation for VRNO V-19-HGB-021-D updated successfully.
+25/04/2019 16:05:14 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:15 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:15 Processing Quote file for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:16 Processing Quote Header and Items  for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:16 Quotation for VRNO V-19-HGB-021-D updated successfully.
+25/04/2019 16:05:16 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:17 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:17 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:17 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:17 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:17 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:17 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:17 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:17 Processing Quote file for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:17 Processing Quote Header and Items  for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:18 Quotation for VRNO V-19-HGB-021-D updated successfully.
+25/04/2019 16:05:18 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:19 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:19 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 File is already downloaded for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Quote is already updated for VRNO V-19-HGB-021-D.
+25/04/2019 16:05:20 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-HGB-021-D_SM0215_V10107_25041918105009.xml'.
+25/04/2019 16:05:20 Processing Quote File ended.
+25/04/2019 16:05:20 ---------------------------------------
+25/04/2019 16:05:20 Processing Quote File MTML_QUOTE_V-19-HGB-021-E_SM0215_V10107_25041918104984.xml started.
+25/04/2019 16:05:20 Search records from the List
+25/04/2019 16:05:21 Download RFQ files for VRNO V-19-HGB-021-E.
+25/04/2019 16:05:22 RFQ '20190425115002-QUO-V-19-HGB-021-E-1.xml' for VRNO 'V-19-HGB-021-E' downloaded successfully.
+25/04/2019 16:05:22 Processing Quote file for VRNO V-19-HGB-021-E.
+25/04/2019 16:05:23 Processing Quote Header and Items  for VRNO V-19-HGB-021-E.
+25/04/2019 16:05:23 Quotation for VRNO V-19-HGB-021-E updated successfully.
+25/04/2019 16:05:24 Processing Quote File ended.
+25/04/2019 16:05:24 ---------------------------------------
+25/04/2019 16:05:24 Processing Quote File MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml started.
+25/04/2019 16:05:24 Search records from the List
+25/04/2019 16:05:26 Download RFQ files for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:28 RFQ '20190425120203-QUO-V-19-LNB-020-G-2.xml' for VRNO 'V-19-LNB-020-G' downloaded successfully.
+25/04/2019 16:05:28 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:28 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:31 Quotation for VRNO V-19-LNB-020-G updated successfully.
+25/04/2019 16:05:32 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:32 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:33 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:33 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:05:33 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:34 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:34 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:34 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:34 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:34 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:35 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:36 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:05:36 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:37 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:37 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:37 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:38 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:05:38 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:39 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:39 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:39 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:40 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:05:40 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:41 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:41 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:42 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:44 Quotation for VRNO V-19-LNB-020-G updated successfully.
+25/04/2019 16:05:44 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:46 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:46 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:46 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:46 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:05:46 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:47 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:48 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:48 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:50 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:05:50 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:51 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:51 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:51 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:52 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:05:52 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:53 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:53 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:54 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:57 Quotation for VRNO V-19-LNB-020-G updated successfully.
+25/04/2019 16:05:57 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:05:58 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:58 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:58 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:05:59 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:05:59 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:01 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:01 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:01 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:01 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:06:01 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:02 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:02 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:03 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:03 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:06:03 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:04 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:04 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:05 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:05 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:06:05 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:06 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:06 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:06 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:06 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:06 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:06 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:06 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:06 Processing Quote file for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:07 Processing Quote Header and Items  for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:07 Total amount mismatch for file -MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml
+25/04/2019 16:06:07 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:08 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:08 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:08 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:08 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:08 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:08 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:08 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 File is already downloaded for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Quote is already updated for VRNO V-19-LNB-020-G.
+25/04/2019 16:06:09 Error on MoveFiles : Could not find file 'E:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Processor\bin\Debug\Quote\MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_25041918185063.xml'.
+25/04/2019 16:06:09 Processing Quote File ended.
+25/04/2019 16:06:09 ---------------------------------------
+25/04/2019 16:06:09 Processing Quote File MTML_QUOTE_V-19-LNB-020-O_SM0215_V10107_25041918185026.xml started.
+25/04/2019 16:06:09 Search records from the List
+25/04/2019 16:06:10 Download RFQ files for VRNO V-19-LNB-020-O.
+25/04/2019 16:06:12 RFQ '20190425120204-QUO-V-19-LNB-020-O-2.xml' for VRNO 'V-19-LNB-020-O' downloaded successfully.
+25/04/2019 16:06:12 Processing Quote file for VRNO V-19-LNB-020-O.
+25/04/2019 16:06:12 Processing Quote Header and Items  for VRNO V-19-LNB-020-O.
+25/04/2019 16:06:13 Quotation for VRNO V-19-LNB-020-O updated successfully.
+25/04/2019 16:06:14 Processing Quote File ended.
+25/04/2019 16:06:14 ---------------------------------------
+25/04/2019 16:06:14 Union Marine HTTP processor stopped
+25/04/2019 16:06:14 ====================================================

@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<!-- start: Meta -->
+	<meta charset="utf-8">
+	<title>Intuitships SupplyNET</title>
+	<meta name="description" content="Intuitships SupplyNET">
+	<meta name="keyword" content="Intuitships SupplyNET">
+	<!-- end: Meta -->
+	
+	<!-- start: Mobile Specific -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- end: Mobile Specific -->
+	
+	<!-- start: Favicon and Touch Icons -->
+	<link href="https://supplynet.intuitships-umms.com/img/favicon.png?t=4" rel="shortcut icon" type="image/x-icon">
+	<!-- end: Favicon and Touch Icons -->
+	
+	<!-- start: CSS -->
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bootstrap.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/font-awesome.min.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bariol-font.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/style.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/developer.css?v=2019.02.01">	<!-- end: CSS -->
+
+	<!-- start: JS -->
+    
+    <script language="javascript" type="text/javascript"> 
+	var websiteUrl 		= "https://supplynet.intuitships-umms.com/"; 
+	</script>
+
+    <script type="text/javascript" src="/js/jquery.2.1.1.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/bootstrap.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/bootbox.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/jquery.chromatable.js?v=2019.02.01"></script><script type="text/javascript" src="/js/sweetalert.min.js?v=2019.02.01"></script>	
+	<!-- start: JS -->
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+	<!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie7.css?v=2019.02.01" />	<![endif]-->
+	
+	<script type="text/javascript" src="/js/functions.js?v=2019.02.01"></script>		
+</head>
+
+<body>
+
+<div id="site-content">
+	
+	<div id="header">
+		<div class="container">
+			<div class="row">
+            
+                
+				<div class="col-sm-8">
+                	<a href="https://supplynet.intuitships-umms.com/invoice" class="logo"><img src="https://supplynet.intuitships-umms.com/img/home-logo.png" alt="Intuitships SupplyNET"> <span class="name">intuit<strong>ships</strong></span> <span class="type">SupplyNET</span></a>				</div>
+				<div class="col-sm-4">
+					<div class="dropdown profile">
+						<a href="https://supplynet.intuitships-umms.com/#" data-toggle="dropdown" class="dropdown-toggle">NEKO SHIP SUPPLY BV <span class="caret"></span></a>
+						<ul class="dropdown-menu with-arrow">
+                            
+							<li><a href="https://supplynet.intuitships-umms.com/users/my_profile"><i class="fa fa-user"></i> Edit Profile</a></li>
+                            <li><a href="https://supplynet.intuitships-umms.com/users/logout"><i class="fa fa-power-off"></i> Logout</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="header-block"></div>
+	
+	<div id="pagearea">
+		<div class="container">
+        
+        <style><!--
+.require{ background:#FFD5D5; }
+--></style>
+<script type="text/javascript" src="/js/ajaxupload.js?v=2019.02.01"></script><script type="text/javascript" src="/js/global_functions.js?v=2019.02.01"></script><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bootstrap-datetimepicker.css?v=2019.02.01"><script type="text/javascript" src="/js/bootstrap-datetimepicker.js"></script><div class="tile">
+    <div class="tile-header">
+        <h1 class="heading">Quote For RFQ # V-19-HGS-038-EL </h1>
+    </div>
+    <div class="tile-body">
+    
+            	<form method="post" action="" id="SubmitQuote">
+                <input type="hidden" name="data[RequestSupplier][Action]" id="Action" value="submit">			
+                <div class="row">
+                    <div class="col-sm-2"><strong>Currency</strong></div>
+                    <div class="col-sm-3"><select name="data[RequestSupplier][CurrencyCode]" class="form-control w100 jq_require" id="RequestSupplierCurrencyCode">EUR</select>                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Discount</strong></div>
+                    <div class="col-sm-3">
+                        <div class="input-group iconed-input" style="width:100px;">
+                            <input name="data[RequestSupplier][Discount]" type="text" class="form-control jq_global_discount jq_numeric w100" value="0.00" id="RequestSupplierDiscount">                            <span class="input-group-addon">%</span> 
+                        </div>
+                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Delivery Charges</strong></div>
+                    <div class="col-sm-3">
+                    <input name="data[RequestSupplier][DeliveryCharges]" type="text" class="form-control jq_require jq_delivery_charge jq_numeric w100" value="0.00" id="RequestSupplierDeliveryCharges">                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Quotation Reference #</strong></div>
+                    <div class="col-sm-2">
+					<input name="data[RequestSupplier][SupplierReferenceNumber]" type="text" class="form-control w200" value="Quote:8742374-1" id="RequestSupplierSupplierReferenceNumber">                    </div>
+                    
+                    <div class="col-sm-2" align="right"><strong>Validity Period</strong></div>
+                    <div class="col-sm-2">
+                    	<div class="input-group iconed-input">
+                            <input name="data[RequestSupplier][ValidityPeriod]" type="text" class="form-control" value="59" id="RequestSupplierValidityPeriod">                            <span class="input-group-addon">days</span> 
+                        </div>
+					
+                    </div>
+                    
+                    <div class="col-sm-2" align="right"><strong>Expected Date of Readiness</strong></div>
+                    <div class="col-sm-2">
+                    	<div class="input-group iconed-input">
+                        	<input name="data[RequestSupplier][DeliveryLeadTime]" type="text" class="form-control datetimepicker" readonly="readonly" value="02/04/2019 16:58" id="RequestSupplierDeliveryLeadTime">                            <span class="input-group-addon"><i class="fa fa-calendar"></i></span> 
+                        </div>	
+						
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Comment</strong></div>
+                    <div class="col-sm-4">
+					<textarea name="data[RequestSupplier][Comment]" class="form-control" rows="3" id="RequestSupplierComment"></textarea>                            
+                    </div>
+                </div>
+                <br>
+                
+                <div class="row">
+                    <div class="col-sm-2"><strong>Upload Reference Document</strong></div>
+                    <div class="col-sm-4">
+						<input type="file" name="data[RequestSupplier][File]" id="File"><input type="hidden" name="data[RequestSupplier][FileHidden]" id="FileHidden"> 
+                        <div class="help-block error errorFileHidden" id="ErrorFile" style="color:#F00;"></div>
+                        <div id="FileFile"></div>
+                        <div class="help-text">Only PDF, PNG, JPG file allowed</div>	
+					
+                            
+                    </div>
+                </div>
+                <br>
+                
+                
+                <br>
+                
+				<table width="100%" class="table table-bordered">
+					<thead>
+                    <tr>
+                    	<th>#</th>
+                                                	<th colspan="2">Part Detail</th>
+                            <th colspan="2">Required</th>
+                            <th colspan="4">Quote</th>  
+                                                
+                    	                      
+                    </tr>
+					<tr>
+						<th width="3%"></th>
+						
+                                                	<th width="10%">Part Name</th>
+                            <th width="6%">IMPA Code</th>
+                            
+                           
+                            <th width="4%">QTY</th>
+                            <th width="10%">Additional Information</th>
+                            
+                            
+                            <th width="15%">Remark</th>
+                            <th width="8%">QTY<span class="text-danger">*</span></th>
+                            <th width="8%">Unit Price<span class="text-danger">*</span></th> 
+                            <th width="5%">Discount</th> 
+                             
+                                                
+                                     
+                        
+					</tr>
+					</thead>
+					<tbody>
+											<tr class="part_quote">
+							<td align="center">1</td>
+							<td>RECEPTACLE WITH SWITCH WT 3PIN, TYPE-S1MR SYNTHETIC RESIN&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (9.66 EUR) quoted on 18/09/2018 in V-18-HGB-100-E" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>792808</td>
+                                                        
+                            
+                            
+                            <td align="center">10 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79318]" class="form-control" id="QuoteRemark79318">BALL PEN STICK BLACK 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79318]" type="text" class="form-control jq_qty jq_require jq_numeric" value="50" id="QuoteQTYSuggested79318">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79318]" type="text" value="0.07" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79318">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79318]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79318">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">2</td>
+							<td>RECEPTACLE TWIN WATERTIGHT, 3PIN SYNTHETIC RESIN&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (9.80 EUR) quoted on 01/04/2019 in V-19-RKE-034-EL" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>792831</td>
+                                                        
+                            
+                            
+                            <td align="center">10 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79319]" class="form-control" id="QuoteRemark79319">MARKER QUANTORE PERMANENT ASSORTI 1MM SET OF 10 
+ UOM :PKT</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79319]" type="text" class="form-control jq_qty jq_require jq_numeric" value="4" id="QuoteQTYSuggested79319">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79319]" type="text" value="2.81" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79319">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79319]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79319">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">3</td>
+							<td>PLUG WATERTIGHT 3PIN ANGLE, TYPE-1MB SYNTHETIC RESIN&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (1.86 EUR) quoted on 18/09/2018 in V-18-HGB-100-E" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>792802</td>
+                                                        
+                            
+                            
+                            <td align="center">15 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79320]" class="form-control" id="QuoteRemark79320">AUTOMATIC WIRE STRIPPING PLIERS 0,2-6MM
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79320]" type="text" class="form-control jq_qty jq_require jq_numeric" value="2" id="QuoteQTYSuggested79320">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79320]" type="text" value="4.22" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79320">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79320]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79320">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">4</td>
+							<td>LAMP HOLDER PORCELAIN FLANGED, FE-26</td>
+                            
+                                                        <td>793504</td>
+                                                        
+                            
+                            
+                            <td align="center">10 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79321]" class="form-control" id="QuoteRemark79321">SCREWDRIVER SET WATCH MAKER S, 6 S SLOTTED &amp; PHILLIPS 
+ UOM :SET</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79321]" type="text" class="form-control jq_qty jq_require jq_numeric" value="2" id="QuoteQTYSuggested79321">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79321]" type="text" value="1.05" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79321">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79321]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79321">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">5</td>
+							<td>FUSE CARTRIDGE CELLO-LITE UC-1, 15AMP AC500V(DC250V)</td>
+                            
+                                                        <td>793745</td>
+                                                        
+                            
+                            
+                            <td align="center">30 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79322]" class="form-control" id="QuoteRemark79322">CALEX MARINE LED GLS-LAMP 85-265V 8W E27 A60, DAYLIGHT 6500K 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79322]" type="text" class="form-control jq_qty jq_require jq_numeric" value="100" id="QuoteQTYSuggested79322">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79322]" type="text" value="5.02" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79322">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79322]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79322">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">6</td>
+							<td>FUSE CARTRIDGE CELLO-LITE UC-1, 10AMP AC500V(DC250V)</td>
+                            
+                                                        <td>793744</td>
+                                                        
+                            
+                            
+                            <td align="center">30 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79323]" class="form-control" id="QuoteRemark79323">CALEX MARINE FLUO-TUBE 36W/10.0 DAYLIGHT 26X1198MM &quot;RAPID START&quot; 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79323]" type="text" class="form-control jq_qty jq_require jq_numeric" value="350" id="QuoteQTYSuggested79323">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79323]" type="text" value="0.71" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79323">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79323]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79323">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">7</td>
+							<td>FUSE CARTRIDGE CELLO-LITE UC-1, 5AMP AC500V(DC250V)</td>
+                            
+                                                        <td>793743</td>
+                                                        
+                            
+                            
+                            <td align="center">30 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79324]" class="form-control" id="QuoteRemark79324">WELL GLASS FITTING 60W E26 JAPANESE-TYPE SAO-90 PHENOL 2M 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79324]" type="text" class="form-control jq_qty jq_require jq_numeric" value="10" id="QuoteQTYSuggested79324">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79324]" type="text" value="11.51" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79324">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79324]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79324">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">8</td>
+							<td>SOLDERING WIRE RESIN CORED, 450GRM</td>
+                            
+                                                        <td>795170</td>
+                                                        
+                            
+                            
+                            <td align="center">4 SPL</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79325]" class="form-control" id="QuoteRemark79325">JAPANESE CARGO PLUG 2P+EARTH ANGLE-TYPE 1MB, SYNTHETIC RESIN 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79325]" type="text" class="form-control jq_qty jq_require jq_numeric" value="15" id="QuoteQTYSuggested79325">                                <span class="input-group-addon">SPL</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79325]" type="text" value="1.90" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79325">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79325]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79325">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">9</td>
+							<td>PENDANT LIGHT NO.2 E-26 60W, WATER&VIBRATION PROOF</td>
+                            
+                                                        <td>792055</td>
+                                                        
+                            
+                            
+                            <td align="center">10 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79326]" class="form-control" id="QuoteRemark79326">JAPANESE CARGO RECEPTACLE W/SWITCH 2P+EARTH FOR 1-PLUG SYNTHETIC RESIN 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79326]" type="text" class="form-control jq_qty jq_require jq_numeric" value="10" id="QuoteQTYSuggested79326">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79326]" type="text" value="9.00" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79326">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79326]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79326">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">10</td>
+							<td>BALL-POINT PEN BLACK&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (0.07 EUR) quoted on 01/04/2019 in V-19-RKE-038-D" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>470603</td>
+                                                        
+                            
+                            
+                            <td align="center">50 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79327]" class="form-control" id="QuoteRemark79327">JAPANESE CARGO RECEPTACLE 2P + EARTH FOR 2-PLUGS SYNTHETIC RESIN
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79327]" type="text" class="form-control jq_qty jq_require jq_numeric" value="10" id="QuoteQTYSuggested79327">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79327]" type="text" value="9.45" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79327">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79327]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79327">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">11</td>
+							<td>FELT MARKER PEN MEDIUM THICK, 12-COLORS</td>
+                            
+                                                        <td>470649</td>
+                                                        
+                            
+                            
+                            <td align="center">4 PKT</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79328]" class="form-control" id="QuoteRemark79328">LAMP HOLDER PORCELAIN FLANGED, FE-26 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79328]" type="text" class="form-control jq_qty jq_require jq_numeric" value="10" id="QuoteQTYSuggested79328">                                <span class="input-group-addon">PKT</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79328]" type="text" value="0.98" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79328">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79328]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79328">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">12</td>
+							<td>SCREWDRIVER SET WATCH MAKER'S, 6'S SLOTTED & PHILLIPS</td>
+                            
+                                                        <td>612412</td>
+                                                        
+                            
+                            
+                            <td align="center">2 SET</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79329]" class="form-control" id="QuoteRemark79329">CELLO-LITE FUSE UC-1 15X50MM 5A 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79329]" type="text" class="form-control jq_qty jq_require jq_numeric" value="30" id="QuoteQTYSuggested79329">                                <span class="input-group-addon">SET</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79329]" type="text" value="1.54" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79329">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79329]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79329">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">13</td>
+							<td>INSULATION TESTER DIGITAL TYPE, 600V</td>
+                            
+                                                        <td>795781</td>
+                                                        
+                            
+                            
+                            <td align="center">1 SET</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79330]" class="form-control" id="QuoteRemark79330">CELLO-LITE FUSE UC-1 15X50MM 10A 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79330]" type="text" class="form-control jq_qty jq_require jq_numeric" value="30" id="QuoteQTYSuggested79330">                                <span class="input-group-addon">SET</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79330]" type="text" value="1.54" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79330">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79330]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79330">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">14</td>
+							<td>LAMP LED 7.5W (60W) 100V E-26, DAY LIGHT WHITE</td>
+                            
+                                                        <td>790253</td>
+                                                        
+                            
+                            
+                            <td align="center">100 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79331]" class="form-control" id="QuoteRemark79331">CELLO-LITE FUSE UC-1 15X50MM 15A 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79331]" type="text" class="form-control jq_qty jq_require jq_numeric" value="30" id="QuoteQTYSuggested79331">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79331]" type="text" value="1.54" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79331">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79331]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79331">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">15</td>
+							<td>ELECTRIC CABLE STRIPPER FOR, 0.9-5.5MM2 STRAND CABLE&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (3.11 EUR) quoted on 13/02/2019 in V-19-HGS-011-EL" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>611738</td>
+                                                        
+                            
+                            
+                            <td align="center">2 PRS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79332]" class="form-control" id="QuoteRemark79332">SOLDERING WIRE RESIN CORED 50GRM, DIA 2MM 
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79332]" type="text" class="form-control jq_qty jq_require jq_numeric" value="4" id="QuoteQTYSuggested79332">                                <span class="input-group-addon">PRS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79332]" type="text" value="2.21" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79332">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79332]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79332">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">16</td>
+							<td>LAMP FLUORESCENT DAYLIGHT, FL-40SS-D/37 37W 28X1198MM</td>
+                            
+                                                        <td>791438</td>
+                                                        
+                            
+                            
+                            <td align="center">350 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79333]" class="form-control" id="QuoteRemark79333">INSULATION TESTER DIGITAL TYPE, 600V 
+ UOM :SET</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79333]" type="text" class="form-control jq_qty jq_require jq_numeric" value="1" id="QuoteQTYSuggested79333">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79333]" type="text" value="72.64" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79333">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79333]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79333">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+					                    
+                    <tr><td colspan="8" align="right"><strong>Total Amount</strong></td>
+                    	<td class="total_amount" align="right" style="font-weight:bold;"></td>
+                   	</tr>
+					
+				</tbody>
+                
+                </table>
+                <br>
+				<div class="form-group text-left">
+				<span class="btn btn-primary jq_save">Save Quote</span>&nbsp;<input class="btn btn-primary jq_submit" type="submit" value="Submit Quote"><a href="https://supplynet.intuitships-umms.com/javascript:void(0)" class="btn btn-primary jq_wait" style="display:none;"><i class="fa fa-spinner fa-spin"></i> Submitting...</a>				</div>
+                </form>
+                <b>NOTE : </b><br>
+                PN* : Part Number<br>
+                DN* : Drawing Number<br>
+                IN* : Item Number
+	</div>
+</div>
+
+<script language="javascript" type="text/javascript">
+
+
+
+bindFileUpload( 'File' , 'ErrorFile', 'FileHidden', 'FileFile' , 'Evidence' );
+
+function calculate_total(){
+	/*
+	total_amount
+
+	jq_global_discount
+	jq_delivery_charge
+	
+	part_quote.
+		jq_qty
+		jq_unit_price
+		jq_local_discount
+		*/
+	var total_amount 	= 0.00;
+	var global_discount = '';
+	var delivery_charge = 0;
+	
+	if( $(".jq_global_discount").val() != '' ){
+		global_discount = parseFloat($(".jq_global_discount").val());
+	}
+	if( $(".jq_delivery_charge").length == 1 && $(".jq_delivery_charge").val() != '' ){
+		total_amount = delivery_charge = parseFloat($(".jq_delivery_charge").val());
+	}
+	$(".part_quote").each(function(){
+		var q = $(this).find('.jq_qty').val();
+		var d = $(this).find('.jq_local_discount').val();
+		var p = $(this).find('.jq_unit_price').val();
+		
+		if( global_discount != '' ){
+			d = global_discount;
+		}else if( d != '' && !isNaN(d) ){
+			d = parseFloat(d);
+			d = d.toFixed(2);
+		}
+		n = q * p;
+		n = n*(1 - d/100);
+		
+		total_amount += n;
+	});
+	
+	total_amount = parseFloat(total_amount);
+	$(".total_amount").html( total_amount.toFixed(2) );
+	
+}
+
+$(document).ready(function(){
+	$('.datetimepicker').datetimepicker({
+		weekStart: 1,
+		todayBtn:  0,
+		autoclose: 1,
+		todayHighlight: 0,
+		startView: 2,
+		minView: 2,
+		forceParse: 0,
+		startDate: '2019-03-03',
+	});
+});
+
+calculate_total();
+$(".jq_save").click(function(){
+	$("#Action").val('save');
+	$(".jq_submit").trigger('click');
+});
+
+
+if( $(".jq_global_discount").val() != ''  ){
+	$(".jq_local_discount").attr('readonly',true);
+}
+
+
+$(".jq_global_discount").blur(function(){
+	if( $(this).val() != '' && !isNaN( $(this).val() ) ){
+		$(".jq_local_discount").attr('readonly',true);
+	}else{
+		$(".jq_local_discount").attr('readonly',false);
+	}
+});
+
+$(".jq_numeric").blur(function(){
+	if( $(this).val() != '' && isNaN( $(this).val() ) ){
+		$(this).val('');
+	}else{
+		calculate_total();
+	}
+});
+
+
+
+$(".jq_submit").click(function(){
+	$(".jq_require").removeClass('require');
+	var error = 0;
+	$(".jq_require").each(function(){
+		if( $(this).val() == '' ){
+			$(this).addClass('require');
+			$(this).attr('placeholder','Required');
+			error = 1;
+		}else if( $(this).hasClass('jq_numeric') && isNaN( $(this).val() ) ){
+			$(this).addClass('require');
+			$(this).attr('placeholder','Number only');
+			$(this).val('');
+			error = 1;
+		}		
+	});
+	if( error == 1 ){
+		swal( 'Please check require fields' , "", "error",{
+			buttons: false,
+			timer: 4000,
+		});
+		
+		return false;
+	}else{
+		var URL = websiteUrl + 'requisition_quote/submit/9165';
+		$.ajax({
+			url 		: URL,
+			type 		: 'post',
+			'dataType' 	: 'json',
+			'data' 		: $("#SubmitQuote").serialize(),
+			'success'	: function( json_data ){
+				swal( json_data.message , "", "success",{
+					buttons: false,
+					timer: 3000,
+				});
+				
+				window.location = websiteUrl;
+				
+			},
+			
+			'beforeSend': function(){
+				$(".jq_submit").hide();
+				if( $("#Action").val() == 'save' ){
+					$(".jq_save").hide();
+				}
+				
+				$(".jq_wait").show();
+			},
+			'error': function(){
+				$(".jq_submit").show();
+				$(".jq_wait").hide();
+				
+				if( $("#Action").val() == 'save' ){
+					$(".jq_save").show();
+				}
+			},
+			
+		});
+	}
+	return false;
+});
+
+
+
+
+</script>        
+		</div>
+	</div>
+
+	<div id="footer">
+			<div class="copyright">2019 <i class="fa fa-copyright"></i>  All Rights Reserved.</div>
+		</div>
+	</div>
+
+
+
+<script language="javascript" type="text/javascript">
+$(".um_amount").css({'text-align':'right'});
+$('input.um_amount').blur(function(){
+	if( !isNaN ( $(this).val() ) ){
+		var number_value =  $(this).val();
+		var r = number_value.split('.');
+		if (typeof r[1] === "undefined") {
+			$(this).val( number_value +'.00');
+		}else if( r[1].length == 1 ){
+			$(this).val( number_value +'0');
+		}
+	}
+});
+
+</script>
+
+
+</body>
+</html>

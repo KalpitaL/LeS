@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="596383" Identifier="UNOC" Recipient="B60543_MLPDF" Sender="V10001" PreparationDate="2018-Aug-03" PreparationTime="09:30" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2880" LesRecordID="11265366" LesLinkID="103884" ParentRecordID="11264352" MTML_DOCID="D263483C-872F-40E6-88C0-E81DEC39F5ED">
+    <Quote MessageReferenceNumber="RequestForQuote : V-18-SRA-060-O" MessageNumber="V-18-SRA-060-O" LineItemCount="1" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" TransportModeCode="_3" DepartmentCode="Others" LeadTimeDays="0" OriginalFile="OrderQuotation-596383_180803_092935558.pdf" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201808030930" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201808030000" />
+      <Comments Qualifier="SUR">
+        <value>Thanks for your inquiry. We're pleased to offer our quotation for your consideration.
+
+We offer both types of our Nitrogen for your consideration.
+***Kindly refer attached product sheet and check with vessel which item is required before order confirmation.
+
+All quoted items are out of stock.
+
+Item 1 (N-5030)
+Lead time: 6 - 8 working days subject to carrier approval and custom clearance.
+
+Item 2 (N-5050)
+Lead time: 2 - 3 working days subject to carrier approval and custom clearance.
+
+Delivery Charge (alongside) @ PORT ALLEN: USD442  
+Delivery Lead time: 1 - 2  working days
+Subject to additional delivery charge, hire of barge/crane, custom fee, etc.
+
+Please allow another 1-2 working days’ notice for delivery arrangement.
+
+Cylinder deposits will be applicable if vessel does not have any Unitor Cylinder in return. 
+
+We look forward to receiving your earliest order confirmation.
+Best Regards,
+Edlyn Tan
+Links to product catalog:
+Product information for line item 1 product 905208 https://wilhelmsen.com/product-catalogue/products/gases-refrigerants-and-cylinders/gases/nitrogen/nitrogen-n-5030-filling
+Product information for line item 2 product 905601 https://wilhelmsen.com/product-catalogue/products/gases-refrigerants-and-cylinders/gases/nitrogen/nitrogen-n-5050-filling
+
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 2 : NITROGEN N-5050 FILLING | QTY : 2 | UOM : PCS | Price : 571 USD
+Item Added - 3 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 442 USD
+Item Added - 4 : TOTAL CYLINDER DEPOSIT CHARGE | QTY : 1 | UOM : PCS | Price : 1560 USD
+ Item Total : 3435.84 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-18-SRA-060-O" />
+      <Reference Qualifier="AAG" ReferenceNumber="596383" />
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="EM" Number="purchasing@ummsportal.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="65 6395 4545" />
+          <CommunicationMethod Qualifier="FX" Number="65 6872 6319" />
+        </Contact>
+        <StreetAddress>128376</StreetAddress>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <Party Qualifier="UD" Identification="9771016" Name="SARAH">
+        <PartyLocation Qualifier="ZUC" Berth="PORT ALLEN" Port="USPLL" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Nitrogen-50(81.2 Kgs)" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="17806606" SystemItemNo="1" MonetaryAmount="291.84" Identification="905208" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="145.92" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="145.92" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="3435.840" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="3435.840" />
+      <MonetaryAmount Qualifier="_99" Value="442.000" />
+      <MonetaryAmount Qualifier="_97" Value="1560.000" />
+      <MonetaryAmount Qualifier="_90" Value="291.840" />
+    </Quote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:D441677" Identifier="UNOC" Recipient="SM0215_NEKOPDF" Sender="V10107" PreparationDate="2019-Apr-25" PreparationTime="22:58" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3614" LesRecordID="11571597" LesLinkID="104385" ParentRecordID="11568395" MTML_DOCID="6CE5308E-6694-44D3-A76A-FE85FFDFBBCA">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-LLB-056-S" MessageNumber="V-19-LLB-056-S" LineItemCount="4" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_1" DepartmentCode="SAFETY" LeadTimeDays="0" OriginalFile="20190425164509-QUO-V-19-LLB-056-S-0.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="True" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201904251658" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201906242258" />
+      <Comments Qualifier="SUR">
+        <value>We are unable to supply items as requested.
+
+Unable to Quote, Supplier has been declined QUOTE
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>SPARE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-LLB-056-S" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:D441677" />
+      <Party Qualifier="UD" Identification="9590917" Name="LOWLANDS BEACON">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="IMO SYMBOL FOR MANUAL CLOSING OF FIRE DAMPERS / HATCHES IN dampers closing p MACHINERY SPACES" MeasureUnitQualifier="sted on Fire" Quantity="0" TypeCode="BP" OriginatingSystemRef="20467780" SystemItemNo="1" MonetaryAmount="0.00" Identification="336788" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>IMO SYMBOL FOR MANUAL CLOSING OF FIRE DAMPERS / HATCHES IN dampers closing p MACHINERY SPACES | IMO SYMBOL FOR MANUAL CLOSING OF FIRE DAMPERS / HATCHES IN dampers closing p MACHINERY SPACES</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="SEAT BELT FASTENING BUCKLES LI 70-02 free fall lifeboat an ( arr" MeasureUnitQualifier="(QS)G Life B" Quantity="0" TypeCode="BP" OriginatingSystemRef="20467781" SystemItemNo="2" MonetaryAmount="0.00" Identification="FEBOAT TYPE: SFREEFALLLIFEBOATJY-FIN-6.80)" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>SEAT BELT FASTENING BUCKLES LI 70-02 free fall lifeboat an ( arr | SEAT BELT FASTENING BUCKLES LI 70-02 free fall lifeboat an ( arr</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="IMO SYMBOLS FOR DANGER 440 VOLTS IM" MeasureUnitQualifier="" Quantity="0" TypeCode="BP" OriginatingSystemRef="20467782" SystemItemNo="3" MonetaryAmount="0.00" Identification="O SYMBOLS" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>IMO SYMBOLS FOR DANGER 440 VOLTS IM | IMO SYMBOLS FOR DANGER 440 VOLTS IM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="Firemans outfits Complete set Fi" MeasureUnitQualifier="" Quantity="0" TypeCode="BP" OriginatingSystemRef="20467783" SystemItemNo="4" MonetaryAmount="0.00" Identification="remans outfits" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>Firemans outfits Complete set Fi | Firemans outfits Complete set Fi</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="0.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="0.000" />
+    </Quote>
+  </Interchange>
+</MTML>

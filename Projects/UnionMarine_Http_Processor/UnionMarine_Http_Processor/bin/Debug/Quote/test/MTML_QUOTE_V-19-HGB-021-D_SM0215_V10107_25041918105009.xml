@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8747869-1" Identifier="UNOC" Recipient="SM0215_NEKOPDF" Sender="V10107" PreparationDate="2019-Apr-25" PreparationTime="18:10" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3614" LesRecordID="11571079" LesLinkID="104385" ParentRecordID="11566540" MTML_DOCID="36A15348-D9B3-4A06-97CC-43CC0ED606EF">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-HGB-021-D" MessageNumber="V-19-HGB-021-D" LineItemCount="1" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" DepartmentCode="DECK" LeadTimeDays="0" OriginalFile="20190425115002-QUO-V-19-HGB-021-D-1.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201904251210" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201906241810" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>STORE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-HGB-021-D" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8747869-1" />
+      <Party Qualifier="UD" Identification="9368895" Name="HOEGH BRASILIA">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="STORM VALVE VERTICAL TYPE 5K-100 100 MM 5K CAST STEEL 165 MM 280 MM JIS 200 MM 19 MM 8" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20453145" SystemItemNo="1" MonetaryAmount="446.42" Identification="754244" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="223.21" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="223.21" />
+        <Comments Qualifier="LIN">
+          <value>STORM VALVE VERTICAL TYPE 5K-100 100 MM 5K CAST STEEL 165 MM 280 MM JIS 200 MM 19 MM 8</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="446.420" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="446.420" />
+    </Quote>
+  </Interchange>
+</MTML>

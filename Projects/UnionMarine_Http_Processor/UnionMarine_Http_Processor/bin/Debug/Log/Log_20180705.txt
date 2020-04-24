@@ -1,0 +1,47 @@
+05-07-2018 12:23:01 ================05-07-2018 12:23:01================
+05-07-2018 12:23:01 Union Marine HTTP processor started
+05-07-2018 12:24:10 ================05-07-2018 12:24:10================
+05-07-2018 12:24:10 Union Marine HTTP processor started
+05-07-2018 12:24:20 Union Marine has Login Successfully.
+05-07-2018 12:24:24 Union Marine HTTP processor stopped
+05-07-2018 12:24:24 ====================================================
+05-07-2018 12:25:27 ================05-07-2018 12:25:27================
+05-07-2018 12:25:27 Union Marine HTTP processor started
+05-07-2018 12:27:16 Union Marine has Login Successfully.
+05-07-2018 12:27:20 Union Marine HTTP processor stopped
+05-07-2018 12:27:20 ====================================================
+05-07-2018 12:33:08 ================05-07-2018 12:33:08================
+05-07-2018 12:33:08 Union Marine HTTP processor started
+05-07-2018 12:33:13 Union Marine has Login Successfully.
+05-07-2018 12:33:14 Union Marine HTTP processor stopped
+05-07-2018 12:33:14 ====================================================
+05-07-2018 12:47:39 ================05-07-2018 12:47:39================
+05-07-2018 12:47:39 Union Marine HTTP processor started
+05-07-2018 12:54:21 ================05-07-2018 12:54:21================
+05-07-2018 12:54:21 Union Marine HTTP processor started
+05-07-2018 12:54:26 Union Marine has Login Successfully.
+05-07-2018 12:54:32 Processing RFQ file for VRNO <img src="/img/icon-quote.png" alt="">.
+05-07-2018 17:32:47 ================05-07-2018 17:32:47================
+05-07-2018 17:32:47 Union Marine HTTP processor started
+05-07-2018 17:34:30 ================05-07-2018 17:34:30================
+05-07-2018 17:34:30 Union Marine HTTP processor started
+05-07-2018 18:01:32 ================05-07-2018 18:01:32================
+05-07-2018 18:01:32 Union Marine HTTP processor started
+05-07-2018 18:01:38 Union Marine has Login Successfully.
+05-07-2018 18:03:00 ================05-07-2018 18:03:00================
+05-07-2018 18:03:00 Union Marine HTTP processor started
+05-07-2018 18:03:03 Union Marine has Login Successfully.
+05-07-2018 18:03:30 Download RFQ files for VRNO V-17-MKM-051-D.
+05-07-2018 18:03:32 RFQ 'RFQ_V-17-MKM-051-D_05072018180330.pdf' for VRNO 'V-17-MKM-051-D' downloaded successfully.
+05-07-2018 18:11:57 ================05-07-2018 18:11:57================
+05-07-2018 18:11:57 Union Marine HTTP processor started
+05-07-2018 18:12:03 Union Marine has Login Successfully.
+05-07-2018 18:12:09 Download RFQ files for VRNO V-17-MKM-051-D.
+05-07-2018 18:12:10 RFQ 'RFQ_V-17-MKM-051-D_05072018181209.pdf' for VRNO 'V-17-MKM-051-D' downloaded successfully.
+05-07-2018 18:12:12 Processing Quote file for VRNO <img src="/img/icon-quote.png" alt="">.
+05-07-2018 18:12:13 Exception while Processing file : System.ArgumentException: Illegal characters in path.
+   at HTTPWrapper.HTTPWrapper.PrintScreen(String sFileName) in e:\Projects\LES\UnionMarine_Http_Processor\HTTPWrapper\HTTPWrapper\HTTPWrapper.cs:line 263
+   at LeSCommon.LeSCommon.PrintScreen(String sFileName) in e:\Projects\LES\UnionMarine_Http_Processor\HTTPWrapper\LeSCommon\LeSCommon.cs:line 239
+   at UnionMarine_Http_Routine.Routines.ProcessQuotations(String cVrNo, String cHrefUrl, MTMLInterchange _interchange) in e:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\Routines.cs:line 269
+05-07-2018 18:12:14 Union Marine HTTP processor stopped
+05-07-2018 18:12:14 ====================================================

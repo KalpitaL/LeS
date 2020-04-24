@@ -1,0 +1,99 @@
+13/08/2018 17:26:24 ================13/08/2018 17:26:24================
+13/08/2018 17:26:24 Union Marine HTTP processor started
+13/08/2018 17:26:28 Union Marine has Login Successfully.
+13/08/2018 17:26:29 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:26:31 RFQ 'RFQ_V-18-MKM-135-E_13082018172629.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:26:34 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 17:29:13 ================13/08/2018 17:29:13================
+13/08/2018 17:29:13 Union Marine HTTP processor started
+13/08/2018 17:29:15 Union Marine has Login Successfully.
+13/08/2018 17:29:16 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:29:17 RFQ 'RFQ_V-18-MKM-135-E_13082018172916.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:29:19 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 17:31:36 ================13/08/2018 17:31:36================
+13/08/2018 17:31:36 Union Marine HTTP processor started
+13/08/2018 17:31:39 Union Marine has Login Successfully.
+13/08/2018 17:31:40 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:31:41 RFQ 'RFQ_V-18-MKM-135-E_13082018173140.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:31:43 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 17:32:09 ================13/08/2018 17:32:09================
+13/08/2018 17:32:09 Union Marine HTTP processor started
+13/08/2018 17:32:12 Union Marine has Login Successfully.
+13/08/2018 17:32:13 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:32:14 RFQ 'RFQ_V-18-MKM-135-E_13082018173213.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:32:15 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 17:34:52 ================13/08/2018 17:34:52================
+13/08/2018 17:34:52 Union Marine HTTP processor started
+13/08/2018 17:34:55 Union Marine has Login Successfully.
+13/08/2018 17:34:56 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:34:57 RFQ 'RFQ_V-18-MKM-135-E_13082018173456.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:36:09 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 17:41:57 ================13/08/2018 17:41:57================
+13/08/2018 17:41:57 Union Marine HTTP processor started
+13/08/2018 17:42:00 Union Marine has Login Successfully.
+13/08/2018 17:42:01 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:42:02 RFQ 'RFQ_V-18-MKM-135-E_13082018174201.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:42:06 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 17:44:54 ================13/08/2018 17:44:54================
+13/08/2018 17:44:54 Union Marine HTTP processor started
+13/08/2018 17:44:56 Union Marine has Login Successfully.
+13/08/2018 17:44:57 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:44:58 RFQ 'RFQ_V-18-MKM-135-E_13082018174457.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:45:03 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 17:47:03 ================13/08/2018 17:47:03================
+13/08/2018 17:47:03 Union Marine HTTP processor started
+13/08/2018 17:47:05 Union Marine has Login Successfully.
+13/08/2018 17:47:06 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:47:07 RFQ 'RFQ_V-18-MKM-135-E_13082018174706.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:47:08 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 17:56:17 ================13/08/2018 17:56:17================
+13/08/2018 17:56:17 Union Marine HTTP processor started
+13/08/2018 17:56:20 Union Marine has Login Successfully.
+13/08/2018 17:56:21 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:56:22 RFQ 'RFQ_V-18-MKM-135-E_13082018175621.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:56:23 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 17:59:26 ================13/08/2018 17:59:26================
+13/08/2018 17:59:26 Union Marine HTTP processor started
+13/08/2018 17:59:29 Union Marine has Login Successfully.
+13/08/2018 17:59:29 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 17:59:31 RFQ 'RFQ_V-18-MKM-135-E_13082018175929.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 17:59:31 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 18:02:01 ================13/08/2018 18:02:01================
+13/08/2018 18:02:01 Union Marine HTTP processor started
+13/08/2018 18:02:03 Union Marine has Login Successfully.
+13/08/2018 18:02:04 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 18:02:05 RFQ 'RFQ_V-18-MKM-135-E_13082018180204.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 18:02:06 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 18:04:05 ================13/08/2018 18:04:05================
+13/08/2018 18:04:05 Union Marine HTTP processor started
+13/08/2018 18:04:07 Union Marine has Login Successfully.
+13/08/2018 18:04:08 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 18:04:09 RFQ 'RFQ_V-18-MKM-135-E_13082018180408.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 18:04:10 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 18:08:06 ================13/08/2018 18:08:06================
+13/08/2018 18:08:06 Union Marine HTTP processor started
+13/08/2018 18:08:09 Union Marine has Login Successfully.
+13/08/2018 18:08:10 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 18:08:11 RFQ 'RFQ_V-18-MKM-135-E_13082018180810.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 18:08:13 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 18:10:05 ================13/08/2018 18:10:05================
+13/08/2018 18:10:05 Union Marine HTTP processor started
+13/08/2018 18:10:08 Union Marine has Login Successfully.
+13/08/2018 18:10:08 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 18:10:10 RFQ 'RFQ_V-18-MKM-135-E_13082018181008.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 18:10:12 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 18:12:14 ================13/08/2018 18:12:14================
+13/08/2018 18:12:14 Union Marine HTTP processor started
+13/08/2018 18:12:17 Union Marine has Login Successfully.
+13/08/2018 18:12:18 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 18:12:19 RFQ 'RFQ_V-18-MKM-135-E_13082018181218.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 18:12:20 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 18:16:59 ================13/08/2018 18:16:59================
+13/08/2018 18:16:59 Union Marine HTTP processor started
+13/08/2018 18:17:03 Union Marine has Login Successfully.
+13/08/2018 18:17:13 Download RFQ files for VRNO V-18-MKM-135-E.
+13/08/2018 18:17:14 RFQ 'RFQ_V-18-MKM-135-E_13082018181713.pdf' for VRNO 'V-18-MKM-135-E' downloaded successfully.
+13/08/2018 18:17:16 Processing Quote file for VRNO V-18-MKM-135-E.
+13/08/2018 18:21:44 ================13/08/2018 18:21:44================
+13/08/2018 18:21:44 Union Marine HTTP processor started
+13/08/2018 18:21:46 Union Marine has Login Successfully.

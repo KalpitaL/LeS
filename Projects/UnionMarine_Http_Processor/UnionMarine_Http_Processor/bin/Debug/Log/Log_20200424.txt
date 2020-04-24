@@ -1,0 +1,60 @@
+4/24/2020 11:21:16 AM ================4/24/2020 11:21:16 AM================
+4/24/2020 11:21:16 AM Union Marine HTTP processor started
+4/24/2020 11:21:27 AM Union Marine login process started for User 0119701378
+4/24/2020 11:21:30 AM Union Marine has login Successfully.
+4/24/2020 11:21:30 AM Processing Quote File MTML_QUOTE_V-20-MNM-023-E_SM0215_V10001_24042012484937.xml started.
+4/24/2020 11:21:30 AM Search records from the List
+4/24/2020 11:21:42 AM Quote update -1
+4/24/2020 11:21:43 AM Download RFQ files for VRNO V-20-MNM-023-E.
+4/24/2020 11:21:47 AM RFQ 'Consolidated_quotations_200424_124336334.pdf' for VRNO 'V-20-MNM-023-E' downloaded successfully.
+4/24/2020 11:21:47 AM Quote update -3
+4/24/2020 11:21:47 AM Quote update -5
+4/24/2020 11:21:47 AM Quote update -7
+4/24/2020 11:21:47 AM Quote update -9
+4/24/2020 11:21:47 AM Quote update -11
+4/24/2020 11:21:47 AM Quote update -13
+4/24/2020 11:21:47 AM Quote update -15
+4/24/2020 11:21:49 AM Processing Quote file for VRNO V-20-MNM-023-E.
+4/24/2020 11:21:50 AM Processing Quote Header and Items  for VRNO V-20-MNM-023-E.
+4/24/2020 11:22:20 AM Quotation for VRNO V-20-MNM-023-E saved successfully.
+4/24/2020 11:26:12 AM ================4/24/2020 11:26:12 AM================
+4/24/2020 11:26:12 AM Union Marine HTTP processor started
+4/24/2020 11:26:19 AM Union Marine login process started for User 0119701378
+4/24/2020 11:26:22 AM Union Marine has login Successfully.
+4/24/2020 11:26:22 AM Processing Quote File MTML_QUOTE_V-20-MNM-023-E_SM0215_V10001_24042012484937.xml started.
+4/24/2020 11:26:22 AM Search records from the List
+4/24/2020 11:26:24 AM Quote update -1
+4/24/2020 11:26:25 AM File is already downloaded for VRNO V-20-MNM-023-E.
+4/24/2020 11:26:25 AM Quote update -3
+4/24/2020 11:26:25 AM Quote update -5
+4/24/2020 11:26:25 AM Quote update -7
+4/24/2020 11:26:25 AM Quote update -9
+4/24/2020 11:26:25 AM Quote update -11
+4/24/2020 11:26:25 AM Quote update -13
+4/24/2020 11:26:25 AM Quote update -15
+4/24/2020 11:26:27 AM Processing Quote file for VRNO V-20-MNM-023-E.
+4/24/2020 11:26:28 AM Processing Quote Header and Items  for VRNO V-20-MNM-023-E.
+4/24/2020 11:26:32 AM Quotation for VRNO V-20-MNM-023-E saved successfully.
+4/24/2020 11:31:06 AM ================4/24/2020 11:31:06 AM================
+4/24/2020 11:31:06 AM Union Marine HTTP processor started
+4/24/2020 11:31:13 AM Union Marine login process started for User 0119701378
+4/24/2020 11:31:16 AM Union Marine has login Successfully.
+4/24/2020 11:31:16 AM Processing Quote File MTML_QUOTE_V-20-MNM-023-E_SM0215_V10001_24042012484937.xml started.
+4/24/2020 11:31:16 AM Search records from the List
+4/24/2020 11:31:17 AM Quote update -1
+4/24/2020 11:31:18 AM File is already downloaded for VRNO V-20-MNM-023-E.
+4/24/2020 11:31:18 AM Quote update -3
+4/24/2020 11:31:18 AM Quote update -5
+4/24/2020 11:31:18 AM Quote update -7
+4/24/2020 11:31:18 AM Quote update -9
+4/24/2020 11:31:18 AM Quote update -11
+4/24/2020 11:31:18 AM Quote update -13
+4/24/2020 11:31:18 AM Quote update -15
+4/24/2020 11:31:20 AM Processing Quote file for VRNO V-20-MNM-023-E.
+4/24/2020 11:31:21 AM Processing Quote Header and Items  for VRNO V-20-MNM-023-E.
+4/24/2020 11:31:24 AM Quotation for VRNO V-20-MNM-023-E saved successfully.
+4/24/2020 11:31:56 AM Quotation for VRNO V-20-MNM-023-E updated successfully.
+4/24/2020 11:31:57 AM Processing Quote File ended.
+4/24/2020 11:31:57 AM ---------------------------------------
+4/24/2020 11:31:57 AM Union Marine HTTP processor stopped
+4/24/2020 11:31:57 AM ====================================================

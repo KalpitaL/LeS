@@ -1,0 +1,1369 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<!-- start: Meta -->
+	<meta charset="utf-8">
+	<title>Intuitships SupplyNET</title>
+	<meta name="description" content="Intuitships SupplyNET">
+	<meta name="keyword" content="Intuitships SupplyNET">
+	<!-- end: Meta -->
+	
+	<!-- start: Mobile Specific -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- end: Mobile Specific -->
+	
+	<!-- start: Favicon and Touch Icons -->
+	<link href="https://supplynet.intuitships-umms.com/img/favicon.png?t=4" rel="shortcut icon" type="image/x-icon">
+	<!-- end: Favicon and Touch Icons -->
+	
+	<!-- start: CSS -->
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bootstrap.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/font-awesome.min.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bariol-font.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/style.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/developer.css?v=2019.02.01">	<!-- end: CSS -->
+
+	<!-- start: JS -->
+    
+    <script language="javascript" type="text/javascript"> 
+	var websiteUrl 		= "https://supplynet.intuitships-umms.com/"; 
+	</script>
+
+    <script type="text/javascript" src="/js/jquery.2.1.1.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/bootstrap.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/bootbox.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/jquery.chromatable.js?v=2019.02.01"></script><script type="text/javascript" src="/js/sweetalert.min.js?v=2019.02.01"></script>	
+	<!-- start: JS -->
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+	<!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie7.css?v=2019.02.01" />	<![endif]-->
+	
+	<script type="text/javascript" src="/js/functions.js?v=2019.02.01"></script>		
+</head>
+
+<body>
+
+<div id="site-content">
+	
+	<div id="header">
+		<div class="container">
+			<div class="row">
+            
+                
+				<div class="col-sm-8">
+                	<a href="https://supplynet.intuitships-umms.com/invoice" class="logo"><img src="https://supplynet.intuitships-umms.com/img/home-logo.png" alt="Intuitships SupplyNET"> <span class="name">intuit<strong>ships</strong></span> <span class="type">SupplyNET</span></a>				</div>
+				<div class="col-sm-4">
+					<div class="dropdown profile">
+						<a href="https://supplynet.intuitships-umms.com/#" data-toggle="dropdown" class="dropdown-toggle">NEKO SHIP SUPPLY BV <span class="caret"></span></a>
+						<ul class="dropdown-menu with-arrow">
+                            
+							<li><a href="https://supplynet.intuitships-umms.com/users/my_profile"><i class="fa fa-user"></i> Edit Profile</a></li>
+                            <li><a href="https://supplynet.intuitships-umms.com/users/logout"><i class="fa fa-power-off"></i> Logout</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="header-block"></div>
+	
+	<div id="pagearea">
+		<div class="container">
+        
+        <style><!--
+.require{ background:#FFD5D5; }
+--></style>
+<script type="text/javascript" src="/js/ajaxupload.js?v=2019.02.01"></script><script type="text/javascript" src="/js/global_functions.js?v=2019.02.01"></script><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bootstrap-datetimepicker.css?v=2019.02.01"><script type="text/javascript" src="/js/bootstrap-datetimepicker.js"></script><div class="tile">
+    <div class="tile-header">
+        <h1 class="heading">Quote For RFQ # V-19-LNB-020-G </h1>
+    </div>
+    <div class="tile-body">
+    
+            	<form method="post" action="" id="SubmitQuote">
+                <input type="hidden" name="data[RequestSupplier][Action]" id="Action" value="submit">			
+                <div class="row">
+                    <div class="col-sm-2"><strong>Currency</strong></div>
+                    <div class="col-sm-3"><select name="data[RequestSupplier][CurrencyCode]" class="form-control w100 jq_require" id="RequestSupplierCurrencyCode">EUR</select>                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Discount</strong></div>
+                    <div class="col-sm-3">
+                        <div class="input-group iconed-input" style="width:100px;">
+                            <input name="data[RequestSupplier][Discount]" type="text" class="form-control jq_global_discount jq_numeric w100" value="0.00" id="RequestSupplierDiscount">                            <span class="input-group-addon">%</span> 
+                        </div>
+                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Delivery Charges</strong></div>
+                    <div class="col-sm-3">
+                    <input name="data[RequestSupplier][DeliveryCharges]" type="text" class="form-control jq_require jq_delivery_charge jq_numeric w100" value="0.00" id="RequestSupplierDeliveryCharges">                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Quotation Reference #</strong></div>
+                    <div class="col-sm-2">
+					<input name="data[RequestSupplier][SupplierReferenceNumber]" type="text" class="form-control w200" value="Quote:8734858-2" id="RequestSupplierSupplierReferenceNumber">                    </div>
+                    
+                    <div class="col-sm-2" align="right"><strong>Validity Period</strong></div>
+                    <div class="col-sm-2">
+                    	<div class="input-group iconed-input">
+                            <input name="data[RequestSupplier][ValidityPeriod]" type="text" class="form-control" value="59" id="RequestSupplierValidityPeriod">                            <span class="input-group-addon">days</span> 
+                        </div>
+					
+                    </div>
+                    
+                    <div class="col-sm-2" align="right"><strong>Expected Date of Readiness</strong></div>
+                    <div class="col-sm-2">
+                    	<div class="input-group iconed-input">
+                        	<input name="data[RequestSupplier][DeliveryLeadTime]" type="text" class="form-control datetimepicker" readonly="readonly" value="25/04/2019 16:16" id="RequestSupplierDeliveryLeadTime">                            <span class="input-group-addon"><i class="fa fa-calendar"></i></span> 
+                        </div>	
+						
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Comment</strong></div>
+                    <div class="col-sm-4">
+					<textarea name="data[RequestSupplier][Comment]" class="form-control" rows="3" id="RequestSupplierComment"></textarea>                            
+                    </div>
+                </div>
+                <br>
+                
+                <div class="row">
+                    <div class="col-sm-2"><strong>Upload Reference Document</strong></div>
+                    <div class="col-sm-4">
+						<input type="file" name="data[RequestSupplier][File]" id="File"><input type="hidden" name="data[RequestSupplier][FileHidden]" id="FileHidden"> 
+                        <div class="help-block error errorFileHidden" id="ErrorFile" style="color:#F00;"></div>
+                        <div id="FileFile"></div>
+                        <div class="help-text">Only PDF, PNG, JPG file allowed</div>	
+					
+                            
+                    </div>
+                </div>
+                <br>
+                
+                
+                <br>
+                
+				<table width="100%" class="table table-bordered">
+					<thead>
+                    <tr>
+                    	<th>#</th>
+                                                	<th colspan="2">Part Detail</th>
+                            <th colspan="2">Required</th>
+                            <th colspan="4">Quote</th>  
+                                                
+                    	                      
+                    </tr>
+					<tr>
+						<th width="3%"></th>
+						
+                                                	<th width="10%">Part Name</th>
+                            <th width="6%">IMPA Code</th>
+                            
+                           
+                            <th width="4%">QTY</th>
+                            <th width="10%">Additional Information</th>
+                            
+                            
+                            <th width="15%">Remark</th>
+                            <th width="8%">QTY<span class="text-danger">*</span></th>
+                            <th width="8%">Unit Price<span class="text-danger">*</span></th> 
+                            <th width="5%">Discount</th> 
+                             
+                                                
+                                     
+                        
+					</tr>
+					</thead>
+					<tbody>
+											<tr class="part_quote">
+							<td align="center">1</td>
+							<td>PILLOW CASE WHITE REGULAR, 750X500X200MM&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (1.50 EUR) quoted on 29/10/2018 in V-18-HGS-117-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>150286</td>
+                                                        
+                            
+                            
+                            <td align="center">48 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77886]" class="form-control" id="QuoteRemark77886" value="BATH TOWEL COTTON WHITE, 670 X 1270MM 150603 BATH TOWEL COTTON WHITE, 670 X 1270MM
+ UOM :PCE">BATH TOWEL COTTON WHITE, 670 X 1270MM 150603 BATH TOWEL COTTON WHITE, 670 X 1270MM
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77886]" type="text" class="form-control jq_qty jq_require jq_numeric" value="1.0000" id="QuoteQTYSuggested77886">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77886]" type="text" value="2.3700" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77886">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77886]" type="text" value="0.0000" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77886">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">2</td>
+							<td>BATH TOWEL COTTON WHITE, 670 X 1270MM&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (3.07 EUR) quoted on 17/04/2019 in V-19-LLB-036-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>150603</td>
+                                                        
+                            
+                            
+                            <td align="center">24 SHT</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77885]" class="form-control" id="QuoteRemark77885" value="PILLOW CASE WHITE REGULAR 750X500X200MM 150286 PILLOW CASE WHITE REGULAR 750X500X200MM
+ UOM :PCE">PILLOW CASE WHITE REGULAR 750X500X200MM 150286 PILLOW CASE WHITE REGULAR 750X500X200MM
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77885]" type="text" class="form-control jq_qty jq_require jq_numeric" value="48" id="QuoteQTYSuggested77885">                                <span class="input-group-addon">SHT</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77885]" type="text" value="1.24" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77885">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77885]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77885">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">3</td>
+							<td>TEA SPOON 18-CR 8-NI, STAINLESS STEEL STANDARD GRADE</td>
+                            
+                                                        <td>170234</td>
+                                                        
+                            
+                            
+                            <td align="center">24 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77904]" class="form-control" id="QuoteRemark77904" value="PAPER TOWEL ROLL 228MMX17.6MTR, 2 ROLL/PKT 174233 PAPER TOWEL ROLL 228MMX17.6MTR, 2 ROLL/PKT
+ UOM :CT">PAPER TOWEL ROLL 228MMX17.6MTR, 2 ROLL/PKT 174233 PAPER TOWEL ROLL 228MMX17.6MTR, 2 ROLL/PKT
+ UOM :CT</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77904]" type="text" class="form-control jq_qty jq_require jq_numeric" value="50" id="QuoteQTYSuggested77904">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77904]" type="text" value="0.29" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77904">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77904]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77904">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">4</td>
+							<td>COUPE SOUP PLATE CHINA, MARINE QUALITY 195MM</td>
+                            
+                                                        <td>170326</td>
+                                                        
+                            
+                            
+                            <td align="center">24 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77907]" class="form-control" id="QuoteRemark77907" value="OVEN MITT HEAT PROTECTION ALUMINIZED CLOTH
+ UOM :PR">OVEN MITT HEAT PROTECTION ALUMINIZED CLOTH
+ UOM :PR</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77907]" type="text" class="form-control jq_qty jq_require jq_numeric" value="5" id="QuoteQTYSuggested77907">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77907]" type="text" value="4.75" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77907">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77907]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77907">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">5</td>
+							<td>FRUIT PLATE CHINA, MARINE QUALITY 142MM</td>
+                            
+                                                        <td>170328</td>
+                                                        
+                            
+                            
+                            <td align="center">24 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77908]" class="form-control" id="QuoteRemark77908" value="PLASTIC BAG TRANSPARENT 520X600MM 10S 174173 PLASTIC BAG TRANSPARENT 520X600MM 10S
+ UOM :PCE">PLASTIC BAG TRANSPARENT 520X600MM 10S 174173 PLASTIC BAG TRANSPARENT 520X600MM 10S
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77908]" type="text" class="form-control jq_qty jq_require jq_numeric" value="50" id="QuoteQTYSuggested77908">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77908]" type="text" value="0.52" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77908">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77908]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77908">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">6</td>
+							<td>SAUCER FOR COFFEE CUP CHINA, MARINE QUALITY 150MM</td>
+                            
+                                                        <td>170332</td>
+                                                        
+                            
+                            
+                            <td align="center">24 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77905]" class="form-control" id="QuoteRemark77905" value="SOAP LIQUID 800CC FOR GALLEY 550141 SOAP LIQUID 800CC FOR GALLEY
+ UOM :BO">SOAP LIQUID 800CC FOR GALLEY 550141 SOAP LIQUID 800CC FOR GALLEY
+ UOM :BO</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77905]" type="text" class="form-control jq_qty jq_require jq_numeric" value="72" id="QuoteQTYSuggested77905">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77905]" type="text" value="0.61" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77905">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77905]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77905">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">7</td>
+							<td>PAPER CUP DISPOSABLE 270CC&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (0.48 EUR) quoted on 09/04/2019 in V-19-HGS-052-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>170688</td>
+                                                        
+                            
+                            
+                            <td align="center">100 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77906]" class="form-control" id="QuoteRemark77906" value="PLASTIC BAG BLACK, 500X400X1300MM 50S 174176 PLASTIC BAG BLACK, 500X400X1300MM 50S
+ UOM :PKT">PLASTIC BAG BLACK, 500X400X1300MM 50S 174176 PLASTIC BAG BLACK, 500X400X1300MM 50S
+ UOM :PKT</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77906]" type="text" class="form-control jq_qty jq_require jq_numeric" value="200" id="QuoteQTYSuggested77906">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77906]" type="text" value="1.94" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77906">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77906]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77906">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">8</td>
+							<td>BUTCHER'S KNIFE CARBON STEEL, BLADE 210MM</td>
+                            
+                                                        <td>172321</td>
+                                                        
+                            
+                            
+                            <td align="center">1 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77897]" class="form-control" id="QuoteRemark77897" value="WRAPPING FOIL CELLOPHANE 300MMX50MTR 174207 WRAPPING FOIL CELLOPHANE 300MMX50MTR
+ UOM :PCE">WRAPPING FOIL CELLOPHANE 300MMX50MTR 174207 WRAPPING FOIL CELLOPHANE 300MMX50MTR
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77897]" type="text" class="form-control jq_qty jq_require jq_numeric" value="30" id="QuoteQTYSuggested77897">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77897]" type="text" value="0.47" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77897">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77897]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77897">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">9</td>
+							<td>BUTCHER'S KNIFE CARBON STEEL, BLADE 240MM</td>
+                            
+                                                        <td>172322</td>
+                                                        
+                            
+                            
+                            <td align="center">1 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77898]" class="form-control" id="QuoteRemark77898" value="THERMO POT ELECTRIC, 3.8LTR 220V 174529 THERMO POT ELECTRIC, 3.8LTR 220V
+ UOM :PCE">THERMO POT ELECTRIC, 3.8LTR 220V 174529 THERMO POT ELECTRIC, 3.8LTR 220V
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77898]" type="text" class="form-control jq_qty jq_require jq_numeric" value="2" id="QuoteQTYSuggested77898">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77898]" type="text" value="28.77" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77898">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77898]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77898">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">10</td>
+							<td>CHINESE VEGETABLE KNIFE, BLADE 213MM</td>
+                            
+                                                        <td>173662</td>
+                                                        
+                            
+                            
+                            <td align="center">1 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77899]" class="form-control" id="QuoteRemark77899" value="TOASTER AUTO 4-SLICES 220V
+ UOM :PCE">TOASTER AUTO 4-SLICES 220V
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77899]" type="text" class="form-control jq_qty jq_require jq_numeric" value="2" id="QuoteQTYSuggested77899">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77899]" type="text" value="20.44" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77899">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77899]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77899">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">11</td>
+							<td>OVEN MITT HEAT PROTECTION, ALUMINIZED CLOTH&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (14.06 EUR) quoted on 09/04/2019 in V-19-HGS-052-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>174048</td>
+                                                        
+                            
+                            
+                            <td align="center">5 PRS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77888]" class="form-control" id="QuoteRemark77888" value="COOKING FOIL ALUMINIUM, 450MMX30MTR
+ UOM :PCE">COOKING FOIL ALUMINIUM, 450MMX30MTR
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77888]" type="text" class="form-control jq_qty jq_require jq_numeric" value="30" id="QuoteQTYSuggested77888">                                <span class="input-group-addon">PRS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77888]" type="text" value="3.49" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77888">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77888]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77888">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">12</td>
+							<td>PLASTIC BAG TRANSPARENT, 520X600MM 10'S</td>
+                            
+                                                        <td>174173</td>
+                                                        
+                            
+                            
+                            <td align="center">50 PKT</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77889]" class="form-control" id="QuoteRemark77889" value="CLEANSER TOILET BOWL, HARPIC 500GRM 550307 CLEANSER TOILET BOWL, HARPIC 500GRM
+ UOM :BO">CLEANSER TOILET BOWL, HARPIC 500GRM 550307 CLEANSER TOILET BOWL, HARPIC 500GRM
+ UOM :BO</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77889]" type="text" class="form-control jq_qty jq_require jq_numeric" value="48" id="QuoteQTYSuggested77889">                                <span class="input-group-addon">PKT</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77889]" type="text" value="0.77" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77889">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77889]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77889">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">13</td>
+							<td>PLASTIC BAG BLACK, 500X400X1300MM 50'S&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (0.81 EUR) quoted on 17/04/2019 in V-19-LLB-036-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>174176</td>
+                                                        
+                            
+                            
+                            <td align="center">100 PKT</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77891]" class="form-control" id="QuoteRemark77891" value="BUTCHERS KNIFE CARBON STEEL BLADE 210MM 172321 BUTCHERS KNIFE CARBON STEEL BLADE 210MM
+ UOM :PCE">BUTCHERS KNIFE CARBON STEEL BLADE 210MM 172321 BUTCHERS KNIFE CARBON STEEL BLADE 210MM
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77891]" type="text" class="form-control jq_qty jq_require jq_numeric" value="1" id="QuoteQTYSuggested77891">                                <span class="input-group-addon">PKT</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77891]" type="text" value="8.21" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77891">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77891]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77891">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">14</td>
+							<td>COOKING FOIL ALUMINIUM, 450MMX30MTR&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (1.18 EUR) quoted on 29/10/2018 in V-18-HGS-117-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>174202</td>
+                                                        
+                            
+                            
+                            <td align="center">30 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77895]" class="form-control" id="QuoteRemark77895" value="BUTCHERS KNIFE CARBON STEEL BLADE 240MM 172322 BUTCHERS KNIFE CARBON STEEL BLADE 240MM
+ UOM :PCE">BUTCHERS KNIFE CARBON STEEL BLADE 240MM 172322 BUTCHERS KNIFE CARBON STEEL BLADE 240MM
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77895]" type="text" class="form-control jq_qty jq_require jq_numeric" value="1" id="QuoteQTYSuggested77895">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77895]" type="text" value="9.73" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77895">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77895]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77895">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">15</td>
+							<td>WRAPPING FOIL CELLOPHANE, 300MMX50MTR</td>
+                            
+                                                        <td>174207</td>
+                                                        
+                            
+                            
+                            <td align="center">30 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77892]" class="form-control" id="QuoteRemark77892" value="CHINESE VEGETABLE KNIFE, BLADE 213MM 173662 CHINESE VEGETABLE KNIFE, BLADE 213MM
+ UOM :PCE">CHINESE VEGETABLE KNIFE, BLADE 213MM 173662 CHINESE VEGETABLE KNIFE, BLADE 213MM
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77892]" type="text" class="form-control jq_qty jq_require jq_numeric" value="1" id="QuoteQTYSuggested77892">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77892]" type="text" value="9.83" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77892">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77892]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77892">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">16</td>
+							<td>PAPER TOWEL ROLL 228MMX17.6MTR, 2 ROLL/PKT&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (0.48 EUR) quoted on 17/04/2019 in V-19-LLB-036-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>174233</td>
+                                                        
+                            
+                            
+                            <td align="center">50 PKT</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77887]" class="form-control" id="QuoteRemark77887" value="WASHING POWDER ROBETA 3 KG
+ UOM :SA">WASHING POWDER ROBETA 3 KG
+ UOM :SA</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77887]" type="text" class="form-control jq_qty jq_require jq_numeric" value="50" id="QuoteQTYSuggested77887">                                <span class="input-group-addon">PKT</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77887]" type="text" value="2.46" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77887">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77887]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77887">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">17</td>
+							<td>THERMO POT ELECTRIC, 3.8LTR 220V&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (33.95 EUR) quoted on 01/04/2019 in V-19-RKE-034-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>174529</td>
+                                                        
+                            
+                            
+                            <td align="center">2 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77893]" class="form-control" id="QuoteRemark77893" value="SOAP LAUNDRY POWDER W/ENZYME 1.2KGS/PKT 550111 SOAP LAUNDRY POWDER W/ENZYME 1.2KGS/PKT
+ UOM :PKT">SOAP LAUNDRY POWDER W/ENZYME 1.2KGS/PKT 550111 SOAP LAUNDRY POWDER W/ENZYME 1.2KGS/PKT
+ UOM :PKT</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77893]" type="text" class="form-control jq_qty jq_require jq_numeric" value="50" id="QuoteQTYSuggested77893">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77893]" type="text" value="2.46" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77893">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77893]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77893">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">18</td>
+							<td>TOASTER AUTO 4-SLICES 220V</td>
+                            
+                                                        <td>174554</td>
+                                                        
+                            
+                            
+                            <td align="center">2 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77894]" class="form-control" id="QuoteRemark77894" value="SOAP TOILET LUX 100GRMX72S 550253 SOAP TOILET LUX 100GRMX72S
+ UOM :cs">SOAP TOILET LUX 100GRMX72S 550253 SOAP TOILET LUX 100GRMX72S
+ UOM :cs</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77894]" type="text" class="form-control jq_qty jq_require jq_numeric" value="3" id="QuoteQTYSuggested77894">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77894]" type="text" value="0.24" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77894">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77894]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77894">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">19</td>
+							<td>RICE COOKER 4.0LTR 220V</td>
+                            
+                                                        <td>174616</td>
+                                                        
+                            
+                            
+                            <td align="center">2 SET</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77903]" class="form-control" id="QuoteRemark77903" value="RICE COOKER 4.0LTR 220V 174616 RICE COOKER 4.0LTR 220V
+ UOM :SET">RICE COOKER 4.0LTR 220V 174616 RICE COOKER 4.0LTR 220V
+ UOM :SET</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77903]" type="text" class="form-control jq_qty jq_require jq_numeric" value="2" id="QuoteQTYSuggested77903">                                <span class="input-group-addon">SET</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77903]" type="text" value="38.04" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77903">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77903]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77903">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">20</td>
+							<td>SOAP LAUNDRY POWDER W/ENZYME, 1.0KGS/PKT</td>
+                            
+                                                        <td>550110</td>
+                                                        
+                            
+                            
+                            <td align="center">150 PKT</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77900]" class="form-control" id="QuoteRemark77900" value="TEA SPOON 18-CR 8-NI, STAINLESS STEEL STANDARD GRADE 170234 TEA SPOON 18-CR 8-NI, STAINLESS STEEL STANDARD GRADE
+ UOM :PCE">TEA SPOON 18-CR 8-NI, STAINLESS STEEL STANDARD GRADE 170234 TEA SPOON 18-CR 8-NI, STAINLESS STEEL STANDARD GRADE
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77900]" type="text" class="form-control jq_qty jq_require jq_numeric" value="24" id="QuoteQTYSuggested77900">                                <span class="input-group-addon">PKT</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77900]" type="text" value="0.24" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77900">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77900]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77900">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">21</td>
+							<td>SOAP LAUNDRY POWDER W/ENZYME, 1.2KGS/PKT&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (11.51 EUR) quoted on 09/04/2019 in V-19-HGS-052-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>550111</td>
+                                                        
+                            
+                            
+                            <td align="center">150 PKT</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77901]" class="form-control" id="QuoteRemark77901" value="SAUCER FOR COFFEE CUP CHINA MARINE QUALITY 150MM 170332 SAUCER FOR COFFEE CUP CHINA MARINE QUALITY 150MM
+ UOM :PCE">SAUCER FOR COFFEE CUP CHINA MARINE QUALITY 150MM 170332 SAUCER FOR COFFEE CUP CHINA MARINE QUALITY 150MM
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77901]" type="text" class="form-control jq_qty jq_require jq_numeric" value="24" id="QuoteQTYSuggested77901">                                <span class="input-group-addon">PKT</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77901]" type="text" value="0.43" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77901">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77901]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77901">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">22</td>
+							<td>SOAP LIQUID 800CC FOR GALLEY&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (0.61 EUR) quoted on 09/04/2019 in V-19-HGS-052-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>550141</td>
+                                                        
+                            
+                            
+                            <td align="center">72 BTL</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77890]" class="form-control" id="QuoteRemark77890" value="PAPER CUP DISPOSABLE 270CC 170688 PAPER CUP DISPOSABLE 270CC
+ UOM :PCE">PAPER CUP DISPOSABLE 270CC 170688 PAPER CUP DISPOSABLE 270CC
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77890]" type="text" class="form-control jq_qty jq_require jq_numeric" value="100" id="QuoteQTYSuggested77890">                                <span class="input-group-addon">BTL</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77890]" type="text" value="3.79" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77890">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77890]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77890">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">23</td>
+							<td>SOAP LIQUID FOR GALLEY 18KGS</td>
+                            
+                                                        <td>550142</td>
+                                                        
+                            
+                            
+                            <td align="center">1 CAN</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77913]" class="form-control" id="QuoteRemark77913" value="COUPE SOUP PLATE CHINA, MARINE QUALITY 195MM 170326 COUPE SOUP PLATE CHINA, MARINE QUALITY 195MM
+ UOM :PCE">COUPE SOUP PLATE CHINA, MARINE QUALITY 195MM 170326 COUPE SOUP PLATE CHINA, MARINE QUALITY 195MM
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77913]" type="text" class="form-control jq_qty jq_require jq_numeric" value="24" id="QuoteQTYSuggested77913">                                <span class="input-group-addon">CAN</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77913]" type="text" value="1.35" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77913">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77913]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77913">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">24</td>
+							<td>SOAP LIQUID DISINFECTANT, 20KGS&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (16.50 EUR) quoted on 18/06/2018 in V-18-HGS-038-D" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>550147</td>
+                                                        
+                            
+                            
+                            <td align="center">1 BTL</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77912]" class="form-control" id="QuoteRemark77912" value="FRUIT PLATE CHINA, MARINE QUALITY 142MM 170328 FRUIT PLATE CHINA, MARINE QUALITY 142MM
+ UOM :PCE">FRUIT PLATE CHINA, MARINE QUALITY 142MM 170328 FRUIT PLATE CHINA, MARINE QUALITY 142MM
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77912]" type="text" class="form-control jq_qty jq_require jq_numeric" value="24" id="QuoteQTYSuggested77912">                                <span class="input-group-addon">BTL</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77912]" type="text" value="0.64" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77912">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77912]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77912">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">25</td>
+							<td>SOAP TOILET LUX 100GRMX72'S&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (0.24 EUR) quoted on 01/04/2019 in V-19-RKE-034-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>550253</td>
+                                                        
+                            
+                            
+                            <td align="center">3 C/T</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77902]" class="form-control" id="QuoteRemark77902" value="CLEANER OVEN 300GRM 550301 CLEANER OVEN 300GRM
+ UOM :TN">CLEANER OVEN 300GRM 550301 CLEANER OVEN 300GRM
+ UOM :TN</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77902]" type="text" class="form-control jq_qty jq_require jq_numeric" value="12" id="QuoteQTYSuggested77902">                                <span class="input-group-addon">C/T</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77902]" type="text" value="1.44" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77902">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77902]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77902">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">26</td>
+							<td>REFILL FOR HAND SOAP DISPENSER, JELL 250ML&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (0.86 EUR) quoted on 29/10/2018 in V-18-HGS-117-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>550292</td>
+                                                        
+                            
+                            
+                            <td align="center">12 BTL</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77911]" class="form-control" id="QuoteRemark77911" value="HAND SOAP IM PUMP DISPENSER 500ML
+ UOM :JR">HAND SOAP IM PUMP DISPENSER 500ML
+ UOM :JR</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77911]" type="text" class="form-control jq_qty jq_require jq_numeric" value="12" id="QuoteQTYSuggested77911">                                <span class="input-group-addon">BTL</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77911]" type="text" value="0.95" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77911">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77911]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77911">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">27</td>
+							<td>REFILL FOR HAND SOAP DISPENSER</td>
+                            
+                                                        <td>550294</td>
+                                                        
+                            
+                            
+                            <td align="center">12 BTL</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77910]" class="form-control" id="QuoteRemark77910" value="HANDZEEP VLOEIBAAR, POMPFLACON 300 CC
+ UOM :PCE">HANDZEEP VLOEIBAAR, POMPFLACON 300 CC
+ UOM :PCE</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77910]" type="text" class="form-control jq_qty jq_require jq_numeric" value="12" id="QuoteQTYSuggested77910">                                <span class="input-group-addon">BTL</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77910]" type="text" value="1.65" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77910">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77910]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77910">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">28</td>
+							<td>CLEANER OVEN 300GRM</td>
+                            
+                                                        <td>550301</td>
+                                                        
+                            
+                            
+                            <td align="center">12 TIN</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77909]" class="form-control" id="QuoteRemark77909" value="SOAP LIQUID DISINFECTANT, 20KGS 550147 SOAP LIQUID DISINFECTANT, 20KGS
+ UOM :BO">SOAP LIQUID DISINFECTANT, 20KGS 550147 SOAP LIQUID DISINFECTANT, 20KGS
+ UOM :BO</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77909]" type="text" class="form-control jq_qty jq_require jq_numeric" value="1" id="QuoteQTYSuggested77909">                                <span class="input-group-addon">TIN</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77909]" type="text" value="13.34" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77909">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77909]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77909">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">29</td>
+							<td>CLEANSER TOILET BOWL, HARPIC 500GRM&nbsp;<i class="fa fa-info-circle" style="color:blue; font-size:16px;" title="price (0.77 EUR) quoted on 01/04/2019 in V-19-RKE-034-G" data-toggle="tooltip"></i></td>
+                            
+                                                        <td>550307</td>
+                                                        
+                            
+                            
+                            <td align="center">48 BTL</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][77896]" class="form-control" id="QuoteRemark77896" value="SOAP LIQUID FOR GALLEY 18KGS 550142 SOAP LIQUID FOR GALLEY 18KGS
+ UOM :CA">SOAP LIQUID FOR GALLEY 18KGS 550142 SOAP LIQUID FOR GALLEY 18KGS
+ UOM :CA</textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][77896]" type="text" class="form-control jq_qty jq_require jq_numeric" value="1" id="QuoteQTYSuggested77896">                                <span class="input-group-addon">BTL</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][77896]" type="text" value="2.37" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice77896">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][77896]" type="text" value="0.00" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount77896">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+					                    
+                    <tr><td colspan="8" align="right"><strong>Total Amount</strong></td>
+                    	<td class="total_amount" align="right" style="font-weight:bold;"></td>
+                   	</tr>
+					
+				</tbody>
+                
+                </table>
+                <br>
+				<div class="form-group text-left">
+				<span class="btn btn-primary jq_save">Save Quote</span>&nbsp;<input class="btn btn-primary jq_submit" type="submit" value="Submit Quote"><a href="https://supplynet.intuitships-umms.com/javascript:void(0)" class="btn btn-primary jq_wait" style="display:none;"><i class="fa fa-spinner fa-spin"></i> Submitting...</a>				</div>
+                </form>
+                <b>NOTE : </b><br>
+                PN* : Part Number<br>
+                DN* : Drawing Number<br>
+                IN* : Item Number
+	</div>
+</div>
+
+<script language="javascript" type="text/javascript">
+
+
+
+bindFileUpload( 'File' , 'ErrorFile', 'FileHidden', 'FileFile' , 'Evidence' );
+
+function calculate_total(){
+	/*
+	total_amount
+
+	jq_global_discount
+	jq_delivery_charge
+	
+	part_quote.
+		jq_qty
+		jq_unit_price
+		jq_local_discount
+		*/
+	var total_amount 	= 0.00;
+	var global_discount = '';
+	var delivery_charge = 0;
+	
+	if( $(".jq_global_discount").val() != '' ){
+		global_discount = parseFloat($(".jq_global_discount").val());
+	}
+	if( $(".jq_delivery_charge").length == 1 && $(".jq_delivery_charge").val() != '' ){
+		total_amount = delivery_charge = parseFloat($(".jq_delivery_charge").val());
+	}
+	$(".part_quote").each(function(){
+		var q = $(this).find('.jq_qty').val();
+		var d = $(this).find('.jq_local_discount').val();
+		var p = $(this).find('.jq_unit_price').val();
+		
+		if( global_discount != '' ){
+			d = global_discount;
+		}else if( d != '' && !isNaN(d) ){
+			d = parseFloat(d);
+			d = d.toFixed(2);
+		}
+		n = q * p;
+		n = n*(1 - d/100);
+		
+		total_amount += n;
+	});
+	
+	total_amount = parseFloat(total_amount);
+	$(".total_amount").html( total_amount.toFixed(2) );
+	
+}
+
+$(document).ready(function(){
+	$('.datetimepicker').datetimepicker({
+		weekStart: 1,
+		todayBtn:  0,
+		autoclose: 1,
+		todayHighlight: 0,
+		startView: 2,
+		minView: 2,
+		forceParse: 0,
+		startDate: '2019-03-26',
+	});
+});
+
+calculate_total();
+$(".jq_save").click(function(){
+	$("#Action").val('save');
+	$(".jq_submit").trigger('click');
+});
+
+
+if( $(".jq_global_discount").val() != ''  ){
+	$(".jq_local_discount").attr('readonly',true);
+}
+
+
+$(".jq_global_discount").blur(function(){
+	if( $(this).val() != '' && !isNaN( $(this).val() ) ){
+		$(".jq_local_discount").attr('readonly',true);
+	}else{
+		$(".jq_local_discount").attr('readonly',false);
+	}
+});
+
+$(".jq_numeric").blur(function(){
+	if( $(this).val() != '' && isNaN( $(this).val() ) ){
+		$(this).val('');
+	}else{
+		calculate_total();
+	}
+});
+
+
+
+$(".jq_submit").click(function(){
+	$(".jq_require").removeClass('require');
+	var error = 0;
+	$(".jq_require").each(function(){
+		if( $(this).val() == '' ){
+			$(this).addClass('require');
+			$(this).attr('placeholder','Required');
+			error = 1;
+		}else if( $(this).hasClass('jq_numeric') && isNaN( $(this).val() ) ){
+			$(this).addClass('require');
+			$(this).attr('placeholder','Number only');
+			$(this).val('');
+			error = 1;
+		}		
+	});
+	if( error == 1 ){
+		swal( 'Please check require fields' , "", "error",{
+			buttons: false,
+			timer: 4000,
+		});
+		
+		return false;
+	}else{
+		var URL = websiteUrl + 'requisition_quote/submit/8954';
+		$.ajax({
+			url 		: URL,
+			type 		: 'post',
+			'dataType' 	: 'json',
+			'data' 		: $("#SubmitQuote").serialize(),
+			'success'	: function( json_data ){
+				swal( json_data.message , "", "success",{
+					buttons: false,
+					timer: 3000,
+				});
+				
+				window.location = websiteUrl;
+				
+			},
+			
+			'beforeSend': function(){
+				$(".jq_submit").hide();
+				if( $("#Action").val() == 'save' ){
+					$(".jq_save").hide();
+				}
+				
+				$(".jq_wait").show();
+			},
+			'error': function(){
+				$(".jq_submit").show();
+				$(".jq_wait").hide();
+				
+				if( $("#Action").val() == 'save' ){
+					$(".jq_save").show();
+				}
+			},
+			
+		});
+	}
+	return false;
+});
+
+
+
+
+</script>        
+		</div>
+	</div>
+
+	<div id="footer">
+			<div class="copyright">2019 <i class="fa fa-copyright"></i>  All Rights Reserved.</div>
+		</div>
+	</div>
+
+
+
+<script language="javascript" type="text/javascript">
+$(".um_amount").css({'text-align':'right'});
+$('input.um_amount').blur(function(){
+	if( !isNaN ( $(this).val() ) ){
+		var number_value =  $(this).val();
+		var r = number_value.split('.');
+		if (typeof r[1] === "undefined") {
+			$(this).val( number_value +'.00');
+		}else if( r[1].length == 1 ){
+			$(this).val( number_value +'0');
+		}
+	}
+});
+
+</script>
+
+
+</body>
+</html>

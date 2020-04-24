@@ -1,0 +1,1588 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2D11D366-1B44-44FD-95FF-2105E22F7A4F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MetroLesMonitor</RootNamespace>
+    <AssemblyName>MetroLesMonitor</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AENCRYP">
+      <HintPath>..\..\Reference projects\Others\LeSMonitor_Live_Updating\bin\AENCRYP.dll</HintPath>
+    </Reference>
+    <Reference Include="AjaxControlToolkit, Version=18.1.1.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>packages\AjaxControlToolkit.18.1.1\lib\net40\AjaxControlToolkit.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="AjaxMin">
+      <HintPath>..\LESMonitor_code_Backup\MetroLesMonitor\bin\AjaxMin.dll</HintPath>
+    </Reference>
+    <Reference Include="Aspose.Cells">
+      <HintPath>..\LESMonitor_code_Backup\MetroLesMonitor\bin\Aspose.Cells.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v14.1">
+      <HintPath>..\..\Reference projects\Others\LeSMonitor_Live_Updating\bin\DevExpress.Data.v14.1.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Web.v14.1">
+      <HintPath>..\..\Reference projects\Others\LeSMonitor_Live_Updating\bin\DevExpress.Web.v14.1.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>packages\EntityFramework.6.2.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>packages\EntityFramework.6.2.0\lib\net40\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\LESMonitor_code_Backup\MetroLesMonitor\bin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Log" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Net.Http">
+      <HintPath>..\packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+      <HintPath>..\packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.WebRequest.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.1.8.2\lib\net40\AspNet.ScriptManager.jQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery.UI.Combined">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.UI.Combined.1.8.24\lib\net40\AspNet.ScriptManager.jQuery.UI.Combined.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Providers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Providers.Core.2.0.0\lib\net40\System.Web.Providers.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.Core, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.Core.4.1.4.12333\lib\net40-full\DotNetOpenAuth.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.OAuth.Core.4.1.4.12333\lib\net40-full\DotNetOpenAuth.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth.Consumer, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.OAuth.Consumer.4.1.4.12333\lib\net40-full\DotNetOpenAuth.OAuth.Consumer.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.OpenId.Core.4.1.4.12333\lib\net40-full\DotNetOpenAuth.OpenId.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId.RelyingParty, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.OpenId.RelyingParty.4.1.4.12333\lib\net40-full\DotNetOpenAuth.OpenId.RelyingParty.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.AspNet, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.AspNet.4.1.4.12333\lib\net40-full\DotNetOpenAuth.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Membership.OpenAuth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Membership.OpenAuth.2.0.1\lib\net40\Microsoft.AspNet.Membership.OpenAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.0\lib\net40\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="ZohoSupport">
+      <HintPath>..\LESMonitor_code_Backup\MetroLesMonitor\bin\ZohoSupport.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\Content\Site.css" />
+    <Content Include="assets\Content\themes\base\images\add.png" />
+    <Content Include="assets\Content\themes\base\images\Done.png" />
+    <Content Include="assets\Content\themes\base\images\Error.png" />
+    <Content Include="assets\Content\themes\base\images\minus.png" />
+    <Content Include="assets\Content\themes\base\images\NoProcess.png" />
+    <Content Include="assets\Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="assets\Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="assets\Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="assets\Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="assets\Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="assets\Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="assets\Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="assets\Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="assets\Content\themes\base\images\ui-icons_222222_256x240.png" />
+    <Content Include="assets\Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="assets\Content\themes\base\images\ui-icons_454545_256x240.png" />
+    <Content Include="assets\Content\themes\base\images\ui-icons_888888_256x240.png" />
+    <Content Include="assets\Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="assets\Content\themes\base\images\Waiting.png" />
+    <Content Include="assets\Content\themes\base\jquery-ui.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.accordion.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.all.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.autocomplete.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.base.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.button.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.core.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.datepicker.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.dialog.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.progressbar.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.resizable.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.selectable.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.slider.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.tabs.css" />
+    <Content Include="assets\Content\themes\base\jquery.ui.theme.css" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-icons_222222_256x240.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-icons_454545_256x240.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-icons_888888_256x240.png" />
+    <Content Include="assets\Content\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="assets\Content\themes\base\minified\jquery-ui.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.accordion.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.autocomplete.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.button.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.core.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.datepicker.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.dialog.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.progressbar.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.resizable.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.selectable.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.slider.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.tabs.min.css" />
+    <Content Include="assets\Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="assets\css\adaptor.css" />
+    <Content Include="assets\css\Animate.css" />
+    <Content Include="assets\css\Auditlog.css" />
+    <Content Include="assets\css\base.css" />
+    <Content Include="assets\css\basedetail.css" />
+    <Content Include="assets\css\basedetail.min.css" />
+    <Content Include="assets\css\basemenu.css" />
+    <Content Include="assets\css\basemenu.min.css" />
+    <Content Include="assets\css\blue-hoki.css" />
+    <Content Include="assets\css\blue-steel.css" />
+    <Content Include="assets\css\bootstrap-timepicker.min.css" />
+    <Content Include="assets\css\bootstrap.css" />
+    <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\css\buyers.css" />
+    <Content Include="assets\css\ByrSppConfmLnkWiz.css" />
+    <Content Include="assets\css\commonstyle.css" />
+    <Content Include="assets\css\components-rounded.css" />
+    <Content Include="assets\css\components-rounded.min.css" />
+    <Content Include="assets\css\components.min.css" />
+    <Content Include="assets\css\css.css" />
+    <Content Include="assets\css\custlogin.css" />
+    <Content Include="assets\css\custom.css" />
+    <Content Include="assets\css\custom_breadcrumb.css" />
+    <Content Include="assets\css\dataTables.fixedColumns.css" />
+    <Content Include="assets\css\dataTables.fixedColumns.min.css" />
+    <Content Include="assets\css\dataTables.tableTools.css" />
+    <Content Include="assets\css\dataTables.tableTools.min.css" />
+    <Content Include="assets\css\datepicker.css" />
+    <Content Include="assets\css\datepicker3.css" />
+    <Content Include="assets\css\default.css" />
+    <Content Include="assets\css\default_new.css" />
+    <Content Include="assets\css\default_new_1.css" />
+    <Content Include="assets\css\default_new_2.css" />
+    <Content Include="assets\css\editable-select.css" />
+    <Content Include="assets\css\errors.css" />
+    <Content Include="assets\css\fileaudit.css" />
+    <Content Include="assets\css\filemapp.css" />
+    <Content Include="assets\css\fileMonitorSystem.css" />
+    <Content Include="assets\css\filtertable.css" />
+    <Content Include="assets\css\font-awesome.css" />
+    <Content Include="assets\css\font-awesome.min.css" />
+    <Content Include="assets\css\fontsgoogle.css" />
+    <Content Include="assets\css\green-haze.css" />
+    <Content Include="assets\css\jquery-ui-1.10.3.custom.min.css" />
+    <Content Include="assets\css\jquery-ui.css" />
+    <Content Include="assets\css\jquery.dataTables.css" />
+    <Content Include="assets\css\jquery.dataTables.min.css" />
+    <Content Include="assets\css\layout.css" />
+    <Content Include="assets\css\layout4.css" />
+    <Content Include="assets\css\layout_new.css" />
+    <Content Include="assets\css\layout_new_1.css" />
+    <Content Include="assets\css\layout_new_2.css" />
+    <Content Include="assets\css\LogfileViewer.css" />
+    <Content Include="assets\css\login.css" />
+    <Content Include="assets\css\login.min.css" />
+    <Content Include="assets\css\login5.css" />
+    <Content Include="assets\css\loginHistory.css" />
+    <Content Include="assets\css\Main.css" />
+    <Content Include="assets\css\Multiselect-dropdown.css" />
+    <Content Include="assets\css\NBSLnkWizard.css" />
+    <Content Include="assets\css\normalize.css" />
+    <Content Include="assets\css\Overview.css" />
+    <Content Include="assets\css\pdfByrConfig.css" />
+    <Content Include="assets\css\plugins.css" />
+    <Content Include="assets\css\purple-plum.css" />
+    <Content Include="assets\css\purple-studio.css" />
+    <Content Include="assets\css\red-intense.css" />
+    <Content Include="assets\css\red-sunglo.css" />
+    <Content Include="assets\css\select2-bootstrap.css" />
+    <Content Include="assets\css\select2.css" />
+    <Content Include="assets\css\simple-line-icons.min.css" />
+    <Content Include="assets\css\smCommon.css" />
+    <Content Include="assets\css\style.css" />
+    <Content Include="assets\css\supplierdetail.css" />
+    <Content Include="assets\css\toastr.min.css" />
+    <Content Include="assets\css\uniform.default.css" />
+    <Content Include="assets\css\xlsbuyerconfig.css" />
+    <Content Include="assets\css\yellow-crusta.css" />
+    <Content Include="assets\css\yellow-orange.css" />
+    <Content Include="assets\font-awesome\css\font-awesome.css" />
+    <Content Include="assets\font-awesome\css\font-awesome.min.css" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="assets\images\accordion-plusminus.png" />
+    <Content Include="assets\images\ajax-loading.gif" />
+    <Content Include="assets\images\ajax-modal-loading.gif" />
+    <Content Include="assets\images\avatar.png" />
+    <Content Include="assets\images\BlankImage.jpg" />
+    <Content Include="assets\images\buttons.png" />
+    <Content Include="assets\images\buttons.svg" />
+    <Content Include="assets\images\clear.png" />
+    <Content Include="assets\images\datatable-row-openclose.png" />
+    <Content Include="assets\images\deny.png" />
+    <Content Include="assets\images\favicon.ico" />
+    <Content Include="assets\images\flags\ad.png" />
+    <Content Include="assets\images\flags\ae.png" />
+    <Content Include="assets\images\flags\af.png" />
+    <Content Include="assets\images\flags\ag.png" />
+    <Content Include="assets\images\flags\ai.png" />
+    <Content Include="assets\images\flags\al.png" />
+    <Content Include="assets\images\flags\am.png" />
+    <Content Include="assets\images\flags\an.png" />
+    <Content Include="assets\images\flags\ao.png" />
+    <Content Include="assets\images\flags\ar.png" />
+    <Content Include="assets\images\flags\as.png" />
+    <Content Include="assets\images\flags\at.png" />
+    <Content Include="assets\images\flags\au.png" />
+    <Content Include="assets\images\flags\aw.png" />
+    <Content Include="assets\images\flags\ax.png" />
+    <Content Include="assets\images\flags\az.png" />
+    <Content Include="assets\images\flags\ba.png" />
+    <Content Include="assets\images\flags\bb.png" />
+    <Content Include="assets\images\flags\bd.png" />
+    <Content Include="assets\images\flags\be.png" />
+    <Content Include="assets\images\flags\bf.png" />
+    <Content Include="assets\images\flags\bg.png" />
+    <Content Include="assets\images\flags\bh.png" />
+    <Content Include="assets\images\flags\bi.png" />
+    <Content Include="assets\images\flags\bj.png" />
+    <Content Include="assets\images\flags\bm.png" />
+    <Content Include="assets\images\flags\bn.png" />
+    <Content Include="assets\images\flags\bo.png" />
+    <Content Include="assets\images\flags\br.png" />
+    <Content Include="assets\images\flags\bs.png" />
+    <Content Include="assets\images\flags\bt.png" />
+    <Content Include="assets\images\flags\bv.png" />
+    <Content Include="assets\images\flags\bw.png" />
+    <Content Include="assets\images\flags\by.png" />
+    <Content Include="assets\images\flags\bz.png" />
+    <Content Include="assets\images\flags\ca.png" />
+    <Content Include="assets\images\flags\catalonia.png" />
+    <Content Include="assets\images\flags\cc.png" />
+    <Content Include="assets\images\flags\cd.png" />
+    <Content Include="assets\images\flags\cf.png" />
+    <Content Include="assets\images\flags\cg.png" />
+    <Content Include="assets\images\flags\ch.png" />
+    <Content Include="assets\images\flags\ci.png" />
+    <Content Include="assets\images\flags\ck.png" />
+    <Content Include="assets\images\flags\cl.png" />
+    <Content Include="assets\images\flags\cm.png" />
+    <Content Include="assets\images\flags\cn.png" />
+    <Content Include="assets\images\flags\co.png" />
+    <Content Include="assets\images\flags\cr.png" />
+    <Content Include="assets\images\flags\cs.png" />
+    <Content Include="assets\images\flags\cu.png" />
+    <Content Include="assets\images\flags\cv.png" />
+    <Content Include="assets\images\flags\cx.png" />
+    <Content Include="assets\images\flags\cy.png" />
+    <Content Include="assets\images\flags\cz.png" />
+    <Content Include="assets\images\flags\de.png" />
+    <Content Include="assets\images\flags\dj.png" />
+    <Content Include="assets\images\flags\dk.png" />
+    <Content Include="assets\images\flags\dm.png" />
+    <Content Include="assets\images\flags\do.png" />
+    <Content Include="assets\images\flags\dz.png" />
+    <Content Include="assets\images\flags\ec.png" />
+    <Content Include="assets\images\flags\ee.png" />
+    <Content Include="assets\images\flags\eg.png" />
+    <Content Include="assets\images\flags\eh.png" />
+    <Content Include="assets\images\flags\england.png" />
+    <Content Include="assets\images\flags\er.png" />
+    <Content Include="assets\images\flags\es.png" />
+    <Content Include="assets\images\flags\et.png" />
+    <Content Include="assets\images\flags\europeanunion.png" />
+    <Content Include="assets\images\flags\fam.png" />
+    <Content Include="assets\images\flags\fi.png" />
+    <Content Include="assets\images\flags\fj.png" />
+    <Content Include="assets\images\flags\fk.png" />
+    <Content Include="assets\images\flags\fm.png" />
+    <Content Include="assets\images\flags\fo.png" />
+    <Content Include="assets\images\flags\fr.png" />
+    <Content Include="assets\images\flags\ga.png" />
+    <Content Include="assets\images\flags\gb.png" />
+    <Content Include="assets\images\flags\gd.png" />
+    <Content Include="assets\images\flags\ge.png" />
+    <Content Include="assets\images\flags\gf.png" />
+    <Content Include="assets\images\flags\gh.png" />
+    <Content Include="assets\images\flags\gi.png" />
+    <Content Include="assets\images\flags\gl.png" />
+    <Content Include="assets\images\flags\gm.png" />
+    <Content Include="assets\images\flags\gn.png" />
+    <Content Include="assets\images\flags\gp.png" />
+    <Content Include="assets\images\flags\gq.png" />
+    <Content Include="assets\images\flags\gr.png" />
+    <Content Include="assets\images\flags\gs.png" />
+    <Content Include="assets\images\flags\gt.png" />
+    <Content Include="assets\images\flags\gu.png" />
+    <Content Include="assets\images\flags\gw.png" />
+    <Content Include="assets\images\flags\gy.png" />
+    <Content Include="assets\images\flags\hk.png" />
+    <Content Include="assets\images\flags\hm.png" />
+    <Content Include="assets\images\flags\hn.png" />
+    <Content Include="assets\images\flags\hr.png" />
+    <Content Include="assets\images\flags\ht.png" />
+    <Content Include="assets\images\flags\hu.png" />
+    <Content Include="assets\images\flags\id.png" />
+    <Content Include="assets\images\flags\ie.png" />
+    <Content Include="assets\images\flags\il.png" />
+    <Content Include="assets\images\flags\in.png" />
+    <Content Include="assets\images\flags\io.png" />
+    <Content Include="assets\images\flags\iq.png" />
+    <Content Include="assets\images\flags\ir.png" />
+    <Content Include="assets\images\flags\is.png" />
+    <Content Include="assets\images\flags\it.png" />
+    <Content Include="assets\images\flags\jm.png" />
+    <Content Include="assets\images\flags\jo.png" />
+    <Content Include="assets\images\flags\jp.png" />
+    <Content Include="assets\images\flags\ke.png" />
+    <Content Include="assets\images\flags\kg.png" />
+    <Content Include="assets\images\flags\kh.png" />
+    <Content Include="assets\images\flags\ki.png" />
+    <Content Include="assets\images\flags\km.png" />
+    <Content Include="assets\images\flags\kn.png" />
+    <Content Include="assets\images\flags\kp.png" />
+    <Content Include="assets\images\flags\kr.png" />
+    <Content Include="assets\images\flags\kw.png" />
+    <Content Include="assets\images\flags\ky.png" />
+    <Content Include="assets\images\flags\kz.png" />
+    <Content Include="assets\images\flags\la.png" />
+    <Content Include="assets\images\flags\lb.png" />
+    <Content Include="assets\images\flags\lc.png" />
+    <Content Include="assets\images\flags\li.png" />
+    <Content Include="assets\images\flags\lk.png" />
+    <Content Include="assets\images\flags\lr.png" />
+    <Content Include="assets\images\flags\ls.png" />
+    <Content Include="assets\images\flags\lt.png" />
+    <Content Include="assets\images\flags\lu.png" />
+    <Content Include="assets\images\flags\lv.png" />
+    <Content Include="assets\images\flags\ly.png" />
+    <Content Include="assets\images\flags\ma.png" />
+    <Content Include="assets\images\flags\mc.png" />
+    <Content Include="assets\images\flags\md.png" />
+    <Content Include="assets\images\flags\me.png" />
+    <Content Include="assets\images\flags\mg.png" />
+    <Content Include="assets\images\flags\mh.png" />
+    <Content Include="assets\images\flags\mk.png" />
+    <Content Include="assets\images\flags\ml.png" />
+    <Content Include="assets\images\flags\mm.png" />
+    <Content Include="assets\images\flags\mn.png" />
+    <Content Include="assets\images\flags\mo.png" />
+    <Content Include="assets\images\flags\mp.png" />
+    <Content Include="assets\images\flags\mq.png" />
+    <Content Include="assets\images\flags\mr.png" />
+    <Content Include="assets\images\flags\ms.png" />
+    <Content Include="assets\images\flags\mt.png" />
+    <Content Include="assets\images\flags\mu.png" />
+    <Content Include="assets\images\flags\mv.png" />
+    <Content Include="assets\images\flags\mw.png" />
+    <Content Include="assets\images\flags\mx.png" />
+    <Content Include="assets\images\flags\my.png" />
+    <Content Include="assets\images\flags\mz.png" />
+    <Content Include="assets\images\flags\na.png" />
+    <Content Include="assets\images\flags\nc.png" />
+    <Content Include="assets\images\flags\ne.png" />
+    <Content Include="assets\images\flags\nf.png" />
+    <Content Include="assets\images\flags\ng.png" />
+    <Content Include="assets\images\flags\ni.png" />
+    <Content Include="assets\images\flags\nl.png" />
+    <Content Include="assets\images\flags\no.png" />
+    <Content Include="assets\images\flags\np.png" />
+    <Content Include="assets\images\flags\nr.png" />
+    <Content Include="assets\images\flags\nu.png" />
+    <Content Include="assets\images\flags\nz.png" />
+    <Content Include="assets\images\flags\om.png" />
+    <Content Include="assets\images\flags\pa.png" />
+    <Content Include="assets\images\flags\pe.png" />
+    <Content Include="assets\images\flags\pf.png" />
+    <Content Include="assets\images\flags\pg.png" />
+    <Content Include="assets\images\flags\ph.png" />
+    <Content Include="assets\images\flags\pk.png" />
+    <Content Include="assets\images\flags\pl.png" />
+    <Content Include="assets\images\flags\pm.png" />
+    <Content Include="assets\images\flags\pn.png" />
+    <Content Include="assets\images\flags\pr.png" />
+    <Content Include="assets\images\flags\ps.png" />
+    <Content Include="assets\images\flags\pt.png" />
+    <Content Include="assets\images\flags\pw.png" />
+    <Content Include="assets\images\flags\py.png" />
+    <Content Include="assets\images\flags\qa.png" />
+    <Content Include="assets\images\flags\re.png" />
+    <Content Include="assets\images\flags\readme.txt" />
+    <Content Include="assets\images\flags\ro.png" />
+    <Content Include="assets\images\flags\rs.png" />
+    <Content Include="assets\images\flags\ru.png" />
+    <Content Include="assets\images\flags\rw.png" />
+    <Content Include="assets\images\flags\sa.png" />
+    <Content Include="assets\images\flags\sb.png" />
+    <Content Include="assets\images\flags\sc.png" />
+    <Content Include="assets\images\flags\scotland.png" />
+    <Content Include="assets\images\flags\sd.png" />
+    <Content Include="assets\images\flags\se.png" />
+    <Content Include="assets\images\flags\sg.png" />
+    <Content Include="assets\images\flags\sh.png" />
+    <Content Include="assets\images\flags\si.png" />
+    <Content Include="assets\images\flags\sj.png" />
+    <Content Include="assets\images\flags\sk.png" />
+    <Content Include="assets\images\flags\sl.png" />
+    <Content Include="assets\images\flags\sm.png" />
+    <Content Include="assets\images\flags\sn.png" />
+    <Content Include="assets\images\flags\so.png" />
+    <Content Include="assets\images\flags\sr.png" />
+    <Content Include="assets\images\flags\st.png" />
+    <Content Include="assets\images\flags\sv.png" />
+    <Content Include="assets\images\flags\sy.png" />
+    <Content Include="assets\images\flags\sz.png" />
+    <Content Include="assets\images\flags\tc.png" />
+    <Content Include="assets\images\flags\td.png" />
+    <Content Include="assets\images\flags\tf.png" />
+    <Content Include="assets\images\flags\tg.png" />
+    <Content Include="assets\images\flags\th.png" />
+    <Content Include="assets\images\flags\tj.png" />
+    <Content Include="assets\images\flags\tk.png" />
+    <Content Include="assets\images\flags\tl.png" />
+    <Content Include="assets\images\flags\tm.png" />
+    <Content Include="assets\images\flags\tn.png" />
+    <Content Include="assets\images\flags\to.png" />
+    <Content Include="assets\images\flags\tr.png" />
+    <Content Include="assets\images\flags\tt.png" />
+    <Content Include="assets\images\flags\tv.png" />
+    <Content Include="assets\images\flags\tw.png" />
+    <Content Include="assets\images\flags\tz.png" />
+    <Content Include="assets\images\flags\ua.png" />
+    <Content Include="assets\images\flags\ug.png" />
+    <Content Include="assets\images\flags\um.png" />
+    <Content Include="assets\images\flags\us.png" />
+    <Content Include="assets\images\flags\uy.png" />
+    <Content Include="assets\images\flags\uz.png" />
+    <Content Include="assets\images\flags\va.png" />
+    <Content Include="assets\images\flags\vc.png" />
+    <Content Include="assets\images\flags\ve.png" />
+    <Content Include="assets\images\flags\vg.png" />
+    <Content Include="assets\images\flags\vi.png" />
+    <Content Include="assets\images\flags\vn.png" />
+    <Content Include="assets\images\flags\vu.png" />
+    <Content Include="assets\images\flags\wales.png" />
+    <Content Include="assets\images\flags\wf.png" />
+    <Content Include="assets\images\flags\ws.png" />
+    <Content Include="assets\images\flags\ye.png" />
+    <Content Include="assets\images\flags\yt.png" />
+    <Content Include="assets\images\flags\za.png" />
+    <Content Include="assets\images\flags\zm.png" />
+    <Content Include="assets\images\flags\zw.png" />
+    <Content Include="assets\images\input-spinner.gif" />
+    <Content Include="assets\images\LESConnect.png" />
+    <Content Include="assets\images\LeS_Logo.png" />
+    <Content Include="assets\images\loader-bg.gif" />
+    <Content Include="assets\images\loading-spinner-blue.gif" />
+    <Content Include="assets\images\loading-spinner-default.gif" />
+    <Content Include="assets\images\loading-spinner-grey.gif" />
+    <Content Include="assets\images\loading.gif" />
+    <Content Include="assets\images\logo-big.png" />
+    <Content Include="assets\images\overlay-icon.png" />
+    <Content Include="assets\images\portlet-collapse-icon-white.png" />
+    <Content Include="assets\images\portlet-collapse-icon.png" />
+    <Content Include="assets\images\portlet-config-icon-white.png" />
+    <Content Include="assets\images\portlet-config-icon.png" />
+    <Content Include="assets\images\portlet-expand-icon-white.png" />
+    <Content Include="assets\images\portlet-expand-icon.png" />
+    <Content Include="assets\images\portlet-reload-icon-white.png" />
+    <Content Include="assets\images\portlet-reload-icon.png" />
+    <Content Include="assets\images\portlet-remove-icon-white.png" />
+    <Content Include="assets\images\portlet-remove-icon.png" />
+    <Content Include="assets\images\remove-icon-small.png" />
+    <Content Include="assets\images\search.png" />
+    <Content Include="assets\images\select2-spinner.gif" />
+    <Content Include="assets\images\select2.png" />
+    <Content Include="assets\images\select2x2.png" />
+    <Content Include="assets\images\sidebar_inline_toggler_icon_blue.jpg" />
+    <Content Include="assets\images\sidebar_inline_toggler_icon_darkblue.jpg" />
+    <Content Include="assets\images\sidebar_inline_toggler_icon_default.jpg" />
+    <Content Include="assets\images\sidebar_inline_toggler_icon_grey.jpg" />
+    <Content Include="assets\images\sidebar_inline_toggler_icon_light.jpg" />
+    <Content Include="assets\images\sidebar_inline_toggler_icon_light2.jpg" />
+    <Content Include="assets\images\sidebar_toggler_icon_blue.png" />
+    <Content Include="assets\images\sidebar_toggler_icon_darkblue.png" />
+    <Content Include="assets\images\sidebar_toggler_icon_white.png" />
+    <Content Include="assets\images\social\aboutme.png" />
+    <Content Include="assets\images\social\amazon.png" />
+    <Content Include="assets\images\social\behance.png" />
+    <Content Include="assets\images\social\blogger.png" />
+    <Content Include="assets\images\social\deviantart.png" />
+    <Content Include="assets\images\social\dribbble.png" />
+    <Content Include="assets\images\social\dropbox.png" />
+    <Content Include="assets\images\social\evernote.png" />
+    <Content Include="assets\images\social\facebook.png" />
+    <Content Include="assets\images\social\flickr.png" />
+    <Content Include="assets\images\social\forrst.png" />
+    <Content Include="assets\images\social\foursquare.png" />
+    <Content Include="assets\images\social\github.png" />
+    <Content Include="assets\images\social\googleplus.png" />
+    <Content Include="assets\images\social\gravatar.png" />
+    <Content Include="assets\images\social\instagram.png" />
+    <Content Include="assets\images\social\jolicloud.png" />
+    <Content Include="assets\images\social\klout.png" />
+    <Content Include="assets\images\social\last-fm.png" />
+    <Content Include="assets\images\social\linkedin.png" />
+    <Content Include="assets\images\social\myspace.png" />
+    <Content Include="assets\images\social\picasa.png" />
+    <Content Include="assets\images\social\pintrest.png" />
+    <Content Include="assets\images\social\quora.png" />
+    <Content Include="assets\images\social\reddit.png" />
+    <Content Include="assets\images\social\rss.png" />
+    <Content Include="assets\images\social\skype.png" />
+    <Content Include="assets\images\social\spotify.png" />
+    <Content Include="assets\images\social\stumbleupon.png" />
+    <Content Include="assets\images\social\tumblr.png" />
+    <Content Include="assets\images\social\twitter.png" />
+    <Content Include="assets\images\social\vimeo.png" />
+    <Content Include="assets\images\social\vk.png" />
+    <Content Include="assets\images\social\wordpress.png" />
+    <Content Include="assets\images\social\xing.png" />
+    <Content Include="assets\images\social\yahoo.png" />
+    <Content Include="assets\images\social\youtube.png" />
+    <Content Include="assets\images\sort_both.png" />
+    <Content Include="assets\images\switch.png" />
+    <Content Include="assets\images\switch_original.png" />
+    <Content Include="assets\images\syncfusion-icons-white.png" />
+    <Content Include="assets\images\syncfusion-icons.png" />
+    <Content Include="assets\images\ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+    <Content Include="assets\images\user.png" />
+    <Content Include="assets\Scripts\Adaptors.js" />
+    <Content Include="assets\Scripts\amcharts.js" />
+    <Content Include="assets\Scripts\analytics.js" />
+    <Content Include="assets\Scripts\app.js" />
+    <Content Include="assets\Scripts\AuditGrid.js" />
+    <Content Include="assets\Scripts\AuditLog.js" />
+    <Content Include="assets\Scripts\backstretch.js" />
+    <Content Include="assets\Scripts\Base.js" />
+    <Content Include="assets\Scripts\BaseDetail.js" />
+    <Content Include="assets\Scripts\BaseGrid.js" />
+    <Content Include="assets\Scripts\BaseMenu.js" />
+    <Content Include="assets\Scripts\bootbox.js" />
+    <Content Include="assets\Scripts\bootstrap-datepicker.js" />
+    <Content Include="assets\Scripts\bootstrap-hover-dropdown.js" />
+    <Content Include="assets\Scripts\BuyerDetail.js" />
+    <Content Include="assets\Scripts\Buyers.js" />
+    <Content Include="assets\Scripts\BuyerSupplierWizard.js" />
+    <Content Include="assets\Scripts\BuyerSupplier_ConfirmLink_Wizard.js" />
+    <Content Include="assets\Scripts\commented.js" />
+    <Content Include="assets\Scripts\cycle.js" />
+    <Content Include="assets\Scripts\dataTables.fixedColumns.js" />
+    <Content Include="assets\Scripts\dataTables.tableTools.js" />
+    <Content Include="assets\Scripts\date.fomat.js" />
+    <Content Include="assets\Scripts\Date.js" />
+    <Content Include="assets\Scripts\Default.js" />
+    <Content Include="assets\Scripts\DefaultFormat.js" />
+    <Content Include="assets\Scripts\DefaultFormatRules.js" />
+    <Content Include="assets\Scripts\DefaultRules.js" />
+    <Content Include="assets\Scripts\demo.js" />
+    <Content Include="assets\Scripts\DocumentFormat.js" />
+    <Content Include="assets\Scripts\eInvoiceLinks.js" />
+    <Content Include="assets\Scripts\eInvoicePDFConfig.js" />
+    <Content Include="assets\Scripts\Errors.js" />
+    <Content Include="assets\Scripts\FileAudit.js" />
+    <Content Include="assets\Scripts\FileMapping.js" />
+    <Content Include="assets\Scripts\FileMonitor.js" />
+    <Content Include="assets\Scripts\FileReprocess.js" />
+    <Content Include="assets\Scripts\Groups.js" />
+    <Content Include="assets\Scripts\Home.js" />
+    <Content Include="assets\Scripts\jcookie.js" />
+    <Content Include="assets\Scripts\jquery-1.10.2.js" />
+    <Content Include="assets\Scripts\jquery-editable-select.js" />
+    <Content Include="assets\Scripts\jquery-ui-1.10.3.custom.js" />
+    <Content Include="assets\Scripts\jquery-ui.js" />
+    <Content Include="assets\Scripts\jquery.dataTables.js" />
+    <Content Include="assets\Scripts\jquery.placeholder.1.3.js" />
+    <Content Include="assets\Scripts\jquery.slimscroll.js" />
+    <Content Include="assets\Scripts\jquery.tabslet.js" />
+    <Content Include="assets\Scripts\json.js" />
+    <Content Include="assets\Scripts\json2.js" />
+    <Content Include="assets\Scripts\json_parse.js" />
+    <Content Include="assets\Scripts\json_parse_state.js" />
+    <Content Include="assets\Scripts\jStorage.js" />
+    <Content Include="assets\Scripts\layout.js" />
+    <Content Include="assets\Scripts\layout4.js" />
+    <Content Include="assets\Scripts\layout_new_2.js" />
+    <Content Include="assets\Scripts\light.js" />
+    <Content Include="assets\Scripts\LinkRules.js" />
+    <Content Include="assets\Scripts\LogFileViewer.js" />
+    <Content Include="assets\Scripts\login.js" />
+    <Content Include="assets\Scripts\login5.js" />
+    <Content Include="assets\Scripts\LoginHistory.js" />
+    <Content Include="assets\Scripts\MailQueueViewer.js" />
+    <Content Include="assets\Scripts\metronic.js" />
+    <Content Include="assets\Scripts\min\bootbox.min.js" />
+    <Content Include="assets\Scripts\min\bootstrap-datepicker.min.js" />
+    <Content Include="assets\Scripts\min\bootstrap-hover-dropdown.min.js" />
+    <Content Include="assets\Scripts\min\bootstrap-switch.min.js" />
+    <Content Include="assets\Scripts\min\bootstrap-timepicker.min.js" />
+    <Content Include="assets\Scripts\min\bootstrap.min.js" />
+    <Content Include="assets\Scripts\min\components-pickers.min.js" />
+    <Content Include="assets\Scripts\min\custom-min.js" />
+    <Content Include="assets\Scripts\min\dataTables.fixedColumns.min.js" />
+    <Content Include="assets\Scripts\min\dataTables.tableTools.min.js" />
+    <Content Include="assets\Scripts\min\jcookie-min.js" />
+    <Content Include="assets\Scripts\min\jquery-migrate.min.js" />
+    <Content Include="assets\Scripts\min\jquery-ui-1.10.3.custom.min.js" />
+    <Content Include="assets\Scripts\min\jquery-ui.min.js" />
+    <Content Include="assets\Scripts\min\jquery.blockui.min.js" />
+    <Content Include="assets\Scripts\min\jquery.cokie.min.js" />
+    <Content Include="assets\Scripts\min\jquery.dataTables.min.js" />
+    <Content Include="assets\Scripts\min\jquery.jqChart.min.js" />
+    <Content Include="assets\Scripts\min\jquery.jqRangeSlider.min.js" />
+    <Content Include="assets\Scripts\min\jquery.min.js" />
+    <Content Include="assets\Scripts\min\jquery.placeholder.1.3.min.js" />
+    <Content Include="assets\Scripts\min\jquery.slimscroll.min.js" />
+    <Content Include="assets\Scripts\min\jquery.uniform.min.js" />
+    <Content Include="assets\Scripts\min\jquery.validate.min.js" />
+    <Content Include="assets\Scripts\min\jStorage.min.js" />
+    <Content Include="assets\Scripts\min\justgage.1.0.1.min.js" />
+    <Content Include="assets\Scripts\min\layout.min.js" />
+    <Content Include="assets\Scripts\min\layout_new_2.min.js" />
+    <Content Include="assets\Scripts\min\metronic-toastr.min.js" />
+    <Content Include="assets\Scripts\min\metronic.min.js" />
+    <Content Include="assets\Scripts\min\raphael.2.1.0.min.js" />
+    <Content Include="assets\Scripts\min\select2.min.js" />
+    <Content Include="assets\Scripts\min\serial.js" />
+    <Content Include="assets\Scripts\min\sessionTimeout.min.js" />
+    <Content Include="assets\Scripts\min\toastr.min.js" />
+    <Content Include="assets\Scripts\min\ui.spinner.min.js" />
+    <Content Include="assets\Scripts\Multiselect-dropdown.js" />
+    <Content Include="assets\Scripts\New_BuyerSupplier_Wizard.js" />
+    <Content Include="assets\Scripts\ob\Adaptors.js" />
+    <Content Include="assets\Scripts\ob\AuditLog.js" />
+    <Content Include="assets\Scripts\ob\Base.js" />
+    <Content Include="assets\Scripts\ob\BaseDetail.js" />
+    <Content Include="assets\Scripts\ob\BaseMenu.js" />
+    <Content Include="assets\Scripts\ob\BuyerDetail.js" />
+    <Content Include="assets\Scripts\ob\Buyers.js" />
+    <Content Include="assets\Scripts\ob\BuyerSupplierWizard.js" />
+    <Content Include="assets\Scripts\ob\BuyerSupplier_ConfirmLink_Wizard.js" />
+    <Content Include="assets\Scripts\ob\DefaultFormat.js" />
+    <Content Include="assets\Scripts\ob\DefaultFormatRules.js" />
+    <Content Include="assets\Scripts\ob\DefaultRules.js" />
+    <Content Include="assets\Scripts\ob\DocumentFormat.js" />
+    <Content Include="assets\Scripts\ob\eInvoiceLinks.js" />
+    <Content Include="assets\Scripts\ob\eInvoicePDFConfig.js" />
+    <Content Include="assets\Scripts\ob\Errors.js" />
+    <Content Include="assets\Scripts\ob\FileAudit.js" />
+    <Content Include="assets\Scripts\ob\FileMapping.js" />
+    <Content Include="assets\Scripts\ob\FileMonitor.js" />
+    <Content Include="assets\Scripts\ob\FileReprocess.js" />
+    <Content Include="assets\Scripts\ob\Groups.js" />
+    <Content Include="assets\Scripts\ob\Home.js" />
+    <Content Include="assets\Scripts\ob\LinkRules.js" />
+    <Content Include="assets\Scripts\ob\LogFileViewer.js" />
+    <Content Include="assets\Scripts\ob\Login.js" />
+    <Content Include="assets\Scripts\ob\LoginHistory.js" />
+    <Content Include="assets\Scripts\ob\MailQueueViewer.js" />
+    <Content Include="assets\Scripts\ob\New_BuyerSupplier_Wizard.js" />
+    <Content Include="assets\Scripts\ob\Overview.js" />
+    <Content Include="assets\Scripts\ob\PDFBuyerConfig.js" />
+    <Content Include="assets\Scripts\ob\Rules.js" />
+    <Content Include="assets\Scripts\ob\ServerSyncWizard.js" />
+    <Content Include="assets\Scripts\ob\smCommon.js" />
+    <Content Include="assets\Scripts\ob\SupplierDetail.js" />
+    <Content Include="assets\Scripts\ob\Suppliers.js" />
+    <Content Include="assets\Scripts\ob\XlsBuyerConfig.js" />
+    <Content Include="assets\Scripts\Overview.js" />
+    <Content Include="assets\Scripts\PDFBuyerConfig.js" />
+    <Content Include="assets\Scripts\PDFBuyerConfig_MapCode.js" />
+    <Content Include="assets\Scripts\Rules.js" />
+    <Content Include="assets\Scripts\ServerSyncWizard.js" />
+    <Content Include="assets\Scripts\sessionTimeout.js" />
+    <Content Include="assets\Scripts\SetCase.js" />
+    <Content Include="assets\Scripts\smCommon.js" />
+    <Content Include="assets\Scripts\SupplierDetail.js" />
+    <Content Include="assets\Scripts\Suppliers.js" />
+    <Content Include="assets\Scripts\SupportMonitor.js" />
+    <Content Include="assets\Scripts\TabGrid.js" />
+    <Content Include="assets\Scripts\ui.spinner.js" />
+    <Content Include="assets\Scripts\WebForm1.js" />
+    <Content Include="assets\Scripts\wizards.js" />
+    <Content Include="assets\Scripts\XlsBuyerConfig.js" />
+    <Content Include="assets\Scripts\XlsBuyerConfig_MapCode.js" />
+    <Content Include="assets\simple-line-icons\fonts\Simple-Line-Icons.dev.svg" />
+    <Content Include="assets\simple-line-icons\fonts\Simple-Line-Icons.svg" />
+    <Content Include="assets\simple-line-icons\icons-lte-ie7.js" />
+    <Content Include="assets\simple-line-icons\License.txt" />
+    <Content Include="assets\simple-line-icons\Readme.txt" />
+    <Content Include="assets\simple-line-icons\simple-line-icons.css" />
+    <Content Include="assets\simple-line-icons\simple-line-icons.min.css" />
+    <Content Include="bin\AspNet.ScriptManager.jQuery.dll" />
+    <Content Include="bin\AspNet.ScriptManager.jQuery.UI.Combined.dll" />
+    <Content Include="bin\DotNetOpenAuth.AspNet.dll" />
+    <Content Include="bin\DotNetOpenAuth.Core.dll" />
+    <Content Include="bin\DotNetOpenAuth.OAuth.Consumer.dll" />
+    <Content Include="bin\DotNetOpenAuth.OAuth.dll" />
+    <Content Include="bin\DotNetOpenAuth.OpenId.dll" />
+    <Content Include="bin\DotNetOpenAuth.OpenId.RelyingParty.dll" />
+    <Content Include="bin\EntityFramework.dll" />
+    <Content Include="bin\EntityFramework.SqlServer.dll" />
+    <Content Include="bin\LeSMonitor.dll" />
+    <Content Include="bin\LeSMonitor.pdb" />
+    <Content Include="bin\Microsoft.AspNet.FriendlyUrls.dll" />
+    <Content Include="bin\Microsoft.AspNet.Membership.OpenAuth.dll" />
+    <Content Include="bin\Microsoft.Web.Infrastructure.dll" />
+    <Content Include="bin\System.Net.Http.dll" />
+    <Content Include="bin\System.Net.Http.WebRequest.dll" />
+    <Content Include="bin\System.Web.Providers.dll" />
+    <Content Include="BO\BLL\MetroLesMonitor.Bll.csproj" />
+    <Content Include="Common\Default.aspx" />
+    <Content Include="Common\favicon.ico" />
+    <Content Include="Common\Login.aspx" />
+    <Content Include="Common\Logout.aspx" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\jquery-ui.css" />
+    <Content Include="Content\themes\base\jquery.ui.accordion.css" />
+    <Content Include="Content\themes\base\jquery.ui.all.css" />
+    <Content Include="Content\themes\base\jquery.ui.autocomplete.css" />
+    <Content Include="Content\themes\base\jquery.ui.base.css" />
+    <Content Include="Content\themes\base\jquery.ui.button.css" />
+    <Content Include="Content\themes\base\jquery.ui.core.css" />
+    <Content Include="Content\themes\base\jquery.ui.datepicker.css" />
+    <Content Include="Content\themes\base\jquery.ui.dialog.css" />
+    <Content Include="Content\themes\base\jquery.ui.progressbar.css" />
+    <Content Include="Content\themes\base\jquery.ui.resizable.css" />
+    <Content Include="Content\themes\base\jquery.ui.selectable.css" />
+    <Content Include="Content\themes\base\jquery.ui.slider.css" />
+    <Content Include="Content\themes\base\jquery.ui.tabs.css" />
+    <Content Include="Content\themes\base\jquery.ui.theme.css" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\minified\jquery-ui.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.accordion.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.autocomplete.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.button.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.core.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.datepicker.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.dialog.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.progressbar.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.resizable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.selectable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Images\accent.png" />
+    <Content Include="Images\bullet.png" />
+    <Content Include="Images\heroAccent.png" />
+    <Content Include="Images\orderedList0.png" />
+    <Content Include="Images\orderedList1.png" />
+    <Content Include="Images\orderedList2.png" />
+    <Content Include="Images\orderedList3.png" />
+    <Content Include="Images\orderedList4.png" />
+    <Content Include="Images\orderedList5.png" />
+    <Content Include="Images\orderedList6.png" />
+    <Content Include="Images\orderedList7.png" />
+    <Content Include="Images\orderedList8.png" />
+    <Content Include="Images\orderedList9.png" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="LESMonitorPages\Adaptors.aspx" />
+    <Content Include="LESMonitorPages\AuditGrid.aspx" />
+    <Content Include="LESMonitorPages\AuditLog.aspx" />
+    <Content Include="LESMonitorPages\BuyerDetail.aspx" />
+    <Content Include="LESMonitorPages\Buyers.aspx" />
+    <Content Include="LESMonitorPages\BuyerSupplier_ConfirmLink_Wizard.aspx" />
+    <Content Include="LESMonitorPages\DefaultFormat.aspx" />
+    <Content Include="LESMonitorPages\DefaultFormatRules.aspx" />
+    <Content Include="LESMonitorPages\DefaultRules.aspx" />
+    <Content Include="LESMonitorPages\DocumentFormat.aspx" />
+    <Content Include="LESMonitorPages\eInvoicePDFConfig.aspx" />
+    <Content Include="LESMonitorPages\eInvoice_Links.aspx" />
+    <Content Include="LESMonitorPages\Errors.aspx" />
+    <Content Include="LESMonitorPages\FileAudit.aspx" />
+    <Content Include="LESMonitorPages\FileMonitorSystem.aspx" />
+    <Content Include="LESMonitorPages\File_Mapping.aspx" />
+    <Content Include="LESMonitorPages\File_Reprocess.aspx" />
+    <Content Include="LESMonitorPages\Groups.aspx" />
+    <Content Include="LESMonitorPages\Home.aspx" />
+    <Content Include="LESMonitorPages\LinkRules.aspx" />
+    <Content Include="LESMonitorPages\LogFileViewer.aspx" />
+    <Content Include="LESMonitorPages\LoginHistory.aspx" />
+    <Content Include="LESMonitorPages\MailQueueViewer.aspx" />
+    <Content Include="LESMonitorPages\NewBuyerSupplierWizard.aspx" />
+    <Content Include="LESMonitorPages\Overview.aspx" />
+    <Content Include="LESMonitorPages\PDF_Buyer_Config.aspx" />
+    <Content Include="LESMonitorPages\PDF_Buyer_Config_MapCode.aspx" />
+    <Content Include="LESMonitorPages\QuickAudit.aspx" />
+    <Content Include="LESMonitorPages\Rules.aspx" />
+    <Content Include="LESMonitorPages\ServerSyncWizard.aspx" />
+    <Content Include="LESMonitorPages\SupplierDetail.aspx" />
+    <Content Include="LESMonitorPages\Suppliers.aspx" />
+    <Content Include="LESMonitorPages\ForbiddenAccess.aspx" />
+    <Content Include="LESMonitorPages\WebForm1.aspx" />
+    <Content Include="LESMonitorPages\XLS_Buyer_Config.aspx" />
+    <Content Include="LESMonitorPages\XLS_Buyer_Config_MapCode.aspx" />
+    <Content Include="Main.aspx" />
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="bin\LeSMonitor.dll.config" />
+    <Content Include="LESMonitorPages\fine.bat" />
+    <Content Include="MasterPages\Base.Master" />
+    <Content Include="MasterPages\BaseDetail.master" />
+    <Content Include="MasterPages\BaseMenu.master" />
+    <Content Include="Aspose.Total.lic" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assets\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="assets\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="assets\font-awesome\less\bordered-pulled.less" />
+    <Content Include="assets\font-awesome\less\core.less" />
+    <Content Include="assets\font-awesome\less\fixed-width.less" />
+    <Content Include="assets\font-awesome\less\font-awesome.less" />
+    <Content Include="assets\font-awesome\less\icons.less" />
+    <Content Include="assets\font-awesome\less\larger.less" />
+    <Content Include="assets\font-awesome\less\list.less" />
+    <Content Include="assets\font-awesome\less\mixins.less" />
+    <Content Include="assets\font-awesome\less\path.less" />
+    <Content Include="assets\font-awesome\less\rotated-flipped.less" />
+    <Content Include="assets\font-awesome\less\spinning.less" />
+    <Content Include="assets\font-awesome\less\stacked.less" />
+    <Content Include="assets\font-awesome\less\variables.less" />
+    <Content Include="assets\font-awesome\scss\font-awesome.scss" />
+    <Content Include="assets\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="assets\font-awesome\scss\_core.scss" />
+    <Content Include="assets\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="assets\font-awesome\scss\_icons.scss" />
+    <Content Include="assets\font-awesome\scss\_larger.scss" />
+    <Content Include="assets\font-awesome\scss\_list.scss" />
+    <Content Include="assets\font-awesome\scss\_mixins.scss" />
+    <Content Include="assets\font-awesome\scss\_path.scss" />
+    <Content Include="assets\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="assets\font-awesome\scss\_spinning.scss" />
+    <Content Include="assets\font-awesome\scss\_stacked.scss" />
+    <Content Include="assets\font-awesome\scss\_variables.scss" />
+    <Content Include="assets\simple-line-icons\fonts\Simple-Line-Icons.eot" />
+    <Content Include="assets\simple-line-icons\fonts\Simple-Line-Icons.ttf" />
+    <Content Include="assets\simple-line-icons\fonts\Simple-Line-Icons.woff" />
+    <Content Include="assets\css\base.min.css" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="Properties\PublishProfiles\LeSMonitor.pubxml" />
+    <None Include="Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.8.2.js" />
+    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Scripts\_references.js" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\AuthConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Content Include="assets\css\eInvPdfConfig.css" />
+    <Compile Include="BO\BLL\LesClientConnectLog.cs" />
+    <Compile Include="BO\BLL\LesClientConnectLogCollection.cs" />
+    <Compile Include="BO\BLL\LesInventory.cs" />
+    <Compile Include="BO\BLL\LesInventoryAudit.cs" />
+    <Compile Include="BO\BLL\LesInventoryAuditCollection.cs" />
+    <Compile Include="BO\BLL\LesInventoryCollection.cs" />
+    <Compile Include="BO\BLL\LesInventoryHistory.cs" />
+    <Compile Include="BO\BLL\LesInventoryHistoryCollection.cs" />
+    <Compile Include="BO\BLL\LesInventorylocation.cs" />
+    <Compile Include="BO\BLL\LesInventorylocationCollection.cs" />
+    <Compile Include="BO\BLL\LesInventorySupplierLink.cs" />
+    <Compile Include="BO\BLL\LesInventorySupplierLinkCollection.cs" />
+    <Compile Include="BO\BLL\LesLocations.cs" />
+    <Compile Include="BO\BLL\LesLocationsCollection.cs" />
+    <Compile Include="BO\BLL\LesModuleAccess.cs" />
+    <Compile Include="BO\BLL\LesModuleAccessCollection.cs" />
+    <Compile Include="BO\BLL\LesModuleActions.cs" />
+    <Compile Include="BO\BLL\LesModuleActionsCollection.cs" />
+    <Compile Include="BO\BLL\LesMonitorLoginHistory.cs" />
+    <Compile Include="BO\BLL\LesMonitorLoginHistoryCollection.cs" />
+    <Compile Include="BO\BLL\LesPartcategory.cs" />
+    <Compile Include="BO\BLL\LesPartcategoryCollection.cs" />
+    <Compile Include="BO\BLL\LesParttype.cs" />
+    <Compile Include="BO\BLL\LesParttypeCollection.cs" />
+    <Compile Include="BO\BLL\LesRelatedInventory.cs" />
+    <Compile Include="BO\BLL\LesRelatedInventoryCollection.cs" />
+    <Compile Include="BO\BLL\LesResendDocNotify.cs" />
+    <Compile Include="BO\BLL\LesResendDocNotifyCollection.cs" />
+    <Compile Include="BO\BLL\LesSalesorder.cs" />
+    <Compile Include="BO\BLL\LesSalesorderCollection.cs" />
+    <Compile Include="BO\BLL\LesSalesorderDetails.cs" />
+    <Compile Include="BO\BLL\LesSalesorderDetailsCollection.cs" />
+    <Compile Include="BO\BLL\LesSupplierLocationLink.cs" />
+    <Compile Include="BO\BLL\LesSupplierLocationLinkCollection.cs" />
+    <Compile Include="BO\BLL\LesSupplierSubsupplierLink.cs" />
+    <Compile Include="BO\BLL\LesSupplierSubsupplierLinkCollection.cs" />
+    <Compile Include="BO\BLL\LesVessels.cs" />
+    <Compile Include="BO\BLL\LesVesselsCollection.cs" />
+    <Compile Include="BO\BLL\MtmlDeliveryTerms.cs" />
+    <Compile Include="BO\BLL\MtmlDeliveryTermsCollection.cs" />
+    <Compile Include="BO\BLL\MtmlDocAmounts.cs" />
+    <Compile Include="BO\BLL\MtmlDocAmountsCollection.cs" />
+    <Compile Include="BO\BLL\MtmlDocComments.cs" />
+    <Compile Include="BO\BLL\MtmlDocCommentsCollection.cs" />
+    <Compile Include="BO\BLL\MtmlDocDatetime.cs" />
+    <Compile Include="BO\BLL\MtmlDocDatetimeCollection.cs" />
+    <Compile Include="BO\BLL\MtmlDocHeader.cs" />
+    <Compile Include="BO\BLL\MtmlDocHeaderCollection.cs" />
+    <Compile Include="BO\BLL\MtmlDocItem.cs" />
+    <Compile Include="BO\BLL\MtmlDocItemCollection.cs" />
+    <Compile Include="BO\BLL\MtmlDocItemEquipment.cs" />
+    <Compile Include="BO\BLL\MtmlDocItemEquipmentCollection.cs" />
+    <Compile Include="BO\BLL\MtmlDocParty.cs" />
+    <Compile Include="BO\BLL\MtmlDocPartyCollection.cs" />
+    <Compile Include="BO\BLL\MtmlDocReference.cs" />
+    <Compile Include="BO\BLL\MtmlDocReferenceCollection.cs" />
+    <Compile Include="BO\BLL\MtmlTransactionHeader.cs" />
+    <Compile Include="BO\BLL\MtmlTransactionHeaderCollection.cs" />
+    <Compile Include="BO\BLL\MtmlTransportMode.cs" />
+    <Compile Include="BO\BLL\MtmlTransportModeCollection.cs" />
+    <Compile Include="BO\BLL\MxmlAddress.cs" />
+    <Compile Include="BO\BLL\MxmlAddressCollection.cs" />
+    <Compile Include="BO\BLL\MxmlDocHeader.cs" />
+    <Compile Include="BO\BLL\MxmlDocHeaderCollection.cs" />
+    <Compile Include="BO\BLL\MxmlDocItems.cs" />
+    <Compile Include="BO\BLL\MxmlDocItemsCollection.cs" />
+    <Compile Include="BO\BLL\MxmlTransactionHeader.cs" />
+    <Compile Include="BO\BLL\MxmlTransactionHeaderCollection.cs" />
+    <Compile Include="BO\BLL\Rfqline.cs" />
+    <Compile Include="BO\BLL\RfqlineCollection.cs" />
+    <Compile Include="BO\BLL\Rfqmas.cs" />
+    <Compile Include="BO\BLL\RfqmasCollection.cs" />
+    <Compile Include="BO\BLL\SmAddress.cs" />
+    <Compile Include="BO\BLL\SmAddressCollection.cs" />
+    <Compile Include="BO\BLL\SmAddressConfig.cs" />
+    <Compile Include="BO\BLL\SmAddressConfigCollection.cs" />
+    <Compile Include="BO\BLL\SmAttachment.cs" />
+    <Compile Include="BO\BLL\SmAttachmentCollection.cs" />
+    <Compile Include="BO\BLL\SmAuditlog.cs" />
+    <Compile Include="BO\BLL\SmAuditlogCollection.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierGroupFlow.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierGroupFlowCollection.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierGroups.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierGroupsCollection.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierItemRef.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierItemRefCollection.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierItemRefTemp.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierItemRefTempCollection.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierLink.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierLinkCollection.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierLinkRule.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierLinkRuleCollection.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierRules.cs" />
+    <Compile Include="BO\BLL\SmBuyerSupplierRulesCollection.cs" />
+    <Compile Include="BO\BLL\SmByrSuppMailConfig.cs" />
+    <Compile Include="BO\BLL\SmByrSuppMailConfigCollection.cs" />
+    <Compile Include="BO\BLL\SmCurrency.cs" />
+    <Compile Include="BO\BLL\SmCurrencyCollection.cs" />
+    <Compile Include="BO\BLL\SmCurrencyMapped.cs" />
+    <Compile Include="BO\BLL\SmCurrencyMappedCollection.cs" />
+    <Compile Include="BO\BLL\SmDefaultRules.cs" />
+    <Compile Include="BO\BLL\SmDefaultRulesCollection.cs" />
+    <Compile Include="BO\BLL\SmDocEquipment.cs" />
+    <Compile Include="BO\BLL\SmDocEquipmentCollection.cs" />
+    <Compile Include="BO\BLL\SmDocumentformatRules.cs" />
+    <Compile Include="BO\BLL\SmDocumentformatRulesCollection.cs" />
+    <Compile Include="BO\BLL\SmDocumentFormats.cs" />
+    <Compile Include="BO\BLL\SmDocumentFormatsCollection.cs" />
+    <Compile Include="BO\BLL\SmErrorDetail.cs" />
+    <Compile Include="BO\BLL\SmErrorDetailCollection.cs" />
+    <Compile Include="BO\BLL\SmErrorLog.cs" />
+    <Compile Include="BO\BLL\SmErrorLogCollection.cs" />
+    <Compile Include="BO\BLL\SmEsupplierRules.cs" />
+    <Compile Include="BO\BLL\SmEsupplierRulesCollection.cs" />
+    <Compile Include="BO\BLL\SmExportedQuotations.cs" />
+    <Compile Include="BO\BLL\SmExportedQuotationsCollection.cs" />
+    <Compile Include="BO\BLL\SmExportedQuoteItems.cs" />
+    <Compile Include="BO\BLL\SmExportedQuoteItemsCollection.cs" />
+    <Compile Include="BO\BLL\SmExternalUsers.cs" />
+    <Compile Include="BO\BLL\SmExternalUsersCollection.cs" />
+    <Compile Include="BO\BLL\SmFileAudit.cs" />
+    <Compile Include="BO\BLL\SmFileAuditCollection.cs" />
+    <Compile Include="BO\BLL\SmFileAuditOld.cs" />
+    <Compile Include="BO\BLL\SmFileAuditOldCollection.cs" />
+    <Compile Include="BO\BLL\SmInvoiceAddrlink.cs" />
+    <Compile Include="BO\BLL\SmInvoiceAddrlinkCollection.cs" />
+    <Compile Include="BO\BLL\SmInvoicePdfItemMapping.cs" />
+    <Compile Include="BO\BLL\SmInvoicePdfItemMappingCollection.cs" />
+    <Compile Include="BO\BLL\SmInvoicePdfMapping.cs" />
+    <Compile Include="BO\BLL\SmInvoicePdfMappingCollection.cs" />
+    <Compile Include="BO\BLL\SmInvPdfBuyerSupplierLink.cs" />
+    <Compile Include="BO\BLL\SmItemUomMapping.cs" />
+    <Compile Include="BO\BLL\SmItemUomMappingCollection.cs" />
+    <Compile Include="BO\BLL\SmMailDownloadLog.cs" />
+    <Compile Include="BO\BLL\SmMailDownloadLogCollection.cs" />
+    <Compile Include="BO\BLL\SmMailTransactionLog.cs" />
+    <Compile Include="BO\BLL\SmMailTransactionLogCollection.cs" />
+    <Compile Include="BO\BLL\SmPartunit.cs" />
+    <Compile Include="BO\BLL\SmPartunitCollection.cs" />
+    <Compile Include="BO\BLL\SmPdfBuyerLink.cs" />
+    <Compile Include="BO\BLL\SmPdfBuyerLinkCollection.cs" />
+    <Compile Include="BO\BLL\SmPdfItemMapping.cs" />
+    <Compile Include="BO\BLL\SmPdfItemMappingCollection.cs" />
+    <Compile Include="BO\BLL\SmPdfMapping.cs" />
+    <Compile Include="BO\BLL\SmPdfMappingCollection.cs" />
+    <Compile Include="BO\BLL\SmQuotationdetailBuyer.cs" />
+    <Compile Include="BO\BLL\SmQuotationdetailBuyerCollection.cs" />
+    <Compile Include="BO\BLL\SmQuotationdetailVendor.cs" />
+    <Compile Include="BO\BLL\SmQuotationdetailVendorCollection.cs" />
+    <Compile Include="BO\BLL\SmQuotationsBuyer.cs" />
+    <Compile Include="BO\BLL\SmQuotationsBuyerCollection.cs" />
+    <Compile Include="BO\BLL\SmQuotationsVendor.cs" />
+    <Compile Include="BO\BLL\SmQuotationsVendorAddress.cs" />
+    <Compile Include="BO\BLL\SmQuotationsVendorAddressCollection.cs" />
+    <Compile Include="BO\BLL\SmQuotationsVendorCollection.cs" />
+    <Compile Include="BO\BLL\SmReqnInvoice.cs" />
+    <Compile Include="BO\BLL\SmReqnInvoiceCollection.cs" />
+    <Compile Include="BO\BLL\SmReqnInvoiceItem.cs" />
+    <Compile Include="BO\BLL\SmReqnInvoiceItemCollection.cs" />
+    <Compile Include="BO\BLL\SmSendMailAudit.cs" />
+    <Compile Include="BO\BLL\SmSendMailAuditCollection.cs" />
+    <Compile Include="BO\BLL\SmSendMailQueue.cs" />
+    <Compile Include="BO\BLL\SmSendMailQueueCollection.cs" />
+    <Compile Include="BO\BLL\SmServerSync.cs" />
+    <Compile Include="BO\BLL\SmServerSyncCollection.cs" />
+    <Compile Include="BO\BLL\SmShipmentDocuments.cs" />
+    <Compile Include="BO\BLL\SmShipmentDocumentsCollection.cs" />
+    <Compile Include="BO\BLL\SmShipmentItems.cs" />
+    <Compile Include="BO\BLL\SmShipmentItemsCollection.cs" />
+    <Compile Include="BO\BLL\SmXlsBuyerLink.cs" />
+    <Compile Include="BO\BLL\SmXlsBuyerLinkCollection.cs" />
+    <Compile Include="BO\BLL\SmXlsBuyerMapping.cs" />
+    <Compile Include="BO\BLL\SmXlsBuyerMappingCollection.cs" />
+    <Compile Include="BO\BLL\SmXlsGroupMapping.cs" />
+    <Compile Include="BO\BLL\SmXlsGroupMappingCollection.cs" />
+    <Compile Include="BO\BLL\SmXlsSections.cs" />
+    <Compile Include="BO\BLL\SmXlsSectionsCollection.cs" />
+    <Compile Include="BO\DAL\LesClientConnectLog.cs" />
+    <Compile Include="BO\DAL\LesInventory.cs" />
+    <Compile Include="BO\DAL\LesInventoryAudit.cs" />
+    <Compile Include="BO\DAL\LesInventoryHistory.cs" />
+    <Compile Include="BO\DAL\LesInventorylocation.cs" />
+    <Compile Include="BO\DAL\LesInventorySupplierLink.cs" />
+    <Compile Include="BO\DAL\LesLocations.cs" />
+    <Compile Include="BO\DAL\LesModuleAccess.cs" />
+    <Compile Include="BO\DAL\LesModuleActions.cs" />
+    <Compile Include="BO\DAL\LesMonitorLoginHistory.cs" />
+    <Compile Include="BO\DAL\LesPartcategory.cs" />
+    <Compile Include="BO\DAL\LesParttype.cs" />
+    <Compile Include="BO\DAL\LesRelatedInventory.cs" />
+    <Compile Include="BO\DAL\LesResendDocNotify.cs" />
+    <Compile Include="BO\DAL\LesSalesorder.cs" />
+    <Compile Include="BO\DAL\LesSalesorderDetails.cs" />
+    <Compile Include="BO\DAL\LesSupplierLocationLink.cs" />
+    <Compile Include="BO\DAL\LesSupplierSubsupplierLink.cs" />
+    <Compile Include="BO\DAL\LesVessels.generated.cs" />
+    <Compile Include="BO\DAL\MtmlDeliveryTerms.cs" />
+    <Compile Include="BO\DAL\MtmlDocAmounts.cs" />
+    <Compile Include="BO\DAL\MtmlDocComments.cs" />
+    <Compile Include="BO\DAL\MtmlDocDatetime.cs" />
+    <Compile Include="BO\DAL\MtmlDocHeader.cs" />
+    <Compile Include="BO\DAL\MtmlDocItem.cs" />
+    <Compile Include="BO\DAL\MtmlDocItemEquipment.cs" />
+    <Compile Include="BO\DAL\MtmlDocParty.cs" />
+    <Compile Include="BO\DAL\MtmlDocReference.cs" />
+    <Compile Include="BO\DAL\MtmlTransactionHeader.cs" />
+    <Compile Include="BO\DAL\MtmlTransportMode.cs" />
+    <Compile Include="BO\DAL\MxmlAddress.cs" />
+    <Compile Include="BO\DAL\MxmlDocHeader.cs" />
+    <Compile Include="BO\DAL\MxmlDocItems.cs" />
+    <Compile Include="BO\DAL\MxmlTransactionHeader.cs" />
+    <Compile Include="BO\DAL\Rfqline.cs" />
+    <Compile Include="BO\DAL\Rfqmas.cs" />
+    <Compile Include="BO\DAL\SmAddress.cs" />
+    <Compile Include="BO\DAL\SmAddressConfig.cs" />
+    <Compile Include="BO\DAL\SmAttachment.cs" />
+    <Compile Include="BO\DAL\SmAuditlog.cs" />
+    <Compile Include="BO\DAL\SmBuyerSupplierGroupFlow.cs" />
+    <Compile Include="BO\DAL\SmBuyerSupplierGroups.cs" />
+    <Compile Include="BO\DAL\SmBuyerSupplierItemRef.cs" />
+    <Compile Include="BO\DAL\SmBuyerSupplierItemRefTemp.cs" />
+    <Compile Include="BO\DAL\SmBuyerSupplierLink.cs" />
+    <Compile Include="BO\DAL\SmBuyerSupplierLinkRule.cs" />
+    <Compile Include="BO\DAL\SmBuyerSupplierRules.cs" />
+    <Compile Include="BO\DAL\SmByrSuppMailConfig.cs" />
+    <Compile Include="BO\DAL\SmCurrency.cs" />
+    <Compile Include="BO\DAL\SmCurrencyMapped.cs" />
+    <Compile Include="BO\DAL\SmDefaultRules.cs" />
+    <Compile Include="BO\DAL\SmDocEquipment.cs" />
+    <Compile Include="BO\DAL\SmDocumentformatRules.cs" />
+    <Compile Include="BO\DAL\SmDocumentFormats.cs" />
+    <Compile Include="BO\DAL\SmErrorDetail.cs" />
+    <Compile Include="BO\DAL\SmErrorLog.cs" />
+    <Compile Include="BO\DAL\SmEsupplierRules.cs" />
+    <Compile Include="BO\DAL\SmExportedQuotations.cs" />
+    <Compile Include="BO\DAL\SmExportedQuoteItems.cs" />
+    <Compile Include="BO\DAL\SmExternalUsers.cs" />
+    <Compile Include="BO\DAL\SmFileAudit.cs" />
+    <Compile Include="BO\DAL\SmFileAuditOld.cs" />
+    <Compile Include="BO\DAL\SmInvoiceAddrlink.cs" />
+    <Compile Include="BO\DAL\SmItemUomMapping.cs" />
+    <Compile Include="BO\DAL\SmMailDownloadLog.cs" />
+    <Compile Include="BO\DAL\SmMailTransactionLog.cs" />
+    <Compile Include="BO\DAL\SmPartunit.cs" />
+    <Compile Include="BO\DAL\SmPdfBuyerLink.cs" />
+    <Compile Include="BO\DAL\SmPdfItemMapping.cs" />
+    <Compile Include="BO\DAL\SmPdfMapping.cs" />
+    <Compile Include="BO\DAL\SmQuotationdetailBuyer.cs" />
+    <Compile Include="BO\DAL\SmQuotationdetailVendor.cs" />
+    <Compile Include="BO\DAL\SmQuotationsBuyer.cs" />
+    <Compile Include="BO\DAL\SmQuotationsVendor.cs" />
+    <Compile Include="BO\DAL\SmQuotationsVendorAddress.cs" />
+    <Compile Include="BO\DAL\SmReqnInvoice.cs" />
+    <Compile Include="BO\DAL\SmReqnInvoiceItem.cs" />
+    <Compile Include="BO\DAL\SmSendMailAudit.cs" />
+    <Compile Include="BO\DAL\SmSendMailQueue.cs" />
+    <Compile Include="BO\DAL\SmServerSync.cs" />
+    <Compile Include="BO\DAL\SmShipmentDocuments.cs" />
+    <Compile Include="BO\DAL\SmShipmentItems.cs" />
+    <Compile Include="BO\DAL\SmXlsBuyerLink.cs" />
+    <Compile Include="BO\DAL\SmXlsBuyerMapping.cs" />
+    <Compile Include="BO\DAL\SmXlsGroupMapping.cs" />
+    <Compile Include="BO\DAL\SmXlsSections.cs" />
+    <Compile Include="BO\DataAccess.cs" />
+    <Compile Include="BO\GlobalTools.cs" />
+    <Compile Include="Common\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Common\Logout.aspx.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Common\Logout.aspx.designer.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalTools.cs" />
+    <Compile Include="LESMonitorPages\Adaptors.aspx.cs">
+      <DependentUpon>Adaptors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\Adaptors.aspx.designer.cs">
+      <DependentUpon>Adaptors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\AuditGrid.aspx.cs">
+      <DependentUpon>AuditGrid.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\AuditGrid.aspx.designer.cs">
+      <DependentUpon>AuditGrid.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\AuditLog.aspx.cs">
+      <DependentUpon>AuditLog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\AuditLog.aspx.designer.cs">
+      <DependentUpon>AuditLog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\BuyerDetail.aspx.cs">
+      <DependentUpon>BuyerDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\BuyerDetail.aspx.designer.cs">
+      <DependentUpon>BuyerDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\Buyers.aspx.cs">
+      <DependentUpon>Buyers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\Buyers.aspx.designer.cs">
+      <DependentUpon>Buyers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\BuyerSupplier_ConfirmLink_Wizard.aspx.cs">
+      <DependentUpon>BuyerSupplier_ConfirmLink_Wizard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\BuyerSupplier_ConfirmLink_Wizard.aspx.designer.cs">
+      <DependentUpon>BuyerSupplier_ConfirmLink_Wizard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\DefaultFormatRules.aspx.cs">
+      <DependentUpon>DefaultFormatRules.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\DefaultFormatRules.aspx.designer.cs">
+      <DependentUpon>DefaultFormatRules.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\DefaultRules.aspx.cs">
+      <DependentUpon>DefaultRules.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\DefaultRules.aspx.designer.cs">
+      <DependentUpon>DefaultRules.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\DocumentFormat.aspx.cs">
+      <DependentUpon>DocumentFormat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\DocumentFormat.aspx.designer.cs">
+      <DependentUpon>DocumentFormat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\eInvoicePDFConfig.aspx.cs">
+      <DependentUpon>eInvoicePDFConfig.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\eInvoicePDFConfig.aspx.designer.cs">
+      <DependentUpon>eInvoicePDFConfig.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\eInvoice_Links.aspx.cs">
+      <DependentUpon>eInvoice_Links.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\eInvoice_Links.aspx.designer.cs">
+      <DependentUpon>eInvoice_Links.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\Errors.aspx.cs">
+      <DependentUpon>Errors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\Errors.aspx.designer.cs">
+      <DependentUpon>Errors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\FileAudit.aspx.cs">
+      <DependentUpon>FileAudit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\FileAudit.aspx.designer.cs">
+      <DependentUpon>FileAudit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\FileMonitorSystem.aspx.cs">
+      <DependentUpon>FileMonitorSystem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\FileMonitorSystem.aspx.designer.cs">
+      <DependentUpon>FileMonitorSystem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\File_Mapping.aspx.cs">
+      <DependentUpon>File_Mapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\File_Mapping.aspx.designer.cs">
+      <DependentUpon>File_Mapping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\File_Reprocess.aspx.cs">
+      <DependentUpon>File_Reprocess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\File_Reprocess.aspx.designer.cs">
+      <DependentUpon>File_Reprocess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\Groups.aspx.cs">
+      <DependentUpon>Groups.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\Groups.aspx.designer.cs">
+      <DependentUpon>Groups.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\LinkRules.aspx.cs">
+      <DependentUpon>LinkRules.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\LinkRules.aspx.designer.cs">
+      <DependentUpon>LinkRules.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\LogFileViewer.aspx.cs">
+      <DependentUpon>LogFileViewer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\LogFileViewer.aspx.designer.cs">
+      <DependentUpon>LogFileViewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\LoginHistory.aspx.cs">
+      <DependentUpon>LoginHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\LoginHistory.aspx.designer.cs">
+      <DependentUpon>LoginHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\MailQueueViewer.aspx.cs">
+      <DependentUpon>MailQueueViewer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\MailQueueViewer.aspx.designer.cs">
+      <DependentUpon>MailQueueViewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\NewBuyerSupplierWizard.aspx.cs">
+      <DependentUpon>NewBuyerSupplierWizard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\NewBuyerSupplierWizard.aspx.designer.cs">
+      <DependentUpon>NewBuyerSupplierWizard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\Overview.aspx.cs">
+      <DependentUpon>Overview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\Overview.aspx.designer.cs">
+      <DependentUpon>Overview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\PDF_Buyer_Config.aspx.cs">
+      <DependentUpon>PDF_Buyer_Config.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\PDF_Buyer_Config.aspx.designer.cs">
+      <DependentUpon>PDF_Buyer_Config.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\PDF_Buyer_Config_MapCode.aspx.cs">
+      <DependentUpon>PDF_Buyer_Config_MapCode.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\PDF_Buyer_Config_MapCode.aspx.designer.cs">
+      <DependentUpon>PDF_Buyer_Config_MapCode.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\QuickAudit.aspx.cs">
+      <DependentUpon>QuickAudit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\QuickAudit.aspx.designer.cs">
+      <DependentUpon>QuickAudit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\Rules.aspx.cs">
+      <DependentUpon>Rules.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\Rules.aspx.designer.cs">
+      <DependentUpon>Rules.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\SupplierDetail.aspx.cs">
+      <DependentUpon>SupplierDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\SupplierDetail.aspx.designer.cs">
+      <DependentUpon>SupplierDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\Suppliers.aspx.cs">
+      <DependentUpon>Suppliers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\Suppliers.aspx.designer.cs">
+      <DependentUpon>Suppliers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\ForbiddenAccess.aspx.cs">
+      <DependentUpon>ForbiddenAccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\ForbiddenAccess.aspx.designer.cs">
+      <DependentUpon>ForbiddenAccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\XLS_Buyer_Config.aspx.cs">
+      <DependentUpon>XLS_Buyer_Config.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\XLS_Buyer_Config.aspx.designer.cs">
+      <DependentUpon>XLS_Buyer_Config.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LESMonitorPages\XLS_Buyer_Config_MapCode.aspx.cs">
+      <DependentUpon>XLS_Buyer_Config_MapCode.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LESMonitorPages\XLS_Buyer_Config_MapCode.aspx.designer.cs">
+      <DependentUpon>XLS_Buyer_Config_MapCode.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Main.aspx.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Main.aspx.designer.cs">
+      <DependentUpon>Main.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPages\Base.Master.cs">
+      <DependentUpon>Base.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPages\Base.Master.designer.cs">
+      <DependentUpon>Base.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPages\BaseDetail.master.cs">
+      <DependentUpon>BaseDetail.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPages\BaseDetail.master.designer.cs">
+      <DependentUpon>BaseDetail.master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPages\BaseMenu.master.cs">
+      <DependentUpon>BaseMenu.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPages\BaseMenu.master.designer.cs">
+      <DependentUpon>BaseMenu.master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceCallRoutines.cs" />
+    <Compile Include="SupplierRoutines.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49984</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49984/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

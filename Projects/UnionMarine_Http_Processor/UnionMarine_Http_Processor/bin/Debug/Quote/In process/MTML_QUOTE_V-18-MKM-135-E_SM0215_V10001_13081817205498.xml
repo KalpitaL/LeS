@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="597956" Identifier="UNOC" Recipient="B60543_MLPDF" Sender="V10001" PreparationDate="2018-Aug-13" PreparationTime="17:20" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2880" LesRecordID="11274658" LesLinkID="103884" ParentRecordID="11274459" MTML_DOCID="998CD832-27E4-48E7-88F1-9933AD90B3EB">
+    <Quote MessageReferenceNumber="RequestForQuote : V-18-MKM-135-E" MessageNumber="V-18-MKM-135-E" LineItemCount="6" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" TransportModeCode="_3" DepartmentCode="Engine" LeadTimeDays="2" OriginalFile="OrderQuotation-597956_180813_171350642.pdf" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201808131720" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201808160000" />
+      <Comments Qualifier="SUR">
+        <value>Thanks for your inquiry. We're pleased to offer our quotation for your consideration.
+
+Item 1 available with low inventory
+
+All quoted items are ex-stock subject to prior sales 
+
+Delivery Lead time: 1-2  working days
+Subject to additional delivery charge, hire of barge/crane, custom fee, etc.
+
+Please allow another 1-2 working days’ notice for delivery arrangement.
+
+We look forward to receiving your earliest order confirmation.
+
+Best Regards,
+Edlyn Tan
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-18-MKM-135-E" />
+      <Reference Qualifier="AAG" ReferenceNumber="597956" />
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="EM" Number="purchasing@ummsportal.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="65 6395 4545" />
+          <CommunicationMethod Qualifier="FX" Number="65 6872 6319" />
+        </Contact>
+        <StreetAddress>128376</StreetAddress>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <Party Qualifier="UD" Identification="9492907" Name="MIKA MANX">
+        <PartyLocation Qualifier="ZUC" Berth="RICHARDS BAY" Port="ZARCB" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Vaptreat" MeasureUnitQualifier="LTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="17890120" SystemItemNo="1" MonetaryAmount="279.00" Identification="571364" DeliveryTime="2" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.58" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="ACC Plus" MeasureUnitQualifier="LTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="17890121" SystemItemNo="2" MonetaryAmount="286.00" Identification="698704" DeliveryTime="2" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.72" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="Carbon Remover" MeasureUnitQualifier="LTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="17890122" SystemItemNo="3" MonetaryAmount="909.00" Identification="571604" DeliveryTime="2" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="18.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="18.18" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="Enviroclean" MeasureUnitQualifier="LTR" Quantity="100" TypeCode="BP" OriginatingSystemRef="17890123" SystemItemNo="4" MonetaryAmount="522.00" Identification="765018" DeliveryTime="2" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.22" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="Disclean" MeasureUnitQualifier="LTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="17890124" SystemItemNo="5" MonetaryAmount="275.00" Identification="571687" DeliveryTime="2" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="DESCALEX" MeasureUnitQualifier="KG" Quantity="25" TypeCode="BP" OriginatingSystemRef="17890125" SystemItemNo="6" MonetaryAmount="365.00" Identification="571646" DeliveryTime="2" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.6" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.6" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="2636.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="2636.000" />
+    </Quote>
+  </Interchange>
+</MTML>

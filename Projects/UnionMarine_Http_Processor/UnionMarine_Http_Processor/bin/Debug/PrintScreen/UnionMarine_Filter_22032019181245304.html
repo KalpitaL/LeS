@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<!-- start: Meta -->
+	<meta charset="utf-8">
+	<title>Intuitships SupplyNET</title>
+	<meta name="description" content="Intuitships SupplyNET">
+	<meta name="keyword" content="Intuitships SupplyNET">
+	<!-- end: Meta -->
+	
+	<!-- start: Mobile Specific -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- end: Mobile Specific -->
+	
+	<!-- start: Favicon and Touch Icons -->
+	<link href="https://supplynet.intuitships-umms.com/img/favicon.png?t=4" rel="shortcut icon" type="image/x-icon">
+	<!-- end: Favicon and Touch Icons -->
+	
+	<!-- start: CSS -->
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bootstrap.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/font-awesome.min.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bariol-font.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/style.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/developer.css?v=2019.02.01">	<!-- end: CSS -->
+
+	<!-- start: JS -->
+    
+    <script language="javascript" type="text/javascript"> 
+	var websiteUrl 		= "https://supplynet.intuitships-umms.com/"; 
+	</script>
+
+    <script type="text/javascript" src="/js/jquery.2.1.1.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/bootstrap.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/bootbox.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/jquery.chromatable.js?v=2019.02.01"></script><script type="text/javascript" src="/js/sweetalert.min.js?v=2019.02.01"></script>	
+	<!-- start: JS -->
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+	<!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie7.css?v=2019.02.01" />	<![endif]-->
+	
+	<script type="text/javascript" src="/js/functions.js?v=2019.02.01"></script>		
+</head>
+
+<body>
+
+<div id="site-content">
+	
+	<div id="header">
+		<div class="container">
+			<div class="row">
+            
+                
+				<div class="col-sm-8">
+                	<a href="https://supplynet.intuitships-umms.com/invoice" class="logo"><img src="https://supplynet.intuitships-umms.com/img/home-logo.png" alt="Intuitships SupplyNET"> <span class="name">intuit<strong>ships</strong></span> <span class="type">SupplyNET</span></a>				</div>
+				<div class="col-sm-4">
+					<div class="dropdown profile">
+						<a href="https://supplynet.intuitships-umms.com/#" data-toggle="dropdown" class="dropdown-toggle">WILHELMSEN SHIPS SERVICE AS <span class="caret"></span></a>
+						<ul class="dropdown-menu with-arrow">
+                            
+							<li><a href="https://supplynet.intuitships-umms.com/users/my_profile"><i class="fa fa-user"></i> Edit Profile</a></li>
+                            <li><a href="https://supplynet.intuitships-umms.com/users/logout"><i class="fa fa-power-off"></i> Logout</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="header-block"></div>
+	
+	<div id="pagearea">
+		<div class="container">
+        
+        <link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bootstrap-datetimepicker.css?v=2019.02.01"><script type="text/javascript" src="/js/bootstrap-datetimepicker.js"></script><style><!--
+.filter .form-group{ width:150px; }
+.label{ font-size:85%;}
+-->
+</style>
+
+<div class="tile">
+    <div class="tile-body">
+        <div class="upload-box">
+            <div class="form-box">
+                <a href="https://supplynet.intuitships-umms.com/invoice/create_wizard" class="btn btn-primary" style="font-size:1.5em;"><i class="fa fa-cloud-upload"></i>&nbsp;&nbsp;&nbsp;Upload Invoice</a>             </div>
+        </div>
+        <div class="filter clearfix">
+            <form method="post" action="" id="SearchForm">
+            	
+                    <div class="form-group">
+                        <select name="data[Search][SearchFor]" class="form-control jq_search_for" id="SearchSearchFor">
+<option value="">--Search For--
+<option value="po">PO Number
+<option value="invoice">Invoice Number
+<option value="rfq">RFQ Number
+</select>                    </div>
+                    
+                    
+                    <div class="form-group">
+                    
+                        <select name="data[Search][InvoiceStatus]" class="form-control jq_inv_status" style="display:none;" id="SearchInvoiceStatus">
+<option value="">--Select Status--
+<option value="25">OPEN - NOT LINKED TO PO
+<option value="26">DISPUTE FILED
+<option value="27">INVOICE SENT
+<option value="33">INVOICE VERIFIED
+<option value="37">PAID &amp; CLOSED
+<option value="61">AWAITING ALL INVOICES
+</select><select name="data[Search][PoStatus]" class="form-control jq_po_status" style="display:none;" id="SearchPoStatus">
+<option value="">--Select Status--
+<option value="1">PO RECEIVED
+<option value="9">READY TO SEND
+<option value="17">DELIVERED
+<option value="26">DISPUTE FILED
+<option value="29">INVOICE SENT
+<option value="33">INVOICE VERIFIED
+<option value="37">PAID &amp; CLOSED
+<option value="61">AWAITING ALL INVOICES
+</select><select name="data[Search][RfqStatus]" class="form-control jq_rfq_status" style="display:none;" id="SearchRfqStatus">
+<option value="">--Select Status--
+<option value="new">New
+<option value="qsubmitted">Quote Submitted
+<option value="closed">Closed
+</select><select name="data[Search][PoStatus1]" class="form-control jq_none_status" style="display:block;" id="SearchPoStatus1">
+<option value="">--Select Status--
+</select>                    </div>
+                    
+                    <div class="form-group">
+                        <div class="input-group iconed-input">
+							<input name="data[Search][DateStart]" type="text" value="" class="form-control jqDatePicker" readonly="readonly" placeholder="From Date" id="SearchDateStart">                            <span class="input-group-addon"><i class="fa fa-calendar"></i></span> 
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group iconed-input">
+							<input name="data[Search][DateEnd]" type="text" value="" class="form-control jqDatePicker" readonly="readonly" placeholder="To Date" id="SearchDateEnd">                            <span class="input-group-addon"><i class="fa fa-calendar"></i></span> 
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="form-group">
+                        <input name="data[Search][Keyword]" type="text" value="" class="form-control" placeholder="Keyword" id="SearchKeyword">                    </div>
+                    <div class="buttons">
+                        <button type="submit" class="btn btn-primary jq_search">Search</button>
+                        <button type="reset" class="btn btn-default jq_clear">Clear</button>
+                    </div>
+                    
+            </form>
+        </div>
+        
+
+        <div class="widget-content nav-tab-wrapper">
+                                
+                
+            <ul class="nav nav-tabs">
+                <li class="active"><a href="https://supplynet.intuitships-umms.com/#tab_statistics" data-toggle="tab">Statistics</a></li>
+                <li class=""><a href="https://supplynet.intuitships-umms.com/#tab_requisition" data-toggle="tab">Requisitions</a></li>
+                <li class=""><a href="https://supplynet.intuitships-umms.com/#tab_invoices" data-toggle="tab">PO/Invoices</a></li>
+            </ul>
+          
+            <div class="tab-content">
+                <div class="tab-pane active" id="tab_statistics">
+                    <br>
+                    <div class="requisition-status-wrapper">
+                    <div class="dashboard-requisition-box new">
+                    <a href="https://supplynet.intuitships-umms.com/invoice/index/search_for:rfq/status:new">New <br>Requisition<br><span class="number-text">12</span></a>                    </div>
+                    <div class="dashboard-requisition-box quote_submit">
+                    <a href="https://supplynet.intuitships-umms.com/invoice/index/search_for:rfq/status:qsubmitted">Quote <br>Submitted<br><span class="number-text">4</span></a>     
+                    </div>
+                    <div class="dashboard-requisition-box new_po">
+                    <a href="https://supplynet.intuitships-umms.com/invoice/index/search_for:po/status:new">PO Received <br>(Undelivered POs)<br><span class="number-text">2</span></a>                          
+                    </div>
+                    <div class="dashboard-requisition-box unpaid_invoice" data-tip="tooltip" title="Quote Received">
+                    <a href="https://supplynet.intuitships-umms.com/invoice/index/search_for:invoice/status:unpaid">Unpaid <br>Invoice<br><span class="number-text">13</span></a>                           
+                    </div>
+                    <div class="dashboard-requisition-box disputed" data-tip="tooltip" title="Quote Approved">
+                    <a href="https://supplynet.intuitships-umms.com/javascript:void(0)">Disputed <br>Invoice<br><span class="number-text">0</span></a>                        
+                    </div>
+                    </div>
+                </div>
+            
+                <div class="tab-pane " id="tab_requisition">
+                    <br>
+                            
+                    <div class="table-responsive large-table">
+                        <div class="scroll-table">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th width="15%">RFQ Number</th>
+                                    <th>Vessel Name</th>
+                                    <th width="15%">Priority</th>
+                                    <th width="15%">Requisition For</th>
+                                    <th width="15%">Quotation Ref. No</th>
+                                    
+                                    
+                                    <th width="15%">Status</th>
+                                    <th width="10%">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                                                        <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/9084" target="_blank">V-19-FSK-018-E</a></td>
+                                            <td>FUJISUKA</td>
+                                            <td align="center">NEXT-CONVENIENT-PORT</td>
+                                            <td align="center">CHEMICAL</td>
+                                            <td align="center">5136358</td>
+                                            
+                                            <td align="center"><span class="label label-green1">QUOTE SUBMITTED</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/9084" class="btn btn-warning btn-xs" title="Update Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="9084"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/8324" target="_blank">V-19-LLB-016-E</a></td>
+                                            <td>LOWLANDS BEACON</td>
+                                            <td align="center">URGENT</td>
+                                            <td align="center">SPARE</td>
+                                            <td align="center">5136358</td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/8324" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="8324"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/7693" target="_blank">V-18-SLM-091-E</a></td>
+                                            <td>SCARLETT MANX</td>
+                                            <td align="center">QUARTERLY</td>
+                                            <td align="center">STORE</td>
+                                            <td align="center">5134193</td>
+                                            
+                                            <td align="center"><span class="label label-green1">QUOTE SUBMITTED</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/7693" class="btn btn-warning btn-xs" title="Update Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="7693"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/6378" target="_blank">V-18-MKM-166-E</a></td>
+                                            <td>MIKA MANX</td>
+                                            <td align="center">URGENT</td>
+                                            <td align="center">CHEMICAL</td>
+                                            <td align="center">5133776</td>
+                                            
+                                            <td align="center"><span class="label label-green1">QUOTE SUBMITTED</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/6378" class="btn btn-warning btn-xs" title="Update Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="6378"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/6379" target="_blank">V-18-MKM-167-E</a></td>
+                                            <td>MIKA MANX</td>
+                                            <td align="center">URGENT</td>
+                                            <td align="center">SPARE</td>
+                                            <td align="center">5133804</td>
+                                            
+                                            <td align="center"><span class="label label-green1">QUOTE SUBMITTED</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/6379" class="btn btn-warning btn-xs" title="Update Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="6379"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/8843" target="_blank">V-19-KKP-043-AS</a></td>
+                                            <td>KK PIRAPO</td>
+                                            <td align="center">URGENT</td>
+                                            <td align="center">SPARE</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/8843" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="8843"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/8850" target="_blank">V-19-MKM-015-E</a></td>
+                                            <td>MIKA MANX</td>
+                                            <td align="center">QUARTERLY</td>
+                                            <td align="center">CHEMICAL</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/8850" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="8850"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/8082" target="_blank">V-19-TRM-001-EL</a></td>
+                                            <td>TENRO MARU</td>
+                                            <td align="center">ROUTINE-MAINTENANCE</td>
+                                            <td align="center">SPARE</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/8082" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="8082"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/8591" target="_blank">V-19-MKM-013-D</a></td>
+                                            <td>MIKA MANX</td>
+                                            <td align="center">ROUTINE-MAINTENANCE</td>
+                                            <td align="center">SPARE</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/8591" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="8591"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/7705" target="_blank">V-18-TRM-161-E</a></td>
+                                            <td>TENRO MARU</td>
+                                            <td align="center">URGENT</td>
+                                            <td align="center">STORE</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/7705" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="7705"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/7763" target="_blank">V-18-CNN-188-E</a></td>
+                                            <td>CONON</td>
+                                            <td align="center">ROUTINE-MAINTENANCE</td>
+                                            <td align="center">SPARE</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/7763" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="7763"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/7742" target="_blank">V-18-MKM-193-E</a></td>
+                                            <td>MIKA MANX</td>
+                                            <td align="center">URGENT</td>
+                                            <td align="center">SPARE</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/7742" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="7742"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/7743" target="_blank">V-18-FDL-056-E</a></td>
+                                            <td>FD ANGELICA</td>
+                                            <td align="center">ROUTINE-MAINTENANCE</td>
+                                            <td align="center">SPARE</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/7743" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="7743"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/7123" target="_blank">V-18-MKM-177-E</a></td>
+                                            <td>MIKA MANX</td>
+                                            <td align="center">QUARTERLY</td>
+                                            <td align="center">CHEMICAL</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/7123" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="7123"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/6688" target="_blank">V-18-ASV-108-E</a></td>
+                                            <td>AP SVETI VLAHO</td>
+                                            <td align="center">URGENT</td>
+                                            <td align="center">CHEMICAL</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/6688" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="6688"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/pdf/4985" target="_blank">V-18-MKM-134-E</a></td>
+                                            <td>MIKA MANX</td>
+                                            <td align="center">URGENT</td>
+                                            <td align="center">CHEMICAL</td>
+                                            <td align="center"></td>
+                                            
+                                            <td align="center"><span class="label label-primary">NEW</span></td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/requisition_quote/submit/4985" class="btn btn-primary btn-xs" title="Submit Quote" data-tip="tooltip"><img src="https://supplynet.intuitships-umms.com/img/icon-quote.png" alt=""></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" class="btn btn-primary btn-xs jq_message_to_pm" title="Email to Purchase Manager" data-tip="tooltip" data-toggle="modal" data-id="4985"><i class="fa fa-envelope"></i></a>                                            </td>
+                                        </tr>
+                                                                    </tbody>
+                        </table>
+                        </div>
+                    </div>
+                                    </div>
+            
+                <div class="tab-pane " id="tab_invoices">
+                    <br>
+                    <div class="table-responsive large-table">
+                        <div class="scroll-table">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th><a href="https://supplynet.intuitships-umms.com/invoice/index/page:1/sort:PurchaseOrder.PONumber/direction:asc" style="color:#ffffff;">PO #</a></th>
+                                    
+                                    <th width="10%">Quotation Ref. No</th>
+                                    
+                                    <th><a href="https://supplynet.intuitships-umms.com/invoice/index/page:1/sort:PurchaseOrder.TotalAmount/direction:asc" style="color:#ffffff;">PO Amount</a></th>
+                                    <th><a href="https://supplynet.intuitships-umms.com/invoice/index/page:1/sort:Invoice.InvoiceNumber/direction:asc" style="color:#ffffff;">Invoice #</a></th>
+                                    <th><a href="https://supplynet.intuitships-umms.com/invoice/index/page:1/sort:Invoice.InvoiceAmount/direction:asc" style="color:#ffffff;">Invoice Amount</a></th>
+                                    <th>Status</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                                                        <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="61241">DHM/024/19</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">6244.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice"></a></td>
+                                            <td align="right"> </td>
+                                            <td align="center"><span class="label label-primary">PO RECEIVED</span></td>
+                                            
+                                            
+                                            <td align="center">&nbsp;<a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" data-id="61241" class="label label-orange1 jq_edit_po" data-tip="tooltip" title="Edit PO"><i class="fa fa-pencil-square-o"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="58425">LFC/025/19</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">7560.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="201358">15CD590724</a></td>
+                                            <td align="right">7560.00 USD</td>
+                                            <td align="center"><span class="label label-blue2">INVOICE SENT</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="59592">FKS/038/19</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">2830.50 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="200765">IWMSAU01CD48562</a></td>
+                                            <td align="right">2655.00 USD</td>
+                                            <td align="center"><span class="label label-success">INVOICE VERIFIED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="59215">IHM/020/19</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">6844.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="199658">15CD589206</a></td>
+                                            <td align="right">6844.00 USD</td>
+                                            <td align="center"><span class="label label-blue2">INVOICE SENT</span></td>
+                                            
+                                            
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/invoice/edit/199658" class="label label-warning" data-toggle="tooltip" title="Edit Invoice"><i class="fa fa-pencil"></i></a>&nbsp;<a href="https://supplynet.intuitships-umms.com/javascript:void(0)" class="label label-red1 jq_delete_invoice" data-toggle="tooltip" title="Delete Invoice" data-id="199658"><i class="fa fa-times"></i></a>                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="59341">GDM/018/19</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">500.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="199619">13CD594379</a></td>
+                                            <td align="right">-4484.40 USD</td>
+                                            <td align="center"><span class="label label-success">INVOICE VERIFIED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="58185">MNM/001/19</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">2730.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="199124">15CD587107</a></td>
+                                            <td align="right">2730.00 USD</td>
+                                            <td align="center"><span class="label label-success">PAID & CLOSED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="57908">MKM/418/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">950.44 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="198384">13CD591878</a></td>
+                                            <td align="right">2140.44 USD</td>
+                                            <td align="center"><span class="label label-success">PAID & CLOSED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="57311">CNN/246/18</a></td>
+                                            <td align="right">gf</td>
+                                            <td align="right">2499.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="198341">15CD585656</a></td>
+                                            <td align="right">2499.00 USD</td>
+                                            <td align="center"><span class="label label-blue2">INVOICE SENT</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="57523">CNN/250/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">201.12 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="198286">15CD585479</a></td>
+                                            <td align="right">201.12 USD</td>
+                                            <td align="center"><span class="label label-blue2">INVOICE SENT</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="57619">RHM/018/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">6844.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="198124">15CD584603</a></td>
+                                            <td align="right">6844.00 USD</td>
+                                            <td align="center"><span class="label label-blue2">INVOICE SENT</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="57071">UTC/380/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">2499.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="197997">15CD584310</a></td>
+                                            <td align="right">2499.00 USD</td>
+                                            <td align="center"><span class="label label-blue2">INVOICE SENT</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="57498">MJS/268/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">-786.40 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="197469">IWMSKR05CD94170</a></td>
+                                            <td align="right">-786.40 USD</td>
+                                            <td align="center"><span class="label label-success">PAID & CLOSED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="57497">MJS/267/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">-54.80 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="197468">41CD688198</a></td>
+                                            <td align="right">-54.80 USD</td>
+                                            <td align="center"><span class="label label-success">PAID & CLOSED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="55195">MNM/232/18</a></td>
+                                            <td align="right">5106214</td>
+                                            <td align="right">1330.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="196627">15CD580562</a></td>
+                                            <td align="right">1330.00 USD</td>
+                                            <td align="center"><span class="label label-success">PAID & CLOSED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="55101">FSK/219/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">1520.50 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="196332">19CD120054</a></td>
+                                            <td align="right">1520.50 USD</td>
+                                            <td align="center"><span class="label label-success">PAID & CLOSED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="51974">227/031/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">6844.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="195105">15CD574138</a></td>
+                                            <td align="right">6844.00 USD</td>
+                                            <td align="center"><span class="label label-success">PAID & CLOSED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="54236">TWM/169/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">886.92 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="194784">13CD584461</a></td>
+                                            <td align="right">886.92 USD</td>
+                                            <td align="center"><span class="label label-success">PAID & CLOSED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" class="jq_view_po" data-toggle="modal" data-id="54030">UTP/097/18</a></td>
+                                            <td align="right"></td>
+                                            <td align="right">6844.00 USD</td>
+                                            <td align="center"><a href="https://supplynet.intuitships-umms.com/#modal" data-toggle="modal" class="jq_view_invoice" data-id="194781">15CD580362</a></td>
+                                            <td align="right">6844.00 USD</td>
+                                            <td align="center"><span class="label label-success">PAID & CLOSED</span></td>
+                                            
+                                            
+                                            <td align="center">                                            </td>
+                                        </tr>
+                                        <tr><td colspan="6"><table width="100%" cellpadding="0" cellspacing="0" style="font-size:13px;">
+<tr><td align="left">
+<td align="left" style="font-weight:bold; color:#000;">
+Total Number of Records : <strong>18 </strong>
+</td>
+<td align="right" style="font-weight:bold; color:#000;">Records Per Page&nbsp;:&nbsp;&nbsp;</td>
+<td style="width:80px;" align="right"><select name="page_limit" class="form-control paging_combo pageLimit" onchange="window.location=this.value"><option value="https://supplynet.intuitships-umms.com/invoice/index/paginate_limit:10/page:1">10<option value="https://supplynet.intuitships-umms.com/invoice/index/paginate_limit:20/page:1" selected="selected">20<option value="https://supplynet.intuitships-umms.com/invoice/index/paginate_limit:50/page:1">50<option value="https://supplynet.intuitships-umms.com/invoice/index/paginate_limit:100/page:1">100<option value="https://supplynet.intuitships-umms.com/invoice/index/paginate_limit:250/page:1">250<option value="https://supplynet.intuitships-umms.com/invoice/index/paginate_limit:500/page:1">500<option value="https://supplynet.intuitships-umms.com/invoice/index/paginate_limit:1000/page:1">1000</select></td>
+</td></tr>
+</table>
+</td></tr>                            </tbody>
+                        </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+        </div>
+	</div>
+</div>
+
+
+<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"></div>
+
+<script language="javascript" type="text/javascript">
+
+	$("#fixedhead1").chromatable({
+		width: "100%",
+		height: "350px",
+		scrolling: "yes"
+	});
+	$("#fixedhead2").chromatable({
+		width: "100%",
+		height: "350px",
+		scrolling: "yes"
+	});
+	
+	
+	$(".jq_edit_po").click(function(){
+		var id = $(this).data('id');	
+		var ajax_url = websiteUrl +	'invoice/edit_po/'+id;
+		$("#modal").html('');
+		$.ajax({
+			url : ajax_url,
+			type : 'get',
+			dataType : 'html',
+			'success' 	: function( html_data ){
+				$("#modal").html( html_data );
+				
+			}
+			
+		});
+		
+	});
+	
+	
+	$(".jq_delete_invoice").click(function(){
+		var id = $(this).data('id');								   
+		var del_inv_url = websiteUrl +	'invoice/delete/'+id;
+		bootbox.confirm('Are you sure you want to delete this invoice?',function( response ){
+			if( response == true ) {
+				window.location = del_inv_url;
+			}
+		});
+	});
+
+	$('.jq_view_po').click(function(){
+		$("#modal").html( '');
+		var id = $(this).attr('data-id');
+		var view_url = websiteUrl +	'invoice/view_po/'+id;
+		$("#dialog").html('');
+		$.ajax({
+			'url' 		: view_url,
+			'dataType' 	: 'html',
+			'success' 	: function( html_data ){
+				$("#modal").html( html_data );
+				
+			}
+		})
+	});
+	
+	$('.jq_view_invoice').click(function(){
+		$("#modal").html( '');
+		var id = $(this).attr('data-id');
+		var view_url = websiteUrl +	'invoice/view/'+id;
+		$("#dialog").html('');
+		$.ajax({
+			'url' 		: view_url,
+			'dataType' 	: 'html',
+			'success' 	: function( html_data ){
+				$("#modal").html( html_data );
+				
+			}
+		})
+	});
+	$('.jq_view_rfq').click(function(){
+		var id = $(this).attr('data-id');
+		var view_url = websiteUrl +	'requisition_quote/view/'+id;
+		$("#dialog").html('');
+		$.ajax({
+			'url' 		: view_url,
+			'dataType' 	: 'html',
+			'success' 	: function( html_data ){
+				$("#modal").html( html_data );
+				
+			}
+		})
+	});
+	
+	
+	$(".jq_message_to_pm").click(function(){
+		var id = $(this).attr('data-id');
+		var view_url = websiteUrl +	'requisition_quote/email_to_pm/'+id;
+		$("#dialog").html('');
+		$.ajax({
+			'url' 		: view_url,
+			'dataType' 	: 'html',
+			'success' 	: function( html_data ){
+				$("#modal").html( html_data );
+				
+			}
+		});
+	});
+	
+	$(".jqDatePicker").datetimepicker({
+		weekStart: 1,
+		todayBtn:  0,
+		autoclose: 1,
+		todayHighlight: 0,
+		startView: 2,
+		minView: 2,
+		forceParse: 0,
+		format: 'dd/mm/yyyy'
+	});
+	
+	$(".jq_search_for").change(function(){
+		if( $(this).val() == 'invoice' ){
+			$(".jq_inv_status").show();
+			$(".jq_po_status").hide();
+			$(".jq_rfq_status").hide();
+			$(".jq_none_status").hide();
+		}else if( $(this).val() == 'po' ){
+			$(".jq_inv_status").hide();
+			$(".jq_po_status").show();
+			$(".jq_none_status").hide();
+			$(".jq_rfq_status").hide();
+		}else if( $(this).val() == 'rfq' ){
+			$(".jq_inv_status").hide();
+			$(".jq_po_status").hide();
+			$(".jq_none_status").hide();
+			$(".jq_rfq_status").show();
+		}else{
+			$(".jq_inv_status").hide();
+			$(".jq_rfq_status").hide();
+			$(".jq_po_status").hide();
+			$(".jq_none_status").show();
+		}
+	});
+	
+	
+	$(".jq_clear").click(function(){
+		$("#SearchForm").find('input[type="text"]').val('');
+		$("#SearchForm").submit();					  
+	});
+
+</script>        
+		</div>
+	</div>
+
+	<div id="footer">
+			<div class="copyright">2019 <i class="fa fa-copyright"></i>  All Rights Reserved.</div>
+		</div>
+	</div>
+
+
+
+<script language="javascript" type="text/javascript">
+$(".um_amount").css({'text-align':'right'});
+$('input.um_amount').blur(function(){
+	if( !isNaN ( $(this).val() ) ){
+		var number_value =  $(this).val();
+		var r = number_value.split('.');
+		if (typeof r[1] === "undefined") {
+			$(this).val( number_value +'.00');
+		}else if( r[1].length == 1 ){
+			$(this).val( number_value +'0');
+		}
+	}
+});
+
+</script>
+
+
+</body>
+</html>

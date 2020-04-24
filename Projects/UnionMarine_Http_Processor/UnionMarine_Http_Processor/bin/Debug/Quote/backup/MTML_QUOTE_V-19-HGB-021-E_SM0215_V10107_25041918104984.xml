@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8747870-1" Identifier="UNOC" Recipient="SM0215_NEKOPDF" Sender="V10107" PreparationDate="2019-Apr-25" PreparationTime="18:10" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3614" LesRecordID="11571080" LesLinkID="104385" ParentRecordID="11566541" MTML_DOCID="B4C5E090-EC75-48F1-91EB-1C302518ACC6">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-HGB-021-E" MessageNumber="V-19-HGB-021-E" LineItemCount="3" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" DepartmentCode="ENGINE" LeadTimeDays="0" OriginalFile="20190425115002-QUO-V-19-HGB-021-E-1.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201904251210" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201906241810" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>STORE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-HGB-021-E" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8747870-1" />
+      <Party Qualifier="UD" Identification="9368895" Name="HOEGH BRASILIA">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="PIPE GALVANISED WELDED 4&quot; (114.3X3.65) " MeasureUnitQualifier="MTR" Quantity="18" TypeCode="BP" OriginatingSystemRef="20453146" SystemItemNo="1" MonetaryAmount="268.92" Identification="710113" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.94" />
+        <Comments Qualifier="LIN">
+          <value>PIPE GALVANISED WELDED 4" (114.3X3.65) </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="PIPE GALVANISED WELDED 5&quot; (139.7X5.00) " MeasureUnitQualifier="MTR" Quantity="6" TypeCode="BP" OriginatingSystemRef="20453147" SystemItemNo="2" MonetaryAmount="187.26" Identification="710114" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="31.21" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="31.21" />
+        <Comments Qualifier="LIN">
+          <value>PIPE GALVANISED WELDED 5" (139.7X5.00) </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="WELDING ELBOW DIN 90 GR. SR-4&quot; " MeasureUnitQualifier="PCE" Quantity="4" TypeCode="BP" OriginatingSystemRef="20453148" SystemItemNo="3" MonetaryAmount="51.40" Identification="731148" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.85" />
+        <Comments Qualifier="LIN">
+          <value>WELDING ELBOW DIN 90 GR. SR-4" </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="507.580" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="507.580" />
+    </Quote>
+  </Interchange>
+</MTML>

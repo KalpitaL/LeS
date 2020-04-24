@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<!-- start: Meta -->
+	<meta charset="utf-8">
+	<title>Intuitships SupplyNET</title>
+	<meta name="description" content="Intuitships SupplyNET">
+	<meta name="keyword" content="Intuitships SupplyNET">
+	<!-- end: Meta -->
+	
+	<!-- start: Mobile Specific -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- end: Mobile Specific -->
+	
+	<!-- start: Favicon and Touch Icons -->
+	<link href="https://supplynet.intuitships-umms.com/img/favicon.png?t=4" rel="shortcut icon" type="image/x-icon">
+	<!-- end: Favicon and Touch Icons -->
+	
+	<!-- start: CSS -->
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bootstrap.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/font-awesome.min.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bariol-font.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/style.css?v=2019.02.01"><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/developer.css?v=2019.02.01">	<!-- end: CSS -->
+
+	<!-- start: JS -->
+    
+    <script language="javascript" type="text/javascript"> 
+	var websiteUrl 		= "https://supplynet.intuitships-umms.com/"; 
+	</script>
+
+    <script type="text/javascript" src="/js/jquery.2.1.1.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/bootstrap.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/bootbox.min.js?v=2019.02.01"></script><script type="text/javascript" src="/js/jquery.chromatable.js?v=2019.02.01"></script><script type="text/javascript" src="/js/sweetalert.min.js?v=2019.02.01"></script>	
+	<!-- start: JS -->
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+	<!--[if IE 8]>
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap-ie7.css?v=2019.02.01" />	<![endif]-->
+	
+	<script type="text/javascript" src="/js/functions.js?v=2019.02.01"></script>		
+</head>
+
+<body>
+
+<div id="site-content">
+	
+	<div id="header">
+		<div class="container">
+			<div class="row">
+            
+                
+				<div class="col-sm-8">
+                	<a href="https://supplynet.intuitships-umms.com/invoice" class="logo"><img src="https://supplynet.intuitships-umms.com/img/home-logo.png" alt="Intuitships SupplyNET"> <span class="name">intuit<strong>ships</strong></span> <span class="type">SupplyNET</span></a>				</div>
+				<div class="col-sm-4">
+					<div class="dropdown profile">
+						<a href="https://supplynet.intuitships-umms.com/#" data-toggle="dropdown" class="dropdown-toggle">NEKO SHIP SUPPLY BV <span class="caret"></span></a>
+						<ul class="dropdown-menu with-arrow">
+                            
+							<li><a href="https://supplynet.intuitships-umms.com/users/my_profile"><i class="fa fa-user"></i> Edit Profile</a></li>
+                            <li><a href="https://supplynet.intuitships-umms.com/users/logout"><i class="fa fa-power-off"></i> Logout</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="header-block"></div>
+	
+	<div id="pagearea">
+		<div class="container">
+        
+        <style><!--
+.require{ background:#FFD5D5; }
+--></style>
+<script type="text/javascript" src="/js/ajaxupload.js?v=2019.02.01"></script><script type="text/javascript" src="/js/global_functions.js?v=2019.02.01"></script><link rel="stylesheet" type="text/css" href="https://supplynet.intuitships-umms.com/css/bootstrap-datetimepicker.css?v=2019.02.01"><script type="text/javascript" src="/js/bootstrap-datetimepicker.js"></script><div class="tile">
+    <div class="tile-header">
+        <h1 class="heading">Quote For RFQ # V-19-HGB-021-E </h1>
+    </div>
+    <div class="tile-body">
+    
+            	<form method="post" action="" id="SubmitQuote">
+                <input type="hidden" name="data[RequestSupplier][Action]" id="Action" value="submit">			
+                <div class="row">
+                    <div class="col-sm-2"><strong>Currency</strong></div>
+                    <div class="col-sm-3"><select name="data[RequestSupplier][CurrencyCode]" class="form-control w100 jq_require" id="RequestSupplierCurrencyCode">EUR</select>                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Discount</strong></div>
+                    <div class="col-sm-3">
+                        <div class="input-group iconed-input" style="width:100px;">
+                            <input name="data[RequestSupplier][Discount]" type="text" class="form-control jq_global_discount jq_numeric w100" value="0.00" id="RequestSupplierDiscount">                            <span class="input-group-addon">%</span> 
+                        </div>
+                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Delivery Charges</strong></div>
+                    <div class="col-sm-3">
+                    <input name="data[RequestSupplier][DeliveryCharges]" type="text" class="form-control jq_require jq_delivery_charge jq_numeric w100" value="0.00" id="RequestSupplierDeliveryCharges">                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Quotation Reference #</strong></div>
+                    <div class="col-sm-2">
+					<input name="data[RequestSupplier][SupplierReferenceNumber]" type="text" class="form-control w200" id="RequestSupplierSupplierReferenceNumber" value="Quote:8747870-1">                    </div>
+                    
+                    <div class="col-sm-2" align="right"><strong>Validity Period</strong></div>
+                    <div class="col-sm-2">
+                    	<div class="input-group iconed-input">
+                            <input name="data[RequestSupplier][ValidityPeriod]" type="text" class="form-control" value="59" id="RequestSupplierValidityPeriod">                            <span class="input-group-addon">days</span> 
+                        </div>
+					
+                    </div>
+                    
+                    <div class="col-sm-2" align="right"><strong>Expected Date of Readiness</strong></div>
+                    <div class="col-sm-2">
+                    	<div class="input-group iconed-input">
+                        	<input name="data[RequestSupplier][DeliveryLeadTime]" type="text" class="form-control datetimepicker" readonly="readonly" id="RequestSupplierDeliveryLeadTime" value="25/04/2019 16:05">                            <span class="input-group-addon"><i class="fa fa-calendar"></i></span> 
+                        </div>	
+						
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-sm-2"><strong>Comment</strong></div>
+                    <div class="col-sm-4">
+					<textarea name="data[RequestSupplier][Comment]" class="form-control" rows="3" id="RequestSupplierComment"></textarea>                            
+                    </div>
+                </div>
+                <br>
+                
+                <div class="row">
+                    <div class="col-sm-2"><strong>Upload Reference Document</strong></div>
+                    <div class="col-sm-4">
+						<input type="file" name="data[RequestSupplier][File]" id="File"><input type="hidden" name="data[RequestSupplier][FileHidden]" id="FileHidden"> 
+                        <div class="help-block error errorFileHidden" id="ErrorFile" style="color:#F00;"></div>
+                        <div id="FileFile"></div>
+                        <div class="help-text">Only PDF, PNG, JPG file allowed</div>	
+					
+                            
+                    </div>
+                </div>
+                <br>
+                
+                
+                <br>
+                
+				<table width="100%" class="table table-bordered">
+					<thead>
+                    <tr>
+                    	<th>#</th>
+                                                	<th colspan="2">Part Detail</th>
+                            <th colspan="2">Required</th>
+                            <th colspan="4">Quote</th>  
+                                                
+                    	                      
+                    </tr>
+					<tr>
+						<th width="3%"></th>
+						
+                                                	<th width="10%">Part Name</th>
+                            <th width="6%">IMPA Code</th>
+                            
+                           
+                            <th width="4%">QTY</th>
+                            <th width="10%">Additional Information</th>
+                            
+                            
+                            <th width="15%">Remark</th>
+                            <th width="8%">QTY<span class="text-danger">*</span></th>
+                            <th width="8%">Unit Price<span class="text-danger">*</span></th> 
+                            <th width="5%">Discount</th> 
+                             
+                                                
+                                     
+                        
+					</tr>
+					</thead>
+					<tbody>
+											<tr class="part_quote">
+							<td align="center">1</td>
+							<td>PIPE CARBON STEEL SGP GALV, 4"(100A)X5.5MTR</td>
+                            
+                                                        <td>710113</td>
+                                                        
+                            
+                            
+                            <td align="center">3 LGH</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79517]" class="form-control" id="QuoteRemark79517" value="PIPE GALVANISED WELDED 4" (114.3X3.65) 
+ UOM :MTR"></textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79517]" type="text" class="form-control jq_qty jq_require jq_numeric" value="4.0000" id="QuoteQTYSuggested79517">                                <span class="input-group-addon">LGH</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79517]" type="text" value="12.8500" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79517">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79517]" type="text" value="0.0000" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79517">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">2</td>
+							<td>PIPE CARBON STEEL SGP GALV, 5"(125A)X5.5MTR</td>
+                            
+                                                        <td>710114</td>
+                                                        
+                            
+                            
+                            <td align="center">1 LGH</td>
+                            <td>USE FOR SLEEVE</td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79518]" class="form-control" id="QuoteRemark79518" value="PIPE GALVANISED WELDED 5" (139.7X5.00) 
+ UOM :MTR"></textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79518]" type="text" class="form-control jq_qty jq_require jq_numeric" value="1" id="QuoteQTYSuggested79518">                                <span class="input-group-addon">LGH</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79518]" type="text" value="" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79518">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79518]" type="text" value="0" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79518">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+											<tr class="part_quote">
+							<td align="center">3</td>
+							<td>ELBOW STEEL BUTT-WELDING SGP, 90DEG SHORT RADIUS 100A</td>
+                            
+                                                        <td>731148</td>
+                                                        
+                            
+                            
+                            <td align="center">4 PCS</td>
+                            <td></td>
+                            
+                            
+                            <td><textarea name="data[Quote][Remark][79519]" class="form-control" id="QuoteRemark79519" value="WELDING ELBOW DIN 90 GR. SR-4" 
+ UOM :PCE"></textarea>                            </td>
+                            
+                            <td>
+							 	<div class="input-group">
+                                
+                                <input name="data[Quote][QTY_Suggested][79519]" type="text" class="form-control jq_qty jq_require jq_numeric" value="4" id="QuoteQTYSuggested79519">                                <span class="input-group-addon">PCS</span>
+                                </div>
+                                
+                            </td>							
+                            <td>
+							<input name="data[Quote][UnitPrice][79519]" type="text" value="" class="form-control jq_unit_price jq_require jq_numeric" id="QuoteUnitPrice79519">                            </td>
+                            
+                            <td>
+                            <div class="input-group">
+								<input name="data[Quote][Discount][79519]" type="text" value="0" class="form-control jq_numeric jq_local_discount" id="QuoteDiscount79519">                            	<span class="input-group-addon">%</span>
+                            </div>
+                            </td>
+                            
+                            
+						</tr>
+					                    
+                    <tr><td colspan="8" align="right"><strong>Total Amount</strong></td>
+                    	<td class="total_amount" align="right" style="font-weight:bold;"></td>
+                   	</tr>
+					
+				</tbody>
+                
+                </table>
+                <br>
+				<div class="form-group text-left">
+				<span class="btn btn-primary jq_save">Save Quote</span>&nbsp;<input class="btn btn-primary jq_submit" type="submit" value="Submit Quote"><a href="https://supplynet.intuitships-umms.com/javascript:void(0)" class="btn btn-primary jq_wait" style="display:none;"><i class="fa fa-spinner fa-spin"></i> Submitting...</a>				</div>
+                </form>
+                <b>NOTE : </b><br>
+                PN* : Part Number<br>
+                DN* : Drawing Number<br>
+                IN* : Item Number
+	</div>
+</div>
+
+<script language="javascript" type="text/javascript">
+
+
+
+bindFileUpload( 'File' , 'ErrorFile', 'FileHidden', 'FileFile' , 'Evidence' );
+
+function calculate_total(){
+	/*
+	total_amount
+
+	jq_global_discount
+	jq_delivery_charge
+	
+	part_quote.
+		jq_qty
+		jq_unit_price
+		jq_local_discount
+		*/
+	var total_amount 	= 0.00;
+	var global_discount = '';
+	var delivery_charge = 0;
+	
+	if( $(".jq_global_discount").val() != '' ){
+		global_discount = parseFloat($(".jq_global_discount").val());
+	}
+	if( $(".jq_delivery_charge").length == 1 && $(".jq_delivery_charge").val() != '' ){
+		total_amount = delivery_charge = parseFloat($(".jq_delivery_charge").val());
+	}
+	$(".part_quote").each(function(){
+		var q = $(this).find('.jq_qty').val();
+		var d = $(this).find('.jq_local_discount').val();
+		var p = $(this).find('.jq_unit_price').val();
+		
+		if( global_discount != '' ){
+			d = global_discount;
+		}else if( d != '' && !isNaN(d) ){
+			d = parseFloat(d);
+			d = d.toFixed(2);
+		}
+		n = q * p;
+		n = n*(1 - d/100);
+		
+		total_amount += n;
+	});
+	
+	total_amount = parseFloat(total_amount);
+	$(".total_amount").html( total_amount.toFixed(2) );
+	
+}
+
+$(document).ready(function(){
+	$('.datetimepicker').datetimepicker({
+		weekStart: 1,
+		todayBtn:  0,
+		autoclose: 1,
+		todayHighlight: 0,
+		startView: 2,
+		minView: 2,
+		forceParse: 0,
+		startDate: '2019-03-26',
+	});
+});
+
+calculate_total();
+$(".jq_save").click(function(){
+	$("#Action").val('save');
+	$(".jq_submit").trigger('click');
+});
+
+
+if( $(".jq_global_discount").val() != ''  ){
+	$(".jq_local_discount").attr('readonly',true);
+}
+
+
+$(".jq_global_discount").blur(function(){
+	if( $(this).val() != '' && !isNaN( $(this).val() ) ){
+		$(".jq_local_discount").attr('readonly',true);
+	}else{
+		$(".jq_local_discount").attr('readonly',false);
+	}
+});
+
+$(".jq_numeric").blur(function(){
+	if( $(this).val() != '' && isNaN( $(this).val() ) ){
+		$(this).val('');
+	}else{
+		calculate_total();
+	}
+});
+
+
+
+$(".jq_submit").click(function(){
+	$(".jq_require").removeClass('require');
+	var error = 0;
+	$(".jq_require").each(function(){
+		if( $(this).val() == '' ){
+			$(this).addClass('require');
+			$(this).attr('placeholder','Required');
+			error = 1;
+		}else if( $(this).hasClass('jq_numeric') && isNaN( $(this).val() ) ){
+			$(this).addClass('require');
+			$(this).attr('placeholder','Number only');
+			$(this).val('');
+			error = 1;
+		}		
+	});
+	if( error == 1 ){
+		swal( 'Please check require fields' , "", "error",{
+			buttons: false,
+			timer: 4000,
+		});
+		
+		return false;
+	}else{
+		var URL = websiteUrl + 'requisition_quote/submit/9219';
+		$.ajax({
+			url 		: URL,
+			type 		: 'post',
+			'dataType' 	: 'json',
+			'data' 		: $("#SubmitQuote").serialize(),
+			'success'	: function( json_data ){
+				swal( json_data.message , "", "success",{
+					buttons: false,
+					timer: 3000,
+				});
+				
+				window.location = websiteUrl;
+				
+			},
+			
+			'beforeSend': function(){
+				$(".jq_submit").hide();
+				if( $("#Action").val() == 'save' ){
+					$(".jq_save").hide();
+				}
+				
+				$(".jq_wait").show();
+			},
+			'error': function(){
+				$(".jq_submit").show();
+				$(".jq_wait").hide();
+				
+				if( $("#Action").val() == 'save' ){
+					$(".jq_save").show();
+				}
+			},
+			
+		});
+	}
+	return false;
+});
+
+
+
+
+</script>        
+		</div>
+	</div>
+
+	<div id="footer">
+			<div class="copyright">2019 <i class="fa fa-copyright"></i>  All Rights Reserved.</div>
+		</div>
+	</div>
+
+
+
+<script language="javascript" type="text/javascript">
+$(".um_amount").css({'text-align':'right'});
+$('input.um_amount').blur(function(){
+	if( !isNaN ( $(this).val() ) ){
+		var number_value =  $(this).val();
+		var r = number_value.split('.');
+		if (typeof r[1] === "undefined") {
+			$(this).val( number_value +'.00');
+		}else if( r[1].length == 1 ){
+			$(this).val( number_value +'0');
+		}
+	}
+});
+
+</script>
+
+
+</body>
+</html>

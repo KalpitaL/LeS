@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8737972-1" Identifier="UNOC" Recipient="SM0215_NEKOPDF" Sender="V10107" PreparationDate="2019-Mar-19" PreparationTime="00:26" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3614" LesRecordID="11529562" LesLinkID="104385" ParentRecordID="11528669" MTML_DOCID="A0114A25-E0B1-498A-9852-784475E95B3F">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-RKE-039-S" MessageNumber="V-19-RKE-039-S" LineItemCount="19" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" DepartmentCode="SAFETY" LeadTimeDays="0" OriginalFile="20190318171318-QUO-V-19-RKE-039-S-1.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201903181826" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201905180026" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>STORE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-RKE-039-S" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8737972-1" />
+      <Party Qualifier="UD" Identification="9784362" Name="RIKKE">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="SIGN WHITE VINYL NO SMOKING IN, BED 75X200MM " MeasureUnitQualifier="PCE" Quantity="20" TypeCode="BP" OriginatingSystemRef="20119025" SystemItemNo="1" MonetaryAmount="23.60" Identification="338520" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.18" />
+        <Comments Qualifier="LIN">
+          <value>SIGN WHITE VINYL NO SMOKING IN, BED 75X200MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="FIRE CONTROL SIGN PORTABLE, FOAM APPLICATOR 150X150MM " MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="20119026" SystemItemNo="2" MonetaryAmount="10.20" Identification="336036" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.02" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.02" />
+        <Comments Qualifier="LIN">
+          <value>FIRE CONTROL SIGN PORTABLE, FOAM APPLICATOR 150X150MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="LOCKER WITH ADDITIONAL PROTECTIVE CLOTHING, 150*150 " MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="20119027" SystemItemNo="3" MonetaryAmount="8.40" Identification="336069" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.84" />
+        <Comments Qualifier="LIN">
+          <value>LOCKER WITH ADDITIONAL PROTECTIVE CLOTHING, 150*150 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="LOCKER WITH ADDITIONAL BREATHING APPARATUS, 150*150 " MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="20119028" SystemItemNo="4" MonetaryAmount="8.40" Identification="336068" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.84" />
+        <Comments Qualifier="LIN">
+          <value>LOCKER WITH ADDITIONAL BREATHING APPARATUS, 150*150 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="WHEELED CO2 FIRE EXTINGUISHER (30), 150*150 " MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="20119029" SystemItemNo="5" MonetaryAmount="8.40" Identification="336086" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.84" />
+        <Comments Qualifier="LIN">
+          <value>WHEELED CO2 FIRE EXTINGUISHER (30), 150*150 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="WHEELED POWDER FIRE EXTINGUISHER (P 50), 150*150 " MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="20119030" SystemItemNo="6" MonetaryAmount="8.40" Identification="336085" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.84" />
+        <Comments Qualifier="LIN">
+          <value>WHEELED POWDER FIRE EXTINGUISHER (P 50), 150*150 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="FIRE CONTROL SYMBOL ISO 17631, CO2 WHEELED FIRE EXINGUISHER 150X150MM " MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="20119031" SystemItemNo="7" MonetaryAmount="10.20" Identification="336852" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.02" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.02" />
+        <Comments Qualifier="LIN">
+          <value>FIRE CONTROL SYMBOL ISO 17631, CO2 WHEELED FIRE EXINGUISHER 150X150MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="FIRE CONTROL SYMBOL ISO 17631, FOAM WHEELED FIRE EXINGHUISER 150X150MM " MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="20119032" SystemItemNo="8" MonetaryAmount="10.20" Identification="336854" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.02" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.02" />
+        <Comments Qualifier="LIN">
+          <value>FIRE CONTROL SYMBOL ISO 17631, FOAM WHEELED FIRE EXINGHUISER 150X150MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="LIFERAFT LAUNCHING, 470*330 " MeasureUnitQualifier="PCE" Quantity="5" TypeCode="BP" OriginatingSystemRef="20119033" SystemItemNo="9" MonetaryAmount="22.90" Identification="331502" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.58" />
+        <Comments Qualifier="LIN">
+          <value>LIFERAFT LAUNCHING, 470*330 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="INFLATABLE LIFERAFTS, 470*330 " MeasureUnitQualifier="PCE" Quantity="5" TypeCode="BP" OriginatingSystemRef="20119034" SystemItemNo="10" MonetaryAmount="22.90" Identification="331503" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.58" />
+        <Comments Qualifier="LIN">
+          <value>INFLATABLE LIFERAFTS, 470*330 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="POSTER PREVENTING OIL SPILLS, #1008W 480X330MM " MeasureUnitQualifier="PCE" Quantity="5" TypeCode="BP" OriginatingSystemRef="20119035" SystemItemNo="11" MonetaryAmount="19.40" Identification="331508" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.88" />
+        <Comments Qualifier="LIN">
+          <value>POSTER PREVENTING OIL SPILLS, #1008W 480X330MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="POSTER FREE FALL LIFEBOAT, LAUNCHING #1020W 480X330MM " MeasureUnitQualifier="PCE" Quantity="3" TypeCode="BP" OriginatingSystemRef="20119036" SystemItemNo="12" MonetaryAmount="11.64" Identification="331520" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.88" />
+        <Comments Qualifier="LIN">
+          <value>POSTER FREE FALL LIFEBOAT, LAUNCHING #1020W 480X330MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="FLAG HOOK UPPER&amp;LOWER COMPLETE " MeasureUnitQualifier="SET" Quantity="12" TypeCode="BP" OriginatingSystemRef="20119037" SystemItemNo="13" MonetaryAmount="24.24" Identification="371582" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.02" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.02" />
+        <Comments Qualifier="LIN">
+          <value>FLAG HOOK UPPER&amp;LOWER COMPLETE </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="SCREW PIN D-SHACKLE 12X12X24MM  STAINLESS STEEL" MeasureUnitQualifier="PCE" Quantity="12" TypeCode="BP" OriginatingSystemRef="20119038" SystemItemNo="14" MonetaryAmount="56.28" Identification="233504" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.69" />
+        <Comments Qualifier="LIN">
+          <value>SCREW PIN D-SHACKLE 12X12X24MM  STAINLESS STEEL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="SCREW PIN D-SHACKLE 16X16X32MM  STAINLESS STEEL" MeasureUnitQualifier="PCE" Quantity="12" TypeCode="BP" OriginatingSystemRef="20119039" SystemItemNo="15" MonetaryAmount="140.64" Identification="233506" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.72" />
+        <Comments Qualifier="LIN">
+          <value>SCREW PIN D-SHACKLE 16X16X32MM  STAINLESS STEEL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="TAPE REFLECTIVE SOLAS GRADE, SILVER W:50MMX50YARDS " MeasureUnitQualifier="PCE" Quantity="3" TypeCode="BP" OriginatingSystemRef="20119040" SystemItemNo="16" MonetaryAmount="178.89" Identification="330188" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="59.63" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="59.63" />
+        <Comments Qualifier="LIN">
+          <value>TAPE REFLECTIVE SOLAS GRADE, SILVER W:50MMX50YARDS </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="LIFEBUOY LIGHT MOB + HOUDER &amp; BATTERIES " MeasureUnitQualifier="SET" Quantity="5" TypeCode="BP" OriginatingSystemRef="20119041" SystemItemNo="17" MonetaryAmount="85.45" Identification="331379" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="17.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="17.09" />
+        <Comments Qualifier="LIN">
+          <value>LIFEBUOY LIGHT MOB + HOUDER &amp; BATTERIES </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="BATTERY R 20 BW ZINC-CHLORIDE " MeasureUnitQualifier="PCE" Quantity="24" TypeCode="BP" OriginatingSystemRef="20119042" SystemItemNo="18" MonetaryAmount="7.20" Identification="792401" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.3" />
+        <Comments Qualifier="LIN">
+          <value>BATTERY R 20 BW ZINC-CHLORIDE </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="BATTERY ALKALINE LR20(AM-1), 1.5V 85061011 " MeasureUnitQualifier="PCE" Quantity="24" TypeCode="BP" OriginatingSystemRef="20119043" SystemItemNo="19" MonetaryAmount="16.08" Identification="792421" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.67" />
+        <Comments Qualifier="LIN">
+          <value>BATTERY ALKALINE LR20(AM-1), 1.5V 85061011 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="673.420" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="673.420" />
+    </Quote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0BFAF063-89F7-4372-B624-EEB18041F994}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>eSupplierDebugger</RootNamespace>
+    <AssemblyName>eSupplierDebugger</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.DSOFile, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="MARLOW_SHIP_EXCEL_RFQ_QUOTE_Routine, Version=16.12.13.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Packages\MARLOW.SHIP.EXCEL.RFQ_QUOTE.Routine\bin\Debug\MARLOW_SHIP_EXCEL_RFQ_QUOTE_Routine.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Packages\AMOS2_MTML_Routine\Amos2MTMLRoutine.csproj">
+      <Project>{9822BD3E-7CBB-4B11-AAE5-9EB7C4E4424A}</Project>
+      <Name>Amos2MTMLRoutine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\EDI.MTML.Routine\EDI_MTML_Routine.csproj">
+      <Project>{9A93E030-B763-48CC-A72D-53C5B63CE9AD}</Project>
+      <Name>EDI_MTML_Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\EMS.MTML.Routine\EMS_MTML_Routine.csproj">
+      <Project>{2B211C65-1AEB-44DA-AE11-F9E764CB3A9C}</Project>
+      <Name>EMS_MTML_Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\eSupplierDataMain\eSupplierDataMain.csproj">
+      <Project>{11A7BD2C-7599-46E9-A26F-B9095ED4B780}</Project>
+      <Name>eSupplierDataMain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\Euronav.Excel.Routine\Euronav.Excel.Routine\Euronav.Excel.Routine.csproj">
+      <Project>{3c8740ad-a3b3-460c-9530-04d8a3f1e1bc}</Project>
+      <Name>Euronav.Excel.Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\EXCEL.RFQ_QUOTE.Routine\EXCEL.RFQ_QUOTE.Routine.csproj">
+      <Project>{c186b229-69b1-4c78-92ed-aab86b13c01d}</Project>
+      <Name>EXCEL.RFQ_QUOTE.Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\LES-EPB.PushData.Routine\LeSEPB.PushData.Routine.csproj">
+      <Project>{0A4133ED-D3FC-4683-8151-CB1A08FB8CFF}</Project>
+      <Name>LeSEPB.PushData.Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\LES.MTML.Routine\LES_MTML_Routine.csproj">
+      <Project>{2861FF2C-5BF4-4734-8A08-C351070E8FA1}</Project>
+      <Name>LES_MTML_Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\MarineLink_Routine\MarineLinkRoutine.csproj">
+      <Project>{A3162F67-FE79-4219-9D0C-2ECD5A9CE4AC}</Project>
+      <Name>MarineLinkRoutine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\MTML.EXPORT\MTML.EXPORT\MTML.EXPORT.csproj">
+      <Project>{E9CACA97-35D4-4247-9667-BA1D5948F01D}</Project>
+      <Name>MTML.EXPORT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\MTML.GENERATOR\MTML_GENERATOR\MTML_GENERATOR.csproj">
+      <Project>{2AA48E71-51DC-4CFB-9F7D-3CD62ECEA9B1}</Project>
+      <Name>MTML_GENERATOR</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\MTML.Import\MTML.Import\MTML.IMPORT.csproj">
+      <Project>{04D390C3-D437-4A46-9949-C735562A2EE5}</Project>
+      <Name>MTML.IMPORT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\MTML.V2.Routine\MTML.V2.Routine.csproj">
+      <Project>{07e6efc0-ba2b-484b-9dc6-4d3fab07cf41}</Project>
+      <Name>MTML.V2.Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\PDF.Routine\PDF.Routine.csproj">
+      <Project>{96D68204-9A55-496E-AFA4-5BC95AEAE559}</Project>
+      <Name>PDF.Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\PQC_Read_XML_Routine\ReadXMLRoutine.csproj">
+      <Project>{D72930FF-31D7-4A85-8764-44C0074C441A}</Project>
+      <Name>ReadXMLRoutine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\REAL_MARINE_Routine\RealMarineRoutine.csproj">
+      <Project>{14CC0194-C23F-4F6E-867A-5E3B91626C9D}</Project>
+      <Name>RealMarineRoutine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\RMS.EXCEL.RFQ_QUOTE.Routine\RMS.EXCEL.RFQ_QUOTE.Routine.csproj">
+      <Project>{5ec443fe-10cc-45d3-976e-1e386bd20306}</Project>
+      <Name>RMS.EXCEL.RFQ_QUOTE.Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\SEA_PROC.MTML.Routine\SEAPROC_MTML_Routine.csproj">
+      <Project>{f0cf2694-8fcc-4988-a81a-342d86d464ed}</Project>
+      <Name>SEAPROC_MTML_Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\SHIP_SERV.MTML.Routine\ShipServ_MTML_Routine.csproj">
+      <Project>{e6f681e9-8019-48d5-a065-6c41e2c3bad9}</Project>
+      <Name>ShipServ_MTML_Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\SINWA.RFQ_QUOTE.Routine\SINWA.RFQ_QUOTE.Routine.csproj">
+      <Project>{828302D5-7010-4984-80F7-842CC39BB386}</Project>
+      <Name>SINWA.RFQ_QUOTE.Routine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Packages\VSHIPS_Routine\VSHIPS_MTML_Routine.csproj">
+      <Project>{BF367AFC-537D-46FB-8B41-9EE62FA8C8AD}</Project>
+      <Name>VSHIPS_MTML_Routine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

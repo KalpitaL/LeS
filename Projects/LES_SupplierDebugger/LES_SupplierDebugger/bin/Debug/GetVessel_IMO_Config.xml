@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="Site_Url" value="http://www.shipnumber.com/"/>
+    <!--<add key="Vessel_Name" value="APOLLON"/>-->
+    <add key="Server" value=""/>
+    <add key="Process_Name" value=""/>
+    <add key="Buyer" value=""/>
+    <add key="Supplier" value=""/>
+    <add key="Show_Form" value="false"/>
+    <add key="WaitPeriod" value="7000"/>
+    <add key="AuditPath" value=""/>
+    <add key="LOGPATH" value="D:\Working\Utilities\Win_FetchImoNumber_Application\Win_FetchImoNumber_Application\bin\Debug\Log"/>
+    <add key ="Ignore_Words" value="M. T.|M. V.|MV"/>
+  </appSettings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5"/>
+    </startup>
+</configuration>

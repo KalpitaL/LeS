@@ -1,0 +1,504 @@
+4/2/2019 8:03:29 PM ================4/2/2019 8:03:29 PM================
+4/2/2019 8:03:29 PM Union Marine HTTP processor started
+4/2/2019 8:03:33 PM Union Marine login process started for User 1220130196
+4/2/2019 8:03:35 PM Union Marine has login Successfully.
+4/2/2019 8:03:35 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-022-EL_SM0215_V10107_02041918424957.xml started.
+4/2/2019 8:03:35 PM Search records from the List
+4/2/2019 8:03:37 PM Filter the List
+4/2/2019 8:03:37 PM Download RFQ files for VRNO V-19-HGS-022-EL.
+4/2/2019 8:03:38 PM RFQ '20190402122455-QUO-V-19-HGS-022-EL-1.xml' for VRNO 'V-19-HGS-022-EL' downloaded successfully.
+4/2/2019 8:03:38 PM Processing Quote file for VRNO V-19-HGS-022-EL.
+4/2/2019 8:03:39 PM Processing Quote Header and Items  for VRNO V-19-HGS-022-EL.
+4/2/2019 8:03:39 PM Quotation for VRNO V-19-HGS-022-EL updated successfully.
+4/2/2019 8:03:40 PM ------------------------------------------------------------
+4/2/2019 8:03:40 PM Union Marine HTTP processor stopped
+4/2/2019 8:03:40 PM ====================================================
+4/2/2019 8:04:54 PM ================4/2/2019 8:04:54 PM================
+4/2/2019 8:04:54 PM Union Marine HTTP processor started
+4/2/2019 8:04:58 PM Union Marine login process started for User 1220130196
+4/2/2019 8:05:00 PM Union Marine has login Successfully.
+4/2/2019 8:05:00 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-022-O_SM0215_V10107_02041918425030.xml started.
+4/2/2019 8:05:00 PM Search records from the List
+4/2/2019 8:05:01 PM Filter the List
+4/2/2019 8:05:01 PM Download RFQ files for VRNO V-19-HGS-022-O.
+4/2/2019 8:05:04 PM RFQ '20190402122455-QUO-V-19-HGS-022-O-1.xml' for VRNO 'V-19-HGS-022-O' downloaded successfully.
+4/2/2019 8:05:04 PM Processing Quote file for VRNO V-19-HGS-022-O.
+4/2/2019 8:05:04 PM Processing Quote Header and Items  for VRNO V-19-HGS-022-O.
+4/2/2019 8:05:06 PM Quotation for VRNO V-19-HGS-022-O updated successfully.
+4/2/2019 8:05:07 PM Download RFQ files for VRNO V-19-HGS-022-O.
+4/2/2019 8:05:09 PM RFQ '20190402122455-QUO-V-19-HGS-022-O-1.xml' for VRNO 'V-19-HGS-022-O' downloaded successfully.
+4/2/2019 8:05:09 PM Processing Quote file for VRNO V-19-HGS-022-O.
+4/2/2019 8:05:10 PM Processing Quote Header and Items  for VRNO V-19-HGS-022-O.
+4/2/2019 8:05:10 PM Total amount mismatch for file -MTML_QUOTE_V-19-HGS-022-O_SM0215_V10107_02041918425030.xml
+4/2/2019 8:05:10 PM Error while Processing file : System.ArgumentOutOfRangeException: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at HtmlAgilityPack.HtmlNode.WriteTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.WriteContentTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.get_InnerHtml()
+   at UnionMarine_Http_Routine.Routines.GetFilterRecords(HtmlDocument _htmlDoc, MTMLInterchange _interchange, String cXML_FileName, String cSuppCode)
+4/2/2019 8:05:10 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-022-O_SM0215_V10107_02041918425030.xml'.
+4/2/2019 8:05:10 PM ------------------------------------------------------------
+4/2/2019 8:05:10 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-022-S_SM0215_V10107_02041918425020.xml started.
+4/2/2019 8:05:10 PM Search records from the List
+4/2/2019 8:05:10 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:10 PM Filter the List
+4/2/2019 8:05:10 PM ------------------------------------------------------------
+4/2/2019 8:05:10 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-033-E_SM0215_V10107_02041918345034.xml started.
+4/2/2019 8:05:10 PM Search records from the List
+4/2/2019 8:05:10 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:10 PM Filter the List
+4/2/2019 8:05:10 PM ------------------------------------------------------------
+4/2/2019 8:05:10 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-038-EL_SM0215_V10107_02041918424971.xml started.
+4/2/2019 8:05:10 PM Search records from the List
+4/2/2019 8:05:10 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-047-D_SM0215_V10107_02041918424984.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-052-G_SM0215_V10107_02041918425005.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-LNB-020-G_SM0215_V10107_07031919544963.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-LNB-020-O_SM0215_V10107_12031917064952.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-001-E_SM0215_V10107_15031922265000.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-010-EL_SM0215_V10107_15031922265010.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-027-D_SM0215_V10107_19031900264982.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-032-E_SM0215_V10107_15031922265056.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-034-D_SM0215_V10107_25031922025005.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-034-EL_SM0215_V10107_15031922265031.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-034-G_SM0215_V10107_25031922185030.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-034-O_SM0215_V10107_25031922104965.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-035-E_SM0215_V10107_13031917305025.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-037-D_SM0215_V10107_19031900265009.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-038-D_SM0215_V10107_19031900264926.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM ----Processing Quote File MTML_QUOTE_V-19-RKE-039-S_SM0215_V10107_19031900265037.xml started.
+4/2/2019 8:05:11 PM Search records from the List
+4/2/2019 8:05:11 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:05:11 PM Filter the List
+4/2/2019 8:05:11 PM ------------------------------------------------------------
+4/2/2019 8:05:11 PM Union Marine HTTP processor stopped
+4/2/2019 8:05:11 PM ====================================================
+4/2/2019 8:22:14 PM ================4/2/2019 8:22:14 PM================
+4/2/2019 8:22:14 PM Union Marine HTTP processor started
+4/2/2019 8:22:18 PM Union Marine login process started for User 1220130196
+4/2/2019 8:22:20 PM Union Marine has login Successfully.
+4/2/2019 8:22:20 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-022-S_SM0215_V10107_02041918425020.xml started.
+4/2/2019 8:22:20 PM Search records from the List
+4/2/2019 8:22:21 PM Filter the List
+4/2/2019 8:22:21 PM Download RFQ files for VRNO V-19-HGS-022-S.
+4/2/2019 8:22:23 PM RFQ '20190402122856-QUO-V-19-HGS-022-S-1.xml' for VRNO 'V-19-HGS-022-S' downloaded successfully.
+4/2/2019 8:22:23 PM Processing Quote file for VRNO V-19-HGS-022-S.
+4/2/2019 8:22:24 PM Processing Quote Header and Items  for VRNO V-19-HGS-022-S.
+4/2/2019 8:22:24 PM Quotation for VRNO V-19-HGS-022-S updated successfully.
+4/2/2019 8:22:25 PM ------------------------------------------------------------
+4/2/2019 8:22:25 PM Union Marine HTTP processor stopped
+4/2/2019 8:22:25 PM ====================================================
+4/2/2019 8:24:15 PM ================4/2/2019 8:24:15 PM================
+4/2/2019 8:24:15 PM Union Marine HTTP processor started
+4/2/2019 8:24:19 PM Union Marine login process started for User 1220130196
+4/2/2019 8:24:21 PM Union Marine has login Successfully.
+4/2/2019 8:24:21 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-033-E_SM0215_V10107_02041918345034.xml started.
+4/2/2019 8:24:21 PM Search records from the List
+4/2/2019 8:24:22 PM Filter the List
+4/2/2019 8:24:22 PM Download RFQ files for VRNO V-19-HGS-033-E.
+4/2/2019 8:24:25 PM RFQ '20190402121849-QUO-V-19-HGS-033-E-1.xml' for VRNO 'V-19-HGS-033-E' downloaded successfully.
+4/2/2019 8:24:25 PM Processing Quote file for VRNO V-19-HGS-033-E.
+4/2/2019 8:24:26 PM Processing Quote Header and Items  for VRNO V-19-HGS-033-E.
+4/2/2019 8:24:39 PM Quotation for VRNO V-19-HGS-033-E updated successfully.
+4/2/2019 8:24:40 PM Download RFQ files for VRNO V-19-HGS-033-E.
+4/2/2019 8:24:42 PM RFQ '20190402121849-QUO-V-19-HGS-033-E-1.xml' for VRNO 'V-19-HGS-033-E' downloaded successfully.
+4/2/2019 8:24:42 PM Processing Quote file for VRNO V-19-HGS-033-E.
+4/2/2019 8:24:42 PM Processing Quote Header and Items  for VRNO V-19-HGS-033-E.
+4/2/2019 8:24:43 PM Total amount mismatch for file -MTML_QUOTE_V-19-HGS-033-E_SM0215_V10107_02041918345034.xml
+4/2/2019 8:24:43 PM Error while Processing file : System.ArgumentOutOfRangeException: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at HtmlAgilityPack.HtmlNode.WriteTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.WriteContentTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.get_InnerHtml()
+   at UnionMarine_Http_Routine.Routines.GetFilterRecords(HtmlDocument _htmlDoc, MTMLInterchange _interchange, String cXML_FileName, String cSuppCode)
+4/2/2019 8:24:43 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-033-E_SM0215_V10107_02041918345034.xml'.
+4/2/2019 8:24:43 PM ------------------------------------------------------------
+4/2/2019 8:24:43 PM Union Marine HTTP processor stopped
+4/2/2019 8:24:43 PM ====================================================
+4/2/2019 8:25:19 PM ================4/2/2019 8:25:19 PM================
+4/2/2019 8:25:19 PM Union Marine HTTP processor started
+4/2/2019 8:25:23 PM Union Marine login process started for User 1220130196
+4/2/2019 8:25:25 PM Union Marine has login Successfully.
+4/2/2019 8:25:25 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-038-EL_SM0215_V10107_02041918424971.xml started.
+4/2/2019 8:25:25 PM Search records from the List
+4/2/2019 8:25:27 PM Filter the List
+4/2/2019 8:25:27 PM Download RFQ files for VRNO V-19-HGS-038-EL.
+4/2/2019 8:25:29 PM RFQ '20190402122255-QUO-V-19-HGS-038-EL-1.xml' for VRNO 'V-19-HGS-038-EL' downloaded successfully.
+4/2/2019 8:25:29 PM Processing Quote file for VRNO V-19-HGS-038-EL.
+4/2/2019 8:25:29 PM Processing Quote Header and Items  for VRNO V-19-HGS-038-EL.
+4/2/2019 8:25:30 PM Quotation for VRNO V-19-HGS-038-EL updated successfully.
+4/2/2019 8:25:32 PM Download RFQ files for VRNO V-19-HGS-038-EL.
+4/2/2019 8:25:34 PM RFQ '20190402122255-QUO-V-19-HGS-038-EL-1.xml' for VRNO 'V-19-HGS-038-EL' downloaded successfully.
+4/2/2019 8:25:34 PM Processing Quote file for VRNO V-19-HGS-038-EL.
+4/2/2019 8:25:34 PM Processing Quote Header and Items  for VRNO V-19-HGS-038-EL.
+4/2/2019 8:25:36 PM Quotation for VRNO V-19-HGS-038-EL updated successfully.
+4/2/2019 8:25:37 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-038-EL_SM0215_V10107_02041918424971.xml'.
+4/2/2019 8:25:37 PM Download RFQ files for VRNO V-19-HGS-038-EL.
+4/2/2019 8:25:39 PM RFQ '20190402122255-QUO-V-19-HGS-038-EL-1.xml' for VRNO 'V-19-HGS-038-EL' downloaded successfully.
+4/2/2019 8:25:39 PM Processing Quote file for VRNO V-19-HGS-038-EL.
+4/2/2019 8:25:39 PM Processing Quote Header and Items  for VRNO V-19-HGS-038-EL.
+4/2/2019 8:25:40 PM Total amount mismatch for file -MTML_QUOTE_V-19-HGS-038-EL_SM0215_V10107_02041918424971.xml
+4/2/2019 8:25:40 PM Error while Processing file : System.ArgumentOutOfRangeException: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at HtmlAgilityPack.HtmlNode.WriteTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.WriteContentTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.get_InnerHtml()
+   at UnionMarine_Http_Routine.Routines.GetFilterRecords(HtmlDocument _htmlDoc, MTMLInterchange _interchange, String cXML_FileName, String cSuppCode)
+4/2/2019 8:25:40 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-038-EL_SM0215_V10107_02041918424971.xml'.
+4/2/2019 8:25:40 PM ------------------------------------------------------------
+4/2/2019 8:25:40 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-047-D_SM0215_V10107_02041918424984.xml started.
+4/2/2019 8:25:40 PM Search records from the List
+4/2/2019 8:25:40 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 8:25:40 PM Filter the List
+4/2/2019 8:25:40 PM ------------------------------------------------------------
+4/2/2019 8:25:40 PM Union Marine HTTP processor stopped
+4/2/2019 8:25:40 PM ====================================================
+4/2/2019 8:33:28 PM ================4/2/2019 8:33:28 PM================
+4/2/2019 8:33:28 PM Union Marine HTTP processor started
+4/2/2019 8:33:33 PM Union Marine login process started for User 1220130196
+4/2/2019 8:33:35 PM Union Marine has login Successfully.
+4/2/2019 8:33:35 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-047-D_SM0215_V10107_02041918424984.xml started.
+4/2/2019 8:33:35 PM Search records from the List
+4/2/2019 8:33:36 PM Filter the List
+4/2/2019 8:33:36 PM Download RFQ files for VRNO V-19-HGS-047-D.
+4/2/2019 8:33:38 PM RFQ '20190402122255-QUO-V-19-HGS-047-D-1.xml' for VRNO 'V-19-HGS-047-D' downloaded successfully.
+4/2/2019 8:33:38 PM Processing Quote file for VRNO V-19-HGS-047-D.
+4/2/2019 8:33:38 PM Processing Quote Header and Items  for VRNO V-19-HGS-047-D.
+4/2/2019 8:33:39 PM Quotation for VRNO V-19-HGS-047-D updated successfully.
+4/2/2019 8:33:40 PM ------------------------------------------------------------
+4/2/2019 8:33:40 PM Union Marine HTTP processor stopped
+4/2/2019 8:33:40 PM ====================================================
+4/2/2019 8:34:41 PM ================4/2/2019 8:34:41 PM================
+4/2/2019 8:34:41 PM Union Marine HTTP processor started
+4/2/2019 8:34:45 PM Union Marine login process started for User 1220130196
+4/2/2019 8:34:47 PM Union Marine has login Successfully.
+4/2/2019 8:34:47 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-052-G_SM0215_V10107_02041918425005.xml started.
+4/2/2019 8:34:47 PM Search records from the List
+4/2/2019 8:34:49 PM Filter the List
+4/2/2019 8:34:49 PM Download RFQ files for VRNO V-19-HGS-052-G.
+4/2/2019 8:34:51 PM RFQ '20190402122856-QUO-V-19-HGS-052-G-1.xml' for VRNO 'V-19-HGS-052-G' downloaded successfully.
+4/2/2019 8:34:51 PM Processing Quote file for VRNO V-19-HGS-052-G.
+4/2/2019 8:34:51 PM Processing Quote Header and Items  for VRNO V-19-HGS-052-G.
+4/2/2019 8:34:53 PM Quotation for VRNO V-19-HGS-052-G updated successfully.
+4/2/2019 8:34:54 PM Download RFQ files for VRNO V-19-HGS-052-G.
+4/2/2019 8:34:56 PM RFQ '20190402122856-QUO-V-19-HGS-052-G-1.xml' for VRNO 'V-19-HGS-052-G' downloaded successfully.
+4/2/2019 8:34:56 PM Processing Quote file for VRNO V-19-HGS-052-G.
+4/2/2019 8:34:56 PM Processing Quote Header and Items  for VRNO V-19-HGS-052-G.
+4/2/2019 8:34:57 PM Total amount mismatch for file -MTML_QUOTE_V-19-HGS-052-G_SM0215_V10107_02041918425005.xml
+4/2/2019 8:34:57 PM Error while Processing file : System.ArgumentOutOfRangeException: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at HtmlAgilityPack.HtmlNode.WriteTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.WriteContentTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.get_InnerHtml()
+   at UnionMarine_Http_Routine.Routines.GetFilterRecords(HtmlDocument _htmlDoc, MTMLInterchange _interchange, String cXML_FileName, String cSuppCode)
+4/2/2019 8:34:57 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-052-G_SM0215_V10107_02041918425005.xml'.
+4/2/2019 8:34:57 PM ------------------------------------------------------------
+4/2/2019 8:34:57 PM Union Marine HTTP processor stopped
+4/2/2019 8:34:57 PM ====================================================
+4/2/2019 8:46:32 PM ================4/2/2019 8:46:32 PM================
+4/2/2019 8:46:32 PM Union Marine HTTP processor started
+4/2/2019 8:46:36 PM Union Marine login process started for User 1220130196
+4/2/2019 8:46:37 PM Union Marine has login Successfully.
+4/2/2019 8:46:37 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-047-D_SM0215_V10107_02041918424984.xml started.
+4/2/2019 8:46:37 PM Search records from the List
+4/2/2019 8:46:39 PM Filter the List
+4/2/2019 8:46:39 PM Download RFQ files for VRNO V-19-HGS-047-D.
+4/2/2019 8:46:41 PM RFQ '20190402122255-QUO-V-19-HGS-047-D-1.xml' for VRNO 'V-19-HGS-047-D' downloaded successfully.
+4/2/2019 8:46:41 PM Processing Quote file for VRNO V-19-HGS-047-D.
+4/2/2019 8:46:41 PM Processing Quote Header and Items  for VRNO V-19-HGS-047-D.
+4/2/2019 8:46:42 PM Quotation for VRNO V-19-HGS-047-D updated successfully.
+4/2/2019 8:46:43 PM ------------------------------------------------------------
+4/2/2019 8:46:43 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-052-G_SM0215_V10107_02041918425005.xml started.
+4/2/2019 8:46:43 PM Search records from the List
+4/2/2019 8:46:44 PM Filter the List
+4/2/2019 8:46:44 PM Download RFQ files for VRNO V-19-HGS-052-G.
+4/2/2019 8:46:46 PM RFQ '20190402122856-QUO-V-19-HGS-052-G-1.xml' for VRNO 'V-19-HGS-052-G' downloaded successfully.
+4/2/2019 8:46:46 PM Processing Quote file for VRNO V-19-HGS-052-G.
+4/2/2019 8:46:47 PM Processing Quote Header and Items  for VRNO V-19-HGS-052-G.
+4/2/2019 8:46:49 PM Quotation for VRNO V-19-HGS-052-G updated successfully.
+4/2/2019 8:46:50 PM ------------------------------------------------------------
+4/2/2019 8:46:50 PM Union Marine HTTP processor stopped
+4/2/2019 8:46:50 PM ====================================================
+4/2/2019 8:49:02 PM ================4/2/2019 8:49:02 PM================
+4/2/2019 8:49:02 PM Union Marine HTTP processor started
+4/2/2019 8:49:06 PM Union Marine login process started for User 1220130196
+4/2/2019 8:49:08 PM Union Marine has login Successfully.
+4/2/2019 8:49:08 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-038-EL_SM0215_V10107_02041918424971.xml started.
+4/2/2019 8:49:08 PM Search records from the List
+4/2/2019 8:49:09 PM Filter the List
+4/2/2019 8:49:09 PM Download RFQ files for VRNO V-19-HGS-038-EL.
+4/2/2019 8:49:11 PM RFQ '20190402122255-QUO-V-19-HGS-038-EL-1.xml' for VRNO 'V-19-HGS-038-EL' downloaded successfully.
+4/2/2019 8:49:11 PM Processing Quote file for VRNO V-19-HGS-038-EL.
+4/2/2019 8:49:12 PM Processing Quote Header and Items  for VRNO V-19-HGS-038-EL.
+4/2/2019 8:49:13 PM Quotation for VRNO V-19-HGS-038-EL updated successfully.
+4/2/2019 8:49:14 PM ------------------------------------------------------------
+4/2/2019 8:49:14 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-047-D_SM0215_V10107_02041918424984.xml started.
+4/2/2019 8:49:14 PM Search records from the List
+4/2/2019 8:49:15 PM Filter the List
+4/2/2019 8:49:15 PM Download RFQ files for VRNO V-19-HGS-047-D.
+4/2/2019 8:49:17 PM RFQ '20190402122255-QUO-V-19-HGS-047-D-1.xml' for VRNO 'V-19-HGS-047-D' downloaded successfully.
+4/2/2019 8:49:17 PM Processing Quote file for VRNO V-19-HGS-047-D.
+4/2/2019 8:49:17 PM Processing Quote Header and Items  for VRNO V-19-HGS-047-D.
+4/2/2019 8:49:18 PM Quotation for VRNO V-19-HGS-047-D updated successfully.
+4/2/2019 8:49:19 PM ------------------------------------------------------------
+4/2/2019 8:49:19 PM Union Marine HTTP processor stopped
+4/2/2019 8:49:19 PM ====================================================
+4/2/2019 9:10:12 PM ================4/2/2019 9:10:12 PM================
+4/2/2019 9:10:12 PM Union Marine HTTP processor started
+4/2/2019 9:10:16 PM Union Marine login process started for User 1220130196
+4/2/2019 9:10:18 PM Union Marine has login Successfully.
+4/2/2019 9:10:18 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-045-DOC_SM0215_V10107_02041920024963.xml started.
+4/2/2019 9:10:18 PM Search records from the List
+4/2/2019 9:10:20 PM Filter the List
+4/2/2019 9:10:20 PM Download RFQ files for VRNO V-19-HGS-045-DOC.
+4/2/2019 9:10:22 PM RFQ '20190402134704-QUO-V-19-HGS-045-DOC-1.xml' for VRNO 'V-19-HGS-045-DOC' downloaded successfully.
+4/2/2019 9:10:22 PM Processing Quote file for VRNO V-19-HGS-045-DOC.
+4/2/2019 9:10:22 PM Processing Quote Header and Items  for VRNO V-19-HGS-045-DOC.
+4/2/2019 9:10:23 PM Quotation for VRNO V-19-HGS-045-DOC updated successfully.
+4/2/2019 9:10:24 PM Download RFQ files for VRNO V-19-HGS-045-DOC.
+4/2/2019 9:10:26 PM RFQ '20190402134704-QUO-V-19-HGS-045-DOC-1.xml' for VRNO 'V-19-HGS-045-DOC' downloaded successfully.
+4/2/2019 9:10:26 PM Processing Quote file for VRNO V-19-HGS-045-DOC.
+4/2/2019 9:10:26 PM Processing Quote Header and Items  for VRNO V-19-HGS-045-DOC.
+4/2/2019 9:10:27 PM Total amount mismatch for file -MTML_QUOTE_V-19-HGS-045-DOC_SM0215_V10107_02041920024963.xml
+4/2/2019 9:10:27 PM Error while Processing file : System.ArgumentOutOfRangeException: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
+   at HtmlAgilityPack.HtmlNode.WriteTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.WriteContentTo(TextWriter outText)
+   at HtmlAgilityPack.HtmlNode.get_InnerHtml()
+   at UnionMarine_Http_Routine.Routines.GetFilterRecords(HtmlDocument _htmlDoc, MTMLInterchange _interchange, String cXML_FileName, String cSuppCode)
+4/2/2019 9:10:27 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-045-DOC_SM0215_V10107_02041920024963.xml'.
+4/2/2019 9:10:27 PM ------------------------------------------------------------
+4/2/2019 9:10:27 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-050-S_SM0215_V10107_02041920024988.xml started.
+4/2/2019 9:10:27 PM Search records from the List
+4/2/2019 9:10:27 PM Error while Filtering : System.NullReferenceException: Object reference not set to an instance of an object.
+   at UnionMarine_Http_Routine.Routines.GetSearchFilterList(HtmlDocument _htmlInvDoc)
+4/2/2019 9:10:27 PM Filter the List
+4/2/2019 9:10:27 PM ------------------------------------------------------------
+4/2/2019 9:10:27 PM Union Marine HTTP processor stopped
+4/2/2019 9:10:27 PM ====================================================
+4/2/2019 9:14:11 PM ================4/2/2019 9:14:11 PM================
+4/2/2019 9:14:11 PM Union Marine HTTP processor started
+4/2/2019 9:14:15 PM Union Marine login process started for User 1220130196
+4/2/2019 9:14:17 PM Union Marine has login Successfully.
+4/2/2019 9:14:17 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-050-S_SM0215_V10107_02041920024988.xml started.
+4/2/2019 9:14:17 PM Search records from the List
+4/2/2019 9:14:19 PM Filter the List
+4/2/2019 9:14:19 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:21 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:21 PM Processing Quote file for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:21 PM Processing Quote Header and Items  for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:22 PM Quotation for VRNO V-19-HGS-050-S updated successfully.
+4/2/2019 9:14:23 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:25 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:25 PM Processing Quote file for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:26 PM Processing Quote Header and Items  for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:26 PM Quotation for VRNO V-19-HGS-050-S updated successfully.
+4/2/2019 9:14:27 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-050-S_SM0215_V10107_02041920024988.xml'.
+4/2/2019 9:14:27 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:29 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:29 PM Processing Quote file for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:29 PM Processing Quote Header and Items  for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:30 PM Quotation for VRNO V-19-HGS-050-S updated successfully.
+4/2/2019 9:14:31 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-050-S_SM0215_V10107_02041920024988.xml'.
+4/2/2019 9:14:31 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:33 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:33 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:35 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:35 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:36 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:36 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:38 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:38 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:40 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:40 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:42 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:42 PM Processing Quote file for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:42 PM Processing Quote Header and Items  for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:43 PM Quotation for VRNO V-19-HGS-050-S updated successfully.
+4/2/2019 9:14:44 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-050-S_SM0215_V10107_02041920024988.xml'.
+4/2/2019 9:14:44 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:46 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:46 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:47 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:47 PM Processing Quote file for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:48 PM Processing Quote Header and Items  for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:48 PM Quotation for VRNO V-19-HGS-050-S updated successfully.
+4/2/2019 9:14:50 PM Error on MoveFiles : Could not find file 'C:\LeS\LeS_Processors\Http_UnionMarine_Neko\Quote\MTML_QUOTE_V-19-HGS-050-S_SM0215_V10107_02041920024988.xml'.
+4/2/2019 9:14:50 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:51 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:51 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:53 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:53 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:55 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:55 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:57 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:57 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:14:58 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:14:58 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:15:00 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:15:00 PM Download RFQ files for VRNO V-19-HGS-050-S.
+4/2/2019 9:15:02 PM RFQ '20190402134704-QUO-V-19-HGS-050-S-1.xml' for VRNO 'V-19-HGS-050-S' downloaded successfully.
+4/2/2019 9:15:02 PM ------------------------------------------------------------
+4/2/2019 9:15:02 PM Union Marine HTTP processor stopped
+4/2/2019 9:15:02 PM ====================================================
+4/2/2019 9:16:38 PM ================4/2/2019 9:16:38 PM================
+4/2/2019 9:16:38 PM Union Marine HTTP processor started
+4/2/2019 9:16:43 PM Union Marine login process started for User 1220130196
+4/2/2019 9:16:45 PM Union Marine has login Successfully.
+4/2/2019 9:16:45 PM ----Processing Quote File MTML_QUOTE_V-19-HGS-035-EL_SM0215_V10107_02041920104923.xml started.
+4/2/2019 9:16:45 PM Search records from the List
+4/2/2019 9:16:46 PM Filter the List
+4/2/2019 9:16:46 PM Download RFQ files for VRNO V-19-HGS-035-EL.
+4/2/2019 9:16:48 PM RFQ '20190402135305-QUO-V-19-HGS-035-EL-1.xml' for VRNO 'V-19-HGS-035-EL' downloaded successfully.
+4/2/2019 9:16:48 PM Processing Quote file for VRNO V-19-HGS-035-EL.
+4/2/2019 9:16:49 PM Processing Quote Header and Items  for VRNO V-19-HGS-035-EL.
+4/2/2019 9:16:49 PM Quotation for VRNO V-19-HGS-035-EL updated successfully.
+4/2/2019 9:16:51 PM ------------------------------------------------------------
+4/2/2019 9:16:51 PM Union Marine HTTP processor stopped
+4/2/2019 9:16:51 PM ====================================================
+4/2/2019 9:34:04 PM Exception during initialise: System.UnauthorizedAccessException: Access to the path 'C:\Windows\system32\Error' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at UnionMarine_Http_Routine.Routines.GetAppConfigSettings()
+4/2/2019 9:34:04 PM ================4/2/2019 9:34:04 PM================
+4/2/2019 9:34:04 PM Union Marine HTTP processor started
+4/2/2019 9:34:25 PM Exception while login : System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 18.206.79.250:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+4/2/2019 9:34:25 PM Union Marine HTTP processor stopped
+4/2/2019 9:34:25 PM ====================================================
+4/2/2019 9:40:00 PM Exception during initialise: System.UnauthorizedAccessException: Access to the path 'C:\Windows\system32\Error' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at UnionMarine_Http_Routine.Routines.GetAppConfigSettings()
+4/2/2019 9:40:00 PM ================4/2/2019 9:40:00 PM================
+4/2/2019 9:40:00 PM Union Marine HTTP processor started
+4/2/2019 9:40:21 PM Exception while login : System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 18.206.79.250:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+4/2/2019 9:40:21 PM Union Marine HTTP processor stopped
+4/2/2019 9:40:21 PM ====================================================
+4/2/2019 9:40:56 PM ================4/2/2019 9:40:56 PM================
+4/2/2019 9:40:56 PM Union Marine HTTP processor started
+4/2/2019 9:41:20 PM Exception while login : System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 18.206.79.250:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+4/2/2019 9:41:20 PM Union Marine HTTP processor stopped
+4/2/2019 9:41:20 PM ====================================================
+4/2/2019 9:49:49 PM ================4/2/2019 9:49:49 PM================
+4/2/2019 9:49:49 PM Union Marine HTTP processor started
+4/2/2019 9:50:00 PM ================4/2/2019 9:50:00 PM================
+4/2/2019 9:50:00 PM Union Marine HTTP processor started
+4/2/2019 9:50:13 PM Exception while login : System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 18.206.79.250:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+4/2/2019 9:50:13 PM Union Marine HTTP processor stopped
+4/2/2019 9:50:13 PM ====================================================
+4/2/2019 9:50:26 PM Exception while login : System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 18.206.79.250:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+4/2/2019 9:50:26 PM Union Marine HTTP processor stopped
+4/2/2019 9:50:26 PM ====================================================
+4/2/2019 9:50:48 PM ================4/2/2019 9:50:48 PM================
+4/2/2019 9:50:48 PM Union Marine HTTP processor started
+4/2/2019 9:51:12 PM Exception while login : System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 18.206.79.250:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+4/2/2019 9:51:12 PM Union Marine HTTP processor stopped
+4/2/2019 9:51:12 PM ====================================================
+4/2/2019 9:58:41 PM ================4/2/2019 9:58:41 PM================
+4/2/2019 9:58:41 PM Union Marine HTTP processor started
+4/2/2019 9:59:05 PM Exception while login : System.Net.Sockets.SocketException (0x80004005): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 18.206.79.250:443
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+4/2/2019 9:59:05 PM Union Marine HTTP processor stopped
+4/2/2019 9:59:05 PM ====================================================

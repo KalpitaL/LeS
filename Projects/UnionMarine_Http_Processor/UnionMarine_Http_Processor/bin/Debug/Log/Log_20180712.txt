@@ -1,0 +1,99 @@
+12-07-2018 10:32:08 ================12-07-2018 10:32:08================
+12-07-2018 10:32:08 Union Marine HTTP processor started
+12-07-2018 10:32:13 Union Marine has Login Successfully.
+12-07-2018 10:32:14 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 10:32:15 RFQ 'RFQ_V-18-MNM-039-E_12072018103214.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 10:32:15 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 10:41:18 ================12-07-2018 10:41:18================
+12-07-2018 10:41:18 Union Marine HTTP processor started
+12-07-2018 10:41:21 Union Marine has Login Successfully.
+12-07-2018 10:41:22 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 10:41:23 RFQ 'RFQ_V-18-MNM-039-E_12072018104122.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 10:41:23 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 10:41:30 ================12-07-2018 10:41:30================
+12-07-2018 10:41:30 Union Marine HTTP processor started
+12-07-2018 10:41:32 Union Marine has Login Successfully.
+12-07-2018 10:41:33 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 10:41:34 RFQ 'RFQ_V-18-MNM-039-E_12072018104133.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 10:41:34 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 11:12:47 ================12-07-2018 11:12:47================
+12-07-2018 11:12:47 Union Marine HTTP processor started
+12-07-2018 11:12:50 Union Marine has Login Successfully.
+12-07-2018 11:12:51 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 11:12:53 RFQ 'RFQ_V-18-MNM-039-E_12072018111251.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 11:12:53 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 11:13:21 ================12-07-2018 11:13:21================
+12-07-2018 11:13:21 Union Marine HTTP processor started
+12-07-2018 11:13:24 Union Marine has Login Successfully.
+12-07-2018 11:13:25 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 11:13:26 RFQ 'RFQ_V-18-MNM-039-E_12072018111325.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 11:13:26 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 11:13:54 ================12-07-2018 11:13:54================
+12-07-2018 11:13:54 Union Marine HTTP processor started
+12-07-2018 11:13:58 Union Marine has Login Successfully.
+12-07-2018 11:14:14 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 11:14:16 RFQ 'RFQ_V-18-MNM-039-E_12072018111414.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 11:14:16 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 11:16:59 ================12-07-2018 11:16:59================
+12-07-2018 11:16:59 Union Marine HTTP processor started
+12-07-2018 11:17:02 Union Marine has Login Successfully.
+12-07-2018 11:17:26 ================12-07-2018 11:17:26================
+12-07-2018 11:17:26 Union Marine HTTP processor started
+12-07-2018 11:17:28 Union Marine has Login Successfully.
+12-07-2018 11:18:38 ================12-07-2018 11:18:38================
+12-07-2018 11:18:38 Union Marine HTTP processor started
+12-07-2018 11:18:41 Union Marine has Login Successfully.
+12-07-2018 11:42:28 ================12-07-2018 11:42:28================
+12-07-2018 11:42:28 Union Marine HTTP processor started
+12-07-2018 11:42:31 Union Marine has Login Successfully.
+12-07-2018 11:46:46 ================12-07-2018 11:46:46================
+12-07-2018 11:46:46 Union Marine HTTP processor started
+12-07-2018 11:46:49 Union Marine has Login Successfully.
+12-07-2018 12:10:15 ================12-07-2018 12:10:15================
+12-07-2018 12:10:15 Union Marine HTTP processor started
+12-07-2018 12:10:18 Union Marine has Login Successfully.
+12-07-2018 12:10:29 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 12:10:30 RFQ 'RFQ_V-18-MNM-039-E_12072018121029.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 12:10:30 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 12:11:43 ================12-07-2018 12:11:43================
+12-07-2018 12:11:43 Union Marine HTTP processor started
+12-07-2018 12:11:46 Union Marine has Login Successfully.
+12-07-2018 12:11:48 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 12:11:49 RFQ 'RFQ_V-18-MNM-039-E_12072018121148.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 12:11:49 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 12:26:06 ================12-07-2018 12:26:06================
+12-07-2018 12:26:06 Union Marine HTTP processor started
+12-07-2018 12:26:11 Union Marine has Login Successfully.
+12-07-2018 12:26:15 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 12:26:16 RFQ 'RFQ_V-18-MNM-039-E_12072018122615.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 12:26:16 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 12:28:53 ================12-07-2018 12:28:53================
+12-07-2018 12:28:53 Union Marine HTTP processor started
+12-07-2018 12:28:56 Union Marine has Login Successfully.
+12-07-2018 12:28:58 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 12:28:59 RFQ 'RFQ_V-18-MNM-039-E_12072018122858.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 12:28:59 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 12:30:02 ================12-07-2018 12:30:02================
+12-07-2018 12:30:02 Union Marine HTTP processor started
+12-07-2018 12:30:04 Union Marine has Login Successfully.
+12-07-2018 12:31:45 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 12:31:47 RFQ 'RFQ_V-18-MNM-039-E_12072018123145.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 12:31:47 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 12:35:47 ================12-07-2018 12:35:47================
+12-07-2018 12:35:47 Union Marine HTTP processor started
+12-07-2018 12:35:49 Union Marine has Login Successfully.
+12-07-2018 12:35:51 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 12:35:52 RFQ 'RFQ_V-18-MNM-039-E_12072018123551.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 12:35:52 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 12:37:59 ================12-07-2018 12:37:59================
+12-07-2018 12:37:59 Union Marine HTTP processor started
+12-07-2018 12:38:01 Union Marine has Login Successfully.
+12-07-2018 12:38:04 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 12:38:05 RFQ 'RFQ_V-18-MNM-039-E_12072018123804.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 12:38:05 Processing Quote file for VRNO V-18-MNM-039-E.
+12-07-2018 12:40:54 ================12-07-2018 12:40:54================
+12-07-2018 12:40:54 Union Marine HTTP processor started
+12-07-2018 12:40:56 Union Marine has Login Successfully.
+12-07-2018 12:40:59 Download RFQ files for VRNO V-18-MNM-039-E.
+12-07-2018 12:41:00 RFQ 'RFQ_V-18-MNM-039-E_12072018124059.pdf' for VRNO 'V-18-MNM-039-E' downloaded successfully.
+12-07-2018 12:41:00 Processing Quote file for VRNO V-18-MNM-039-E.

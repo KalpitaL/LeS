@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="599045" Identifier="UNOC" Recipient="B60543_MLPDF" Sender="V10001" PreparationDate="2018-Aug-20" PreparationTime="19:30" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2880" LesRecordID="11282296" LesLinkID="103884" ParentRecordID="11281006" MTML_DOCID="FADBADC7-F12B-4563-88A3-79E4921981A3">
+    <Quote MessageReferenceNumber="RequestForQuote : V-18-SLM-052-D" MessageNumber="V-18-SLM-052-D" LineItemCount="2" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" TransportModeCode="_3" DepartmentCode="Deck" LeadTimeDays="3" OriginalFile="OrderQuotation-599045_180820_192138976.pdf" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201808201930" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201808240000" />
+      <Comments Qualifier="SUR">
+        <value>Thanks for your inquiry. We're pleased to offer our quotation for your consideration.
+
+Item 2 , product that have no equivalent and no within our product range.
+
+Item quoted is currently out of stock.
+Freight Charge: USD 350.00 *16% based on order value as TAX
+*Customs charges: USD 80.00
+Lead time: 2.5 – 3  weeks subject to carrier approval and custom clearance.
+
+Delivery Charge (alongside) @  Port JINGTANG: USD 529.00
+Delivery Lead time: 4-5  working days
+Subject to additional delivery charge, hire of barge/crane, custom fee, etc.
+
+Please allow another 1-2 working days’ notice for delivery arrangement.
+
+We look forward to receiving your earliest order confirmation.
+
+Best Regards,
+Edlyn Tan
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 3 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 529 USD
+Item Added - 4 : ADDITIONAL CHARGE | QTY : 1 | UOM : PCS | Price : 80 USD
+Item Added - 5 : FREIGHT CHARGE | QTY : 1 | UOM : PCS | Price : 350 USD
+ Item Total : 2847.00 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-18-SLM-052-D" />
+      <Reference Qualifier="AAG" ReferenceNumber="599045" />
+      <Party Qualifier="UD" Identification="9801718" Name="SCARLETT MANX">
+        <PartyLocation Qualifier="ZUC" Berth="JINGTANG" Port="CNJIN" />
+        <Contact />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="65 6395 4545" />
+          <CommunicationMethod Qualifier="FX" Number="65 6872 6319" />
+        </Contact>
+        <StreetAddress>128376</StreetAddress>
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <LineItem Number="1" Description="Metal brite" MeasureUnitQualifier="LTR" Quantity="400" TypeCode="BP" OriginatingSystemRef="17943231" SystemItemNo="1" MonetaryAmount="1888.00" Identification="571661" DeliveryTime="3" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.72" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="OXALIC ACID" MeasureUnitQualifier="KGS" Quantity="0" TypeCode="BP" OriginatingSystemRef="17943232" SystemItemNo="2" MonetaryAmount="0.00" DeliveryTime="3" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="2847.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="2847.000" />
+      <MonetaryAmount Qualifier="_99" Value="879.000" />
+      <MonetaryAmount Qualifier="_98" Value="80.000" />
+      <MonetaryAmount Qualifier="_90" Value="1888.000" />
+    </Quote>
+  </Interchange>
+</MTML>

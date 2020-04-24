@@ -1,0 +1,441 @@
+<html>
+<Body>
+<div class="Section1">
+
+<p class="MsoNormal"><br /></p>
+
+<div>
+
+<p class="MsoNormal"><span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 10px; line-height: normal; font-family: Verdana; color: navy;"><span style="font-size: 8pt; font-family: Verdana; color: navy;">Note:<br />
+<br />
+(This is an automated email notification. Please do not reply to this email id, as the messages will not be processed.)
+
+<br />
+</span></span></p><p class="MsoNormal"><span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 10px; line-height: normal; font-family: Verdana; color: navy;"><span style="font-size: 8pt; font-family: Verdana; color: navy;">&nbsp;</span></span></p></div></div>
+
+<p style="margin-bottom:12.0pt"><strong><span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; line-height: normal; font-family: Verdana; color: black;"><span style="font-size: 10pt; font-weight: bold; font-family: Verdana; color: black;">
+#MESSAGE#</span></span></strong>
+<br>
+<span style="font-size: 10pt; font-family: Verdana; color: navy;"><a href="http://esupplierlite.lighthouse-esolutions.com/Login.aspx?#QUOTATIONID#"> Click here </a> to view details of the enclosed document online. (For Paid members only.)</span>
+</p><strong><span style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 13px; line-height: normal; font-family: Verdana; color: black;"><span style="font-size: 10pt; font-weight: bold; font-family: Verdana; color: black;">&nbsp;</span></span></strong><strong><span style="font-weight: normal; font-size: 13px; font-family: Verdana; color: black;"><span style="font-size: 10pt; font-weight: bold; font-family: Verdana; color: black;"> 
+<br/>Enclosed please find '#DOC_TYPE#' #ACTION_TYPE# by '#SENDER_NAME#'.
+</span></span></strong>
+<br/>
+<br/>
+<span style="font-size: 9pt; font-family: Verdana; color: black;">
+It is recommended that you go through all details in this notification. Due to the import capability of your system, some of the information below may not be imported. 
+<br/>
+<br/>
+<br/>
+Please process the RFQ by following the instructions below to ensure that your Quote is properly returned to '#SENDER_NAME#'
+<br/><br/>
+1.  Open the Excel file attached to this email.
+<br/>
+<br/> 
+2.  Complete your quote in attached spreadsheet, NO OTHER FORMAT WILL BE ACCEPTED.
+<br/>
+<br/>
+3.  Save file to a pre-defined folder and close the spreadsheet.
+<br/>
+<br/>
+4.  Attach your saved Excel Quotation to the mail and send to: lesconnect@lighthouse-esolutions.com
+<br/>
+<br/>
+<br/>
+</span>
+
+<span style="font-size: 10pt; font-weight: bold; font-family: Verdana; color: black;">
+For assistance or question on this enclosure, please contact '#SENDER_NAME#' directly. 
+<br/><br/>
+For assistance or question on LesConnect, you can either email us at support@lighthouse-esolutions.com or call us at +65 6556 2378. 
+</span>
+<br/><br/>
+
+<div>
+</div>
+
+<table class="MsoNormalTable" border="1" cellpadding="0" width="100%" style="width: 100%; border-style: solid; border-width: 1pt;" bordercolor="rgb(204, 204, 204)">
+ <tbody><tr>
+  <td style="border:none;background:#3B4E87;padding:.75pt .75pt .75pt .75pt">
+  <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:White; font-family: Verdana, sans-serif;">Header </span></strong></p>
+  </td>
+ </tr>
+ <tr>
+  <td style="border:none;padding:.75pt .75pt .75pt .75pt">
+  <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in">
+   <tbody><tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Quote Date:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-family: Verdana, sans-serif;"><span style="font-size: 11px;">#QUOTE_SUBMIT_DATE#</span></span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Quote Expiry date:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-family: Verdana, sans-serif;"><span style="font-size: 11px;">#QUOTE_VALIDITY#</span></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Buyer Name:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#BUYER_NAME#</span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Buyer Ref:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#VRNO#</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Vessel Name:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#VESSEL_NAME#</span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Vessel No:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#VESSEL_IDNO#</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Supplier:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-family: Verdana, sans-serif;"><span style="font-size: 11px;">#SUPPLIER_NAME#</span></span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Supplier Ref:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-family: Verdana, sans-serif;"><span style="font-size: 11px;">#QUOTE_REFERENCE#</span></span></p>
+    </td>
+   </tr>
+    <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Subject:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#SUBJECT#</span></p>
+    </td>   
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Delivery Days:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-family: Verdana, sans-serif; color: black ;"><span style="font-size: 11px;">#DELIVERYDAYS#</span></span></p>
+    </td>
+   </tr>   
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Req. del. date:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#REPLY_BY_DATE#</span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Delivery Date:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#LATEDATE#</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Port Name:</span></strong></p>
+    </td>
+   <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#PORT_NAME#</span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Port Code:</span></strong></p>
+    </td>
+  <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#PORT_CODE#</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Freight Amt:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-family: Verdana, sans-serif; color: black ;"><span style="font-size: 11px;">#FREIGHT_AMOUNT#</span></span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Other Cost:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#OTHER_COST#</span></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Total Price:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-family: Verdana, sans-serif; color: black ;"><span style="font-size: 11px;">#QUOTE_NET_AMT#</span></span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Currency:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#CURR_CODE#</span></span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt; vertical-align: top;">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Payment Terms:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt; vertical-align: top;">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-family: Verdana, sans-serif; color: black ;"><span style="font-size: 11px;">#PAYMENT_TERMS#</span></span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt; vertical-align: top;">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">General Terms:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt; vertical-align: top;">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#GENERAL_TERMS#</span></span></p>
+    </td>
+   </tr>   
+   <tr>   
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt; vertical-align: top;">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Supplier Remarks :</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt; vertical-align: top;">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-family: Verdana, sans-serif; color: black ;"><span style="font-size: 11px;">#QUOTE_REMARKS#</span></span></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt; vertical-align: top;">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Buyer Remarks :</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt; vertical-align: top;">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#BUYER_REMARKS#</span></span></p>
+    </td>
+   </tr>
+  </tbody></table>
+  </td>
+ </tr>
+</tbody></table><p>&nbsp;</p><table class="MsoNormalTable" border="1" cellpadding="0" width="100%" style="width: 100%; border-style: solid; border-width: 1pt;" bordercolor="rgb(204, 204, 204)">
+ <thead>
+  <tr>
+   <td colspan="10" style="border:none;background:#3B4E87;padding:.75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Line Items</span></strong></p>
+   </td>
+  </tr>
+  <tr>
+   <td width="5%" style="width:5.0%;border:none;background:#3B4E87;padding:&#xA;   .75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Line</span></strong></p>
+   </td>
+   <td width="11%" style="width:11.0%;border:none;background:#3B4E87;&#xA;   padding:.75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Part No</span></strong></p>
+   </td>
+   <td width="47%" style="width:37.0%;border:none;background:#3B4E87;&#xA;   padding:.75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Description</span></strong></p>
+   </td>
+   <td width="5%" style="width:5.0%;border:none;background:#3B4E87;padding:&#xA;   .75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Quantity</span></strong></p>
+   </td>
+   <td width="8%" style="width:8.0%;border:none;background:#3B4E87;padding:&#xA;   .75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">UOM</span></strong></p>
+   </td>
+   <td width="8%" style="width:8.0%;border:none;background:#3B4E87;padding:&#xA;   .75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Unit Price</span></strong></p>
+   </td>
+   <td width="5%" style="width:5.0%;border:none;background:#3B4E87;padding:&#xA;   .75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Discount</span></strong></p>
+   </td>
+   <td width="8%" style="width:8.0%;border:none;background:#3B4E87;padding:&#xA;   .75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Net Price</span></strong></p>
+   </td>
+   <td width="8%" style="width:8.0%;border:none;background:#3B4E87;padding:&#xA;   .75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Total</span></strong></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody>
+ #LINEITEMS#
+</tbody></table><p>&nbsp;</p><table class="MsoNormalTable" border="1" cellpadding="0" width="100%" style="width: 100%; border-style: solid; border-width: 1pt;" bordercolor="rgb(204, 204, 204)">
+ <thead>
+  <tr>
+   <td style="border:none;background:#3B4E87;padding:.75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Delivery Information</span></strong></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr>
+  <td style="border:none;padding:.75pt .75pt .75pt .75pt">
+  <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in">
+   <tbody><tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Name:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_ADDR_NAME#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Postal address:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_ADDRESS1#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Street:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_ADDRESS2#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal">&nbsp;</p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_ADDRESS3#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal">&nbsp;</p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_ADDRESS4#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;"></span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_ZIPCODE#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;"></span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_CITY#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;"></span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_COUNTRY#</span></p>
+    </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Email:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_EMAIL#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Phone:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_PHONE#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Fax</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#S_FAX#</span></p>
+    </td>
+   </tr>
+  </tbody></table>
+  </td>
+ </tr>
+</tbody></table><p>&nbsp;</p><table class="MsoNormalTable" border="1" cellpadding="0" width="100%" style="width: 100%; border-style: solid; border-width: 1pt;" bordercolor="rgb(204, 204, 204)">
+ <thead>
+  <tr>
+   <td style="border:none;background:#3B4E87;padding:.75pt .75pt .75pt .75pt">
+   <p class="MsoNormal" style="margin-top:.75pt"><strong><span style="font-size: 8pt;color:white; font-family: Verdana, sans-serif;">Invoicing Details</span></strong></p>
+   </td>
+  </tr>
+ </thead>
+ <tbody><tr>
+  <td style="border:none;padding:.75pt .75pt .75pt .75pt">
+  <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in">
+   <tbody><tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Name:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_ADDR_NAME#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Postal address:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_ADDRESS1#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;"></span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_ADDRESS2#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal">&nbsp;</p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_ADDRESS3#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal">&nbsp;</p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_ADDRESS4#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;"></span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_ZIPCODE#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;"></span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_CITY#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;"></span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_COUNTRY#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Email:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_EMAIL#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Phone:</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_PHONE#</span></p> </td>
+   </tr>
+   <tr>
+    <td style="padding:0in .75pt 0in .75pt">
+    <p class="MsoNormal" style="margin-top:.75pt;margin-right:0in;margin-bottom:&#xA;    .75pt;margin-left:0in"><strong><span style="font-size: 8pt; font-family: Verdana, sans-serif;">Fax</span></strong></p>
+    </td>
+    <td style="padding:0in .75pt 0in .75pt"> <p class="MsoNormal"><span style="font-size: 8pt; font-family: Verdana, sans-serif;">#B_FAX#</span></p> </td>
+   </tr>
+  </tbody></table>
+  </td>
+ </tr>
+</tbody></table>
+<br/><br/>
+ <span style="font-size: 8pt; font-family: Verdana; color: navy;"> Disclaimer : 
+<br/><br/>
+The information provided on this notification are provided 'as is' from the parties and without warranty of any kind, express or implied. 
+<br/>LeSConnect disclaims all expressed and implied warranties with regard to the information and materials contained on this notification,
+<br/>including without limitation implied warranties of merchantability, fitness for a particular purpose, and non-infringement. 
+
+</span>
+</body>
+</html>
+ 
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

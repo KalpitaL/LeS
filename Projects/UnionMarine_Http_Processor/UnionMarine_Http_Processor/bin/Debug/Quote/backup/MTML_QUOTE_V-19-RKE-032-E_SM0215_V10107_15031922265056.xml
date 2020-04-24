@@ -1,0 +1,739 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8736877-1" Identifier="UNOC" Recipient="SM0215_NEKOPDF" Sender="V10107" PreparationDate="2019-Mar-15" PreparationTime="22:26" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3614" LesRecordID="11527203" LesLinkID="104385" ParentRecordID="11523363" MTML_DOCID="AA99EE4A-66D4-44DB-8C22-EC89EE1246CD">
+    <Quote MessageReferenceNumber="RequestForQuote : V-19-RKE-032-E" MessageNumber="V-19-RKE-032-E" LineItemCount="77" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" DepartmentCode="ENGINE" LeadTimeDays="0" OriginalFile="20190315151003-QUO-V-19-RKE-032-E-1.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201903151626" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201905142226" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>STORE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-19-RKE-032-E" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8736877-1" />
+      <Party Qualifier="UD" Identification="9784362" Name="RIKKE">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="FLAT ENDLESS WEBBING SLING BREAKING LOAD: 7 TON; CIRCUMFERENCE: 1 METER; COEFFICIENT OF UTILIZATION: 7:1; COLOR: PURPLE; LENGTH: 0,5 METER; MEASURED THICKNESS: 2 MM; NORM: NEN 1492-1; TYPE OF BAND: 30S4; WIDTH: 30 MM; WORKING LOAD: 1 TON; " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075055" SystemItemNo="1" MonetaryAmount="6.50" Identification="232192" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.25" />
+        <Comments Qualifier="LIN">
+          <value>FLAT ENDLESS WEBBING SLING BREAKING LOAD: 7 TON; CIRCUMFERENCE: 1 METER; COEFFICIENT OF UTILIZATION: 7:1; COLOR: PURPLE; LENGTH: 0,5 METER; MEASURED THICKNESS: 2 MM; NORM: NEN 1492-1; TYPE OF BAND: 30S4; WIDTH: 30 MM; WORKING LOAD: 1 TON; </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="FLAT WEBBING SLING WITH EYES BREAKING LOAD: 7 TON; COEFFICIENT OF UTILIZATION: 7:1; COLOR: PURPLE; LENGTH: 1 METER; MEASURED THICKNESS: 2 MM; NORM: NEN 1492-1; TYPE OF BAND: MC-2-1000; WIDTH: 30 MM; WORKING LOAD: 1 TON; " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075056" SystemItemNo="2" MonetaryAmount="15.88" Identification="232191" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.94" />
+        <Comments Qualifier="LIN">
+          <value>FLAT WEBBING SLING WITH EYES BREAKING LOAD: 7 TON; COEFFICIENT OF UTILIZATION: 7:1; COLOR: PURPLE; LENGTH: 1 METER; MEASURED THICKNESS: 2 MM; NORM: NEN 1492-1; TYPE OF BAND: MC-2-1000; WIDTH: 30 MM; WORKING LOAD: 1 TON; </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="POLYESTER SLING BELT TYPE WIDTH 30MM X LENGTH 1MTR" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075057" SystemItemNo="3" MonetaryAmount="12.12" Identification="232131" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.06" />
+        <Comments Qualifier="LIN">
+          <value>POLYESTER SLING BELT TYPE WIDTH 30MM X LENGTH 1MTR</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="RAGS &quot;SHIPPING&quot; QUALITY WHITE 25KG 100% STERILISED (WLX) " MeasureUnitQualifier="KGM" Quantity="150" TypeCode="BP" OriginatingSystemRef="20075058" SystemItemNo="4" MonetaryAmount="103.50" Identification="232907" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.69" />
+        <Comments Qualifier="LIN">
+          <value>RAGS "SHIPPING" QUALITY WHITE 25KG 100% STERILISED (WLX) </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="RAGS COLOR COTTON 25KG.(BL) " MeasureUnitQualifier="KGM" Quantity="100" TypeCode="BP" OriginatingSystemRef="20075059" SystemItemNo="5" MonetaryAmount="32.00" Identification="232909" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.32" />
+        <Comments Qualifier="LIN">
+          <value>RAGS COLOR COTTON 25KG.(BL) </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="FIRE CLAY POWDER 25KG " MeasureUnitQualifier="BG" Quantity="5" TypeCode="BP" OriginatingSystemRef="20075060" SystemItemNo="6" MonetaryAmount="136.20" Identification="812435" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="27.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="27.24" />
+        <Comments Qualifier="LIN">
+          <value>FIRE CLAY POWDER 25KG </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="WRENCH STRIKING RING 12-POINT, 30MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075061" SystemItemNo="7" MonetaryAmount="9.88" Identification="611101" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.94" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH STRIKING RING 12-POINT, 30MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="WRENCH STRIKING RING 12-POINT 36MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075062" SystemItemNo="8" MonetaryAmount="19.96" Identification="611104" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.98" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH STRIKING RING 12-POINT 36MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="WRENCH STRIKING RING 12-POINT, 46MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075063" SystemItemNo="9" MonetaryAmount="27.68" Identification="611106" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="13.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="13.84" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH STRIKING RING 12-POINT, 46MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="WRENCH SINGLE RATCHET &amp; SPUD 12-POINT 17MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075064" SystemItemNo="10" MonetaryAmount="14.86" Identification="611030" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.43" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH SINGLE RATCHET &amp; SPUD 12-POINT 17MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="WRENCH SINGLE HEAD RATCHET, &amp; SPUD 12-POINT 19MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075065" SystemItemNo="11" MonetaryAmount="13.90" Identification="611031" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.95" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.95" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH SINGLE HEAD RATCHET, &amp; SPUD 12-POINT 19MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="WRENCH SINGLE RATCHET &amp; SPUD 12-POINT 24MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075066" SystemItemNo="12" MonetaryAmount="20.66" Identification="611034" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.33" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.33" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH SINGLE RATCHET &amp; SPUD 12-POINT 24MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="WRENCH SINGLE RATCHET &amp; SPUD 12-POINT 30MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075067" SystemItemNo="13" MonetaryAmount="29.72" Identification="611037" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.86" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.86" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH SINGLE RATCHET &amp; SPUD 12-POINT 30MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="PLIER LONG-NOSE &amp; SIDE-CUTTING PLASTIC COVERED HANDLE 200MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075068" SystemItemNo="14" MonetaryAmount="5.66" Identification="611617" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.83" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.83" />
+        <Comments Qualifier="LIN">
+          <value>PLIER LONG-NOSE &amp; SIDE-CUTTING PLASTIC COVERED HANDLE 200MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="PLIER LONG NEEDLE NOSE GERMAN QUALITY, PLASTIC COVERED HANDLE 150  STEEL POLISHED " MeasureUnitQualifier="PR" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075069" SystemItemNo="15" MonetaryAmount="3.68" Identification="611687" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.84" />
+        <Comments Qualifier="LIN">
+          <value>PLIER LONG NEEDLE NOSE GERMAN QUALITY, PLASTIC COVERED HANDLE 150  STEEL POLISHED </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="PACKING HOOK SET COMPLETE UNIOR (HEAVY DUTY QUALITY) " MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075070" SystemItemNo="16" MonetaryAmount="14.73" Identification="612004" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.73" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.73" />
+        <Comments Qualifier="LIN">
+          <value>PACKING HOOK SET COMPLETE UNIOR (HEAVY DUTY QUALITY) </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="PLIER VISE-GRIP COMBINATION, 125MM (CN) " MeasureUnitQualifier="PR" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075071" SystemItemNo="17" MonetaryAmount="1.77" Identification="611641" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.77" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.77" />
+        <Comments Qualifier="LIN">
+          <value>PLIER VISE-GRIP COMBINATION, 125MM (CN) </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="PLIER VISE-GRIP COMBINATION 175MM " MeasureUnitQualifier="PR" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075072" SystemItemNo="18" MonetaryAmount="2.08" Identification="611642" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.08" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.08" />
+        <Comments Qualifier="LIN">
+          <value>PLIER VISE-GRIP COMBINATION 175MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="PNEUMATIC DIAPHRAGM PUMP POLY / TEFLON 1/2&quot; &#xA; " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075073" SystemItemNo="19" MonetaryAmount="196.02" Identification="591611" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="196.02" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="196.02" />
+        <Comments Qualifier="LIN">
+          <value>PNEUMATIC DIAPHRAGM PUMP POLY / TEFLON 1/2" 
+ </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="VACUUM CLEANER PNEUMATIC, EQUIV. BLOBAC CLEANER MODEL V-5" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075074" SystemItemNo="20" MonetaryAmount="66.23" Identification="590721" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="66.23" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="66.23" />
+        <Comments Qualifier="LIN">
+          <value>VACUUM CLEANER PNEUMATIC, EQUIV. BLOBAC CLEANER MODEL V-5</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="VASELINE 500GRM " MeasureUnitQualifier="JR" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075075" SystemItemNo="21" MonetaryAmount="8.38" Identification="550276" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.19" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.19" />
+        <Comments Qualifier="LIN">
+          <value>VASELINE 500GRM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="DUSTER POLYESTER TELESCOPIC HANDLE 80-110CM" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075076" SystemItemNo="22" MonetaryAmount="5.08" Identification="510843" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.54" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.54" />
+        <Comments Qualifier="LIN">
+          <value>DUSTER POLYESTER TELESCOPIC HANDLE 80-110CM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="DUSTER BRUSH 65CM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075077" SystemItemNo="23" MonetaryAmount="4.24" Identification="510842" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.12" />
+        <Comments Qualifier="LIN">
+          <value>DUSTER BRUSH 65CM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="WRENCH ADJUSTABLE HEAVY-DUTY, 150MM " MeasureUnitQualifier="PCE" Quantity="4" TypeCode="BP" OriginatingSystemRef="20075078" SystemItemNo="24" MonetaryAmount="7.96" Identification="611332" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.99" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH ADJUSTABLE HEAVY-DUTY, 150MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="WRENCH ADJUSTABLE HEAVY-DUTY, 200MM FORGED STEEL " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075079" SystemItemNo="25" MonetaryAmount="5.16" Identification="611333" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.58" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH ADJUSTABLE HEAVY-DUTY, 200MM FORGED STEEL </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="WRENCH ADJUSTABLE HEAVY-DUTY 250MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075080" SystemItemNo="26" MonetaryAmount="6.96" Identification="611334" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.48" />
+        <Comments Qualifier="LIN">
+          <value>WRENCH ADJUSTABLE HEAVY-DUTY 250MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="MATADOR TRUCK HAND PLATFORM EX-1A ALU 150KG " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075081" SystemItemNo="27" MonetaryAmount="156.81" Identification="617164" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="156.81" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="156.81" />
+        <Comments Qualifier="LIN">
+          <value>MATADOR TRUCK HAND PLATFORM EX-1A ALU 150KG </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="CALIPER VERNIER STAINLESS STEEL METRIC 300MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075082" SystemItemNo="28" MonetaryAmount="38.98" Identification="650504" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="19.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="19.49" />
+        <Comments Qualifier="LIN">
+          <value>CALIPER VERNIER STAINLESS STEEL METRIC 300MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="THICKNESS GAUGE #100A25 0.05-1.0MM 100MM LENGTH " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075083" SystemItemNo="29" MonetaryAmount="4.64" Identification="650563" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.64" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.64" />
+        <Comments Qualifier="LIN">
+          <value>THICKNESS GAUGE #100A25 0.05-1.0MM 100MM LENGTH </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="GLOVES WORKING COTTON ORDINARY 600GR. H.D. " MeasureUnitQualifier="PCE" Quantity="360" TypeCode="BP" OriginatingSystemRef="20075084" SystemItemNo="30" MonetaryAmount="79.20" Identification="190104" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.22" />
+        <Comments Qualifier="LIN">
+          <value>GLOVES WORKING COTTON ORDINARY 600GR. H.D. </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="WELDER GLOVES FIVE FINGERS " MeasureUnitQualifier="PR" Quantity="3" TypeCode="BP" OriginatingSystemRef="20075085" SystemItemNo="31" MonetaryAmount="5.40" Identification="851162" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.8" />
+        <Comments Qualifier="LIN">
+          <value>WELDER GLOVES FIVE FINGERS </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="32" Description="KRAFT PAPER 1MTR WIDTH, 20KGS PER ROLL ( 200MTR ) " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075086" SystemItemNo="32" MonetaryAmount="50.68" Identification="471332" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="25.34" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="25.34" />
+        <Comments Qualifier="LIN">
+          <value>KRAFT PAPER 1MTR WIDTH, 20KGS PER ROLL ( 200MTR ) </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="33" Description="JOINTING SHEET PA100 750 X 1125 MM 50 BAR 2 MM 250C MARPACK ORANGE" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075087" SystemItemNo="33" MonetaryAmount="11.12" Identification="811016" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.12" />
+        <Comments Qualifier="LIN">
+          <value>JOINTING SHEET PA100 750 X 1125 MM 50 BAR 2 MM 250C MARPACK ORANGE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="34" Description="JOINTING SHEET PA100 750 X 1125 MM 50 BAR 3 MM 250C MARPACK ORANGE" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075088" SystemItemNo="34" MonetaryAmount="16.80" Identification="811018" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="16.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="16.8" />
+        <Comments Qualifier="LIN">
+          <value>JOINTING SHEET PA100 750 X 1125 MM 50 BAR 3 MM 250C MARPACK ORANGE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="35" Description="EAR MUFF TYPE  BILSON  LEFT/RIGHT HIGH APPL , SNR 33-H/M/L 33/31/21 " MeasureUnitQualifier="PR" Quantity="10" TypeCode="BP" OriginatingSystemRef="20075089" SystemItemNo="35" MonetaryAmount="111.10" Identification="331153" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.11" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.11" />
+        <Comments Qualifier="LIN">
+          <value>EAR MUFF TYPE  BILSON  LEFT/RIGHT HIGH APPL , SNR 33-H/M/L 33/31/21 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="36" Description="EAR PLUG 3M SELF-FIT FOAM  WITH CORD " MeasureUnitQualifier="PCE" Quantity="20" TypeCode="BP" OriginatingSystemRef="20075090" SystemItemNo="36" MonetaryAmount="4.80" Identification="331157" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.24" />
+        <Comments Qualifier="LIN">
+          <value>EAR PLUG 3M SELF-FIT FOAM  WITH CORD </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="37" Description="GOGGLES CHIPPING PLASTIC, SCOPE STANDARD CE APPROV. " MeasureUnitQualifier="PR" Quantity="6" TypeCode="BP" OriginatingSystemRef="20075091" SystemItemNo="37" MonetaryAmount="3.30" Identification="331141" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.55" />
+        <Comments Qualifier="LIN">
+          <value>GOGGLES CHIPPING PLASTIC, SCOPE STANDARD CE APPROV. </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="38" Description="DUST MASK DISPOSABLE " MeasureUnitQualifier="BX" Quantity="3" TypeCode="BP" OriginatingSystemRef="20075092" SystemItemNo="38" MonetaryAmount="0.12" Identification="331130" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.04" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.04" />
+        <Comments Qualifier="LIN">
+          <value>DUST MASK DISPOSABLE </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="39" Description="GARBAGEBAG PLAST.BLUE70X110 120LTR 25S " MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="20075093" SystemItemNo="39" MonetaryAmount="11.64" Identification="174176" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.94" />
+        <Comments Qualifier="LIN">
+          <value>GARBAGEBAG PLAST.BLUE70X110 120LTR 25S </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="40" Description="BAGS GARBAGE 60X80CM T20 60 LTR BLACK HDPE NON-KOMO ROLL/20S " MeasureUnitQualifier="PCE" Quantity="7" TypeCode="BP" OriginatingSystemRef="20075094" SystemItemNo="40" MonetaryAmount="5.18" Identification="174169" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.74" />
+        <Comments Qualifier="LIN">
+          <value>BAGS GARBAGE 60X80CM T20 60 LTR BLACK HDPE NON-KOMO ROLL/20S </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="41" Description="TUBE BICYCLE INTERIOR USED " MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="20075095" SystemItemNo="41" MonetaryAmount="8.10" Identification="232422" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.81" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.81" />
+        <Comments Qualifier="LIN">
+          <value>TUBE BICYCLE INTERIOR USED </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="42" Description="PTFE SHEET PO662 200 X 200 MM 1 MM MARPACK WHITE" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075096" SystemItemNo="42" MonetaryAmount="1.79" Identification="812531" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.79" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.79" />
+        <Comments Qualifier="LIN">
+          <value>PTFE SHEET PO662 200 X 200 MM 1 MM MARPACK WHITE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="43" Description="FIBERGLASS TAPE 3.0MM X 25MM X 20MTR" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075097" SystemItemNo="43" MonetaryAmount="2.96" Identification="811654" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.96" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.96" />
+        <Comments Qualifier="LIN">
+          <value>FIBERGLASS TAPE 3.0MM X 25MM X 20MTR</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="44" Description="FIBERGLASS CLOTH 1.0MM X 1000 X 1000MM  ( 550C)" MeasureUnitQualifier="MTR" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075098" SystemItemNo="44" MonetaryAmount="2.58" Identification="811701" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.58" />
+        <Comments Qualifier="LIN">
+          <value>FIBERGLASS CLOTH 1.0MM X 1000 X 1000MM  ( 550C)</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="45" Description="STEEL EQUAL ANGLE 40X40X4 MM " MeasureUnitQualifier="MTR" Quantity="90" TypeCode="BP" OriginatingSystemRef="20075099" SystemItemNo="45" MonetaryAmount="229.50" Identification="670605" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.55" />
+        <Comments Qualifier="LIN">
+          <value>STEEL EQUAL ANGLE 40X40X4 MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="46" Description="STEEL EQUAL ANGLE 50X50X4 MM " MeasureUnitQualifier="MTR" Quantity="60" TypeCode="BP" OriginatingSystemRef="20075100" SystemItemNo="46" MonetaryAmount="256.80" Identification="670607" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.28" />
+        <Comments Qualifier="LIN">
+          <value>STEEL EQUAL ANGLE 50X50X4 MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="47" Description="ROUND IRON ROD 12 MM " MeasureUnitQualifier="MTR" Quantity="60" TypeCode="BP" OriginatingSystemRef="20075101" SystemItemNo="47" MonetaryAmount="65.40" Identification="670254" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.09" />
+        <Comments Qualifier="LIN">
+          <value>ROUND IRON ROD 12 MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="48" Description="STEEL FLAT BAR 50X3 MM " MeasureUnitQualifier="MTR" Quantity="60" TypeCode="BP" OriginatingSystemRef="20075102" SystemItemNo="48" MonetaryAmount="86.40" Identification="670407" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.44" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.44" />
+        <Comments Qualifier="LIN">
+          <value>STEEL FLAT BAR 50X3 MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="49" Description="WELDING ELECTRODES 3,2MM BOX 1,0 KG. CAST IRON" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075103" SystemItemNo="49" MonetaryAmount="91.40" Identification="851361" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="91.4" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="91.4" />
+        <Comments Qualifier="LIN">
+          <value>WELDING ELECTRODES 3,2MM BOX 1,0 KG. CAST IRON</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="50" Description="WELDING ELECTRODE BASIC 7016 350 MM 3,2 MM 5,0 KG" MeasureUnitQualifier="PKT" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075104" SystemItemNo="50" MonetaryAmount="8.67" Identification="850681" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.67" />
+        <Comments Qualifier="LIN">
+          <value>WELDING ELECTRODE BASIC 7016 350 MM 3,2 MM 5,0 KG</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="51" Description="WELDERSCHALK SQUARE 10 X 10 X 100 MM 12 / BOX" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075105" SystemItemNo="51" MonetaryAmount="3.32" Identification="851102" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.32" />
+        <Comments Qualifier="LIN">
+          <value>WELDERSCHALK SQUARE 10 X 10 X 100 MM 12 / BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="52" Description="WASHINGPOWDER GEN.USE 20KG/BAG  *PHOSPHATE FREE* " MeasureUnitQualifier="BG" Quantity="3" TypeCode="BP" OriginatingSystemRef="20075106" SystemItemNo="52" MonetaryAmount="28.65" Identification="550133" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.55" />
+        <Comments Qualifier="LIN">
+          <value>WASHINGPOWDER GEN.USE 20KG/BAG  *PHOSPHATE FREE* </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="53" Description="HOSE COUPLING AIR BRASS 6 MM M42 X 2" MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="20075107" SystemItemNo="53" MonetaryAmount="23.88" Identification="351051" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.98" />
+        <Comments Qualifier="LIN">
+          <value>HOSE COUPLING AIR BRASS 6 MM M42 X 2</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="54" Description="TITANIUM PUTTY 1000 GRAM MULAX TI  UN3077+1759" MeasureUnitQualifier="SET" Quantity="3" TypeCode="BP" OriginatingSystemRef="20075108" SystemItemNo="54" MonetaryAmount="140.61" Identification="812242" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="46.87" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="46.87" />
+        <Comments Qualifier="LIN">
+          <value>TITANIUM PUTTY 1000 GRAM MULAX TI  UN3077+1759</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="55" Description="PLASTIC STEEL PUTTY METAL TEK (A) 454GRM" MeasureUnitQualifier="SET" Quantity="3" TypeCode="BP" OriginatingSystemRef="20075109" SystemItemNo="55" MonetaryAmount="36.75" Identification="812251" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.25" />
+        <Comments Qualifier="LIN">
+          <value>PLASTIC STEEL PUTTY METAL TEK (A) 454GRM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="56" Description="ZINC CASTING ROUNDS F70X300MM " MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="20075110" SystemItemNo="56" MonetaryAmount="263.76" Identification="673411" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="43.96" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="43.96" />
+        <Comments Qualifier="LIN">
+          <value>ZINC CASTING ROUNDS F70X300MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="57" Description="ZINC BAR ROUND 50MM  300MM LENGTH PACKAGED IN CARTON BOX" MeasureUnitQualifier="LN" Quantity="6" TypeCode="BP" OriginatingSystemRef="20075111" SystemItemNo="57" MonetaryAmount="139.80" Identification="673407" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="23.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="23.3" />
+        <Comments Qualifier="LIN">
+          <value>ZINC BAR ROUND 50MM  300MM LENGTH PACKAGED IN CARTON BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="58" Description="WHEEL CUT-OFF RESINOID GRAIN36 100X2.0X15.88MM 4300MTR/MIN " MeasureUnitQualifier="PCE" Quantity="12" TypeCode="BP" OriginatingSystemRef="20075112" SystemItemNo="58" MonetaryAmount="4.92" Identification="614858" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.41" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.41" />
+        <Comments Qualifier="LIN">
+          <value>WHEEL CUT-OFF RESINOID GRAIN36 100X2.0X15.88MM 4300MTR/MIN </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="59" Description="CUTTING WHEEL OD305MM 4800MTR/MIN F/ELEC ROD CUTTER " MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="20075113" SystemItemNo="59" MonetaryAmount="14.88" Identification="591161" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.48" />
+        <Comments Qualifier="LIN">
+          <value>CUTTING WHEEL OD305MM 4800MTR/MIN F/ELEC ROD CUTTER </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="60" Description="GLOBE VALVE 5K-40 40 MM 5K BRONZE 95 MM 160 MM F7301 JIS 120 MM 15 MM 4" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075114" SystemItemNo="60" MonetaryAmount="146.18" Identification="750505" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="73.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="73.09" />
+        <Comments Qualifier="LIN">
+          <value>GLOBE VALVE 5K-40 40 MM 5K BRONZE 95 MM 160 MM F7301 JIS 120 MM 15 MM 4</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="61" Description="ANGLE VALVE 5K-40 40 MM 5K BRONZE 95 MM 85 MM F7302 JIS 120 MM 15 MM 4" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075115" SystemItemNo="61" MonetaryAmount="67.56" Identification="750515" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="67.56" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="67.56" />
+        <Comments Qualifier="LIN">
+          <value>ANGLE VALVE 5K-40 40 MM 5K BRONZE 95 MM 85 MM F7302 JIS 120 MM 15 MM 4</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="62" Description="GLOBE VALVE 5K-32 32 MM 5K BRONZE 90 MM 140 MM F7301 JIS 115 MM 15 MM 4" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075116" SystemItemNo="62" MonetaryAmount="56.40" Identification="750504" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="56.4" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="56.4" />
+        <Comments Qualifier="LIN">
+          <value>GLOBE VALVE 5K-32 32 MM 5K BRONZE 90 MM 140 MM F7301 JIS 115 MM 15 MM 4</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="63" Description="HOSE BAND GALV STEEL 13-20MM " MeasureUnitQualifier="PCE" Quantity="50" TypeCode="BP" OriginatingSystemRef="20075117" SystemItemNo="63" MonetaryAmount="3.00" Identification="614053" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.06" />
+        <Comments Qualifier="LIN">
+          <value>HOSE BAND GALV STEEL 13-20MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="64" Description="TOOL WITH CARBIDE TIP SINGLE  #35-1 STRAIGHT 13X13X100MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075118" SystemItemNo="64" MonetaryAmount="6.50" Identification="632728" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.25" />
+        <Comments Qualifier="LIN">
+          <value>TOOL WITH CARBIDE TIP SINGLE  #35-1 STRAIGHT 13X13X100MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="65" Description="TOOL WITH CARBIDE TIP SINGLE  #36-1 STRAIGHT 13X13X100MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075119" SystemItemNo="65" MonetaryAmount="6.72" Identification="632735" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.36" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.36" />
+        <Comments Qualifier="LIN">
+          <value>TOOL WITH CARBIDE TIP SINGLE  #36-1 STRAIGHT 13X13X100MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="66" Description="FINISHING TOOL ANGLE 12X20MM DIN 4978-LEFT   CARBIDE TIP" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075120" SystemItemNo="66" MonetaryAmount="9.84" Identification="632747" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.92" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.92" />
+        <Comments Qualifier="LIN">
+          <value>FINISHING TOOL ANGLE 12X20MM DIN 4978-LEFT   CARBIDE TIP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="67" Description="TOOL WITH CARBIDE TIP SINGLE  #40-1 LEFT HAND 13X13X100MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075121" SystemItemNo="67" MonetaryAmount="7.20" Identification="632761" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.6" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.6" />
+        <Comments Qualifier="LIN">
+          <value>TOOL WITH CARBIDE TIP SINGLE  #40-1 LEFT HAND 13X13X100MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="68" Description="TOOL BIT PLATE CUTTING-OFF HSS 3.2X12.7X90MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075122" SystemItemNo="68" MonetaryAmount="7.88" Identification="632651" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.94" />
+        <Comments Qualifier="LIN">
+          <value>TOOL BIT PLATE CUTTING-OFF HSS 3.2X12.7X90MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="69" Description="TOOL BIT PLATE CUTTING-OFF HSS 3.2X15.9X115MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075123" SystemItemNo="69" MonetaryAmount="8.58" Identification="632652" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.29" />
+        <Comments Qualifier="LIN">
+          <value>TOOL BIT PLATE CUTTING-OFF HSS 3.2X15.9X115MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="70" Description="TOOL BIT TIP WELDED HSS #52-12 12X12X160MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075124" SystemItemNo="70" MonetaryAmount="7.88" Identification="633071" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.94" />
+        <Comments Qualifier="LIN">
+          <value>TOOL BIT TIP WELDED HSS #52-12 12X12X160MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="71" Description="TOOL BIT TIP WELDED HSS #52-16 16X16X180MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075125" SystemItemNo="71" MonetaryAmount="11.14" Identification="633072" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.57" />
+        <Comments Qualifier="LIN">
+          <value>TOOL BIT TIP WELDED HSS #52-16 16X16X180MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="72" Description="EXT.THREADING TOOL  12X12MM DIN 282R-60DEG. CARBIDE TIP" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075126" SystemItemNo="72" MonetaryAmount="8.90" Identification="633066" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.45" />
+        <Comments Qualifier="LIN">
+          <value>EXT.THREADING TOOL  12X12MM DIN 282R-60DEG. CARBIDE TIP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="73" Description="TOOL BIT TIP WELDED HSS #51-16 16X16X140MM " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075127" SystemItemNo="73" MonetaryAmount="9.96" Identification="633067" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.98" />
+        <Comments Qualifier="LIN">
+          <value>TOOL BIT TIP WELDED HSS #51-16 16X16X140MM </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="74" Description="FINISHING TOOL   16X10MM DIN 4975-80DEG. CARBIDE TIP" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075128" SystemItemNo="74" MonetaryAmount="7.48" Identification="633081" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.74" />
+        <Comments Qualifier="LIN">
+          <value>FINISHING TOOL   16X10MM DIN 4975-80DEG. CARBIDE TIP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="75" Description="RECESSING TOOL   16X16MM DIN 4976   WITH CARBIDE TIP" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075129" SystemItemNo="75" MonetaryAmount="11.74" Identification="633113" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.87" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.87" />
+        <Comments Qualifier="LIN">
+          <value>RECESSING TOOL   16X16MM DIN 4976   WITH CARBIDE TIP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="76" Description="FACING TOOL ANGLE   16X16MM DIN 4980-LEFT   CARBIDE TIP" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="20075130" SystemItemNo="76" MonetaryAmount="9.84" Identification="633093" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.92" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.92" />
+        <Comments Qualifier="LIN">
+          <value>FACING TOOL ANGLE   16X16MM DIN 4980-LEFT   CARBIDE TIP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="77" Description="SCREW PLATE SET METRIC COARSE, #OK47 M6 TO M24 22PCS/SET " MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="20075131" SystemItemNo="77" MonetaryAmount="72.38" Identification="632203" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="72.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="72.38" />
+        <Comments Qualifier="LIN">
+          <value>SCREW PLATE SET METRIC COARSE, #OK47 M6 TO M24 22PCS/SET </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="3139.930" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="3139.930" />
+    </Quote>
+  </Interchange>
+</MTML>

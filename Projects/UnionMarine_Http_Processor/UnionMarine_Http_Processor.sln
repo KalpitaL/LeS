@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionMarine_Http_Processor", "UnionMarine_Http_Processor\UnionMarine_Http_Processor.csproj", "{3CC611AF-4814-458E-BDA5-473F9A6525DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionMarine_Http_Routine", "UnionMarine_Http_Routine\UnionMarine_Http_Routine.csproj", "{DC47BE82-C250-4C70-BB1A-8C7FC93D0A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPWrapper", "HTTPWrapper\HTTPWrapper\HTTPWrapper.csproj", "{8EBDA0C2-01FA-4EF2-ADC8-07D8D70150C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPMethods", "HTTPWrapper\HTTPMethods\HTTPMethods.csproj", "{282B0E3D-1E00-45A8-8904-71DA19B3A7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeSCommonRoutines", "HTTPWrapper\LeSCommon\LeSCommonRoutines.csproj", "{1082EEA2-E32E-457F-BDDF-66B6FE813C1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC611AF-4814-458E-BDA5-473F9A6525DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC611AF-4814-458E-BDA5-473F9A6525DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC611AF-4814-458E-BDA5-473F9A6525DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC611AF-4814-458E-BDA5-473F9A6525DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC47BE82-C250-4C70-BB1A-8C7FC93D0A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC47BE82-C250-4C70-BB1A-8C7FC93D0A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC47BE82-C250-4C70-BB1A-8C7FC93D0A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC47BE82-C250-4C70-BB1A-8C7FC93D0A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBDA0C2-01FA-4EF2-ADC8-07D8D70150C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBDA0C2-01FA-4EF2-ADC8-07D8D70150C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBDA0C2-01FA-4EF2-ADC8-07D8D70150C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBDA0C2-01FA-4EF2-ADC8-07D8D70150C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282B0E3D-1E00-45A8-8904-71DA19B3A7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282B0E3D-1E00-45A8-8904-71DA19B3A7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282B0E3D-1E00-45A8-8904-71DA19B3A7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282B0E3D-1E00-45A8-8904-71DA19B3A7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1082EEA2-E32E-457F-BDDF-66B6FE813C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1082EEA2-E32E-457F-BDDF-66B6FE813C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1082EEA2-E32E-457F-BDDF-66B6FE813C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1082EEA2-E32E-457F-BDDF-66B6FE813C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

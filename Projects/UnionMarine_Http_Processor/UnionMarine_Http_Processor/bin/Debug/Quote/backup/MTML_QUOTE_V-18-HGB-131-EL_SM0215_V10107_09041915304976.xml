@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:D437111" Identifier="UNOC" Recipient="SM0215_NEKOPDF" Sender="V10107" PreparationDate="2019-Apr-09" PreparationTime="15:30" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3614" LesRecordID="11553299" LesLinkID="104385" ParentRecordID="11547100" MTML_DOCID="608906F5-0DDF-467D-A5DF-AAE3BF6DB8F6">
+    <Quote MessageReferenceNumber="RequestForQuote : V-18-HGB-131-EL" MessageNumber="V-18-HGB-131-EL" LineItemCount="1" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_1" DepartmentCode="ELECTRICAL" LeadTimeDays="0" OriginalFile="20190409091657-QUO-V-18-HGB-131-EL-0.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="True" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201904090930" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201906081530" />
+      <Comments Qualifier="SUR">
+        <value>We are unable to supply items as requested.
+
+Unable to Quote, Supplier has been declined QUOTE
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>SPARE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="V-18-HGB-131-EL" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:D437111" />
+      <Party Qualifier="UD" Identification="9368895" Name="HOEGH BRASILIA">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="CN" />
+      </Party>
+      <LineItem Number="1" Description="Heater for AIR HORN (A200ESH-B) A1 S STALESS U N" MeasureUnitQualifier="B TRUCTION A" Quantity="0" TypeCode="BP" OriginatingSystemRef="20262047" SystemItemNo="1" MonetaryAmount="0.00" Identification="50ESSH JINMANGE" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>28 /MATERIAL: 0 PCS 3 PCS STAINLESS STILL SUS321 | Heater for AIR HORN (A200ESH-B) A1 S STALESS U N | Heater for AIR HORN (A200ESH-B) A1 S STALESS U N</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="0.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="0.000" />
+    </Quote>
+  </Interchange>
+</MTML>

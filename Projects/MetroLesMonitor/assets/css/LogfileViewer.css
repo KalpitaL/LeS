@@ -1,0 +1,3 @@
+﻿   #dataGridLogFView{margin: 0 auto;width: 100%;clear: both;border-collapse: collapse;table-layout: fixed;}     
+.opentd{ background: url('../Content/themes/base/images/add.png') no-repeat center center; cursor: pointer; }
+.closetd{ background: url('../Content/themes/base/images/minus.png') no-repeat center center; cursor: pointer;}    

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<MTML VersionNumber="2.0">
+  <Interchange ControlReference="11523365" LockState="Unlocked" Recipient="V10107" Sender="SM0215" RecipientCodeQualifier="SPRC" SenderCodeQualifier="SPRC">
+    <RequestForQuote MessageReferenceNumber="11523365" contentsQualifier="ENGINE" ResponseCode="RFQAccepted" MessageNumber="V-19-RKE-035-E" FunctionCode="Original" LineItemCount="3" Subject="CHEMICAL">
+      <DateTimePeriod Qualifier="DocTimeStamp" FormatQualifier="CCYYMMDDHHmm" Value="201903130805" />
+      <DateTimePeriod Qualifier="DocExpiry" FormatQualifier="CCYYMMDDHHmm" Value="201905121405" />
+      <Comments Qualifier="Buyer">
+        <Value>Remark : PLEASE SUPPLY AT NEXT
+CONVENIENT PORT GHENT, BELGIUM
+/ NO SPARE ONBOARD
+NOTE: All Items supplied must be "Asbestos Free". A certificate to this effect will be required where applicable.
+Latest MSDS for all Chemicals/Paints/Lubs etc to be supplied wherever applicable.
+</Value>
+      </Comments>
+      <Reference Qualifier="RequestForQuoteRef" ReferenceNumber="V-19-RKE-035-E" />
+      <Reference Qualifier="QuoteRef" ReferenceNumber="" />
+      <Party Qualifier="Ship" Identification="9784362" Name="RIKKE">
+        <Contact Name="" />
+      </Party>
+      <Party Qualifier="Buyer" Name="Union Marine Management Services Pte Ltd" City="Singapore">
+        <Contact Name="" />
+      </Party>
+      <Party Qualifier="Vendor" Name="NEKO SHIP SUPPLY BV">
+        <Contact Name="">
+          <CommunicationMethod Qualifier="EM" Number="econnect@nekoship.nl" />
+        </Contact>
+      </Party>
+      <Party Qualifier="Invoicee">
+        <Contact Name="" />
+      </Party>
+      <Party Qualifier="Consignee">
+        <Contact Name="" />
+      </Party>
+      <LineItem Number="1" Description="Bioactive Powder VESSEL (TOILETS, BATHING ROOMS, KITCHEN SINKS &amp; COLLECTION LINES)" Quantity="40" MeasureUnit="GRS" Status="Original">
+        <ItemIdentification Identification="555555" TypeCode="BP" />
+        <Comments Qualifier="Buyer">
+          <Value>Bioactive Powder VESSEL (TOILETS, BATHING ROOMS, KITCHEN SINKS &amp; COLLECTION LINES)</Value>
+        </Comments>
+        <Equipment />
+      </LineItem>
+      <LineItem Number="2" Description="Sanitation A-Cleaner VESSEL (TOILETS, BATHING ROOMS, KITCHEN SINKS &amp; COLLECTION LINES)" Quantity="100" MeasureUnit="LTR" Status="Original">
+        <ItemIdentification Identification="833031a" TypeCode="BP" />
+        <Comments Qualifier="Buyer">
+          <Value>Sanitation A-Cleaner VESSEL (TOILETS, BATHING ROOMS, KITCHEN SINKS &amp; COLLECTION LINES)</Value>
+        </Comments>
+        <Equipment />
+      </LineItem>
+      <LineItem Number="3" Description="Hand Cleaner" Quantity="50" MeasureUnit="LTR" Status="Original">
+        <ItemIdentification Identification="830501" TypeCode="BP" />
+        <Comments Qualifier="Buyer">
+          <Value>Hand Cleaner</Value>
+        </Comments>
+        <Equipment />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

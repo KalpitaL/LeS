@@ -1,0 +1,9 @@
+Enclosed please find '#DOC_TYPE#' #ACTION_TYPE# by '#SENDER#'. 
+
+
+For assistance or question on this enclosure, please contact '#CONTACT_NAME#' (#CONTACT_EMAIL#) in '#SENDER#' directly. 
+
+
+Note:
+(This is an automated email sent on behalf of '#SENDER#'. Please do not reply to this email id, as the messages will not be processed.)
+

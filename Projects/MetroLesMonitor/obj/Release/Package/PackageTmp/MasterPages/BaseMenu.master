@@ -1,0 +1,124 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPages/Base.Master" AutoEventWireup="true" CodeBehind="BaseMenu.master.cs" Inherits="MetroLesMonitor.MasterPages.BaseMenu" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+     
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="detailHead" runat="server">
+</asp:Content>
+<asp:Content ID="Content5" ContentPlaceHolderID="MainContent" runat="server">  
+    <asp:ContentPlaceHolder ID="MenuContent" runat="server">      
+       
+        <div class="page-sidebar-wrapper">
+            <div class="page-sidebar navbar-collapse collapse">
+               <ul class="page-sidebar-menu" data-keep-expanded="false" data-auto-scroll="true" data-slide-speed="200">
+                    <li id="lnkHome" ><a onclick="TabClick('Home.aspx')" href="Home.aspx" class="navbar-link nav-toggle"><i class="icon-home"></i><span class="title font-title">Home</span></a></li>
+                    <li id="lnkAdaptors" ><a onclick="TabClick('Adaptors.aspx')" href="Adaptors.aspx" class="navbar-link nav-toggle"><i class="fa fa-gears"></i><span class="title font-title" style="font-size:10pt;">Adaptor Status</span></a></li>
+                    <li id="lnkSuppBuy" ><a href="javascript:;" class="navbar-link nav-toggle"><i class="icon-feed"></i><span class="title font-title">Suppliers/Buyers</span> <span class="arrow"></span></a>
+                        <ul class="sub-menu">
+                            <li id="lnkSuppliers"><a onclick="TabClick('Suppliers.aspx')" href="Suppliers.aspx"  data-transition="fade" class="navbar-link "><span id="spSupp" class="title font-title">Connected Suppliers</span> </a></li>
+                            <li id="lnkBuyers" ><a onclick="TabClick('Buyers.aspx')" href="Buyers.aspx"  data-transition="fade" class="navbar-link "><span id="spBuyer" class="title font-title">Connected Buyers</span></a></li>
+                        </ul>
+                    </li>
+                    <li id="lnkeInvoice" ><a href="javascript:;" class="navbar-link nav-toggle"><i class="icon-link"></i><span class="title font-title">eInvoice</span> <span class="arrow"></span></a>
+                        <ul class="sub-menu">
+                          <li id="lnkInvoice" ><a onclick="TabClick('eInvoice_Links.aspx')" href="eInvoice_Links.aspx" class="navbar-link nav-toggle"><span id="speInvlink" class="title font-title">eInvoice Links</span></a></li>
+                          <li id="lnkInvoicePDFCnfg" ><a onclick="TabClick('eInvoicePDFConfig.aspx')" href="eInvoicePDFConfig.aspx" class="navbar-link nav-toggle"><span  id="speInvPDFCnfg" class="title font-title">eInvoice PDF Config</span></a></li>
+                        </ul>
+                    </li>
+                    <li id="lnkGroups" ><a onclick="TabClick('Groups.aspx')" href="Groups.aspx" class="navbar-link nav-toggle"><i class="icon-users"></i><span class="title font-title">Groups</span> </a></li>
+                    <li id="lnkFormat" ><a onclick="TabClick('DocumentFormat.aspx')" href="DocumentFormat.aspx" class="navbar-link nav-toggle"><i class="fa fa-file-o"></i><span class="title font-title">Document Formats</span> </a>  </li>                   
+                    <li id="lnkRuledet" ><a href="javascript:;" class="navbar-link nav-toggle"><i class="fa fa-tasks"></i><span class="title font-title">Rules -</span> <span class="arrow"></span></a>
+                        <ul class="sub-menu">
+                            <li id="lnkRules" ><a onclick="TabClick('Rules.aspx')" href="Rules.aspx" class="navbar-link nav-toggle"><span id="spRule" class="title font-title">Rules</span></a></li>
+                            <li id="lnkDefaultRules"><a onclick="TabClick('DefaultRules.aspx')" href="DefaultRules.aspx" class="navbar-link "><span id="spDefRule" class="title font-title">Default Rules</span> </a></li>
+                            <li id="lnkLinkRules"><a onclick="TabClick('LinkRules.aspx')" href="LinkRules.aspx" class="navbar-link "><span id="spLinkRule" class="title font-title">Link Rules</span></a></li>
+                        </ul>
+                    </li>
+                    <li id="lnkMapping" ><a href="javascript:;" class="navbar-link nav-toggle"><i class="icon-pointer"></i><span class="title font-title">Mapping</span> <span class="arrow"></span></a>
+                        <ul class="sub-menu">
+                            <li id="lnkFileMapping" ><a onclick="TabClick('File_Mapping.aspx')" href="File_Mapping.aspx" class="navbar-link nav-toggle"><span id="spFilemapp" class="title">File Mapping</span></a></li>
+                            <li id="lnkXLS"><a onclick="TabClick('XLS_Buyer_Config.aspx')" href="XLS_Buyer_Config.aspx" class="navbar-link "><span id="spXLS" class="title">XLS Buyer Config</span> </a></li>
+                            <li id="lnkPDF"><a onclick="TabClick('PDF_Buyer_Config.aspx')" href="PDF_Buyer_Config.aspx" class="navbar-link "><span id="spPDF" class="title">PDF Buyer-Supp Config</span></a></li>
+                            <%--     <li id="lnkXLS"><a onclick="TabClick('XLS_Buyer_Config_MapCode.aspx')" href="XLS_Buyer_Config_MapCode.aspx" class="navbar-link "><span id="spXLS" class="title">XLS Buyer Config</span> </a></li>
+                             <li id="lnkPDF"><a onclick="TabClick('PDF_Buyer_Config_MapCode.aspx')" href="PDF_Buyer_Config_MapCode.aspx" class="navbar-link "><span id="spPDF" class="title">PDF Buyer Config</span></a></li>--%>
+                        </ul>
+                    </li>
+                    <li id="lnkAuditDet"><a href="javascript:;" class="navbar-link nav-toggle"><i class="icon-list"></i><span class="title font-title">Audit</span> <span class="arrow"></span></a>
+                        <ul class="sub-menu">
+                            <li id="lnkAuditLog"><a onclick="TabClick('AuditLog.aspx')" href="AuditLog.aspx" class="navbar-link "><span id="spAudlog" class="title font-title">Audit Log</span> </a></li>
+                            <li id="lnkFileAudit"><a onclick="TabClick('FileAudit.aspx')" href="FileAudit.aspx" class="navbar-link "><span id="spFileAud" class="title font-title">File Audit</span></a></li>
+                            <li id="lnkError"><a onclick="TabClick('Errors.aspx')" href="Errors.aspx" class="navbar-link "><span id="spError" class="title font-title">Errors</span></a></li>
+                        </ul>
+                    </li>
+                    <li id="lnkMonitor"><a href="javascript:;" class="navbar-link nav-toggle"><i class="icon-support"></i><span class="title font-title">Monitor</span> <span class="arrow"></span></a>
+                        <ul class="sub-menu">
+                            <li id="lnkFileMonitor"><a onclick="TabClick('FileMonitorSystem.aspx')" href="FileMonitorSystem.aspx" class="navbar-link "><span id="spFilemonitr" class="title font-title">File Monitor</span> </a></li>
+                            <%--<li id="lnkSupportMonitor"><a onclick="TabClick('SupportMonitor.aspx')" href="SupportMonitor.aspx" class="navbar-link "><span id="spSuppmonitr" class="title font-title">Support Monitor</span></a></li>--%>
+                        </ul>
+                    </li>
+                    <li id="lnkViewer"><a href="javascript:;" class="navbar-link nav-toggle"><i class="fa fa-files-o"></i><span class="title font-title">Viewers</span> <span class="arrow"></span></a>
+                        <ul class="sub-menu">
+                            <li id="lnkLogFileViewer"><a onclick="TabClick('LogFileViewer.aspx')" href="LogFileViewer.aspx" class="navbar-link nav-toggle"><span id="spLogFileView" class="title">Log File Viewer</span> </a></li>
+                            <li id="lnkMailQueue"><a onclick="TabClick('MailQueueViewer.aspx')" href="MailQueueViewer.aspx" class="navbar-link nav-toggle"><span id="spMailQueue" class="title">Mail Queue Viewer</span></a></li>
+                        </ul>
+                    </li>
+                    <li id="lnkFileReProcess"><a onclick="TabClick('File_Reprocess.aspx')" href="File_Reprocess.aspx" class="navbar-link nav-toggle"><i class="fa fa-repeat"></i><span class="title font-title">File Reprocessing</span></a></li>
+                    <li id="lnkOverview"><a onclick="TabClick('Overview.aspx')" href="Overview.aspx" class="navbar-link nav-toggle"  data-transition="fade"><i class="icon-eye"></i><span class="title font-title">Overview</span></a></li>
+                    <li id="lnkLoginHistory"><a onclick="TabClick('LoginHistory.aspx')" href="LoginHistory.aspx" class="navbar-link nav-toggle"><i class="fa fa-history"></i><span class="title font-title">Login History</span></a></li>
+                </ul>
+            </div>
+        </div>
+               
+    </asp:ContentPlaceHolder>
+       
+  <asp:ContentPlaceHolder ID="GridContent" runat="server">    
+     <div class="page-content-wrapper">
+       <div class="page-content">
+           <div class="page-bar" style="background-color:#F1F3FA;">          
+               <div class="col-md-6" id="divChkBox">        
+          </div> 
+               <div class="page-toolbar">
+                  <span id="lblServertime" style="font-size:12px;"></span>   
+            </div>
+           </div>
+           
+          <div class="page-head">
+                <div class="row">
+                        <div class="col-md-12" id="modheader">
+                            <div class="portlet light margin-bottom-0">
+                                <div class="portlet-title margin-bottom-0">
+                                    <div class="caption">
+                                        <i class="fa fa-cogs font-blue-chambray"></i><span class="caption-subject font-blue-chambray bold"
+                                            id="pageTitle"></span>
+                                    </div>
+                                    <div class="tools" id="toolbtngroup">
+                                        <a href="javascript:;" class="collapse" data-original-title="" title=""></a><a href="#portlet-config"
+                                            data-toggle="modal" class="config" data-original-title="" title=""></a><a href="javascript:;"
+                                                class="reload" data-original-title="" title=""></a><a href="javascript:;" class="remove"
+                                                    data-original-title="" title=""></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+
+                 <div class="row">
+                     <div class="col-md-12">
+                            <asp:ContentPlaceHolder ID="ChildGridContent" runat="server">        </asp:ContentPlaceHolder>
+                    </div>
+                 </div>
+           </div> 
+      </div>                
+          </div>
+ </asp:ContentPlaceHolder>   
+</asp:Content>
+<asp:Content ID="Content8" ContentPlaceHolderID="detailScriptContent" runat="server">
+     <asp:ContentPlaceHolder ID="childScriptHolder" runat="server">  </asp:ContentPlaceHolder>
+    <link href="../assets/Shrink/basemenu.min.css" rel="stylesheet" />
+       <script src="../assets/Login/Scripts/layout.min.js"></script>          
+       <script src="../assets/global/plugins/datatables/media/js/jquery.dataTables.min.js"></script>
+       <script src="../assets/SM/Scripts/dataTables.tableTools.min.js" type="text/javascript"></script>
+       <script src="../assets/global/plugins/datatables/extensions/FixedColumns/js/dataTables.fixedColumns.min.js"   type="text/javascript"></script>   
+    <script src="../assets/ob/obBaseMenu.js"></script>       
+         <script> jQuery(document).ready(function () { Layout.init(); BaseMenu.init(); });  </script>
+</asp:Content>
