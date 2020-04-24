@@ -1,6 +1,0 @@
-2/27/2020 3:52:14 PM ================2/27/2020 3:52:14 PM================
-2/27/2020 3:52:14 PM MTM RFQ Download HTTP processor started
-2/27/2020 3:55:54 PM LeS-1004.2:Unable to process file 200227_172037936.txt due to Invalid Link
-2/27/2020 3:55:54 PM File 200227_172037936.txt moved to error files.
-2/27/2020 3:55:54 PM MTM RFQ Download HTTP processor stopped
-2/27/2020 3:55:55 PM ====================================================

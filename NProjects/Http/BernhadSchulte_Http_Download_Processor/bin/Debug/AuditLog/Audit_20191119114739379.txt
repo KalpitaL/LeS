@@ -1,4 +1,0 @@
-||BernhardSchulte_HTTP_Downloader|||Error|19-11-19 11:47 : LeS-1004:Parameters not configuredSystem.MissingMethodException: Method not found: 'Void LeSCommon.LeSCommon.CreateAuditFile(System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String)'.
-   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.LoadAppsettings()
-   at BernhadSchulte_Http_Download_Processor.Program.ProcessUser(Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 62
-   at BernhadSchulte_Http_Download_Processor.Program.ReadConfig(String sConfigFile, Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 44

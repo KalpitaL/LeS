@@ -1,6 +1,0 @@
-2/5/2020 10:49:23 AM ================2/5/2020 10:49:23 AM================
-2/5/2020 10:49:23 AM KGJS HTTP Processor started
-2/5/2020 10:49:26 AM No file found.
-2/5/2020 10:49:28 AM Quote processing started.
-2/5/2020 10:49:28 AM 1 Quote files found to process.
-2/5/2020 10:49:38 AM Quote processing started for refno: 321-20-0031

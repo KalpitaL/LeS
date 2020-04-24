@@ -1,1 +1,0 @@
-SM0016_FUJIBVXLS|V10037|Bernhard Schulte Quote|102207_RFQ_CAB_O0064_RF19_04072019080157737.xlsm|CAB/O0064/RF19|Error|19-07-05 10:49 : E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\Quote_Upload\102207_RFQ_CAB_O0064_RF19_04072019080157737.xlsm not found in quote upload path for VRNo CAB/O0064/RF19

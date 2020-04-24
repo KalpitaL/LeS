@@ -1,1 +1,0 @@
-||Asiatic_HTTP_PO|191106_112038993.txt||Error|19-11-06 10:45 : LeS-1004:Unable to process file 191106_112038993.txt due to The remote server returned an error: (403) Forbidden.||LeS_182|SM0431_MLPDF|V10001|Http_Asiatic_Processor

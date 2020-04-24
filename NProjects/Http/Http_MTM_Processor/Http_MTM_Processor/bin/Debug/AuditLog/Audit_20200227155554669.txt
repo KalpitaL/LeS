@@ -1,1 +1,0 @@
-SM0133||MTM_HTTP_RFQ_Downloader|MTM_SHIP__SM0133__27022015555287.html||Error|20-02-27 15:55 : LeS-1004.2:Unable to process file 200227_172037936.txt due to Invalid Link

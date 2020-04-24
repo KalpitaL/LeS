@@ -1,9 +1,0 @@
-
-2018-11-24 11:21:09 : Task to perform is 'DOWNLOAD'
-2018-11-24 11:21:32 : Logging to SK Shipping website.
-2018-11-24 11:22:00 : Page Loaded - https://partner.skshipping.com/Login.aspx
-
-2018-11-24 11:22:20 : Unable to login to SK Shipping website.
-2018-11-24 11:23:01 : Exception in 'Start()' function of 'SKShipping_Routine' class - Login button does not exists.
-   at SKShipping.SKShipping_Routine.LogIn() in d:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 128
-   at SKShipping.SKShipping_Routine.Start() in d:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 50

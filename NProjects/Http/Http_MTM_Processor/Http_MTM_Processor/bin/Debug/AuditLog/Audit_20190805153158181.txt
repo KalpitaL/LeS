@@ -1,1 +1,0 @@
-SM0133|V00026|MTM_HTTP_Processor|MTM_SHIP_ErrorV00026_SM0133__05081915315789.html|MTF-8624-B1|Error|19-08-05 15:31 : Mismatch total of mtml 33640 with site total 35200.00

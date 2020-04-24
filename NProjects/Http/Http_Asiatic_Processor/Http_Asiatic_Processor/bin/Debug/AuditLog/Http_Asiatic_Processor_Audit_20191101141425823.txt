@@ -1,1 +1,0 @@
-||Asiatic_HTTP_|||Error|19-11-01 14:14 : LeS-1004:Unable to process file Vega-Reederei - VEGA Libra RfQ -10132019e-I001 (8.32 KB).msg due to RFQ Domain not found in list.||LeS_182|||Http_Asiatic_Processor

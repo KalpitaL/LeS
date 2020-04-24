@@ -1,7 +1,0 @@
-MAU/O0001/RF18|BSM (Deutschland)
-ALB/O0363/RF18|BS Cruise
-MOYR/O0151/RF18|BSM (Deutschland)
-SHO/O0131/RF18|BSM (Deutschland)
-WLE/O0186/RF18|BSM (Deutschland)
-ANGE/O0198/RF18|BSM (Deutschland)
-ANGE/O0197/RF18|BSM (Deutschland)

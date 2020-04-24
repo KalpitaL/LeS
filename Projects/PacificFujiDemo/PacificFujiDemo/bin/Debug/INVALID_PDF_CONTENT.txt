@@ -1,2 +1,0 @@
-﻿1::1:=Quotation|http://www.wilhelmsen.com/services/maritime/companies/buss/customercentre/termsandconditions
-1::1:=Order Confirmation|http://www.wilhelmsen.com/services/maritime/companies/buss/customercentre/termsandconditions

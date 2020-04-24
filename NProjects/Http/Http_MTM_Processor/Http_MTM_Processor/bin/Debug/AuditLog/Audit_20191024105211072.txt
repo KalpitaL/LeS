@@ -1,1 +1,0 @@
-SM0133|V00026|MTM_HTTP_Processor|MTM_SHIP_V00026_SM0133_CBT_5980_B1_24101910521069.png|CBT-5980-B1|Error|19-10-24 10:52 : LeS:1003-Issue after loading URL since Requested Bid [CBT-5980-B1] is not available for quotation.

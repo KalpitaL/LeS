@@ -1,8 +1,0 @@
-21-05-19 14:35:33 :    at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
-   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
-   at System.IO.Path.GetFullPathInternal(String path)
-   at System.IO.FileInfo.Init(String fileName, Boolean checkHost)
-   at System.IO.FileInfo..ctor(String fileName)
-   at MetroLesMonitor.LESMonitorPages.Errors.GetCorrectPath(String _Path, String _File) in e:\Projects\LES\MetroLesMonitor\MetroLesMonitor\LESMonitorPages\Errors.aspx.cs:line 277
-21-05-19 14:35:34 :    at MetroLesMonitor.LESMonitorPages.Errors.GetCorrectPath(String _Path, String _File) in e:\Projects\LES\MetroLesMonitor\MetroLesMonitor\LESMonitorPages\Errors.aspx.cs:line 291
-   at MetroLesMonitor.LESMonitorPages.Errors.Download(String FILENAME, String MODULE) in e:\Projects\LES\MetroLesMonitor\MetroLesMonitor\LESMonitorPages\Errors.aspx.cs:line 185

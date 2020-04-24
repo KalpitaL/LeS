@@ -1,4 +1,0 @@
-18-11-2019 16:40:35 ================18-11-2019 16:40:35================
-18-11-2019 16:40:35 Bernhard Schulte RFQ Download HTTP processor started
-18-11-2019 16:47:01 ================18-11-2019 16:47:01================
-18-11-2019 16:47:01 Bernhard Schulte RFQ Download HTTP processor started

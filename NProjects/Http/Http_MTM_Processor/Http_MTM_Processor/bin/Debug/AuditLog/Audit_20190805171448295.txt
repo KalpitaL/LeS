@@ -1,1 +1,0 @@
-SM0133|V10001|MTM_SHIP_RFQ|190805_191456842.txt|SEQ-6313-A1|Downloaded|19-08-05 17:14 : RFQ 'SEQ-6313-A1' downloaded successfully.

@@ -1,9 +1,0 @@
-
-2019-01-21 16:21:45 : Task to perform is 'DOWNLOAD'
-2019-01-21 16:21:49 : Logging to SK Shipping website.
-2019-01-21 16:22:05 : Page Loaded - https://partner.skshipping.com/Login.aspx
-2019-01-21 16:23:25 : Task to perform is 'DOWNLOAD'
-2019-01-21 16:23:28 : Logging to SK Shipping website.
-2019-01-21 16:23:33 : Page Loaded - https://partner.skshipping.com/Login.aspx
-2019-01-21 16:30:15 : Successfull login to SK Shipping website.
-2019-01-21 16:30:24 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'

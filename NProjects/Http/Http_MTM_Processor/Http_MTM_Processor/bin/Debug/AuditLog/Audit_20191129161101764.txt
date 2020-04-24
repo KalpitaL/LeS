@@ -1,1 +1,0 @@
-SM0133|V00006|MTM_HTTP_Processor|MTML_QUOTE_MHK-8637-C1_SM0133_V00006_29111910212236.xml|MHK-8637-C1|Error|19-11-29 16:11 : LeS-1008.5:Unable to save quote since quote total is zero

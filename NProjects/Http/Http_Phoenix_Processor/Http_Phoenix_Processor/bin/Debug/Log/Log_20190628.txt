@@ -1,5 +1,0 @@
-28/06/2019 15:22:12 ================28/06/2019 15:22:12================
-28/06/2019 15:22:12 Phoenix HTTP processor started
-28/06/2019 15:22:13 Phoenix Processor Started.
-28/06/2019 15:22:14 Processing File 190628_172651525.txt
-28/06/2019 15:23:56  URL : https://protect-de.mimecast.com/s/YlbwCz6rl5snPZ6CMAWCf?domain=apps.southnests.com<https://protect-de.mimecast.com/s/zC0mCA6ROosVmX4cBcSQS?domain=apc01.safelinks.protection.outlook.com

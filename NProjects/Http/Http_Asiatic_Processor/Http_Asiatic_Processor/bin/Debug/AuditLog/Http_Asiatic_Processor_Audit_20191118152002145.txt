@@ -1,1 +1,0 @@
-||Asiatic_HTTP_|||Error|19-11-18 15:20 : LeS-1004:Unable to process file 191118_173242905.msg due to Invalid URI: The URI scheme is not valid.||LeS_182|||Http_Asiatic_Processor

@@ -1,8 +1,0 @@
-11/07/2019 11:44:35 Quote processing started.
-
-11/07/2019 11:44:37 Bernhard Schulte Processor Started.
-11/07/2019 11:44:55 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
-11/07/2019 11:44:57 about:blank
-11/07/2019 11:44:57 about:blank
-11/07/2019 11:44:57 about:blank
-11/07/2019 11:47:04 Login Retry.

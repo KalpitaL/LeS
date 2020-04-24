@@ -1,1 +1,0 @@
-https://external.kgjs.no/PurchasePortal/login/token?tokenId=b1c853b1-714e-4b57-b506-0c72b6ed39b0

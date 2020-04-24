@@ -1,4 +1,0 @@
-
-2020-01-09 12:14:44 : Task to perform is 'DOWNLOAD'
-2020-01-09 12:14:49 : Logging to SK Shipping website.
-2020-01-09 12:14:57 : Page Loaded - https://partner.skshipping.com/Login.aspx

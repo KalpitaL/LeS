@@ -1,4 +1,0 @@
-﻿EQUIPMENT=txtMachinery
-EQUIPMAKER=txtMaker
-EQUIPTYPE=txtModel
-EQUIPREMARKS=txtReqVesselRemark|txtReqSiteRemark

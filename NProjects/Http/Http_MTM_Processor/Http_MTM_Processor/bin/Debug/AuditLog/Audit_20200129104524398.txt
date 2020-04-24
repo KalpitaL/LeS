@@ -1,1 +1,0 @@
-SM0133|V00026|MTM_HTTP_Quote|MTM_SHIP_V00026_SM0133_SSV_6527_B1_29012010452011.png||Error|20-01-29 10:45 : LeS-1008:Unable to save quote due to A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 119.73.211.18:80

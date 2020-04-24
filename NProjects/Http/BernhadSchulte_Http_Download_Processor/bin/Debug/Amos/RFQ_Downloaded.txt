@@ -1,6 +1,0 @@
-UAT/O0118/RF18|08-Oct-2018|Skyros|Singapore|08-Oct-2018
-EQ/SCF/JTL/0007|08-Oct-2018|Jastella|Singapore|08-Oct-2018
-LAU/O0092/RF18|08-Oct-2018|Lauren|Singapore|08-Oct-2018
-OGS/O0063/RF18|08-Oct-2018|Orkim Gas Success|Singapore|08-Oct-2018
-JUO/O0007/RF18|08-Oct-2018|CL Edi|Singapore|08-Oct-2018
-EQ/SCF/STLI/0053|08-Oct-2018|Stellar Lilac|Singapore|08-Oct-2018

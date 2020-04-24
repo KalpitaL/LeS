@@ -1,9 +1,0 @@
-D:\Working\HTTP_POST\Http_Cido_Shipping_Processor\HttpRoutines\bin\Debug\HttpRoutines.dll
-D:\Working\HTTP_POST\Http_Cido_Shipping_Processor\HttpRoutines\bin\Debug\HttpRoutines.pdb
-D:\Working\HTTP_POST\Http_Cido_Shipping_Processor\HttpRoutines\obj\Debug\HttpRoutines.dll
-D:\Working\HTTP_POST\Http_Cido_Shipping_Processor\HttpRoutines\obj\Debug\HttpRoutines.pdb
-E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Cido_Shipping_Processor\HttpRoutines\bin\Debug\HttpRoutines.dll
-E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Cido_Shipping_Processor\HttpRoutines\bin\Debug\HttpRoutines.pdb
-E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Cido_Shipping_Processor\HttpRoutines\obj\Debug\HttpRoutines.csprojResolveAssemblyReference.cache
-E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Cido_Shipping_Processor\HttpRoutines\obj\Debug\HttpRoutines.dll
-E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Cido_Shipping_Processor\HttpRoutines\obj\Debug\HttpRoutines.pdb

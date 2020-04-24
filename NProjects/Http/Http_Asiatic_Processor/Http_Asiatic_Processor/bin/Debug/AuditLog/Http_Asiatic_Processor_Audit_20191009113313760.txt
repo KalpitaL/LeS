@@ -1,1 +1,0 @@
-||PT_ShipManagement_HTTP_RFQ|191007_021439755.txt||Error|19-10-09 11:33 : Exception while processing RFQ -191007_021439755.msg: The remote server returned an error: (404) Not Found.||LeS_182|SM3141_WEB|V10001|Http_Asiatic_Processor

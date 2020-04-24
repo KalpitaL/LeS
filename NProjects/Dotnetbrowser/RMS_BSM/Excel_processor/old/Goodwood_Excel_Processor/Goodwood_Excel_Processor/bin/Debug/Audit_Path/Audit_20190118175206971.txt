@@ -1,1 +1,0 @@
-||BSM_Special_Excel|104241_RFQ_AVY_O0016_RF19_14012019080114264.xlsm||Error|19-01-18 17:52 : Error on ReadConfigFile : Error on Loading Invoice Config file : The 'RFQ_MAPPINGS' start tag on line 3 position 2 does not match the end tag of 'HEADER_MAPPINGS'. Line 15, position 179.

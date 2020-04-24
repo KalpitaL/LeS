@@ -1,1 +1,0 @@
-SM0133|V00026|MTM_HTTP_Processor|MTM_SHIP_V00026_SM0133_CBJ_8040_B1_24101910512723.png|CBJ-8040-B1|Error|19-10-24 10:51 : LeS:1003-Issue after loading URL since Requested Bid [CBJ-8040-B1] is not available for quotation.

@@ -1,1 +1,0 @@
-SM0133||MTM_HTTP_Processor|MTM_SHIP__SM0133__08022010281868.html||Error|20-02-08 10:28 : LeS-1004.2:Unable to process file 200206_160244160.txt due to Invalid Link

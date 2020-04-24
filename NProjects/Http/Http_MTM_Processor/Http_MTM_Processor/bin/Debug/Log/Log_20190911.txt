@@ -1,9 +1,0 @@
-11/09/2019 12:33:56 ================11/09/2019 12:33:56================
-11/09/2019 12:33:56 MTM RFQ Download HTTP processor started
-11/09/2019 12:34:03 No RFQ Found !
-11/09/2019 12:34:05 Started Loading interchange object.
-11/09/2019 12:34:13 stopped Loading interchange object.
-11/09/2019 12:34:25 Processing quote started for ref no: BEL-6169-C1
-11/09/2019 12:34:40 Currency saved.
-11/09/2019 12:35:09 Item Details saved.
-11/09/2019 12:35:47 Header details saved.
