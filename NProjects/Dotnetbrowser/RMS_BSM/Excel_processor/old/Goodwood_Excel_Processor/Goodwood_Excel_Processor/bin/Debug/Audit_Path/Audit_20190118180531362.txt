@@ -1,0 +1,1 @@
+SM0015_FUJIBVXLS||BSM_Special_Excel|104241_RFQ_AVY_O0016_RF19_14012019080114264.xlsm|AVY/O0016/RF19|Error|19-01-18 18:05 : Unable to create MTML file for Buyer Ref 'AVY/O0016/RF19' as Recipient is blank.

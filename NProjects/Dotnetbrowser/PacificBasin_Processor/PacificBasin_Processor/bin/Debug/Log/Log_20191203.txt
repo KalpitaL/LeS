@@ -1,0 +1,177 @@
+12/3/2019 11:25:18 AM ================12/3/2019 11:25:18 AM================
+12/3/2019 11:25:18 AM DNVGL RFQ,PO,Quote,POC processor started
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM RFQ processing started.
+12/3/2019 11:25:21 AM No file found.
+12/3/2019 11:25:21 AM RFQ processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Quote processing started.
+12/3/2019 11:25:21 AM No Quote files found to process.
+12/3/2019 11:25:21 AM Quote processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Buyer: EIMSKIP ISLAND EHF
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM RFQ processing started.
+12/3/2019 11:25:21 AM No file found.
+12/3/2019 11:25:21 AM RFQ processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Quote processing started.
+12/3/2019 11:25:21 AM No Quote files found to process.
+12/3/2019 11:25:21 AM Quote processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Buyer: Sea Consortium Pte. Ltd.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM RFQ processing started.
+12/3/2019 11:25:21 AM No file found.
+12/3/2019 11:25:21 AM RFQ processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Purchase Order processing started.
+12/3/2019 11:25:21 AM Purchase Order processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Quote processing started.
+12/3/2019 11:25:21 AM No Quote files found to process.
+12/3/2019 11:25:21 AM Quote processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM POC processing started.
+12/3/2019 11:25:21 AM No POC files found to process.
+12/3/2019 11:25:21 AM POC processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Buyer: Norbulk Shipping UK Ltd
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM RFQ processing started.
+12/3/2019 11:25:21 AM No file found.
+12/3/2019 11:25:21 AM RFQ processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Purchase Order processing started.
+12/3/2019 11:25:21 AM Purchase Order processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Quote processing started.
+12/3/2019 11:25:21 AM No Quote files found to process.
+12/3/2019 11:25:21 AM Quote processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM POC processing started.
+12/3/2019 11:25:21 AM No POC files found to process.
+12/3/2019 11:25:21 AM POC processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Buyer: Kopping Reederei GmbH & Co. KG
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Quote processing started.
+12/3/2019 11:25:21 AM No Quote files found to process.
+12/3/2019 11:25:21 AM Quote processing stopped.
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Buyer: Pacific Basin Shipping Ltd
+12/3/2019 11:25:21 AM 
+12/3/2019 11:25:21 AM Quote processing started.
+12/3/2019 11:25:21 AM No Quote files found to process.
+12/3/2019 11:25:21 AM Quote processing stopped.
+12/3/2019 11:25:23 AM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/3/2019 11:25:24 AM ====================================================
+12/3/2019 2:20:55 PM ================12/3/2019 2:20:55 PM================
+12/3/2019 2:20:56 PM DNVGL RFQ,PO,Quote,POC processor started
+12/3/2019 2:21:11 PM 
+12/3/2019 2:21:11 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/3/2019 2:21:11 PM 
+12/3/2019 2:21:11 PM RFQ processing started.
+12/3/2019 2:21:11 PM No file found.
+12/3/2019 2:21:11 PM RFQ processing stopped.
+12/3/2019 2:21:13 PM 
+12/3/2019 2:21:13 PM Quote processing started.
+12/3/2019 2:21:45 PM Started Loading interchange object.
+12/3/2019 2:21:45 PM stopped Loading interchange object.
+12/3/2019 2:21:49 PM 1 files found to process.
+12/3/2019 2:21:51 PM Started Loading interchange object.
+12/3/2019 2:21:51 PM stopped Loading interchange object.
+12/3/2019 2:21:54 PM 'MTML_QUOTE_XPNUP-2019-ST0061-B(01)_SM0668_V10001_03121915485034.xml' Quote file processing started.
+12/3/2019 2:21:55 PM about:blank
+12/3/2019 2:22:11 PM Login Successfully.
+12/3/2019 2:22:30 PM Currency USD set successfully
+12/3/2019 2:22:30 PM Supplier Ref S104511 set successfully
+12/3/2019 2:24:32 PM Supplier Remarks set successfully
+12/3/2019 2:26:16 PM ================12/3/2019 2:26:16 PM================
+12/3/2019 2:26:16 PM DNVGL RFQ,PO,Quote,POC processor started
+12/3/2019 2:26:17 PM 
+12/3/2019 2:26:17 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/3/2019 2:26:17 PM 
+12/3/2019 2:26:17 PM RFQ processing started.
+12/3/2019 2:26:17 PM No file found.
+12/3/2019 2:26:17 PM RFQ processing stopped.
+12/3/2019 2:26:18 PM 
+12/3/2019 2:26:18 PM Quote processing started.
+12/3/2019 2:26:18 PM Started Loading interchange object.
+12/3/2019 2:26:25 PM stopped Loading interchange object.
+12/3/2019 2:26:25 PM 1 files found to process.
+12/3/2019 2:26:26 PM Started Loading interchange object.
+12/3/2019 2:26:27 PM stopped Loading interchange object.
+12/3/2019 2:26:27 PM 'MTML_QUOTE_XPNUP-2019-ST0061-B(01)_SM0668_V10001_03121915485034.xml' Quote file processing started.
+12/3/2019 2:26:27 PM about:blank
+12/3/2019 2:26:41 PM Login Successfully.
+12/3/2019 2:26:42 PM Currency USD set successfully
+12/3/2019 2:26:43 PM Supplier Ref S104511 set successfully
+12/3/2019 2:28:44 PM Supplier Remarks set successfully
+12/3/2019 2:37:44 PM ================12/3/2019 2:37:44 PM================
+12/3/2019 2:37:44 PM DNVGL RFQ,PO,Quote,POC processor started
+12/3/2019 2:37:45 PM 
+12/3/2019 2:37:45 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/3/2019 2:37:45 PM 
+12/3/2019 2:37:45 PM RFQ processing started.
+12/3/2019 2:37:45 PM No file found.
+12/3/2019 2:37:45 PM RFQ processing stopped.
+12/3/2019 2:37:45 PM 
+12/3/2019 2:37:45 PM Quote processing started.
+12/3/2019 2:37:45 PM Started Loading interchange object.
+12/3/2019 2:37:47 PM stopped Loading interchange object.
+12/3/2019 2:37:47 PM 1 files found to process.
+12/3/2019 2:37:47 PM Started Loading interchange object.
+12/3/2019 2:37:49 PM stopped Loading interchange object.
+12/3/2019 2:37:49 PM 'MTML_QUOTE_XPNUP-2019-ST0061-B(01)_SM0668_V10001_03121915485034.xml' Quote file processing started.
+12/3/2019 2:37:49 PM about:blank
+12/3/2019 2:38:03 PM Login Successfully.
+12/3/2019 2:38:04 PM Currency USD set successfully
+12/3/2019 2:38:05 PM Supplier Ref S104511 set successfully
+12/3/2019 2:40:05 PM Supplier Remarks set successfully
+12/3/2019 4:27:29 PM ================12/3/2019 4:27:29 PM================
+12/3/2019 4:27:29 PM DNVGL RFQ,PO,Quote,POC processor started
+12/3/2019 4:27:30 PM 
+12/3/2019 4:27:30 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/3/2019 4:27:30 PM 
+12/3/2019 4:27:30 PM RFQ processing started.
+12/3/2019 4:27:30 PM No file found.
+12/3/2019 4:27:30 PM RFQ processing stopped.
+12/3/2019 4:27:31 PM 
+12/3/2019 4:27:31 PM Quote processing started.
+12/3/2019 4:27:31 PM Started Loading interchange object.
+12/3/2019 4:27:37 PM stopped Loading interchange object.
+12/3/2019 4:27:37 PM 1 files found to process.
+12/3/2019 4:27:38 PM Started Loading interchange object.
+12/3/2019 4:27:39 PM stopped Loading interchange object.
+12/3/2019 4:27:39 PM 'MTML_QUOTE_240-2019-ST0023-O(01)_SM0372_V10107_03121917425000.xml' Quote file processing started.
+12/3/2019 4:27:39 PM about:blank
+12/3/2019 4:28:01 PM Login Successfully.
+12/3/2019 4:28:41 PM Currency EUR set successfully
+12/3/2019 4:28:44 PM Supplier Ref Quote:8814688-1 set successfully
+12/3/2019 4:33:35 PM ================12/3/2019 4:33:35 PM================
+12/3/2019 4:33:35 PM DNVGL RFQ,PO,Quote,POC processor started
+12/3/2019 4:33:35 PM 
+12/3/2019 4:33:35 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/3/2019 4:33:35 PM 
+12/3/2019 4:33:35 PM RFQ processing started.
+12/3/2019 4:33:35 PM No file found.
+12/3/2019 4:33:35 PM RFQ processing stopped.
+12/3/2019 4:33:36 PM 
+12/3/2019 4:33:36 PM Quote processing started.
+12/3/2019 4:33:36 PM Started Loading interchange object.
+12/3/2019 4:33:39 PM stopped Loading interchange object.
+12/3/2019 4:33:39 PM 1 files found to process.
+12/3/2019 4:33:40 PM Started Loading interchange object.
+12/3/2019 4:33:40 PM stopped Loading interchange object.
+12/3/2019 4:33:40 PM 'MTML_QUOTE_240-2019-ST0023-O(01)_SM0372_V10107_03121917425000.xml' Quote file processing started.
+12/3/2019 4:33:40 PM about:blank
+12/3/2019 4:33:54 PM Login Successfully.
+12/3/2019 4:34:02 PM Currency EUR set successfully
+12/3/2019 4:34:04 PM Supplier Ref Quote:8814688-1 set successfully
+12/3/2019 4:34:09 PM Supplier Remarks set successfully
+12/3/2019 4:34:12 PM Validity Offer set successfully
+12/3/2019 4:34:24 PM Start Filling LineItem details
+12/3/2019 4:35:46 PM Delivery Time (Days) set successfully

@@ -1,0 +1,60 @@
+31/07/2019 16:53:22 ====================================================
+31/07/2019 16:53:22 Http Cido Shipping processor started at 31/07/2019 16:53:22
+31/07/2019 16:53:22 Loading AppSettings
+31/07/2019 16:53:22 Login process started
+31/07/2019 16:53:24 Logged in successfully.
+31/07/2019 16:53:24 RFQ processing started.
+31/07/2019 16:53:32 Start Getting Header details
+31/07/2019 16:53:32 Getting Header details completed successfully.
+31/07/2019 16:53:32 Start Getting LineItem details
+31/07/2019 16:53:32 Getting LineItem details successfully
+31/07/2019 16:53:32 Start Getting address details
+31/07/2019 16:53:32 Getting address details successfully
+31/07/2019 16:53:38 RFQ GRMA-1907-0018-02 downloaded successfully.
+31/07/2019 16:53:59 Start Getting Header details
+31/07/2019 16:53:59 Getting Header details completed successfully.
+31/07/2019 16:54:01 Start Getting LineItem details
+31/07/2019 16:54:01 Getting LineItem details successfully
+31/07/2019 16:54:01 Start Getting address details
+31/07/2019 16:54:01 Getting address details successfully
+31/07/2019 16:54:01 RFQ GRDU-1907-0030-01 downloaded successfully.
+31/07/2019 16:54:50 ====================================================
+31/07/2019 16:54:50 Http Cido Shipping processor started at 31/07/2019 16:54:50
+31/07/2019 16:54:50 Loading AppSettings
+31/07/2019 16:54:50 Login process started
+31/07/2019 16:54:52 Logged in successfully.
+31/07/2019 16:54:52 RFQ processing started.
+31/07/2019 16:54:57 Start Getting Header details
+31/07/2019 16:54:57 Getting Header details completed successfully.
+31/07/2019 16:54:57 Start Getting LineItem details
+31/07/2019 16:54:57 Getting LineItem details successfully
+31/07/2019 16:54:57 Start Getting address details
+31/07/2019 16:54:57 Getting address details successfully
+31/07/2019 16:55:14 ====================================================
+31/07/2019 16:55:14 Http Cido Shipping processor started at 31/07/2019 16:55:14
+31/07/2019 16:55:14 Loading AppSettings
+31/07/2019 16:55:14 Login process started
+31/07/2019 16:55:16 Logged in successfully.
+31/07/2019 16:55:16 RFQ processing started.
+31/07/2019 16:55:21 Start Getting Header details
+31/07/2019 16:55:21 Getting Header details completed successfully.
+31/07/2019 16:55:21 Start Getting LineItem details
+31/07/2019 16:55:21 Getting LineItem details successfully
+31/07/2019 16:55:21 Start Getting address details
+31/07/2019 16:55:21 Getting address details successfully
+31/07/2019 17:01:37 ====================================================
+31/07/2019 17:01:37 Http Cido Shipping processor started at 31/07/2019 17:01:37
+31/07/2019 17:01:37 Loading AppSettings
+31/07/2019 17:01:37 Login process started
+31/07/2019 17:01:39 Logged in successfully.
+31/07/2019 17:01:39 RFQ processing started.
+31/07/2019 17:02:01 ====================================================
+31/07/2019 17:02:01 Http Cido Shipping processor started at 31/07/2019 17:02:01
+31/07/2019 17:02:01 Loading AppSettings
+31/07/2019 17:02:01 Login process started
+31/07/2019 17:02:03 Logged in successfully.
+31/07/2019 17:02:03 Quote processing started.
+31/07/2019 17:02:10 1 Quote files found to process.
+31/07/2019 17:02:13 'MTML_QUOTE_GRDI-1907-0012-01_SM0645_V00026_31071918241559.xml' Quote file processing started.
+31/07/2019 17:02:14 Started Loading interchange object.
+31/07/2019 17:02:22 stopped Loading interchange object.

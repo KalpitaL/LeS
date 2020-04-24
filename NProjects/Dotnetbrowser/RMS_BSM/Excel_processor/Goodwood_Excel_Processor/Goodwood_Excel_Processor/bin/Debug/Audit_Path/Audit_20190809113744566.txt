@@ -1,0 +1,1 @@
+||BSM_Special_Excel|91000012_RFQ_SSA_O0176_RF19_09082019122420276.xlsm|RFQ No.|Error|19-08-09 11:37 : Unable to get item details : Error : Error on Get_Item_Details : Unable to get value for mandatory field QTY

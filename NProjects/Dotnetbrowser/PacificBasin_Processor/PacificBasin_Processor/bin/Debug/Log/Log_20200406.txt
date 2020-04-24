@@ -1,0 +1,146 @@
+4/6/2020 5:08:44 PM 4/6/2020 5:07:36 PM
+4/6/2020 5:09:05 PM ================4/6/2020 5:09:05 PM================
+4/6/2020 5:09:06 PM DNVGL RFQ,PO,Quote,POC processor started
+4/6/2020 5:09:08 PM 
+4/6/2020 5:09:08 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+4/6/2020 5:09:08 PM 
+4/6/2020 5:09:08 PM RFQ processing started.
+4/6/2020 5:09:08 PM No file found.
+4/6/2020 5:09:08 PM RFQ processing stopped.
+4/6/2020 5:09:12 PM 
+4/6/2020 5:09:12 PM Quote processing started.
+4/6/2020 5:09:12 PM No Quote files found to process.
+4/6/2020 5:09:12 PM Quote processing stopped.
+4/6/2020 5:09:13 PM 
+4/6/2020 5:09:13 PM Buyer: EIMSKIP ISLAND EHF
+4/6/2020 5:09:13 PM 
+4/6/2020 5:09:13 PM RFQ processing started.
+4/6/2020 5:09:13 PM No file found.
+4/6/2020 5:09:13 PM RFQ processing stopped.
+4/6/2020 5:09:14 PM 
+4/6/2020 5:09:14 PM Quote processing started.
+4/6/2020 5:09:14 PM No Quote files found to process.
+4/6/2020 5:09:14 PM Quote processing stopped.
+4/6/2020 5:09:15 PM 
+4/6/2020 5:09:15 PM Buyer: Sea Consortium Pte. Ltd.
+4/6/2020 5:09:15 PM 
+4/6/2020 5:09:15 PM RFQ processing started.
+4/6/2020 5:09:15 PM No file found.
+4/6/2020 5:09:15 PM RFQ processing stopped.
+4/6/2020 5:09:16 PM 
+4/6/2020 5:09:16 PM Purchase Order processing started.
+4/6/2020 5:09:16 PM No PO files found to process.
+4/6/2020 5:09:16 PM Purchase Order processing stopped.
+4/6/2020 5:09:17 PM 
+4/6/2020 5:09:17 PM Quote processing started.
+4/6/2020 5:09:17 PM No Quote files found to process.
+4/6/2020 5:09:17 PM Quote processing stopped.
+4/6/2020 5:09:17 PM 
+4/6/2020 5:09:17 PM POC processing started.
+4/6/2020 5:09:17 PM No POC files found to process.
+4/6/2020 5:09:17 PM POC processing stopped.
+4/6/2020 5:09:18 PM 
+4/6/2020 5:09:18 PM Buyer: Norbulk Shipping UK Ltd
+4/6/2020 5:09:18 PM 
+4/6/2020 5:09:18 PM RFQ processing started.
+4/6/2020 5:09:18 PM No file found.
+4/6/2020 5:09:18 PM RFQ processing stopped.
+4/6/2020 5:09:18 PM 
+4/6/2020 5:09:18 PM Purchase Order processing started.
+4/6/2020 5:09:18 PM No PO files found to process.
+4/6/2020 5:09:18 PM Purchase Order processing stopped.
+4/6/2020 5:09:19 PM 
+4/6/2020 5:09:19 PM Quote processing started.
+4/6/2020 5:09:19 PM No Quote files found to process.
+4/6/2020 5:09:19 PM Quote processing stopped.
+4/6/2020 5:09:19 PM 
+4/6/2020 5:09:19 PM POC processing started.
+4/6/2020 5:09:19 PM No POC files found to process.
+4/6/2020 5:09:19 PM POC processing stopped.
+4/6/2020 5:09:20 PM 
+4/6/2020 5:09:20 PM Buyer: Kopping Reederei GmbH & Co. KG
+4/6/2020 5:09:22 PM 
+4/6/2020 5:09:22 PM Quote processing started.
+4/6/2020 5:09:22 PM No Quote files found to process.
+4/6/2020 5:09:22 PM Quote processing stopped.
+4/6/2020 5:09:22 PM 
+4/6/2020 5:09:22 PM Buyer: Pacific Basin Shipping Ltd
+4/6/2020 5:09:30 PM 
+4/6/2020 5:09:30 PM Quote processing started.
+4/6/2020 5:09:30 PM No Quote files found to process.
+4/6/2020 5:09:30 PM Quote processing stopped.
+4/6/2020 5:09:32 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+4/6/2020 5:09:32 PM ====================================================
+4/6/2020 5:10:19 PM 4/6/2020 5:09:33 PM
+4/6/2020 5:10:19 PM ================4/6/2020 5:10:19 PM================
+4/6/2020 5:10:19 PM DNVGL RFQ,PO,Quote,POC processor started
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM RFQ processing started.
+4/6/2020 5:10:19 PM No file found.
+4/6/2020 5:10:19 PM RFQ processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Quote processing started.
+4/6/2020 5:10:19 PM No Quote files found to process.
+4/6/2020 5:10:19 PM Quote processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Buyer: EIMSKIP ISLAND EHF
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM RFQ processing started.
+4/6/2020 5:10:19 PM No file found.
+4/6/2020 5:10:19 PM RFQ processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Quote processing started.
+4/6/2020 5:10:19 PM No Quote files found to process.
+4/6/2020 5:10:19 PM Quote processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Buyer: Sea Consortium Pte. Ltd.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM RFQ processing started.
+4/6/2020 5:10:19 PM No file found.
+4/6/2020 5:10:19 PM RFQ processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Purchase Order processing started.
+4/6/2020 5:10:19 PM No PO files found to process.
+4/6/2020 5:10:19 PM Purchase Order processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Quote processing started.
+4/6/2020 5:10:19 PM No Quote files found to process.
+4/6/2020 5:10:19 PM Quote processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM POC processing started.
+4/6/2020 5:10:19 PM No POC files found to process.
+4/6/2020 5:10:19 PM POC processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Buyer: Norbulk Shipping UK Ltd
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM RFQ processing started.
+4/6/2020 5:10:19 PM No file found.
+4/6/2020 5:10:19 PM RFQ processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Purchase Order processing started.
+4/6/2020 5:10:19 PM No PO files found to process.
+4/6/2020 5:10:19 PM Purchase Order processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Quote processing started.
+4/6/2020 5:10:19 PM No Quote files found to process.
+4/6/2020 5:10:19 PM Quote processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM POC processing started.
+4/6/2020 5:10:19 PM No POC files found to process.
+4/6/2020 5:10:19 PM POC processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Buyer: Kopping Reederei GmbH & Co. KG
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Quote processing started.
+4/6/2020 5:10:19 PM No Quote files found to process.
+4/6/2020 5:10:19 PM Quote processing stopped.
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Buyer: Pacific Basin Shipping Ltd
+4/6/2020 5:10:19 PM 
+4/6/2020 5:10:19 PM Quote processing started.
+4/6/2020 5:10:19 PM No Quote files found to process.
+4/6/2020 5:10:20 PM Quote processing stopped.
+4/6/2020 5:10:20 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+4/6/2020 5:10:20 PM ====================================================

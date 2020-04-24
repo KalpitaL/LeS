@@ -1,0 +1,1106 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="BJD200113225131LET" Identifier="UNOC" Recipient="SM0017_XLS" Sender="V10205" PreparationDate="2020-Jan-15" PreparationTime="10:43" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="9" LesRecordID="915119" LesLinkID="9200153" ParentRecordID="913031" MTML_DOCID="292EFFDC-D35A-4AD5-8A07-0BBC1DC8C9F3">
+    <Quote MessageReferenceNumber="9200153_RFQ_HYN_O0006_RF20_13012020103045623.xlsm" MessageNumber="9200153_RFQ_HYN_O0006_RF20_13012020103045623.xlsm" LineItemCount="98" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" LeadTimeDays="3" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="1389.54" BuyerQuoteTotal="1389.54">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202001151043" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="202001180000" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202002140000" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Date promised : 2020-01-18
+Quote validity : 2020-02-14
+Item Added - 95.10 : SLING NYLON BELT TYPE WITH, FURTHER DETAIL (with Certificate) | Ref.No.:232191 | QTY : 2 | UOM : PCS | Price : 5.74 USD | Remarks : 2T 50MM*3M
+ Item Total : 1373.08</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="HYN/O0006/RF20" />
+      <Reference Qualifier="AAG" ReferenceNumber="BJD200113225131LET" />
+      <Party Qualifier="UD" Name="Haydn">
+        <PartyLocation Qualifier="TBA" Port="SHANGHAI" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Identification="SM0017_XLS" Name="Bernhard Schulte Shipmanagement (Deutschland) GmbH &amp; Co. KG">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V10205" Name="RMS MARINE SERVICE COMPANY LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="mt@rmsmarineservice.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="LUBRICANT WD-40 SPRAY 360ML | Ref.No.:450702 | Ref.No.:450702" MeasureUnitQualifier="TIN" Quantity="6" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="11.82" Identification="450702" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="1.97" BuyerItemTotal="11.82" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.97" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.97" />
+        <Comments Qualifier="LIN">
+          <value>HAOSHUN</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="PADLOCK BRASS 50MM WITH 2KEYS | Ref.No.:490505 | Ref.No.:490505" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="3.44" Identification="490505" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.72" BuyerItemTotal="3.44" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.72" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="BRUSH PAINT ROUND 50MM DIAM | Ref.No.:510138 | Ref.No.:510138" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="22" MonetaryAmount="3.40" Identification="510138" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.34" BuyerItemTotal="3.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.34" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.34" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="REPLACEABLE HEAD FOR YACHT MOP | Ref.No.:174272 | Ref.No.:174272" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="23" MonetaryAmount="8.30" Identification="174272" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.83" BuyerItemTotal="8.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.83" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.83" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="BROOM CORN LONG HANDLED | Ref.No.:510801 | Ref.No.:510801" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="24" MonetaryAmount="16.80" Identification="510801" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.68" BuyerItemTotal="16.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="CUTTER TUBING QUICK ACTING, RIDGID #151 6-42MM CAPACITY | Ref.No.:616760 | Ref.No.:616760" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="25" MonetaryAmount="2.00" Identification="616760" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2" BuyerItemTotal="2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="SPARE CARTRIDGE FOR GAS TORCH | Ref.No.:617017 | Ref.No.:617017" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="26" MonetaryAmount="5.88" Identification="617017" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.47" BuyerItemTotal="5.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.47" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.47" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="SAW HAND WESTERN TYPE 500MM | Ref.No.:613402 | Ref.No.:613402" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="27" MonetaryAmount="1.29" Identification="613402" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.29" BuyerItemTotal="1.29" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.29" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="OIL SYRINGE BRASS 200 CC | Ref.No.:617716 | Ref.No.:617716" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="28" MonetaryAmount="5.73" Identification="617716" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="5.73" BuyerItemTotal="5.73" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.73" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.73" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="DRILL H.S.S. STRAIGHT SHANK, TWIST 4.0MM | Ref.No.:630138 | Ref.No.:630138" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="29" MonetaryAmount="1.56" Identification="630138" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.26" BuyerItemTotal="1.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.26" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.26" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="DRILL H.S.S. STRAIGHT SHANK, TWIST 5.0MM | Ref.No.:630148 | Ref.No.:630148" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="30" MonetaryAmount="1.80" Identification="630148" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.36" BuyerItemTotal="1.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.36" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.36" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="JIG SAW ELECTRIC 60MM AC220V 1-PHASE | Ref.No.:591172 | Ref.No.:591172" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="12" SystemItemNo="31" MonetaryAmount="32.45" Identification="591172" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="32.45" BuyerItemTotal="32.45" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="32.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="32.45" />
+        <Comments Qualifier="LIN">
+          <value>KENPO 220V 60MM 550W 50/60HZ</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="SPARE BLADE #1 WOOD, FOR ELEC. JIGSAW 5PCS/PKT | Ref.No.:591173 | Ref.No.:591173" MeasureUnitQualifier="PKT" Quantity="1" TypeCode="BP" OriginatingSystemRef="13" SystemItemNo="32" MonetaryAmount="1.40" Identification="591173" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.4" BuyerItemTotal="1.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.4" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.4" />
+        <Comments Qualifier="LIN">
+          <value>5PCS/PKT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="SPARE BLADE #2 WOOD/PLASTIC, H. RUBBER FOR ELEC. JIGSAW 5'S | Ref.No.:591174 | Ref.No.:591174" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="14" SystemItemNo="33" MonetaryAmount="6.90" Identification="591174" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="6.9" BuyerItemTotal="6.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.9" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.9" />
+        <Comments Qualifier="LIN">
+          <value>BOSCH 5PCS/PKT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="HEX HEAD BOLT/NUT STEEL UNGALV, M8 X 20MM | Ref.No.:691137 | Ref.No.:691137" MeasureUnitQualifier="SET" Quantity="100" TypeCode="BP" OriginatingSystemRef="15" SystemItemNo="34" MonetaryAmount="3.00" Identification="691137" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="0.03" BuyerItemTotal="3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.03" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.03" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="BRUSH WIRE CUP OD50MM, WITH 6MM ARBOR | Ref.No.:510787 | Ref.No.:510787" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="16" SystemItemNo="35" MonetaryAmount="5.00" Identification="510787" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.5" BuyerItemTotal="5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="WRENCH OPEN &amp; 12-POINT BOX, 17MM | Ref.No.:610771 | Ref.No.:610771" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="17" SystemItemNo="36" MonetaryAmount="2.00" Identification="610771" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1" BuyerItemTotal="2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="WRENCH OPEN &amp; 12-POINT BOX, 19MM | Ref.No.:610772 | Ref.No.:610772" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="18" SystemItemNo="37" MonetaryAmount="2.34" Identification="610772" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.17" BuyerItemTotal="2.34" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.17" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.17" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="WRENCH OPEN &amp; 12-POINT BOX, 13MM | Ref.No.:610768 | Ref.No.:610768" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="19" SystemItemNo="38" MonetaryAmount="1.44" Identification="610768" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.72" BuyerItemTotal="1.44" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.72" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="JOINT SHEET EXPANDED GRAPHITE, NOVAPHIT SSTC 2.0X1000X1000MM | Ref.No.:811288 | Ref.No.:811288" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="20" SystemItemNo="39" MonetaryAmount="32.91" Identification="811288" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="32.91" BuyerItemTotal="32.91" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="32.91" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="32.91" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="WENCON PIPE TAPE QUICK CURE, #1045 5X150CM 5UNIT/SET | Ref.No.:812344 | Ref.No.:812344" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="21" SystemItemNo="40" MonetaryAmount="16.25" Identification="812344" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="16.25" BuyerItemTotal="16.25" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="16.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="16.25" />
+        <Comments Qualifier="LIN">
+          <value>HOLDENBOND</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="TAPE SEAL TEFLON, 0.1X13MMX5MTR | Ref.No.:812501 | Ref.No.:812501" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="22" SystemItemNo="41" MonetaryAmount="1.80" Identification="812501" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.18" BuyerItemTotal="1.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.18" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="GLUE GENERAL PURPOSE 150GRM | Ref.No.:812702 | Ref.No.:812702" MeasureUnitQualifier="TUB" Quantity="6" TypeCode="BP" OriginatingSystemRef="23" SystemItemNo="42" MonetaryAmount="7.20" Identification="812702" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="TUB" Supp_UOM="TUB" Supp_Price="1.2" BuyerItemTotal="7.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="AIR FILTER 10X1600MM | Ref.No.:813101 | Ref.No.:813101" MeasureUnitQualifier="MTR" Quantity="25" TypeCode="BP" OriginatingSystemRef="24" SystemItemNo="43" MonetaryAmount="24.50" Identification="813101" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="25" Supp_Qty="25" Byr_UOM="MTR" Supp_UOM="MTR" Supp_Price="0.98" BuyerItemTotal="24.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.98" />
+        <Comments Qualifier="LIN">
+          <value>20MTR/ROLL,NO CUT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="RAG PAPER ROLL A-TORK 2PLY, 290MMX240MTR 4ROLLS/BOX | Ref.No.:232921 | Ref.No.:232921" MeasureUnitQualifier="BOX" Quantity="2" TypeCode="BP" OriginatingSystemRef="25" SystemItemNo="44" MonetaryAmount="60.56" Identification="232921" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="BOX" Supp_UOM="BOX" Supp_Price="30.28" BuyerItemTotal="60.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="30.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="30.28" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="PLASTIC BAG TRANSPARENT, 250X350MM 50'S | Ref.No.:174171 | Ref.No.:174171" MeasureUnitQualifier="PKT" Quantity="10" TypeCode="BP" OriginatingSystemRef="26" SystemItemNo="45" MonetaryAmount="4.90" Identification="174171" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.49" BuyerItemTotal="4.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.49" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="RAG COTTON 100% STERILIZED, WHITE | Ref.No.:232907 | Ref.No.:232907" MeasureUnitQualifier="KGS" Quantity="100" TypeCode="BP" OriginatingSystemRef="27" SystemItemNo="46" MonetaryAmount="106.00" Identification="232907" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="KGS" Supp_UOM="KGS" Supp_Price="1.06" BuyerItemTotal="106" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.06" />
+        <Comments Qualifier="LIN">
+          <value>25KG/PKT 90%-COTTON,NO LOOSE</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="BALL VALVE DIN FORGED BRASS, FULL BORE SCREWED #1607 1/4 | Ref.No.:756601 | Ref.No.:756601" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="28" SystemItemNo="47" MonetaryAmount="3.12" Identification="756601" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.56" BuyerItemTotal="3.12" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.56" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.56" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="BALL VALVE DIN FORGED BRASS, FULL BORE SCREWED #1607 1/2 | Ref.No.:756603 | Ref.No.:756603" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="29" SystemItemNo="48" MonetaryAmount="4.40" Identification="756603" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.2" BuyerItemTotal="4.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="VACUUM CLEANER PNEUMATIC BLOBAC CLEANER MODEL V-300 | Ref.No.:590721 | Ref.No.:590721" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="30" SystemItemNo="49" MonetaryAmount="39.30" Identification="590721" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="39.3" BuyerItemTotal="39.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="39.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="39.3" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="BOX/100 RINGTERM 1,0-2,6   M8 | Ref.No.:KERGER 342322 | Ref.No.:KERGER 342322" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="31" SystemItemNo="50" MonetaryAmount="2.00" Identification="KERGER 342322" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2" BuyerItemTotal="2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="32" Description="BOX/50 RINGTERM 2,7-6,6   M6 | Ref.No.:KERGER 342330 | Ref.No.:KERGER 342330" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="32" SystemItemNo="51" MonetaryAmount="7.00" Identification="KERGER 342330" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="7" BuyerItemTotal="7" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="33" Description="DESK LAMP E27 | Ref.No.:KERGER 682320 | Ref.No.:KERGER 682320" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="33" SystemItemNo="52" MonetaryAmount="38.52" Identification="KERGER 682320" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="19.26" BuyerItemTotal="38.52" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="19.26" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="19.26" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="34" Description="ELBOW-HINGE LUMINAIRES E27LAMPHOLDER, DESK MOUNTING | Ref.No.:KERGER 682302 | Ref.No.:KERGER 682302" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="34" SystemItemNo="53" MonetaryAmount="57.78" Identification="KERGER 682302" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="19.26" BuyerItemTotal="57.78" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="19.26" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="19.26" />
+        <Comments Qualifier="LIN">
+          <value>SAME AS ABV</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="35" Description="FLUSH MOUNTING TUMBLER SWITCHDP 10AMP ON-OFF | Ref.No.:KERGER 383578 | Ref.No.:KERGER 383578" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="35" SystemItemNo="54" MonetaryAmount="4.35" Identification="KERGER 383578" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.87" BuyerItemTotal="4.35" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.87" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.87" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="36" Description="SURFACE MOUNTING SWITCHTWO-CIRCUIT | Ref.No.:KERGER 382128 | Ref.No.:KERGER 382128" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="36" SystemItemNo="55" MonetaryAmount="0.00" Identification="KERGER 382128" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>NOT AVAILABLE</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="37" Description="LONG NOSE PLIERS BENT 200MMINSULATED | Ref.No.:KERGER 365414 | Ref.No.:KERGER 365414" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="37" SystemItemNo="56" MonetaryAmount="1.32" Identification="KERGER 365414" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.32" BuyerItemTotal="1.32" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.32" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="38" Description="BOX/100 RINGTERM 1,0-2,6  M5 | Ref.No.:KERGER 342318 | Ref.No.:KERGER 342318" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="38" SystemItemNo="57" MonetaryAmount="0.04" Identification="KERGER 342318" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.04" BuyerItemTotal="0.04" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.04" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.04" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="39" Description="LAMPHOLDER W/0 STARTERH. R78 | Ref.No.:KERGER 123244 | Ref.No.:KERGER 123244" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="39" SystemItemNo="58" MonetaryAmount="61.00" Identification="KERGER 123244" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.61" BuyerItemTotal="61" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.61" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="40" Description="RECHARGEABLE FLASHLIGHT LED 5WWITH LITHIUM BATTERY AND CHARGER 110/240VAC | Ref.No.:KERGER 202187 | Ref.No.:KERGER 202187" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="40" SystemItemNo="59" MonetaryAmount="20.52" Identification="KERGER 202187" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="10.26" BuyerItemTotal="20.52" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.26" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.26" />
+        <Comments Qualifier="LIN">
+          <value>SMOOTH SEA</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="41" Description="HALOGENLAMP 230V 230W R7S 118MM | Ref.No.:KERGER 108457 | Ref.No.:KERGER 108457" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="41" SystemItemNo="60" MonetaryAmount="49.00" Identification="KERGER 108457" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.49" BuyerItemTotal="49" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.49" />
+        <Comments Qualifier="LIN">
+          <value>220V 300W R7S 10*118MM</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="42" Description="LED GLS 9,5W E27 230V WW 810LMOPAL 60 X 115MM | Ref.No.:KERGER 122323 | Ref.No.:KERGER 122323" MeasureUnitQualifier="PCS" Quantity="36" TypeCode="BP" OriginatingSystemRef="42" SystemItemNo="61" MonetaryAmount="62.64" Identification="KERGER 122323" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="36" Supp_Qty="36" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.74" BuyerItemTotal="62.64" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.74" />
+        <Comments Qualifier="LIN">
+          <value>3U</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="43" Description="TABLE RECEPTACLE 4-WAY 2-PWITH 3 MTRS CABLE | Ref.No.:KERGER 386564 | Ref.No.:KERGER 386564" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="43" SystemItemNo="62" MonetaryAmount="11.80" Identification="KERGER 386564" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="5.9" BuyerItemTotal="11.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.9" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.9" />
+        <Comments Qualifier="LIN">
+          <value>RECEPTACLE 8WAYS EUROPEAN PLUG 2 ROUND PINS WITH 3MTR CORD</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="44" Description="TAPE PVC INSULATION 19MMX20MTR (BLACK) | Ref.No.:795431 | Ref.No.:795431" MeasureUnitQualifier="SPL" Quantity="6" TypeCode="BP" OriginatingSystemRef="44" SystemItemNo="63" MonetaryAmount="1.08" Identification="795431" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="SPL" Supp_UOM="SPL" Supp_Price="0.18" BuyerItemTotal="1.08" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.18" />
+        <Comments Qualifier="LIN">
+          <value>19MM*10M</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="45" Description="CABLE BAND PLASTIC 100MM | Ref.No.:794851 | Ref.No.:794851" MeasureUnitQualifier="PCS" Quantity="300" TypeCode="BP" OriginatingSystemRef="45" SystemItemNo="64" MonetaryAmount="3.00" Identification="794851" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="300" Supp_Qty="300" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.01" BuyerItemTotal="3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.01" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.01" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="46" Description="CABLE BAND PLASTIC 200MM | Ref.No.:794853 | Ref.No.:794853" MeasureUnitQualifier="PCS" Quantity="200" TypeCode="BP" OriginatingSystemRef="46" SystemItemNo="65" MonetaryAmount="2.00" Identification="794853" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="200" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.01" BuyerItemTotal="2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.01" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.01" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="47" Description="CABLE BAND PLASTIC 300MM | Ref.No.:794855 | Ref.No.:794855" MeasureUnitQualifier="PCS" Quantity="200" TypeCode="BP" OriginatingSystemRef="47" SystemItemNo="66" MonetaryAmount="4.00" Identification="794855" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="200" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.02" BuyerItemTotal="4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.02" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.02" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="48" Description="BATTERY ALKALINE LR6(AM-3), 1.5V | Ref.No.:792423 | Ref.No.:792423" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="48" SystemItemNo="67" MonetaryAmount="6.50" Identification="792423" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.13" BuyerItemTotal="6.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="49" Description="BATTERY ALKALINE LR03(AM-4), 1.5V | Ref.No.:792424 | Ref.No.:792424" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="49" SystemItemNo="68" MonetaryAmount="5.00" Identification="792424" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.1" BuyerItemTotal="5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="50" Description="BATTERY DRY LANTERN 6V, SPRING TYPE | Ref.No.:792435 | Ref.No.:792435" MeasureUnitQualifier="PCS" Quantity="30" TypeCode="BP" OriginatingSystemRef="50" SystemItemNo="69" MonetaryAmount="37.50" Identification="792435" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="30" Supp_Qty="30" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.25" BuyerItemTotal="37.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.25" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="51" Description="LAMP PILOT TUBULAR CLEAR BA-9S, 28V 1W 10X28MM | Ref.No.:790693 | Ref.No.:790693" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="51" SystemItemNo="70" MonetaryAmount="10.00" Identification="790693" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.1" BuyerItemTotal="10" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="52" Description="INTERIOR FOR 3PIN RECEPTACLE HNA-TYPE | Ref.No.:792892 | Ref.No.:792892" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="52" SystemItemNo="71" MonetaryAmount="7.85" Identification="792892" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.57" BuyerItemTotal="7.85" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.57" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="53" Description="INTERIOR FOR 3PIN PLUG, HNA-TYPE | Ref.No.:792891 | Ref.No.:792891" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="53" SystemItemNo="72" MonetaryAmount="3.84" Identification="792891" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.28" BuyerItemTotal="3.84" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.28" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="54" Description="PLUG WATERTIGHT 3PIN TYPE HNA, SYNTHETIC RESIN | Ref.No.:792881 | Ref.No.:792881" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="54" SystemItemNo="73" MonetaryAmount="10.60" Identification="792881" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.12" BuyerItemTotal="10.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.12" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="55" Description="SWITCH SNAP TYPE 125V 5A, 2-POLE 2-THROW | Ref.No.:793007 | Ref.No.:793007" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="55" SystemItemNo="74" MonetaryAmount="9.00" Identification="793007" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.9" BuyerItemTotal="9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.9" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.9" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="56" Description="LAMP HOLDER PORCELAIN TUBULAR TE-39 | Ref.No.:793509 | Ref.No.:793509" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="56" SystemItemNo="75" MonetaryAmount="8.70" Identification="793509" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.87" BuyerItemTotal="8.7" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.87" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.87" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="57" Description="FUSE GLASS TUBE TYPE 250V, 4AMP DIA6.35XL30MM | Ref.No.:793652 | Ref.No.:793652" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="57" SystemItemNo="76" MonetaryAmount="2.50" Identification="793652" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.05" BuyerItemTotal="2.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="58" Description="CABLE SHOE CLAMPING TYPE R-TG, NOMINAL SIZE 2.0-5 | Ref.No.:794705 | Ref.No.:794705" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="58" SystemItemNo="77" MonetaryAmount="4.00" Identification="794705" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.04" BuyerItemTotal="4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.04" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.04" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="59" Description="PLIER SNIPE NOSE BAHCO, #2427G-200 190MM | Ref.No.:616228 | Ref.No.:616228" MeasureUnitQualifier="PRS" Quantity="1" TypeCode="BP" OriginatingSystemRef="59" SystemItemNo="78" MonetaryAmount="1.32" Identification="616228" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="1.32" BuyerItemTotal="1.32" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.32" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="60" Description="LAMP HALOGEN TUNGSTEN R7S CAP BASE 220V 500W | Ref.No.:791263 | Ref.No.:791263" MeasureUnitQualifier="PCS" Quantity="200" TypeCode="BP" OriginatingSystemRef="60" SystemItemNo="79" MonetaryAmount="90.00" Identification="791263" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="200" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.45" BuyerItemTotal="90" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.45" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="61" Description="STARTER FOR FL LAMP FG-1P | Ref.No.:791504 | Ref.No.:791504" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="61" SystemItemNo="80" MonetaryAmount="6.00" Identification="791504" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.12" BuyerItemTotal="6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.12" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="62" Description="STARTER FOR FL LAMP FG-4P | Ref.No.:791505 | Ref.No.:791505" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="62" SystemItemNo="81" MonetaryAmount="6.00" Identification="791505" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.12" BuyerItemTotal="6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.12" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="63" Description="LAMP HALOGEN TUBULAR SHAPE E-39 SCREW BASE 230V 500W | Ref.No.:791272 | Ref.No.:791272" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="63" SystemItemNo="82" MonetaryAmount="18.30" Identification="791272" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.83" BuyerItemTotal="18.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.83" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.83" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="64" Description="LAMP FLUORESCENT COOL WHITE FL-40SS/37 37W 28X1198MM | Ref.No.:791418 | Ref.No.:791418" MeasureUnitQualifier="PCS" Quantity="150" TypeCode="BP" OriginatingSystemRef="64" SystemItemNo="83" MonetaryAmount="88.50" Identification="791418" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="150" Supp_Qty="150" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.59" BuyerItemTotal="88.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.59" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.59" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="65" Description="PLUG ADAPTOR 2-FLAT PIN PLUG &amp; 2-ROUND PIN RECEPTACLE | Ref.No.:792961 | Ref.No.:792961" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="65" SystemItemNo="84" MonetaryAmount="1.38" Identification="792961" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.23" BuyerItemTotal="1.38" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.23" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.23" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="66" Description="STUD WHOLE THREADED STEEL M8 X PITCH1.25 1000MM | Ref.No.:692025 | Ref.No.:692025" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="66" SystemItemNo="85" MonetaryAmount="0.82" Identification="692025" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.41" BuyerItemTotal="0.82" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.41" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.41" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="67" Description="STUD WHOLE THREADED STEEL M10 X PITCH1.5 1000MM | Ref.No.:692026 | Ref.No.:692026" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="67" SystemItemNo="86" MonetaryAmount="1.22" Identification="692026" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.61" BuyerItemTotal="1.22" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.61" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="68" Description="STUD WHOLE THREADED STEEL M12 X PITCH1.75 1000MM | Ref.No.:692027 | Ref.No.:692027" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="68" SystemItemNo="87" MonetaryAmount="1.62" Identification="692027" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.81" BuyerItemTotal="1.62" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.81" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.81" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="69" Description="STUD WHOLE THREADED STEEL M16 X PITCH2.0 1000MM | Ref.No.:692029 | Ref.No.:692029" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="69" SystemItemNo="88" MonetaryAmount="3.24" Identification="692029" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.62" BuyerItemTotal="3.24" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.62" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="70" Description="STUD WHOLE THREADED STEEL, M20 X PITCH2.5 1000MM | Ref.No.:692031 | Ref.No.:692031" MeasureUnitQualifier="SET" Quantity="2" TypeCode="BP" OriginatingSystemRef="70" SystemItemNo="89" MonetaryAmount="6.28" Identification="692031" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="3.14" BuyerItemTotal="6.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.14" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.14" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="71" Description="SILICONE GASKET 300CC | Ref.No.:812672 | Ref.No.:812672" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="71" SystemItemNo="90" MonetaryAmount="28.50" Identification="812672" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.85" BuyerItemTotal="28.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.85" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="72" Description="HOSE BAND GALVD STEEL, 15-24MM | Ref.No.:614054 | Ref.No.:614054" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="72" SystemItemNo="91" MonetaryAmount="0.60" Identification="614054" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.06" BuyerItemTotal="0.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.06" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="73" Description="HOSE BAND GALVD STEEL,  22-32MM | Ref.No.:614055 | Ref.No.:614055" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="73" SystemItemNo="92" MonetaryAmount="0.60" Identification="614055" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.06" BuyerItemTotal="0.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.06" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="74" Description="HOSE BAND GALVD STEEL,  32-44MM | Ref.No.:614056 | Ref.No.:614056" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="74" SystemItemNo="93" MonetaryAmount="0.70" Identification="614056" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.07" BuyerItemTotal="0.7" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.07" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.07" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="75" Description="HOSE BAND GALVD STEEL, 46-56MM | Ref.No.:614057 | Ref.No.:614057" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="75" SystemItemNo="94" MonetaryAmount="0.90" Identification="614057" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.09" BuyerItemTotal="0.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.09" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="76" Description="HOSE BAND GALVD STEEL, 58-75MM | Ref.No.:614058 | Ref.No.:614058" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="76" SystemItemNo="95" MonetaryAmount="0.90" Identification="614058" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.09" BuyerItemTotal="0.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.09" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="77" Description="HOIST CHAIN SPUR-GEAR 1TON, 2.5MTR (cert!) | Ref.No.:615007 | Ref.No.:615007" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="77" SystemItemNo="96" MonetaryAmount="34.74" Identification="615007" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="34.74" BuyerItemTotal="34.74" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="34.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="34.74" />
+        <Comments Qualifier="LIN">
+          <value>MILL CERT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="78" Description="HOIST CHAIN SPUR-GEAR 2TON, 3MTR (cert!) | Ref.No.:615009 | Ref.No.:615009" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="78" SystemItemNo="97" MonetaryAmount="48.91" Identification="615009" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="48.91" BuyerItemTotal="48.91" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="48.91" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="48.91" />
+        <Comments Qualifier="LIN">
+          <value>MILL CERT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="79" Description="STEP DRILL #ST-1 4-12MM | Ref.No.:633801 | Ref.No.:633801" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="79" SystemItemNo="98" MonetaryAmount="5.99" Identification="633801" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="5.99" BuyerItemTotal="5.99" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.99" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="80" Description="WRENCH STRAP RIDGID #5, STRAP-WIDTH 1-3/4 | Ref.No.:616578 | Ref.No.:616578" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="80" SystemItemNo="99" MonetaryAmount="2.95" Identification="616578" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.95" BuyerItemTotal="2.95" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.95" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.95" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="81" Description="WHEEL MOUNTED SHAPE-A26, 16X16X40MM SHAFT DIAM 6MM | Ref.No.:614590 | Ref.No.:614590" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="81" SystemItemNo="100" MonetaryAmount="0.80" Identification="614590" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.16" BuyerItemTotal="0.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.16" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="82" Description="WHEEL MOUNTED SHAPE-W, 16X25X40MM SHAFT DIAM 6MM | Ref.No.:614566 | Ref.No.:614566" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="82" SystemItemNo="101" MonetaryAmount="0.80" Identification="614566" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.16" BuyerItemTotal="0.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.16" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="83" Description="BRUSH WIRE WHEEL OD50MM, WITH 6MM ARBOR | Ref.No.:510786 | Ref.No.:510786" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="83" SystemItemNo="102" MonetaryAmount="8.00" Identification="510786" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.4" BuyerItemTotal="8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.4" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.4" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="84" Description="WRENCH ADJUSTABLE HEAVY-DUTY, 450MM | Ref.No.:611337 | Ref.No.:611337" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="84" SystemItemNo="103" MonetaryAmount="15.18" Identification="611337" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="15.18" BuyerItemTotal="15.18" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="15.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="15.18" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="85" Description="HAMMER BLACKSMITH DOUBLE FACE, WITH HANDLE NO.6 (2.7KGS) | Ref.No.:612525 | Ref.No.:612525" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="85" SystemItemNo="104" MonetaryAmount="4.99" Identification="612525" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="4.99" BuyerItemTotal="4.99" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.99" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="86" Description="PLIER STOP RING STRAIGHT, INTERNAL 19-65MM | Ref.No.:611823 | Ref.No.:611823" MeasureUnitQualifier="PRS" Quantity="1" TypeCode="BP" OriginatingSystemRef="86" SystemItemNo="105" MonetaryAmount="2.66" Identification="611823" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="2.66" BuyerItemTotal="2.66" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.66" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.66" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="87" Description="Gloves working cotton ordinary gloves | Ref.No.:190101 | Ref.No.:190101" MeasureUnitQualifier="DOZ" Quantity="10" TypeCode="BP" OriginatingSystemRef="87" SystemItemNo="106" MonetaryAmount="16.80" Identification="190101" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="DOZ" Supp_UOM="DOZ" Supp_Price="1.68" BuyerItemTotal="16.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="88" Description="EMERY TAPE ABRASIVE, 50MMX36.5MTR GRIT #80 | Ref.No.:614729 | Ref.No.:614729" MeasureUnitQualifier="LGH" Quantity="2" TypeCode="BP" OriginatingSystemRef="88" SystemItemNo="107" MonetaryAmount="13.76" Identification="614729" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="LGH" Supp_UOM="LGH" Supp_Price="6.88" BuyerItemTotal="13.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="89" Description="EMERY TAPE ABRASIVE, 50MMX36.5MTR GRIT #120 | Ref.No.:614731 | Ref.No.:614731" MeasureUnitQualifier="RLS" Quantity="2" TypeCode="BP" OriginatingSystemRef="89" SystemItemNo="108" MonetaryAmount="13.76" Identification="614731" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="RLS" Supp_UOM="RLS" Supp_Price="6.88" BuyerItemTotal="13.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="90" Description="EMERY TAPE ABRASIVE, 50MMX36.5MTR GRIT #320 | Ref.No.:614735 | Ref.No.:614735" MeasureUnitQualifier="RLS" Quantity="2" TypeCode="BP" OriginatingSystemRef="90" SystemItemNo="109" MonetaryAmount="13.76" Identification="614735" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="RLS" Supp_UOM="RLS" Supp_Price="6.88" BuyerItemTotal="13.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="91" Description="ENGINE CLEANING GUN KINKI K-65 FOR TIP ID 1.4MM W/1.5MTR HOSE | Ref.No.:270602 | Ref.No.:270602" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="91" SystemItemNo="110" MonetaryAmount="6.22" Identification="270602" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="6.22" BuyerItemTotal="6.22" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.22" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="92" Description="CRC 2-26 ELECTRICAL INDUSTRY FORMULA 16OZ | Ref.No.:450591 | Ref.No.:450591" MeasureUnitQualifier="TIN" Quantity="5" TypeCode="BP" OriginatingSystemRef="92" SystemItemNo="111" MonetaryAmount="27.80" Identification="450591" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="5.56" BuyerItemTotal="27.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.56" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.56" />
+        <Comments Qualifier="LIN">
+          <value>CRC</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="93" Description="DIAL GAUGE STAND MAGNETIC BASE,UNIVERSAL | Ref.No.:651427 | Ref.No.:651427" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="93" SystemItemNo="112" MonetaryAmount="10.81" Identification="651427" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="10.81" BuyerItemTotal="10.81" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.81" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.81" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="94" Description="AIR DUSTER KINKI K-601-1 NOZZLE DIA 2MMXL100MM | Ref.No.:270612 | Ref.No.:270612" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="94" SystemItemNo="113" MonetaryAmount="5.90" Identification="270612" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.95" BuyerItemTotal="5.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.95" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.95" />
+        <Comments Qualifier="LIN">
+          <value>D2MM*L300MM</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="95" Description="SLING NYLON BELT TYPE WITH, FURTHER DETAIL (with Certificate) | Ref.No.:232191 | Ref.No.:232191" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="95" SystemItemNo="114" MonetaryAmount="32.92" Identification="232191" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.49" BuyerItemTotal="32.92" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.23" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.23" />
+        <Comments Qualifier="LIN">
+          <value>2T 50MM*1M
+95.10 2T 50MM*3M | Price-5.74</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="96" Description="SHACKLE BOW EYE BOLT GALV, JIS-M-BC 18MM SWL 2.0TON | Ref.No.:233967 | Ref.No.:233967" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="96" SystemItemNo="115" MonetaryAmount="6.68" Identification="233967" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.67" BuyerItemTotal="6.68" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.67" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="97" Description="SHACKLE STRAIGHT EYE BOLT, GALV JIS-M-SD 22MM SWL 2.0TON | Ref.No.:233843 | Ref.No.:233843" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="97" SystemItemNo="116" MonetaryAmount="6.28" Identification="233843" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.57" BuyerItemTotal="6.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.57" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="98" Description="SHAKLE BOW EYE BOLT GALV, JIS-BC 14MM SWL 1.2TON | Ref.No.:231455 | Ref.No.:231455" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="98" SystemItemNo="117" MonetaryAmount="3.92" Identification="231455" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.98" BuyerItemTotal="3.92" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.98" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1373.080" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1373.080" />
+      <MonetaryAmount Qualifier="_90" Value="1389.540" />
+      <MonetaryAmount Qualifier="_91" Value="1361.600" />
+    </Quote>
+  </Interchange>
+</MTML>

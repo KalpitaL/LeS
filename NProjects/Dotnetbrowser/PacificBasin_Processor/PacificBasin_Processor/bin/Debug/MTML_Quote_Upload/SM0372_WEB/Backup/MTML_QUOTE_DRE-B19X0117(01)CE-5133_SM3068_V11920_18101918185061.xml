@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="" Identifier="UNOC" Recipient="SM3068_WEB" Sender="V11920" PreparationDate="2019-Oct-18" PreparationTime="18:18" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3666" LesRecordID="11784953" LesLinkID="104517" MTML_DOCID="ED49AF8D-12D7-45AE-8CEB-E7B1D25523CF">
+    <Quote MessageReferenceNumber="DRE-B19X0117(01)CE-5133" MessageNumber="https://supplierportal.dnvgl.com/#/wgAGE4mdMrZrZYeZqLWo/1|oqzpWbe" LineItemCount="31" VersionNumber="1" LeadTimeDays="0" BuyerRefNo="DRE-B19X0117(01)CE-5133" OriginalFile="QUOTE_DRE-B19X0117(01)CE-5133_191018_14340116.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="0" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="500.13" BuyerQuoteTotal="500.13">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201910181818" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>Electrical consumable</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="DRE-B19X0117(01)CE-5133" />
+      <Reference Qualifier="AAG" ReferenceNumber="" />
+      <Party Qualifier="BY" Name="Kopping Reederei GmbH &amp; Co. KG">
+        <Contact Name="Birte Kremser">
+          <CommunicationMethod Qualifier="TE" Number="+49-(0)4331-8466-49" />
+          <CommunicationMethod Qualifier="EM" Number="purchase@kship.de" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Gimas Ship Supply &amp; Services B.V.">
+        <Contact>
+          <CommunicationMethod Qualifier="EM" Number="rotterdam@gimas.com" />
+        </Contact>
+        <StreetAddress>Jan van Galenstraat 9,Schiedam,NETHERLANDS,3115 JG</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="Dream">
+        <PartyLocation Qualifier="ZUC" Berth="ROTTERDAM   NETHERLANDS" Port="ROTTERDAM " />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Batterie R06 (AA)" MeasureUnitQualifier="PCE" Quantity="60" TypeCode="BP" OriginatingSystemRef="016/01186/2019" SystemItemNo="1" MonetaryAmount="7.80" Identification="IMPA 79 24 23" IsExtraItem="0" ItemStatus="Original" Byr_Qty="60" Supp_Qty="60" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="0.13" BuyerItemTotal="7.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.13" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 60 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Batterie R03 (AAA)" MeasureUnitQualifier="PCE" Quantity="30" TypeCode="BP" OriginatingSystemRef="016/01187/2019" SystemItemNo="2" MonetaryAmount="3.90" Identification="IMPA 79 24 24" IsExtraItem="0" ItemStatus="Original" Byr_Qty="30" Supp_Qty="30" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="0.13" BuyerItemTotal="3.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.13" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 30 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="Fluorescent lamp (warm white) G13, 18W, 26x590mm" MeasureUnitQualifier="PCE" Quantity="50" TypeCode="BP" OriginatingSystemRef="016/01188/2019" SystemItemNo="3" MonetaryAmount="25.50" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="0.51" BuyerItemTotal="25.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.51" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.51" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 50 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="Fluorescent lamp (cool white) G13, 18W, 26x590mm" MeasureUnitQualifier="PCE" Quantity="50" TypeCode="BP" OriginatingSystemRef="016/01189/2019" SystemItemNo="4" MonetaryAmount="26.50" Identification="IMPA 79 14 12" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="26.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 50 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="Fluorescent lamp (daylight) G5, 8W, 16x255mm" MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="016/01190/2019" SystemItemNo="5" MonetaryAmount="4.90" Identification="IMPA 79 14 23" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="0.49" BuyerItemTotal="4.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.49" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="LED Bulb (E27, 240V, 8W)" MeasureUnitQualifier="PCE" Quantity="20" TypeCode="BP" OriginatingSystemRef="016/01191/2019" SystemItemNo="6" MonetaryAmount="99.80" Identification="IMPA 79 02 65" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="4.99" BuyerItemTotal="99.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.99" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 20 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="LED Bulb (E27, 240V, 12W)" MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="016/01192/2019" SystemItemNo="7" MonetaryAmount="49.90" Identification="IMPA 79 02 68" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="4.99" BuyerItemTotal="49.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.99" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="LED Bulb (E27, 240V, 15W)" MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="016/01193/2019" SystemItemNo="8" MonetaryAmount="49.90" Identification="IMPA 79 02 68" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="4.99" BuyerItemTotal="49.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.99" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="Indicator lamp (E10, 6V, 2W)" MeasureUnitQualifier="PCE" Quantity="10" TypeCode="BP" OriginatingSystemRef="016/01194/2019" SystemItemNo="9" MonetaryAmount="1.80" Identification="IMPA 79 05 14" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="0.18" BuyerItemTotal="1.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.18" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="Starter for fluorescent lamp" MeasureUnitQualifier="PCE" Quantity="25" TypeCode="BP" OriginatingSystemRef="016/01195/2019" SystemItemNo="10" MonetaryAmount="2.50" Identification="Philips S2 (4-22W)" IsExtraItem="0" ItemStatus="Original" Byr_Qty="25" Supp_Qty="25" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="0.1" BuyerItemTotal="2.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.1" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 25 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="Glass fuses, quick (32x6,3mm, 10pcs.), 4,0A" MeasureUnitQualifier="PK" Quantity="10" TypeCode="BP" OriginatingSystemRef="016/01196/2019" SystemItemNo="11" MonetaryAmount="0.80" Identification="IMPA 79 36 52" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PK" Supp_UOM="PCS" Supp_Price="0.08" BuyerItemTotal="0.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.08" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.08" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="Glass fuses, quick (25x5mm, 10pcs.), 4,0A" MeasureUnitQualifier="PK" Quantity="10" TypeCode="BP" OriginatingSystemRef="016/01197/2019" SystemItemNo="12" MonetaryAmount="17.00" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PK" Supp_UOM="PCS" Supp_Price="1.7" BuyerItemTotal="17" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.7" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.7" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="Schuko socket (plastic, white)" MeasureUnitQualifier="PCE" Quantity="5" TypeCode="BP" OriginatingSystemRef="016/01198/2019" SystemItemNo="13" MonetaryAmount="15.00" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="3" BuyerItemTotal="15" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="Schuko socket board (white, 6x), 1,5m cable" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="016/01199/2019" SystemItemNo="14" MonetaryAmount="9.50" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCE" Supp_UOM="PCS" Supp_Price="4.75" BuyerItemTotal="9.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.75" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="PVC-Marine cable (unshielded), MPRX 3x2,5mm2" MeasureUnitQualifier="MTR" Quantity="25" TypeCode="BP" OriginatingSystemRef="016/01200/2019" SystemItemNo="15" MonetaryAmount="27.50" Identification="IMPA 79 41 78" IsExtraItem="0" ItemStatus="Original" Byr_Qty="25" Supp_Qty="25" Byr_UOM="MTR" Supp_UOM="MTR" Supp_Price="1.1" BuyerItemTotal="27.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="PVC-Marine cable (unshielded), MPRX 3x1,5mm2" MeasureUnitQualifier="MTR" Quantity="15" TypeCode="BP" OriginatingSystemRef="016/01201/2019" SystemItemNo="16" MonetaryAmount="10.35" Identification="IMPA 79 41 77" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="MTR" Supp_UOM="MTR" Supp_Price="0.69" BuyerItemTotal="10.35" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.69" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="Cable tie (white, 100pcs.) 200x3,6mm" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="016/01202/2019" SystemItemNo="17" MonetaryAmount="2.00" Identification="IMPA 79 48 57" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PK" Supp_UOM="PCS" Supp_Price="2" BuyerItemTotal="2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="Cable tie (black, 100pcs.) 290x3,6mm" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="016/01203/2019" SystemItemNo="18" MonetaryAmount="2.00" Identification="IMPA 79 48 59" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PK" Supp_UOM="PCS" Supp_Price="2" BuyerItemTotal="2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="Cable tie (white, 100pcs.) 360x4,8mm" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="016/01204/2019" SystemItemNo="19" MonetaryAmount="3.13" Identification="IMPA 79 48 60" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PK" Supp_UOM="PCS" Supp_Price="3.13" BuyerItemTotal="3.13" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.13" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="Cable tie (white, 100pcs.) 395x7,0mm" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="016/01205/2019" SystemItemNo="20" MonetaryAmount="8.38" Identification="IMPA 79 48 69" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PK" Supp_UOM="PCS" Supp_Price="8.38" BuyerItemTotal="8.38" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.38" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="Set of Crimp terminals (core cable end)" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="016/01206/2019" SystemItemNo="21" MonetaryAmount="23.31" Identification="Kloska: 424034605" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PK" Supp_UOM="PCS" Supp_Price="23.31" BuyerItemTotal="23.31" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="23.31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="23.31" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="Heat shrink tube 19,0-11,4mm" MeasureUnitQualifier="MTR" Quantity="2" TypeCode="BP" OriginatingSystemRef="016/01207/2019" SystemItemNo="22" MonetaryAmount="2.28" Identification="IMPA 79 54 96" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="MTR" Supp_UOM="PCS" Supp_Price="1.14" BuyerItemTotal="2.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.14" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.14" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="Heat shrink tube 12,7-6,4mm" MeasureUnitQualifier="MTR" Quantity="2" TypeCode="BP" OriginatingSystemRef="016/01208/2019" SystemItemNo="23" MonetaryAmount="1.16" Identification="IMPA 79 54 96" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="MTR" Supp_UOM="PCS" Supp_Price="0.58" BuyerItemTotal="1.16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.58" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="Heat shrink tube 25,4-12,7mm" MeasureUnitQualifier="MTR" Quantity="2" TypeCode="BP" OriginatingSystemRef="016/01209/2019" SystemItemNo="24" MonetaryAmount="3.00" Identification="IMPA 79 54 96" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="MTR" Supp_UOM="PCS" Supp_Price="1.5" BuyerItemTotal="3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.5" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="Heat shrink tube 40,0-12,0mm" MeasureUnitQualifier="MTR" Quantity="2" TypeCode="BP" OriginatingSystemRef="016/01210/2019" SystemItemNo="25" MonetaryAmount="30.76" Identification="IMPA 79 54 96" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="MTR" Supp_UOM="PCS" Supp_Price="15.38" BuyerItemTotal="30.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="15.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="15.38" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="Heat shrink tube 54,0-18,0mm" MeasureUnitQualifier="MTR" Quantity="2" TypeCode="BP" OriginatingSystemRef="016/01211/2019" SystemItemNo="26" MonetaryAmount="44.62" Identification="IMPA 79 54 96" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="MTR" Supp_UOM="PCS" Supp_Price="22.31" BuyerItemTotal="44.62" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="22.31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="22.31" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="Electrical insulation tape (blue)" MeasureUnitQualifier="NRL" Quantity="10" TypeCode="BP" OriginatingSystemRef="016/01212/2019" SystemItemNo="27" MonetaryAmount="3.80" Identification="IMPA 79 54 33" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="NRL" Supp_UOM="SPL" Supp_Price="0.38" BuyerItemTotal="3.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.38" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : SPL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="Electrical insulation tape (red)" MeasureUnitQualifier="NRL" Quantity="5" TypeCode="BP" OriginatingSystemRef="016/01213/2019" SystemItemNo="28" MonetaryAmount="1.90" Identification="IMPA 79 54 33" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="NRL" Supp_UOM="SPL" Supp_Price="0.38" BuyerItemTotal="1.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.38" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : SPL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="Electrical insulation tape (yellow)" MeasureUnitQualifier="NRL" Quantity="3" TypeCode="BP" OriginatingSystemRef="016/01214/2019" SystemItemNo="29" MonetaryAmount="1.14" Identification="IMPA 79 54 33" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="NRL" Supp_UOM="SPL" Supp_Price="0.38" BuyerItemTotal="1.14" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.38" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 3 | UOM : SPL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="Crimp terminal (ring M10, 100pcs.) 4,0-6,0mm2" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="016/01253/2019" SystemItemNo="30" MonetaryAmount="12.50" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PK" Supp_UOM="PCS" Supp_Price="12.5" BuyerItemTotal="12.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.5" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="Crimp terminal (core cable end, 100pcs.) 10,0mm2" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="016/01258/2019" SystemItemNo="31" MonetaryAmount="7.50" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PK" Supp_UOM="PCS" Supp_Price="7.5" BuyerItemTotal="7.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.5" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="500.130" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="500.130" />
+      <MonetaryAmount Qualifier="_90" Value="500.130" />
+      <MonetaryAmount Qualifier="_91" Value="500.130" />
+    </Quote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,250 @@
+21-10-2019 11:07:21 ================21-10-2019 11:07:21================
+21-10-2019 11:07:21 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 Buyer: Pacific Basin Shipping (HK) Ltd.
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 RFQ processing started.
+21-10-2019 11:07:21 No file found.
+21-10-2019 11:07:21 RFQ processing stopped.
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 Quote processing started.
+21-10-2019 11:07:21 No Quote files found to process.
+21-10-2019 11:07:21 Quote processing stopped.
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 Buyer: EIMSKIP ISLAND EHF
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 RFQ processing started.
+21-10-2019 11:07:21 No file found.
+21-10-2019 11:07:21 RFQ processing stopped.
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 Quote processing started.
+21-10-2019 11:07:21 No Quote files found to process.
+21-10-2019 11:07:21 Quote processing stopped.
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 Buyer: Sea Consortium Pte. Ltd.
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 RFQ processing started.
+21-10-2019 11:07:21 No file found.
+21-10-2019 11:07:21 RFQ processing stopped.
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 Purchase Order processing started.
+21-10-2019 11:07:21 Purchase Order processing stopped.
+21-10-2019 11:07:21 
+21-10-2019 11:07:21 Quote processing started.
+21-10-2019 11:07:21 Started Loading interchange object.
+21-10-2019 11:07:21 stopped Loading interchange object.
+21-10-2019 11:07:21 1 files found to process.
+21-10-2019 11:07:21 Started Loading interchange object.
+21-10-2019 11:07:21 stopped Loading interchange object.
+21-10-2019 11:07:24 'MTML_QUOTE_XYAMU-2019-ST0093-B(01)_SM0668_V10001_08101916264934.xml' Quote file processing started.
+21-10-2019 11:07:24 about:blank
+21-10-2019 11:07:40 Login Successfully.
+21-10-2019 11:07:46 Currency USD set successfully
+21-10-2019 11:08:31 ================21-10-2019 11:08:31================
+21-10-2019 11:08:31 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Buyer: Pacific Basin Shipping (HK) Ltd.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 RFQ processing started.
+21-10-2019 11:08:31 No file found.
+21-10-2019 11:08:31 RFQ processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Quote processing started.
+21-10-2019 11:08:31 No Quote files found to process.
+21-10-2019 11:08:31 Quote processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Buyer: EIMSKIP ISLAND EHF
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 RFQ processing started.
+21-10-2019 11:08:31 No file found.
+21-10-2019 11:08:31 RFQ processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Quote processing started.
+21-10-2019 11:08:31 No Quote files found to process.
+21-10-2019 11:08:31 Quote processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Buyer: Sea Consortium Pte. Ltd.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 RFQ processing started.
+21-10-2019 11:08:31 No file found.
+21-10-2019 11:08:31 RFQ processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Purchase Order processing started.
+21-10-2019 11:08:31 Purchase Order processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Quote processing started.
+21-10-2019 11:08:31 No Quote files found to process.
+21-10-2019 11:08:31 Quote processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 POC processing started.
+21-10-2019 11:08:31 No POC files found to process.
+21-10-2019 11:08:31 POC processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Buyer: Norbulk Shipping UK Ltd
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 RFQ processing started.
+21-10-2019 11:08:31 No file found.
+21-10-2019 11:08:31 RFQ processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Purchase Order processing started.
+21-10-2019 11:08:31 Purchase Order processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Quote processing started.
+21-10-2019 11:08:31 No Quote files found to process.
+21-10-2019 11:08:31 Quote processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 POC processing started.
+21-10-2019 11:08:31 No POC files found to process.
+21-10-2019 11:08:31 POC processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Buyer: Kopping Reederei GmbH & Co. KG
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Quote processing started.
+21-10-2019 11:08:31 No Quote files found to process.
+21-10-2019 11:08:31 Quote processing stopped.
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Buyer: Pacific Basin Shipping Ltd
+21-10-2019 11:08:31 
+21-10-2019 11:08:31 Quote processing started.
+21-10-2019 11:08:31 No Quote files found to process.
+21-10-2019 11:08:31 Quote processing stopped.
+21-10-2019 11:08:32 Pacific Basin RFQ,PO,Quote,POC HTTP processor stooped.
+21-10-2019 11:08:32 ====================================================
+21-10-2019 11:08:35 ================21-10-2019 11:08:35================
+21-10-2019 11:08:35 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+21-10-2019 11:08:35 
+21-10-2019 11:08:35 Buyer: Pacific Basin Shipping (HK) Ltd.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 RFQ processing started.
+21-10-2019 11:08:36 No file found.
+21-10-2019 11:08:36 RFQ processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Quote processing started.
+21-10-2019 11:08:36 No Quote files found to process.
+21-10-2019 11:08:36 Quote processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Buyer: EIMSKIP ISLAND EHF
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 RFQ processing started.
+21-10-2019 11:08:36 No file found.
+21-10-2019 11:08:36 RFQ processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Quote processing started.
+21-10-2019 11:08:36 No Quote files found to process.
+21-10-2019 11:08:36 Quote processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Buyer: Sea Consortium Pte. Ltd.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 RFQ processing started.
+21-10-2019 11:08:36 No file found.
+21-10-2019 11:08:36 RFQ processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Purchase Order processing started.
+21-10-2019 11:08:36 Purchase Order processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Quote processing started.
+21-10-2019 11:08:36 No Quote files found to process.
+21-10-2019 11:08:36 Quote processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 POC processing started.
+21-10-2019 11:08:36 No POC files found to process.
+21-10-2019 11:08:36 POC processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Buyer: Norbulk Shipping UK Ltd
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 RFQ processing started.
+21-10-2019 11:08:36 No file found.
+21-10-2019 11:08:36 RFQ processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Purchase Order processing started.
+21-10-2019 11:08:36 Purchase Order processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Quote processing started.
+21-10-2019 11:08:36 No Quote files found to process.
+21-10-2019 11:08:36 Quote processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 POC processing started.
+21-10-2019 11:08:36 No POC files found to process.
+21-10-2019 11:08:36 POC processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Buyer: Kopping Reederei GmbH & Co. KG
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Quote processing started.
+21-10-2019 11:08:36 No Quote files found to process.
+21-10-2019 11:08:36 Quote processing stopped.
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Buyer: Pacific Basin Shipping Ltd
+21-10-2019 11:08:36 
+21-10-2019 11:08:36 Quote processing started.
+21-10-2019 11:08:36 No Quote files found to process.
+21-10-2019 11:08:36 Quote processing stopped.
+21-10-2019 11:08:36 Pacific Basin RFQ,PO,Quote,POC HTTP processor stooped.
+21-10-2019 11:08:36 ====================================================
+21-10-2019 11:11:22 ================21-10-2019 11:11:22================
+21-10-2019 11:11:22 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+21-10-2019 11:11:22 Exception while processing reading configSystem.NotSupportedException: The given path's format is not supported.
+   at System.Security.Util.StringExpressionSet.CanonicalizePath(String path, Boolean needFullPath)
+   at System.Security.Util.StringExpressionSet.CreateListFromExpressions(String[] str, Boolean needFullPath)
+   at System.Security.Permissions.FileIOPermission.AddPathList(FileIOPermissionAccess access, AccessControlActions control, String[] pathListOrig, Boolean checkForDuplicates, Boolean needFullPath, Boolean copyPathList)
+   at System.Security.Permissions.FileIOPermission..ctor(FileIOPermissionAccess access, String[] pathList, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at System.IO.Directory.CreateDirectory(String path)
+   at PacificBasinRoutine.PacificRoutine.LoadAppSettings() in e:\Projects\LES\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasinRoutine\PacificRoutine.cs:line 101
+   at PacificBasin_Processor.Form1.ProcessUser() in e:\Projects\LES\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasin_Processor\Form1.cs:line 143
+   at PacificBasin_Processor.Form1.ReadConfig(String sConfigFile) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasin_Processor\Form1.cs:line 126
+21-10-2019 11:11:22 Pacific Basin RFQ,PO,Quote,POC HTTP processor stooped.
+21-10-2019 11:11:22 ====================================================
+21-10-2019 11:11:52 ================21-10-2019 11:11:52================
+21-10-2019 11:11:52 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+21-10-2019 11:11:52 
+21-10-2019 11:11:52 Buyer: Pacific Basin Shipping (HK) Ltd.
+21-10-2019 11:11:52 
+21-10-2019 11:11:52 RFQ processing started.
+21-10-2019 11:11:52 No file found.
+21-10-2019 11:11:52 RFQ processing stopped.
+21-10-2019 11:11:52 
+21-10-2019 11:11:52 Quote processing started.
+21-10-2019 11:11:52 Started Loading interchange object.
+21-10-2019 11:11:52 stopped Loading interchange object.
+21-10-2019 11:11:52 1 files found to process.
+21-10-2019 11:11:52 Started Loading interchange object.
+21-10-2019 11:11:52 stopped Loading interchange object.
+21-10-2019 11:11:53 'MTML_QUOTE_DRE-B19X0117(01)CE-5133_SM3068_V11920_18101918185061.xml' Quote file processing started.
+21-10-2019 11:11:53 about:blank
+21-10-2019 11:12:07 Login Successfully.
+21-10-2019 11:12:51 ================21-10-2019 11:12:51================
+21-10-2019 11:12:51 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+21-10-2019 11:12:51 
+21-10-2019 11:12:51 Buyer: Pacific Basin Shipping (HK) Ltd.
+21-10-2019 11:12:51 
+21-10-2019 11:12:51 RFQ processing started.
+21-10-2019 11:12:51 No file found.
+21-10-2019 11:12:51 RFQ processing stopped.
+21-10-2019 11:12:51 
+21-10-2019 11:12:51 Quote processing started.
+21-10-2019 11:12:51 Started Loading interchange object.
+21-10-2019 11:12:51 stopped Loading interchange object.
+21-10-2019 11:12:51 1 files found to process.
+21-10-2019 11:12:51 Started Loading interchange object.
+21-10-2019 11:12:51 stopped Loading interchange object.
+21-10-2019 11:13:07 'MTML_QUOTE_DRE-B19X0117(01)CE-5133_SM3068_V11920_18101918185061.xml' Quote file processing started.
+21-10-2019 11:13:07 about:blank
+21-10-2019 11:13:19 Login Successfully.
+21-10-2019 11:14:13 ================21-10-2019 11:14:13================
+21-10-2019 11:14:13 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+21-10-2019 11:14:13 
+21-10-2019 11:14:13 Buyer: Pacific Basin Shipping (HK) Ltd.
+21-10-2019 11:14:13 
+21-10-2019 11:14:13 RFQ processing started.
+21-10-2019 11:14:13 No file found.
+21-10-2019 11:14:13 RFQ processing stopped.
+21-10-2019 11:14:13 
+21-10-2019 11:14:13 Quote processing started.
+21-10-2019 11:14:13 Started Loading interchange object.
+21-10-2019 11:14:33 stopped Loading interchange object.
+21-10-2019 11:14:33 1 files found to process.
+21-10-2019 11:14:33 Started Loading interchange object.
+21-10-2019 11:14:36 stopped Loading interchange object.
+21-10-2019 11:14:40 'MTML_QUOTE_DRE-B19X0117(01)CE-5133_SM3068_V11920_18101918185061.xml' Quote file processing started.
+21-10-2019 11:14:40 about:blank
+21-10-2019 11:14:52 Login Successfully.

@@ -1,0 +1,6 @@
+06-11-2019 10:20:43 ================06-11-2019 10:20:43================
+06-11-2019 10:20:43 MTM RFQ Download HTTP processor started
+06-11-2019 10:20:47 RFQ 'MTH-8367-B1' downloaded successfully.
+06-11-2019 10:20:47 File 4001020_191106_103218141.txt moved to backup folder.
+06-11-2019 10:20:47 MTM RFQ Download HTTP processor stopped
+06-11-2019 10:20:47 ====================================================

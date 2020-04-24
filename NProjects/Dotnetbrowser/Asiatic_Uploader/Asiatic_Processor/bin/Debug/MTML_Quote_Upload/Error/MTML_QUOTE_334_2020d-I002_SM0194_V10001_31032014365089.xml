@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="D105949" Identifier="UNOC" Recipient="SM0194_WEB" Sender="V10001" PreparationDate="2020-Mar-31" PreparationTime="14:36" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2653" LesRecordID="12022462" LesLinkID="104997" ParentRecordID="12020305" MTML_DOCID="091F0E74-10E8-47F9-8C64-0BF3BE0C0E19">
+    <Quote MessageReferenceNumber="334/2020d-I002" MessageNumber="https://vega.cloudfleetmanager.com/apps/quote/402d8b72-ffa5-4c47-bf67-d5f1769b7f1d" LineItemCount="1" VersionNumber="1" CurrencyCode="USD" TransportModeCode="_3" LeadTimeDays="10" BuyerRefNo="334/2020d-I002" OriginalFile="OrderQuotation-D105949_200331_143138365.pdf" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" CaseReference="ref:_00D200tPh._5003z5jZ2o:ref" BuyerItemTotal="1500" BuyerQuoteTotal="1500">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202003311436" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="202004100000" />
+      <Comments Qualifier="SUR">
+        <value>DELIVERY INFORMATION
+
+ Inventory will not be reserved based on this quotation. Product availability will be confirmed when the order is placed.
+Please note some ports have local taxes/charges, which may appear on the invoice.
+
+ITEMS NOT IN STOCK LINE  – lead time 5 weeks, subject to prior sale, Addition Freight cost: USD 823
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 2 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 70.7 USD
+Item Added - 3 : FREIGHT CHARGE | QTY : 1 | UOM : PCS | Price : 823 USD
+ Item Total : 2393.70 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="334/2020d-I002" />
+      <Reference Qualifier="AAG" ReferenceNumber="D105949" />
+      <Party Qualifier="BY" Name="VEGA REEDEREI GMBH &amp; CO KG">
+        <Contact>
+          <CommunicationMethod Qualifier="EM" Number="N/A" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service (S) Pte Ltd">
+        <Contact Name="Matic, Cherry Rose">
+          <CommunicationMethod Qualifier="EM" Number="wss.cs.germany.products@wilhelmsen.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA" Name="MS &quot;VEGA Scorpio&quot; Schifffahrtsgesellschaft mbH &amp; Co. KG">
+        <Contact />
+        <StreetAddress>Paul-Dessau-Strae 3a
+22761 Hamburg
+Germany</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="VEGA Scorpio">
+        <PartyLocation Qualifier="ZUC" Berth="VERA CRUZ" Port="MXVER" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="UNITOR UN 1956 COMPRESSED GAS N.O.S ( NITROGEN, CARBON MONOXIDE, METHANE, HYDROGEN SULFIDE, OXYGEN MIXTURE) | " MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="4404d679-3a0a-4193-bc3b-1499e393e66d" SystemItemNo="1" MonetaryAmount="1500.00" Identification="741306" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Cylinder" Supp_UOM="PCS" Supp_Price="1500" BuyerItemTotal="1500" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1500" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1500" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="2393.700" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="2393.700" />
+      <MonetaryAmount Qualifier="_99" Value="893.700" />
+      <MonetaryAmount Qualifier="_90" Value="1500.000" />
+      <MonetaryAmount Qualifier="_91" Value="1500.000" />
+    </Quote>
+  </Interchange>
+</MTML>

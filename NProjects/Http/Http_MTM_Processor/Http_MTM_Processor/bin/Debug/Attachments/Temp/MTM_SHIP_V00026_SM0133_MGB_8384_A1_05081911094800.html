@@ -1,0 +1,602 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	MTMSM : Quote Manager
+</title><link href="../CSS/rfqStyle.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="../JS/jquery_v1.10.2.min.js"></script>    
+    <link href="../CSS/CalenderStyle.css" rel="Stylesheet" type="text/css" />
+    <script src="../JS/Calender.js" type="text/javascript"></script>
+    <script src="../JS/jquery.datetimepicker.js"></script>
+    <link href="../CSS/jquery.datetimepicker.css" rel="stylesheet" type="text/css" />
+     <style type="text/css">
+        div.panel {
+            border:solid 1px red;
+            z-index:99999;
+        }
+        .bordered tr td {
+            border:solid 1px #d7d7d7;
+            color:#292929;
+            padding:5px;
+        }
+        .headerrow td{
+            background-color:#cdcdce;
+            font-size: 12px;
+            padding:5px;
+            color:#333 !important;
+        }
+        input[type='text'],select
+        {
+            line-height:18px;
+            height:23px;
+            padding-left:5px;
+            padding-right:5px;
+            background-color:#ffea9e;
+            font-size:11px !important;
+            text-align:right;
+            border:solid 1px #d7d7d7 !important;
+        }
+        td{
+            vertical-align:middle;
+        }
+    </style>
+    <script type="text/javascript" language="javascript">
+function DisableBackButton() {
+window.history.forward()
+}
+DisableBackButton();
+window.onload = DisableBackButton;
+window.onpageshow = function(evt) { if (evt.persisted) DisableBackButton() }
+window.onunload = function() { void (0) }
+</script>
+    <script type="text/javascript">
+
+        function AttachFunc()
+        {
+            $('.date_only').datetimepicker({ timepicker: false, format: 'd-M-Y', formatDate: 'd-M-Y', allowBlank: true, defaultSelect: false, validateOnBlur: false });
+
+            $(".cal").keyup(function () {
+
+                var UpdateValue = 0;
+                var field = $(this).attr("f_name");
+                var BidItemID = $(this).attr("BidItemID");
+                var BidId = $(this).attr("BidId");
+                var RecID = $(this).attr("RecID");
+                var curentrate = $(".curentrate").html();
+                var ShippingTotalLc = $(".ShippingTotalLc").val();
+                var ShippingTotalUSD = $(".ShippingTotalUSD").html();
+
+                ShippingTotalLc = parseFloat(ShippingTotalLc);
+                ShippingTotalUSD = parseFloat(ShippingTotalUSD);
+
+                var objpricelc = $(this).closest(".row").find(".pricelc");
+                var priceusd = $(this).closest(".row").find(".priceusd");
+                var VendorDescription = $(this).closest(".row").find(".description");
+                var BidQty = $(this).closest(".row").find(".qty");
+                var UnitPrice = $(this).closest(".row").find(".unit");               
+
+                
+                BidItemID = parseInt(BidItemID);
+                BidId = parseInt(BidId);
+                RecID = parseInt(RecID);
+
+                var bq = $(BidQty).val();
+                var up = $(UnitPrice).val();
+                var vd = $(VendorDescription).val().replace("'","`");
+                if (isNaN(parseFloat(bq)))
+                {
+                    bq = 0.0;
+                }
+                if (isNaN(parseFloat(up))) {
+                    up = 0.0;
+                }
+
+                if (parseFloat(bq) < 0) {
+                    bq = Math.abs(bq);
+                    $(this).closest(".row").find(".qty").val(bq);
+                }
+                if (parseFloat(up) < 0) {
+                    up = Math.abs(up);
+                    $(this).closest(".row").find(".unit").val(up);
+                }
+
+
+                $.ajax({
+                    url: 'QuoteManager.aspx/Update_unitpriceAndquantity',
+                    data: "{ 'BidItemID': '" + BidItemID + "','BidQty': '" + bq + "','UnitPrice': '" + up + "','BidId': '" + BidId + "','RecID': '" + RecID + "','curentrate': '" + curentrate + "','vendordescription': '" + vd + "' }",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (data) {
+                        var myobj = JSON.parse(data.d);
+                        objpricelc.html(parseFloat(myobj.priceLC).toFixed(2));
+                        priceusd.html(parseFloat(myobj.priceUSD).toFixed(2));
+
+                        var totPriceLC = 0;
+                        var totPriceUsd = 0;
+                        $(".cal.pricelc").each(function () {
+                            totPriceLC = totPriceLC + parseFloat($(this).html());
+                        });
+                        $(".cal.priceusd").each(function () {
+                            totPriceUsd = totPriceUsd + parseFloat($(this).html());
+
+                        });
+
+                        totPriceLC = totPriceLC + ShippingTotalLc;
+                        totPriceUsd = totPriceUsd + ShippingTotalUSD;
+                        $(".QuoteTotalLc").html(totPriceLC.toFixed(2));
+                        $(".QuoteTotalUsd").html(totPriceUsd.toFixed(2));
+                    },
+                    error: function (data, status, jqXHR) { alert(jqXHR); }
+                });
+            });
+        }
+        $(document).ready(function () {
+            AttachFunc();
+        })
+    </script>
+
+</head>
+<body>
+    <form name="form1" method="post" action="./quotemanager.aspx?key=434907&amp;validate=0.644685089464845" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="ToolkitScriptManager1_HiddenField" id="ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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BQUBMGRkAh8PDxYCHwUFATBkZAIhDw8WAh8FBQQwLjAwZGQCIw8PFgIfBQUEMC4wMGRkAgMPZBYCAikPFwMFA2Nzc2UFD1JlcG9ydFZpZXdTdGF0ZRcDBQdSZWZyZXNoaAUSUGFnZVJlcXVlc3RDb250ZXh0FwMFFUlzTGFzdFBhZ2VOdW1iZXJLbm93bmgFClBhZ2VOdW1iZXICAQUOTGFzdFBhZ2VOdW1iZXJmBQdGYWN0b3J5BZYBQ3J5c3RhbERlY2lzaW9ucy5SZXBvcnRTb3VyY2UuUmVwb3J0U291cmNlRmFjdG9yeSxDcnlzdGFsRGVjaXNpb25zLlJlcG9ydFNvdXJjZSwgVmVyc2lvbj0xMC41LjM3MDAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj02OTJmYmVhNTUyMWUxMzA0BQRCQVNFZBYEZg8XAQUNUHJvbXB0aW5nSW5mb2RkAgIPFwQFBHNpcG5mBQJicwKf////DwUDcHN0ZAUDc2h3aBYEAgsPEA8WAh8IZ2QPFgFmFgEQBQtNYWluIFJlcG9ydAWoA0FBRUFBQUQvLy8vL0FRQUFBQUFBQUFBRUFRQUFBQnhUZVhOMFpXMHVRMjlzYkdWamRHbHZibk11U0dGemFIUmhZbXhsQndBQUFBcE1iMkZrUm1GamRHOXlCMVpsY25OcGIyNElRMjl0Y0dGeVpYSVFTR0Z6YUVOdlpHVlFjbTkyYVdSbGNnaElZWE5vVTJsNlpRUkxaWGx6QmxaaGJIVmxjd0FBQXdNQUJRVUxDQnhUZVhOMFpXMHVRMjlzYkdWamRHbHZibk11U1VOdmJYQmhjbVZ5SkZONWMzUmxiUzVEYjJ4c1pXTjBhVzl1Y3k1SlNHRnphRU52WkdWUWNtOTJhV1JsY2dqc1VUZy9CQUFBQUFvS0J3QUFBQWtDQUFBQUNRTUFBQUFRQWdBQUFBTUFBQUFHQkFBQUFBNU1ZWE4wVUdGblpVNTFiV0psY2dZRkFBQUFDbEJoWjJWT2RXMWlaWElHQmdBQUFCVkpjMHhoYzNSUVlXZGxUblZ0WW1WeVMyNXZkMjRRQXdBQUFBTUFBQUFJQ0FBQUFBQUlDQUVBQUFBSUFRQUxnFgFmZAINDw8WAh4MQXV0b1Bvc3RCYWNraBYCHgpvbmtleXByZXNzBacBaWYgKChldmVudC53aGljaCAmJiBldmVudC53aGljaCA9PSAxMykgfHwgKGV2ZW50LmtleUNvZGUgJiYgZXZlbnQua2V5Q29kZSA9PSAxMykpIHsgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ0NyeXN0YWxSZXBvcnRWaWV3ZXIxX2N0bDAyX2N0bDE0JykuY2xpY2soKTsgcmV0dXJuIGZhbHNlO31kZPmP6qjLe/augl/rWMtG1X1pC0bO/uaSohDUQytPSokA" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/public/WebResource.axd?d=Bzk0sMnMIYDTremhGBrf8dDzTihCDblvl1PmQsJ0dCNHYvJVTNaijW85wGtUCa7B1b7A3u7ygCr3e9H7zAR9Z3tl4-xZuq-Bexoq58Ri6S41&amp;t=636511736826842555" type="text/javascript"></script>
+
+
+<script src="/public/ScriptResource.axd?d=NkVGSPze5qRajP_c-Z-jI252Bwv5FkVdjMc0VKlRyBtQ9FL4Z0dvfTZ6MCVw1rpzFgEz-a4aScok1JYaqzlrqU0eSk-yoS8DgFBn-HTfYZKCWaeC_jjsp3u3mNYc3wkh0v7tVkj89Q31ZL9EApH9UEe7_9IIV1HG9jpTxY3oO7w1&amp;t=ffffffff85b84bae" type="text/javascript"></script>
+<script src="/public/ScriptResource.axd?d=USCqDBoAA_1722uYPKCGNfCv7x2dVeW-kFC6o0L0TClfME-8-7R6Nl7BRlY-4a_TY20HAp3Rn5e-0b0HlDwMAxJXSx6kwDHHrDPN9EhWOahDiy8Q3ZeI76m2TXtjMc4tacJaQg2pYbcRCiv-EwrisQ2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/public/ScriptResource.axd?d=jwji612utBRFDKRFbU1jJczxwITYdVvSiUwkAsYUYEvr1YU4ScEyEDq0qOvvbBzlloh8MBmttJBYnp5DZrO1yIyXOatqWq50_DqxAezU66m3ydaQBY-9XyNdUDTuq9AH0l1JKKZILNKyjeB6t2YlUA2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3E5CF63C" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+</div>
+        
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ToolkitScriptManager1', 'form1', [], [], [], 90, '');
+//]]>
+</script>
+       
+        
+        
+
+
+             <div id="UpdatePanel2">
+	
+        <div id="pnlData">
+		
+        <div class="FixedHeader">
+        <div style="background-color:#6e88a2;color:white;">
+            <table cellpadding="5" cellspacing="0" width="100%" border="0" >
+            <tr>
+			<td style="text-align:center;font-size:15px;">                
+                 
+                M.T.M. SHIP MANAGEMENT PTE. LTD                
+			</td>
+			</tr>
+        </table>        
+            </div>
+
+        <div style ="text-align:center;padding:4px;background-color:#cdcdce;position:relative;">            
+            <div style="font-weight:bold;font-size:13px; text-align:center;">
+                REQUEST FOR QUOTE [ RFQ# : <span id="lblRFQNO">MGB - 8384 - A1</span> ] 
+            </div>
+             <span style="position:absolute;right:5px;top:5px; font-weight:bold;">
+                    RFQ Date : <span id="lblDateCreated">05-Aug-2019</span>
+            </span>
+        </div>
+           
+        <table cellpadding="5" cellspacing="0" border="0" rules="none"  width="100%" >
+            <col width="50%" />
+            <col />
+            <td style="vertical-align:top;">
+                <table cellpadding="1" cellspacing="0" rules="none" border="0"  width="100%"  >
+                    <col width="130px" />
+                    <col width="10px" />
+                    <col  />
+                    <tr>
+                        <td> Vendor Name </td>
+                        <td>:</td>
+                        <td><span id="lblVendorName">FUJI TRADING CO. LTD</span></td>
+                    </tr>
+                    <tr>
+                        <td>Contact Name </td>
+                        <td>:</td>
+                        <td><span id="lblVendorContactName"></span></td>
+                    </tr>
+                    <tr>
+                        <td>Contact Details </td>
+                        <td>:</td>
+                        <td><span id="lblVendorPhone">078-4132611-</span>, <span id="lblVendorEmail">mach-5@fujitrading.co.jp</span></td>
+                    </tr>
+                  
+                </table>
+               
+            </td>
+            
+            
+        </table>
+            
+              <table cellpadding="3" cellspacing="0" border="0" rules="none" width="100%" style="background-color:#6e88a2;font-weight:bold;color:white;"  >
+                  <col style="width:50px" />
+                  <col style="width:10px" />
+                  <col style="width:120px" />
+                  
+                  <col style="width:80px" />
+                  <col style="width:10px" />
+                  <col style="width:70px" />
+                  <col style="width:100px" />
+                  <col style="width:80px" />
+                  <col style="width:10px" />
+                  <col/>
+                      <tr>
+                         <td>Date</td>
+                         <td>:</td>
+                         <td><span id="txtCurrDate">05-Aug-2019</span></td>
+                          
+                         
+                         <td>Currency</td>
+                         <td>:</td>
+                         <td>
+                             <select name="ddlCurrency" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ddlCurrency\&#39;,\&#39;\&#39;)&#39;, 0)" id="ddlCurrency" style="width:65px;">
+			<option selected="selected" value=""></option>
+			<option value="AED">AED</option>
+			<option value="AFN">AFN</option>
+			<option value="ALL">ALL</option>
+			<option value="ARS">ARS</option>
+			<option value="AUD">AUD</option>
+			<option value="BBD">BBD</option>
+			<option value="BDT">BDT</option>
+			<option value="BGN">BGN</option>
+			<option value="BHD">BHD</option>
+			<option value="BMD">BMD</option>
+			<option value="BRL">BRL</option>
+			<option value="BSD">BSD</option>
+			<option value="CAD">CAD</option>
+			<option value="CHF">CHF</option>
+			<option value="CLP">CLP</option>
+			<option value="CNY">CNY</option>
+			<option value="COP">COP</option>
+			<option value="CRC">CRC</option>
+			<option value="CYP">CYP</option>
+			<option value="CZK">CZK</option>
+			<option value="DKK">DKK</option>
+			<option value="DOP">DOP</option>
+			<option value="DZD">DZD</option>
+			<option value="EEK">EEK</option>
+			<option value="EGP">EGP</option>
+			<option value="EUR">EUR</option>
+			<option value="FJD">FJD</option>
+			<option value="GBP">GBP</option>
+			<option value="HKD">HKD</option>
+			<option value="HRK">HRK</option>
+			<option value="HUF">HUF</option>
+			<option value="IDR">IDR</option>
+			<option value="ILS">ILS</option>
+			<option value="INR">INR</option>
+			<option value="IQD">IQD</option>
+			<option value="IRR">IRR</option>
+			<option value="ISK">ISK</option>
+			<option value="JMD">JMD</option>
+			<option value="JOD">JOD</option>
+			<option value="JPY">JPY</option>
+			<option value="KES">KES</option>
+			<option value="KRW">KRW</option>
+			<option value="KWD">KWD</option>
+			<option value="LBP">LBP</option>
+			<option value="LKR">LKR</option>
+			<option value="MAD">MAD</option>
+			<option value="MTL">MTL</option>
+			<option value="MUR">MUR</option>
+			<option value="MXN">MXN</option>
+			<option value="MYR">MYR</option>
+			<option value="NAD">NAD</option>
+			<option value="NGN">NGN</option>
+			<option value="NOK">NOK</option>
+			<option value="NZD">NZD</option>
+			<option value="OMR">OMR</option>
+			<option value="PEN">PEN</option>
+			<option value="PGK">PGK</option>
+			<option value="PHP">PHP</option>
+			<option value="PKR">PKR</option>
+			<option value="PLN">PLN</option>
+			<option value="QAR">QAR</option>
+			<option value="RMB">RMB</option>
+			<option value="RON">RON</option>
+			<option value="RUB">RUB</option>
+			<option value="SAR">SAR</option>
+			<option value="SDD">SDD</option>
+			<option value="SEK">SEK</option>
+			<option value="SGD">SGD</option>
+			<option value="SIT">SIT</option>
+			<option value="SKK">SKK</option>
+			<option value="THB">THB</option>
+			<option value="TND">TND</option>
+			<option value="TRY">TRY</option>
+			<option value="TTD">TTD</option>
+			<option value="TWD">TWD</option>
+			<option value="USD">USD</option>
+			<option value="VEB">VEB</option>
+			<option value="VND">VND</option>
+			<option value="WON">WON</option>
+			<option value="XAF">XAF</option>
+			<option value="XAG">XAG</option>
+			<option value="XAU">XAU</option>
+			<option value="XCD">XCD</option>
+			<option value="XDR">XDR</option>
+			<option value="XOF">XOF</option>
+			<option value="XPD">XPD</option>
+			<option value="XPF">XPF</option>
+			<option value="XPT">XPT</option>
+			<option value="ZAR">ZAR</option>
+			<option value="ZMK">ZMK</option>
+
+		</select>
+                         </td>
+                          <td><span id="RequiredFieldValidator1" style="color:Red;visibility:hidden;">Required.</span></td>
+                         <td>Exch. Rate</td>
+                         <td>:</td>
+                         <td><span id="lblCurrRate" class="curentrate">0</span></td>
+                        
+                     </tr>
+                     </table>
+<div style="height:27px;overflow-x:hidden;overflow-y:scroll;">
+        <table cellspacing="0" border="0" cellpadding="0" style="width:100%;border-collapse:collapse;" class="bordered">            
+            <col style="width:50px;" />
+            <col />
+            <col style="width:120px;" />
+            <col style="width:120px;" />
+            <col style="width:120px;" />
+            <col style="width:100px;" />
+            <col style="width:100px;" />
+            <col style="width:100px;" />
+            <col style="width:120px;" />
+            <col style="width:120px;" />  
+            <tr align="left" class="headerrow">
+                <td>S.No.</td>
+                <td>Description</td>
+                <td>Part#/I.Code</td>
+                <td>Drawing#</td>
+                <td>Code#</td>
+                <td>Bid Qty</td>
+                <td>UOM</td>
+                <td style="text-align:right;">Unit Price</td>
+                <td style="text-align:right;">Price(LC)</td>
+                <td style="text-align:right;">Price(USD)</td>                
+            </tr>
+            </table>
+
+        </div>          
+        </div>        
+                
+        <div class="content" style="overflow-x:hidden;overflow-y:scroll;">          
+            <table cellspacing="0" border="0" class="bordered" cellpadding="0" style="width:100%;border-collapse:collapse;">               
+            <col style="width:50px;" />
+            <col />
+            <col style="width:120px;" />
+            <col style="width:120px;" />
+            <col style="width:120px;" />
+            <col style="width:100px;" />
+            <col style="width:100px;" />
+            <col style="width:100px;" />
+            <col style="width:120px;" />
+            <col style="width:120px;" />        
+        
+                    <tr id='tr2216482' class='row'>
+                    <td style="text-align:center;">1.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl00_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">GALLEY HOT PLATE ROTARY CAMSWITCH ROTARY CAMSWITCH FOR GALLEY HOT PLATE</span> 
+                        <input name="rptItems$ctl00$txtVendorDesctiption" type="text" id="rptItems_ctl00_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2216482" BidId="434907" BidItemID="5227159" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : FUJI CHUBO SETSUBI CO.LTD, TOKYO JAPAN</span>
+                        <span style="color:maroon"> Modal : SFER 25 NA</span>
+                    </td>
+                      <td></td>
+                     <td>Remarks- EGO.4334232.000</td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl00$txtBidQty" type="text" value="3" id="rptItems_ctl00_txtBidQty" disabled="disabled" class="cal qty" RecID="2216482" BidId="434907" BidItemID="5227159" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl00$hfItemID" id="rptItems_ctl00_hfItemID" value="5227159" />
+                    </td> 
+                    <td>SET</td>
+                    <td>
+                        <input name="rptItems$ctl00$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl00_txtUnitPrice" class="cal unit" RecID="2216482" BidId="434907" BidItemID="5227159" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl00_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl00_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+        </table>          
+        </div>
+                
+        <div class="footer">   
+            <table cellspacing="0" border="0" cellpadding="0" style="width:100%;border-collapse:collapse;" class="bordered">            
+             <col style="width:50px;" />
+            <col />
+            <col style="width:120px;" />
+            <col style="" />  
+            <tr align="left" class="headerrow">
+                <td>&nbsp;</td>
+                <td style="text-align:right;">Estd. Shipping/Handling Charges :</td>
+                <td style="text-align:right;"><input name="txtLCRow1" type="text" value="0" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;txtLCRow1\&#39;,\&#39;\&#39;)&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="txtLCRow1" class="ShippingTotalLc" style="width:100%;" /></td>
+                <td style="text-align:right;">$&nbsp;<span id="lblUSDRow1" class="ShippingTotalUSD">0</span></td>                
+            </tr>
+                <tr align="left" class="headerrow">
+                <td>&nbsp;</td>
+                <td style="text-align:right;">Total : </td>
+                <td style="text-align:right;"><span id="lblLCRow2" class="QuoteTotalLc">0.00</span></td>
+                <td style="text-align:right;">$&nbsp;<span id="lblUSDRow2" class="QuoteTotalUsd">0.00</span></td>                
+            </tr>
+            </table>
+            <div style="background-color:#6e88a2;padding:2px;color:white;">
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" >
+                    <tr>
+                        <td>
+                 
+                     <table cellpadding="3" cellspacing="0" border="0"  rules="none" width="100%"  >
+                      <col style="width:120px" />
+                      <col style="width:10px" />
+                      <col style="width:90px" />
+                      <col style="width:100px" />
+                      <col style="width:10px" />
+                      <col style="width:100px" />
+                      <col style="width:100px" />
+                      <col style="width:10px" />
+                      <col style="width:130px" />
+                      <col style="width:100px" />
+                      <col style="width:10px" />
+                      
+                      <col/>
+                      <tr>
+                        <td>Delivery Date</td>
+                        <td>:</td>
+                        <td><input name="txtDeliveryDate" type="text" maxlength="15" id="txtDeliveryDate" class="date_only" placeholder="dd-MMM-yyyy" style="width:90px;" />  </td>
+                        <td>Delivery Port</td>
+                        <td>:</td>
+                        <td><input name="txtDeliveryPort" type="text" maxlength="15" id="txtDeliveryPort" style="width:140px;text-align:left;" /></td>
+                        <td>Quote Ref No. #</td>
+                        <td>:</td>
+                        <td><input name="txtVenRef" type="text" id="txtVenRef" style="width:140px;text-align:left;" /></td>
+                        <td style="text-align:right">Quote Exp Dt.</td>
+                        <td>:</td>
+                        <td style="text-align:left;"><input name="txtExpires" type="text" maxlength="15" id="txtExpires" class="date_only" placeholder="dd-MMM-yyyy" style="width:90px;" /></td>
+                    </tr>
+                         </table>
+                     <table cellpadding="3" cellspacing="0" border="0"  rules="none" width="100%"  >
+                         <col style="width:120px" />
+                         <col style="width:10px" />
+                         <col/>
+                     <tr>
+                         <td>Vendor Comments</td>
+                         <td>:</td>
+                         <td style="text-align:left">
+                              <input name="txtVendorComments" type="text" id="txtVendorComments" style="width:100%;text-align:left;" />
+                         </td>
+                     </tr>
+                    </table>
+                    </td>
+                        <td>
+                            
+
+                            <input type="submit" name="btnSubmit" value="Preview &amp; Submit" id="btnSubmit" style="height:30px;width:180px;text-align:center;background-color:#f52b0f;font-size:13px;border:none;color:white;margin-left:10px;" />
+                        </td>
+                    </tr>
+                    </table>
+            </div>
+        </div>
+            
+	</div>
+        
+
+        
+     
+            
+</div>
+       
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("RequiredFieldValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var RequiredFieldValidator1 = document.all ? document.all["RequiredFieldValidator1"] : document.getElementById("RequiredFieldValidator1");
+RequiredFieldValidator1.controltovalidate = "ddlCurrency";
+RequiredFieldValidator1.errormessage = "Required.";
+RequiredFieldValidator1.validationGroup = "abc";
+RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator1.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();settop();AttachFunc();
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('RequiredFieldValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator1'));
+}
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+        function settop()
+        {
+            $(".content").css("margin-top", $(".FixedHeader").height() + 'px');
+	    $(".content").css("padding-bottom", '130px');
+//            $(document.body).css("margin-bottom", ($(".footer").height() + 300) + 'px');
+        }
+        $(document).ready(function () {
+            settop();
+        });
+        $(window).resize(function () {
+            settop();
+        });
+    </script>
+     <script type="text/javascript">
+       
+</script>
+</body>
+</html>

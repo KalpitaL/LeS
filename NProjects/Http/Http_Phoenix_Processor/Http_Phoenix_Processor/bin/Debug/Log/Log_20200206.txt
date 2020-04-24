@@ -1,0 +1,79 @@
+2/6/2020 3:02:19 PM ================2/6/2020 3:02:19 PM================
+2/6/2020 3:02:19 PM Phoenix HTTP processor started
+2/6/2020 3:02:19 PM Phoenix Processor Started.
+2/6/2020 3:02:19 PM Processing File 200206_172640727.txt
+2/6/2020 3:02:19 PM  URL : https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.southnests.com%3A443%2FPhoenix%2FPurchase%2FPurchaseVendorRemark.aspx%3FSESSIONID%3D53a99457-ac32-ea11-80d9-065916d1083c%26STOCKTYPE%3DSERVICE&data=02%7C01%7Cpurchasechn12%40executiveship.com%7C14cf549108294d25855408d7aae49d4e%7Cbaa38c507591493bb52956770cf54231%7C0%7C0%7C637165771178235538&sdata=e1e%2BWihKb2zv2EtETzI5GPzHjdhfeIso1d09muAuhls%3D&reserved=0
+2/6/2020 3:02:19 PM Navigating To URL ..
+2/6/2020 3:02:44 PM Unable to process link file '200206_172640727.txt'.
+2/6/2020 3:02:44 PM 200206_172640727.txt File moved to Error_files
+2/6/2020 3:02:44 PM 
+2/6/2020 3:02:51 PM Phoenix HTTP processor stopped
+2/6/2020 3:02:51 PM ====================================================
+2/6/2020 3:02:51 PM 
+2/6/2020 3:03:35 PM ================2/6/2020 3:03:35 PM================
+2/6/2020 3:03:35 PM Phoenix HTTP processor started
+2/6/2020 3:03:35 PM Phoenix Processor Started.
+2/6/2020 3:03:35 PM Processing File 200206_172640727.txt
+2/6/2020 3:03:35 PM  URL : https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.southnests.com%3A443%2FPhoenix%2FPurchase%2FPurchaseVendorRemark.aspx%3FSESSIONID%3D53a99457-ac32-ea11-80d9-065916d1083c%26STOCKTYPE%3DSERVICE&data=02%7C01%7Cpurchasechn12%40executiveship.com%7C14cf549108294d25855408d7aae49d4e%7Cbaa38c507591493bb52956770cf54231%7C0%7C0%7C637165771178235538&sdata=e1e%2BWihKb2zv2EtETzI5GPzHjdhfeIso1d09muAuhls%3D&reserved=0
+2/6/2020 3:03:35 PM Navigating To URL ..
+2/6/2020 3:03:51 PM Reading Header Details ..
+2/6/2020 3:04:11 PM ================2/6/2020 3:04:11 PM================
+2/6/2020 3:04:11 PM Phoenix HTTP processor started
+2/6/2020 3:04:11 PM Phoenix Processor Started.
+2/6/2020 3:04:11 PM Processing File 200206_172640727.txt
+2/6/2020 3:04:11 PM  URL : https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.southnests.com%3A443%2FPhoenix%2FPurchase%2FPurchaseVendorRemark.aspx%3FSESSIONID%3D53a99457-ac32-ea11-80d9-065916d1083c%26STOCKTYPE%3DSERVICE&data=02%7C01%7Cpurchasechn12%40executiveship.com%7C14cf549108294d25855408d7aae49d4e%7Cbaa38c507591493bb52956770cf54231%7C0%7C0%7C637165771178235538&sdata=e1e%2BWihKb2zv2EtETzI5GPzHjdhfeIso1d09muAuhls%3D&reserved=0
+2/6/2020 3:04:11 PM Navigating To URL ..
+2/6/2020 3:04:29 PM ================2/6/2020 3:04:29 PM================
+2/6/2020 3:04:29 PM Phoenix HTTP processor started
+2/6/2020 3:04:29 PM Phoenix Processor Started.
+2/6/2020 3:04:29 PM Processing File 200206_172640727.txt
+2/6/2020 3:04:29 PM  URL : https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.southnests.com%3A443%2FPhoenix%2FPurchase%2FPurchaseVendorRemark.aspx%3FSESSIONID%3D53a99457-ac32-ea11-80d9-065916d1083c%26STOCKTYPE%3DSERVICE&data=02%7C01%7Cpurchasechn12%40executiveship.com%7C14cf549108294d25855408d7aae49d4e%7Cbaa38c507591493bb52956770cf54231%7C0%7C0%7C637165771178235538&sdata=e1e%2BWihKb2zv2EtETzI5GPzHjdhfeIso1d09muAuhls%3D&reserved=0
+2/6/2020 3:04:29 PM Navigating To URL ..
+2/6/2020 3:06:43 PM ================2/6/2020 3:06:43 PM================
+2/6/2020 3:06:43 PM Phoenix HTTP processor started
+2/6/2020 3:06:43 PM Phoenix Processor Started.
+2/6/2020 3:06:43 PM Processing File 200206_171445078.txt
+2/6/2020 3:06:43 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=53a99457-ac32-ea11-80d9-065916d1083c&STOCKTYPE=SERVICE
+2/6/2020 3:06:43 PM Navigating To URL ..
+2/6/2020 3:06:50 PM Reading Header Details ..
+2/6/2020 3:06:50 PM Reading Item Details ..
+2/6/2020 3:08:56 PM ================2/6/2020 3:08:56 PM================
+2/6/2020 3:08:56 PM Phoenix HTTP processor started
+2/6/2020 3:08:56 PM Phoenix Processor Started.
+2/6/2020 3:08:56 PM Processing File 200206_171445078.txt
+2/6/2020 3:08:56 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=53a99457-ac32-ea11-80d9-065916d1083c&STOCKTYPE=SERVICE
+2/6/2020 3:08:58 PM Navigating To URL ..
+2/6/2020 3:09:04 PM Reading Header Details ..
+2/6/2020 3:09:05 PM Reading Item Details ..
+2/6/2020 3:10:49 PM ================2/6/2020 3:10:49 PM================
+2/6/2020 3:10:49 PM Phoenix HTTP processor started
+2/6/2020 3:10:49 PM Phoenix Processor Started.
+2/6/2020 3:10:49 PM Processing File 200206_171445078.txt
+2/6/2020 3:10:49 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=53a99457-ac32-ea11-80d9-065916d1083c&STOCKTYPE=SERVICE
+2/6/2020 3:10:51 PM Navigating To URL ..
+2/6/2020 3:10:56 PM Reading Header Details ..
+2/6/2020 3:10:57 PM Reading Item Details ..
+2/6/2020 3:11:50 PM ================2/6/2020 3:11:50 PM================
+2/6/2020 3:11:50 PM Phoenix HTTP processor started
+2/6/2020 3:11:50 PM Phoenix Processor Started.
+2/6/2020 3:11:50 PM Processing File 200206_171445078.txt
+2/6/2020 3:11:50 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=53a99457-ac32-ea11-80d9-065916d1083c&STOCKTYPE=SERVICE
+2/6/2020 3:11:52 PM Navigating To URL ..
+2/6/2020 3:12:16 PM Reading Header Details ..
+2/6/2020 3:12:16 PM Reading Item Details ..
+2/6/2020 3:14:13 PM ================2/6/2020 3:14:13 PM================
+2/6/2020 3:14:13 PM Phoenix HTTP processor started
+2/6/2020 3:14:13 PM Phoenix Processor Started.
+2/6/2020 3:14:13 PM Processing File 200206_171445078.txt
+2/6/2020 3:14:13 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=53a99457-ac32-ea11-80d9-065916d1083c&STOCKTYPE=SERVICE
+2/6/2020 3:14:15 PM Navigating To URL ..
+2/6/2020 3:14:22 PM Reading Header Details ..
+2/6/2020 3:14:22 PM Reading Item Details ..
+2/6/2020 3:21:32 PM ================2/6/2020 3:21:32 PM================
+2/6/2020 3:21:32 PM Phoenix HTTP processor started
+2/6/2020 3:21:32 PM Phoenix Processor Started.
+2/6/2020 3:21:32 PM Processing File 200206_171445078.txt
+2/6/2020 3:21:32 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=53a99457-ac32-ea11-80d9-065916d1083c&STOCKTYPE=SERVICE
+2/6/2020 3:21:36 PM Navigating To URL ..
+2/6/2020 3:21:48 PM Reading Header Details ..
+2/6/2020 3:22:24 PM Reading Item Details ..

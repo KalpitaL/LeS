@@ -1,0 +1,147 @@
+12/2/2019 4:39:59 PM ================12/2/2019 4:39:59 PM================
+12/2/2019 4:39:59 PM DNVGL HTTP Processor started
+12/2/2019 4:39:59 PM 
+12/2/2019 4:39:59 PM Supplier: V10107
+12/2/2019 4:39:59 PM Process started for SM0372_WEB
+12/2/2019 4:39:59 PM No RFQ files found.
+12/2/2019 4:39:59 PM RFQ processing stopped.
+12/2/2019 4:39:59 PM 
+12/2/2019 4:39:59 PM Quote processing started.
+12/2/2019 4:39:59 PM 1 files found to process.
+12/2/2019 4:39:59 PM Started Loading interchange object.
+12/2/2019 4:39:59 PM stopped Loading interchange object.
+12/2/2019 4:40:01 PM successfully saved input to database.
+12/2/2019 4:40:01 PM 
+12/2/2019 4:40:01 PM Supplier: V10107
+12/2/2019 4:40:01 PM Process started for SM0695_WEB
+12/2/2019 4:40:01 PM No RFQ files found.
+12/2/2019 4:40:01 PM RFQ processing stopped.
+12/2/2019 4:40:01 PM No quote files found to process.
+12/2/2019 4:40:01 PM 
+12/2/2019 4:40:01 PM Supplier: V10001
+12/2/2019 4:40:01 PM Process started for SM0668_WEB
+12/2/2019 4:40:01 PM No RFQ files found.
+12/2/2019 4:40:01 PM RFQ processing stopped.
+12/2/2019 4:40:01 PM 
+12/2/2019 4:40:01 PM Purchase Order processing started.
+12/2/2019 4:40:01 PM No PO files found.
+12/2/2019 4:40:01 PM Purchase Order processing stopped.
+12/2/2019 4:40:01 PM No quote files found to process.
+12/2/2019 4:40:01 PM 
+12/2/2019 4:40:01 PM POC processing started.
+12/2/2019 4:40:01 PM No POC files found.
+12/2/2019 4:40:01 PM POC processing stopped.
+12/2/2019 4:40:01 PM 
+12/2/2019 4:40:01 PM Supplier: V10001
+12/2/2019 4:40:01 PM Process started for SM0711_WEB
+12/2/2019 4:40:01 PM No RFQ files found.
+12/2/2019 4:40:01 PM RFQ processing stopped.
+12/2/2019 4:40:01 PM 
+12/2/2019 4:40:01 PM Purchase Order processing started.
+12/2/2019 4:40:01 PM No PO files found.
+12/2/2019 4:40:01 PM Purchase Order processing stopped.
+12/2/2019 4:40:01 PM No quote files found to process.
+12/2/2019 4:40:01 PM 
+12/2/2019 4:40:01 PM POC processing started.
+12/2/2019 4:40:01 PM No POC files found.
+12/2/2019 4:40:01 PM POC processing stopped.
+12/2/2019 4:40:01 PM DNVGL HTTP Processor stopped
+12/2/2019 4:40:02 PM ====================================================
+12/2/2019 4:40:45 PM ================12/2/2019 4:40:45 PM================
+12/2/2019 4:40:45 PM DNVGL HTTP Processor started
+12/2/2019 4:40:45 PM 
+12/2/2019 4:40:45 PM Supplier: V10107
+12/2/2019 4:40:45 PM Process started for SM0372_WEB
+12/2/2019 4:40:45 PM No RFQ files found.
+12/2/2019 4:40:45 PM RFQ processing stopped.
+12/2/2019 4:40:45 PM 
+12/2/2019 4:40:45 PM Quote processing started.
+12/2/2019 4:40:45 PM 1 files found to process.
+12/2/2019 4:40:45 PM Started Loading interchange object.
+12/2/2019 4:40:45 PM stopped Loading interchange object.
+12/2/2019 4:40:48 PM successfully saved input to database.
+12/2/2019 4:40:48 PM 
+12/2/2019 4:40:48 PM Supplier: V10107
+12/2/2019 4:40:48 PM Process started for SM0695_WEB
+12/2/2019 4:40:48 PM No RFQ files found.
+12/2/2019 4:40:48 PM RFQ processing stopped.
+12/2/2019 4:40:48 PM No quote files found to process.
+12/2/2019 4:40:48 PM 
+12/2/2019 4:40:48 PM Supplier: V10001
+12/2/2019 4:40:48 PM Process started for SM0668_WEB
+12/2/2019 4:40:48 PM No RFQ files found.
+12/2/2019 4:40:48 PM RFQ processing stopped.
+12/2/2019 4:40:48 PM 
+12/2/2019 4:40:48 PM Purchase Order processing started.
+12/2/2019 4:40:48 PM No PO files found.
+12/2/2019 4:40:48 PM Purchase Order processing stopped.
+12/2/2019 4:40:48 PM No quote files found to process.
+12/2/2019 4:40:48 PM 
+12/2/2019 4:40:48 PM POC processing started.
+12/2/2019 4:40:48 PM No POC files found.
+12/2/2019 4:40:48 PM POC processing stopped.
+12/2/2019 4:40:48 PM 
+12/2/2019 4:40:48 PM Supplier: V10001
+12/2/2019 4:40:48 PM Process started for SM0711_WEB
+12/2/2019 4:40:48 PM No RFQ files found.
+12/2/2019 4:40:48 PM RFQ processing stopped.
+12/2/2019 4:40:48 PM 
+12/2/2019 4:40:48 PM Purchase Order processing started.
+12/2/2019 4:40:48 PM No PO files found.
+12/2/2019 4:40:48 PM Purchase Order processing stopped.
+12/2/2019 4:40:48 PM No quote files found to process.
+12/2/2019 4:40:48 PM 
+12/2/2019 4:40:48 PM POC processing started.
+12/2/2019 4:40:48 PM No POC files found.
+12/2/2019 4:40:48 PM POC processing stopped.
+12/2/2019 4:40:48 PM DNVGL HTTP Processor stopped
+12/2/2019 4:40:48 PM ====================================================
+12/2/2019 6:37:09 PM ================12/2/2019 6:37:09 PM================
+12/2/2019 6:37:09 PM DNVGL HTTP Processor started
+12/2/2019 6:37:09 PM 
+12/2/2019 6:37:09 PM Supplier: V10107
+12/2/2019 6:37:09 PM Process started for SM0372_WEB
+12/2/2019 6:37:09 PM No RFQ files found.
+12/2/2019 6:37:09 PM RFQ processing stopped.
+12/2/2019 6:37:09 PM 
+12/2/2019 6:37:09 PM Quote processing started.
+12/2/2019 6:37:09 PM 1 files found to process.
+12/2/2019 6:37:09 PM Started Loading interchange object.
+12/2/2019 6:37:09 PM stopped Loading interchange object.
+12/2/2019 6:37:11 PM successfully saved input to database.
+12/2/2019 6:37:11 PM 
+12/2/2019 6:37:11 PM Supplier: V10107
+12/2/2019 6:37:11 PM Process started for SM0695_WEB
+12/2/2019 6:37:11 PM No RFQ files found.
+12/2/2019 6:37:11 PM RFQ processing stopped.
+12/2/2019 6:37:11 PM No quote files found to process.
+12/2/2019 6:37:11 PM 
+12/2/2019 6:37:11 PM Supplier: V10001
+12/2/2019 6:37:11 PM Process started for SM0668_WEB
+12/2/2019 6:37:11 PM No RFQ files found.
+12/2/2019 6:37:11 PM RFQ processing stopped.
+12/2/2019 6:37:11 PM 
+12/2/2019 6:37:11 PM Purchase Order processing started.
+12/2/2019 6:37:11 PM No PO files found.
+12/2/2019 6:37:11 PM Purchase Order processing stopped.
+12/2/2019 6:37:11 PM No quote files found to process.
+12/2/2019 6:37:11 PM 
+12/2/2019 6:37:11 PM POC processing started.
+12/2/2019 6:37:11 PM No POC files found.
+12/2/2019 6:37:12 PM POC processing stopped.
+12/2/2019 6:37:12 PM 
+12/2/2019 6:37:12 PM Supplier: V10001
+12/2/2019 6:37:12 PM Process started for SM0711_WEB
+12/2/2019 6:37:12 PM No RFQ files found.
+12/2/2019 6:37:12 PM RFQ processing stopped.
+12/2/2019 6:37:12 PM 
+12/2/2019 6:37:12 PM Purchase Order processing started.
+12/2/2019 6:37:12 PM No PO files found.
+12/2/2019 6:37:12 PM Purchase Order processing stopped.
+12/2/2019 6:37:12 PM No quote files found to process.
+12/2/2019 6:37:12 PM 
+12/2/2019 6:37:12 PM POC processing started.
+12/2/2019 6:37:12 PM No POC files found.
+12/2/2019 6:37:12 PM POC processing stopped.
+12/2/2019 6:37:12 PM DNVGL HTTP Processor stopped
+12/2/2019 6:37:12 PM ====================================================

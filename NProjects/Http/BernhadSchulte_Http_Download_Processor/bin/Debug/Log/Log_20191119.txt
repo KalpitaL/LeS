@@ -1,0 +1,152 @@
+19-11-2019 10:26:24 ================19-11-2019 10:26:24================
+19-11-2019 10:26:24 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 10:26:24 Process started for contact@amos-sg.com
+19-11-2019 10:26:28 Logged in successfully
+19-11-2019 10:26:29 RFQ data extracted successfully.
+19-11-2019 10:43:45 ================19-11-2019 10:43:45================
+19-11-2019 10:43:45 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 10:43:45 Process started for contact@amos-sg.com
+19-11-2019 10:43:50 Logged in successfully
+19-11-2019 10:43:54 Started Loading interchange object.
+19-11-2019 10:43:54 stopped Loading interchange object.
+19-11-2019 10:43:54 Data extracted successfully.
+19-11-2019 10:43:55 User contact@amos-sg.com logged out successfully.
+19-11-2019 10:43:55 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 10:43:55 ====================================================
+19-11-2019 10:44:16 ================19-11-2019 10:44:16================
+19-11-2019 10:44:16 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 10:44:16 Process started for contact@amos-sg.com
+19-11-2019 10:44:20 Logged in successfully
+19-11-2019 10:44:26 Started Loading interchange object.
+19-11-2019 10:44:26 stopped Loading interchange object.
+19-11-2019 10:44:47 Data extracted successfully.
+19-11-2019 10:45:01 User contact@amos-sg.com logged out successfully.
+19-11-2019 10:45:01 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 10:45:01 ====================================================
+19-11-2019 10:49:53 ================19-11-2019 10:49:53================
+19-11-2019 10:49:53 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 10:49:53 Process started for contact@amos-sg.com
+19-11-2019 10:49:56 Logged in successfully
+19-11-2019 10:49:56 Started Loading interchange object.
+19-11-2019 10:49:56 stopped Loading interchange object.
+19-11-2019 10:49:58 Filter Data extracted successfully.
+19-11-2019 11:34:29 ================19-11-2019 11:34:29================
+19-11-2019 11:34:29 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 11:34:29 Process started for contact@amos-sg.com
+19-11-2019 11:34:31 Logged in successfully
+19-11-2019 11:34:31 Started Loading interchange object.
+19-11-2019 11:34:31 stopped Loading interchange object.
+19-11-2019 11:34:38 Filter Data extracted successfully.
+19-11-2019 11:35:53 ================19-11-2019 11:35:53================
+19-11-2019 11:35:53 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 11:35:53 Process started for contact@amos-sg.com
+19-11-2019 11:35:55 Logged in successfully
+19-11-2019 11:35:55 Started Loading interchange object.
+19-11-2019 11:35:55 stopped Loading interchange object.
+19-11-2019 11:36:43 Filter Data extracted successfully.
+19-11-2019 11:46:49 ================19-11-2019 11:46:49================
+19-11-2019 11:46:49 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 11:46:49 Parameters not configuredSystem.MissingMethodException: Method not found: 'Void LeSCommon.LeSCommon.CreateAuditFile(System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String)'.
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.LoadAppsettings()
+   at BernhadSchulte_Http_Download_Processor.Program.ProcessUser(Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 62
+   at BernhadSchulte_Http_Download_Processor.Program.ReadConfig(String sConfigFile, Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 44
+19-11-2019 11:46:49 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 11:46:49 ====================================================
+19-11-2019 11:47:30 ================19-11-2019 11:47:29================
+19-11-2019 11:47:30 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 11:47:30 Parameters not configuredSystem.MissingMethodException: Method not found: 'Void LeSCommon.LeSCommon.CreateAuditFile(System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String)'.
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.LoadAppsettings()
+   at BernhadSchulte_Http_Download_Processor.Program.ProcessUser(Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 62
+   at BernhadSchulte_Http_Download_Processor.Program.ReadConfig(String sConfigFile, Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 44
+19-11-2019 11:47:30 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 11:47:30 ====================================================
+19-11-2019 11:47:37 ================19-11-2019 11:47:37================
+19-11-2019 11:47:37 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 11:47:39 Parameters not configuredSystem.MissingMethodException: Method not found: 'Void LeSCommon.LeSCommon.CreateAuditFile(System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String)'.
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.LoadAppsettings()
+   at BernhadSchulte_Http_Download_Processor.Program.ProcessUser(Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 62
+   at BernhadSchulte_Http_Download_Processor.Program.ReadConfig(String sConfigFile, Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 44
+19-11-2019 11:47:39 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 11:47:40 ====================================================
+19-11-2019 11:47:44 ================19-11-2019 11:47:44================
+19-11-2019 11:47:44 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 11:47:45 Parameters not configuredSystem.MissingMethodException: Method not found: 'Void LeSCommon.LeSCommon.CreateAuditFile(System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String)'.
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.LoadAppsettings()
+   at BernhadSchulte_Http_Download_Processor.Program.ProcessUser(Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 62
+   at BernhadSchulte_Http_Download_Processor.Program.ReadConfig(String sConfigFile, Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 44
+19-11-2019 11:47:46 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 11:47:46 ====================================================
+19-11-2019 11:47:57 ================19-11-2019 11:47:57================
+19-11-2019 11:47:57 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 11:47:58 Parameters not configuredSystem.MissingMethodException: Method not found: 'Void LeSCommon.LeSCommon.CreateAuditFile(System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String, System.String)'.
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.LoadAppsettings()
+   at BernhadSchulte_Http_Download_Processor.Program.ProcessUser(Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 62
+   at BernhadSchulte_Http_Download_Processor.Program.ReadConfig(String sConfigFile, Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 44
+19-11-2019 11:49:13 ================19-11-2019 11:49:13================
+19-11-2019 11:49:13 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 11:49:14 Process started for contact@amos-sg.com
+19-11-2019 11:49:16 Login retry
+19-11-2019 11:49:16 Login retry
+19-11-2019 11:49:16 Login retry
+19-11-2019 11:49:16 Login retry
+19-11-2019 11:49:16 Login failed
+19-11-2019 11:49:16 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 11:49:16 ====================================================
+19-11-2019 11:49:40 ================19-11-2019 11:49:40================
+19-11-2019 11:49:40 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 11:49:41 Process started for contact@amos-sg.com
+19-11-2019 12:02:15 ================19-11-2019 12:02:15================
+19-11-2019 12:02:15 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 12:02:17 Process started for contact@amos-sg.com
+19-11-2019 12:02:19 Login retry
+19-11-2019 12:02:19 Login retry
+19-11-2019 12:02:19 Login retry
+19-11-2019 12:02:19 Login retry
+19-11-2019 12:02:19 Login failed
+19-11-2019 12:02:19 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 12:02:19 ====================================================
+19-11-2019 12:05:53 ================19-11-2019 12:05:53================
+19-11-2019 12:05:53 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 12:05:55 Process started for contact@amos-sg.com
+19-11-2019 12:06:58 ================19-11-2019 12:06:58================
+19-11-2019 12:06:58 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 12:06:59 Process started for contact@amos-sg.com
+19-11-2019 12:47:55 ================19-11-2019 12:47:55================
+19-11-2019 12:47:55 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 12:47:57 Process started for contact@amos-sg.com
+19-11-2019 12:48:01 Login retry
+19-11-2019 12:48:01 Login retry
+19-11-2019 12:48:01 Login retry
+19-11-2019 12:48:01 Login retry
+19-11-2019 12:48:01 Login failed
+19-11-2019 12:48:01 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 12:48:01 ====================================================
+19-11-2019 12:48:08 ================19-11-2019 12:48:08================
+19-11-2019 12:48:08 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 12:48:10 Process started for contact@amos-sg.com
+19-11-2019 12:50:13 ================19-11-2019 12:50:13================
+19-11-2019 12:50:13 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 12:50:14 Process started for contact@amos-sg.com
+19-11-2019 12:50:17 Logged in successfully
+19-11-2019 12:50:17 Started Loading interchange object.
+19-11-2019 12:50:17 stopped Loading interchange object.
+19-11-2019 12:50:17 Filter Data extracted successfully.
+19-11-2019 12:50:18 Exception while processing QUOTE : System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at HTTPWrapper.HTTPWrapper.LoadURL(String _request, String validateNodeTitle, String validateAttribute, String attributeValue, String CookieName, String HiddenAttributeKey, Boolean _ReadResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\HTTPWrapper\HTTPWrapper.cs:line 158
+   at LeSCommon.LeSCommon.LoadURL(String validateNodeType, String validateAttribute, String attributeValue, Boolean _readResponse)
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.GetQuoteDetails(String VrNo) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Bernhard_Schulte_Http_Download_Routine\Http_Download_Routine.cs:line 964
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.ProcessQuote() in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Bernhard_Schulte_Http_Download_Routine\Http_Download_Routine.cs:line 721
+   at BernhadSchulte_Http_Download_Processor.Program.ProcessUser(Http_Download_Routine _wrapper) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Program.cs:line 74
+19-11-2019 12:50:18 User contact@amos-sg.com logged out successfully.
+19-11-2019 12:50:18 Bernhard Schulte RFQ Download HTTP processor stopped
+19-11-2019 12:50:18 ====================================================
+19-11-2019 12:56:26 ================19-11-2019 12:56:26================
+19-11-2019 12:56:26 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 12:56:31 Process started for contact@amos-sg.com
+19-11-2019 12:56:35 Logged in successfully
+19-11-2019 12:56:38 Started Loading interchange object.
+19-11-2019 12:56:38 stopped Loading interchange object.
+19-11-2019 12:56:42 Filter Data extracted successfully.
+19-11-2019 13:06:10 ================19-11-2019 13:06:10================
+19-11-2019 13:06:10 Bernhard Schulte RFQ Download HTTP processor started
+19-11-2019 13:06:10 Process started for contact@amos-sg.com

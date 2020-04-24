@@ -1,0 +1,133 @@
+
+1/7/2020 1:03:20 PM Bernhard Schulte Processor Started.
+1/7/2020 1:03:28 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 1:03:32 PM about:blank
+1/7/2020 1:03:32 PM about:blank
+1/7/2020 1:03:32 PM about:blank
+1/7/2020 1:05:48 PM Login Retry.
+
+1/7/2020 1:06:52 PM Bernhard Schulte Processor Started.
+1/7/2020 1:06:57 PM https://paleconnect.bs-shipmanagement.com/Account/Login
+
+1/7/2020 1:08:28 PM Bernhard Schulte Processor Started.
+1/7/2020 1:08:37 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 1:08:38 PM about:blank
+1/7/2020 1:08:43 PM Login Successfully.
+1/7/2020 1:08:45 PM Quote processing started.
+1/7/2020 1:08:46 PM 1 Quote files found to process.
+1/7/2020 1:08:49 PM 'MTML_QUOTE_RCOO_O0074_RF19_SM0014_V00026_07012015143203.xml' Quote file processing started.
+1/7/2020 1:08:52 PM Started Loading interchange object.
+1/7/2020 1:08:53 PM stopped Loading interchange object.
+1/7/2020 1:09:11 PM Exception while processing Quote MTML : System.IO.IOException: The process cannot access the file 'E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\Quote_Upload\103023_RFQ_RCOO_O0074_RF19_03012020061655096.xlsm' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at Aspose.Cells.Workbook.Save(String fileName, SaveOptions saveOptions)
+   at Aspose.Cells.Workbook.Save(String fileName)
+   at Bernhard_Schulte_Routine.BSRoutine.Add_ValidDate_Remarks(String FileName, String MTML_FileName) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 3246
+   at Bernhard_Schulte_Routine.BSRoutine.ProcessQuoteMTML(String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 1453
+1/7/2020 1:09:12 PM Error in MoveFileToError() - The process cannot access the file because it is being used by another process.
+1/7/2020 1:09:12 PM Quote processing stopped.
+1/7/2020 1:09:12 PM Bernhard Schulte Processor Stopped.
+
+1/7/2020 1:09:46 PM Bernhard Schulte Processor Started.
+1/7/2020 1:09:50 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 1:09:51 PM about:blank
+1/7/2020 1:09:54 PM Login Successfully.
+1/7/2020 1:09:54 PM Quote processing started.
+1/7/2020 1:09:54 PM 1 Quote files found to process.
+1/7/2020 1:09:55 PM 'MTML_QUOTE_RCOO_O0074_RF19_SM0014_V00026_07012015143203.xml' Quote file processing started.
+1/7/2020 1:09:57 PM Started Loading interchange object.
+1/7/2020 1:09:57 PM stopped Loading interchange object.
+
+1/7/2020 1:12:56 PM Bernhard Schulte Processor Started.
+1/7/2020 1:13:02 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 1:13:05 PM Login Successfully.
+1/7/2020 1:13:05 PM Quote processing started.
+1/7/2020 1:13:06 PM 1 Quote files found to process.
+1/7/2020 1:13:07 PM 'MTML_QUOTE_RCOO_O0074_RF19_SM0014_V00026_07012015143203.xml' Quote file processing started.
+1/7/2020 1:13:08 PM Started Loading interchange object.
+1/7/2020 1:13:08 PM stopped Loading interchange object.
+1/7/2020 1:13:12 PM Exception while processing Quote MTML : System.IO.IOException: The process cannot access the file 'E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\Quote_Upload\103023_RFQ_RCOO_O0074_RF19_03012020061655096.xlsm' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.Create(String path)
+   at Aspose.Cells.Workbook.Save(String fileName, SaveOptions saveOptions)
+   at Aspose.Cells.Workbook.Save(String fileName)
+   at Bernhard_Schulte_Routine.BSRoutine.Add_ValidDate_Remarks(String FileName, String MTML_FileName) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 3246
+   at Bernhard_Schulte_Routine.BSRoutine.ProcessQuoteMTML(String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 1453
+1/7/2020 1:13:13 PM Error in MoveFileToError() - The process cannot access the file because it is being used by another process.
+1/7/2020 1:13:13 PM Quote processing stopped.
+1/7/2020 1:13:13 PM Bernhard Schulte Processor Stopped.
+
+1/7/2020 1:14:01 PM Bernhard Schulte Processor Started.
+1/7/2020 1:14:06 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+
+1/7/2020 1:47:34 PM Bernhard Schulte Processor Started.
+1/7/2020 1:47:41 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 1:47:42 PM about:blank
+1/7/2020 1:47:47 PM Login Successfully.
+1/7/2020 1:47:47 PM Quote processing started.
+1/7/2020 1:47:48 PM No Quote files found to process.
+1/7/2020 1:47:48 PM Quote processing stopped.
+1/7/2020 1:47:48 PM Bernhard Schulte Processor Stopped.
+
+1/7/2020 1:48:01 PM Bernhard Schulte Processor Started.
+1/7/2020 1:48:05 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 1:48:07 PM about:blank
+1/7/2020 1:48:10 PM Login Successfully.
+1/7/2020 1:48:10 PM Quote processing started.
+1/7/2020 1:48:11 PM 1 Quote files found to process.
+1/7/2020 1:48:11 PM 'MTML_QUOTE_RCOO_O0074_RF19_SM0014_V00026_07012015143203.xml' Quote file processing started.
+1/7/2020 1:48:13 PM Started Loading interchange object.
+1/7/2020 1:48:13 PM stopped Loading interchange object.
+1/7/2020 1:49:12 PM Filter Quote Table started. for VRNo.RCOO/O0074/RF19
+1/7/2020 1:49:22 PM Filter Quote Table completed.
+1/7/2020 1:50:01 PM Processing started for quote  'RCOO/O0074/RF19'
+1/7/2020 1:50:13 PM Quote for VRNo RCOO/O0074/RF19 imported.
+1/7/2020 1:51:11 PM Price validity date added.
+1/7/2020 1:51:19 PM 2 no. of Lead Days added.
+
+1/7/2020 1:59:56 PM Bernhard Schulte Processor Started.
+1/7/2020 2:00:31 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 2:00:36 PM Login Successfully.
+1/7/2020 2:00:36 PM Quote processing started.
+1/7/2020 2:00:37 PM 1 Quote files found to process.
+1/7/2020 2:00:38 PM 'MTML_QUOTE_RCOO_O0074_RF19_SM0014_V00026_07012015143203.xml' Quote file processing started.
+1/7/2020 2:00:43 PM Started Loading interchange object.
+1/7/2020 2:00:43 PM stopped Loading interchange object.
+
+1/7/2020 2:04:33 PM Bernhard Schulte Processor Started.
+1/7/2020 2:04:38 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 2:04:39 PM about:blank
+1/7/2020 2:04:42 PM Login Successfully.
+1/7/2020 2:04:42 PM Quote processing started.
+1/7/2020 2:04:43 PM 1 Quote files found to process.
+1/7/2020 2:04:43 PM 'MTML_QUOTE_RCOO_O0074_RF19_SM0014_V00026_07012015143203.xml' Quote file processing started.
+1/7/2020 2:04:43 PM Started Loading interchange object.
+1/7/2020 2:04:43 PM stopped Loading interchange object.
+
+1/7/2020 2:10:33 PM Bernhard Schulte Processor Started.
+1/7/2020 2:10:39 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 2:10:40 PM about:blank
+1/7/2020 2:10:43 PM Login Successfully.
+1/7/2020 2:10:43 PM Quote processing started.
+1/7/2020 2:10:44 PM 1 Quote files found to process.
+1/7/2020 2:10:46 PM 'MTML_QUOTE_RCOO_O0074_RF19_SM0014_V00026_07012015143203.xml' Quote file processing started.
+1/7/2020 2:10:47 PM Started Loading interchange object.
+1/7/2020 2:10:47 PM stopped Loading interchange object.
+
+1/7/2020 2:11:17 PM Bernhard Schulte Processor Started.
+1/7/2020 2:11:22 PM https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+1/7/2020 2:11:23 PM about:blank
+1/7/2020 2:11:26 PM Login Successfully.
+1/7/2020 2:11:26 PM Quote processing started.
+1/7/2020 2:11:26 PM 1 Quote files found to process.
+1/7/2020 2:11:26 PM 'MTML_QUOTE_RCOO_O0074_RF19_SM0014_V00026_07012015143203.xml' Quote file processing started.
+1/7/2020 2:11:26 PM Started Loading interchange object.
+1/7/2020 2:11:26 PM stopped Loading interchange object.
+1/7/2020 2:11:37 PM Filter Quote Table started. for VRNo.RCOO/O0074/RF19

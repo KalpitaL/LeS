@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8823223-1" Identifier="UNOC" Recipient="SM0752_WEB" Sender="V10107" PreparationDate="2020-Jan-08" PreparationTime="18:54" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2679" LesRecordID="11892408" LesLinkID="103736" ParentRecordID="11890069" MTML_DOCID="EA426952-542B-4F42-89A7-41D8EF97C91C">
+    <Quote MessageReferenceNumber="E/387/ES002/20/1398" MessageNumber="https://webquote.navbul.com/suppliers/Edit_Req.aspx?LeadIDT=E/387/ES002/20/1398" LineItemCount="3" VersionNumber="1" CurrencyCode="EUR" LeadTimeDays="0" BuyerRefNo="E/387/ES002/20/1398" OriginalFile="20200108114156-QUO-E-387-ES002-20-1398-1.xml" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="152.04" BuyerQuoteTotal="152.04">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202001081254" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202003081854" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="E/387/ES002/20/1398" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8823223-1" />
+      <Party Qualifier="BY" Name="Navigation Maritime Bulgare">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="VESLETS">
+        <PartyLocation Qualifier="ZUC" Berth="BRUNSBUTTEL" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="SEAMLESS CARBON STEEL ELBOWS TO DIN 2605 - ST37,0 45 LR - DIN - 4&quot; " MeasureUnitQualifier="Pieces" Quantity="4" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_0" SystemItemNo="1" MonetaryAmount="21.72" Identification="731110" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="5.43" BuyerItemTotal="21.72" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.43" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 4 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="SEAMLESS CARBON STEEL ELBOWS TO DIN 2605 - ST37,0 90 LR  - DIN - 4&quot; " MeasureUnitQualifier="Pieces" Quantity="6" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_1" SystemItemNo="2" MonetaryAmount="54.30" Identification="731130" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="9.05" BuyerItemTotal="54.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.05" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 6 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="STEEL WELDING FLANGE FLAT FACE DIN 2576  PN6 MAT. S235JR - 4&quot;  PCD- 170 " MeasureUnitQualifier="Pieces" Quantity="6" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_2" SystemItemNo="3" MonetaryAmount="76.02" Identification="735510" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="12.67" BuyerItemTotal="76.02" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.67" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 6 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="152.040" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="152.040" />
+      <MonetaryAmount Qualifier="_90" Value="152.040" />
+      <MonetaryAmount Qualifier="_91" Value="152.040" />
+    </Quote>
+  </Interchange>
+</MTML>

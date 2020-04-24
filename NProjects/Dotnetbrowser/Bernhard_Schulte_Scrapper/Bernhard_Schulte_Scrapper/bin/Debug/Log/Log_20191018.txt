@@ -1,0 +1,73 @@
+18-10-2019 14:47:05 Quote processing started.
+
+18-10-2019 14:47:08 Bernhard Schulte Processor Started.
+18-10-2019 14:47:22 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+18-10-2019 14:47:24 about:blank
+18-10-2019 14:47:24 about:blank
+18-10-2019 14:47:24 about:blank
+18-10-2019 14:55:52 Login Retry.
+18-10-2019 14:56:32 Quote processing started.
+
+18-10-2019 14:56:32 Bernhard Schulte Processor Started.
+18-10-2019 14:56:39 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+18-10-2019 14:56:40 about:blank
+18-10-2019 14:56:47 Login Successfully.
+18-10-2019 14:56:50 1 Quote files found to process.
+18-10-2019 14:56:54 'MTML_QUOTE_UND_O0087_RF19_SM0016_V00026_18101916442941.xml' Quote file processing started.
+18-10-2019 14:56:59 Started Loading interchange object.
+18-10-2019 14:56:59 stopped Loading interchange object.
+18-10-2019 14:57:22 Exception while processing Quote MTML : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at Bernhard_Schulte_Routine.BSRoutine.Add_ValidDate_Remarks(String FileName, String MTML_FileName) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 3059
+   at Bernhard_Schulte_Routine.BSRoutine.ProcessQuoteMTML(String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 1433
+18-10-2019 14:57:24 Quote processing stopped.
+18-10-2019 14:57:24 Bernhard Schulte Processor Stopped.
+18-10-2019 14:58:21 Quote processing started.
+18-10-2019 14:58:21 No Quote files found to process.
+18-10-2019 14:58:21 Quote processing stopped.
+18-10-2019 14:58:21 Bernhard Schulte Processor Stopped.
+18-10-2019 14:58:52 Quote processing started.
+
+18-10-2019 14:58:52 Bernhard Schulte Processor Started.
+18-10-2019 14:58:57 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+18-10-2019 14:59:02 Login Successfully.
+18-10-2019 14:59:06 1 Quote files found to process.
+18-10-2019 14:59:08 'MTML_QUOTE_UND_O0087_RF19_SM0016_V00026_18101916442941.xml' Quote file processing started.
+18-10-2019 14:59:11 Started Loading interchange object.
+18-10-2019 14:59:11 stopped Loading interchange object.
+18-10-2019 15:00:48 Quote processing started.
+
+18-10-2019 15:00:48 Bernhard Schulte Processor Started.
+18-10-2019 15:00:54 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+18-10-2019 15:02:25 Quote processing started.
+
+18-10-2019 15:02:25 Bernhard Schulte Processor Started.
+18-10-2019 15:02:30 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+18-10-2019 15:02:31 about:blank
+18-10-2019 15:02:34 Login Successfully.
+18-10-2019 15:02:36 1 Quote files found to process.
+18-10-2019 15:02:37 'MTML_QUOTE_UND_O0087_RF19_SM0016_V00026_18101916442941.xml' Quote file processing started.
+18-10-2019 15:02:38 Started Loading interchange object.
+18-10-2019 15:02:38 stopped Loading interchange object.
+18-10-2019 17:26:05 Quote processing started.
+
+18-10-2019 17:26:05 Bernhard Schulte Processor Started.
+18-10-2019 17:26:10 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+18-10-2019 17:26:11 about:blank
+18-10-2019 17:26:14 Login Successfully.
+18-10-2019 17:26:14 1 Quote files found to process.
+18-10-2019 17:26:15 'MTML_QUOTE_UND_O0087_RF19_SM0016_V00026_18101916442941.xml' Quote file processing started.
+18-10-2019 17:26:16 Started Loading interchange object.
+18-10-2019 17:26:16 stopped Loading interchange object.
+18-10-2019 17:28:13 Quote processing started.
+
+18-10-2019 17:28:13 Bernhard Schulte Processor Started.
+18-10-2019 17:28:18 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+18-10-2019 17:28:22 Login Successfully.
+18-10-2019 17:28:23 1 Quote files found to process.
+18-10-2019 17:28:23 'MTML_QUOTE_UND_O0087_RF19_SM0016_V00026_18101916442941.xml' Quote file processing started.
+18-10-2019 17:28:25 Started Loading interchange object.
+18-10-2019 17:28:25 stopped Loading interchange object.
+18-10-2019 17:28:50 Filter Quote Table started. for VRNo.UND/O0087/RF19
+18-10-2019 17:28:58 Filter Quote Table completed.

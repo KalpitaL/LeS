@@ -1,0 +1,14 @@
+4/6/2020 4:38:00 PM ================4/6/2020 4:38:00 PM================
+4/6/2020 4:38:00 PM CloudFleetManager Quote,POC HTTP processor started
+4/6/2020 4:38:00 PM 
+4/6/2020 4:38:00 PM Quote processing started.
+4/6/2020 4:38:00 PM Started Loading interchange object.
+4/6/2020 4:38:00 PM stopped Loading interchange object.
+4/6/2020 4:38:00 PM 'MTML_QUOTE_534_2020e-I006_SM0194_V10001_06042018185106.xml' Quote file processing started.
+4/6/2020 4:38:00 PM https://vega.cloudfleetmanager.com/apps/quote/c77eccbe-432e-4054-9cbf-ce8259112f39|MTML_QUOTE_534_2020e-I006_SM0194_V10001_06042018185106.xml|D:\Office Work\Namrata_Projects_16032020\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+4/6/2020 4:38:28 PM Start filling header details
+4/6/2020 4:38:40 PM True||5/6/2020||5/6/2020
+4/6/2020 4:38:40 PM Stop filling header details
+4/6/2020 4:38:40 PM Item Details started
+4/6/2020 4:38:40 PM Start filling line item details
+4/6/2020 4:38:53 PM Stop filling lineitem details

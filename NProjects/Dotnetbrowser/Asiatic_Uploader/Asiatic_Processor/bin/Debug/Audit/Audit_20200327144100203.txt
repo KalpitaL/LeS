@@ -1,0 +1,1 @@
+||CloudFleetManager Quote|CloudFleetManager_Quote_Error_512_2020e-I001_20200327144035_V10001.pdf|512/2020e-I001|Error|20-03-27 14:41 : LeS-1008.2:Unable to Save Quote since Quote is in readonly status for  512/2020e-I001||LeS_182|SM0194_WEB|V10001|CloudFleetManager_Uploader

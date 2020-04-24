@@ -1,0 +1,557 @@
+12/13/2019 12:31:15 PM ================12/13/2019 12:31:15 PM================
+12/13/2019 12:31:15 PM Phoenix HTTP processor started
+12/13/2019 12:31:18 PM Phoenix Processor Started.
+12/13/2019 12:31:26 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 12:32:24 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 12:32:30 PM Navigating To URL ..
+12/13/2019 12:42:19 PM ================12/13/2019 12:42:19 PM================
+12/13/2019 12:42:19 PM Phoenix HTTP processor started
+12/13/2019 12:42:20 PM Phoenix Processor Started.
+12/13/2019 12:42:20 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 12:42:37 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 12:42:38 PM Navigating To URL ..
+12/13/2019 12:42:53 PM Page Loaded ..
+12/13/2019 12:42:54 PM Reading Header Details ..
+12/13/2019 12:44:16 PM ================12/13/2019 12:44:16 PM================
+12/13/2019 12:44:16 PM Phoenix HTTP processor started
+12/13/2019 12:44:17 PM Phoenix Processor Started.
+12/13/2019 12:44:17 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 12:44:19 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 12:44:21 PM Navigating To URL ..
+12/13/2019 12:44:32 PM Page Loaded ..
+12/13/2019 12:44:37 PM Reading Header Details ..
+12/13/2019 12:45:41 PM ================12/13/2019 12:45:41 PM================
+12/13/2019 12:45:41 PM Phoenix HTTP processor started
+12/13/2019 12:45:42 PM Phoenix Processor Started.
+12/13/2019 12:45:43 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 12:45:43 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 12:45:43 PM Navigating To URL ..
+12/13/2019 12:45:48 PM Page Loaded ..
+12/13/2019 12:45:49 PM Reading Header Details ..
+12/13/2019 12:50:04 PM ================12/13/2019 12:50:04 PM================
+12/13/2019 12:50:04 PM Phoenix HTTP processor started
+12/13/2019 12:52:15 PM Phoenix Processor Started.
+12/13/2019 12:52:15 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 12:52:16 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 12:52:17 PM Navigating To URL ..
+12/13/2019 12:52:26 PM Page Loaded ..
+12/13/2019 12:52:30 PM Reading Header Details ..
+12/13/2019 12:53:19 PM ================12/13/2019 12:53:19 PM================
+12/13/2019 12:53:19 PM Phoenix HTTP processor started
+12/13/2019 12:53:20 PM Phoenix Processor Started.
+12/13/2019 12:53:21 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 12:53:21 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 12:53:22 PM Navigating To URL ..
+12/13/2019 12:53:27 PM Page Loaded ..
+12/13/2019 12:53:28 PM Reading Header Details ..
+12/13/2019 1:02:01 PM ================12/13/2019 1:02:01 PM================
+12/13/2019 1:02:01 PM Phoenix HTTP processor started
+12/13/2019 1:02:02 PM Phoenix Processor Started.
+12/13/2019 1:02:02 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 1:02:03 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 1:02:04 PM Navigating To URL ..
+12/13/2019 1:02:09 PM Page Loaded ..
+12/13/2019 1:02:10 PM Reading Header Details ..
+12/13/2019 2:11:37 PM ================12/13/2019 2:11:37 PM================
+12/13/2019 2:11:37 PM Phoenix HTTP processor started
+12/13/2019 2:11:38 PM Phoenix Processor Started.
+12/13/2019 2:11:38 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 2:11:39 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:11:42 PM Navigating To URL ..
+12/13/2019 2:11:59 PM Page Loaded ..
+12/13/2019 2:12:02 PM Reading Header Details ..
+12/13/2019 2:22:10 PM ================12/13/2019 2:22:10 PM================
+12/13/2019 2:22:10 PM Phoenix HTTP processor started
+12/13/2019 2:22:11 PM Phoenix Processor Started.
+12/13/2019 2:22:11 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 2:22:12 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:22:13 PM Navigating To URL ..
+12/13/2019 2:22:17 PM Page Loaded ..
+12/13/2019 2:22:18 PM Reading Header Details ..
+12/13/2019 2:33:52 PM ================12/13/2019 2:33:52 PM================
+12/13/2019 2:33:52 PM Phoenix HTTP processor started
+12/13/2019 2:33:53 PM Phoenix Processor Started.
+12/13/2019 2:33:53 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 2:33:53 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:33:54 PM Navigating To URL ..
+12/13/2019 2:33:59 PM Page Loaded ..
+12/13/2019 2:34:00 PM Reading Header Details ..
+12/13/2019 2:38:30 PM ================12/13/2019 2:38:30 PM================
+12/13/2019 2:38:30 PM Phoenix HTTP processor started
+12/13/2019 2:38:31 PM Phoenix Processor Started.
+12/13/2019 2:38:31 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 2:38:32 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:38:32 PM Navigating To URL ..
+12/13/2019 2:38:37 PM Page Loaded ..
+12/13/2019 2:38:39 PM Reading Header Details ..
+12/13/2019 2:42:28 PM ================12/13/2019 2:42:28 PM================
+12/13/2019 2:42:28 PM Phoenix HTTP processor started
+12/13/2019 2:42:28 PM Phoenix Processor Started.
+12/13/2019 2:42:29 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 2:42:29 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:42:29 PM Navigating To URL ..
+12/13/2019 2:42:34 PM Page Loaded ..
+12/13/2019 2:42:34 PM Reading Header Details ..
+12/13/2019 2:43:46 PM ================12/13/2019 2:43:46 PM================
+12/13/2019 2:43:46 PM Phoenix HTTP processor started
+12/13/2019 2:43:47 PM Phoenix Processor Started.
+12/13/2019 2:43:48 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 2:43:48 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:43:49 PM Navigating To URL ..
+12/13/2019 2:43:55 PM Page Loaded ..
+12/13/2019 2:43:55 PM Reading Header Details ..
+12/13/2019 2:45:58 PM ================12/13/2019 2:45:58 PM================
+12/13/2019 2:45:58 PM Phoenix HTTP processor started
+12/13/2019 2:45:59 PM Phoenix Processor Started.
+12/13/2019 2:45:59 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 2:45:59 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:46:00 PM Navigating To URL ..
+12/13/2019 2:46:04 PM Page Loaded ..
+12/13/2019 2:46:05 PM Reading Header Details ..
+12/13/2019 2:46:32 PM ================12/13/2019 2:46:32 PM================
+12/13/2019 2:46:32 PM Phoenix HTTP processor started
+12/13/2019 2:46:36 PM Phoenix Processor Started.
+12/13/2019 2:46:36 PM Processing File 4001020_191212_201218099.txt
+12/13/2019 2:46:37 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:46:39 PM Navigating To URL ..
+12/13/2019 2:46:48 PM Page Loaded ..
+12/13/2019 2:46:50 PM Reading Header Details ..
+12/13/2019 2:48:08 PM ================12/13/2019 2:48:08 PM================
+12/13/2019 2:48:08 PM Phoenix HTTP processor started
+12/13/2019 2:48:08 PM Phoenix Processor Started.
+12/13/2019 2:48:08 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 2:48:08 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:48:08 PM Navigating To URL ..
+12/13/2019 2:48:16 PM Page Loaded ..
+12/13/2019 2:48:17 PM Reading Header Details ..
+12/13/2019 2:48:38 PM ================12/13/2019 2:48:38 PM================
+12/13/2019 2:48:38 PM Phoenix HTTP processor started
+12/13/2019 2:48:38 PM Phoenix Processor Started.
+12/13/2019 2:48:38 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 2:48:38 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:48:38 PM Navigating To URL ..
+12/13/2019 2:48:51 PM Page Loaded ..
+12/13/2019 2:48:52 PM Reading Header Details ..
+12/13/2019 2:50:59 PM ================12/13/2019 2:50:59 PM================
+12/13/2019 2:50:59 PM Phoenix HTTP processor started
+12/13/2019 2:50:59 PM Phoenix Processor Started.
+12/13/2019 2:50:59 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 2:50:59 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:50:59 PM Navigating To URL ..
+12/13/2019 2:51:04 PM Page Loaded ..
+12/13/2019 2:51:05 PM Reading Header Details ..
+12/13/2019 2:51:50 PM ================12/13/2019 2:51:50 PM================
+12/13/2019 2:51:50 PM Phoenix HTTP processor started
+12/13/2019 2:51:50 PM Phoenix Processor Started.
+12/13/2019 2:51:50 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 2:51:50 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:51:50 PM Navigating To URL ..
+12/13/2019 2:52:16 PM Page Loaded ..
+12/13/2019 2:52:17 PM Reading Header Details ..
+12/13/2019 2:56:02 PM ================12/13/2019 2:56:02 PM================
+12/13/2019 2:56:02 PM Phoenix HTTP processor started
+12/13/2019 2:56:02 PM Phoenix Processor Started.
+12/13/2019 2:56:02 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 2:56:02 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:56:02 PM Navigating To URL ..
+12/13/2019 2:59:01 PM ================12/13/2019 2:59:01 PM================
+12/13/2019 2:59:01 PM Phoenix HTTP processor started
+12/13/2019 2:59:01 PM Phoenix Processor Started.
+12/13/2019 2:59:01 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 2:59:01 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 2:59:01 PM Navigating To URL ..
+12/13/2019 3:02:05 PM ================12/13/2019 3:02:05 PM================
+12/13/2019 3:02:05 PM Phoenix HTTP processor started
+12/13/2019 3:02:05 PM Phoenix Processor Started.
+12/13/2019 3:02:05 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:02:05 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:02:05 PM Navigating To URL ..
+12/13/2019 3:02:49 PM ================12/13/2019 3:02:49 PM================
+12/13/2019 3:02:49 PM Phoenix HTTP processor started
+12/13/2019 3:02:49 PM Phoenix Processor Started.
+12/13/2019 3:02:49 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:02:49 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:02:49 PM Navigating To URL ..
+12/13/2019 3:18:52 PM ================12/13/2019 3:18:52 PM================
+12/13/2019 3:18:52 PM Phoenix HTTP processor started
+12/13/2019 3:18:52 PM Phoenix Processor Started.
+12/13/2019 3:18:52 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:18:52 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:18:52 PM Navigating To URL ..
+12/13/2019 3:19:57 PM Page Loaded ..
+12/13/2019 3:19:58 PM Reading Header Details ..
+12/13/2019 3:21:34 PM ================12/13/2019 3:21:34 PM================
+12/13/2019 3:21:34 PM Phoenix HTTP processor started
+12/13/2019 3:21:34 PM Phoenix Processor Started.
+12/13/2019 3:21:34 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:21:34 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:21:35 PM Navigating To URL ..
+12/13/2019 3:21:52 PM Page Loaded ..
+12/13/2019 3:21:53 PM Reading Header Details ..
+12/13/2019 3:23:53 PM ================12/13/2019 3:23:53 PM================
+12/13/2019 3:23:53 PM Phoenix HTTP processor started
+12/13/2019 3:23:53 PM Phoenix Processor Started.
+12/13/2019 3:23:53 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:23:53 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:23:53 PM Navigating To URL ..
+12/13/2019 3:24:12 PM Page Loaded ..
+12/13/2019 3:24:13 PM Reading Header Details ..
+12/13/2019 3:25:25 PM ================12/13/2019 3:25:25 PM================
+12/13/2019 3:25:25 PM Phoenix HTTP processor started
+12/13/2019 3:25:25 PM Phoenix Processor Started.
+12/13/2019 3:25:25 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:25:25 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:25:25 PM Navigating To URL ..
+12/13/2019 3:25:33 PM ================12/13/2019 3:25:33 PM================
+12/13/2019 3:25:33 PM Phoenix HTTP processor started
+12/13/2019 3:25:33 PM Phoenix Processor Started.
+12/13/2019 3:25:33 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:25:33 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:25:33 PM Navigating To URL ..
+12/13/2019 3:25:44 PM Page Loaded ..
+12/13/2019 3:25:48 PM Reading Header Details ..
+12/13/2019 3:31:01 PM ================12/13/2019 3:31:01 PM================
+12/13/2019 3:31:01 PM Phoenix HTTP processor started
+12/13/2019 3:31:01 PM Phoenix Processor Started.
+12/13/2019 3:31:01 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:31:01 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:31:01 PM Navigating To URL ..
+12/13/2019 3:31:10 PM Page Loaded ..
+12/13/2019 3:31:11 PM Reading Header Details ..
+12/13/2019 3:32:04 PM ================12/13/2019 3:32:04 PM================
+12/13/2019 3:32:04 PM Phoenix HTTP processor started
+12/13/2019 3:32:04 PM Phoenix Processor Started.
+12/13/2019 3:32:04 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:32:04 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:32:04 PM Navigating To URL ..
+12/13/2019 3:32:13 PM Page Loaded ..
+12/13/2019 3:32:15 PM Reading Header Details ..
+12/13/2019 3:36:41 PM ================12/13/2019 3:36:41 PM================
+12/13/2019 3:36:41 PM Phoenix HTTP processor started
+12/13/2019 3:36:41 PM Phoenix Processor Started.
+12/13/2019 3:36:41 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:36:41 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:36:41 PM Navigating To URL ..
+12/13/2019 3:36:45 PM Page Loaded ..
+12/13/2019 3:36:45 PM Reading Header Details ..
+12/13/2019 3:37:23 PM ================12/13/2019 3:37:23 PM================
+12/13/2019 3:37:23 PM Phoenix HTTP processor started
+12/13/2019 3:37:23 PM Phoenix Processor Started.
+12/13/2019 3:37:23 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:37:23 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:37:23 PM Navigating To URL ..
+12/13/2019 3:37:27 PM Page Loaded ..
+12/13/2019 3:37:28 PM Reading Header Details ..
+12/13/2019 3:39:42 PM ================12/13/2019 3:39:42 PM================
+12/13/2019 3:39:42 PM Phoenix HTTP processor started
+12/13/2019 3:39:42 PM Phoenix Processor Started.
+12/13/2019 3:39:42 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:39:42 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:39:42 PM Navigating To URL ..
+12/13/2019 3:39:48 PM Page Loaded ..
+12/13/2019 3:39:49 PM Reading Header Details ..
+12/13/2019 3:41:13 PM ================12/13/2019 3:41:13 PM================
+12/13/2019 3:41:13 PM Phoenix HTTP processor started
+12/13/2019 3:41:13 PM Phoenix Processor Started.
+12/13/2019 3:41:13 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:41:13 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:41:13 PM Navigating To URL ..
+12/13/2019 3:41:17 PM Page Loaded ..
+12/13/2019 3:41:17 PM Reading Header Details ..
+12/13/2019 3:52:33 PM ================12/13/2019 3:52:33 PM================
+12/13/2019 3:52:33 PM Phoenix HTTP processor started
+12/13/2019 3:52:33 PM Phoenix Processor Started.
+12/13/2019 3:52:33 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 3:52:33 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 3:52:33 PM Navigating To URL ..
+12/13/2019 3:52:36 PM Page Loaded ..
+12/13/2019 3:52:36 PM Reading Header Details ..
+12/13/2019 3:54:31 PM Reading Item Details ..
+12/13/2019 4:00:34 PM ================12/13/2019 4:00:34 PM================
+12/13/2019 4:00:34 PM Phoenix HTTP processor started
+12/13/2019 4:00:34 PM Phoenix Processor Started.
+12/13/2019 4:00:34 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 4:00:34 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 4:00:34 PM Navigating To URL ..
+12/13/2019 4:00:38 PM Page Loaded ..
+12/13/2019 4:00:38 PM Reading Header Details ..
+12/13/2019 4:01:20 PM Reading Item Details ..
+12/13/2019 4:13:57 PM ================12/13/2019 4:13:57 PM================
+12/13/2019 4:13:57 PM Phoenix HTTP processor started
+12/13/2019 4:13:57 PM Phoenix Processor Started.
+12/13/2019 4:13:57 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 4:13:57 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 4:13:57 PM Navigating To URL ..
+12/13/2019 4:14:02 PM Page Loaded ..
+12/13/2019 4:14:02 PM Reading Header Details ..
+12/13/2019 4:14:09 PM Reading Item Details ..
+12/13/2019 4:16:20 PM ================12/13/2019 4:16:20 PM================
+12/13/2019 4:16:20 PM Phoenix HTTP processor started
+12/13/2019 4:16:20 PM Phoenix Processor Started.
+12/13/2019 4:16:20 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 4:16:20 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 4:16:20 PM Navigating To URL ..
+12/13/2019 4:16:24 PM Page Loaded ..
+12/13/2019 4:16:24 PM Reading Header Details ..
+12/13/2019 4:16:28 PM Reading Item Details ..
+12/13/2019 4:20:14 PM ================12/13/2019 4:20:14 PM================
+12/13/2019 4:20:14 PM Phoenix HTTP processor started
+12/13/2019 4:20:14 PM Phoenix Processor Started.
+12/13/2019 4:20:14 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 4:20:14 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 4:20:14 PM Navigating To URL ..
+12/13/2019 4:20:18 PM Page Loaded ..
+12/13/2019 4:20:18 PM Reading Header Details ..
+12/13/2019 4:20:23 PM Reading Item Details ..
+12/13/2019 4:36:01 PM ================12/13/2019 4:36:01 PM================
+12/13/2019 4:36:01 PM Phoenix HTTP processor started
+12/13/2019 4:36:01 PM Phoenix Processor Started.
+12/13/2019 4:36:01 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 4:36:01 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 4:36:01 PM Navigating To URL ..
+12/13/2019 4:36:05 PM Page Loaded ..
+12/13/2019 4:36:05 PM Reading Header Details ..
+12/13/2019 4:36:13 PM Reading Item Details ..
+12/13/2019 4:43:55 PM ================12/13/2019 4:43:55 PM================
+12/13/2019 4:43:55 PM Phoenix HTTP processor started
+12/13/2019 4:43:55 PM Phoenix Processor Started.
+12/13/2019 4:43:55 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 4:43:55 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 4:43:55 PM Navigating To URL ..
+12/13/2019 4:43:59 PM Page Loaded ..
+12/13/2019 4:43:59 PM Reading Header Details ..
+12/13/2019 4:44:02 PM Reading Item Details ..
+12/13/2019 4:45:18 PM ================12/13/2019 4:45:18 PM================
+12/13/2019 4:45:18 PM Phoenix HTTP processor started
+12/13/2019 4:45:18 PM Phoenix Processor Started.
+12/13/2019 4:45:18 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 4:45:18 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 4:45:18 PM Navigating To URL ..
+12/13/2019 4:45:23 PM Page Loaded ..
+12/13/2019 4:45:23 PM Reading Header Details ..
+12/13/2019 4:45:26 PM Reading Item Details ..
+12/13/2019 4:56:51 PM ================12/13/2019 4:56:51 PM================
+12/13/2019 4:56:51 PM Phoenix HTTP processor started
+12/13/2019 4:56:51 PM Phoenix Processor Started.
+12/13/2019 4:56:51 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 4:56:51 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 4:56:51 PM Navigating To URL ..
+12/13/2019 4:56:54 PM Page Loaded ..
+12/13/2019 4:56:54 PM Reading Header Details ..
+12/13/2019 4:57:00 PM Reading Item Details ..
+12/13/2019 5:01:15 PM ================12/13/2019 5:01:15 PM================
+12/13/2019 5:01:15 PM Phoenix HTTP processor started
+12/13/2019 5:01:15 PM Phoenix Processor Started.
+12/13/2019 5:01:15 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 5:01:15 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 5:01:15 PM Navigating To URL ..
+12/13/2019 5:01:30 PM Page Loaded ..
+12/13/2019 5:01:30 PM Reading Header Details ..
+12/13/2019 5:01:32 PM Reading Item Details ..
+12/13/2019 5:03:51 PM ================12/13/2019 5:03:51 PM================
+12/13/2019 5:03:51 PM Phoenix HTTP processor started
+12/13/2019 5:03:51 PM Phoenix Processor Started.
+12/13/2019 5:03:51 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 5:03:52 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 5:03:52 PM Navigating To URL ..
+12/13/2019 5:03:59 PM Page Loaded ..
+12/13/2019 5:03:59 PM Reading Header Details ..
+12/13/2019 5:04:07 PM Reading Item Details ..
+12/13/2019 5:05:26 PM ================12/13/2019 5:05:26 PM================
+12/13/2019 5:05:26 PM Phoenix HTTP processor started
+12/13/2019 5:05:26 PM Phoenix Processor Started.
+12/13/2019 5:05:26 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 5:05:26 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 5:05:27 PM Navigating To URL ..
+12/13/2019 5:05:30 PM Page Loaded ..
+12/13/2019 5:05:30 PM Reading Header Details ..
+12/13/2019 5:05:34 PM Reading Item Details ..
+12/13/2019 5:09:16 PM ================12/13/2019 5:09:16 PM================
+12/13/2019 5:09:16 PM Phoenix HTTP processor started
+12/13/2019 5:09:16 PM Phoenix Processor Started.
+12/13/2019 5:09:16 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 5:09:16 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 5:09:16 PM Navigating To URL ..
+12/13/2019 5:10:03 PM Page Loaded ..
+12/13/2019 5:10:03 PM Reading Header Details ..
+12/13/2019 5:10:24 PM Reading Item Details ..
+12/13/2019 5:10:58 PM ================12/13/2019 5:10:58 PM================
+12/13/2019 5:10:58 PM Phoenix HTTP processor started
+12/13/2019 5:10:58 PM Phoenix Processor Started.
+12/13/2019 5:10:58 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 5:10:58 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 5:10:58 PM Navigating To URL ..
+12/13/2019 5:11:01 PM Page Loaded ..
+12/13/2019 5:11:01 PM Reading Header Details ..
+12/13/2019 5:11:04 PM Reading Item Details ..
+12/13/2019 5:12:40 PM ================12/13/2019 5:12:40 PM================
+12/13/2019 5:12:40 PM Phoenix HTTP processor started
+12/13/2019 5:12:40 PM Phoenix Processor Started.
+12/13/2019 5:12:40 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 5:12:40 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 5:12:40 PM Navigating To URL ..
+12/13/2019 5:13:16 PM Page Loaded ..
+12/13/2019 5:13:16 PM Reading Header Details ..
+12/13/2019 5:13:19 PM Reading Item Details ..
+12/13/2019 5:16:43 PM ================12/13/2019 5:16:43 PM================
+12/13/2019 5:16:43 PM Phoenix HTTP processor started
+12/13/2019 5:16:43 PM Phoenix Processor Started.
+12/13/2019 5:16:43 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 5:16:43 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 5:16:43 PM Navigating To URL ..
+12/13/2019 5:16:47 PM Page Loaded ..
+12/13/2019 5:16:47 PM Reading Header Details ..
+12/13/2019 5:16:49 PM Reading Item Details ..
+12/13/2019 5:19:47 PM ================12/13/2019 5:19:47 PM================
+12/13/2019 5:19:47 PM Phoenix HTTP processor started
+12/13/2019 5:19:47 PM Phoenix Processor Started.
+12/13/2019 5:19:47 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 5:19:47 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 5:19:47 PM Navigating To URL ..
+12/13/2019 5:19:50 PM Page Loaded ..
+12/13/2019 5:19:50 PM Reading Header Details ..
+12/13/2019 5:19:52 PM Reading Item Details ..
+12/13/2019 5:58:52 PM ================12/13/2019 5:58:52 PM================
+12/13/2019 5:58:52 PM Phoenix HTTP processor started
+12/13/2019 5:58:52 PM Phoenix Processor Started.
+12/13/2019 5:58:52 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 5:58:52 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 5:58:52 PM Navigating To URL ..
+12/13/2019 5:58:55 PM Page Loaded ..
+12/13/2019 5:58:55 PM Reading Header Details ..
+12/13/2019 5:58:59 PM Reading Item Details ..
+12/13/2019 6:01:51 PM ================12/13/2019 6:01:51 PM================
+12/13/2019 6:01:51 PM Phoenix HTTP processor started
+12/13/2019 6:01:51 PM Phoenix Processor Started.
+12/13/2019 6:01:51 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 6:01:51 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 6:01:51 PM Navigating To URL ..
+12/13/2019 6:01:54 PM Page Loaded ..
+12/13/2019 6:01:54 PM Reading Header Details ..
+12/13/2019 6:01:58 PM Reading Item Details ..
+12/13/2019 6:03:07 PM ================12/13/2019 6:03:07 PM================
+12/13/2019 6:03:07 PM Phoenix HTTP processor started
+12/13/2019 6:03:07 PM Phoenix Processor Started.
+12/13/2019 6:03:07 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 6:03:07 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 6:03:07 PM Navigating To URL ..
+12/13/2019 6:03:11 PM Page Loaded ..
+12/13/2019 6:03:11 PM Reading Header Details ..
+12/13/2019 6:03:27 PM Reading Item Details ..
+12/13/2019 6:05:29 PM ================12/13/2019 6:05:29 PM================
+12/13/2019 6:05:29 PM Phoenix HTTP processor started
+12/13/2019 6:05:29 PM Phoenix Processor Started.
+12/13/2019 6:05:29 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 6:05:29 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 6:05:29 PM Navigating To URL ..
+12/13/2019 6:05:33 PM Page Loaded ..
+12/13/2019 6:05:33 PM Reading Header Details ..
+12/13/2019 6:06:25 PM Reading Item Details ..
+12/13/2019 6:08:05 PM Error while reading items -    at Http_Phoenix_Routine.Http_Download_Routine.GetRFQItems(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Phoenix_Processor\Http_Phoenix_Routine\Http_Download_Routine.cs:line 1925
+   at Http_Phoenix_Routine.Http_Download_Routine.GetItemsData(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Phoenix_Processor\Http_Phoenix_Routine\Http_Download_Routine.cs:line 488
+12/13/2019 6:08:05 PM Unable to get item data! Error - Object reference not set to an instance of an object.
+12/13/2019 6:08:05 PM Unable to process link file '4001020_191213_165216090.txt'. Error - Object reference not set to an instance of an object.
+12/13/2019 6:08:05 PM 4001020_191213_165216090.txt File moved to Error_files
+12/13/2019 6:08:05 PM 
+12/13/2019 6:08:13 PM ================12/13/2019 6:08:13 PM================
+12/13/2019 6:08:13 PM Phoenix HTTP processor started
+12/13/2019 6:08:13 PM Phoenix Processor Started.
+12/13/2019 6:08:13 PM No files found.
+12/13/2019 6:08:13 PM Phoenix HTTP processor stopped
+12/13/2019 6:08:13 PM ====================================================
+12/13/2019 6:08:13 PM 
+12/13/2019 6:08:31 PM ================12/13/2019 6:08:31 PM================
+12/13/2019 6:08:31 PM Phoenix HTTP processor started
+12/13/2019 6:08:31 PM Phoenix Processor Started.
+12/13/2019 6:08:31 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 6:08:31 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 6:08:31 PM Navigating To URL ..
+12/13/2019 6:08:35 PM Page Loaded ..
+12/13/2019 6:08:35 PM Reading Header Details ..
+12/13/2019 6:08:37 PM Reading Item Details ..
+12/13/2019 6:08:40 PM Error while reading items -    at Http_Phoenix_Routine.Http_Download_Routine.GetRFQItems(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Phoenix_Processor\Http_Phoenix_Routine\Http_Download_Routine.cs:line 1925
+   at Http_Phoenix_Routine.Http_Download_Routine.GetItemsData(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Phoenix_Processor\Http_Phoenix_Routine\Http_Download_Routine.cs:line 488
+12/13/2019 6:08:40 PM Unable to get item data! Error - Object reference not set to an instance of an object.
+12/13/2019 6:08:40 PM Unable to process link file '4001020_191213_165216090.txt'. Error - Object reference not set to an instance of an object.
+12/13/2019 6:08:40 PM 4001020_191213_165216090.txt File moved to Error_files
+12/13/2019 6:08:40 PM 
+12/13/2019 6:08:42 PM Phoenix HTTP processor stopped
+12/13/2019 6:08:42 PM ====================================================
+12/13/2019 6:08:42 PM 
+12/13/2019 6:08:51 PM ================12/13/2019 6:08:51 PM================
+12/13/2019 6:08:51 PM Phoenix HTTP processor started
+12/13/2019 6:08:51 PM Phoenix Processor Started.
+12/13/2019 6:08:51 PM No files found.
+12/13/2019 6:08:51 PM Phoenix HTTP processor stopped
+12/13/2019 6:08:51 PM ====================================================
+12/13/2019 6:08:51 PM 
+12/13/2019 6:09:00 PM ================12/13/2019 6:09:00 PM================
+12/13/2019 6:09:00 PM Phoenix HTTP processor started
+12/13/2019 6:09:00 PM Phoenix Processor Started.
+12/13/2019 6:09:00 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 6:09:00 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 6:09:00 PM Navigating To URL ..
+12/13/2019 6:09:03 PM Page Loaded ..
+12/13/2019 6:09:03 PM Reading Header Details ..
+12/13/2019 6:09:06 PM Reading Item Details ..
+12/13/2019 6:13:03 PM ================12/13/2019 6:13:03 PM================
+12/13/2019 6:13:03 PM Phoenix HTTP processor started
+12/13/2019 6:13:04 PM Phoenix Processor Started.
+12/13/2019 6:13:04 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 6:13:04 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 6:13:04 PM Navigating To URL ..
+12/13/2019 6:13:11 PM Page Loaded ..
+12/13/2019 6:13:11 PM Reading Header Details ..
+12/13/2019 6:14:35 PM Reading Item Details ..
+12/13/2019 6:15:40 PM ================12/13/2019 6:15:40 PM================
+12/13/2019 6:15:40 PM Phoenix HTTP processor started
+12/13/2019 6:15:40 PM Phoenix Processor Started.
+12/13/2019 6:15:40 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 6:15:40 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 6:15:40 PM Navigating To URL ..
+12/13/2019 6:15:43 PM Page Loaded ..
+12/13/2019 6:15:43 PM Reading Header Details ..
+12/13/2019 6:15:46 PM Reading Item Details ..
+12/13/2019 6:15:52 PM Error while reading items -    at Http_Phoenix_Routine.Http_Download_Routine.GetRFQItems(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Phoenix_Processor\Http_Phoenix_Routine\Http_Download_Routine.cs:line 1925
+   at Http_Phoenix_Routine.Http_Download_Routine.GetItemsData(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Phoenix_Processor\Http_Phoenix_Routine\Http_Download_Routine.cs:line 488
+12/13/2019 6:15:52 PM Unable to get item data! Error - Object reference not set to an instance of an object.
+12/13/2019 6:15:52 PM Unable to process link file '4001020_191213_165216090.txt'. Error - Object reference not set to an instance of an object.
+12/13/2019 6:15:52 PM 4001020_191213_165216090.txt File moved to Error_files
+12/13/2019 6:15:52 PM 
+12/13/2019 6:15:54 PM Phoenix HTTP processor stopped
+12/13/2019 6:15:54 PM ====================================================
+12/13/2019 6:15:54 PM 
+12/13/2019 6:18:16 PM ================12/13/2019 6:18:16 PM================
+12/13/2019 6:18:16 PM Phoenix HTTP processor started
+12/13/2019 6:18:16 PM Phoenix Processor Started.
+12/13/2019 6:18:16 PM No files found.
+12/13/2019 6:18:16 PM Phoenix HTTP processor stopped
+12/13/2019 6:18:16 PM ====================================================
+12/13/2019 6:18:16 PM 
+12/13/2019 6:18:41 PM ================12/13/2019 6:18:41 PM================
+12/13/2019 6:18:41 PM Phoenix HTTP processor started
+12/13/2019 6:18:41 PM Phoenix Processor Started.
+12/13/2019 6:18:41 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 6:18:41 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 6:18:41 PM Navigating To URL ..
+12/13/2019 6:18:44 PM Page Loaded ..
+12/13/2019 6:18:44 PM Reading Header Details ..
+12/13/2019 6:18:47 PM Reading Item Details ..
+12/13/2019 6:21:34 PM ================12/13/2019 6:21:34 PM================
+12/13/2019 6:21:34 PM Phoenix HTTP processor started
+12/13/2019 6:21:34 PM Phoenix Processor Started.
+12/13/2019 6:21:34 PM Processing File 4001020_191213_165216090.txt
+12/13/2019 6:21:34 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=16FAFC6F-851D-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/13/2019 6:21:34 PM Navigating To URL ..
+12/13/2019 6:21:38 PM Page Loaded ..
+12/13/2019 6:21:38 PM Reading Header Details ..
+12/13/2019 6:21:49 PM Reading Item Details ..
+12/13/2019 6:21:52 PM Error while reading items -    at Http_Phoenix_Routine.Http_Download_Routine.GetRFQItems(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Phoenix_Processor\Http_Phoenix_Routine\Http_Download_Routine.cs:line 1927
+   at Http_Phoenix_Routine.Http_Download_Routine.GetItemsData(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Phoenix_Processor\Http_Phoenix_Routine\Http_Download_Routine.cs:line 488
+12/13/2019 6:21:52 PM Unable to get item data! Error - Object reference not set to an instance of an object.
+12/13/2019 6:21:52 PM Unable to process link file '4001020_191213_165216090.txt'. Error - Object reference not set to an instance of an object.
+12/13/2019 6:21:52 PM 4001020_191213_165216090.txt File moved to Error_files
+12/13/2019 6:21:52 PM 
+12/13/2019 6:21:54 PM Phoenix HTTP processor stopped
+12/13/2019 6:21:54 PM ====================================================
+12/13/2019 6:21:54 PM 

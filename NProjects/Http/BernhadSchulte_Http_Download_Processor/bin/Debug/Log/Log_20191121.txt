@@ -1,0 +1,34 @@
+21-11-2019 11:38:12 ================21-11-2019 11:38:12================
+21-11-2019 11:38:12 Bernhard Schulte RFQ Download HTTP processor started
+21-11-2019 11:38:12 Process started for contact@amos-sg.com
+21-11-2019 11:38:17 Logged in successfully
+21-11-2019 11:38:17 Started Loading interchange object.
+21-11-2019 11:38:17 stopped Loading interchange object.
+21-11-2019 11:38:17 Filter Data extracted successfully.
+21-11-2019 11:38:18 User contact@amos-sg.com logged out successfully.
+21-11-2019 11:38:18 Bernhard Schulte RFQ Download HTTP processor stopped
+21-11-2019 11:38:18 ====================================================
+21-11-2019 11:57:05 ================21-11-2019 11:57:05================
+21-11-2019 11:57:05 Bernhard Schulte RFQ Download HTTP processor started
+21-11-2019 11:57:05 Process started for contact@amos-sg.com
+21-11-2019 11:57:11 Logged in successfully
+21-11-2019 11:57:36 ================21-11-2019 11:57:36================
+21-11-2019 11:57:36 Bernhard Schulte RFQ Download HTTP processor started
+21-11-2019 11:57:36 Process started for contact@amos-sg.com
+21-11-2019 11:57:39 Logged in successfully
+21-11-2019 11:57:49 Started Loading interchange object.
+21-11-2019 11:57:49 stopped Loading interchange object.
+21-11-2019 11:57:59 Filter Data extracted successfully.
+21-11-2019 12:37:56 ================21-11-2019 12:37:56================
+21-11-2019 12:37:56 Bernhard Schulte RFQ Download HTTP processor started
+21-11-2019 12:37:56 Process started for contact@amos-sg.com
+21-11-2019 16:01:47 ================21-11-2019 16:01:47================
+21-11-2019 16:01:47 Bernhard Schulte RFQ Download HTTP processor started
+21-11-2019 16:01:47 Process started for info@fujifts.com
+21-11-2019 16:01:53 Logged in successfully
+21-11-2019 16:01:53 User info@fujifts.com logged out successfully.
+21-11-2019 16:01:53 Process started for mach-5@fujitrading.co.jp
+21-11-2019 16:01:54 Logged in successfully
+21-11-2019 16:02:13 Filter Data extracted successfully.
+21-11-2019 16:03:24 Started Loading interchange object.
+21-11-2019 16:03:24 stopped Loading interchange object.

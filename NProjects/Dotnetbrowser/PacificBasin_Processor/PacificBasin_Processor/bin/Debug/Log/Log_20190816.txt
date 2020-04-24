@@ -1,0 +1,69 @@
+16/08/2019 12:32:38 ================16/08/2019 12:32:38================
+16/08/2019 12:32:38 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+16/08/2019 12:32:45 
+16/08/2019 12:32:45 Buyer: Pacific Basin Shipping (HK) Ltd.
+16/08/2019 12:32:45 
+16/08/2019 12:32:45 RFQ processing started.
+16/08/2019 12:32:45 No file found.
+16/08/2019 12:32:45 RFQ processing stopped.
+16/08/2019 12:32:45 
+16/08/2019 12:32:45 Quote processing started.
+16/08/2019 12:32:45 Started Loading interchange object.
+16/08/2019 12:32:45 stopped Loading interchange object.
+16/08/2019 12:32:45 1 files found to process.
+16/08/2019 12:32:46 Started Loading interchange object.
+16/08/2019 12:32:46 stopped Loading interchange object.
+16/08/2019 12:32:46 'MTML_QUOTE_204-2019-ST0010-B(01)_SM0372_V10107_15081922041432.xml' Quote file processing started.
+16/08/2019 12:32:46 about:blank
+16/08/2019 12:33:00 Login Successfully.
+16/08/2019 12:33:05 Currency EUR set successfully
+16/08/2019 12:33:07 Supplier Ref Quote:8780872-1 set successfully
+16/08/2019 12:33:10 Supplier Remarks set successfully
+16/08/2019 12:33:29 Validity Offer set successfully
+16/08/2019 12:33:34 Start Filling LineItem details
+16/08/2019 12:34:35 ================16/08/2019 12:34:35================
+16/08/2019 12:34:35 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+16/08/2019 12:34:37 
+16/08/2019 12:34:37 Buyer: Pacific Basin Shipping (HK) Ltd.
+16/08/2019 12:34:37 
+16/08/2019 12:34:37 RFQ processing started.
+16/08/2019 12:34:37 No file found.
+16/08/2019 12:34:37 RFQ processing stopped.
+16/08/2019 12:34:37 
+16/08/2019 12:34:37 Quote processing started.
+16/08/2019 12:34:37 Started Loading interchange object.
+16/08/2019 12:34:37 stopped Loading interchange object.
+16/08/2019 12:34:37 1 files found to process.
+16/08/2019 12:34:39 Started Loading interchange object.
+16/08/2019 12:34:39 stopped Loading interchange object.
+16/08/2019 12:34:40 'MTML_QUOTE_204-2019-ST0010-B(01)_SM0372_V10107_15081922041432.xml' Quote file processing started.
+16/08/2019 12:34:40 about:blank
+16/08/2019 12:34:52 Login Successfully.
+16/08/2019 12:34:57 Currency EUR set successfully
+16/08/2019 12:34:58 Supplier Ref Quote:8780872-1 set successfully
+16/08/2019 12:35:02 Supplier Remarks set successfully
+16/08/2019 12:35:04 Validity Offer set successfully
+16/08/2019 12:35:07 Start Filling LineItem details
+16/08/2019 12:40:15 ================16/08/2019 12:40:15================
+16/08/2019 12:40:15 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+16/08/2019 12:40:15 
+16/08/2019 12:40:15 Buyer: Pacific Basin Shipping (HK) Ltd.
+16/08/2019 12:40:15 
+16/08/2019 12:40:15 RFQ processing started.
+16/08/2019 12:40:15 No file found.
+16/08/2019 12:40:15 RFQ processing stopped.
+16/08/2019 12:40:15 
+16/08/2019 12:40:15 Quote processing started.
+16/08/2019 12:40:15 Started Loading interchange object.
+16/08/2019 12:40:15 stopped Loading interchange object.
+16/08/2019 12:40:15 1 files found to process.
+16/08/2019 12:40:15 Started Loading interchange object.
+16/08/2019 12:40:15 stopped Loading interchange object.
+16/08/2019 12:40:15 'MTML_QUOTE_204-2019-ST0010-B(01)_SM0372_V10107_15081922041432.xml' Quote file processing started.
+16/08/2019 12:40:15 about:blank
+16/08/2019 12:40:27 Login Successfully.
+16/08/2019 12:40:31 Currency EUR set successfully
+16/08/2019 12:40:33 Supplier Ref Quote:8780872-1 set successfully
+16/08/2019 12:40:36 Supplier Remarks set successfully
+16/08/2019 12:40:41 Validity Offer set successfully
+16/08/2019 12:40:41 Start Filling LineItem details

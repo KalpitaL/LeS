@@ -1,0 +1,1 @@
+SM0133|V10001|MTM_HTTP_Processor|MTM_SHIP_V10001_SM0133__05081911330225.html||Error|19-08-05 11:33 : Unable to process file 190805_093843639.txt; Error - Invalid Link!

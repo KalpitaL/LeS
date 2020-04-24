@@ -1,0 +1,1 @@
+SM0645_WEB|V00026|Http_Cido_Shipping_Quote||GRDI-1907-0012-01|Error|19-07-31 17:02 : Unable to upload Quote due to total amount mismatched.

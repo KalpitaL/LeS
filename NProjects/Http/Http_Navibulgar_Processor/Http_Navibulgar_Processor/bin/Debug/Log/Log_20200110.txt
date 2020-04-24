@@ -1,0 +1,39 @@
+1/10/2020 3:02:39 PM ================1/10/2020 3:02:39 PM================
+1/10/2020 3:02:39 PM Navibulgar HTTP Processor started
+1/10/2020 3:02:39 PM Domain: navbul
+
+1/10/2020 3:02:39 PM Process started for bburki@nekoship.nl
+1/10/2020 3:02:42 PM Logged in successfully
+1/10/2020 3:02:42 PM RFQ processing started.
+1/10/2020 3:02:43 PM Processing RFQ for ref no E/387/DS025/19/1398
+1/10/2020 3:02:44 PM Start Getting Header details
+1/10/2020 3:02:44 PM Getting Header details completed successfully.
+1/10/2020 3:02:44 PM Start Getting LineItem details
+1/10/2020 3:02:44 PM Getting LineItem details successfully
+1/10/2020 3:02:44 PM Start Getting address details
+1/10/2020 3:02:44 PM Getting address details successfully
+1/10/2020 3:02:44 PM RFQ_E_387_DS025_19_1398_20200110030244.xml downloaded successfully.
+1/10/2020 3:02:44 PM 
+1/10/2020 3:02:44 PM Processing RFQ for ref no E/387/DS015/19/1398
+1/10/2020 3:02:45 PM Start Getting Header details
+1/10/2020 3:02:45 PM Getting Header details completed successfully.
+1/10/2020 3:02:45 PM Start Getting LineItem details
+1/10/2020 3:02:45 PM Getting LineItem details successfully
+1/10/2020 3:02:45 PM Start Getting address details
+1/10/2020 3:02:45 PM Getting address details successfully
+1/10/2020 3:02:45 PM RFQ_E_387_DS015_19_1398_20200110030245.xml downloaded successfully.
+1/10/2020 3:02:45 PM 
+1/10/2020 3:02:45 PM RFQ processing stopped.
+1/10/2020 3:02:45 PM 
+1/10/2020 3:02:45 PM Quote processing started.
+1/10/2020 3:02:45 PM 1 Quote files found to process.
+1/10/2020 3:03:49 PM Started Loading interchange object.
+1/10/2020 3:03:49 PM stopped Loading interchange object.
+1/10/2020 3:03:49 PM Quote processing started for refno: E/386/DS001/20/1398
+1/10/2020 3:03:51 PM Reference Number Matched
+1/10/2020 3:03:52 PM Checking Quote Status
+1/10/2020 3:03:52 PM LeS-1011.1:Unable to submit Quote since Quotation is already submitted for E/386/DS001/20/1398.
+1/10/2020 3:03:52 PM File MTML_QUOTE_E_386_DS001_20_1398_SM0752_V10107_09012016125158.xml moved to error files.
+1/10/2020 3:04:02 PM Quote processing stopped.
+1/10/2020 3:04:09 PM Navibulgar HTTP Processor stopped
+1/10/2020 3:04:09 PM ====================================================

@@ -1,0 +1,40 @@
+2/6/2020 10:31:52 AM ====================================================
+2/6/2020 10:31:52 AM Http Cido Shipping processor started at 2/6/2020 10:31:52 AM
+2/6/2020 10:31:52 AM Loading AppSettings
+2/6/2020 10:31:52 AM Login process started
+2/6/2020 10:31:54 AM Logged in successfully.
+2/6/2020 10:31:54 AM Quote processing started.
+2/6/2020 10:31:57 AM 1 Quote files found to process.
+2/6/2020 10:31:57 AM 'MTML_QUOTE_DRDV-1912-0031-02_SM0645_V00026_06022011124968 (1).xml' Quote file processing started.
+2/6/2020 10:31:59 AM Started Loading interchange object.
+2/6/2020 10:32:04 AM stopped Loading interchange object.
+2/6/2020 10:40:11 AM ====================================================
+2/6/2020 10:40:11 AM Http Cido Shipping processor started at 2/6/2020 10:40:11 AM
+2/6/2020 10:40:12 AM Loading AppSettings
+2/6/2020 10:40:12 AM Login process started
+2/6/2020 10:40:14 AM Logged in successfully.
+2/6/2020 10:40:14 AM Quote processing started.
+2/6/2020 10:40:16 AM 1 Quote files found to process.
+2/6/2020 10:40:16 AM 'MTML_QUOTE_DRDV-1912-0031-02_SM0645_V00026_06022011124968 (1).xml' Quote file processing started.
+2/6/2020 10:40:17 AM Started Loading interchange object.
+2/6/2020 10:40:18 AM stopped Loading interchange object.
+2/6/2020 10:43:31 AM ====================================================
+2/6/2020 10:43:31 AM Http Cido Shipping processor started at 2/6/2020 10:43:31 AM
+2/6/2020 10:43:31 AM Loading AppSettings
+2/6/2020 10:43:31 AM Login process started
+2/6/2020 10:43:34 AM Logged in successfully.
+2/6/2020 10:43:34 AM Quote processing started.
+2/6/2020 10:43:36 AM 1 Quote files found to process.
+2/6/2020 10:43:36 AM 'MTML_QUOTE_DRDV-1912-0031-02_SM0645_V00026_06022011124968 (1).xml' Quote file processing started.
+2/6/2020 10:43:36 AM Started Loading interchange object.
+2/6/2020 10:43:37 AM stopped Loading interchange object.
+2/6/2020 11:06:33 AM ====================================================
+2/6/2020 11:06:33 AM Http Cido Shipping processor started at 2/6/2020 11:06:33 AM
+2/6/2020 11:06:33 AM Loading AppSettings
+2/6/2020 11:06:33 AM Login process started
+2/6/2020 11:06:35 AM Logged in successfully.
+2/6/2020 11:06:35 AM Quote processing started.
+2/6/2020 11:06:36 AM 1 Quote files found to process.
+2/6/2020 11:06:36 AM 'MTML_QUOTE_DRDV-1912-0031-02_SM0645_V00026_06022011124968 (1).xml' Quote file processing started.
+2/6/2020 11:06:36 AM Started Loading interchange object.
+2/6/2020 11:06:37 AM stopped Loading interchange object.

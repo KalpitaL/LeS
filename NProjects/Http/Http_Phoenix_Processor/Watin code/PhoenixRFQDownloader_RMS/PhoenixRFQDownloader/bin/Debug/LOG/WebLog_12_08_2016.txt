@@ -1,0 +1,9 @@
+
+18:24:57 : Phoenix RFQ & PO Downloader Started.
+18:24:57 : Processing File 160812_170309335.txt
+18:26:14 : Phoenix RFQ & PO Downloader Started.
+18:26:14 : Processing File 160812_170309335.txt
+18:27:35 : PO 'NGC-16-0114' downloaded successfully.
+18:27:53 : 160812_170309335.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+18:27:53 : Phoenix RFQ Downloader Stopped.
+

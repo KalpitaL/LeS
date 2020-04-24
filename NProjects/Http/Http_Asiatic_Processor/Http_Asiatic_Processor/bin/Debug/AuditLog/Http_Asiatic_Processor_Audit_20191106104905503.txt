@@ -1,0 +1,1 @@
+||Asiatic_HTTP_RFQ|191106_122038312.txt||Error|19-11-06 10:49 : Unable to process file 191106_122038312.msg due to The remote server returned an error: (404) Not Found.||LeS_182|SM0431_Web|V10001|Http_Asiatic_Processor

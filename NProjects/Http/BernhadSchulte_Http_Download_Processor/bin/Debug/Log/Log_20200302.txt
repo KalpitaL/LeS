@@ -1,0 +1,152 @@
+3/2/2020 12:07:00 PM ================3/2/2020 12:07:00 PM================
+3/2/2020 12:07:00 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:07:00 PM Process started for mt@rmsmarineservice.com
+3/2/2020 12:07:06 PM Logged in successfully
+3/2/2020 12:07:10 PM RFQ data extracted successfully.
+3/2/2020 12:07:11 PM Processing RFQ for VRNO 'ORQ/O0017/RF19'.
+3/2/2020 12:07:11 PM RFQ '9200150_RFQ_ORQ_O0017_RF19_02032020120711228.xlsm' for VRNO 'ORQ/O0017/RF19' downloaded successfully.
+3/2/2020 12:07:11 PM Processing RFQ for VRNO 'APFI/O0028/RF20'.
+3/2/2020 12:07:12 PM RFQ '9200151_RFQ_APFI_O0028_RF20_02032020120711704.xlsm' for VRNO 'APFI/O0028/RF20' downloaded successfully.
+3/2/2020 12:07:12 PM Processing RFQ for VRNO 'APFI/O0028/RF20'.
+3/2/2020 12:07:14 PM RFQ '9200151_RFQ_APFI_O0028_RF20_02032020120712520.xlsm' for VRNO 'APFI/O0028/RF20' downloaded successfully.
+3/2/2020 12:07:14 PM Processing RFQ for VRNO 'TTE/O0053/RF20'.
+3/2/2020 12:07:15 PM RFQ '9200151_RFQ_TTE_O0053_RF20_02032020120714634.xlsm' for VRNO 'TTE/O0053/RF20' downloaded successfully.
+3/2/2020 12:07:15 PM Processing RFQ for VRNO 'STB/O0010/RF20'.
+3/2/2020 12:07:15 PM RFQ '9200149_RFQ_STB_O0010_RF20_02032020120715356.xlsm' for VRNO 'STB/O0010/RF20' downloaded successfully.
+3/2/2020 12:07:15 PM Processing RFQ for VRNO 'TTE/O0052/RF20'.
+3/2/2020 12:07:16 PM RFQ '9200151_RFQ_TTE_O0052_RF20_02032020120715825.xlsm' for VRNO 'TTE/O0052/RF20' downloaded successfully.
+3/2/2020 12:07:16 PM Processing RFQ for VRNO 'TTE/O0052/RF20'.
+3/2/2020 12:07:16 PM RFQ '9200151_RFQ_TTE_O0052_RF20_02032020120716372.xlsm' for VRNO 'TTE/O0052/RF20' downloaded successfully.
+3/2/2020 12:07:16 PM Processing RFQ for VRNO 'BETA/O0083/RF20'.
+3/2/2020 12:07:17 PM RFQ '9200149_RFQ_BETA_O0083_RF20_02032020120716948.xlsm' for VRNO 'BETA/O0083/RF20' downloaded successfully.
+3/2/2020 12:07:17 PM Processing RFQ for VRNO 'HYDE/O0006/RF20'.
+3/2/2020 12:07:17 PM RFQ '9200152_RFQ_HYDE_O0006_RF20_02032020120717455.xlsm' for VRNO 'HYDE/O0006/RF20' downloaded successfully.
+3/2/2020 12:07:17 PM Processing RFQ for VRNO 'PLR/O0001/RF20'.
+3/2/2020 12:07:19 PM RFQ '9200160_RFQ_PLR_O0001_RF20_02032020120717874.xlsm' for VRNO 'PLR/O0001/RF20' downloaded successfully.
+3/2/2020 12:07:19 PM Processing RFQ for VRNO 'PLR/O0002/RF20'.
+3/2/2020 12:07:19 PM RFQ '9200160_RFQ_PLR_O0002_RF20_02032020120719254.xlsm' for VRNO 'PLR/O0002/RF20' downloaded successfully.
+3/2/2020 12:07:19 PM Processing RFQ for VRNO 'PLR/O0004/RF20'.
+3/2/2020 12:07:20 PM RFQ '9200150_RFQ_PLR_O0004_RF20_02032020120719690.xlsm' for VRNO 'PLR/O0004/RF20' downloaded successfully.
+3/2/2020 12:07:20 PM Processing RFQ for VRNO 'SALF/O0074/RF20'.
+3/2/2020 12:07:20 PM RFQ '9200149_RFQ_SALF_O0074_RF20_02032020120720149.xlsm' for VRNO 'SALF/O0074/RF20' downloaded successfully.
+3/2/2020 12:07:20 PM Processing RFQ for VRNO 'JTL/O0039/RF20'.
+3/2/2020 12:07:21 PM RFQ '9200159_RFQ_JTL_O0039_RF20_02032020120720571.xlsm' for VRNO 'JTL/O0039/RF20' downloaded successfully.
+3/2/2020 12:07:21 PM Processing RFQ for VRNO 'PLR/O0010/RF20'.
+3/2/2020 12:07:21 PM RFQ '9200150_RFQ_PLR_O0010_RF20_02032020120721132.xlsm' for VRNO 'PLR/O0010/RF20' downloaded successfully.
+3/2/2020 12:07:21 PM Processing RFQ for VRNO 'JDT/O0051/RF20'.
+3/2/2020 12:07:22 PM RFQ '9200151_RFQ_JDT_O0051_RF20_02032020120721855.xlsm' for VRNO 'JDT/O0051/RF20' downloaded successfully.
+3/2/2020 12:07:22 PM Processing RFQ for VRNO 'PLR/O0022/RF20'.
+3/2/2020 12:07:22 PM RFQ '9200150_RFQ_PLR_O0022_RF20_02032020120722315.xlsm' for VRNO 'PLR/O0022/RF20' downloaded successfully.
+3/2/2020 12:07:22 PM Processing RFQ for VRNO 'PLR/O0020/RF20'.
+3/2/2020 12:07:23 PM RFQ '9200150_RFQ_PLR_O0020_RF20_02032020120722768.xlsm' for VRNO 'PLR/O0020/RF20' downloaded successfully.
+3/2/2020 12:07:23 PM Processing RFQ for VRNO 'PLR/O0018/RF20'.
+3/2/2020 12:07:23 PM RFQ '9200150_RFQ_PLR_O0018_RF20_02032020120723383.xlsm' for VRNO 'PLR/O0018/RF20' downloaded successfully.
+3/2/2020 12:07:23 PM Processing RFQ for VRNO 'PLR/O0017/RF20'.
+3/2/2020 12:07:24 PM RFQ '9200150_RFQ_PLR_O0017_RF20_02032020120723919.xlsm' for VRNO 'PLR/O0017/RF20' downloaded successfully.
+3/2/2020 12:07:24 PM Processing RFQ for VRNO 'PLR/O0016/RF20'.
+3/2/2020 12:07:24 PM RFQ '9200150_RFQ_PLR_O0016_RF20_02032020120724342.xlsm' for VRNO 'PLR/O0016/RF20' downloaded successfully.
+3/2/2020 12:07:24 PM Processing RFQ for VRNO 'PLR/O0015/RF20'.
+3/2/2020 12:07:25 PM RFQ '9200150_RFQ_PLR_O0015_RF20_02032020120724854.xlsm' for VRNO 'PLR/O0015/RF20' downloaded successfully.
+3/2/2020 12:07:25 PM Processing RFQ for VRNO 'SAC/O0049/RF20'.
+3/2/2020 12:07:26 PM RFQ '9200149_RFQ_SAC_O0049_RF20_02032020120725576.xlsm' for VRNO 'SAC/O0049/RF20' downloaded successfully.
+3/2/2020 12:07:26 PM Processing RFQ for VRNO 'SVC/O0052/RF20'.
+3/2/2020 12:07:26 PM RFQ '9200149_RFQ_SVC_O0052_RF20_02032020120726360.xlsm' for VRNO 'SVC/O0052/RF20' downloaded successfully.
+3/2/2020 12:07:26 PM Processing RFQ for VRNO 'SVC/O0073/RF20'.
+3/2/2020 12:07:27 PM RFQ '9200149_RFQ_SVC_O0073_RF20_02032020120726985.xlsm' for VRNO 'SVC/O0073/RF20' downloaded successfully.
+3/2/2020 12:07:27 PM Processing RFQ for VRNO 'APFI/O0041/RF20'.
+3/2/2020 12:07:33 PM RFQ '9200151_RFQ_APFI_O0041_RF20_02032020120727468.xlsm' for VRNO 'APFI/O0041/RF20' downloaded successfully.
+3/2/2020 12:07:33 PM Processing RFQ for VRNO 'APFI/O0031/RF20'.
+3/2/2020 12:07:52 PM ================3/2/2020 12:07:52 PM================
+3/2/2020 12:07:52 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:07:52 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:07:55 PM Logged in successfully
+3/2/2020 12:07:57 PM RFQ data extracted successfully.
+3/2/2020 12:08:08 PM Processing RFQ for VRNO 'OAK/O0037/RF20'.
+3/2/2020 12:08:41 PM RFQ '9211287_RFQ_OAK_O0037_RF20_02032020120833314.xlsm' for VRNO 'OAK/O0037/RF20' downloaded successfully.
+3/2/2020 12:08:41 PM Processing RFQ for VRNO 'ULY/O0072/RF20'.
+3/2/2020 12:12:11 PM ================3/2/2020 12:12:11 PM================
+3/2/2020 12:12:11 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:12:11 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:12:15 PM Logged in successfully
+3/2/2020 12:12:18 PM RFQ data extracted successfully.
+3/2/2020 12:12:19 PM Processing RFQ for VRNO 'ULY/O0072/RF20'.
+3/2/2020 12:24:28 PM ================3/2/2020 12:24:28 PM================
+3/2/2020 12:24:28 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:24:28 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:24:30 PM Logged in successfully
+3/2/2020 12:24:32 PM RFQ data extracted successfully.
+3/2/2020 12:24:32 PM Processing RFQ for VRNO 'ULY/O0072/RF20'.
+3/2/2020 12:24:36 PM Unable to process file due to System.IO.FileNotFoundException: Could not find file 'C:\LeS\LeS_eSupplier\LeS_BS_New_Processor\BSM_HTTP_RFQ_Downloader\Korea\RFQ\RFQ_ULY_O0072_RF20_02032020122432691.xlsm'.
+File name: 'C:\LeS\LeS_eSupplier\LeS_BS_New_Processor\BSM_HTTP_RFQ_Downloader\Korea\RFQ\RFQ_ULY_O0072_RF20_02032020122432691.xlsm'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at Aspose.Cells.Workbook.(String , LoadOptions )
+   at Aspose.Cells.Workbook..ctor(String file)
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.Read_XlsFile_Seachef(String FileName) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Bernhard_Schulte_Http_Download_Routine\Http_Download_Routine.cs:line 249
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.ReadFilterData() in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Bernhard_Schulte_Http_Download_Routine\Http_Download_Routine.cs:line 502
+3/2/2020 12:24:38 PM User ace@rmsmarineservice.kr logged out successfully.
+3/2/2020 12:24:38 PM Bernhard Schulte RFQ Download HTTP processor stopped
+3/2/2020 12:24:38 PM ====================================================
+3/2/2020 12:24:46 PM ================3/2/2020 12:24:46 PM================
+3/2/2020 12:24:46 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:24:46 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:24:48 PM Logged in successfully
+3/2/2020 12:24:50 PM RFQ data extracted successfully.
+3/2/2020 12:24:51 PM Processing RFQ for VRNO 'ULY/O0072/RF20'.
+3/2/2020 12:28:52 PM ================3/2/2020 12:28:52 PM================
+3/2/2020 12:28:52 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:28:52 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:28:55 PM Logged in successfully
+3/2/2020 12:28:56 PM RFQ data extracted successfully.
+3/2/2020 12:28:56 PM Processing RFQ for VRNO 'ULY/O0072/RF20'.
+3/2/2020 12:29:59 PM ================3/2/2020 12:29:59 PM================
+3/2/2020 12:29:59 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:29:59 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:30:02 PM Logged in successfully
+3/2/2020 12:30:07 PM RFQ data extracted successfully.
+3/2/2020 12:30:31 PM Processing RFQ for VRNO 'ULY/O0072/RF20'.
+3/2/2020 12:31:01 PM ================3/2/2020 12:31:01 PM================
+3/2/2020 12:31:01 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:31:01 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:31:47 PM ================3/2/2020 12:31:47 PM================
+3/2/2020 12:31:47 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:31:47 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:31:50 PM Logged in successfully
+3/2/2020 12:31:51 PM RFQ data extracted successfully.
+3/2/2020 12:31:51 PM Processing RFQ for VRNO 'OAK/O0037/RF20'.
+3/2/2020 12:34:24 PM ================3/2/2020 12:34:24 PM================
+3/2/2020 12:34:24 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:34:24 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:34:27 PM Logged in successfully
+3/2/2020 12:34:28 PM RFQ data extracted successfully.
+3/2/2020 12:34:28 PM Processing RFQ for VRNO 'OAK/O0037/RF20'.
+3/2/2020 12:35:20 PM RFQ '9211289_RFQ_OAK_O0037_RF20_02032020123509818.xlsm' for VRNO 'OAK/O0037/RF20' downloaded successfully.
+3/2/2020 12:35:24 PM Processing RFQ for VRNO 'ULY/O0072/RF20'.
+3/2/2020 12:35:37 PM ================3/2/2020 12:35:37 PM================
+3/2/2020 12:35:37 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:35:37 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:35:39 PM Logged in successfully
+3/2/2020 12:35:41 PM RFQ data extracted successfully.
+3/2/2020 12:35:42 PM Processing RFQ for VRNO 'ULY/O0072/RF20'.
+3/2/2020 12:38:03 PM ================3/2/2020 12:38:03 PM================
+3/2/2020 12:38:03 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:38:03 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:38:09 PM ================3/2/2020 12:38:09 PM================
+3/2/2020 12:38:09 PM Bernhard Schulte RFQ Download HTTP processor started
+3/2/2020 12:38:09 PM Process started for ace@rmsmarineservice.kr
+3/2/2020 12:38:12 PM Logged in successfully
+3/2/2020 12:38:14 PM RFQ data extracted successfully.
+3/2/2020 12:38:14 PM Processing RFQ for VRNO 'ULY/O0072/RF20'.
+3/2/2020 12:38:30 PM RFQ '9211284_RFQ_ULY_O0072_RF20_02032020123829333.xlsm' for VRNO 'ULY/O0072/RF20' downloaded successfully.
+3/2/2020 12:38:30 PM Processing RFQ for VRNO 'SFO/O0089/RF20'.
+3/2/2020 12:38:37 PM RFQ '9211287_RFQ_SFO_O0089_RF20_02032020123837417.xlsm' for VRNO 'SFO/O0089/RF20' downloaded successfully.
+3/2/2020 12:38:37 PM Processing RFQ for VRNO 'SFO/O0088/RF20'.
+3/2/2020 12:38:39 PM RFQ '9211287_RFQ_SFO_O0088_RF20_02032020123838627.xlsm' for VRNO 'SFO/O0088/RF20' downloaded successfully.
+3/2/2020 12:38:39 PM Processing RFQ for VRNO 'SFO/O0084/RF20'.
+3/2/2020 12:38:44 PM RFQ '9211287_RFQ_SFO_O0084_RF20_02032020123842283.xlsm' for VRNO 'SFO/O0084/RF20' downloaded successfully.
+3/2/2020 12:38:44 PM 4 RFQ(s) downloaded.
+3/2/2020 12:38:44 PM User ace@rmsmarineservice.kr logged out successfully.
+3/2/2020 12:38:44 PM Bernhard Schulte RFQ Download HTTP processor stopped
+3/2/2020 12:38:44 PM ====================================================

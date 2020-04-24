@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="D99965" Identifier="UNOC" Recipient="SM3141_WEB" Sender="V10001" PreparationDate="2019-Dec-18" PreparationTime="16:38" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2653" LesRecordID="11868255" LesLinkID="104163" ParentRecordID="11866786" MTML_DOCID="8E11FDF4-B843-4571-9A45-18C44AEED348">
+    <Quote MessageReferenceNumber="LH2-050/2019d-I008" MessageNumber="https://pts.cloudfleetmanager.com/apps/quote/4e4c307d-b198-4843-837c-aa86d7db6832" LineItemCount="18" VersionNumber="1" CurrencyCode="EUR" TransportModeCode="_3" LeadTimeDays="10" BuyerRefNo="LH2-050/2019d-I008" OriginalFile="OrderQuotation-D99965_191218_163148463.pdf" IsAltItemAllowed="1" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" CaseReference="ref:_00D200tPh._5003z34cuq:ref" BuyerItemTotal="21374" BuyerQuoteTotal="21374">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201912181638" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201912280000" />
+      <Comments Qualifier="SUR">
+        <value>DELIVERY INFORMATION
+
+Inventory will not be reserved based on this quotation. Product availability will be confirmed when the order is placed.
+Please note some ports have local taxes/charges, which may appear on the invoice.
+
+ITEMS EX STOCK:  lead time 2 business days
+
+ITEMS NOT IN STOCK:  1,2,6,11,12,15, – lead time 4- 5 business days
+ 
+Addition Freight cost: EUR 305.00
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 17 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 117 EUR
+Item Added - 18 : FREIGHT CHARGE | QTY : 1 | UOM : PCS | Price : 305 EUR
+ Item Total : 6840.00 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="LH2-050/2019d-I008" />
+      <Reference Qualifier="AAG" ReferenceNumber="D99965" />
+      <Party Qualifier="BY" Name="PT Shipmanagement">
+        <Contact>
+          <CommunicationMethod Qualifier="EM" Number="N/A" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service (S) Pte Ltd">
+        <Contact Name="Brych, Claudia">
+          <CommunicationMethod Qualifier="EM" Number="wss.cs.germany.products@wilhelmsen.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA" Name="ASIAN MASTER LIMITED">
+        <Contact />
+        <StreetAddress>Suite 608, St Georgs Building, Central
+ Hong Kong
+Hong Kong</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="LH2. Nickie B">
+        <PartyLocation Qualifier="ZUC" Berth="MELBOURNE" Port="AUMEL" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Welders jacket | " MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="095fd8b8-4c81-4380-a624-f634bdec5404" SystemItemNo="1" MonetaryAmount="1268.00" Identification="510438" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="634" BuyerItemTotal="1268" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="634" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="634" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Electrode holder | " MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="ba1ccb61-ad0b-4da9-a1cc-f4b1b3454621" SystemItemNo="2" MonetaryAmount="274.00" Identification="552497" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="54.8" BuyerItemTotal="274" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="54.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="54.8" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="Electrodes | " MeasureUnitQualifier="PCK" Quantity="5" TypeCode="BP" OriginatingSystemRef="93618b63-080f-4b81-b244-b0936e55eed8" SystemItemNo="3" MonetaryAmount="419.00" Identification="699165" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="Packet" Supp_UOM="PCK" Supp_Price="83.8" BuyerItemTotal="419" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="83.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="83.8" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="Electrodes | " MeasureUnitQualifier="PCK" Quantity="5" TypeCode="BP" OriginatingSystemRef="01b8e9f0-a605-442d-999a-fa0d09820bf8" SystemItemNo="4" MonetaryAmount="368.00" Identification="699173" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="Packet" Supp_UOM="PCK" Supp_Price="73.6" BuyerItemTotal="368" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="73.6" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="73.6" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="Electrodes | " MeasureUnitQualifier="PCK" Quantity="5" TypeCode="BP" OriginatingSystemRef="2eb22726-99a7-4ff4-ba3c-458a87611e07" SystemItemNo="5" MonetaryAmount="345.00" Identification="699181" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="Packet" Supp_UOM="PCK" Supp_Price="69" BuyerItemTotal="345" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="69" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="Welders chalk | " MeasureUnitQualifier="PCK" Quantity="2" TypeCode="BP" OriginatingSystemRef="b7d1aee7-39fa-4802-bcdd-200aab5b3d09" SystemItemNo="6" MonetaryAmount="326.00" Identification="632968" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Box" Supp_UOM="PCK" Supp_Price="163" BuyerItemTotal="326" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="163" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="163" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="Gas welding and cutting torches set | " MeasureUnitQualifier="KIT" Quantity="1" TypeCode="BP" OriginatingSystemRef="a4cb38e7-c932-4128-b576-6a9e8c44c53e" SystemItemNo="7" MonetaryAmount="794.00" Identification="500001" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Piece" Supp_UOM="KIT" Supp_Price="794" BuyerItemTotal="794" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="794" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="794" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="Welder gas lighter | " MeasureUnitQualifier="PCK" Quantity="1" TypeCode="BP" OriginatingSystemRef="fa31f9fa-f951-4ba4-94bd-0fe27d6d782d" SystemItemNo="8" MonetaryAmount="46.40" Identification="633198" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Piece" Supp_UOM="PCK" Supp_Price="46.4" BuyerItemTotal="46.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="46.4" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="46.4" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="Spare flints for gas lighter | " MeasureUnitQualifier="PCK" Quantity="2" TypeCode="BP" OriginatingSystemRef="3a1eae6a-bde1-4321-b6cf-92eddef62585" SystemItemNo="9" MonetaryAmount="134.00" Identification="633206" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Piece" Supp_UOM="PCK" Supp_Price="67" BuyerItemTotal="134" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="67" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="Noozle cleaner | " MeasureUnitQualifier="SET" Quantity="2" TypeCode="BP" OriginatingSystemRef="48ef1b82-8569-4c52-b995-0bdf47113278" SystemItemNo="10" MonetaryAmount="89.40" Identification="175356" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Set" Supp_UOM="SET" Supp_Price="44.7" BuyerItemTotal="89.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="44.7" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="44.7" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="Rubber oxygen hose | " MeasureUnitQualifier="COIL" Quantity="1" TypeCode="BP" OriginatingSystemRef="7b47b9be-bc5d-43ef-8cf4-60b4634ba559" SystemItemNo="11" MonetaryAmount="312.00" Identification="620030" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="1" Byr_UOM="Metre" Supp_UOM="COIL" Supp_Price="312" BuyerItemTotal="6240" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="312" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="312" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="Rubber acetylene hose | " MeasureUnitQualifier="COIL" Quantity="1" TypeCode="BP" OriginatingSystemRef="b5f325b0-4225-478e-9e44-cf521fb52339" SystemItemNo="12" MonetaryAmount="436.00" Identification="620034" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="1" Byr_UOM="Metre" Supp_UOM="COIL" Supp_Price="436" BuyerItemTotal="8720" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="436" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="436" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="Oxygen regulator | " MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="d9d23cb3-321d-43c1-a822-bc3100bb0277" SystemItemNo="13" MonetaryAmount="672.00" Identification="510000" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="336" BuyerItemTotal="672" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="336" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="336" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="Acetylene regulator | " MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="96190a43-7a9b-4699-8638-e8e6710d48d5" SystemItemNo="14" MonetaryAmount="672.00" Identification="510001" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="336" BuyerItemTotal="672" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="336" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="336" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="Welders mask | " MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="9c3a2912-8778-4e94-b24e-0feb37d8ad00" SystemItemNo="15" MonetaryAmount="76.20" Identification="619098" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="76.2" BuyerItemTotal="76.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="76.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="76.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="Welding gloves | " MeasureUnitQualifier="PCK" Quantity="1" TypeCode="BP" OriginatingSystemRef="382af19b-30ee-4ab9-8e2b-ae4794a1ec6d" SystemItemNo="16" MonetaryAmount="186.00" Identification="632786" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="1" Byr_UOM="Piece" Supp_UOM="PCK" Supp_Price="186" BuyerItemTotal="930" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="186" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="186" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="FIXED CHARGE LAST MILE DELIVERY" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="17" MonetaryAmount="117.00" DeliveryTime="10" IsExtraItem="1" ItemType="FREIGHT" ItemStatus="Addition" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="117" BuyerItemTotal="117" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="117" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="FREIGHT CHARGE" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="18" MonetaryAmount="305.00" Identification="OTHER_CHARGE" DeliveryTime="10" IsExtraItem="1" ItemType="FREIGHT" ItemStatus="Addition" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="305" BuyerItemTotal="305" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="305" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="6840.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="6840.000" />
+      <MonetaryAmount Qualifier="_99" Value="422.000" />
+      <MonetaryAmount Qualifier="_90" Value="21374.000" />
+      <MonetaryAmount Qualifier="_91" Value="6418.000" />
+    </Quote>
+  </Interchange>
+</MTML>

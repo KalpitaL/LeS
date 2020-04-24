@@ -1,0 +1,11 @@
+1/13/2020 3:42:16 PM ================1/13/2020 3:42:16 PM================
+1/13/2020 3:42:16 PM DNVGL HTTP Processor started
+1/13/2020 3:42:17 PM 
+1/13/2020 3:42:17 PM Supplier: V10107
+1/13/2020 3:42:17 PM Process started for SM0372_WEB
+1/13/2020 3:42:34 PM 
+1/13/2020 3:42:35 PM Quote processing started.
+1/13/2020 3:42:35 PM 1 files found to process.
+1/13/2020 3:42:36 PM Started Loading interchange object.
+1/13/2020 3:42:41 PM stopped Loading interchange object.
+1/13/2020 3:43:16 PM Unable to set validity offer for XPJER-2020-ST0004-B(01)

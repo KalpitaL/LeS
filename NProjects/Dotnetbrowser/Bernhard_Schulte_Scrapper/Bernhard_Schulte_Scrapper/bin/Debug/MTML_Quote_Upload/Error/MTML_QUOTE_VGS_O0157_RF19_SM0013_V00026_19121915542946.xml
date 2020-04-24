@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="2068147(24)" Identifier="UNOC" Recipient="SM0013_FUJIJPXLS" Sender="V00026" PreparationDate="2019-Dec-19" PreparationTime="15:54" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="1400" LesRecordID="11869940" LesLinkID="103015" ParentRecordID="11864027" MTML_DOCID="61F98F21-4954-433C-82D1-7CD2510BBD7F">
+    <Quote MessageReferenceNumber="103015_RFQ_VGS_O0157_RF19_16122019041659797.xlsm" MessageNumber="103015_RFQ_VGS_O0157_RF19_16122019041659797.xlsm" LineItemCount="11" VersionNumber="1" CurrencyCode="JPY" FunctionCode="_9" LeadTimeDays="3" BuyerRefNo="VGS/O0157/RF19" OriginalFile="X50040.xml" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="108781" BuyerQuoteTotal="148781">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201912191554" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201912221551" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202001120000" />
+      <Comments Qualifier="SUR">
+        <value> "WE HEREBY DECLARE THAT ALL OF OUR SUPPLYING PRODUCTS ARE ASBESTOS-FREE." (OUR EXPENSE IS 50% UP IN WEEKENDS AND NATIONAL HOLIDAYS) #4&gt;&gt;OFFER:IMPA 792425 BATTERY ALKALINE LR1(AM-5) 1.5V #10&gt;&gt;OVERSEAS MODEL,NA DAEYANG #11&gt;&gt;N/A KERGER CATALOG PLS ADVISE AS IMPA CODE
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value> WITHIN 030 DAYS AFTER DELIVERY</value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value> EX-WORK</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="VGS/O0157/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="2068147(24)" />
+      <Party Qualifier="BY" Identification="SM0013_FUJIJPXLS" Name="Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd." City="Singapore">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V00026" Name="FUJI TRADING CO., LTD.">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="Notification-MSG@fujitrading.co.jp" />
+        </Contact>
+        <StreetAddress>6 FUKAEHAMAMACHI</StreetAddress>
+        <StreetAddress>HIGASHINADA-KU</StreetAddress>
+        <StreetAddress>KOBE 658</StreetAddress>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="Vega Star">
+        <PartyLocation Qualifier="TBA" Port="CHIBA" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="RELAY CLEANER ELECTRIC CONTACT, 260GRM SPRAY TIN" MeasureUnitQualifier="TIN" Quantity="10" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="9900.00" Identification="795511" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="TIN" Supp_UOM="TN" Supp_Price="990" BuyerItemTotal="9900" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="990" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="990" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="2" Description="LAMP FLUORESCENT COOL WHITE FL-40S/38 38W 32.5X1198MM" MeasureUnitQualifier="PCS" Quantity="150" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="27000.00" Identification="791417" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="150" Supp_Qty="150" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="180" BuyerItemTotal="27000" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="180" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="180" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="3" Description="BATTERY DRY CELL R6P(UM-3) 1.5V LEAK-PROOF" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="22" MonetaryAmount="900.00" Identification="792403" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="18" BuyerItemTotal="900" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="18" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="4" Description="BATTERY DRY CELL R1(UM-5) 1.5V" MeasureUnitQualifier="PCS" Quantity="30" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="23" MonetaryAmount="2850.00" Identification="792404" DeliveryTime="3" IsExtraItem="0" MarkedRemarks="OFFER:IMPA 792425   BATTERY ALKALINE LR1(AM-5)   1.5V" ItemStatus="Original" Byr_Qty="30" Supp_Qty="30" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="95" BuyerItemTotal="2850" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="95" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="95" />
+        <Comments Qualifier="LIN">
+          <value>OFFER:IMPA 792425   BATTERY ALKALINE LR1(AM-5)   1.5V</value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="5" Description="CABLE BAND PLASTIC 300MM" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="24" MonetaryAmount="1800.00" Identification="794855" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="18" BuyerItemTotal="1800" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="18" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="6" Description="TAPE PVC INSULATION 19MMX20MTR (BLACK)" MeasureUnitQualifier="SPL" Quantity="7" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="25" MonetaryAmount="616.00" Identification="795431" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="7" Supp_Qty="7" Byr_UOM="SPL" Supp_UOM="PCE" Supp_Price="88" BuyerItemTotal="616" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="7" Description="LAMP HALOGEN TUBULAR SHAPE, E-39 200-240V 1000W" MeasureUnitQualifier="PCS" Quantity="15" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="26" MonetaryAmount="50250.00" Identification="791273" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="3350" BuyerItemTotal="50250" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3350" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3350" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="8" Description="LED lamp(around 8-9W) with screw head E27" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="27" MonetaryAmount="15000.00" Identification="2947170" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="3000" BuyerItemTotal="15000" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3000" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3000" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="9" Description="FLASHLIGHT BULB FLANGE BASE 2.5V 0.5AMP" MeasureUnitQualifier="PCS" Quantity="15" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="28" MonetaryAmount="465.00" Identification="792251" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="31" BuyerItemTotal="465" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="31" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="10" Description="Electronic Ballast (Electronic ballast for fluorescent lamps). Maker:  DAEYANG&#xD;&#xA;Model:  B-20B1836, 220-250V, 50-60Hz, 0.18-0.3A" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="29" MonetaryAmount="0.00" Identification="2813993" DeliveryTime="3" IsExtraItem="0" MarkedRemarks="OVERSEAS MODEL,N/A DAEYANG" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>OVERSEAS MODEL,N/A DAEYANG</value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="11" Description="LITHIUM BATT. 3V CR 2450&#xD;&#xA;UN3090 ADR9" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="30" MonetaryAmount="0.00" Identification="KERGER 182993" DeliveryTime="3" IsExtraItem="0" MarkedRemarks="N/A KERGER CATALOG   PLS ADVISE AS IMPA CODE" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>N/A KERGER CATALOG   PLS ADVISE AS IMPA CODE</value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="108781.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="16148781.000" />
+      <MonetaryAmount Qualifier="_90" Value="108781.000" />
+      <MonetaryAmount Qualifier="_91" Value="108781.000" />
+    </Quote>
+  </Interchange>
+</MTML>

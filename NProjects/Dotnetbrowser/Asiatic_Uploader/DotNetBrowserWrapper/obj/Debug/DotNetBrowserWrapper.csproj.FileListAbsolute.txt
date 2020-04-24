@@ -1,0 +1,19 @@
+D:\Working\DotNetBrowser\Asiatic\Asiatic_Uploader\DotNetBrowserWrapper\bin\Debug\DotNetBrowserWrapper.dll
+D:\Working\DotNetBrowser\Asiatic\Asiatic_Uploader\DotNetBrowserWrapper\bin\Debug\DotNetBrowserWrapper.pdb
+D:\Working\DotNetBrowser\Asiatic\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.dll
+D:\Working\DotNetBrowser\Asiatic\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.pdb
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\Asiatic_Uploader\DotNetBrowserWrapper\bin\Debug\DotNetBrowserWrapper.dll
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\Asiatic_Uploader\DotNetBrowserWrapper\bin\Debug\DotNetBrowserWrapper.pdb
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.dll
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.pdb
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.csprojResolveAssemblyReference.cache
+D:\Office Work\Namrata_Projects_16032020\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\bin\Debug\DotNetBrowserWrapper.dll
+D:\Office Work\Namrata_Projects_16032020\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\bin\Debug\DotNetBrowserWrapper.pdb
+D:\Office Work\Namrata_Projects_16032020\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.csprojResolveAssemblyReference.cache
+D:\Office Work\Namrata_Projects_16032020\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.dll
+D:\Office Work\Namrata_Projects_16032020\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.pdb
+D:\Office Work\Git_Officework\Namrata_Projects\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\bin\Debug\DotNetBrowserWrapper.dll
+D:\Office Work\Git_Officework\Namrata_Projects\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\bin\Debug\DotNetBrowserWrapper.pdb
+D:\Office Work\Git_Officework\Namrata_Projects\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.csprojResolveAssemblyReference.cache
+D:\Office Work\Git_Officework\Namrata_Projects\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.dll
+D:\Office Work\Git_Officework\Namrata_Projects\Dotnetbrowser\Asiatic_Uploader\DotNetBrowserWrapper\obj\Debug\DotNetBrowserWrapper.pdb

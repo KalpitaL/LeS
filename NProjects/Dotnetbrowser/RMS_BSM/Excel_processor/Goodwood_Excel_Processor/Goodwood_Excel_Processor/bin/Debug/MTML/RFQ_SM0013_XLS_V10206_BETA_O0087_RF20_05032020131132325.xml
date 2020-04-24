@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="" Identifier="UNOC" Recipient="V10206" Sender="SM0013_XLS" PreparationDate="2020-Mar-05" PreparationTime="13:11" VersionNumber="1" LesRecordID="0" LesLinkID="0">
+    <RequestForQuote MessageReferenceNumber="RFQ_BETA_O0087_RF20_Incheon.xlsm" MessageNumber="RFQ_BETA_O0087_RF20_Incheon.xlsm" LineItemCount="7" VersionNumber="1" FunctionCode="_9" BuyerRefNo="BETA/O0087/RF20" OriginalFile="RFQ_BETA_O0087_RF20_Incheon.xlsm" IsDeclined="False">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20200304" />
+      <Comments Qualifier="PUR">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="BETA/O0087/RF20" />
+      <Party Qualifier="BY" Identification="SM0013_XLS" Name="Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V10206" Name="ACE-RMS MARINE SERVICE CO., LTD">
+        <Contact FunctionCode="SR" />
+      </Party>
+      <Party Qualifier="CN" />
+      <Party Qualifier="BA" />
+      <Party Qualifier="UD" Name="Green Ace">
+        <PartyLocation Qualifier="TBA" Port="Incheon" />
+      </Party>
+      <LineItem Number="1" Description="ELBOW STEEL BUTT-WELDING SGP, 45DEG LONG RADIUS 40A" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="0.00" Identification="731105" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="2" Description="ELBOW STEEL BUTT-WELDING SGP, 90DEG LONG RADIUS 40A" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="0.00" Identification="731125" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="3" Description="GLOBE VALVE SCREW DOWN CHECK, BRONZE FLANGED F7351 5KG-40MM" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="22" MonetaryAmount="0.00" Identification="751055" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="4" Description="GLOBE VALVE SCREW DOWN CHECK, BRONZE FLANGED F7351 5KG-32MM" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="23" MonetaryAmount="0.00" Identification="751054" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="5" Description="FLANGE CARBON STEEL SLIP-ON , DIN2576 PN16 40MM" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="24" MonetaryAmount="0.00" Identification="735556" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="6" Description="PIPE STEEL LOW-TEMPERATURE, STPL SCH-80 2&quot;(50A)X5.5MTR" MeasureUnitQualifier="LGH" Quantity="1" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="25" MonetaryAmount="0.00" Identification="710634" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="7" Description="PIPE STEEL LOW-TEMPERATURE, STPL SCH-80 1-1/2&quot;(40A)X5.5MTR" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="26" MonetaryAmount="0.00" Identification="710633" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

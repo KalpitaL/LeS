@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange Identifier="UNOC" Recipient="V00026" Sender="SM0133_FUJI" PreparationDate="20191128" PreparationTime="101759" VersionNumber="1">
+    <RequestForQuote MessageReferenceNumber="460212" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=460212&amp;validate=0.86682377464024" LineItemCount="2" VersionNumber="1" FunctionCode="_9" BuyerRefNo="MTR-7761-B1" OriginalFile="4001020_191128_101213573_4001020_18917_RFQ-MTR-E-19-7761-B1.pdf">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20191128" />
+      <DateTimePeriod Qualifier="_132" FormatQualifier="_102" Value="20191127" />
+      <Reference Qualifier="UC" ReferenceNumber="MTR-7761-B1" />
+      <Party Qualifier="UD" Name="MTM ROTTERDAM">
+        <PartyLocation Qualifier="TBA" Berth="ESBJERG" />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M SHIP MANAGEMENT PTE. LTD">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="TE" Number="+65 6304 1770" />
+          <CommunicationMethod Qualifier="FX" Number="65-6220 7988" />
+          <CommunicationMethod Qualifier="EM" Number="singapore@mtmshipmanagement.com" />
+        </Contact>
+        <StreetAddress>78 SHENTON WAY #13-01 SINGAPORE 079120</StreetAddress>
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING CO. LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="078-4132611-" />
+          <CommunicationMethod Qualifier="EM" Number="mach-5@fujitrading.co.jp" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="DIGITAL / ANALOG INDICATOR TANK LEVEL, PRESSURE AND TEMPERATURE INDICATOR.&#xD;&#xA;(LIQUID LEVEL %)" Identification="" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2320799_5460793" SystemItemNo="1">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : MY705061</value>
+        </Comments>
+        <Section Manufacturer=" MUSASINO CO.,LTD" ModelNumber=" MDA-E1" />
+      </LineItem>
+      <LineItem Number="2" Description="FLOAT LEVEG GUAGE FLOATER, MATERIAL - SUS316L" Identification="12" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2320798_5460794" SystemItemNo="2">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : LM01A804</value>
+        </Comments>
+        <Section Manufacturer=" MUSASINO CO.,LTD" ModelNumber=" BM-21B" />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,1328 @@
+
+2019-12-18 10:29:53 : Task to perform is 'UPLOAD'
+2019-12-18 10:29:57 : Logging to SK Shipping website.
+2019-12-18 10:30:05 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 10:32:28 : Task to perform is 'UPLOAD'
+2019-12-18 10:33:30 : Task to perform is 'UPLOAD'
+2019-12-18 10:33:32 : Logging to SK Shipping website.
+2019-12-18 10:33:37 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 10:34:01 : Task to perform is 'UPLOAD'
+2019-12-18 10:34:07 : Logging to SK Shipping website.
+2019-12-18 10:34:12 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 10:46:08 : Task to perform is 'UPLOAD'
+2019-12-18 10:47:10 : Task to perform is 'DOWNLOAD'
+2019-12-18 10:47:12 : Logging to SK Shipping website.
+2019-12-18 10:47:21 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 10:47:36 : Successfull login to SK Shipping website.
+2019-12-18 10:47:46 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 10:48:01 : Number of Grid Pages found '5'
+2019-12-18 10:48:17 : Started reading Grid.
+2019-12-18 10:48:22 : Completed reading Grid.
+2019-12-18 10:48:34 : Started reading Grid.
+2019-12-18 10:48:37 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 10:48:37 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 10:48:38 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:48:38 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 10:48:39 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 10:48:39 : Completed reading Grid.
+2019-12-18 10:48:53 : Started reading Grid.
+2019-12-18 10:48:53 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 10:48:53 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 10:48:54 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:48:54 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:48:54 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 10:48:54 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:48:55 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 10:48:55 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 10:48:56 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:48:56 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:48:56 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 10:48:57 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 10:48:57 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 10:48:57 : Completed reading Grid.
+2019-12-18 10:49:15 : Started reading Grid.
+2019-12-18 10:49:15 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 10:49:15 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 10:49:15 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 10:49:16 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 10:49:16 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 10:49:16 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 10:49:17 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 10:49:17 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:49:17 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 10:49:18 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 10:49:18 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:49:19 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 10:49:19 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 10:49:19 : Completed reading Grid.
+2019-12-18 10:49:30 : Started reading Grid.
+2019-12-18 10:49:31 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:49:31 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:49:31 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 10:49:31 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 10:49:32 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:49:32 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 10:49:33 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:49:33 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:49:33 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 10:49:34 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 10:49:34 : Completed reading Grid.
+2019-12-18 10:49:52 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 10:50:23 : Task to perform is 'DOWNLOAD'
+2019-12-18 10:50:25 : Logging to SK Shipping website.
+2019-12-18 10:50:32 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 10:50:42 : Successfull login to SK Shipping website.
+2019-12-18 10:50:52 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 10:50:57 : Number of Grid Pages found '5'
+2019-12-18 10:51:09 : Started reading Grid.
+2019-12-18 10:51:10 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 10:51:14 : Completed reading Grid.
+2019-12-18 10:51:26 : Started reading Grid.
+2019-12-18 10:51:30 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 10:51:31 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 10:51:31 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:51:31 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 10:51:32 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 10:51:32 : Completed reading Grid.
+2019-12-18 10:51:43 : Started reading Grid.
+2019-12-18 10:51:44 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 10:51:44 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 10:51:44 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:51:44 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:51:44 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 10:51:45 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:51:45 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 10:51:45 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 10:51:46 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:51:46 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:51:46 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 10:51:47 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 10:51:47 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 10:51:47 : Completed reading Grid.
+2019-12-18 10:52:04 : Started reading Grid.
+2019-12-18 10:52:04 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 10:52:04 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 10:52:04 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 10:52:05 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 10:52:05 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 10:52:06 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 10:52:06 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 10:52:06 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:52:07 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 10:52:07 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 10:52:07 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:52:08 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 10:52:08 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 10:52:08 : Completed reading Grid.
+2019-12-18 10:52:20 : Started reading Grid.
+2019-12-18 10:52:21 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:52:21 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:52:21 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 10:52:22 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 10:52:22 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:52:22 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 10:52:23 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:52:23 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 10:52:23 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 10:52:24 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 10:52:24 : Completed reading Grid.
+2019-12-18 10:52:32 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=PRO%20TRIUMPH&QUONO=PTR-19-IT-122&REQNO=PTRDDD19011&ETA=2019-12-21&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-17&SEQ=0'
+2019-12-18 11:03:32 : Task to perform is 'DOWNLOAD'
+2019-12-18 11:03:33 : Logging to SK Shipping website.
+2019-12-18 11:03:42 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 11:04:01 : Successfull login to SK Shipping website.
+2019-12-18 11:04:09 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 11:04:13 : Number of Grid Pages found '5'
+2019-12-18 11:04:28 : Started reading Grid.
+2019-12-18 11:04:28 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 11:04:33 : Completed reading Grid.
+2019-12-18 11:04:44 : Started reading Grid.
+2019-12-18 11:04:48 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:04:48 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 11:04:48 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:04:49 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:04:49 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:04:49 : Completed reading Grid.
+2019-12-18 11:05:03 : Started reading Grid.
+2019-12-18 11:05:03 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 11:05:04 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 11:05:04 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:05 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:05 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:05:05 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:06 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:05:06 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 11:05:07 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:07 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:08 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:05:08 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 11:05:09 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:05:09 : Completed reading Grid.
+2019-12-18 11:05:23 : Started reading Grid.
+2019-12-18 11:05:23 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:05:24 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:05:24 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:05:24 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:05:25 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 11:05:25 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 11:05:26 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:05:26 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:26 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 11:05:27 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 11:05:27 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:27 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 11:05:28 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 11:05:28 : Completed reading Grid.
+2019-12-18 11:05:40 : Started reading Grid.
+2019-12-18 11:05:41 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:41 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:41 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 11:05:42 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:05:42 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:42 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 11:05:42 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:43 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:05:43 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 11:05:44 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 11:05:44 : Completed reading Grid.
+2019-12-18 11:05:52 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=PRO%20TRIUMPH&QUONO=PTR-19-IT-122&REQNO=PTRDDD19011&ETA=2019-12-21&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-17&SEQ=0'
+2019-12-18 11:06:14 : Task to perform is 'DOWNLOAD'
+2019-12-18 11:06:19 : Logging to SK Shipping website.
+2019-12-18 11:06:24 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 11:12:22 : Successfull login to SK Shipping website.
+2019-12-18 11:12:32 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 11:12:36 : Number of Grid Pages found '5'
+2019-12-18 11:12:49 : Started reading Grid.
+2019-12-18 11:12:55 : Completed reading Grid.
+2019-12-18 11:13:07 : Started reading Grid.
+2019-12-18 11:13:12 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:13:12 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 11:13:13 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:13:13 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:13:14 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:13:14 : Completed reading Grid.
+2019-12-18 11:13:27 : Started reading Grid.
+2019-12-18 11:13:28 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 11:13:28 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 11:13:28 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:13:29 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:13:29 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:13:30 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:13:30 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:13:30 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 11:13:31 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:13:31 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:13:31 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:13:32 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 11:13:33 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:13:33 : Completed reading Grid.
+2019-12-18 11:13:45 : Started reading Grid.
+2019-12-18 11:13:46 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:13:46 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:13:46 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:13:47 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:13:47 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 11:13:47 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 11:13:48 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:13:48 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:13:49 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 11:13:49 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 11:13:50 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:13:50 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 11:13:51 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 11:13:51 : Completed reading Grid.
+2019-12-18 11:14:03 : Started reading Grid.
+2019-12-18 11:14:04 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:14:04 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:14:04 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 11:14:05 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:14:05 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:14:06 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 11:14:06 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:14:07 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:14:07 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 11:14:08 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 11:14:08 : Completed reading Grid.
+2019-12-18 11:14:16 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 11:14:38 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=PRO%20TRIUMPH&QUONO=PTR-19-IT-122&REQNO=PTRDDD19011&ETA=2019-12-21&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-17&SEQ=0'
+2019-12-18 11:15:04 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 11:15:04 : Started fetching Header data for RFQ 'PTR-19-IT-122'
+2019-12-18 11:15:05 : Completed fetching Header data.
+2019-12-18 11:15:09 : Started fetching Items data for RFQ 'PTR-19-IT-122'
+2019-12-18 11:15:11 : No equipment data found for RFQ 'PTR-19-IT-122'
+2019-12-18 11:15:11 : 2 Items found for RFQ 'PTR-19-IT-122'
+2019-12-18 11:15:11 : IMPA found.
+2019-12-18 11:15:12 : Remark field having id 'txtVesselRemark0' not found.
+2019-12-18 11:15:13 : Remark field having id 'txtVesselRemark1' not found.
+2019-12-18 11:15:13 : Success in fetching Items data.
+2019-12-18 11:15:13 : Completed fetching Items data.
+2019-12-18 11:15:29 : RFQ HTML named 'SKShipping_PTR_19_IT_122_20191218111529684.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 11:15:31 : RFQ Screenshot named 'SKShipping_PTR_19_IT_122_20191218111529685.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 11:15:35 : Started extracting Header data.
+2019-12-18 11:15:35 : Completed extracting Header data.
+2019-12-18 11:15:35 : Started extracting Address data.
+2019-12-18 11:15:35 : Completed extracting Address data.
+2019-12-18 11:15:43 : Started extracting Items data.
+2019-12-18 11:15:43 : Completed extracting Items data.
+2019-12-18 11:18:30 : Task to perform is 'DOWNLOAD'
+2019-12-18 11:18:30 : Logging to SK Shipping website.
+2019-12-18 11:18:40 : Task to perform is 'DOWNLOAD'
+2019-12-18 11:18:47 : Logging to SK Shipping website.
+2019-12-18 11:18:53 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 11:20:45 : Successfull login to SK Shipping website.
+2019-12-18 11:20:52 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 11:20:57 : Number of Grid Pages found '5'
+2019-12-18 11:21:09 : Started reading Grid.
+2019-12-18 11:21:21 : Completed reading Grid.
+2019-12-18 11:21:33 : Started reading Grid.
+2019-12-18 11:21:37 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:21:37 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 11:21:37 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:21:38 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:21:38 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:21:38 : Completed reading Grid.
+2019-12-18 11:21:50 : Started reading Grid.
+2019-12-18 11:21:51 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 11:21:51 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 11:21:51 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:21:51 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:21:52 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:21:52 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:21:52 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:21:53 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 11:21:53 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:21:54 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:21:54 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:21:54 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 11:21:55 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:21:55 : Completed reading Grid.
+2019-12-18 11:22:14 : Started reading Grid.
+2019-12-18 11:22:14 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:22:15 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:22:15 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:22:15 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:22:16 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 11:22:16 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 11:22:16 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:22:17 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:22:17 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 11:22:17 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 11:22:17 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:22:18 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 11:22:18 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 11:22:18 : Completed reading Grid.
+2019-12-18 11:22:37 : Task to perform is 'DOWNLOAD'
+2019-12-18 11:22:40 : Logging to SK Shipping website.
+2019-12-18 11:22:44 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 11:25:41 : Successfull login to SK Shipping website.
+2019-12-18 11:25:51 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 11:25:56 : Number of Grid Pages found '5'
+2019-12-18 11:26:11 : Started reading Grid.
+2019-12-18 11:26:16 : Completed reading Grid.
+2019-12-18 11:26:37 : Started reading Grid.
+2019-12-18 11:26:40 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:26:40 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 11:26:41 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:26:41 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:26:42 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:26:42 : Completed reading Grid.
+2019-12-18 11:26:56 : Started reading Grid.
+2019-12-18 11:26:56 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 11:26:56 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 11:26:56 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:26:57 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:26:57 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:26:57 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:26:58 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:26:58 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 11:26:58 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:26:59 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:26:59 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:27:00 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 11:27:00 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:27:00 : Completed reading Grid.
+2019-12-18 11:27:13 : Started reading Grid.
+2019-12-18 11:27:14 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:27:14 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:27:14 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:27:14 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:27:15 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 11:27:15 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 11:27:15 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:27:16 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:27:16 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 11:27:17 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 11:27:17 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:27:17 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 11:27:18 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 11:27:18 : Completed reading Grid.
+2019-12-18 11:27:30 : Started reading Grid.
+2019-12-18 11:27:30 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:27:30 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:27:31 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 11:27:31 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:27:31 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:27:31 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 11:27:32 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:27:32 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:27:33 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 11:27:33 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 11:27:33 : Completed reading Grid.
+2019-12-18 11:27:41 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 11:28:36 : Task to perform is 'DOWNLOAD'
+2019-12-18 11:29:12 : Logging to SK Shipping website.
+2019-12-18 11:29:19 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 11:29:30 : Successfull login to SK Shipping website.
+2019-12-18 11:29:46 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 11:29:50 : Number of Grid Pages found '5'
+2019-12-18 11:30:03 : Started reading Grid.
+2019-12-18 11:30:09 : Completed reading Grid.
+2019-12-18 11:30:24 : Started reading Grid.
+2019-12-18 11:30:29 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:30:29 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 11:30:30 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:30:31 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:30:31 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:30:31 : Completed reading Grid.
+2019-12-18 11:30:46 : Started reading Grid.
+2019-12-18 11:30:47 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 11:30:47 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 11:30:47 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:30:48 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:30:48 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:30:48 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:30:49 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:30:49 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 11:30:50 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:30:50 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:30:51 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:30:51 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 11:30:52 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:30:52 : Completed reading Grid.
+2019-12-18 11:31:04 : Started reading Grid.
+2019-12-18 11:31:05 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:31:05 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:31:06 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:31:06 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:31:06 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 11:31:07 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 11:31:07 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:31:07 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:31:08 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 11:31:08 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 11:31:08 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:31:09 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 11:31:10 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 11:31:10 : Completed reading Grid.
+2019-12-18 11:31:22 : Started reading Grid.
+2019-12-18 11:31:22 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:31:23 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:31:23 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 11:31:23 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:31:24 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:31:24 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 11:31:24 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:31:25 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:31:25 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 11:31:26 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 11:31:26 : Completed reading Grid.
+2019-12-18 11:31:33 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 11:33:30 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 11:33:30 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 11:33:31 : Completed fetching Header data.
+2019-12-18 11:33:31 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 11:33:41 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 11:33:43 : Completed fetching Items data.
+2019-12-18 11:42:32 : Task to perform is 'DOWNLOAD'
+2019-12-18 11:42:34 : Logging to SK Shipping website.
+2019-12-18 11:42:39 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 11:42:47 : Successfull login to SK Shipping website.
+2019-12-18 11:42:58 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 11:43:02 : Number of Grid Pages found '5'
+2019-12-18 11:43:15 : Started reading Grid.
+2019-12-18 11:43:19 : Completed reading Grid.
+2019-12-18 11:43:31 : Started reading Grid.
+2019-12-18 11:43:33 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:43:34 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 11:43:34 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:43:35 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:43:35 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:43:35 : Completed reading Grid.
+2019-12-18 11:43:48 : Started reading Grid.
+2019-12-18 11:43:49 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 11:43:49 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 11:43:49 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:43:49 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:43:50 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:43:50 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:43:50 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:43:51 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 11:43:51 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:43:51 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:43:52 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:43:52 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 11:43:52 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:43:52 : Completed reading Grid.
+2019-12-18 11:44:06 : Started reading Grid.
+2019-12-18 11:44:06 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:44:06 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:44:07 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:44:07 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:44:07 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 11:44:07 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 11:44:08 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:44:08 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:44:08 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 11:44:08 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 11:44:09 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:44:09 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 11:44:09 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 11:44:09 : Completed reading Grid.
+2019-12-18 11:44:36 : Started reading Grid.
+2019-12-18 11:44:37 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:44:37 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:44:37 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 11:44:37 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:44:37 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:44:38 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 11:44:38 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:44:38 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:44:39 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 11:44:39 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 11:44:39 : Completed reading Grid.
+2019-12-18 11:44:47 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 11:44:53 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 11:44:53 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 11:44:53 : Completed fetching Header data.
+2019-12-18 11:44:54 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 11:45:02 : Task to perform is 'DOWNLOAD'
+2019-12-18 11:45:03 : Logging to SK Shipping website.
+2019-12-18 11:45:08 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 11:45:16 : Successfull login to SK Shipping website.
+2019-12-18 11:45:26 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 11:45:30 : Number of Grid Pages found '5'
+2019-12-18 11:45:42 : Started reading Grid.
+2019-12-18 11:45:49 : Completed reading Grid.
+2019-12-18 11:46:01 : Started reading Grid.
+2019-12-18 11:46:05 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:46:06 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 11:46:06 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:46:07 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:46:07 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:46:07 : Completed reading Grid.
+2019-12-18 11:46:21 : Started reading Grid.
+2019-12-18 11:46:22 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 11:46:23 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 11:46:23 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:46:23 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:46:24 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:46:25 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:46:25 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:46:26 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 11:46:26 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:46:27 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:46:28 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:46:28 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 11:46:29 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:46:29 : Completed reading Grid.
+2019-12-18 11:46:42 : Started reading Grid.
+2019-12-18 11:46:43 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:46:43 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:46:44 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:46:44 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:46:44 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 11:46:45 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 11:46:45 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:46:46 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:46:46 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 11:46:46 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 11:46:47 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:46:47 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 11:46:48 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 11:46:48 : Completed reading Grid.
+2019-12-18 11:46:59 : Started reading Grid.
+2019-12-18 11:47:00 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:47:00 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:47:00 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 11:47:01 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:47:01 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:47:01 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 11:47:02 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:47:02 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:47:02 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 11:47:03 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 11:47:03 : Completed reading Grid.
+2019-12-18 11:47:10 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 11:47:22 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 11:47:22 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 11:47:22 : Completed fetching Header data.
+2019-12-18 11:47:27 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 11:51:28 : Task to perform is 'DOWNLOAD'
+2019-12-18 11:51:42 : Logging to SK Shipping website.
+2019-12-18 11:51:50 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 11:51:58 : Successfull login to SK Shipping website.
+2019-12-18 11:52:05 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 11:52:09 : Number of Grid Pages found '5'
+2019-12-18 11:52:22 : Started reading Grid.
+2019-12-18 11:52:28 : Completed reading Grid.
+2019-12-18 11:52:40 : Started reading Grid.
+2019-12-18 11:52:43 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:52:44 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 11:52:44 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:52:45 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:52:45 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:52:45 : Completed reading Grid.
+2019-12-18 11:53:04 : Started reading Grid.
+2019-12-18 11:53:05 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 11:53:05 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 11:53:06 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:06 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:06 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:53:06 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:07 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:53:07 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 11:53:08 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:08 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:09 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:53:09 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 11:53:10 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:53:10 : Completed reading Grid.
+2019-12-18 11:53:28 : Started reading Grid.
+2019-12-18 11:53:29 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 11:53:29 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:53:29 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:53:30 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 11:53:30 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 11:53:31 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 11:53:31 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 11:53:31 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:32 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 11:53:32 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 11:53:33 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:33 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 11:53:34 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 11:53:34 : Completed reading Grid.
+2019-12-18 11:53:48 : Started reading Grid.
+2019-12-18 11:53:48 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:48 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:49 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 11:53:49 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 11:53:50 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:50 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 11:53:50 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:51 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 11:53:51 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 11:53:52 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 11:53:52 : Completed reading Grid.
+2019-12-18 11:53:59 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 11:54:11 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 11:54:11 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 11:54:11 : Completed fetching Header data.
+2019-12-18 11:54:14 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 11:55:06 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 11:55:06 : Completed fetching Items data.
+2019-12-18 11:55:19 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218115515643.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 11:55:20 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218115515973.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 11:55:27 : Started extracting Header data.
+2019-12-18 11:55:27 : Exception in exporting xml.The given key was not present in the dictionary.;   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at SKShipping.SKShipping_Routine.ExporttoHeader(Dictionary`2 _xmlHeader, LeSXML _lesXML) in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 532
+   at WebScraper.WebPage.ExportToLESML(Dictionary`2 _xmlHeader, List`1 _xmlItems) in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\WebScraper\WebScraper\WebPage.cs:line 729
+   at WebScraper.WebPage.FetchData(IEBrowser _ie) in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\WebScraper\WebScraper\WebPage.cs:line 644
+2019-12-18 11:55:29 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218115529329.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ\Error'
+2019-12-18 11:55:29 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218115529329.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ\Error'
+2019-12-18 12:11:03 : Task to perform is 'DOWNLOAD'
+2019-12-18 12:11:09 : Logging to SK Shipping website.
+2019-12-18 12:11:15 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 12:11:22 : Successfull login to SK Shipping website.
+2019-12-18 12:11:28 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 12:11:33 : Number of Grid Pages found '5'
+2019-12-18 12:11:47 : Started reading Grid.
+2019-12-18 12:11:54 : Completed reading Grid.
+2019-12-18 12:12:06 : Started reading Grid.
+2019-12-18 12:12:10 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:12:10 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 12:12:11 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:12:11 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:12:12 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:12:12 : Completed reading Grid.
+2019-12-18 12:12:26 : Started reading Grid.
+2019-12-18 12:12:26 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 12:12:27 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 12:12:27 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:12:27 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:12:28 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:12:28 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:12:28 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:12:29 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 12:12:29 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:12:30 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:12:30 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:12:31 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 12:12:31 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:12:31 : Completed reading Grid.
+2019-12-18 12:12:44 : Started reading Grid.
+2019-12-18 12:12:44 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:12:45 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:12:45 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:12:45 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:12:46 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 12:12:46 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 12:12:46 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:12:47 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:12:47 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 12:12:48 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 12:12:48 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:12:49 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 12:12:49 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 12:12:49 : Completed reading Grid.
+2019-12-18 12:13:02 : Started reading Grid.
+2019-12-18 12:13:03 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:13:03 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:13:03 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 12:13:04 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:13:04 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:13:05 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 12:13:05 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:13:05 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:13:06 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 12:13:06 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 12:13:06 : Completed reading Grid.
+2019-12-18 12:13:14 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 12:13:14 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 12:13:14 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:13:14 : Completed fetching Header data.
+2019-12-18 12:13:14 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:13:14 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 12:13:14 : Completed fetching Items data.
+2019-12-18 12:13:14 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218121314883.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 12:13:15 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218121314884.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 12:13:15 : Started extracting Header data.
+2019-12-18 12:13:15 : Exception in exporting xml.The given key was not present in the dictionary.;   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at SKShipping.SKShipping_Routine.ExporttoHeader(Dictionary`2 _xmlHeader, LeSXML _lesXML) in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 532
+   at WebScraper.WebPage.ExportToLESML(Dictionary`2 _xmlHeader, List`1 _xmlItems) in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\WebScraper\WebScraper\WebPage.cs:line 731
+   at WebScraper.WebPage.FetchData(IEBrowser _ie) in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\WebScraper\WebScraper\WebPage.cs:line 646
+2019-12-18 12:13:15 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218121315454.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ\Error'
+2019-12-18 12:13:15 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218121315454.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ\Error'
+2019-12-18 12:13:23 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=PRO%20TRIUMPH&QUONO=PTR-19-IT-122&REQNO=PTRDDD19011&ETA=2019-12-21&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-17&SEQ=0'
+2019-12-18 12:13:23 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 12:13:23 : Started fetching Header data for RFQ 'PTR-19-IT-122'
+2019-12-18 12:13:24 : Completed fetching Header data.
+2019-12-18 12:13:24 : Started fetching Items data for RFQ 'PTR-19-IT-122'
+2019-12-18 12:13:24 : No equipment data found for RFQ 'PTR-19-IT-122'
+2019-12-18 12:13:24 : 2 Items found for RFQ 'PTR-19-IT-122'
+2019-12-18 12:13:24 : IMPA found.
+2019-12-18 12:13:24 : Remark field having id 'txtVesselRemark0' not found.
+2019-12-18 12:13:25 : Remark field having id 'txtVesselRemark1' not found.
+2019-12-18 12:13:25 : Success in fetching Items data.
+2019-12-18 12:13:25 : Completed fetching Items data.
+2019-12-18 12:13:25 : RFQ HTML named 'SKShipping_PTR_19_IT_122_20191218121325043.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 12:13:25 : RFQ Screenshot named 'SKShipping_PTR_19_IT_122_20191218121325043.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 12:13:25 : Started extracting Header data.
+2019-12-18 12:13:25 : Completed extracting Header data.
+2019-12-18 12:13:25 : Started extracting Address data.
+2019-12-18 12:13:25 : Completed extracting Address data.
+2019-12-18 12:13:25 : Started extracting Items data.
+2019-12-18 12:13:25 : Completed extracting Items data.
+2019-12-18 12:13:25 : RFQ 'PTR-19-IT-122' named RFQ_V10205_PTR_19_IT_122_20191218121325393.xml downloaded successfully on path 'C:\Shipmaster\eSupplierPortal\LES_XML_INBOX'
+2019-12-18 12:16:11 : Task to perform is 'DOWNLOAD'
+2019-12-18 12:17:13 : Logging to SK Shipping website.
+2019-12-18 12:17:20 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 12:17:27 : Successfull login to SK Shipping website.
+2019-12-18 12:17:34 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 12:17:39 : Number of Grid Pages found '5'
+2019-12-18 12:17:51 : Started reading Grid.
+2019-12-18 12:17:52 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 12:17:56 : Completed reading Grid.
+2019-12-18 12:18:08 : Started reading Grid.
+2019-12-18 12:18:11 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:18:12 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 12:18:12 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:18:13 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:18:13 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:18:13 : Completed reading Grid.
+2019-12-18 12:18:25 : Started reading Grid.
+2019-12-18 12:18:26 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 12:18:26 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 12:18:26 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:18:27 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:18:27 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:18:28 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:18:28 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:18:29 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 12:18:29 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:18:30 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:18:31 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:18:31 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 12:18:32 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:18:32 : Completed reading Grid.
+2019-12-18 12:18:46 : Started reading Grid.
+2019-12-18 12:18:46 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:18:46 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:18:47 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:18:47 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:18:48 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 12:18:48 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 12:18:49 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:18:49 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:18:50 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 12:18:50 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 12:18:50 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:18:51 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 12:18:51 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 12:18:51 : Completed reading Grid.
+2019-12-18 12:19:04 : Started reading Grid.
+2019-12-18 12:19:05 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:19:05 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:19:05 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 12:19:05 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:19:06 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:19:06 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 12:19:06 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:19:07 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:19:07 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 12:19:08 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 12:19:08 : Completed reading Grid.
+2019-12-18 12:19:15 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 12:19:21 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 12:19:21 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:19:21 : Completed fetching Header data.
+2019-12-18 12:19:24 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:19:33 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 12:19:33 : Completed fetching Items data.
+2019-12-18 12:19:45 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218121941773.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 12:19:46 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218121942029.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 12:19:52 : Started extracting Header data.
+2019-12-18 12:19:52 : Exception in exporting xml.The given key was not present in the dictionary.;   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at SKShipping.SKShipping_Routine.ExporttoHeader(Dictionary`2 _xmlHeader, LeSXML _lesXML) in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 532
+   at WebScraper.WebPage.ExportToLESML(Dictionary`2 _xmlHeader, List`1 _xmlItems) in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\WebScraper\WebScraper\WebPage.cs:line 731
+   at WebScraper.WebPage.FetchData(IEBrowser _ie) in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\WebScraper\WebScraper\WebPage.cs:line 646
+2019-12-18 12:19:57 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218121957886.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ\Error'
+2019-12-18 12:19:58 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218121957886.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ\Error'
+2019-12-18 12:20:57 : Task to perform is 'DOWNLOAD'
+2019-12-18 12:21:00 : Logging to SK Shipping website.
+2019-12-18 12:21:08 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 12:21:16 : Successfull login to SK Shipping website.
+2019-12-18 12:21:22 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 12:21:26 : Number of Grid Pages found '5'
+2019-12-18 12:21:38 : Started reading Grid.
+2019-12-18 12:21:39 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 12:21:43 : Completed reading Grid.
+2019-12-18 12:21:57 : Started reading Grid.
+2019-12-18 12:22:00 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:22:00 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 12:22:01 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:22:01 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:22:01 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:22:01 : Completed reading Grid.
+2019-12-18 12:22:18 : Started reading Grid.
+2019-12-18 12:22:18 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 12:22:18 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 12:22:19 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:22:19 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:22:19 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:22:19 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:22:20 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:22:20 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 12:22:20 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:22:21 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:22:21 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:22:21 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 12:22:21 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:22:21 : Completed reading Grid.
+2019-12-18 12:22:42 : Started reading Grid.
+2019-12-18 12:22:43 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:22:43 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:22:43 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:22:43 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:22:44 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 12:22:44 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 12:22:44 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:22:45 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:22:45 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 12:22:45 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 12:22:46 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:22:46 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 12:22:46 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 12:22:46 : Completed reading Grid.
+2019-12-18 12:23:02 : Started reading Grid.
+2019-12-18 12:23:02 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:23:03 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:23:03 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 12:23:03 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:23:03 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:23:04 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 12:23:04 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:23:04 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:23:05 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 12:23:05 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 12:23:05 : Completed reading Grid.
+2019-12-18 12:23:13 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 12:23:25 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 12:23:25 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:23:25 : Completed fetching Header data.
+2019-12-18 12:23:31 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:23:39 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 12:23:40 : Completed fetching Items data.
+2019-12-18 12:23:48 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218122348893.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 12:23:49 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218122348895.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 12:23:58 : Started extracting Header data.
+2019-12-18 12:25:30 : Task to perform is 'DOWNLOAD'
+2019-12-18 12:25:38 : Logging to SK Shipping website.
+2019-12-18 12:25:43 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 12:25:49 : Successfull login to SK Shipping website.
+2019-12-18 12:25:58 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 12:26:02 : Number of Grid Pages found '5'
+2019-12-18 12:26:14 : Started reading Grid.
+2019-12-18 12:26:15 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 12:26:19 : Completed reading Grid.
+2019-12-18 12:26:32 : Started reading Grid.
+2019-12-18 12:26:36 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:26:36 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 12:26:36 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:26:37 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:26:37 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:26:37 : Completed reading Grid.
+2019-12-18 12:26:50 : Started reading Grid.
+2019-12-18 12:26:51 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 12:26:51 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 12:26:51 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:26:52 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:26:52 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:26:53 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:26:53 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:26:54 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 12:26:55 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:26:56 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:26:56 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:26:57 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 12:26:57 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:26:57 : Completed reading Grid.
+2019-12-18 12:27:12 : Started reading Grid.
+2019-12-18 12:27:14 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:27:14 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:27:15 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:27:16 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:27:16 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 12:27:17 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 12:27:17 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:27:18 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:27:18 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 12:27:19 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 12:27:19 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:27:20 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 12:27:20 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 12:27:20 : Completed reading Grid.
+2019-12-18 12:27:34 : Started reading Grid.
+2019-12-18 12:27:34 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:27:34 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:27:35 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 12:27:35 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:27:35 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:27:36 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 12:27:36 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:27:37 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:27:37 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 12:27:38 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 12:27:38 : Completed reading Grid.
+2019-12-18 12:27:45 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 12:28:55 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 12:28:55 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:28:55 : Completed fetching Header data.
+2019-12-18 12:28:57 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:29:00 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 12:29:00 : Completed fetching Items data.
+2019-12-18 12:29:02 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218122902318.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 12:29:02 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218122902319.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 12:30:10 : Task to perform is 'DOWNLOAD'
+2019-12-18 12:30:15 : Logging to SK Shipping website.
+2019-12-18 12:30:19 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 12:30:26 : Successfull login to SK Shipping website.
+2019-12-18 12:30:32 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 12:30:37 : Number of Grid Pages found '5'
+2019-12-18 12:30:49 : Started reading Grid.
+2019-12-18 12:30:50 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 12:30:54 : Completed reading Grid.
+2019-12-18 12:31:08 : Started reading Grid.
+2019-12-18 12:31:12 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:31:12 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 12:31:12 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:31:13 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:31:13 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:31:13 : Completed reading Grid.
+2019-12-18 12:31:26 : Started reading Grid.
+2019-12-18 12:31:27 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 12:31:27 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 12:31:27 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:31:27 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:31:28 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:31:28 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:31:29 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:31:29 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 12:31:29 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:31:30 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:31:30 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:31:31 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 12:31:31 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:31:31 : Completed reading Grid.
+2019-12-18 12:31:44 : Started reading Grid.
+2019-12-18 12:31:45 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:31:46 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:31:46 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:31:47 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:31:47 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 12:31:48 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 12:31:48 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:31:48 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:31:49 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 12:31:49 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 12:31:50 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:31:50 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 12:31:50 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 12:31:50 : Completed reading Grid.
+2019-12-18 12:32:02 : Started reading Grid.
+2019-12-18 12:32:03 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:32:03 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:32:04 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 12:32:04 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:32:04 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:32:05 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 12:32:05 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:32:06 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:32:06 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 12:32:07 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 12:32:07 : Completed reading Grid.
+2019-12-18 12:32:14 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 12:32:18 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 12:32:18 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:32:18 : Completed fetching Header data.
+2019-12-18 12:32:20 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:32:22 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 12:32:22 : Completed fetching Items data.
+2019-12-18 12:32:23 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218123223151.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 12:32:23 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218123223152.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 12:35:39 : Task to perform is 'DOWNLOAD'
+2019-12-18 12:35:42 : Logging to SK Shipping website.
+2019-12-18 12:35:51 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 12:35:59 : Successfull login to SK Shipping website.
+2019-12-18 12:36:05 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 12:36:12 : Number of Grid Pages found '5'
+2019-12-18 12:36:34 : Started reading Grid.
+2019-12-18 12:36:37 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 12:36:44 : Completed reading Grid.
+2019-12-18 12:36:57 : Started reading Grid.
+2019-12-18 12:37:03 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:37:06 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 12:37:08 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:37:09 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:37:10 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:37:10 : Completed reading Grid.
+2019-12-18 12:37:28 : Started reading Grid.
+2019-12-18 12:37:29 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 12:37:30 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 12:37:31 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:37:33 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:37:34 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:37:37 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:37:38 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:37:38 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 12:37:39 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:37:40 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:37:40 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:37:42 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 12:37:43 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:37:43 : Completed reading Grid.
+2019-12-18 12:37:56 : Started reading Grid.
+2019-12-18 12:37:56 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:37:57 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:37:57 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:37:57 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:37:58 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 12:37:58 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 12:37:59 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:37:59 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:38:00 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 12:38:00 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 12:38:01 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:38:01 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 12:38:02 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 12:38:02 : Completed reading Grid.
+2019-12-18 12:38:13 : Started reading Grid.
+2019-12-18 12:38:14 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:38:14 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:38:15 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 12:38:15 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:38:16 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:38:16 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 12:38:16 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:38:17 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:38:17 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 12:38:18 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 12:38:18 : Completed reading Grid.
+2019-12-18 12:38:26 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 12:38:34 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 12:38:34 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:38:34 : Completed fetching Header data.
+2019-12-18 12:38:36 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:38:39 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 12:38:39 : Completed fetching Items data.
+2019-12-18 12:38:40 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218123840730.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 12:38:41 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218123840731.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 12:38:50 : Started extracting Header data.
+2019-12-18 12:40:26 : Task to perform is 'DOWNLOAD'
+2019-12-18 12:40:29 : Logging to SK Shipping website.
+2019-12-18 12:40:33 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 12:40:41 : Successfull login to SK Shipping website.
+2019-12-18 12:40:49 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 12:40:55 : Number of Grid Pages found '5'
+2019-12-18 12:41:13 : Started reading Grid.
+2019-12-18 12:41:15 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 12:41:21 : Completed reading Grid.
+2019-12-18 12:41:33 : Started reading Grid.
+2019-12-18 12:41:37 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:41:38 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 12:41:38 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:41:39 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:41:40 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:41:40 : Completed reading Grid.
+2019-12-18 12:41:52 : Started reading Grid.
+2019-12-18 12:41:53 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 12:41:53 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 12:41:53 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:41:53 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:41:54 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:41:54 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:41:55 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:41:56 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 12:41:56 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:41:57 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:41:57 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:41:58 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 12:41:59 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:41:59 : Completed reading Grid.
+2019-12-18 12:42:12 : Started reading Grid.
+2019-12-18 12:42:12 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:42:13 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:42:13 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:42:14 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:42:14 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 12:42:14 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 12:42:15 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:42:15 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:42:16 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 12:42:16 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 12:42:17 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:42:17 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 12:42:18 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 12:42:18 : Completed reading Grid.
+2019-12-18 12:44:51 : Task to perform is 'DOWNLOAD'
+2019-12-18 12:46:09 : Logging to SK Shipping website.
+2019-12-18 12:46:16 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 12:46:22 : Successfull login to SK Shipping website.
+2019-12-18 12:46:30 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 12:46:35 : Number of Grid Pages found '5'
+2019-12-18 12:46:56 : Started reading Grid.
+2019-12-18 12:46:57 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 12:47:00 : Completed reading Grid.
+2019-12-18 12:47:14 : Started reading Grid.
+2019-12-18 12:47:16 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:47:17 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 12:47:17 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:47:17 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:47:18 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:47:18 : Completed reading Grid.
+2019-12-18 12:47:29 : Started reading Grid.
+2019-12-18 12:47:30 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 12:47:30 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 12:47:30 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:47:30 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:47:31 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:47:31 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:47:31 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:47:31 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 12:47:32 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:47:32 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:47:32 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:47:33 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 12:47:33 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:47:33 : Completed reading Grid.
+2019-12-18 12:47:45 : Started reading Grid.
+2019-12-18 12:47:46 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:47:46 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:47:47 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:47:47 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:47:47 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 12:47:47 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 12:47:48 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:47:48 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:47:48 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 12:47:49 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 12:47:49 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:47:49 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 12:47:49 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 12:47:49 : Completed reading Grid.
+2019-12-18 12:48:01 : Started reading Grid.
+2019-12-18 12:48:01 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:48:02 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:48:02 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 12:48:02 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:48:02 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:48:03 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 12:48:03 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:48:03 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:48:03 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 12:48:04 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 12:48:04 : Completed reading Grid.
+2019-12-18 12:48:11 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 12:49:07 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 12:49:07 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:49:07 : Completed fetching Header data.
+2019-12-18 12:49:08 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:49:08 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 12:49:08 : Completed fetching Items data.
+2019-12-18 12:49:08 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218124908862.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 12:49:09 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218124908863.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 12:49:13 : Started extracting Header data.
+2019-12-18 12:50:07 : Task to perform is 'DOWNLOAD'
+2019-12-18 12:54:47 : Logging to SK Shipping website.
+2019-12-18 12:54:54 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 12:55:02 : Successfull login to SK Shipping website.
+2019-12-18 12:55:07 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 12:55:11 : Number of Grid Pages found '5'
+2019-12-18 12:55:23 : Started reading Grid.
+2019-12-18 12:55:24 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 12:55:28 : Completed reading Grid.
+2019-12-18 12:55:40 : Started reading Grid.
+2019-12-18 12:55:43 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:55:43 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 12:55:44 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:55:44 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:55:44 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:55:44 : Completed reading Grid.
+2019-12-18 12:55:57 : Started reading Grid.
+2019-12-18 12:55:58 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 12:55:58 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 12:55:58 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:55:59 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:55:59 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:55:59 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:00 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:56:00 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 12:56:00 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:00 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:01 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:56:01 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 12:56:01 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:56:01 : Completed reading Grid.
+2019-12-18 12:56:14 : Started reading Grid.
+2019-12-18 12:56:14 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 12:56:14 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:56:15 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:56:15 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 12:56:15 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 12:56:15 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 12:56:16 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 12:56:16 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:16 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 12:56:17 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 12:56:17 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:17 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 12:56:17 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 12:56:17 : Completed reading Grid.
+2019-12-18 12:56:31 : Started reading Grid.
+2019-12-18 12:56:31 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:31 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:32 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 12:56:32 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 12:56:32 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:32 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 12:56:33 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:33 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 12:56:33 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 12:56:33 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 12:56:33 : Completed reading Grid.
+2019-12-18 12:56:41 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTD640E.aspx?KIND=Repair&VESSEL=K.%20VICTORY&QUONO=KVI-19-IR-026&REQNO=KVIERE19013&ETA=2019-12-16&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-18&SEQ=1'
+2019-12-18 12:56:44 : RFQ 'KVI-19-IR-026' of vessel 'K. VICTORY' and port name 'DALIAN - CHINA' is being downloaded.
+2019-12-18 12:56:44 : Started fetching Header data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:56:44 : Completed fetching Header data.
+2019-12-18 12:56:45 : Started fetching Items data for RFQ 'KVI-19-IR-026'
+2019-12-18 12:56:45 : Div field having id 'SKMISPopupContent_dvBindArea' not found.
+2019-12-18 12:56:45 : Completed fetching Items data.
+2019-12-18 12:56:46 : RFQ HTML named 'SKShipping_KVI_19_IR_026_20191218125645997.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-12-18 12:56:46 : RFQ Screenshot named 'SKShipping_KVI_19_IR_026_20191218125645998.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-12-18 12:56:49 : Started extracting Header data.
+2019-12-18 12:56:52 : Completed extracting Header data.
+2019-12-18 12:56:52 : Started extracting Address data.
+2019-12-18 12:56:52 : Completed extracting Address data.
+2019-12-18 12:56:58 : RFQ 'KVI-19-IR-026' named RFQ_V10205_KVI_19_IR_026_20191218125654440.xml downloaded successfully on path 'C:\Shipmaster\eSupplierPortal\LES_XML_INBOX'
+2019-12-18 12:57:05 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=C.%20PROGRESS&QUONO=CPO-19-IT-104&REQNO=CPOEDD19006&ETA=2019-12-14&PORT=QINGDAO%20-%20CHINA&QUODATE=2019-12-16&SEQ=0'
+2019-12-18 14:34:38 : Task to perform is 'DOWNLOAD'
+2019-12-18 14:35:52 : Logging to SK Shipping website.
+2019-12-18 14:36:01 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 14:36:09 : Successfull login to SK Shipping website.
+2019-12-18 14:36:16 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 14:36:20 : Number of Grid Pages found '5'
+2019-12-18 14:36:34 : Started reading Grid.
+2019-12-18 14:36:34 : RFQ 'PTR-19-IT-122' of vessel 'PRO TRIUMPH' and port name 'DALIAN - CHINA' is already downloaded.
+2019-12-18 14:36:38 : Completed reading Grid.
+2019-12-18 14:36:51 : Started reading Grid.
+2019-12-18 14:36:55 : Completed reading Grid.
+2019-12-18 14:37:07 : Started reading Grid.
+2019-12-18 14:37:11 : Completed reading Grid.
+2019-12-18 14:37:16 : Task to perform is 'DOWNLOAD'
+2019-12-18 14:37:24 : Logging to SK Shipping website.
+2019-12-18 14:37:28 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-12-18 14:37:35 : Successfull login to SK Shipping website.
+2019-12-18 14:37:41 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-12-18 14:37:45 : Number of Grid Pages found '5'
+2019-12-18 14:37:57 : Started reading Grid.
+2019-12-18 14:38:02 : Completed reading Grid.
+2019-12-18 14:38:15 : Started reading Grid.
+2019-12-18 14:38:17 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 14:38:18 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-12-18 14:38:18 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:38:18 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-12-18 14:38:18 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 14:38:19 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-12-18 14:38:19 : Completed reading Grid.
+2019-12-18 14:38:30 : Started reading Grid.
+2019-12-18 14:38:31 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-12-18 14:38:31 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:38:31 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:38:32 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 14:38:32 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:38:32 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 14:38:32 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-12-18 14:38:33 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:38:33 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:38:33 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 14:38:34 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-12-18 14:38:34 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 14:38:34 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-12-18 14:38:34 : Completed reading Grid.
+2019-12-18 14:38:46 : Started reading Grid.
+2019-12-18 14:38:47 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 14:38:47 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 14:38:47 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-12-18 14:38:48 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-12-18 14:38:48 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-12-18 14:38:48 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-12-18 14:38:48 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:38:49 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-12-18 14:38:49 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-12-18 14:38:49 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:38:50 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-12-18 14:38:50 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-12-18 14:38:50 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:38:50 : Completed reading Grid.
+2019-12-18 14:39:01 : Started reading Grid.
+2019-12-18 14:39:02 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:39:02 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-12-18 14:39:02 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-12-18 14:39:03 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:39:03 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-12-18 14:39:03 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:39:03 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-12-18 14:39:04 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-12-18 14:39:04 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-12-18 14:39:04 : Completed reading Grid.
+2019-12-18 14:39:12 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=PRO%20TRIUMPH&QUONO=PTR-19-IT-122&REQNO=PTRDDD19011&ETA=2019-12-21&PORT=DALIAN%20-%20CHINA&QUODATE=2019-12-17&SEQ=0'

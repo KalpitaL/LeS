@@ -1,0 +1,42 @@
+12/2/2019 10:11:40 AM ================12/2/2019 10:11:40 AM================
+12/2/2019 10:11:40 AM MTM RFQ Download HTTP processor started
+12/2/2019 10:14:18 AM ================12/2/2019 10:14:18 AM================
+12/2/2019 10:14:18 AM MTM RFQ Download HTTP processor started
+12/2/2019 10:14:28 AM Error GetURL() : Index was outside the bounds of the array.
+12/2/2019 10:14:35 AM ================12/2/2019 10:14:35 AM================
+12/2/2019 10:14:35 AM MTM RFQ Download HTTP processor started
+12/2/2019 10:15:04 AM Error GetURL() : Index was outside the bounds of the array.
+12/2/2019 10:15:13 AM ================12/2/2019 10:15:13 AM================
+12/2/2019 10:15:13 AM MTM RFQ Download HTTP processor started
+12/2/2019 10:16:05 AM ================12/2/2019 10:16:05 AM================
+12/2/2019 10:16:05 AM MTM RFQ Download HTTP processor started
+12/2/2019 10:16:35 AM ================12/2/2019 10:16:35 AM================
+12/2/2019 10:16:35 AM MTM RFQ Download HTTP processor started
+12/2/2019 10:17:12 AM ================12/2/2019 10:17:12 AM================
+12/2/2019 10:17:12 AM MTM RFQ Download HTTP processor started
+12/2/2019 10:19:27 AM ================12/2/2019 10:19:27 AM================
+12/2/2019 10:19:27 AM MTM RFQ Download HTTP processor started
+12/2/2019 10:19:33 AM MTM Domain not found in 191202_085037968.txt
+12/2/2019 10:21:39 AM ================12/2/2019 10:21:39 AM================
+12/2/2019 10:21:39 AM MTM RFQ Download HTTP processor started
+12/2/2019 10:24:35 AM ================12/2/2019 10:24:35 AM================
+12/2/2019 10:24:35 AM MTM RFQ Download HTTP processor started
+12/2/2019 2:22:39 PM ================12/2/2019 2:22:39 PM================
+12/2/2019 2:22:39 PM MTM RFQ Download HTTP processor started
+12/2/2019 2:27:16 PM ================12/2/2019 2:27:16 PM================
+12/2/2019 2:27:16 PM MTM RFQ Download HTTP processor started
+12/2/2019 2:27:48 PM ================12/2/2019 2:27:48 PM================
+12/2/2019 2:27:48 PM MTM RFQ Download HTTP processor started
+12/2/2019 2:28:58 PM ================12/2/2019 2:28:58 PM================
+12/2/2019 2:28:59 PM MTM RFQ Download HTTP processor started
+12/2/2019 2:29:39 PM ================12/2/2019 2:29:39 PM================
+12/2/2019 2:29:39 PM MTM RFQ Download HTTP processor started
+12/2/2019 2:29:55 PM MTM Domain not found in 191202_150238112.txt
+12/2/2019 2:29:58 PM No PDF file found for file 191202_150238112.txt
+12/2/2019 2:29:58 PM Unable to process file191202_150238112.txt due to link not found
+12/2/2019 2:29:58 PM File 191202_150238112.txt moved to error files.
+12/2/2019 2:30:04 PM MTM Domain not found in 4001020_191202_164216549.txt
+12/2/2019 2:30:07 PM No PDF file found for file 4001020_191202_164216549.txt
+12/2/2019 2:30:07 PM Unable to process file4001020_191202_164216549.txt due to link not found
+12/2/2019 2:30:07 PM File 4001020_191202_164216549.txt moved to error files.
+12/2/2019 2:30:07 PM No RFQ Found !

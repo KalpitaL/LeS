@@ -1,0 +1,12 @@
+﻿DOC_HEADER_VALUE=Archangel 1.0
+RFQ_DATE=input|txtSentDate
+VRNO=span|Title1_lblTitle,Title1_spnTitle
+BUYER_PHONE=input|txtContactNo
+BUYER_EMAIL=input|txtSenderEmailId
+BUYER_CONTACT=input|txtSenderName
+VENDOR_NAME=input|txtVendorName
+VENDOR_ADDRESS1=textarea|txtVendorAddress
+VENDOR_PHONE=input|txtTelephone
+VENDOR_FAX=input|txtFax
+VENDOR_EMAIL=input|txtEmail
+SHIP_ADDRESS1=input|txtDeliveryPlace

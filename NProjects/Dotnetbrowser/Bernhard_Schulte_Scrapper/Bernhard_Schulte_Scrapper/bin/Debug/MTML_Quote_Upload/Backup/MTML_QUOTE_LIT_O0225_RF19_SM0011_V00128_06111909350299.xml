@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="T-SQ-191101091" Identifier="UNOC" Recipient="BESC08_AMOSEPB" Sender="V00128" PreparationDate="2019-Nov-06" PreparationTime="09:35" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="91000004" LesRecordID="91375851" LesLinkID="91000012" ParentRecordID="91375817" MTML_DOCID="E4DADFBA-A7A2-47B4-BC61-BBF45CD0517E">
+    <Quote MessageReferenceNumber="91000012_RFQ_LIT_O0225_RF19_06112019120920451.xlsm" MessageNumber="91000012_RFQ_LIT_O0225_RF19_06112019120920451.xlsm" LineItemCount="1" VersionNumber="1" CurrencyCode="SGD" FunctionCode="_9" OriginatingSystemRef="91375817" LeadTimeDays="0" BuyerRefNo="LIT/O0225/RF19" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" SupplierORGRef="500091375817" BuyerItemTotal="189.65" BuyerQuoteTotal="189.65">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911060935" />
+      <Comments Qualifier="SUR">
+        <value>DEFECTIVE RESCUE BOAT MAGNETIC COMPASS ON BOARD. ATTACHED PHOTOS FOR MORE INFORMATION. MAKER: RITCHIE PEMBROKE, MA 02359 B-81-WM A140016056 NO REFILL
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="LIT/O0225/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="T-SQ-191101091" />
+      <Party Qualifier="BY" Identification="BESC08_AMOSEPB" Name="BERNHARD SCHULTE SHIPMANAGEMENT (HELLAS) SPLLC" City="ATHENS">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V00128" Name="AMOS INTERNATIONAL (S) PTE LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="sales.ms.sg@amosgroup.com,Pur_tech@amos-sg.com,pur_f&amp;b@amos-sg.com" />
+        </Contact>
+        <StreetAddress>156 GUL CIRCLE</StreetAddress>
+        <StreetAddress>SINGAPORE 619901</StreetAddress>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="MARLIN AMMOLITE">
+        <PartyLocation Qualifier="TBA" Port="UNKNOWN" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="LIFEBOAT/RESCUE BOAT COMPASS 100MM, WITH COVER   LIFEBOAT/RESCUE BOAT COM" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="189.65" Identification="330211" IsExtraItem="0" MarkedRemarks="OFFER RITCHIE B-81-WM COMPASS 3&quot; DIAL AND BRACKET MOUNTED (SHIPWHEEL)" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="189.65" BuyerItemTotal="189.65" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="189.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="189.65" />
+        <Comments Qualifier="LIN">
+          <value>OFFER RITCHIE B-81-WM COMPASS 3" DIAL AND BRACKET MOUNTED (SHIPWHEEL)</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="189.650" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="189.650" />
+      <MonetaryAmount Qualifier="_90" Value="189.650" />
+      <MonetaryAmount Qualifier="_91" Value="189.650" />
+    </Quote>
+  </Interchange>
+</MTML>

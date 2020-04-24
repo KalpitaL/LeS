@@ -1,0 +1,1150 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="MasterHeader"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link href="../ig_res/Default/ig_shared.css" rel="stylesheet" type="text/css">
+<link href="../ig_res/Default/ig_dataGrid.css" rel="stylesheet" type="text/css">
+    <base target="_self">
+
+    <script language="javascript" type="text/javascript">
+         var _MasterPageId_ =  "ctl00"; //Master page client id(global)
+         var _MasterPageContentPlaceHolderId_ = "SKMISPopupContent";    //ContentPlaceHolder id(global)
+    </script>
+
+    <link href="../Common/Styles/Theme/B/sk_basic.css" rel="stylesheet" type="text/css">
+
+    <script src="../Common/js/Const.js" type="text/javascript"></script>
+
+    <script src="../Common/js/Common.js" type="text/javascript"></script>
+
+    <script src="../Common/js/FormEvent.js" type="text/javascript"></script>
+
+    <script src="../Common/js/ControlUtil.js" type="text/javascript"></script>
+
+    <script src="../Common/js/ig_shared.js" type="text/javascript"></script>
+
+    <script src="../Common/js/ig_edit.js" type="text/javascript"></script>
+
+    <script src="../Common/js/Validation.js" type="text/javascript"></script>
+
+    <script src="../Common/js/ig_WebGrid.js" type="text/javascript"></script>
+
+    <script src="../Common/js/jquery-1.3.2.js"></script>
+
+    <script src="../Common/js/jquery.blockUI.min.js"></script>
+
+    <script language="javascript" type="text/javascript">
+
+       // PageLoading 시 중복
+        function Fn_OpenLoading()
+        {
+            try
+            {
+                jQuery.blockUI({
+                    message: '<div><image style="width:20px;height:20px" src="../Common/images/loading.gif"></image><span>&nbsp&nbsp Please wait, now loading...</span></div>',
+                    css: {
+                        top: "43%",
+                        left: "43%",
+                        width: "200px",
+                        padding: "20px",
+                        border: "none",
+                        "font-family": "Gulim,GulimChe, Helvetica, sans-serif, Dotum",
+                        "font-size": "12px",
+                        '-moz-border-radius': '5px',
+                        '-khtml-border-radius': '5px',
+                        '-webkit-border-radius': '5px',
+                        'border-radius': '5px',
+                        cursor: 'auto',
+                        opacity: '0.9'
+                    },
+                    ignoreIfBlocked: true
+                });
+                //document.all.__BACKGROUND_ENABLE_FALSE.style.width = window.screen.width;
+                //document.all.__BACKGROUND_ENABLE_FALSE.style.height = 20000;
+                //document.all.__BACKGROUND_ENABLE_FALSE.style.top = document.documentElement.scrollTop;
+
+                //document.all.__BACKGROUND_ENABLE_TABLE.style.visibility = "visible";
+                //document.all.__BACKGROUND_ENABLE_FALSE.style.visibility = "visible";
+                //document.body.style.overflow = "hidden";
+            } catch (e)
+            {
+            }
+        }
+        
+        function Fn_CloseLoading()
+        {
+            try
+            {
+                jQuery.unblockUI();
+                //document.all.__BACKGROUND_ENABLE_FALSE.style.width = 0;
+                //document.all.__BACKGROUND_ENABLE_FALSE.style.height = 0;
+                //document.all.__BACKGROUND_ENABLE_TABLE.style.visibility = "hidden";
+                //document.all.__BACKGROUND_ENABLE_FALSE.style.visibility = "hidden";
+                //document.body.style.overflow = "visible";
+            } catch (e)
+            {
+            }
+        }
+    </script>
+
+    
+
+    <script src="../Common/js/calendar_us.js" type="text/javascript"></script>
+
+    <link href="../Common/Styles/Theme/calendar.css" rel="stylesheet">
+
+    <script language="javascript" type="text/javascript">
+        function fn_PopUpPrice(impacd) {
+            param = "IMPACD=" + impacd.replace("`", "'");
+            cond = "dialogWidth:950px;dialogHeight:400px;scroll:no;resizable:no;help:0;status:no";
+            var returnValue = fn_OpenModalDialog("../MTIS/MTK007Q.aspx?" + param, null, cond);
+            return false;
+        }
+
+        function fn_OpenHelpMtis() {
+
+            var width = 900;
+            var height = 750;
+            var left = (screen.width) ? (screen.width - width) / 2 : 100;
+            var top = (screen.height) ? (screen.height - height) / 2 : 100;
+            var cond = "Width=" + width + "px,Height=" + height + "px,status=no,scrollbars=no,left=" + left + ",top=" + top;
+            var param = 'HELPID=' + document.getElementById('SKMISPopupContent_hdHelpID').value;
+            param = param + '&LangCD=' + document.getElementById('SKMISPopupContent_hdLANGCD').value;
+            url = url = fn_GetWebRoot() + "Common/menual.aspx?";
+            window.open(url + param, null, cond);
+        }
+
+        function GeneraterHtml() {
+            document.getElementById("SKMISPopupContent_dvBindArea").innerHTML = '<table width="100%" border="0" cellpadding="3" cellspacing="1" class="sk_table_gray" style="table-layout: fixed"><colgroup><col width="30px" /><col width="30px" /><col width="30px" /><col width="60px" /><col width="210px" /><col width="123px" /><col width="60px" /><col width="50px" /><col width="80px" /><col width="100px" /><col width="60px" /><col width="100px" /><col /></colgroup><tr><td rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">NO</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Cfm</td><td  rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">DM</td><td rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">IMPA</td><td rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Description & SPEC</td><td rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Maker</td><td rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Unit</td><td rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">QTY</td><td rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Price</td><td rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Amount</td><td rowspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">D-Term(Day)</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Quo. See Date</td><td></td></tr><tr><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25"><input id="chkAll" type="checkbox" runat="server"  onclick="fn_checkAll();" /></td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Confirm Date</td><td></td></tr><tr><td rowspan="4" class="sk_bg_white sk_text_gray2_12 sk_align_center sk_h25 sk_pl5 sk_pr5"><input id="txtNo0" value="1"  type="text" runat="server" readonly="readonly" class="inputbox sk_w100p sk_align_center"style="border: 0" /></td><td rowspan="4" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5"><input id="chkCheckDate0"  type="checkbox" runat="server" onclick="GetDate(0);" /></td><td rowspan="4" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5"><input id="chkcons0"  type="checkbox" disabled="true" runat="server"  /></td><td rowspan="2" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5"><input id="txtImpa0" value="331557" type="text" runat="server" readonly="readonly" class="inputbox_readonly sk_w100p sk_align_center sk_h40" /></td><td rowspan="2" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5"><textarea id="txtDescription0" runat="server" rows="2" readonly="readonly" class="inputbox_readonly sk_w100p sk_align_left sk_h40" style="cursor:pointer; text-decoration:underline" onclick="fn_PopUpPrice(\'331557\');">POSTER IMO FIRE CONTROL , SYMBOLS #1057X 420X297MM</textarea></td><td rowspan="2" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5"><textarea id="txtMakerNM0" runat="server" rows="2" readonly="readonly" class="inputbox_readonly sk_w100p sk_align_left sk_h40" style="cursor:pointer; text-decoration:underline" ></textarea></td><td rowspan="2" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5"><input id="txtUnit0" value="PCS" type="text" runat="server" readonly="readonly" class="inputbox_readonly sk_w100p sk_align_center sk_h40" /></td></td><td rowspan="2" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5"><input id="txtQty0" value="4" type="text" runat="server" readonly="readonly" class="inputbox_readonly sk_w100p sk_align_right sk_h40" /></td><td rowspan="2" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5"><input  id="txtPrice0" value="0.00" tabindex ="1"  type="text" runat="server"  class="inputbox sk_w100p sk_align_right sk_h40"  onkeypress="fn_CheckDouble();" onchange="fn_CalGradTotal(0)" /><input id="hdSemiTotal" type="hidden" runat="server" /></td><td rowspan="2" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5"><input id="txtAmount0" value="0.00" type="text" runat="server" readonly="readonly" class="inputbox_readonly sk_w100p sk_align_right sk_h40" /></td><td rowspan="2" class="sk_bg_white sk_text_gray2_12 sk_align_center sk_pl5 sk_pr5 sk_h50"><input id="txtDeliveryTerm0" value="0"  tabindex ="2" type="text" runat="server"  class="inputbox sk_w100p sk_align_right sk_h40"  onkeypress="fn_CheckNumber();" /></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5"><input id="txtQuotionSeeDate0" value="2019-04-26" type="text" runat="server" readonly="readonly" class="inputbox_readonly sk_w100p sk_align_center" /></td><td></td></tr><tr><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5"><input id="txtCfmDate0" value="" type="text" runat="server" readonly="readonly" class="inputbox_readonly sk_w100p sk_align_center" /></td><td></td></tr><tr><td colspan="2" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Specification Remark</td><td colspan="4" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Used For Remark</td><td colspan="6" class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Supplier Remark</td><td></td></tr><tr><td colspan="2" class="sk_bg_white sk_text_gray2_12 sk_align_center sk_h60 sk_pr5 sk_pl5"><textarea id="txtRemark_Spec0" runat="server" rows="3" class="inputbox_readonly sk_w100p sk_h50" readonly="readonly">FIRE PLAN IMO SYMBOL IMPA CODE 336105</textarea></td><td colspan="4" class="sk_bg_white sk_text_gray2_12 sk_align_center sk_h60 sk_pr5 sk_pl5"><textarea id="txtRemark_Used0" runat="server" rows="3" class="inputbox_readonly sk_w100p sk_h50" readonly="readonly">PLEASE SEE PHOTO ATTACHED</textarea></td><td colspan="6" class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h60 sk_pr5 sk_pl5"><textarea id="txtSupplierRemark0" tabindex ="3" runat="server" rows="3"  class="inputbox sk_w100p sk_h50" ></textarea></td><td></td></tr><div style="display: none"><input id="txtReqSeq0" value="1" type="text" runat="server" readonly="readonly"  /><input id="txtReqNo0" value="KRUDST19008" type="text" runat="server" readonly="readonly"  /></div></table>';
+            document.getElementById("addtr").innerHTML = '<a class=\'sk_icon_bg\'></a><span class=\'sk_pl5 sk_text_bold sk_text_gray\'>If there is any difference between Description & Spec and Vessel Remark, Vessel Remark has priority over Description & Spec.</span><span class=\'sk_bg_gray sk_text_gray2_12  sk_w100p \'>DM(Contract Price)</span>';
+        }
+
+        function fn_checkAll() {
+            var NameCfmDate = '';
+            if (document.getElementById('chkAll').checked) {
+                for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                    NameCheckDate = 'chkCheckDate' + i;
+                    document.getElementById(NameCheckDate).checked = true;
+                    GetDate(i);
+                }
+            }
+            else {
+                for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                    NameCheckDate = 'chkCheckDate' + i;
+                    NameCfmDate = 'txtCfmDate' + i;
+                    document.getElementById(NameCheckDate).checked = false;
+                    document.getElementById(NameCfmDate).value = '';
+                }
+            }
+        }
+
+        //Check Validation when Click Save
+        function CheckValidation(Type) {
+            var DateFrom = document.getElementById("SKMISPopupContent_wdcvalDateFrom").value;
+            var DateTo = document.getElementById("SKMISPopupContent_wdcvalDateTo").value;
+            var Currency = document.getElementById("SKMISPopupContent_ddlCurrency").value;
+
+            if (Currency == 'SKS_FRAMEWORK_SELECT') {
+                alert('Please, Enter Currency.');
+                return false;
+            }
+
+            if (DateFrom == '') {
+                alert('Please, Enter Start Date.');
+                return false;
+            }
+
+            if (DateTo == '') {
+                alert('Please, Enter End Date.'); //SKS_FRAMEWORK_SELECT
+                return false;
+            }
+
+            // if Confirm data is not checked--------------------------------------------------------
+            if (Type == 'S') {
+                var isExist = '';
+                for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                    NameCheckDate = 'chkCheckDate' + i;
+                    NameCfmDate = 'txtCfmDate' + i;
+                    if (!document.getElementById(NameCheckDate).checked) {
+                        isExist = 'Y';
+                        break;
+                    }
+                    else {
+                        isExist = 'N';
+                    }
+                }
+            }
+
+            if (Type == 'S') {
+                if (isExist == 'Y') {
+                    //Not Confirmed Data is existed. Do you want to save?
+                    if (!confirm('Not Confirmed Data is existed. Do you want to save?')) {
+                        return false;
+                    }
+                    else {
+                        document.getElementById("SKMISPopupContent_hdSubmit").value = 'N';
+                    }
+                }
+                else {
+                    if (!fn_ValidateFormAndConfirm(document.forms[0], '10020', new Array())) {
+                        return false;
+                    }
+                    else {
+                        document.getElementById("SKMISPopupContent_hdSubmit").value = 'N';
+                    }
+                }
+            }
+
+            if (Type == 'M') {
+                var isNotConfrim = '';
+                for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                    NameCheckDate = 'chkCheckDate' + i;
+                    NameCfmDate = 'txtCfmDate' + i;
+                    if (document.getElementById(NameCheckDate).checked) {
+                        isNotConfrim = 'N';
+                        break;
+                    }
+                    else {
+                        isNotConfrim = 'Y';
+                    }
+                }
+            }
+
+            if (Type == 'M') {
+                if (isNotConfrim == 'Y') {
+                    alert('There is not exist any confirmed data. Please, Check your data.');
+                    return false;
+                }
+
+                if (!fn_ValidateFormAndConfirm(document.forms[0], '10020', new Array())) {
+                    return false;
+                }
+                else {
+                    document.getElementById("SKMISPopupContent_hdSubmit").value = 'Y';
+                }
+            }
+
+            document.getElementById("SKMISPopupContent_hddataSupplierRemark").value = '';
+            document.getElementById("SKMISPopupContent_hddataCfmDate").value = '';
+            document.getElementById("SKMISPopupContent_hddataDeliveryTerm").value = '';
+            document.getElementById("SKMISPopupContent_hddataPrice").value = '';
+            document.getElementById("SKMISPopupContent_hddataReqSeq").value = '';
+            document.getElementById("SKMISPopupContent_hddataReqNo").value = '';
+            document.getElementById("SKMISPopupContent_hdCurrency").value = '';
+            document.getElementById("SKMISPopupContent_hdDcAmount").value = '';
+            document.getElementById("SKMISPopupContent_hdDcPercent").value = '';
+            document.getElementById("SKMISPopupContent_hdDateFrom").value = '';
+            document.getElementById("SKMISPopupContent_hdDateTo").value = '';
+            document.getElementById("SKMISPopupContent_hdGrandTotal").value = '';
+            document.getElementById("SKMISPopupContent_hdRemark").value = '';
+
+            for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                var NameSupplierRemark = 'txtSupplierRemark' + i;
+                var NameCfmDate = 'txtCfmDate' + i;
+                var NameDeliveryTerm = 'txtDeliveryTerm' + i;
+                var NamePrice = 'txtPrice' + i;
+                var NameReqSeq = 'txtReqSeq' + i;
+                var NameReqNo = 'txtReqNo' + i;
+                var NametxtImpa = 'txtImpa' + i;
+
+                //확인 날짜와 Pirce 모두 데이터가 있어야만 한다.
+                if (document.getElementById(NameCfmDate).value == '' && document.getElementById(NamePrice).value.replace(/,/g, '') > 0) {
+                    alert('NO : ' + parseInt(i + 1) + '\r\n\r\nIMPA : ' + document.getElementById(NametxtImpa).value + ' 항목의\r\n\r\nPrice는 입력 되었으나 Confirm Date를 체크하지 않았습니다.');
+                    return false;
+                }
+
+                document.getElementById("SKMISPopupContent_hddataSupplierRemark").value += document.getElementById(NameSupplierRemark).value + '▦';
+                document.getElementById("SKMISPopupContent_hddataCfmDate").value += document.getElementById(NameCfmDate).value + '▦';
+                document.getElementById("SKMISPopupContent_hddataDeliveryTerm").value += document.getElementById(NameDeliveryTerm).value + '▦';
+                document.getElementById("SKMISPopupContent_hddataPrice").value += document.getElementById(NamePrice).value + '▦';
+                document.getElementById("SKMISPopupContent_hddataReqSeq").value += document.getElementById(NameReqSeq).value + '▦';
+                document.getElementById("SKMISPopupContent_hddataReqNo").value += document.getElementById(NameReqNo).value + '▦';
+            }
+            document.getElementById("SKMISPopupContent_hdCurrency").value = document.getElementById("SKMISPopupContent_ddlCurrency").value;
+            document.getElementById("SKMISPopupContent_hdDcAmount").value = document.getElementById("SKMISPopupContent_txtDcAmount").value;
+            document.getElementById("SKMISPopupContent_hdDcPercent").value = document.getElementById("SKMISPopupContent_txtDcPercent").value;
+            var DateFrom = document.getElementById("SKMISPopupContent_wdcvalDateFrom").value;
+            var DateTo = document.getElementById("SKMISPopupContent_wdcvalDateTo").value;
+            //var arrDateFrom = new Array();
+            //var arrDateTo = new Array();
+            //arrDateFrom = DateFrom.split('-');
+            //arrDateTo = DateTo.split('-');
+            //if (arrDateFrom[1] < 10) arrDateFrom[1] = '0' + arrDateFrom[1];
+            //if (arrDateFrom[2] < 10) arrDateFrom[2] = '0' + arrDateFrom[2];
+            //if (arrDateTo[1] < 10) arrDateTo[1] = '0' + arrDateTo[1];
+            //if (arrDateTo[2] < 10) arrDateTo[2] = '0' + arrDateTo[2];
+
+            //DateFrom = arrDateFrom[0] + '-' + arrDateFrom[1] + '-' + arrDateFrom[2];
+            //DateTo = arrDateTo[0] + '-' + arrDateTo[1] + '-' + arrDateTo[2];
+
+            document.getElementById("SKMISPopupContent_hdDateFrom").value = DateFrom;
+            document.getElementById("SKMISPopupContent_hdDateTo").value = DateTo;
+            document.getElementById("SKMISPopupContent_hdGrandTotal").value = document.getElementById("SKMISPopupContent_txtGrandTotal").value;
+            document.getElementById("SKMISPopupContent_hdRemark").value = document.getElementById("SKMISPopupContent_txtQuotaionRemark").value;
+
+            var btn = document.getElementById("SKMISPopupContent_btnServerSave");
+            btn.click();
+
+        }
+
+        function GetDate(Seq) {
+
+            var AddDate = new Date();
+            var year = AddDate.getUTCFullYear();
+            var month = AddDate.getMonth() + 1;
+            var day = AddDate.getDate();
+            if (month.toString().length == "1") month = "0" + month;
+            if (day.toString().length == "1") day = "0" + day;
+            var CfmDate = year + "-" + month + "-" + day;
+
+            var NameCheckDate = 'chkCheckDate' + Seq;
+            var NameCfmDate = 'txtCfmDate' + Seq;
+            if (document.getElementById(NameCheckDate).checked) document.getElementById(NameCfmDate).value = CfmDate;
+            else document.getElementById(NameCfmDate).value = '';
+
+        }
+
+        function fn_CheckNumber() {
+            try {
+
+                if (window.event.keyCode >= 48 && window.event.keyCode <= 57) {
+                    window.event.returnValue = true;
+                    return;
+                }
+                if (window.event.keyCode == 8 && window.event.keyCode == 13 && window.event.keyCode == 27) {
+                    window.event.returnValue = true;
+                    return;
+                }
+                if (window.event.keyCode == 46) {
+                    window.event.returnValue = true;
+                    return;
+                }
+                window.event.returnValue = false;
+            }
+            catch (exception) {
+                fn_OpenErrorMessage(exception.description);
+            }
+
+        }
+
+        function fn_CheckDouble() {
+            try {
+                if (window.event.keyCode >= 48 && window.event.keyCode <= 57) {
+                    window.event.returnValue = true;
+                    return;
+                }
+                if (window.event.keyCode == 8 && window.event.keyCode == 13 && window.event.keyCode == 27) {
+                    window.event.returnValue = true;
+                    return;
+                }
+                if (window.event.keyCode == 46) {
+                    window.event.returnValue = true;
+                    return;
+                }
+                window.event.returnValue = false;
+            }
+            catch (exception) {
+                fn_OpenErrorMessage(exception.description);
+            }
+        }
+
+        //Check All Click Event
+        //<a href="javascript:gotoAllCheck()"><font color="#0000FF">All</font>
+        function gotoAllCheck() {
+            var Start = document.ShipForm.Start.value;
+            var Last = document.ShipForm.Last.value;
+            var i = 0;
+            var YYYYMMDD = new Date();
+            var YYYY = YYYYMMDD.getYear();
+            var MM = YYYYMMDD.getMonth() + 1;
+            var DD = YYYYMMDD.getDate();
+            if (MM < 10) MM = "0" + MM
+            if (DD < 10) DD = "0" + DD
+
+            for (i = Number(Start) ; i < Number(Last) ; i++) {
+                var j = Number(i) + 1;
+                var chk = eval("document.ShipForm.ConfirmCheck" + j);
+                var dat = eval("document.ShipForm.R" + j + "C5");
+                var write = eval("document.ShipForm.R" + j + "C6");
+                if (chk.disabled != true) {
+                    if (Flag == "false") {
+                        chk.checked = true
+                        dat.value = YYYY + "-" + MM + "-" + DD
+
+                    } else {
+                        chk.checked = false
+                        dat.value = "";
+                        //write.setAttribute("readOnly",false)
+                    }
+                }
+            }
+        }
+
+
+        function CalculateGrandTotal2() {
+            var Grandtotal = 0;
+            for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                var NameAmount = 'txtAmount' + i;
+                Grandtotal += parseFloat(document.getElementById(NameAmount).value.replace(/,/g, ''));
+            }
+
+            var DcAmount = document.getElementById("SKMISPopupContent_txtDcAmount").value.replace(/,/g, '');
+            if (DcAmount > Grandtotal) {
+                alert('D/C Amount 는 Grand Total을 초과할 수 없습니다.');
+                document.getElementById("SKMISPopupContent_txtDcPercent").value = '0.00';
+                document.getElementById("SKMISPopupContent_txtDcAmount").value = '0.00';
+                Grandtotal = 0;
+                for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                    var NameAmount = 'txtAmount' + i;
+                    Grandtotal += parseFloat(document.getElementById(NameAmount).value.replace(/,/g, ''));
+                }
+                document.getElementById("SKMISPopupContent_txtGrandTotal").value = s_convertMoney(Grandtotal.toFixed(2));
+                return;
+            }
+
+            var tempDcAmount = 0;
+            var tempDcRate = 0;
+            var tempGrandAmount = 0;
+            tempDcRate = (DcAmount / Grandtotal) * 100;
+            tempGrandAmount = Grandtotal - DcAmount;
+            document.getElementById("SKMISPopupContent_txtDcPercent").value = s_convertMoney(tempDcRate.toFixed(2));
+            document.getElementById("SKMISPopupContent_txtGrandTotal").value = s_convertMoney(tempGrandAmount.toFixed(2));
+        }
+
+        function CalculateGrandTotal() {
+            var Grandtotal = 0;
+            for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                var NameAmount = 'txtAmount' + i;
+                Grandtotal += parseFloat(document.getElementById(NameAmount).value.replace(/,/g, ''));
+            }
+            var DcRate = document.getElementById("SKMISPopupContent_txtDcPercent").value.replace(/,/g, '');
+            if (DcRate > 100) {
+                alert('D/C Percent 는 100을 초과할 수 없습니다.');
+                document.getElementById("SKMISPopupContent_txtDcPercent").value = '0.00';
+                document.getElementById("SKMISPopupContent_txtDcAmount").value = '0.00';
+                Grandtotal = 0;
+                for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                    var NameAmount = 'txtAmount' + i;
+                    Grandtotal += parseFloat(document.getElementById(NameAmount).value.replace(/,/g, ''));
+                }
+                document.getElementById("SKMISPopupContent_txtGrandTotal").value = s_convertMoney(Grandtotal.toFixed(2));
+                return;
+            }
+            var tempDcAmount = 0;
+            var tempGrandAmount = 0;
+            tempDcAmount = (Grandtotal * DcRate) / 100;
+            tempGrandAmount = Grandtotal - tempDcAmount;
+            document.getElementById("SKMISPopupContent_txtDcAmount").value = s_convertMoney(tempDcAmount.toFixed(2));
+            document.getElementById("SKMISPopupContent_txtGrandTotal").value = s_convertMoney(tempGrandAmount.toFixed(2));
+        }
+
+        //Grand Total Calcurate Logic
+        function fn_CalGradTotal(seq) {
+            var NameQty = 'txtQty' + seq;
+            var NamePrice = 'txtPrice' + seq;
+            var NameTotal = 'txtAmount' + seq;
+
+            var Qty = document.getElementById(NameQty).value;
+            var price = document.getElementById(NamePrice).value;
+
+            Qty = Qty.replace(/,/g, '');
+            price = price.replace(/,/g, '');
+
+            if (Qty != "" && price != "") {
+                var TotalValue = parseFloat(Qty) * parseFloat(price);
+                TotalValue = TotalValue.toFixed(2);
+                document.getElementById(NameTotal).value = s_convertMoney(TotalValue);
+                document.getElementById('hdSemiTotal').value = s_convertMoney(TotalValue);
+                document.getElementById(NamePrice).value = s_convertMoney(price);
+            }
+
+            var tempGrandtotal = 0;
+            for (var i = 0; i < document.getElementById("SKMISPopupContent_hdTOTALCNT").value; i++) {
+                var Amount = 'txtAmount' + i;
+                tempGrandtotal += parseFloat(document.getElementById(Amount).value.replace(/,/g, ''));
+            }
+            tempGrandtotal = tempGrandtotal.toFixed(2);
+            document.getElementById("SKMISPopupContent_txtGrandTotal").value = '';
+            document.getElementById("SKMISPopupContent_txtGrandTotal").value = s_convertMoney(tempGrandtotal);
+
+
+            var DcRate = document.getElementById("SKMISPopupContent_txtDcPercent").value;
+            var DcAmount = 0;
+
+            //            DcAmount = (DcRate * tempGrandtotal) / 100;
+            //            var tempGrandAmount = tempGrandtotal - DcAmount;
+
+            //            tempGrandAmount = tempGrandAmount.toFixed(2);
+            //            DcAmount = DcAmount.toFixed(2);
+            //            document.getElementById("SKMISPopupContent_txtGrandTotal").value = '';
+            //            document.getElementById("SKMISPopupContent_txtGrandTotal").value = s_convertMoney(tempGrandAmount);
+            //            document.getElementById("SKMISPopupContent_txtDcAmount").value = s_convertMoney(DcAmount);
+
+            DcAmount = (DcRate * tempGrandtotal) / 100;
+            var tempGrandAmount = tempGrandtotal - DcAmount;
+
+            tempGrandAmount = tempGrandAmount.toFixed(2);
+            DcAmount = DcAmount.toFixed(2);
+            document.getElementById("SKMISPopupContent_txtGrandTotal").value = '';
+            document.getElementById("SKMISPopupContent_txtGrandTotal").value = s_convertMoney(tempGrandAmount);
+            document.getElementById("SKMISPopupContent_txtDcAmount").value = s_convertMoney(DcAmount);
+        }
+
+
+        //Caculate Dc Amount & Rate Calculate
+        function e_onkeypress() {
+            var DCRate;
+            var GTotal;
+            var DCAmt;
+            var CalGTotal;
+
+            if (document.ShipForm.DCRate.value == "") { document.ShipForm.DCRate.value = 0; }
+
+            DCRate = parseFloat(document.ShipForm.DCRate.value);
+            GTotal = document.ShipForm.TempTotal.value;
+            GTotal = GTotal.replace(/,/g, "");
+
+            DCAmt = s_convertMoney(parseFloat(GTotal * DCRate / 100));
+            CalGTotal = s_convertMoney(parseFloat(GTotal - (GTotal * DCRate / 100)));
+
+            //alert(GTotal);	
+
+            document.ShipForm.DCAmt.value = DCAmt;
+            document.ShipForm.Total.value = CalGTotal;
+
+        }
+
+        function s_convertMoney(v) {
+            var strMoney = eval(v);
+            var sMoney = strMoney.toString().replace(/,/g, "");
+            var tMoney = "";
+            var i;
+            var j = 0;
+            arrMoney = new Array(2);
+            arrMoney = sMoney.split(".");
+            var tLen = arrMoney[0].length;
+
+            if (arrMoney[0].length <= 3) {
+                if (arrMoney[1] != null) {
+                    return v;
+                } else {
+                    return arrMoney[0] + ".00";
+                }
+            }
+
+            for (i = 0; i < tLen; i++) {
+                if (i != 0 && (i % 3 == tLen % 3)) tMoney += ",";
+                if (i < arrMoney[0].length) tMoney += arrMoney[0].charAt(i);
+            }
+
+            if (arrMoney[1] != null) {
+                tMoney = tMoney + "." + arrMoney[1];
+                return tMoney;
+            } else {
+                return tMoney + ".00";
+            }
+
+        }
+
+
+        function ShowRptPopup() //
+        {
+
+            var obj = new Object();
+            param = "";
+            search = "";
+            cond = "dialogWidth:920px;dialogHeight:650px;scroll:auto;resizable:yes;help:0;status:no";
+            if (document.getElementById('SKMISPopupContent_hdVESSEL').value == 'SUN ARIES')
+                search = "RptName=MTK460_2.rpt";
+            else
+                search = "RptName=MTK460.rpt";
+            search += (document.getElementById('SKMISPopupContent_hdQUONO').value.length > 0) ? "&WSQL01=" + document.getElementById('SKMISPopupContent_hdQUONO').value : "&WSQL01=";
+            search += (document.getElementById('SKMISPopupContent_hdCUSTCD').value.length > 0) ? "&WSQL02=" + document.getElementById('SKMISPopupContent_hdCUSTCD').value : "&WSQL02=";
+            search += (document.getElementById('SKMISPopupContent_hdLANGCD').value.length > 0) ? "&WSQL03=" + document.getElementById('SKMISPopupContent_hdLANGCD').value : "&WSQL03=";
+            param = search;
+            //window.showModalDialog("ReportViewer.aspx?" + param, obj, cond);
+
+            fn_OpenModalDialog("MTISReportViewer.aspx?" + param, null, cond);
+        }
+
+        function PopupEmail() {
+            param = "EMPNO=" + document.getElementById("SKMISPopupContent_hdPicCd").value + "&QUONO=" + document.getElementById("SKMISPopupContent_hdQUONO").value;
+            search = "";
+            cond = "dialogWidth:725px;dialogHeight:675px;scroll:auto;resizable:no;help:0;status:no";
+            var returnValue = fn_OpenModalDialog("../Common/MTISEmail.aspx?" + param, null, cond);
+            return false;
+        }
+
+        //EDMS Area Start--------------------------------------------------------------------------------------------------
+        //File Dowload -----------------------------------------------------------------------------------------------------
+        function gvEDMSList_CellButtonClick(grid, cell) {
+            var oCell = igtbl_getCellById(cell);
+            oRow = igtbl_getRowById(cell);
+            if (oCell.Column.Key == "DownLoad") {
+                var DocID = oRow.getCellFromKey("DocID").getValue();
+                var AttachmentID = oRow.getCellFromKey("AttachmentID").getValue();
+
+                //GET FILE FORM EDMS ---------------------------------------------------------------------------------------
+                var Return = SKS.MIS.Web.SBIS.AjaxBusiness.GetFile(DocID, AttachmentID, '', '', '')
+                if (Return != '') {
+                    //if (Return.value.substring(0, 6) == 'Common') {
+                    var cond = "dialogWidth:" + 500 + "px;dialogHeight:" + 560 + "px;scroll:no;resizable:no;help:0;status:no";
+                    window.location.href(Return.value);
+                    //}
+                    //else {
+                    //    alert(Return);
+                    // }
+                }
+            }
+        }
+
+        function FileDownload(DocID, AttachmentID) {
+
+            //GET FILE FORM EDMS ---------------------------------------------------------------------------------------
+            var Return = SKS.MIS.Web.SBIS.AjaxBusiness.GetFile(DocID, AttachmentID, '', '', '')
+            if (Return != '') {
+                //if (Return.value.substring(0, 6) == 'Common') {
+                var cond = "dialogWidth:" + 500 + "px;dialogHeight:" + 560 + "px;scroll:no;resizable:no;help:0;status:no";
+                window.location.href(Return.value);
+                //}
+                //else {
+                //    alert(Return);
+                // }
+            }
+        }
+
+        function ExcelDown() {
+            var width = 10;
+            var height = 10;
+            var left = (screen.width) ? (screen.width - width) / 2 : 100;
+            var top = (screen.height) ? (screen.height - height) / 2 : 100;
+            var cond = "Width=" + width + "px,Height=" + height + "px,status=no,scrollbars=no,left=" + left + ",top=" + top;
+            var param = 'QuoNo=' + document.getElementById('SKMISPopupContent_hdQUONO').value;
+            url = fn_GetWebRoot() + "Common/ExcelDownLoad.aspx?";
+            window.open(url + param, null, cond);
+            return false;
+        }
+
+        function ExcelUpload() {
+            var width = 920;
+            var height = 600;
+            var left = (screen.width) ? (screen.width - width) / 2 : 100;
+            var top = (screen.height) ? (screen.height - height) / 2 : 100;
+            var cond = "dialogWidth:" + width + "px;dialogHeight:" + height + "px;dialogTop:" + top + ";dialogLeft:" + left + ";status:no;scroll:yes";
+            var param = 'QuoNo=' + document.getElementById('SKMISPopupContent_hdQUONO').value;
+            url = fn_GetWebRoot() + "MTIS/MTK010Q.aspx?";
+            var retVal = fn_OpenModalDialog(url + param, null, cond);
+            //return false;
+        }
+
+        function fn_ReadyCopy() {
+            //alert('fn_ReadyCopy 함수 만들어야합니다.');
+        }
+
+    </script>
+
+<link id="__layout" href="../Common/Styles/Theme/B/sk_basic.css" rel="stylesheet" type="text/css"><title>
+	MTK460E
+</title><style id="igStyles" type="text/css">.ig2d2816fe{}.ig2d2816ff{}.ig2d281700{}.igede12b8d{display:none;}.ig2d281701{}.igede12b8e{display:none;}.igede12b8f{display:none;}</style></head>
+<body onload="fn_PopupWindowOnLoad(this);">
+    
+    <div id="__BACKGROUND_ENABLE_FALSE" style="vertical-align: middle; visibility: hidden; position: absolute; z-index: 99998; opacity: 0.6; background-color: rgb(161, 178, 203); -moz-opacity: 0.6;">
+    </div>
+    <div id="__BACKGROUND_ENABLE_TABLE" style="visibility: hidden; position: absolute; z-index: 99999;">
+        <table cellspacing="2" cellpadding="2">
+            <tbody><tr>
+                <td>
+                    <img onclick="Fn_CloseLoading()" src="../Common/images/loading.gif">
+                </td>
+                <td class="sk_text_gray_12 sk_text_bold">
+                    <b>&nbsp;&nbsp;now loading, please wait.</b>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    
+    <form id="form1" onsubmit="Fn_OpenLoading();" action="./MTK460E.aspx?KIND=Store&amp;VESSEL=K.+RUBY&amp;QUONO=KRU-19-IT-019&amp;REQNO=KRUDST19008&amp;ETA=2019-04-28&amp;PORT=NANTONG+-+CHINA&amp;QUODATE=2019-04-26&amp;SEQ=0" method="post">
+<div class="aspNetHidden">
+<input name="__EVENTTARGET" id="__EVENTTARGET" type="hidden" value="">
+<input name="__EVENTARGUMENT" id="__EVENTARGUMENT" type="hidden" value="">
+<input name="__VIEWSTATE" id="__VIEWSTATE" type="hidden" value="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IOuLueyCrCDqt5zsoJXsl5AgIOuUsOudvCDsp4DrqoXqsr3sn4HsnoXssLAo7LSd7JWh7J6F7LCwLCDstZzsoIDqsIAg64KZ7LCw7KCcKeydhCDsm5DsuZnsnLzroZwg7ZWY66mwLCDrgpnssLDthrXrs7TripQg64u57IKsIA0KICAgUGFydG5lciBQb3J0YWwgU2l0ZeyXkCDsnZjtlbQgZS1tYWlsIO2GteuztOuQqeuLiOuLpA0KICAgSW4gcHJpbmNpcGxlLCBPdXIgY29tcGFueSBtYWtlIGEgc2VsZWN0aXZlIGJpZGRpbmcsIGx1bXAgc3VtIGFuZCBsb3dlc3QgYmlkZGluZy4NCiAgIFNlbGVjdGlvbiBvZiBzdWNjZXNzZnVsIHRlbmRlcmVyIGlzIHRvIGJlIG5vdGlmaWVkIGJ5IGUtbWFpbCBmcm9tIFBhcnRuZXIgUG9ydGFsIFNpdGUuDQpkZAIoDw8WCB8BBRhpbnB1dGJveCBza193MTAwcCBza19oNTAfAGUfAmgfAwICZGQCKQ8PFgIeB1Zpc2libGVoZGQCKg8PFgIfB2hkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WCwUfY3RsMDAkU0tNSVNQb3B1cENvbnRlbnQkYnRuSGVscAUoY3RsMDAkU0tNSVNQb3B1cENvbnRlbnQkYnRuRXhjZWxEb3duTG9hZAUjY3RsMDAkU0tNSVNQb3B1cENvbnRlbnQkYnRuRW1haWxUb3AFIGN0bDAwJFNLTUlTUG9wdXBDb250ZW50JGJ0blByaW50BR9jdGwwMCRTS01JU1BvcHVwQ29udGVudCRidG5TYXZlBSFjdGwwMCRTS01JU1BvcHVwQ29udGVudCRidG5zdWJtaXQFIGN0bDAwJFNLTUlTUG9wdXBDb250ZW50JGJ0bkNsb3NlBSJjdGwwMCRTS01JU1BvcHVwQ29udGVudCRndkVETVNMaXN0BR5jdGwwMCRTS01JU1BvcHVwQ29udGVudCRjaGtBbGwFJGN0bDAwJFNLTUlTUG9wdXBDb250ZW50JGNoa0NoZWNrRGF0ZQUlY3RsMDAkU0tNSVNQb3B1cENvbnRlbnQkYnRuU2VydmVyU2F2ZXKIbGbQbXgcOgr4ES29wEAQrJUq50poOrF14ooQaKIo">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=VlDTGinyQ28YgWnYC3PJ4vtCxFJs1YmxilcTXw1jQ9XMQxb9J-JaW68d1fw16OZxJw3eNLkxTCIKpKtLz0mjgqcOvSuiLcGWXBQ7tjFyqNg1&amp;t=635803002500000000" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=cMZMhvuPVEdD-QDopBJpnIGLpGjyU_t3QSyXND-WJ9mtRXZNvirSa2ISOddMIZePnBo6mLTGfvrGvItPyMGYU4RnXutfznIj0dy9_yi9ZDfsG_S-7euSd0GPjQNfkZyGyenf_9L2ikgCtNriXEmGQkfmiNFonLgNf1ppAa5HDbk1&amp;t=636821393463407425" type="text/javascript"></script><script language="javascript">var _cal_SKMISPopupContent_txtVessel = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtVessel')</script><script language="javascript">var _cal_SKMISPopupContent_txtEta = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtEta')</script><script language="javascript">var _cal_SKMISPopupContent_txtPort = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtPort')</script><script language="javascript">var _cal_SKMISPopupContent_txtQuotationNo = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtQuotationNo')</script><script language="javascript">var _cal_SKMISPopupContent_txtSupplierRefNo = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtSupplierRefNo')</script><script language="javascript">var _cal_SKMISPopupContent_txtPic = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtPic')</script><script language="javascript">var _cal_SKMISPopupContent_txtDcAmount = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtDcAmount')</script><script language="javascript">var _cal_SKMISPopupContent_txtDcPercent = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtDcPercent')</script><script language="javascript">var _cal_SKMISPopupContent_txtGrandTotal = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtGrandTotal')</script><script language="javascript">var _cal_SKMISPopupContent_txtVesselRemarkMain = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtVesselRemarkMain')</script><script language="javascript">var _cal_SKMISPopupContent_txtSiteRemarkMain = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtSiteRemarkMain')</script><script language="javascript">var _cal_SKMISPopupContent_txtQuotaionRemark = new UtilTextBox.Textbox('_cal_SKMISPopupContent_txtQuotaionRemark')</script><meta http-equiv="page-exit" content="blendtrans(duration=0.1)"><meta http-equiv="page-enter" content="blendtrans(duration=0.1)">
+<script src="/Common/js/prototype.js" type="text/javascript"></script>
+<script src="/Common/js/core.js" type="text/javascript"></script>
+<script src="/ajaxpro/converter.ashx" type="text/javascript"></script>
+<script src="/ajaxpro/SKS.MIS.Web.Base.AjaxHelper,SKS.MIS.Web.Base.ashx" type="text/javascript"></script>
+<script src="/ajaxpro/SKS.MIS.Web.SBIS.AjaxBusiness,SKS.MIS.Web.ashx" type="text/javascript"></script>
+<script language="javascript">
+function Skcc_CanSelect() { return true; }
+function Skcc_CanUpdate() { return true; }
+function Skcc_CanInsert() { return true; }
+function Skcc_CanDelete() { return true; }
+</script>
+
+<script src="/ScriptResource.axd?d=M5foCUqvN96Wb8aEAzuKhko0yegajSC0i6Z-bef7a2-pIijiZ8z6789XR8E7zNGASczPK7aUbLYt93MlCkppXRBxrsRLHTRoXYlQ-JkLNL16__eb4bIIkkMb-UueMVwE38CAxmOzmX2RBAaOy42DQwTz3osaLUYgq2pmWs6haqw1&amp;t=5f9d5645" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=hEWMn93sGKre9JaXSJ3rMImjfo9EaHQXsYEMBccUvVUN_xArE6VxpZdBaNXzZhtF_JPmWr1-K9naTvANnrqRXJ8XpGiRpeAypJPpDmuqsQGSe_JkHm3uoof4iUzJO7BadUqOr1xhboz5WTYhJ8jlt2gZelcho5p7dTDmviNfdNU6J58V39eiS6mdL-WWXX4L0&amp;t=5f9d5645" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=5DSZ862HRYb0Th14fxLxGX-RuVGA6f7DJNV1eBPTEpP2QVyVC5eiiyv_F7fXcQ6aHEgIaJNhNUSKCzUovL9l61kGNHtTaUXtokBfCzorPgOzmlI1CxbNY56Quvm5NJowRGdoKg71BE1qeBAy6WouOa92gGkTz7P-0dCbYx1xW2RjNuqC_9dszdq6gZ_HN08PVv-DW5NBT9qJw6Mh7mu_2A2&amp;t=ffffffffc4bbd7f8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1OWx-4aLQv94FqPEOxUgWly0dnUgyrZMTmy8GRf704uimiK7Ea2qXPsfNjr5GHW6M_GbTTU2-CcyuKf-Qmpy9f726cAmUzJPqdJKUvriAFYpbwMSi0OBB9DJrPUPpP4WRtqjfIbY_hY3KwEr3mNyhqdbfJI6ZIIDzn7Q0IdZP18phfrIB83KOLXqwDApD9op3iHbsT7mkN74kEvITSwpje550k5NY_Mi25-4lx0FcFLVQtRL_dEbqO5Cv4gyvR8l0&amp;t=ffffffffc4bbd7f8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Ky4NxSNVgNWqlF50fRK4sErzUFX7Zn9p8pKavxZIJdqx4S1xitJ4AC1h9tAcHDGZpS0AykXClPP9lgM-Ffif-p6Y7WdFerX3wWE-I_rNBO-BMX9V-C3uoq-Is-abrE6Ev5zeZMzjbvn8Q7CcOaxP1xeeIyuUTj5MRUsMP64Wt6pPR5AezhCYmE7RncpumcC4k7y3slS3VZoeQXKV5WL-IxqcwFXlgXNOMP4AdDgSTBcT63StI5fIQWPd63B4JroM0&amp;t=ffffffffc4bbd7f8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=S03iolEKkNhTcbJVNj6da5RtbwWH7-xXEP0R8WUsq8WR9MmxjIkgNx0idwp9vsTx6lyB7ycvPxc-Rmt5y51IE8Qn2VNfkuUvg2TKVo_6sZy66iO-hIRrSBPkecLS7NJO-jN_gaaZZ661OC9XU_aPBbJ4M3HZlJT9SpG9kKly6RhU2jRQ5JVsK8E9zgeSDbzbQKup8M5BrVqWxuf5h-NRQeYTQholjsteqUSiW4GYhDw1&amp;t=ffffffffc4bbd7f8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ABfm9IayG3zHUUIj4q-zGfngOxbwwB9aIw75xN115UQMrgHeeCvRqePMFiOlhMfkc0EV4u2D10qrsDYppaUKMORyDgRPHisSzzkFHLIx7SQuhJPx2G-Na6EWbrnyRMqoAnZAla0v_HdPllLJZ6X4XKvwlnDKaeyPZtgdzZ070eoG2nya_XFDAlH2BNObK2SmtW0wR7VVR6v5Xwxqj7bilr5qiHoRFiuhpOtAdVOStys1&amp;t=ffffffffc4bbd7f8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2Y0PMdUBZQj_JBGQ8TGxO-HztxzctBEXKSczXhqjnfI_Y_f-bDqnF-_C6umYTRcVbEMfWw4gBaXPujuoFOEhtOQ_dy0UxCcWqbrU4Rpv1De-ZmkSmoReFvJ28GyHsDueiUCuGzXgoJkcRnRb0zonS9YnJmUKHaKkwdOOBLT74qY_zCazgokg0R3wkRLdA_hc9jVZDgnUby67VevfDXOwdrOA05fHgu3OpKxaMg1dAe2Eg-h2G4uEH1Um38PD_-EveBQ9vDtXihlf4ejO6l0j5Q2&amp;t=ffffffffc4bbd7f8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=0NO0XmpLvTep0cECKMjVsBRHm1JwPSI9O_gFWKh6w2cLSnsVYHrTbHOsjRBLjCwXRi89wEbJZ3xEbfPJOohaiErqP-BiBpWOWnDGelASCbEgJmd8ih5ehGgsNbWf6DFyLrT_fOMCzZ7mV8cbMXK03TvLnzqGY1NuEXAdCTBCR13YCdAl2B3pVbIhwFd3XGj0WQ0Yx43jZuszw1QNnPmb4lTPofv3BwciUmbbH7622xo0bERpwWtrOmxwt7xPf-uU28StEE0XwYSfh2agM3cwXw2&amp;t=ffffffffc4bbd7f8" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (document.head || (document.getElementsByTagName && document.getElementsByTagName('head') && document.getElementsByTagName('head').length > 0)) { 
+var docHead = (document.head ? document.head : document.getElementsByTagName('head')[0]); 
+var style = document.createElement('style'); 
+style.id ="igStyles";
+style.type = 'text/css';
+var __ig_css = ".ig2d2816fe{}.ig2d2816ff{}.ig2d281700{}.igede12b8d{display:none;}.ig2d281701{}.igede12b8e{display:none;}.igede12b8f{display:none;}";
+if (style.styleSheet) { style.styleSheet.cssText =__ig_css;}
+else { style.appendChild(document.createTextNode(__ig_css));}
+docHead.appendChild(style);
+} 
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" type="hidden" value="4F60F678">
+	<input name="__EVENTVALIDATION" id="__EVENTVALIDATION" type="hidden" value="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">
+</div>
+    
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$SKMISPopupContent$WebScriptManager1', 'form1', ['tctl00$SKMISPopupContent$UpFileList','SKMISPopupContent_UpFileList'], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+    <div id="sk_popup" style="height: 100%;">
+        <table width="950" style="table-layout: fixed;" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+                <td class="sk_vertical_top">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td class="sk_pop_titlebgl"></td>
+                            <td class="sk_pop_titlebgc">
+                                <img align="middle" alt="icon title" src="../Common/images/sk_pop_icon_title.gif">
+                            </td>
+                            <td class="sk_pop_titlebgc sk_w5"></td>
+                            <!--팝업 WIDTH SIZE와 동일 WIDTH SIZE 줘야함-->
+                            <td width="950" class="sk_pop_titlebgc">
+                                <span class="sk_text_white_13 sk_text_bold">
+                                    STORE QUOTATION WRITE</span>
+                            </td>
+                            <td class="sk_pop_titlebgc"></td>
+                            <td class="sk_pop_titlebgr"></td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td align="right" class="sk_p5 sk_vertical_top">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody><tr>
+                            <td class="sk_align_left">
+                                <input name="ctl00$SKMISPopupContent$btnHelp" id="SKMISPopupContent_btnHelp" style="border-width: 0px; cursor: default;" onmouseover="this.src='/Common/images/button/en_c01150_main_bover.png'" onmouseout="this.src='/Common/images/button/en_c01150_main_b.png'" onclick="fn_OpenHelpMtis(); return false;" type="image" alt="Help" src="../Common/images/button/en_c01150_main_b.png">
+                            </td>
+                            <td class="sk_align_right">
+                                <input name="ctl00$SKMISPopupContent$btnExcelDownLoad" id="SKMISPopupContent_btnExcelDownLoad" style="border-width: 0px; cursor: default;" onmouseover="this.src='/Common/images/button/en_c01160_main_bover.png'" onmouseout="this.src='/Common/images/button/en_c01160_main_b.png'" onclick="return ExcelDown();" type="image" alt="Excel DownLoad" src="../Common/images/button/en_c01160_main_b.png">
+                                
+                                <input name="ctl00$SKMISPopupContent$btnEmailTop" id="SKMISPopupContent_btnEmailTop" style="border-width: 0px; cursor: default;" onmouseover="this.src='/Common/images/button/en_c00090_main_bover.png'" onmouseout="this.src='/Common/images/button/en_c00090_main_b.png'" onclick="return PopupEmail();" type="image" alt="Send E-Mail" src="../Common/images/button/en_c00090_main_b.png">
+                                <input name="ctl00$SKMISPopupContent$btnPrint" id="SKMISPopupContent_btnPrint" style="border-width: 0px; cursor: default;" onmouseover="this.src='/Common/images/button/en_c00089_main_bover.png'" onmouseout="this.src='/Common/images/button/en_c00089_main_b.png'" onclick="ShowRptPopup();" type="image" alt="Print" src="../Common/images/button/en_c00089_main_b.png">
+                                <input name="ctl00$SKMISPopupContent$btnSave" id="SKMISPopupContent_btnSave" style="border-width: 0px; cursor: default;" onmouseover="this.src='/Common/images/button/en_c00012_main_bover.png'" onmouseout="this.src='/Common/images/button/en_c00012_main_b.png'" onclick="CheckValidation('S'); return false;" type="image" alt="Save" src="../Common/images/button/en_c00012_main_b.png">
+                                <input name="ctl00$SKMISPopupContent$btnsubmit" id="SKMISPopupContent_btnsubmit" style="border-width: 0px; cursor: default;" onmouseover="this.src='/Common/images/button/en_c01132_main_bover.png'" onmouseout="this.src='/Common/images/button/en_c01132_main_b.png'" onclick="CheckValidation('M'); return false;" type="image" alt="Submit" src="../Common/images/button/en_c01132_main_b.png">
+                                <input name="ctl00$SKMISPopupContent$btnClose" id="SKMISPopupContent_btnClose" style="border-width: 0px; cursor: default;" onmouseover="this.src='/Common/images/button/en_c00054_main_bover.png'" onmouseout="this.src='/Common/images/button/en_c00054_main_b.png'" onclick="self.close();" type="image" alt="Close" src="../Common/images/button/en_c00054_main_b.png">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td class="sk_pl5">
+                    <a class="sk_icon_bg"></a><span class="sk_pl5 sk_text_bold sk_text_gray">
+                        Vessel Information</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="sk_p5">
+                    <table width="100%" class="sk_table" style="table-layout: fixed;" border="0" cellspacing="1" cellpadding="3">
+                        <colgroup>
+                            <col width="90">
+                            <col width="270">
+                            <col width="80">
+                            <col width="140">
+                            <col width="80">
+                            <col width="278">
+                            <col>
+                        </colgroup>
+                        <tbody><tr>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Vessel
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <input name="ctl00$SKMISPopupContent$txtVessel" class="inputbox_readonly sk_w100p" id="SKMISPopupContent_txtVessel" onkeydown="_cal_SKMISPopupContent_txtVessel.BasicKeyDown(this, 'TAB', 'SingleLine', '')" onfocus="_cal_SKMISPopupContent_txtVessel.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtVessel.CheckMaxLength(this, '0'); " type="text" readonly="readonly" value="K. RUBY">
+                            </td>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                ETA
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <input name="ctl00$SKMISPopupContent$txtEta" class="inputbox_readonly sk_w100p sk_align_center" id="SKMISPopupContent_txtEta" onkeydown="_cal_SKMISPopupContent_txtEta.BasicKeyDown(this, 'TAB', 'SingleLine', '')" onfocus="_cal_SKMISPopupContent_txtEta.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtEta.CheckMaxLength(this, '0'); " type="text" readonly="readonly" value="2019-04-28">
+                            </td>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Port
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <input name="ctl00$SKMISPopupContent$txtPort" class="inputbox_readonly sk_w100p" id="SKMISPopupContent_txtPort" onkeydown="_cal_SKMISPopupContent_txtPort.BasicKeyDown(this, 'TAB', 'SingleLine', '')" onfocus="_cal_SKMISPopupContent_txtPort.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtPort.CheckMaxLength(this, '0'); " type="text" readonly="readonly" value="NANTONG - CHINA">
+                            </td>
+                            <td></td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td class="sk_pt10 sk_pl5">
+                    <a class="sk_icon_bg"></a><span class="sk_pl5 sk_text_bold sk_text_gray">
+                        Quotation Information</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="sk_p5">
+                    <table width="100%" class="sk_table_gray" style="table-layout: fixed;" border="0" cellspacing="1" cellpadding="3">
+                        <colgroup>
+                            <col width="120">
+                            <col width="160">
+                            <col width="130">
+                            <col width="200">
+                            <col width="120">
+                            <col width="208">
+                            <col>
+                        </colgroup>
+                        <tbody><tr>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Qutation No.
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <input name="ctl00$SKMISPopupContent$txtQuotationNo" class="inputbox_readonly sk_w100p" id="SKMISPopupContent_txtQuotationNo" onkeydown="_cal_SKMISPopupContent_txtQuotationNo.BasicKeyDown(this, 'TAB', 'SingleLine', '')" onfocus="_cal_SKMISPopupContent_txtQuotationNo.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtQuotationNo.CheckMaxLength(this, '0'); " type="text" readonly="readonly" value="KRU-19-IT-019">
+                            </td>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Supplier Ref No
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <input name="ctl00$SKMISPopupContent$txtSupplierRefNo" class="inputbox sk_w100p" id="SKMISPopupContent_txtSupplierRefNo" onkeydown="_cal_SKMISPopupContent_txtSupplierRefNo.BasicKeyDown(this, 'TAB', 'SingleLine', '')" onfocus="_cal_SKMISPopupContent_txtSupplierRefNo.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtSupplierRefNo.CheckMaxLength(this, '0'); " type="text">
+                            </td>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                SK Shipping PIC
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <input name="ctl00$SKMISPopupContent$txtPic" class="inputbox_readonly sk_w100p" id="SKMISPopupContent_txtPic" onkeydown="_cal_SKMISPopupContent_txtPic.BasicKeyDown(this, 'TAB', 'SingleLine', '')" onfocus="_cal_SKMISPopupContent_txtPic.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtPic.CheckMaxLength(this, '0'); " type="text" readonly="readonly" value="Lee Bo-Young">
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Currency
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <select name="ctl00$SKMISPopupContent$ddlCurrency" class="inputbox" id="SKMISPopupContent_ddlCurrency" style="width: 100%; height: 24px; color: black; font-family: Verdana;">
+	<option value="SKS_FRAMEWORK_SELECT">=== Select ===</option>
+	<option value="AED">AED</option>
+	<option value="AUD">AUD</option>
+	<option value="BDT">BDT</option>
+	<option value="BHD">BHD</option>
+	<option value="BND">BND</option>
+	<option value="BRL">BRL</option>
+	<option value="CAD">CAD</option>
+	<option value="CHF">CHF</option>
+	<option value="CNY">CNY</option>
+	<option value="DKK">DKK</option>
+	<option value="EGP">EGP</option>
+	<option value="EUR">EUR</option>
+	<option value="GBP">GBP</option>
+	<option value="HKD">HKD</option>
+	<option value="HUF">HUF</option>
+	<option value="IDR">IDR</option>
+	<option value="ILS">ILS</option>
+	<option value="INR">INR</option>
+	<option value="JOD">JOD</option>
+	<option value="JPY">JPY</option>
+	<option value="KRW">KRW</option>
+	<option value="MXN">MXN</option>
+	<option value="MYR">MYR</option>
+	<option value="NOK">NOK</option>
+	<option value="NZD">NZD</option>
+	<option value="PHP">PHP</option>
+	<option value="PKR">PKR</option>
+	<option value="PLN">PLN</option>
+	<option value="QAR">QAR</option>
+	<option value="RUB">RUB</option>
+	<option value="SAR">SAR</option>
+	<option value="SEK">SEK</option>
+	<option value="SGD">SGD</option>
+	<option value="THB">THB</option>
+	<option value="TWD">TWD</option>
+	<option selected="selected" value="USD">USD</option>
+	<option value="VND">VND</option>
+	<option value="ZAR">ZAR</option>
+
+</select>
+                            </td>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                D/C Amount
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <input name="ctl00$SKMISPopupContent$txtDcAmount" class="inputbox sk_w100p sk_align_right" id="SKMISPopupContent_txtDcAmount" onkeydown="_cal_SKMISPopupContent_txtDcAmount.BasicKeyDown(this, 'TAB', 'SingleLine', '')" onkeypress="fn_CheckDouble();" onfocus="_cal_SKMISPopupContent_txtDcAmount.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtDcAmount.CheckMaxLength(this, '0'); " onchange="CalculateGrandTotal2();" type="text" value="0.00">
+                            </td>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                D/C Percent
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <table width="100%" cellspacing="0" cellpadding="0">
+                                    <colgroup>
+                                        <col width="90%">
+                                        <col>
+                                    </colgroup>
+                                    <tbody><tr>
+                                        <td>
+                                            <input name="ctl00$SKMISPopupContent$txtDcPercent" class="inputbox sk_w100p sk_align_right" id="SKMISPopupContent_txtDcPercent" onkeydown="_cal_SKMISPopupContent_txtDcPercent.BasicKeyDown(this, 'TAB', 'SingleLine', '')" onkeypress="fn_CheckDouble();" onfocus="_cal_SKMISPopupContent_txtDcPercent.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtDcPercent.CheckMaxLength(this, '0'); " onchange="CalculateGrandTotal();" type="text" value="0">
+                                        </td>
+                                        <td>&nbsp;%
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Valid Date
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pr5 sk_pl5" colspan="3">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <colgroup>
+                                        <col width="120">
+                                        <col width="20">
+                                        <col width="120">
+                                        <col width="20">
+                                        <col width="20">
+                                        <col>
+                                    </colgroup>
+                                    <tbody><tr>
+                                        <td class="sk_bg_gray">
+                                            <input name="ctl00$SKMISPopupContent$wdcvalDateFrom" class="inputbox sk_w100 sk_align_center" id="SKMISPopupContent_wdcvalDateFrom" style="width: 95px;" type="text" readonly="false">
+
+                                            
+                                        </td>
+                                        <td class="sk_bg_gray">
+                                            <script language="javascript" type="text/javascript">
+                                                new tcal({
+                                                    'formname': '0',
+                                                    'controlname': 'SKMISPopupContent_wdcvalDateFrom'
+                                                });
+                                            </script><img class="tcalIcon" id="tcalico_0" onclick="A_TCALS['0'].f_toggle()" alt="Open Calendar" src="../Common/images/cal.gif">
+                                        </td>
+                                        <td class="sk_bg_gray">~
+                                        </td>
+                                        <td class="sk_bg_gray">
+                                            <input name="ctl00$SKMISPopupContent$wdcvalDateTo" class="inputbox sk_w100 sk_align_center" id="SKMISPopupContent_wdcvalDateTo" style="width: 95px;" type="text" readonly="false">
+
+                                            
+                                        </td>
+                                        <td class="sk_bg_gray">
+                                            <script language="javascript" type="text/javascript">
+                                                new tcal({
+                                                    'formname': '0',
+                                                    'controlname': 'SKMISPopupContent_wdcvalDateTo'
+                                                });
+                                            </script><img class="tcalIcon" id="tcalico_1" onclick="A_TCALS['1'].f_toggle()" alt="Open Calendar" src="../Common/images/cal.gif">
+                                        </td>
+                                        <td class="sk_bg_gray">&nbsp;
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Grand Total
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5">
+                                <input name="ctl00$SKMISPopupContent$txtGrandTotal" class="inputbox_readonly sk_w100p sk_align_right" id="SKMISPopupContent_txtGrandTotal" onkeydown="_cal_SKMISPopupContent_txtGrandTotal.BasicKeyDown(this, 'TAB', 'SingleLine', '')" onfocus="_cal_SKMISPopupContent_txtGrandTotal.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtGrandTotal.CheckMaxLength(this, '0'); " type="text" value="0.00">
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Vessel Remark
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5 sk_h60" colspan="5">
+                                <textarea name="ctl00$SKMISPopupContent$txtVesselRemarkMain" class="inputbox_readonly sk_w100p sk_h50" id="SKMISPopupContent_txtVesselRemarkMain" onkeydown="_cal_SKMISPopupContent_txtVesselRemarkMain.BasicKeyDown(this, 'TAB', 'MultiLine', '')" onfocus="_cal_SKMISPopupContent_txtVesselRemarkMain.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtVesselRemarkMain.CheckMaxLength(this, '0'); " rows="2" cols="20">[KRUDST19008]FIRE PLAN IMO SYMBOL. PLEASE SEE PHOTO ATTACHED.
+</textarea>
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Site Remark
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5 sk_h60" colspan="5">
+                                <textarea name="ctl00$SKMISPopupContent$txtSiteRemarkMain" class="inputbox_readonly sk_w100p sk_h50" id="SKMISPopupContent_txtSiteRemarkMain" onkeydown="_cal_SKMISPopupContent_txtSiteRemarkMain.BasicKeyDown(this, 'TAB', 'MultiLine', '')" onfocus="_cal_SKMISPopupContent_txtSiteRemarkMain.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtSiteRemarkMain.CheckMaxLength(this, '0'); " rows="2" cols="20">1. 모든 공급자는 SK해운의 HSEQ 목표인 무사고 안전운항, 해양환경보호, 품질보증 확보를
+   위한 관련 국내외 법규 및 ISM/ISO/OHSAS 기준을 만족하는 물품을 공급하여야 한다.
+   SK shipping's HSEQ objectives are to ensure safe operation with zero-accident, protection
+   of marine environment and quality assurance.
+   In order to comply with company policy, all providers must supply goods to meet relevant 
+   local &amp; international laws and ISM/ISO/OHSAS regulations.
+2. 당사 규정 미준수로 발생하는 모든 손실 및 불이익에 대해서는 공급자에게 책임이
+   있음을 유념하시기 바랍니다.
+   Please keep in mind that all providers are responsible for all the disadvantages caused
+   by non-compliance.
+3. 당사 규정에  따라 지명경쟁입찰(총액입찰, 최저가 낙찰제)을 원칙으로 하며, 낙찰통보는 당사 
+   Partner Portal Site에 의해 e-mail 통보됩니다
+   In principle, Our company make a selective bidding, lump sum and lowest bidding.
+   Selection of successful tenderer is to be notified by e-mail from Partner Portal Site.
+</textarea>
+                            </td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td class="sk_bg_gray sk_text_gray2_12 sk_align_right sk_pr5 sk_w100p sk_h25">
+                                Quotation Remark
+                            </td>
+                            <td class="sk_bg_white sk_text_gray2_12 sk_pl5 sk_pr5 sk_h60" colspan="5">
+                                <textarea name="ctl00$SKMISPopupContent$txtQuotaionRemark" class="inputbox sk_w100p sk_h50" id="SKMISPopupContent_txtQuotaionRemark" style="width: 100%; height: 50px;" onkeydown="_cal_SKMISPopupContent_txtQuotaionRemark.BasicKeyDown(this, 'TAB', 'MultiLine', '')" onfocus="_cal_SKMISPopupContent_txtQuotaionRemark.TxtSelect(this); " onblur="_cal_SKMISPopupContent_txtQuotaionRemark.CheckMaxLength(this, '0'); " rows="2" cols="20"></textarea>
+                            </td>
+                            <td></td>
+                        </tr>
+                        
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td class="sk_p5 sk_bg_white">
+                    <br>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td class="sk_p5">
+                    <!-- EDMS 정보 시작-->
+                    <div id="SKMISPopupContent_pnAttachFile">
+	
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td class="sk_pt10 sk_pl5">
+                                    <a class="sk_icon_bg"></a><span class="sk_pl5 sk_text_bold sk_text_gray">
+                                        Attachment File List</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="sk_pt10 sk_pl5">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                        
+                                        <tbody><tr>
+                                            <td>
+                                                <!--표 시작-->
+                                                <div id="SKMISPopupContent_UpFileList">
+		
+                                                        <input name="SKMISPopupContent_gvEDMSList_clientState" id="SKMISPopupContent_gvEDMSList_clientState" type="hidden"><div tabindex="0" class="ig_Control igg_Control" id="SKMISPopupContent_gvEDMSList" style="width: 100%; height: 60px; overflow: hidden; visibility: inherit;"><table style="width: 100%; visibility: inherit; table-layout: fixed;" border="0" cellspacing="0" cellpadding="0" mkr="outerTbl.hdn" data-ig="x:2118315946.0:mkr:outerTbl.hdn"><colgroup><col style="width: 100%;"><col style="width: 18px; display: none;" mkr="vsb" data-ig="x:2118315946.1:mkr:vsb:sub:vScrWidth" sub="vScrWidth"></colgroup><tbody><tr><td><table style="width: 100%; table-layout: fixed;" border="0" cellspacing="0" cellpadding="0" mkr="contentTbl" data-ig="x:2118315946.2:mkr:contentTbl"><tbody mkr="headingArea" data-ig="x:2118315946.3:mkr:headingArea"><tr class="ig_Header igg_Header" mkr="header" data-ig="x:2118315946.12:mkr:header" _ehh_id_mousemove="_ehh_id_5"><td><div style="overflow: hidden;"><table style="width: 930px; margin-left: 0px; visibility: inherit; table-layout: fixed;" border="0" cellspacing="0" cellpadding="0" mkr="headerContent.hdn" data-ig="x:2118315946.13:mkr:headerContent.hdn"><tbody><tr style="-ms-touch-action: none;" mkr="columnHeaderRow" data-ig="x:2118315946.14:mkr:columnHeaderRow" _ehh_id_mousedown="_ehh_id_3"><th title="" class="igg_HeaderCaption td-center ig2d2816fe" id="gvEDMSList_columnheader_0" style="width: 70px;" data-ig="x:2118315946.15:adr:0:idx:0:key:DownLoad:hdr:1:skp:" skp="" hdr="1" key="DownLoad" idx="0" adr="0">DownLoad</th><th title="" class="igg_HeaderCaption td-center ig2d2816ff" id="gvEDMSList_columnheader_1" style="width: 120px;" data-ig="x:2118315946.15:adr:1:idx:1:key:ReqNo:hdr:1:skp:" skp="" hdr="1" key="ReqNo" idx="1" adr="1">Req No</th><th title="" class="igg_HeaderCaption td-center ig2d281700" id="gvEDMSList_columnheader_2" style="width: 516px;" data-ig="x:2118315946.15:adr:2:idx:2:key:FileNM:hdr:1:skp:" skp="" hdr="1" key="FileNM" idx="2" adr="2">File Name</th><th title="" class="igg_HeaderCaption td-center igede12b8d" id="gvEDMSList_columnheader_3" style="width: 0px;" data-ig="x:2118315946.15:adr:3:idx:3:key:FileLength:hdr:1:skp:" skp="" hdr="1" key="FileLength" idx="3" adr="3">&nbsp;</th><th title="" class="igg_HeaderCaption td-center ig2d281701" id="gvEDMSList_columnheader_4" style="width: 140px;" data-ig="x:2118315946.15:adr:4:idx:4:key:FileSize:hdr:1:skp:" skp="" hdr="1" key="FileSize" idx="4" adr="4">File Size</th><th title="" class="igg_HeaderCaption td-center igede12b8e" id="gvEDMSList_columnheader_5" style="width: 0px;" data-ig="x:2118315946.15:adr:5:idx:5:key:DocID:hdr:1:skp:" skp="" hdr="1" key="DocID" idx="5" adr="5">&nbsp;</th><th title="" class="igg_HeaderCaption td-center igede12b8f" id="gvEDMSList_columnheader_6" style="width: 0px;" data-ig="x:2118315946.15:adr:6:idx:6:key:AttachmentID:hdr:1:skp:" skp="" hdr="1" key="AttachmentID" idx="6" adr="6">&nbsp;</th></tr></tbody></table></div></td></tr></tbody><tbody><tr><td style="vertical-align: top;"><div style="margin-left: 0px; position: absolute;"><div id="SKMISPopupContent_gvEDMSList_eppool" style="width: 1px; position: absolute; z-index: 1;">	<input type="hidden"></div></div><div style="height: 33px; overflow: hidden;" mkr="container" data-ig="x:2118315946.4:mkr:container" _ehh_id_keydown="_ehh_id_0" _ehh_id_mousemove="_ehh_id_1" _ehh_id_mousedown="_ehh_id_2"><table role="grid" style="width: 846px; visibility: inherit; table-layout: fixed;" border="0" cellspacing="0" cellpadding="0" mkr="dataTbl.hdn" data-ig="x:2118315946.5:mkr:dataTbl.hdn"><tbody class="ig_Item igg_Item" mkr="rows" data-ig="x:2118315946.16:mkr:rows:nw:1" nw="1"><tr role="row" data-ig="x:2118315946.17:adr:0:tag:" adr="0" tag="" type="row"><td tabindex="-1" title="DownLoad" class="td-center ig2d2816fe" role="gridcell" aria-selected="false" aria-describedby="gvEDMSList_columnheader_0" style="width: 70px;" data-ig='x:2118315946.18:val:"DownLoad"'><span class="sk_btntext_gray4"><a onclick="javascript:FileDownload('0900138a806e8e50','0900138a806e8e51');" href="#">DownLoad</a></span></td><td tabindex="-1" title="KRUDST19008" class="td-center ig2d2816ff" role="gridcell" aria-selected="false" aria-describedby="gvEDMSList_columnheader_1" style="width: 120px;" data-ig='x:2118315946.19:val:"KRUDST19008"'>KRUDST19008</td><td tabindex="-1" title="KRU (053) FIRE PLAN SYMBOL.DOCX" class="td-left ig2d281700" role="gridcell" aria-selected="false" aria-describedby="gvEDMSList_columnheader_2" style="width: 516px;" data-ig='x:2118315946.20:val:"KRU (053) FIRE PLAN SYMBOL.DOCX"' idx="2" adr="2" type="cell">KRU (053) FIRE PLAN SYMBOL.DOCX</td><td tabindex="-1" title="104840" class="td-left igede12b8d" role="gridcell" aria-selected="false" aria-describedby="gvEDMSList_columnheader_3" style="width: 0px;" data-ig='x:2118315946.21:val:"104840"'>104840</td><td tabindex="-1" title="102 KByte" class="td-right ig2d281701" role="gridcell" aria-selected="false" aria-describedby="gvEDMSList_columnheader_4" style="width: 140px;" data-ig='x:2118315946.22:val:"102 KByte"' idx="4" adr="4" type="cell">102 KByte</td><td tabindex="-1" title="0900138a806e8e50" class="td-left igede12b8e" role="gridcell" aria-selected="false" aria-describedby="gvEDMSList_columnheader_5" style="width: 0px;" data-ig='x:2118315946.23:val:"0900138a806e8e50"'>0900138a806e8e50</td><td tabindex="-1" title="0900138a806e8e51" class="td-left igede12b8f" role="gridcell" aria-selected="false" aria-describedby="gvEDMSList_columnheader_6" style="width: 0px;" data-ig='x:2118315946.24:val:"0900138a806e8e51"'>0900138a806e8e51</td></tr><!--[0]--></tbody></table></div></td></tr></tbody><tbody mkr="footingArea" data-ig="x:2118315946.6:mkr:footingArea"></tbody></table></td><td style="vertical-align: top; display: none;" mkr="vsb" data-ig="x:2118315946.7:mkr:vsb"><div style="width: 18px; height: 60px; -ms-overflow-x: hidden; -ms-overflow-y: scroll;" mkr="vScrBar" data-ig="x:2118315946.8:mkr:vScrBar"><div style="width: 1px;"></div></div></td></tr><tr style="height: 18px; display: none;" mkr="hScrHeight" data-ig="x:2118315946.9:mkr:hScrHeight"><td><div style="width: 100%; height: 18px; -ms-overflow-x: scroll; -ms-overflow-y: hidden;" mkr="hScrBar" data-ig="x:2118315946.10:mkr:hScrBar"><div style="width: 935px; height: 1px;"></div></div></td><td class="igg_ScrollbarIntersection" style="margin: 0px; padding: 0px; display: none;" mkr="vsb" data-ig="x:2118315946.11:mkr:vsb"></tr></tbody></table></div>
+                                                        
+                                                    
+	</div>
+                                                <!--표 끝-->
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    
+</div>
+                    <!-- EDMS 정보 끝-->
+                </td>
+            </tr>
+            <tr>
+                <td class="sk_pt10 sk_pl5">
+                    <a class="sk_icon_bg"></a><span class="sk_pl5 sk_text_bold sk_text_gray">
+                        IMPA Information</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="sk_pt10 sk_pl5" id="addtr"><a class="sk_icon_bg"></a><span class="sk_pl5 sk_text_bold sk_text_gray">If there is any difference between Description &amp; Spec and Vessel Remark, Vessel Remark has priority over Description &amp; Spec.</span><span class="sk_bg_gray sk_text_gray2_12  sk_w100p ">DM(Contract Price)</span></td>
+            </tr>
+            <tr>
+                <td class="sk_p5">
+                    <div id="SKMISPopupContent_dvBindArea"><div style="display: none;"><input id="txtReqSeq0" type="text" readonly="readonly" value="1" runat="server"><input id="txtReqNo0" type="text" readonly="readonly" value="KRUDST19008" runat="server"></div><table width="100%" class="sk_table_gray" style="table-layout: fixed;" border="0" cellspacing="1" cellpadding="3"><colgroup><col width="30"><col width="30"><col width="30"><col width="60"><col width="210"><col width="123"><col width="60"><col width="50"><col width="80"><col width="100"><col width="60"><col width="100"><col></colgroup><tbody><tr><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">NO</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Cfm</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">DM</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">IMPA</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">Description &amp; SPEC</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">Maker</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">Unit</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">QTY</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">Price</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">Amount</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" rowspan="2">D-Term(Day)</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Quo. See Date</td><td></td></tr><tr><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25"><input id="chkAll" onclick="fn_checkAll();" type="checkbox" runat="server"></td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25">Confirm Date</td><td></td></tr><tr><td class="sk_bg_white sk_text_gray2_12 sk_align_center sk_h25 sk_pl5 sk_pr5" rowspan="4"><input class="inputbox sk_w100p sk_align_center" id="txtNo0" style="border: 0px currentColor; border-image: none;" type="text" readonly="readonly" value="1" runat="server"></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5" rowspan="4"><input id="chkCheckDate0" onclick="GetDate(0);" type="checkbox" runat="server"></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5" rowspan="4"><input disabled="true" id="chkcons0" type="checkbox" runat="server"></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5" rowspan="2"><input class="inputbox_readonly sk_w100p sk_align_center sk_h40" id="txtImpa0" type="text" readonly="readonly" value="331557" runat="server"></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5" rowspan="2"><textarea class="inputbox_readonly sk_w100p sk_align_left sk_h40" id="txtDescription0" style="text-decoration: underline; cursor: pointer;" onclick="fn_PopUpPrice('331557');" rows="2" readonly="readonly" runat="server">POSTER IMO FIRE CONTROL , SYMBOLS #1057X 420X297MM</textarea></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5" rowspan="2"><textarea class="inputbox_readonly sk_w100p sk_align_left sk_h40" id="txtMakerNM0" style="text-decoration: underline; cursor: pointer;" rows="2" readonly="readonly" runat="server"></textarea></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5" rowspan="2"><input class="inputbox_readonly sk_w100p sk_align_center sk_h40" id="txtUnit0" type="text" readonly="readonly" value="PCS" runat="server"></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5" rowspan="2"><input class="inputbox_readonly sk_w100p sk_align_right sk_h40" id="txtQty0" type="text" readonly="readonly" value="4" runat="server"></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5" rowspan="2"><input tabindex="1" class="inputbox sk_w100p sk_align_right sk_h40" id="txtPrice0" onkeypress="fn_CheckDouble();" onchange="fn_CalGradTotal(0)" type="text" value="0.00" runat="server"><input id="hdSemiTotal" type="hidden" runat="server"></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h50 sk_pl5 sk_pr5" rowspan="2"><input class="inputbox_readonly sk_w100p sk_align_right sk_h40" id="txtAmount0" type="text" readonly="readonly" value="0.00" runat="server"></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center sk_pl5 sk_pr5 sk_h50" rowspan="2"><input tabindex="2" class="inputbox sk_w100p sk_align_right sk_h40" id="txtDeliveryTerm0" onkeypress="fn_CheckNumber();" type="text" value="0" runat="server"></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5"><input class="inputbox_readonly sk_w100p sk_align_center" id="txtQuotionSeeDate0" type="text" readonly="readonly" value="2019-04-26" runat="server"></td><td></td></tr><tr><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h25 sk_pl5 sk_pr5"><input class="inputbox_readonly sk_w100p sk_align_center" id="txtCfmDate0" type="text" readonly="readonly" value="" runat="server"></td><td></td></tr><tr><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" colspan="2">Specification Remark</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" colspan="4">Used For Remark</td><td class="sk_bg_gray sk_text_gray2_12 sk_align_center  sk_h25" colspan="6">Supplier Remark</td><td></td></tr><tr><td class="sk_bg_white sk_text_gray2_12 sk_align_center sk_h60 sk_pr5 sk_pl5" colspan="2"><textarea class="inputbox_readonly sk_w100p sk_h50" id="txtRemark_Spec0" rows="3" readonly="readonly" runat="server">FIRE PLAN IMO SYMBOL IMPA CODE 336105</textarea></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center sk_h60 sk_pr5 sk_pl5" colspan="4"><textarea class="inputbox_readonly sk_w100p sk_h50" id="txtRemark_Used0" rows="3" readonly="readonly" runat="server">PLEASE SEE PHOTO ATTACHED</textarea></td><td class="sk_bg_white sk_text_gray2_12 sk_align_center  sk_h60 sk_pr5 sk_pl5" colspan="6"><textarea tabindex="3" class="inputbox sk_w100p sk_h50" id="txtSupplierRemark0" rows="3" runat="server"></textarea></td><td></td></tr></tbody></table></div>
+                </td>
+            </tr>
+        </tbody></table>
+        <input name="ctl00$SKMISPopupContent$hdKIND" id="SKMISPopupContent_hdKIND" type="hidden" value="Store">
+        <input name="ctl00$SKMISPopupContent$hdVESSEL" id="SKMISPopupContent_hdVESSEL" type="hidden" value="K. RUBY">
+        <input name="ctl00$SKMISPopupContent$hdQUONO" id="SKMISPopupContent_hdQUONO" type="hidden" value="KRU-19-IT-019">
+        <input name="ctl00$SKMISPopupContent$hdREQNO" id="SKMISPopupContent_hdREQNO" type="hidden" value="KRUDST19008">
+        <input name="ctl00$SKMISPopupContent$hdETA" id="SKMISPopupContent_hdETA" type="hidden" value="2019-04-28">
+        <input name="ctl00$SKMISPopupContent$hdPORT" id="SKMISPopupContent_hdPORT" type="hidden" value="NANTONG - CHINA">
+        <input name="ctl00$SKMISPopupContent$hdVOY" id="SKMISPopupContent_hdVOY" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdQUODATE" id="SKMISPopupContent_hdQUODATE" type="hidden" value="2019-04-26">
+        <input name="ctl00$SKMISPopupContent$hdTOTALCNT" id="SKMISPopupContent_hdTOTALCNT" type="hidden" value="1">
+        <input name="ctl00$SKMISPopupContent$hddataSupplierRemark" id="SKMISPopupContent_hddataSupplierRemark" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hddataCfmDate" id="SKMISPopupContent_hddataCfmDate" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hddataDeliveryTerm" id="SKMISPopupContent_hddataDeliveryTerm" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hddataPrice" id="SKMISPopupContent_hddataPrice" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hddataReqSeq" id="SKMISPopupContent_hddataReqSeq" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hddataReqNo" id="SKMISPopupContent_hddataReqNo" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdCurrency" id="SKMISPopupContent_hdCurrency" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdDcAmount" id="SKMISPopupContent_hdDcAmount" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdDcPercent" id="SKMISPopupContent_hdDcPercent" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdDateFrom" id="SKMISPopupContent_hdDateFrom" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdDateTo" id="SKMISPopupContent_hdDateTo" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdGrandTotal" id="SKMISPopupContent_hdGrandTotal" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdRemark" id="SKMISPopupContent_hdRemark" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdCUSTCD" id="SKMISPopupContent_hdCUSTCD" type="hidden" value="1060842">
+        <input name="ctl00$SKMISPopupContent$hdLANGCD" id="SKMISPopupContent_hdLANGCD" type="hidden" value="ENG">
+        <input name="ctl00$SKMISPopupContent$hdPicCd" id="SKMISPopupContent_hdPicCd" type="hidden" value="00327">
+        <input name="ctl00$SKMISPopupContent$hdSubmit" id="SKMISPopupContent_hdSubmit" type="hidden">
+        <input name="ctl00$SKMISPopupContent$hdHelpID" id="SKMISPopupContent_hdHelpID" type="hidden" value="MTK460E.pdf▦STORE QUOTATION WRITE">
+        <div style="display: none;">
+            <input name="ctl00$SKMISPopupContent$btnServerSave" id="SKMISPopupContent_btnServerSave" style="border-width: 0px; cursor: default;" type="image" alt="Save" src="../Common/images/button/en_c00012_main_b.png">
+            <div style="display: none;">
+                <input name="ctl00$SKMISPopupContent$txtReqSeq" id="SKMISPopupContent_txtReqSeq" type="text" readonly="readonly">
+                <input name="ctl00$SKMISPopupContent$txtReqNo" id="SKMISPopupContent_txtReqNo" type="text" readonly="readonly">
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        GeneraterHtml();
+    </script>
+
+    <input name="ctl00$_IG_CSS_LINKS_" id="_IG_CSS_LINKS_" type="hidden" value="../Common/Styles/Theme/B/sk_basic.css|../ig_res/Default/ig_dataGrid.css|../ig_res/Default/ig_shared.css">
+<script language="Javascript">
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Infragistics.Web.UI.WebDataGrid, {"id":"SKMISPopupContent_gvEDMSList","name":"gvEDMSList","props":[[[,1,,],{"c":{"hdlay":false,"dcwidth":"","rac":"ig_Alt igg_Alt","ea":"true","_pi":"[\"../ig_res/Default/images/ig_ajaxIndicator.gif\",,,\"ig_AjaxIndicator\",,1,,,,\"ig_AjaxIndicatorBlock\",,3,,3,\"Async post\"]","ecr":false,"uid":"ctl00$SKMISPopupContent$gvEDMSList","shH":true,"en":"true","hmcf":false,"incolcnt":"0","ocs":1,"we":"false","cbdci":0,"vse":0,"sv":"1","ti":0,"cbc":0,"pi":"[]"}}],[[[[0]],,],[[[2]],,],[[["ColumnResizing",,],{"c":{"ric":"igg_ResizeIndicator","apcr":false}}],,[{}],[]],[[["Selection",1,,1,,,,],{"c":{"sc":"ig_Selected igg_SelectedCell","sr":"igg_SelectedRowSelector","si":"igg_SelectedRowSelectorImage","ehs":false,"sh":"igg_SelectedHeader"}}],,,[]]],[{'0':[[2,"ig2d2816fe",0,,,"70px"],{"c":{"css":"td-center","headTxt":"DownLoad","fcs":1,"type2":0,"htmlEnc":false,"vIndex":0,"footTxt":"","type":"string","key":"DownLoad","dfn":"DownLoad","cf":"{0}","nullable":true}}],'1':[[2,"ig2d2816ff",0,,,"120px"],{"c":{"css":"td-center","headTxt":"Req No","fcs":1,"type2":0,"htmlEnc":true,"vIndex":1,"footTxt":"","type":"string","key":"ReqNo","dfn":"ReqNo","cf":"","nullable":true}}],'2':[[2,"ig2d281700",0,,,"516px"],{"c":{"css":"td-left","headTxt":"File Name","fcs":1,"type2":0,"htmlEnc":true,"vIndex":2,"footTxt":"","type":"string","key":"FileNM","dfn":"FileNM","cf":"","nullable":true}}],'3':[[1,"igede12b8d",0,,,"0px"],{"c":{"css":"td-left","headTxt":"","fcs":1,"type2":0,"htmlEnc":true,"vIndex":3,"footTxt":"","type":"string","key":"FileLength","dfn":"FileLength","cf":"","nullable":true}}],'4':[[2,"ig2d281701",0,,,"140px"],{"c":{"css":"td-right","headTxt":"File Size","fcs":1,"type2":0,"htmlEnc":true,"vIndex":4,"footTxt":"","type":"string","key":"FileSize","dfn":"FileSize","cf":"","nullable":true}}],'5':[[1,"igede12b8e",0,,,"0px"],{"c":{"css":"td-left","headTxt":"","fcs":1,"type2":0,"htmlEnc":true,"vIndex":5,"footTxt":"","type":"string","key":"DocID","dfn":"DocID","cf":"","nullable":true}}],'6':[[1,"igede12b8f",0,,,"0px"],{"c":{"css":"td-left","headTxt":"","fcs":1,"type2":0,"htmlEnc":true,"vIndex":6,"footTxt":"","type":"string","key":"AttachmentID","dfn":"AttachmentID","cf":"","nullable":true}}]},{}],[],]}, null, null, $get("SKMISPopupContent_gvEDMSList"));
+});
+//]]>
+</script>
+</form>
+
+
+</body></html>

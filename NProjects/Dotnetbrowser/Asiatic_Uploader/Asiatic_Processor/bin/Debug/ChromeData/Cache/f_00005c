@@ -1,0 +1,787 @@
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = function (d, b) {
+        extendStatics = Object.setPrototypeOf ||
+            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+            function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+        return extendStatics(d, b);
+    };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+var __read = (this && this.__read) || function (o, n) {
+    var m = typeof Symbol === "function" && o[Symbol.iterator];
+    if (!m) return o;
+    var i = m.call(o), r, ar = [], e;
+    try {
+        while ((n === void 0 || n-- > 0) && !(r = i.next()).done) ar.push(r.value);
+    }
+    catch (error) { e = { error: error }; }
+    finally {
+        try {
+            if (r && !r.done && (m = i["return"])) m.call(i);
+        }
+        finally { if (e) throw e.error; }
+    }
+    return ar;
+};
+var __spread = (this && this.__spread) || function () {
+    for (var ar = [], i = 0; i < arguments.length; i++) ar = ar.concat(__read(arguments[i]));
+    return ar;
+};
+define(["require", "exports", "knockout.amd.templates", "knockout.errorHandling", "jqueryAjaxExtensions", "core/packages/router", "fastclick", "core/components/utilities/aside", "core/packages/flyouts", "core/packages/toasts", "core/packages/modals", "core/packages/busy", "core/packages/session", "core/packages/media", "core/packages/events", "core/essentials/notificationHandler", "core/packages/desktopNotifications", "core/packages/localStorage", "core/packages/sessionStorage", "core/packages/accessControl", "core/components/layerAware", "core/packages/logger", "api/AppSettings.g", "api/WhatsNew.g", "core/packages/browser"], function (require, exports, koAmdTemplates, koErrorHandling, ajaxExtensions, router, fc, aside, flyouts, toasts, modals, busy, session, media, events, notificationHandler, desktopNotifications, lsc, ssc, acl, layerAware, Logger, settingsApi, WhatsNewApi, browser) {
+    koAmdTemplates;
+    koErrorHandling;
+    ajaxExtensions;
+    window["router"] = router;
+    var logger = new Logger(this);
+    router.init();
+    busy.init();
+    var sidebar = (function () {
+        function sidebar() {
+            this.isOpen = ko.observable(false);
+            this.isDocked = ko.observable(false);
+        }
+        Object.defineProperty(sidebar.prototype, "css", {
+            get: function () {
+                return {
+                    "is-open": this.isOpen,
+                    "is-docked": this.isDocked
+                };
+            },
+            enumerable: true,
+            configurable: true
+        });
+        return sidebar;
+    }());
+    var utilities = (function (_super) {
+        __extends(utilities, _super);
+        function utilities() {
+            return _super !== null && _super.apply(this, arguments) || this;
+        }
+        return utilities;
+    }(sidebar));
+    var appCascade = (function () {
+        function appCascade(core, key, title) {
+            this._title = ko.observable("");
+            this._key = null;
+            this._isBusy = ko.observable(false);
+            this._backHash = ko.observable(null);
+            this._title(title || "");
+            this._key = key;
+            this._core = core;
+        }
+        Object.defineProperty(appCascade.prototype, "title", {
+            get: function () { return this._title; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(appCascade.prototype, "key", {
+            get: function () { return this._key; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(appCascade.prototype, "isBusy", {
+            get: function () { return this._isBusy; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(appCascade.prototype, "backHash", {
+            get: function () { return this._backHash; },
+            enumerable: true,
+            configurable: true
+        });
+        appCascade.prototype.dispose = function () {
+            logger.log("Dispose called.", this);
+            if (this._core && this._core.cascade() == this) {
+                this._core.cascade(null);
+            }
+            this._core = null;
+        };
+        appCascade.prototype.open = function () {
+            if (this._core) {
+                this._core.cascade(this);
+            }
+            return this;
+        };
+        appCascade.prototype.close = function () {
+            logger.log("Close called.", this);
+            if (this._core && this._core.cascade() == this)
+                this._core.cascade(null);
+            return this;
+        };
+        appCascade.prototype.closeAndDispose = function () {
+            this.close();
+            this.dispose();
+        };
+        return appCascade;
+    }());
+    var quickUtilityBarController = (function () {
+        function quickUtilityBarController(_appInstance) {
+            var _this = this;
+            this._appInstance = _appInstance;
+            this._children = ko.observableArray();
+            this._selectedChildKey = ko.observable(null);
+            this.notificationBarVisible = ko.computed({
+                read: function () { return /notification-center/i.test(_this._selectedChildKey()); },
+                write: function (b) {
+                    var elem = _this._children().find(function (x) { return /notification-center/i.test(x.key); });
+                    elem.isSelected(b);
+                }
+            });
+            var utilities;
+            if ((utilities = _appInstance.settings.quickUtilities) !== undefined) {
+                this.add(utilities);
+            }
+            this._selectedChildKey.subscribe(function (k) {
+                $(document).off('click.quickutilities');
+                if (k) {
+                    var selected_1 = _this._children().find(function (x) { return x.key === k; });
+                    if (selected_1.outsideClickUnselectSelector) {
+                        window.setTimeout(function () {
+                            $(document).on('click.quickutilities', function (e) {
+                                if ($(e.target).parents(selected_1.outsideClickUnselectSelector).length === 0 && $(e.target).parents('.utilities').length === 0) {
+                                    selected_1.isSelected(false);
+                                }
+                                return true;
+                            });
+                        }, 500);
+                    }
+                }
+            });
+        }
+        Object.defineProperty(quickUtilityBarController.prototype, "children", {
+            get: function () {
+                return this._children;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        quickUtilityBarController.prototype.add = function (childOptions) {
+            var _this = this;
+            if ($.isArray(childOptions)) {
+                var optionArr = childOptions;
+                var children = optionArr.map(function (x) { return _this.createChildFromOptions(x); });
+                this._children.push.apply(this._children, children);
+                return children;
+            }
+            else {
+                var child = this.createChildFromOptions(childOptions);
+                this._children.push(child);
+                return child;
+            }
+        };
+        quickUtilityBarController.prototype.insert = function (childOptions, index) {
+            var child = this.createChildFromOptions(childOptions);
+            this._children().insert(child, index);
+            return child;
+        };
+        quickUtilityBarController.prototype.createChildFromOptions = function (childOptions) {
+            var o = childOptions;
+            var key = o.key.toLowerCase(), componentName = (o.componentName && o.componentName.toLowerCase()) || key;
+            var componentClass = componentName.split('/').remove(function (x) { return !!~['core', 'components', 'core', 'main'].indexOf(x); }).map('camelize').join('').dasherize(), child = {
+                key: key,
+                isHidden: o.permissions && o.permissionDomain
+                    ? acl.canNot(o.permissions, o.permissionDomain)
+                    : false,
+                name: componentName,
+                componentClass: componentClass,
+                canBeSelected: childOptions.canBeSelected || false,
+                outsideClickUnselectSelector: childOptions.outsideClickUnselectSelector || undefined,
+                isSelected: ko.computed({
+                    read: function () {
+                        return this._selectedChildKey() === key;
+                    },
+                    write: function (b) {
+                        if (b && child.canBeSelected) {
+                            this._selectedChildKey(key);
+                        }
+                        else if (child.isSelected()) {
+                            this._selectedChildKey(null);
+                        }
+                    },
+                    owner: this,
+                }),
+                params: typeof o.paramsFactoryFn === 'function'
+                    ? o.paramsFactoryFn()
+                    : o.paramsFactoryFn
+            };
+            return child;
+        };
+        return quickUtilityBarController;
+    }());
+    var topbarController = (function () {
+        function topbarController(_appInstance) {
+            this._appInstance = _appInstance;
+            this.isHidden = ko.observable(true);
+            this._quickUtilityController = null;
+            this._quickUtilityController = new quickUtilityBarController(_appInstance);
+            if (_appInstance.settings.enableNotifications) {
+                this.quickUtilities.add({
+                    key: 'notification-center/notification-quick-utility',
+                    componentName: 'core/components/notification-center/notification-quick-utility',
+                    paramsFactoryFn: function () { },
+                    outsideClickUnselectSelector: '#notification-center',
+                    canBeSelected: true,
+                });
+            }
+            if (_appInstance.settings.displayUserAvatar) {
+                this.quickUtilities.add({
+                    key: 'utilities/user-avatar',
+                    componentName: 'core/components/utilities/user-avatar',
+                    paramsFactoryFn: function () {
+                        return {
+                            userFlyoutComponentName: _appInstance.settings.userAvatarFlyoutComponentName,
+                        };
+                    },
+                    canBeSelected: true,
+                    outsideClickUnselectSelector: '.utilities-user-avatar',
+                });
+            }
+        }
+        Object.defineProperty(topbarController.prototype, "quickUtilities", {
+            get: function () {
+                return this._quickUtilityController;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(topbarController.prototype, "topbarComponent", {
+            get: function () {
+                var _this = this;
+                return {
+                    name: "core/components/layout/topbar",
+                    params: ko.pureComputed(function () {
+                        return {
+                            cascade: _this._appInstance.cascade,
+                            sidebar: _this._appInstance.sidebar,
+                            utilitybar: _this._appInstance.utilities,
+                            appSettings: _this._appInstance.settings,
+                            rootComponent: _this._appInstance.rootComponentInstance,
+                            isHidden: _this.isHidden,
+                            quickUtilities: _this.quickUtilities.children,
+                        };
+                    }),
+                };
+            },
+            enumerable: true,
+            configurable: true
+        });
+        topbarController.prototype.hide = function () {
+            this.isHidden(true);
+        };
+        topbarController.prototype.show = function () {
+            this.isHidden(false);
+        };
+        return topbarController;
+    }());
+    var messageHandler = (function () {
+        function messageHandler() {
+        }
+        messageHandler.toast = function (title, message, messageType) {
+            if (messageType === void 0) { messageType = DialogType.INFO; }
+            core.instance.toasts.createToast({
+                title: title,
+                message: message,
+            }, messageType);
+        };
+        messageHandler.dialog = function (title, message, messageType, onCloseButton) {
+            if (messageType === void 0) { messageType = DialogType.INFO; }
+            if (onCloseButton === void 0) { onCloseButton = function () { return true; }; }
+            core.instance.dialog({
+                dialogType: messageType,
+                title: title,
+                content: message,
+                onCloseButton: onCloseButton,
+            }).open();
+        };
+        messageHandler.createGenericMessage = function (title, message, messageType, isToast, onCancelButton) {
+            if (messageType === void 0) { messageType = DialogType.INFO; }
+            if (isToast === void 0) { isToast = false; }
+            if (onCancelButton === void 0) { onCancelButton = function () { return true; }; }
+            [messageHandler.dialog, messageHandler.toast][+isToast].apply(messageHandler, Array.prototype.slice.call(arguments).removeAt(3));
+        };
+        messageHandler.info = function (title, message, isToast, onCancelButton) {
+            if (isToast === void 0) { isToast = false; }
+            if (onCancelButton === void 0) { onCancelButton = function () { return undefined; }; }
+            messageHandler.createGenericMessage(title, message, DialogType.INFO, isToast);
+        };
+        messageHandler.warning = function (title, message, isToast, onCancelButton) {
+            if (isToast === void 0) { isToast = false; }
+            if (onCancelButton === void 0) { onCancelButton = function () { return undefined; }; }
+            messageHandler.createGenericMessage(title, message, DialogType.WARNING, isToast);
+        };
+        messageHandler.success = function (title, message, isToast, onCancelButton) {
+            if (isToast === void 0) { isToast = false; }
+            if (onCancelButton === void 0) { onCancelButton = function () { return undefined; }; }
+            messageHandler.createGenericMessage(title, message, DialogType.SUCCESS, isToast);
+        };
+        messageHandler.error = function (title, message, isToast, onCancelButton) {
+            if (isToast === void 0) { isToast = false; }
+            if (onCancelButton === void 0) { onCancelButton = function () { return undefined; }; }
+            messageHandler.createGenericMessage(title, message, DialogType.ERROR, isToast);
+        };
+        messageHandler.alert = function (title, message, isToast, onCancelButton) {
+            if (isToast === void 0) { isToast = false; }
+            if (onCancelButton === void 0) { onCancelButton = function () { return undefined; }; }
+            messageHandler.createGenericMessage(title, message, DialogType.ERROR, isToast);
+        };
+        return messageHandler;
+    }());
+    var core = (function (_super) {
+        __extends(core, _super);
+        function core(_initialSettings) {
+            if (_initialSettings === void 0) { _initialSettings = {}; }
+            var _this = _super.call(this) || this;
+            _this._initialSettings = _initialSettings;
+            _this._fastclick = fc;
+            _this._sidebar = new sidebar();
+            _this._aside = new aside();
+            _this._modals = new modals();
+            _this._toasts = new toasts();
+            _this.backgroundBusy = busy.createIsBusyObservable();
+            _this.backgroundTaskCount = 0;
+            _this._tagComponentMap = {};
+            _this._topbar = null;
+            _this._utilities = new utilities();
+            _this._cascadeObs = ko.observable(null);
+            _this._cascade = ko.computed({
+                read: function () { return _this._cascadeObs(); },
+                write: function (v) {
+                    if (v) {
+                        if (!_this._cascadeObs()) {
+                            _this._cascadeOriginHash(router.hash);
+                        }
+                    }
+                    _this._cascadeObs(v);
+                }
+            }).extend({
+                rateLimit: 0
+            });
+            _this._cascadeOriginHash = ko.observable(null);
+            _this._rootComponentName = ko.observable(null);
+            _this._rootComponentInstance = ko.observable(null);
+            _this._rootComponentClass = ko.pureComputed(function () {
+                var r = _this._rootComponentInstance();
+                return (r && r.class()) || "";
+            });
+            _this.preloadDone = ko.observable(false);
+            _this.APP_GLOBAL_CACHE_KEY = app.name.toUpperCase();
+            _this._sscInstance = new ssc(_this.APP_GLOBAL_CACHE_KEY, false);
+            _this._lscInstance = new lsc(_this.APP_GLOBAL_CACHE_KEY, false);
+            _this._appSettings = {};
+            _this.isDragging = ko.pureComputed({
+                read: function () {
+                    return $(_this._appSettings.bindingNodeSelector).hasClass('dragging');
+                },
+                write: function (v) {
+                    (v && $(_this._appSettings.bindingNodeSelector).addClass('dragging')) || $(_this._appSettings.bindingNodeSelector).removeClass('dragging');
+                }
+            });
+            core._instance = _this;
+            Object.defineProperty(window, app.name, {
+                value: core,
+                writable: false,
+                enumerable: false,
+                configurable: false,
+            });
+            window['app'] = $.extend(window['app'], {
+                instance: _this
+            });
+            return _this;
+        }
+        Object.defineProperty(core, "instance", {
+            get: function () { return this._instance; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "sidebar", {
+            get: function () { return this._sidebar; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "aside", {
+            get: function () { return this._aside; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "modals", {
+            get: function () { return this._modals; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "flyouts", {
+            get: function () { return flyouts.instance; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "toasts", {
+            get: function () { return this._toasts; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "user", {
+            get: function () { return session.user; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "hasLogin", {
+            get: function () { return this.user() != null; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "media", {
+            get: function () {
+                return media;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "messages", {
+            get: function () {
+                return messageHandler;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "browser", {
+            get: function () {
+                return browser;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "isStaging", {
+            get: function () {
+                return /staging(\d\d+|[3-9])\.cloudfleetmanager\.com/.test(location.host);
+            },
+            enumerable: true,
+            configurable: true
+        });
+        core.prototype.startBackgroundLoading = function () {
+            this.backgroundTaskCount++;
+            this.backgroundBusy(this.backgroundTaskCount > 0);
+        };
+        core.prototype.finishBackgroundLoading = function () {
+            this.backgroundTaskCount--;
+            this.backgroundBusy(this.backgroundTaskCount > 0);
+        };
+        Object.defineProperty(core.prototype, "permissions", {
+            get: function () {
+                return this._permissions;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "events", {
+            get: function () {
+                if (!this._events) {
+                    this._events = new events();
+                }
+                return this._events;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "tagComponentMap", {
+            get: function () { return this._tagComponentMap; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "topbar", {
+            get: function () {
+                return this._topbar;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "utilities", {
+            get: function () { return this._utilities; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "cascade", {
+            get: function () { return this._cascade; },
+            enumerable: true,
+            configurable: true
+        });
+        core.prototype.createCascade = function (key, title) {
+            return new appCascade(this, key, title);
+        };
+        Object.defineProperty(core.prototype, "rootComponentName", {
+            get: function () { return this._rootComponentName; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "rootComponentInstance", {
+            get: function () { return this._rootComponentInstance; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "rootComponent", {
+            get: function () {
+                return {
+                    name: this.rootComponentName,
+                    params: ko.pureComputed(function () {
+                        return {
+                            route: router.root
+                        };
+                    })
+                };
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "rootComponentClass", {
+            get: function () { return this._rootComponentClass; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "storage", {
+            get: function () {
+                return {
+                    local: this._lscInstance,
+                    session: this._sscInstance,
+                };
+            },
+            enumerable: true,
+            configurable: true
+        });
+        ;
+        Object.defineProperty(core, "defaultAppSettings", {
+            get: function () {
+                return {
+                    permissionDomains: [],
+                    initialComponent: "main",
+                    preloaderComponent: "core/misc/preloader",
+                    preloaderLoginOptional: false,
+                    bindingNodeSelector: "#app",
+                    displayUserAvatar: true,
+                    enableNotifications: true,
+                    hasPermissions: false,
+                };
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(core.prototype, "settings", {
+            get: function () {
+                return this._appSettings;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        core.prototype.start = function () {
+            var _this = this;
+            var beforeStart = [];
+            var afterPreload = [this._initializeTopbar];
+            beforeStart.push(this._getSettings()
+                .done(function () {
+                _this._rootComponentName(_this._appSettings.preloaderComponent || _this._appSettings.initialComponent);
+                var waitForPreloadSub = _this.preloadDone.subscribe(function () {
+                    $.when.apply($, afterPreload.map(function (x) { return x.call(_this); }))
+                        .done(function () {
+                        _this.rootComponentName(_this.settings.initialComponent);
+                    });
+                    waitForPreloadSub.dispose();
+                });
+                if (_this.settings.enableNotifications) {
+                    desktopNotifications.instance.requestPermission();
+                }
+            }));
+            beforeStart.push.apply(beforeStart, [
+                this._initializeVendors(),
+                this._initializeKnockout(),
+                this._attachAppListeners(),
+                this._startNotificationService()
+            ]);
+            return $.when.apply($, beforeStart)
+                .done(function () {
+                ko.applyBindings(_this, $(_this._appSettings.bindingNodeSelector)[0]);
+            });
+        };
+        core.prototype._getSettings = function (loadAsync) {
+            var _this = this;
+            if (loadAsync === void 0) { loadAsync = true; }
+            var optionalSettings = [];
+            for (var _i = 1; _i < arguments.length; _i++) {
+                optionalSettings[_i - 1] = arguments[_i];
+            }
+            var initialSettings = this._initialSettings, settingsServiceCallName = "GetAppSettings" + app.name.capitalize(), settingsServiceCall = settingsApi[settingsServiceCallName];
+            var settingsXHR;
+            this._appSettings = $.extend.apply($, __spread([core.defaultAppSettings, initialSettings], optionalSettings));
+            this._appSettings.preload = Array.prototype.concat.call([], core.corePreload, this._appSettings.preload);
+            if (typeof settingsServiceCall === 'function') {
+                settingsXHR = settingsServiceCall()
+                    .done(function (r) {
+                    _this._appSettings = $.extend(_this._appSettings, r);
+                });
+            }
+            return $.when(settingsXHR);
+        };
+        core.prototype._getWhatsNew = function () {
+            var _this = this;
+            var addUtility = function (data) {
+                _this._topbar.quickUtilities.insert({
+                    key: 'utilities/whats-new',
+                    componentName: 'core/components/utilities/whats-new',
+                    paramsFactoryFn: function () { return ({
+                        utilityInfo: data,
+                        appName: app.changelogName,
+                    }); },
+                    canBeSelected: true,
+                    outsideClickUnselectSelector: '.utilities-whats-new',
+                }, 0);
+            };
+            if (this.storage.local.has("WNLastChecked-" + app.name)
+                && this.storage.local.has("WNLastInfo-" + app.name)
+                && (+new Date() - this.storage.local.get("WNLastChecked-" + app.name)) < 300000) {
+                var data = this.storage.local.get("WNLastInfo-" + app.name);
+                data.Date = new Date(data.Date);
+                return addUtility(data);
+            }
+            return WhatsNewApi.GetUtilityInfoForModule(this.settings.moduleName)
+                .done(function (data) {
+                _this.storage.local.set("WNLastChecked-" + app.name, +new Date());
+                if (data == null)
+                    return;
+                _this.storage.local.set("WNLastInfo-" + app.name, data);
+                addUtility(data);
+            });
+        };
+        core.prototype._initializeTopbar = function () {
+            this._topbar = new topbarController(this);
+            if (this.hasLogin) {
+                this._getWhatsNew();
+            }
+        };
+        core.prototype._initializeVendors = function () {
+            $(function () {
+                var fastclick = fc;
+                fastclick.attach(document.body);
+            });
+        };
+        core.prototype._initializeKnockout = function () {
+            var _this = this;
+            ko.components.getComponentNameForNode = function (node) {
+                var tag = node.tagName && node.tagName.toLowerCase();
+                if (ko.components.isRegistered(tag))
+                    return tag;
+                if (_this.tagComponentMap[tag]) {
+                    return _this.tagComponentMap[tag];
+                }
+                return null;
+            };
+            this.registerComponentTags([
+                { name: "core/misc/social/rating", tag: "rating" },
+                { name: "core/forms/form-field" },
+                { name: 'core/components/charts/range-bar', tag: 'range-bar' },
+                { name: 'core/components/common/list-placeholder', tag: 'list-placeholder' },
+                { name: 'core/components/forms/search', tag: 'search-box' },
+                { name: 'core/components/forms/dropdown', tag: 'dropdown' },
+                { name: 'core/components/forms/dropdown', tag: 'drop-down' },
+                { name: 'core/components/common/filter-button', tag: 'filter-button' },
+                { name: 'core/components/forms/check-box', tag: 'check-box' },
+                { name: 'core/components/forms/radio-button-group', tag: 'radio-button-group' },
+                { name: 'core/components/forms/auto-complete', tag: 'auto-complete' },
+                { name: 'core/components/layout/data-grid', tag: 'data-grid' },
+                { name: 'core/components/layout/timeline', tag: 'timeline' },
+                { name: 'core/components/layout/aside', tag: 'sidebar' },
+                { name: 'core/components/media/icon', tag: 'icon' },
+            ]);
+            ko.validation.init({
+                registerExtenders: true,
+                messagesOnModified: true,
+                decorateInputElement: true,
+                parseInputAttributes: true,
+                messageTemplate: null,
+                insertMessages: false,
+                errorClass: "alert",
+                errorElementClass: "alert"
+            });
+            ko.validation.registerExtenders();
+            ko.punches.enableAll();
+        };
+        core.prototype._startNotificationService = function () {
+            if (this.settings.enableNotifications) {
+                notificationHandler.instance.start();
+            }
+        };
+        core.prototype.reload = function () {
+            location.reload();
+        };
+        core.prototype._attachAppListeners = function () {
+            var _this = this;
+            ['_attachDragListener', '_attachSearchBoxListener'].each(function (l) { return _this[l](); });
+        };
+        core.prototype._attachDragListener = function () {
+            var _this = this;
+            $(window).on('dragenter', function (e) {
+                _this.isDragging(true);
+            });
+            $(window).on('dragleave', function (e) {
+                var x = e.originalEvent.pageX;
+                var y = e.originalEvent.pageY;
+                if ((x > 0 && y > 0) &&
+                    (x < media.windowDimensions().width && y < media.windowDimensions().height)) {
+                    return false;
+                }
+                _this.isDragging(false);
+            });
+            $('image-uploader, image-uploader *').on('drop', function (e) {
+                _this.isDragging(false);
+            });
+        };
+        core.prototype._attachSearchBoxListener = function () {
+            var toggle = function (c) { return c ? 'addClass' : 'removeClass'; };
+            $(document)
+                .on('input', '[type="search"], [type="filter"]', function () {
+                $(this)[toggle(this.value)]('x');
+            })
+                .on('mousemove', '.x', function (e) {
+                $(this)[toggle(this.offsetWidth - 18 < e.clientX - this.getBoundingClientRect().left)]('onX');
+            })
+                .on('touchstart click', '.onX', function (ev) {
+                ev.preventDefault();
+                $(this).removeClass('x onX').val('').change();
+            });
+        };
+        core.prototype.registerComponentTags = function (list) {
+            var _this = this;
+            if (!list || !$.isArray(list))
+                throw new Error("Not a list!");
+            var regExName = /^[a-z0-9-_/]+$/;
+            var regExTag = /^[a-z0-9-]+$/;
+            list.each(function (item) {
+                item.name = item.name.toLowerCase();
+                item.tag = (item.tag && item.tag.toLowerCase())
+                    || item.name.split("/").reverse()[0];
+                if (!regExName.test(item.name)) {
+                    throw new Error("Can't register component. Name '" + item.name + "' is invalid!");
+                }
+                if (!regExTag.test(item.tag)) {
+                    throw new Error("Can't register component. Tag '" + item.tag + "' is invalid!");
+                }
+                _this.tagComponentMap[item.tag] = item.name;
+            });
+        };
+        core.prototype.dialog = function (options) {
+            return this.modals.createDialog(options);
+        };
+        core.prototype.popup = function (options, isNewPopup) {
+            if (isNewPopup === void 0) { isNewPopup = false; }
+            if (!isNewPopup) {
+                logger.error("DEPRECATED - Direct use of 'app.instance.popup' detected. Please use '(popup class).open(...)' instead.");
+            }
+            return this.modals.createPopup(options);
+        };
+        core.corePreload = [
+            'core/packages/cultures',
+        ];
+        return core;
+    }(layerAware));
+    return core;
+});
+//# sourceMappingURL=app.js.map

@@ -1,0 +1,26 @@
+3/26/2020 4:25:08 PM ================3/26/2020 4:25:08 PM================
+3/26/2020 4:25:08 PM CloudFleetManager Quote,POC HTTP processor started
+3/26/2020 4:25:24 PM 
+3/26/2020 4:25:24 PM Quote processing started.
+3/26/2020 4:25:25 PM Started Loading interchange object.
+3/26/2020 4:25:25 PM stopped Loading interchange object.
+3/26/2020 4:25:26 PM 'MTML_QUOTE_05-031_2020d-I001_SM3141_V10001_26032018184996.xml' Quote file processing started.
+3/26/2020 4:25:26 PM https://pts.cloudfleetmanager.com/apps/quote/2ef99ca3-e991-4fca-9bfc-3aa15d38e957|MTML_QUOTE_05-031_2020d-I001_SM3141_V10001_26032018184996.xml|D:\Office Work\Namrata_Projects_16032020\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+3/26/2020 5:52:45 PM ================3/26/2020 5:52:45 PM================
+3/26/2020 5:52:45 PM CloudFleetManager Quote,POC HTTP processor started
+3/26/2020 5:54:42 PM 
+3/26/2020 5:54:42 PM Quote processing started.
+3/26/2020 5:54:42 PM Started Loading interchange object.
+3/26/2020 5:54:42 PM stopped Loading interchange object.
+3/26/2020 5:54:44 PM 'MTML_QUOTE_499_2020e-I001_SM0194_V10001_26032019485011.xml' Quote file processing started.
+3/26/2020 5:54:44 PM https://vega.cloudfleetmanager.com/apps/quote/5b3c1dac-ef8f-406a-b12d-a7565bbd4b26|MTML_QUOTE_499_2020e-I001_SM0194_V10001_26032019485011.xml|D:\Office Work\Namrata_Projects_16032020\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+3/26/2020 5:57:14 PM ================3/26/2020 5:57:14 PM================
+3/26/2020 5:57:14 PM CloudFleetManager Quote,POC HTTP processor started
+3/26/2020 5:57:17 PM 
+3/26/2020 5:57:17 PM Quote processing started.
+3/26/2020 5:57:18 PM Started Loading interchange object.
+3/26/2020 5:57:18 PM stopped Loading interchange object.
+3/26/2020 5:57:19 PM 'MTML_QUOTE_499_2020e-I001_SM0194_V10001_26032019485011.xml' Quote file processing started.
+3/26/2020 5:57:19 PM https://vega.cloudfleetmanager.com/apps/quote/5b3c1dac-ef8f-406a-b12d-a7565bbd4b26|MTML_QUOTE_499_2020e-I001_SM0194_V10001_26032019485011.xml|D:\Office Work\Namrata_Projects_16032020\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+3/26/2020 6:08:48 PM ================3/26/2020 6:08:48 PM================
+3/26/2020 6:08:48 PM CloudFleetManager Quote,POC HTTP processor started

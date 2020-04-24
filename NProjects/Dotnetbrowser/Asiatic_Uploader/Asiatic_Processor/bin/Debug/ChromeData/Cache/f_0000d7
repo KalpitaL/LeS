@@ -1,0 +1,385 @@
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+var __generator = (this && this.__generator) || function (thisArg, body) {
+    var _ = { label: 0, sent: function() { if (t[0] & 1) throw t[1]; return t[1]; }, trys: [], ops: [] }, f, y, t, g;
+    return g = { next: verb(0), "throw": verb(1), "return": verb(2) }, typeof Symbol === "function" && (g[Symbol.iterator] = function() { return this; }), g;
+    function verb(n) { return function (v) { return step([n, v]); }; }
+    function step(op) {
+        if (f) throw new TypeError("Generator is already executing.");
+        while (_) try {
+            if (f = 1, y && (t = op[0] & 2 ? y["return"] : op[0] ? y["throw"] || ((t = y["return"]) && t.call(y), 0) : y.next) && !(t = t.call(y, op[1])).done) return t;
+            if (y = 0, t) op = [op[0] & 2, t.value];
+            switch (op[0]) {
+                case 0: case 1: t = op; break;
+                case 4: _.label++; return { value: op[1], done: false };
+                case 5: _.label++; y = op[1]; op = [0]; continue;
+                case 7: op = _.ops.pop(); _.trys.pop(); continue;
+                default:
+                    if (!(t = _.trys, t = t.length > 0 && t[t.length - 1]) && (op[0] === 6 || op[0] === 2)) { _ = 0; continue; }
+                    if (op[0] === 3 && (!t || (op[1] > t[0] && op[1] < t[3]))) { _.label = op[1]; break; }
+                    if (op[0] === 6 && _.label < t[1]) { _.label = t[1]; t = op; break; }
+                    if (t && _.label < t[2]) { _.label = t[2]; _.ops.push(op); break; }
+                    if (t[2]) _.ops.pop();
+                    _.trys.pop(); continue;
+            }
+            op = body.call(thisArg, _);
+        } catch (e) { op = [6, e]; y = 0; } finally { f = t = 0; }
+        if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
+    }
+};
+var __rest = (this && this.__rest) || function (s, e) {
+    var t = {};
+    for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p) && e.indexOf(p) < 0)
+        t[p] = s[p];
+    if (s != null && typeof Object.getOwnPropertySymbols === "function")
+        for (var i = 0, p = Object.getOwnPropertySymbols(s); i < p.length; i++) {
+            if (e.indexOf(p[i]) < 0 && Object.prototype.propertyIsEnumerable.call(s, p[i]))
+                t[p[i]] = s[p[i]];
+        }
+    return t;
+};
+define(["require", "exports", "core/packages/sessionstorage", "core/packages/logger"], function (require, exports, Storage, Logger) {
+    var logger = new Logger(this);
+    var INDENTATION_SPACE = '    ';
+    var RequestContext = (function () {
+        function RequestContext(settings) {
+            var _this = this;
+            this.xhr = null;
+            this.isFromCache = false;
+            this.settings = settings;
+            this.fastResponseResult = new Promise(function (resolve) { return _this.fastResponseResolveFn = resolve; });
+        }
+        return RequestContext;
+    }());
+    var ContextXHRMetadata = (function () {
+        function ContextXHRMetadata(context) {
+            this.context = context;
+        }
+        Object.defineProperty(ContextXHRMetadata.prototype, "IsInCache", {
+            get: function () {
+                return this.context.isFromCache;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(ContextXHRMetadata.prototype, "Options", {
+            get: function () {
+                return this.context.settings;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(ContextXHRMetadata.prototype, "RelativeUri", {
+            get: function () {
+                return this.context.settings.relativeUrl;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(ContextXHRMetadata.prototype, "RequestMethod", {
+            get: function () {
+                return this.context.settings.type;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        return ContextXHRMetadata;
+    }());
+    function createApiDeferred(requestPromise, context) {
+        var deferred = jQuery.Deferred();
+        deferred.MetaData = new ContextXHRMetadata(context);
+        deferred.busy = function (observable) {
+            observable(true);
+            requestPromise.then(function () { return observable(false); }, function () { return observable(false); });
+            if (context.settings.useFastResponse) {
+                context.fastResponseResult.then(function () { return observable(false); });
+            }
+            return deferred;
+        };
+        deferred.fastResponse = function (callback) {
+            if (context.settings.useFastResponse) {
+                context.fastResponseResult.then(callback);
+            }
+            return deferred;
+        };
+        deferred.abort = function (statusText) {
+            context.xhr.abort(statusText);
+        };
+        requestPromise.then(function (x) { return deferred.resolve(x); }, function (x) { return deferred.reject(x); });
+        return deferred;
+    }
+    var api = (function () {
+        function api(path, baseUri) {
+            if (path === void 0) { path = ""; }
+            this._baseSettings = null;
+            this.baseURI = (baseUri || location.instance) + path;
+            this._baseSettings = {
+                crossDomain: false,
+                dataType: "json",
+                contentType: 'application/json; charset=utf-8',
+                xhrFields: {
+                    withCredentials: true
+                },
+                headers: {
+                    "X-Api-Version": "2",
+                    "X-Ref-Location": window.location.toString(),
+                }
+            };
+        }
+        api.runAjaxRequest = function (context) {
+            context.xhr = jQuery.ajax(context.settings);
+            return H.utils.createESPromiseFromJQueryPromise(context.xhr);
+        };
+        api.runAjaxRequestWithDateParsing = function (context) {
+            return __awaiter(this, void 0, void 0, function () {
+                var _a, _b;
+                return __generator(this, function (_c) {
+                    switch (_c.label) {
+                        case 0:
+                            _b = (_a = H).convertStringDatesRecursive;
+                            return [4, this.runAjaxRequest(context)];
+                        case 1: return [2, _b.apply(_a, [_c.sent()])];
+                    }
+                });
+            });
+        };
+        api.runAjaxRequestWithConfirmationHandling = function (context) {
+            return __awaiter(this, void 0, void 0, function () {
+                var _loop_1, this_1, state_1;
+                return __generator(this, function (_a) {
+                    switch (_a.label) {
+                        case 0:
+                            _loop_1 = function () {
+                                var result, confirmHeader, confirmMessage;
+                                return __generator(this, function (_a) {
+                                    switch (_a.label) {
+                                        case 0: return [4, this_1.runAjaxRequestWithDateParsing(context)];
+                                        case 1:
+                                            result = _a.sent();
+                                            confirmHeader = context.xhr.getResponseHeader('X-Confirm');
+                                            if (!confirmHeader) {
+                                                return [2, { value: result }];
+                                            }
+                                            confirmMessage = (result && result.ConfirmationOptions && result.ConfirmationOptions.Message)
+                                                || "This operation requires explicit confirmation.";
+                                            logger.info("Requesting confirmation: %s", confirmMessage);
+                                            return [4, new Promise(function (resolve, reject) {
+                                                    app.instance.dialog({
+                                                        dialogType: DialogType.WARNING,
+                                                        title: "Confirmation required",
+                                                        content: "<api-message>" + confirmMessage + "</api-message>",
+                                                        closeOnEscape: false,
+                                                        closeOnOverlayClick: false,
+                                                        buttons: [
+                                                            {
+                                                                value: "Confirm",
+                                                                title: "Confirm operation",
+                                                                onClick: function () {
+                                                                    resolve();
+                                                                    return true;
+                                                                }
+                                                            },
+                                                            {
+                                                                value: "Abort",
+                                                                title: "Abort operation",
+                                                                onClick: function () {
+                                                                    reject(new Error("Confirmation rejected"));
+                                                                    return true;
+                                                                }
+                                                            },
+                                                        ]
+                                                    }).open();
+                                                })];
+                                        case 2:
+                                            _a.sent();
+                                            context.settings.headers["X-Confirmation"] = confirmHeader;
+                                            return [2];
+                                    }
+                                });
+                            };
+                            this_1 = this;
+                            _a.label = 1;
+                        case 1:
+                            if (!true) return [3, 3];
+                            return [5, _loop_1()];
+                        case 2:
+                            state_1 = _a.sent();
+                            if (typeof state_1 === "object")
+                                return [2, state_1.value];
+                            return [3, 1];
+                        case 3: return [2];
+                    }
+                });
+            });
+        };
+        api.runAjaxRequestWithServiceResultUnwrapping = function (context) {
+            return __awaiter(this, void 0, void 0, function () {
+                var serviceResult;
+                return __generator(this, function (_a) {
+                    switch (_a.label) {
+                        case 0: return [4, this.runAjaxRequestWithConfirmationHandling(context)];
+                        case 1:
+                            serviceResult = _a.sent();
+                            if (!context.settings.unwrapServiceResult) {
+                                return [2, serviceResult];
+                            }
+                            if (!serviceResult.Success) {
+                                if (serviceResult.InputError) {
+                                    this.handleInputError(serviceResult);
+                                }
+                                else {
+                                    this.handleServerError(serviceResult);
+                                }
+                                throw new Error("Unsuccessful service call: " + serviceResult.ResultMessage);
+                            }
+                            if ("Result" in serviceResult) {
+                                if (serviceResult.ResultMessage) {
+                                    app.instance.toasts.success(serviceResult.ResultMessage, "Success");
+                                }
+                                return [2, serviceResult.Result];
+                            }
+                            return [2, null];
+                    }
+                });
+            });
+        };
+        api.handleServerError = function (serviceResult) {
+            var _a = serviceResult, Result = _a.Result, relevantServiceResultData = __rest(_a, ["Result"]);
+            logger.error('Handling ServerError: %s\r\n%s', serviceResult.ResultMessage, JSON.stringify(relevantServiceResultData, null, INDENTATION_SPACE));
+            var additionalInfo = "<pre style=\"white-space: pre-line; flex-shrink: 0; -webkit-flex-shrink: 0; -moz-flex-shrink: 0; -ms-flex-shrink: 0;\">";
+            Object['each'](serviceResult.AdditionalData, function (key, value) {
+                additionalInfo += "    " + key + ": " + value + "\r\n";
+            });
+            additionalInfo += "</pre>";
+            app.instance.dialog({
+                title: "An " + (DEBUG && Math.random() > 0.8 ? "" : "un") + "expected error occurred" + (serviceResult.ErrorCode ? " (" + serviceResult.ErrorCode + ")" : ''),
+                content: "<api-message>" + serviceResult.ResultMessage.escapeHTML() + "</api-message>\n<api-message style=\"color: #fff; margin-top: 12px;\">Please copy and send the following text (not just screenshots) to our support team to help us track down the error quickly:</api-message>\n" + additionalInfo + "\n",
+                dialogType: DialogType.ERROR,
+                onCloseButton: function () { return true; },
+            }).open();
+        };
+        api.handleInputError = function (serviceResult) {
+            var _a = serviceResult, Result = _a.Result, relevantServiceResultData = __rest(_a, ["Result"]);
+            logger.warn('Handling InputError: %s\r\n%s', serviceResult.ResultMessage, JSON.stringify(relevantServiceResultData, null, INDENTATION_SPACE));
+            app.instance.dialog({
+                title: "Could not perform operation" + (serviceResult.ErrorCode ? " (" + serviceResult.ErrorCode + ")" : ''),
+                content: "<api-message>" + serviceResult.ResultMessage.escapeHTML() + "</api-message>",
+                dialogType: DialogType.WARNING,
+                onCloseButton: function () { return true; },
+            }).open();
+        };
+        api.runAjaxRequestWithCacheHandling = function (context) {
+            return __awaiter(this, void 0, void 0, function () {
+                var cachedValue, backgroundBusyStarted, requestResult;
+                return __generator(this, function (_a) {
+                    switch (_a.label) {
+                        case 0:
+                            if (!(context.settings.cache || context.settings.useFastResponse)) {
+                                return [2, this.runAjaxRequestWithServiceResultUnwrapping(context)];
+                            }
+                            if (!context.cacheKey) {
+                                context.cacheKey = context.settings.cacheKey || Storage.Utils.getCacheKey([
+                                    context.settings.type,
+                                    context.settings.url,
+                                    JSON.stringify(context.settings.data)
+                                ].join(" "));
+                            }
+                            context.isFromCache = false;
+                            cachedValue = this.apiCache.get(context.cacheKey, context.settings.cacheTTL);
+                            backgroundBusyStarted = false;
+                            if (cachedValue != null) {
+                                if (context.settings.useFastResponse) {
+                                    context.fastResponseResolveFn(cachedValue);
+                                    app.instance.startBackgroundLoading();
+                                    backgroundBusyStarted = true;
+                                }
+                                else {
+                                    context.isFromCache = true;
+                                    return [2, cachedValue];
+                                }
+                            }
+                            return [4, this.runAjaxRequestWithServiceResultUnwrapping(context)];
+                        case 1:
+                            requestResult = _a.sent();
+                            return [4, this.apiCache.set(context.cacheKey, requestResult)];
+                        case 2:
+                            _a.sent();
+                            if (backgroundBusyStarted) {
+                                app.instance.finishBackgroundLoading();
+                            }
+                            return [2, requestResult];
+                    }
+                });
+            });
+        };
+        api.prototype.buildRequestSettings = function (relative, type, data, unwrap, options) {
+            var baseSettingsCopy = JSON.parse(JSON.stringify(this._baseSettings));
+            var providedOptions = $.isPlainObject(options)
+                ? options
+                : {};
+            var calculatedOptions = {
+                url: this.baseURI + relative,
+                relativeUrl: relative,
+                type: type,
+                unwrapServiceResult: unwrap
+            };
+            var settings = Object.assign(baseSettingsCopy, providedOptions, calculatedOptions);
+            if (settings.cacheTTL === 0) {
+                delete settings.cacheTTL;
+            }
+            if (settings.cacheTTL != null) {
+                settings.cacheTTL = H.isNumber(settings.cacheTTL) ? settings.cacheTTL : Infinity;
+                settings.cache = !settings.useFastResponse;
+            }
+            if (type == "POST" || type == "PUT") {
+                if (settings.contentType.indexOf && settings.contentType.indexOf('json') != -1) {
+                    settings.data = JSON.stringify(settings.data || data);
+                }
+            }
+            else {
+                delete settings.data;
+            }
+            return settings;
+        };
+        api.prototype.ajax = function (relative, type, data, unwrap, options) {
+            if (type === void 0) { type = "GET"; }
+            if (data === void 0) { data = null; }
+            if (unwrap === void 0) { unwrap = true; }
+            if (options === void 0) { options = null; }
+            var context = new RequestContext(this.buildRequestSettings(relative, type, data, unwrap, options));
+            var requestPromise = api.runAjaxRequestWithCacheHandling(context);
+            return createApiDeferred(requestPromise, context);
+        };
+        api.prototype.get = function (relative, unwrap, options) {
+            if (unwrap === void 0) { unwrap = true; }
+            if (options === void 0) { options = null; }
+            return this.ajax(relative, "GET", null, unwrap, options);
+        };
+        api.prototype.post = function (relative, data, unwrap, options) {
+            if (unwrap === void 0) { unwrap = true; }
+            if (options === void 0) { options = null; }
+            return this.ajax(relative, "POST", data, unwrap, options);
+        };
+        api.prototype.delete = function (relative, unwrap, options) {
+            if (unwrap === void 0) { unwrap = true; }
+            if (options === void 0) { options = null; }
+            return this.ajax(relative, "DELETE", null, unwrap, options);
+        };
+        api.prototype.put = function (relative, data, unwrap, options) {
+            if (unwrap === void 0) { unwrap = true; }
+            if (options === void 0) { options = null; }
+            return this.ajax(relative, "PUT", data, unwrap, options);
+        };
+        api.apiCache = new Storage("ajax");
+        return api;
+    }());
+    return api;
+});
+//# sourceMappingURL=api.js.map

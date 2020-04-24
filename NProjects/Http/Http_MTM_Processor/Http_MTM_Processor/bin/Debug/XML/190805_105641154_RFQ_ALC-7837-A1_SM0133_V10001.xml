@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange Identifier="UNOC" Recipient="V10001" Sender="SM0133_HTM" PreparationDate="20190805" PreparationTime="113300" VersionNumber="1">
+    <RequestForQuote MessageReferenceNumber="434976" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=434976&amp;amp;validate=0.118089503102051" LineItemCount="1" VersionNumber="1" FunctionCode="_9" BuyerRefNo="ALC-7837-A1" OriginalFile="MTM_SHIP_V10001_SM0133_ALC_7837_A1_05081911330091.png">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20190805" />
+      <Reference Qualifier="UC" ReferenceNumber="ALC-7837-A1" />
+      <Party Qualifier="UD" />
+      <Party Qualifier="BY" Name="M.T.M. SHIP MANAGEMENT PTE. LTD">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="WILHELMSEN SHIPS SERVICE AS">
+        <Contact FunctionCode="SR" Name="Lawrence Lai">
+          <CommunicationMethod Qualifier="TE" Number="67785022--" />
+          <CommunicationMethod Qualifier="EM" Number="jasmine.chan@wilhelmsen.com ;  wss.cs.singapore.products@wilhelmsen.com" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="Easy Ship Combined Oil Test Kit Easy Ship Combined Oil Test Kit" Identification="773154" MeasureUnitQualifier="SET" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2216777_5227816" SystemItemNo="1">
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

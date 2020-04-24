@@ -1,0 +1,12 @@
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\Goodwood_Excel_Processor.exe.config
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\Goodwood_Excel_Processor.exe
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\Goodwood_Excel_Processor.pdb
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\obj\Debug\Goodwood_Excel_Processor.exe
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\obj\Debug\Goodwood_Excel_Processor.pdb
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\Aspose.Cells.dll
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\Dictionary.dll
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\Excel_SPL_Routine.dll
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\MTML.GENERATOR.dll
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\Excel_SPL_Routine.pdb
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\MTML.GENERATOR.pdb
+D:\Sayak\project 18-3-15\Goodwood_RFQ_Excel_Processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\obj\Debug\Goodwood_Excel_Processor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,994 @@
+12/26/2019 11:26:47 AM ================12/26/2019 11:26:47 AM================
+12/26/2019 11:26:47 AM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM RFQ processing started.
+12/26/2019 11:26:47 AM No file found.
+12/26/2019 11:26:47 AM RFQ processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Quote processing started.
+12/26/2019 11:26:47 AM No Quote files found to process.
+12/26/2019 11:26:47 AM Quote processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM RFQ processing started.
+12/26/2019 11:26:47 AM No file found.
+12/26/2019 11:26:47 AM RFQ processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Quote processing started.
+12/26/2019 11:26:47 AM No Quote files found to process.
+12/26/2019 11:26:47 AM Quote processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM RFQ processing started.
+12/26/2019 11:26:47 AM No file found.
+12/26/2019 11:26:47 AM RFQ processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Purchase Order processing started.
+12/26/2019 11:26:47 AM Purchase Order processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Quote processing started.
+12/26/2019 11:26:47 AM No Quote files found to process.
+12/26/2019 11:26:47 AM Quote processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM POC processing started.
+12/26/2019 11:26:47 AM No POC files found to process.
+12/26/2019 11:26:47 AM POC processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM RFQ processing started.
+12/26/2019 11:26:47 AM No file found.
+12/26/2019 11:26:47 AM RFQ processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Purchase Order processing started.
+12/26/2019 11:26:47 AM Purchase Order processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Quote processing started.
+12/26/2019 11:26:47 AM No Quote files found to process.
+12/26/2019 11:26:47 AM Quote processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM POC processing started.
+12/26/2019 11:26:47 AM No POC files found to process.
+12/26/2019 11:26:47 AM POC processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Quote processing started.
+12/26/2019 11:26:47 AM No Quote files found to process.
+12/26/2019 11:26:47 AM Quote processing stopped.
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 11:26:47 AM 
+12/26/2019 11:26:47 AM Quote processing started.
+12/26/2019 11:26:47 AM No Quote files found to process.
+12/26/2019 11:26:47 AM Quote processing stopped.
+12/26/2019 11:27:01 AM Exception at NetBrowser constructor: Failed to create Browser.
+12/26/2019 11:27:01 AM Application is already running
+12/26/2019 11:39:58 AM Exception at NetBrowser constructor: Failed to create Browser.
+12/26/2019 11:41:37 AM Exception at NetBrowser constructor: Failed to create Browser.
+12/26/2019 11:41:37 AM Application is already running
+12/26/2019 11:45:12 AM Exception at NetBrowser constructor: Failed to create Browser.
+12/26/2019 11:45:37 AM Exception at NetBrowser constructor: Failed to create Browser.
+12/26/2019 11:51:07 AM Exception at NetBrowser constructor: Failed to create Browser.
+12/26/2019 11:51:07 AM Application is already running
+12/26/2019 12:01:05 PM Exception at NetBrowser constructor: Failed to create Browser.
+12/26/2019 12:01:05 PM Application is already running
+12/26/2019 12:07:04 PM Exception at NetBrowser constructor: Failed to create Browser.
+12/26/2019 12:07:04 PM Application is already running
+12/26/2019 12:09:33 PM 12/26/2019 12:09:31 PM
+12/26/2019 12:11:05 PM Exception at NetBrowser constructor: Failed to create Browser.
+12/26/2019 12:11:07 PM 12/26/2019 12:11:04 PM
+12/26/2019 12:11:07 PM Application is already running
+12/26/2019 12:21:07 PM 12/26/2019 12:21:04 PM
+12/26/2019 12:21:07 PM Application is already running
+12/26/2019 12:31:05 PM 12/26/2019 12:31:04 PM
+12/26/2019 12:31:05 PM Application is already running
+12/26/2019 12:31:08 PM 12/26/2019 12:31:06 PM
+12/26/2019 12:41:06 PM 12/26/2019 12:41:04 PM
+12/26/2019 12:41:06 PM Application is already running
+12/26/2019 12:51:06 PM 12/26/2019 12:51:04 PM
+12/26/2019 12:51:06 PM Application is already running
+12/26/2019 12:57:01 PM 12/26/2019 12:57:00 PM
+12/26/2019 12:57:01 PM Application is already running
+12/26/2019 1:01:06 PM 12/26/2019 1:01:04 PM
+12/26/2019 1:01:06 PM Application is already running
+12/26/2019 1:07:02 PM 12/26/2019 1:07:00 PM
+12/26/2019 1:07:02 PM Application is already running
+12/26/2019 1:11:10 PM 12/26/2019 1:11:04 PM
+12/26/2019 1:11:10 PM Application is already running
+12/26/2019 1:17:02 PM 12/26/2019 1:17:00 PM
+12/26/2019 1:17:02 PM Application is already running
+12/26/2019 1:21:05 PM 12/26/2019 1:21:04 PM
+12/26/2019 1:21:05 PM Application is already running
+12/26/2019 1:27:03 PM 12/26/2019 1:27:00 PM
+12/26/2019 1:27:03 PM Application is already running
+12/26/2019 1:31:08 PM 12/26/2019 1:31:04 PM
+12/26/2019 1:31:08 PM Application is already running
+12/26/2019 1:37:02 PM 12/26/2019 1:37:00 PM
+12/26/2019 1:37:02 PM Application is already running
+12/26/2019 1:41:06 PM 12/26/2019 1:41:04 PM
+12/26/2019 1:41:06 PM Application is already running
+12/26/2019 1:47:02 PM 12/26/2019 1:47:00 PM
+12/26/2019 1:47:02 PM Application is already running
+12/26/2019 1:51:06 PM 12/26/2019 1:51:04 PM
+12/26/2019 1:51:06 PM Application is already running
+12/26/2019 1:57:03 PM 12/26/2019 1:57:00 PM
+12/26/2019 1:57:03 PM Application is already running
+12/26/2019 2:01:07 PM 12/26/2019 2:01:04 PM
+12/26/2019 2:01:07 PM Application is already running
+12/26/2019 2:07:04 PM 12/26/2019 2:07:00 PM
+12/26/2019 2:07:04 PM Application is already running
+12/26/2019 2:11:05 PM 12/26/2019 2:11:04 PM
+12/26/2019 2:11:05 PM Application is already running
+12/26/2019 2:17:05 PM 12/26/2019 2:17:00 PM
+12/26/2019 2:17:05 PM Application is already running
+12/26/2019 2:21:05 PM 12/26/2019 2:21:04 PM
+12/26/2019 2:21:05 PM Application is already running
+12/26/2019 2:27:05 PM 12/26/2019 2:27:00 PM
+12/26/2019 2:27:05 PM Application is already running
+12/26/2019 2:31:05 PM 12/26/2019 2:31:04 PM
+12/26/2019 2:31:05 PM Application is already running
+12/26/2019 2:37:02 PM 12/26/2019 2:37:00 PM
+12/26/2019 2:37:02 PM Application is already running
+12/26/2019 2:41:06 PM 12/26/2019 2:41:04 PM
+12/26/2019 2:41:06 PM Application is already running
+12/26/2019 2:47:02 PM 12/26/2019 2:47:00 PM
+12/26/2019 2:47:02 PM Application is already running
+12/26/2019 5:06:57 PM 12/26/2019 5:02:33 PM
+12/26/2019 5:10:05 PM 12/26/2019 5:10:00 PM
+12/26/2019 5:11:43 PM 12/26/2019 5:10:16 PM
+12/26/2019 5:11:57 PM ================12/26/2019 5:11:57 PM================
+12/26/2019 5:11:57 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:11:59 PM 
+12/26/2019 5:11:59 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:11:59 PM 
+12/26/2019 5:11:59 PM RFQ processing started.
+12/26/2019 5:11:59 PM No file found.
+12/26/2019 5:11:59 PM RFQ processing stopped.
+12/26/2019 5:12:00 PM 
+12/26/2019 5:12:01 PM Quote processing started.
+12/26/2019 5:12:23 PM No Quote files found to process.
+12/26/2019 5:12:23 PM Quote processing stopped.
+12/26/2019 5:12:45 PM 
+12/26/2019 5:12:45 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:12:45 PM 
+12/26/2019 5:12:45 PM RFQ processing started.
+12/26/2019 5:12:45 PM No file found.
+12/26/2019 5:12:45 PM RFQ processing stopped.
+12/26/2019 5:12:46 PM 
+12/26/2019 5:12:46 PM Quote processing started.
+12/26/2019 5:12:46 PM No Quote files found to process.
+12/26/2019 5:12:46 PM Quote processing stopped.
+12/26/2019 5:12:46 PM 
+12/26/2019 5:12:46 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:12:46 PM 
+12/26/2019 5:12:46 PM RFQ processing started.
+12/26/2019 5:12:46 PM No file found.
+12/26/2019 5:12:46 PM RFQ processing stopped.
+12/26/2019 5:12:46 PM 
+12/26/2019 5:12:46 PM Purchase Order processing started.
+12/26/2019 5:12:46 PM Purchase Order processing stopped.
+12/26/2019 5:12:47 PM 
+12/26/2019 5:12:47 PM Quote processing started.
+12/26/2019 5:12:47 PM No Quote files found to process.
+12/26/2019 5:12:47 PM Quote processing stopped.
+12/26/2019 5:12:47 PM 
+12/26/2019 5:12:47 PM POC processing started.
+12/26/2019 5:12:47 PM No POC files found to process.
+12/26/2019 5:12:47 PM POC processing stopped.
+12/26/2019 5:12:48 PM 
+12/26/2019 5:12:48 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:12:48 PM 
+12/26/2019 5:12:48 PM RFQ processing started.
+12/26/2019 5:12:48 PM No file found.
+12/26/2019 5:12:48 PM RFQ processing stopped.
+12/26/2019 5:12:48 PM 
+12/26/2019 5:12:48 PM Purchase Order processing started.
+12/26/2019 5:12:48 PM Purchase Order processing stopped.
+12/26/2019 5:12:49 PM 
+12/26/2019 5:12:49 PM Quote processing started.
+12/26/2019 5:12:49 PM No Quote files found to process.
+12/26/2019 5:12:49 PM Quote processing stopped.
+12/26/2019 5:12:49 PM 
+12/26/2019 5:12:49 PM POC processing started.
+12/26/2019 5:12:49 PM No POC files found to process.
+12/26/2019 5:12:49 PM POC processing stopped.
+12/26/2019 5:12:50 PM 
+12/26/2019 5:12:50 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:12:51 PM 
+12/26/2019 5:12:51 PM Quote processing started.
+12/26/2019 5:12:51 PM No Quote files found to process.
+12/26/2019 5:12:51 PM Quote processing stopped.
+12/26/2019 5:12:53 PM 
+12/26/2019 5:12:53 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:12:54 PM 
+12/26/2019 5:12:54 PM Quote processing started.
+12/26/2019 5:12:54 PM No Quote files found to process.
+12/26/2019 5:12:54 PM Quote processing stopped.
+12/26/2019 5:12:54 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:12:54 PM ====================================================
+12/26/2019 5:13:25 PM 12/26/2019 5:13:23 PM
+12/26/2019 5:13:25 PM ================12/26/2019 5:13:25 PM================
+12/26/2019 5:13:25 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM RFQ processing started.
+12/26/2019 5:13:25 PM No file found.
+12/26/2019 5:13:25 PM RFQ processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Quote processing started.
+12/26/2019 5:13:25 PM No Quote files found to process.
+12/26/2019 5:13:25 PM Quote processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM RFQ processing started.
+12/26/2019 5:13:25 PM No file found.
+12/26/2019 5:13:25 PM RFQ processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Quote processing started.
+12/26/2019 5:13:25 PM No Quote files found to process.
+12/26/2019 5:13:25 PM Quote processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM RFQ processing started.
+12/26/2019 5:13:25 PM No file found.
+12/26/2019 5:13:25 PM RFQ processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Purchase Order processing started.
+12/26/2019 5:13:25 PM Purchase Order processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Quote processing started.
+12/26/2019 5:13:25 PM No Quote files found to process.
+12/26/2019 5:13:25 PM Quote processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM POC processing started.
+12/26/2019 5:13:25 PM No POC files found to process.
+12/26/2019 5:13:25 PM POC processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM RFQ processing started.
+12/26/2019 5:13:25 PM No file found.
+12/26/2019 5:13:25 PM RFQ processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Purchase Order processing started.
+12/26/2019 5:13:25 PM Purchase Order processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Quote processing started.
+12/26/2019 5:13:25 PM No Quote files found to process.
+12/26/2019 5:13:25 PM Quote processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM POC processing started.
+12/26/2019 5:13:25 PM No POC files found to process.
+12/26/2019 5:13:25 PM POC processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Quote processing started.
+12/26/2019 5:13:25 PM No Quote files found to process.
+12/26/2019 5:13:25 PM Quote processing stopped.
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:13:25 PM 
+12/26/2019 5:13:25 PM Quote processing started.
+12/26/2019 5:13:25 PM No Quote files found to process.
+12/26/2019 5:13:25 PM Quote processing stopped.
+12/26/2019 5:13:26 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:13:26 PM ====================================================
+12/26/2019 5:13:58 PM 12/26/2019 5:13:56 PM
+12/26/2019 5:13:58 PM ================12/26/2019 5:13:58 PM================
+12/26/2019 5:13:58 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM RFQ processing started.
+12/26/2019 5:13:58 PM No file found.
+12/26/2019 5:13:58 PM RFQ processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Quote processing started.
+12/26/2019 5:13:58 PM No Quote files found to process.
+12/26/2019 5:13:58 PM Quote processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM RFQ processing started.
+12/26/2019 5:13:58 PM No file found.
+12/26/2019 5:13:58 PM RFQ processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Quote processing started.
+12/26/2019 5:13:58 PM No Quote files found to process.
+12/26/2019 5:13:58 PM Quote processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM RFQ processing started.
+12/26/2019 5:13:58 PM No file found.
+12/26/2019 5:13:58 PM RFQ processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Purchase Order processing started.
+12/26/2019 5:13:58 PM Purchase Order processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Quote processing started.
+12/26/2019 5:13:58 PM No Quote files found to process.
+12/26/2019 5:13:58 PM Quote processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM POC processing started.
+12/26/2019 5:13:58 PM No POC files found to process.
+12/26/2019 5:13:58 PM POC processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM RFQ processing started.
+12/26/2019 5:13:58 PM No file found.
+12/26/2019 5:13:58 PM RFQ processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Purchase Order processing started.
+12/26/2019 5:13:58 PM Purchase Order processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Quote processing started.
+12/26/2019 5:13:58 PM No Quote files found to process.
+12/26/2019 5:13:58 PM Quote processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM POC processing started.
+12/26/2019 5:13:58 PM No POC files found to process.
+12/26/2019 5:13:58 PM POC processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Quote processing started.
+12/26/2019 5:13:58 PM No Quote files found to process.
+12/26/2019 5:13:58 PM Quote processing stopped.
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:13:58 PM 
+12/26/2019 5:13:58 PM Quote processing started.
+12/26/2019 5:13:58 PM No Quote files found to process.
+12/26/2019 5:13:58 PM Quote processing stopped.
+12/26/2019 5:13:59 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:13:59 PM ====================================================
+12/26/2019 5:17:01 PM 12/26/2019 5:17:00 PM
+12/26/2019 5:17:01 PM ================12/26/2019 5:17:01 PM================
+12/26/2019 5:17:02 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM RFQ processing started.
+12/26/2019 5:17:02 PM No file found.
+12/26/2019 5:17:02 PM RFQ processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Quote processing started.
+12/26/2019 5:17:02 PM No Quote files found to process.
+12/26/2019 5:17:02 PM Quote processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM RFQ processing started.
+12/26/2019 5:17:02 PM No file found.
+12/26/2019 5:17:02 PM RFQ processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Quote processing started.
+12/26/2019 5:17:02 PM No Quote files found to process.
+12/26/2019 5:17:02 PM Quote processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM RFQ processing started.
+12/26/2019 5:17:02 PM No file found.
+12/26/2019 5:17:02 PM RFQ processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Purchase Order processing started.
+12/26/2019 5:17:02 PM Purchase Order processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Quote processing started.
+12/26/2019 5:17:02 PM No Quote files found to process.
+12/26/2019 5:17:02 PM Quote processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM POC processing started.
+12/26/2019 5:17:02 PM No POC files found to process.
+12/26/2019 5:17:02 PM POC processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM RFQ processing started.
+12/26/2019 5:17:02 PM No file found.
+12/26/2019 5:17:02 PM RFQ processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Purchase Order processing started.
+12/26/2019 5:17:02 PM Purchase Order processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Quote processing started.
+12/26/2019 5:17:02 PM No Quote files found to process.
+12/26/2019 5:17:02 PM Quote processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM POC processing started.
+12/26/2019 5:17:02 PM No POC files found to process.
+12/26/2019 5:17:02 PM POC processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Quote processing started.
+12/26/2019 5:17:02 PM No Quote files found to process.
+12/26/2019 5:17:02 PM Quote processing stopped.
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:17:02 PM 
+12/26/2019 5:17:02 PM Quote processing started.
+12/26/2019 5:17:02 PM No Quote files found to process.
+12/26/2019 5:17:02 PM Quote processing stopped.
+12/26/2019 5:17:02 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:17:02 PM ====================================================
+12/26/2019 5:21:05 PM 12/26/2019 5:21:04 PM
+12/26/2019 5:21:05 PM ================12/26/2019 5:21:05 PM================
+12/26/2019 5:21:05 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:21:05 PM 
+12/26/2019 5:21:05 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:21:05 PM 
+12/26/2019 5:21:05 PM RFQ processing started.
+12/26/2019 5:21:05 PM No file found.
+12/26/2019 5:21:05 PM RFQ processing stopped.
+12/26/2019 5:21:05 PM 
+12/26/2019 5:21:05 PM Quote processing started.
+12/26/2019 5:21:06 PM No Quote files found to process.
+12/26/2019 5:21:06 PM Quote processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM RFQ processing started.
+12/26/2019 5:21:06 PM No file found.
+12/26/2019 5:21:06 PM RFQ processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Quote processing started.
+12/26/2019 5:21:06 PM No Quote files found to process.
+12/26/2019 5:21:06 PM Quote processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM RFQ processing started.
+12/26/2019 5:21:06 PM No file found.
+12/26/2019 5:21:06 PM RFQ processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Purchase Order processing started.
+12/26/2019 5:21:06 PM Purchase Order processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Quote processing started.
+12/26/2019 5:21:06 PM No Quote files found to process.
+12/26/2019 5:21:06 PM Quote processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM POC processing started.
+12/26/2019 5:21:06 PM No POC files found to process.
+12/26/2019 5:21:06 PM POC processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM RFQ processing started.
+12/26/2019 5:21:06 PM No file found.
+12/26/2019 5:21:06 PM RFQ processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Purchase Order processing started.
+12/26/2019 5:21:06 PM Purchase Order processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Quote processing started.
+12/26/2019 5:21:06 PM No Quote files found to process.
+12/26/2019 5:21:06 PM Quote processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM POC processing started.
+12/26/2019 5:21:06 PM No POC files found to process.
+12/26/2019 5:21:06 PM POC processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Quote processing started.
+12/26/2019 5:21:06 PM No Quote files found to process.
+12/26/2019 5:21:06 PM Quote processing stopped.
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:21:06 PM 
+12/26/2019 5:21:06 PM Quote processing started.
+12/26/2019 5:21:06 PM No Quote files found to process.
+12/26/2019 5:21:06 PM Quote processing stopped.
+12/26/2019 5:21:06 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:21:06 PM ====================================================
+12/26/2019 5:27:02 PM 12/26/2019 5:27:00 PM
+12/26/2019 5:27:02 PM ================12/26/2019 5:27:02 PM================
+12/26/2019 5:27:02 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM RFQ processing started.
+12/26/2019 5:27:02 PM No file found.
+12/26/2019 5:27:02 PM RFQ processing stopped.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM Quote processing started.
+12/26/2019 5:27:02 PM No Quote files found to process.
+12/26/2019 5:27:02 PM Quote processing stopped.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM RFQ processing started.
+12/26/2019 5:27:02 PM No file found.
+12/26/2019 5:27:02 PM RFQ processing stopped.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM Quote processing started.
+12/26/2019 5:27:02 PM No Quote files found to process.
+12/26/2019 5:27:02 PM Quote processing stopped.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM RFQ processing started.
+12/26/2019 5:27:02 PM No file found.
+12/26/2019 5:27:02 PM RFQ processing stopped.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM Purchase Order processing started.
+12/26/2019 5:27:02 PM Purchase Order processing stopped.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM Quote processing started.
+12/26/2019 5:27:02 PM No Quote files found to process.
+12/26/2019 5:27:02 PM Quote processing stopped.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM POC processing started.
+12/26/2019 5:27:02 PM No POC files found to process.
+12/26/2019 5:27:02 PM POC processing stopped.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM RFQ processing started.
+12/26/2019 5:27:02 PM No file found.
+12/26/2019 5:27:02 PM RFQ processing stopped.
+12/26/2019 5:27:02 PM 
+12/26/2019 5:27:02 PM Purchase Order processing started.
+12/26/2019 5:27:02 PM Purchase Order processing stopped.
+12/26/2019 5:27:03 PM 
+12/26/2019 5:27:03 PM Quote processing started.
+12/26/2019 5:27:03 PM No Quote files found to process.
+12/26/2019 5:27:03 PM Quote processing stopped.
+12/26/2019 5:27:03 PM 
+12/26/2019 5:27:03 PM POC processing started.
+12/26/2019 5:27:03 PM No POC files found to process.
+12/26/2019 5:27:03 PM POC processing stopped.
+12/26/2019 5:27:03 PM 
+12/26/2019 5:27:03 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:27:03 PM 
+12/26/2019 5:27:03 PM Quote processing started.
+12/26/2019 5:27:03 PM No Quote files found to process.
+12/26/2019 5:27:03 PM Quote processing stopped.
+12/26/2019 5:27:03 PM 
+12/26/2019 5:27:03 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:27:03 PM 
+12/26/2019 5:27:03 PM Quote processing started.
+12/26/2019 5:27:03 PM No Quote files found to process.
+12/26/2019 5:27:03 PM Quote processing stopped.
+12/26/2019 5:27:03 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:27:03 PM ====================================================
+12/26/2019 5:31:05 PM 12/26/2019 5:31:04 PM
+12/26/2019 5:31:05 PM ================12/26/2019 5:31:05 PM================
+12/26/2019 5:31:05 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:31:05 PM 
+12/26/2019 5:31:05 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:31:05 PM 
+12/26/2019 5:31:05 PM RFQ processing started.
+12/26/2019 5:31:05 PM No file found.
+12/26/2019 5:31:05 PM RFQ processing stopped.
+12/26/2019 5:31:05 PM 
+12/26/2019 5:31:05 PM Quote processing started.
+12/26/2019 5:31:05 PM No Quote files found to process.
+12/26/2019 5:31:05 PM Quote processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM RFQ processing started.
+12/26/2019 5:31:06 PM No file found.
+12/26/2019 5:31:06 PM RFQ processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Quote processing started.
+12/26/2019 5:31:06 PM No Quote files found to process.
+12/26/2019 5:31:06 PM Quote processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM RFQ processing started.
+12/26/2019 5:31:06 PM No file found.
+12/26/2019 5:31:06 PM RFQ processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Purchase Order processing started.
+12/26/2019 5:31:06 PM Purchase Order processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Quote processing started.
+12/26/2019 5:31:06 PM No Quote files found to process.
+12/26/2019 5:31:06 PM Quote processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM POC processing started.
+12/26/2019 5:31:06 PM No POC files found to process.
+12/26/2019 5:31:06 PM POC processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM RFQ processing started.
+12/26/2019 5:31:06 PM No file found.
+12/26/2019 5:31:06 PM RFQ processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Purchase Order processing started.
+12/26/2019 5:31:06 PM Purchase Order processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Quote processing started.
+12/26/2019 5:31:06 PM No Quote files found to process.
+12/26/2019 5:31:06 PM Quote processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM POC processing started.
+12/26/2019 5:31:06 PM No POC files found to process.
+12/26/2019 5:31:06 PM POC processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Quote processing started.
+12/26/2019 5:31:06 PM No Quote files found to process.
+12/26/2019 5:31:06 PM Quote processing stopped.
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:31:06 PM 
+12/26/2019 5:31:06 PM Quote processing started.
+12/26/2019 5:31:06 PM No Quote files found to process.
+12/26/2019 5:31:06 PM Quote processing stopped.
+12/26/2019 5:31:06 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:31:06 PM ====================================================
+12/26/2019 5:37:03 PM 12/26/2019 5:37:00 PM
+12/26/2019 5:37:03 PM ================12/26/2019 5:37:03 PM================
+12/26/2019 5:37:03 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM RFQ processing started.
+12/26/2019 5:37:03 PM No file found.
+12/26/2019 5:37:03 PM RFQ processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Quote processing started.
+12/26/2019 5:37:03 PM No Quote files found to process.
+12/26/2019 5:37:03 PM Quote processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM RFQ processing started.
+12/26/2019 5:37:03 PM No file found.
+12/26/2019 5:37:03 PM RFQ processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Quote processing started.
+12/26/2019 5:37:03 PM No Quote files found to process.
+12/26/2019 5:37:03 PM Quote processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM RFQ processing started.
+12/26/2019 5:37:03 PM No file found.
+12/26/2019 5:37:03 PM RFQ processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Purchase Order processing started.
+12/26/2019 5:37:03 PM Purchase Order processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Quote processing started.
+12/26/2019 5:37:03 PM No Quote files found to process.
+12/26/2019 5:37:03 PM Quote processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM POC processing started.
+12/26/2019 5:37:03 PM No POC files found to process.
+12/26/2019 5:37:03 PM POC processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM RFQ processing started.
+12/26/2019 5:37:03 PM No file found.
+12/26/2019 5:37:03 PM RFQ processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Purchase Order processing started.
+12/26/2019 5:37:03 PM Purchase Order processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Quote processing started.
+12/26/2019 5:37:03 PM No Quote files found to process.
+12/26/2019 5:37:03 PM Quote processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM POC processing started.
+12/26/2019 5:37:03 PM No POC files found to process.
+12/26/2019 5:37:03 PM POC processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Quote processing started.
+12/26/2019 5:37:03 PM No Quote files found to process.
+12/26/2019 5:37:03 PM Quote processing stopped.
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:37:03 PM 
+12/26/2019 5:37:03 PM Quote processing started.
+12/26/2019 5:37:03 PM No Quote files found to process.
+12/26/2019 5:37:03 PM Quote processing stopped.
+12/26/2019 5:37:04 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:37:04 PM ====================================================
+12/26/2019 5:41:05 PM 12/26/2019 5:41:04 PM
+12/26/2019 5:41:05 PM ================12/26/2019 5:41:05 PM================
+12/26/2019 5:41:05 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:41:05 PM 
+12/26/2019 5:41:05 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:41:05 PM 
+12/26/2019 5:41:05 PM RFQ processing started.
+12/26/2019 5:41:05 PM No file found.
+12/26/2019 5:41:05 PM RFQ processing stopped.
+12/26/2019 5:41:05 PM 
+12/26/2019 5:41:05 PM Quote processing started.
+12/26/2019 5:41:05 PM No Quote files found to process.
+12/26/2019 5:41:05 PM Quote processing stopped.
+12/26/2019 5:41:05 PM 
+12/26/2019 5:41:05 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:41:05 PM 
+12/26/2019 5:41:05 PM RFQ processing started.
+12/26/2019 5:41:05 PM No file found.
+12/26/2019 5:41:06 PM RFQ processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Quote processing started.
+12/26/2019 5:41:06 PM No Quote files found to process.
+12/26/2019 5:41:06 PM Quote processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM RFQ processing started.
+12/26/2019 5:41:06 PM No file found.
+12/26/2019 5:41:06 PM RFQ processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Purchase Order processing started.
+12/26/2019 5:41:06 PM Purchase Order processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Quote processing started.
+12/26/2019 5:41:06 PM No Quote files found to process.
+12/26/2019 5:41:06 PM Quote processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM POC processing started.
+12/26/2019 5:41:06 PM No POC files found to process.
+12/26/2019 5:41:06 PM POC processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM RFQ processing started.
+12/26/2019 5:41:06 PM No file found.
+12/26/2019 5:41:06 PM RFQ processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Purchase Order processing started.
+12/26/2019 5:41:06 PM Purchase Order processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Quote processing started.
+12/26/2019 5:41:06 PM No Quote files found to process.
+12/26/2019 5:41:06 PM Quote processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM POC processing started.
+12/26/2019 5:41:06 PM No POC files found to process.
+12/26/2019 5:41:06 PM POC processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Quote processing started.
+12/26/2019 5:41:06 PM No Quote files found to process.
+12/26/2019 5:41:06 PM Quote processing stopped.
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:41:06 PM 
+12/26/2019 5:41:06 PM Quote processing started.
+12/26/2019 5:41:06 PM No Quote files found to process.
+12/26/2019 5:41:06 PM Quote processing stopped.
+12/26/2019 5:41:06 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:41:06 PM ====================================================
+12/26/2019 5:47:02 PM 12/26/2019 5:47:00 PM
+12/26/2019 5:47:02 PM ================12/26/2019 5:47:02 PM================
+12/26/2019 5:47:02 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM RFQ processing started.
+12/26/2019 5:47:02 PM No file found.
+12/26/2019 5:47:02 PM RFQ processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Quote processing started.
+12/26/2019 5:47:02 PM No Quote files found to process.
+12/26/2019 5:47:02 PM Quote processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM RFQ processing started.
+12/26/2019 5:47:02 PM No file found.
+12/26/2019 5:47:02 PM RFQ processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Quote processing started.
+12/26/2019 5:47:02 PM No Quote files found to process.
+12/26/2019 5:47:02 PM Quote processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM RFQ processing started.
+12/26/2019 5:47:02 PM No file found.
+12/26/2019 5:47:02 PM RFQ processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Purchase Order processing started.
+12/26/2019 5:47:02 PM Purchase Order processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Quote processing started.
+12/26/2019 5:47:02 PM No Quote files found to process.
+12/26/2019 5:47:02 PM Quote processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM POC processing started.
+12/26/2019 5:47:02 PM No POC files found to process.
+12/26/2019 5:47:02 PM POC processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM RFQ processing started.
+12/26/2019 5:47:02 PM No file found.
+12/26/2019 5:47:02 PM RFQ processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Purchase Order processing started.
+12/26/2019 5:47:02 PM Purchase Order processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Quote processing started.
+12/26/2019 5:47:02 PM No Quote files found to process.
+12/26/2019 5:47:02 PM Quote processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM POC processing started.
+12/26/2019 5:47:02 PM No POC files found to process.
+12/26/2019 5:47:02 PM POC processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Quote processing started.
+12/26/2019 5:47:02 PM No Quote files found to process.
+12/26/2019 5:47:02 PM Quote processing stopped.
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:47:02 PM 
+12/26/2019 5:47:02 PM Quote processing started.
+12/26/2019 5:47:02 PM No Quote files found to process.
+12/26/2019 5:47:02 PM Quote processing stopped.
+12/26/2019 5:47:02 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:47:02 PM ====================================================
+12/26/2019 5:51:06 PM 12/26/2019 5:51:04 PM
+12/26/2019 5:51:06 PM ================12/26/2019 5:51:06 PM================
+12/26/2019 5:51:06 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM RFQ processing started.
+12/26/2019 5:51:06 PM No file found.
+12/26/2019 5:51:06 PM RFQ processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Quote processing started.
+12/26/2019 5:51:06 PM No Quote files found to process.
+12/26/2019 5:51:06 PM Quote processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM RFQ processing started.
+12/26/2019 5:51:06 PM No file found.
+12/26/2019 5:51:06 PM RFQ processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Quote processing started.
+12/26/2019 5:51:06 PM No Quote files found to process.
+12/26/2019 5:51:06 PM Quote processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM RFQ processing started.
+12/26/2019 5:51:06 PM No file found.
+12/26/2019 5:51:06 PM RFQ processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Purchase Order processing started.
+12/26/2019 5:51:06 PM Purchase Order processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Quote processing started.
+12/26/2019 5:51:06 PM No Quote files found to process.
+12/26/2019 5:51:06 PM Quote processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM POC processing started.
+12/26/2019 5:51:06 PM No POC files found to process.
+12/26/2019 5:51:06 PM POC processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM RFQ processing started.
+12/26/2019 5:51:06 PM No file found.
+12/26/2019 5:51:06 PM RFQ processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Purchase Order processing started.
+12/26/2019 5:51:06 PM Purchase Order processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Quote processing started.
+12/26/2019 5:51:06 PM No Quote files found to process.
+12/26/2019 5:51:06 PM Quote processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM POC processing started.
+12/26/2019 5:51:06 PM No POC files found to process.
+12/26/2019 5:51:06 PM POC processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Quote processing started.
+12/26/2019 5:51:06 PM No Quote files found to process.
+12/26/2019 5:51:06 PM Quote processing stopped.
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:51:06 PM 
+12/26/2019 5:51:06 PM Quote processing started.
+12/26/2019 5:51:06 PM No Quote files found to process.
+12/26/2019 5:51:06 PM Quote processing stopped.
+12/26/2019 5:51:07 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:51:07 PM ====================================================
+12/26/2019 5:57:02 PM 12/26/2019 5:57:00 PM
+12/26/2019 5:57:02 PM ================12/26/2019 5:57:02 PM================
+12/26/2019 5:57:02 PM DNVGL RFQ,PO,Quote,POC processor started
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM RFQ processing started.
+12/26/2019 5:57:02 PM No file found.
+12/26/2019 5:57:02 PM RFQ processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Quote processing started.
+12/26/2019 5:57:02 PM No Quote files found to process.
+12/26/2019 5:57:02 PM Quote processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Buyer: EIMSKIP ISLAND EHF
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM RFQ processing started.
+12/26/2019 5:57:02 PM No file found.
+12/26/2019 5:57:02 PM RFQ processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Quote processing started.
+12/26/2019 5:57:02 PM No Quote files found to process.
+12/26/2019 5:57:02 PM Quote processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Buyer: Sea Consortium Pte. Ltd.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM RFQ processing started.
+12/26/2019 5:57:02 PM No file found.
+12/26/2019 5:57:02 PM RFQ processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Purchase Order processing started.
+12/26/2019 5:57:02 PM Purchase Order processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Quote processing started.
+12/26/2019 5:57:02 PM No Quote files found to process.
+12/26/2019 5:57:02 PM Quote processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM POC processing started.
+12/26/2019 5:57:02 PM No POC files found to process.
+12/26/2019 5:57:02 PM POC processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Buyer: Norbulk Shipping UK Ltd
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM RFQ processing started.
+12/26/2019 5:57:02 PM No file found.
+12/26/2019 5:57:02 PM RFQ processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Purchase Order processing started.
+12/26/2019 5:57:02 PM Purchase Order processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Quote processing started.
+12/26/2019 5:57:02 PM No Quote files found to process.
+12/26/2019 5:57:02 PM Quote processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM POC processing started.
+12/26/2019 5:57:02 PM No POC files found to process.
+12/26/2019 5:57:02 PM POC processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Buyer: Kopping Reederei GmbH & Co. KG
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Quote processing started.
+12/26/2019 5:57:02 PM No Quote files found to process.
+12/26/2019 5:57:02 PM Quote processing stopped.
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Buyer: Pacific Basin Shipping Ltd
+12/26/2019 5:57:02 PM 
+12/26/2019 5:57:02 PM Quote processing started.
+12/26/2019 5:57:02 PM No Quote files found to process.
+12/26/2019 5:57:02 PM Quote processing stopped.
+12/26/2019 5:57:02 PM DNVGL RFQ,PO,Quote,POC processor stopped.
+12/26/2019 5:57:02 PM ====================================================

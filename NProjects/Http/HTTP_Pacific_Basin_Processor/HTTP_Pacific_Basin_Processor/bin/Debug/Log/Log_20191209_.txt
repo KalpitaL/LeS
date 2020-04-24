@@ -1,0 +1,1959 @@
+12/9/2019 10:11:33 AM ================12/9/2019 10:11:33 AM================
+12/9/2019 10:11:33 AM DNVGL HTTP Processor started
+12/9/2019 10:11:36 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 10:11:36 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 10:11:36 AM V10107
+12/9/2019 10:11:36 AM SM0372_WEB
+12/9/2019 10:11:36 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 10:11:36 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:11:36 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 10:11:36 AM System.String[]
+12/9/2019 10:11:36 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 10:11:36 AM False
+12/9/2019 10:11:36 AM True
+12/9/2019 10:11:36 AM False
+12/9/2019 10:11:36 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 10:11:36 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 10:11:36 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:11:36 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:11:36 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 10:11:36 AM error path
+12/9/2019 10:11:36 AM audit path
+12/9/2019 10:11:36 AM protect-de.mimecast.com
+12/9/2019 10:11:36 AM False
+12/9/2019 10:11:36 AM 
+12/9/2019 10:11:36 AM Supplier: V10107
+12/9/2019 10:11:36 AM Process started for SM0372_WEB
+12/9/2019 10:11:37 AM 
+12/9/2019 10:11:39 AM RFQ processing started.
+12/9/2019 10:11:40 AM Reading file 191209_113839425.txt
+12/9/2019 10:11:40 AM Correct url started
+12/9/2019 10:11:40 AM                 inquiry no. <a href="https://protect-de.mimecast.com/s/IMGTC1607qs6z282SLKFfC?domain=supplierportal.dnvgl.com">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 10:11:42 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1
+12/9/2019 10:11:42 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1Correct url ended
+12/9/2019 10:12:50 AM ================12/9/2019 10:12:50 AM================
+12/9/2019 10:12:50 AM DNVGL HTTP Processor started
+12/9/2019 10:12:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 10:12:57 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 10:12:57 AM V10107
+12/9/2019 10:12:57 AM SM0372_WEB
+12/9/2019 10:12:57 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 10:12:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:12:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 10:12:57 AM System.String[]
+12/9/2019 10:12:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 10:12:57 AM False
+12/9/2019 10:12:57 AM True
+12/9/2019 10:12:57 AM False
+12/9/2019 10:12:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 10:12:57 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 10:12:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:12:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:12:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 10:12:57 AM error path
+12/9/2019 10:12:57 AM audit path
+12/9/2019 10:12:57 AM protect-de.mimecast.com
+12/9/2019 10:12:57 AM False
+12/9/2019 10:12:57 AM 
+12/9/2019 10:12:57 AM Supplier: V10107
+12/9/2019 10:12:57 AM Process started for SM0372_WEB
+12/9/2019 10:12:58 AM 
+12/9/2019 10:13:01 AM RFQ processing started.
+12/9/2019 10:13:05 AM Reading file 191209_113839425.txt
+12/9/2019 10:13:06 AM Correct url started
+12/9/2019 10:13:07 AM                 inquiry no. <a href="https://protect-de.mimecast.com/s/IMGTC1607qs6z282SLKFfC?domain=supplierportal.dnvgl.com">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 10:13:10 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1
+12/9/2019 10:13:15 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1Correct url ended
+12/9/2019 10:15:45 AM ================12/9/2019 10:15:45 AM================
+12/9/2019 10:15:45 AM DNVGL HTTP Processor started
+12/9/2019 10:15:47 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 10:15:47 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 10:15:47 AM V10107
+12/9/2019 10:15:47 AM SM0372_WEB
+12/9/2019 10:15:47 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 10:15:47 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:15:47 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 10:15:47 AM System.String[]
+12/9/2019 10:15:47 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 10:15:47 AM False
+12/9/2019 10:15:47 AM True
+12/9/2019 10:15:47 AM False
+12/9/2019 10:15:47 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 10:15:47 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 10:15:47 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:15:47 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:15:47 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 10:15:47 AM error path
+12/9/2019 10:15:47 AM audit path
+12/9/2019 10:15:47 AM protect-de.mimecast.com
+12/9/2019 10:15:47 AM False
+12/9/2019 10:15:47 AM 
+12/9/2019 10:15:47 AM Supplier: V10107
+12/9/2019 10:15:47 AM Process started for SM0372_WEB
+12/9/2019 10:15:48 AM No RFQ files found.
+12/9/2019 10:15:48 AM RFQ processing stopped.
+12/9/2019 10:15:48 AM No quote files found to process.
+12/9/2019 10:15:49 AM 
+12/9/2019 10:15:49 AM Purchase Order processing started.
+12/9/2019 10:19:08 AM Reading file 191209_122638444.txt
+12/9/2019 10:19:09 AM Correct url started
+12/9/2019 10:19:09 AM                 A new <b>Order</b> with the no. <a href="https://protect-de.mimecast.com/s/bnTFC1607qs6zWp5FLonVb?domain=supplierportal.dnvgl.com">XPUNA-2019-ST0014-O(01)</a> ,from your|57
+12/9/2019 10:19:12 AM https://supplierportal.dnvgl.com/#/BNJV6mEY4QveD70Q3gP9/2
+12/9/2019 10:19:16 AM https://supplierportal.dnvgl.com/#/BNJV6mEY4QveD70Q3gP9/2Correct url ended
+12/9/2019 10:20:28 AM ================12/9/2019 10:20:28 AM================
+12/9/2019 10:20:28 AM DNVGL HTTP Processor started
+12/9/2019 10:20:31 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 10:20:31 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 10:20:31 AM V10107
+12/9/2019 10:20:31 AM SM0372_WEB
+12/9/2019 10:20:31 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 10:20:31 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:20:31 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 10:20:31 AM System.String[]
+12/9/2019 10:20:31 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 10:20:32 AM False
+12/9/2019 10:20:32 AM True
+12/9/2019 10:20:32 AM False
+12/9/2019 10:20:32 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 10:20:32 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 10:20:32 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:20:32 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 10:20:32 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 10:20:32 AM error path
+12/9/2019 10:20:32 AM audit path
+12/9/2019 10:20:32 AM protect-de.mimecast.com
+12/9/2019 10:20:32 AM False
+12/9/2019 10:20:32 AM 
+12/9/2019 10:20:32 AM Supplier: V10107
+12/9/2019 10:20:32 AM Process started for SM0372_WEB
+12/9/2019 10:20:32 AM 
+12/9/2019 10:20:33 AM RFQ processing started.
+12/9/2019 10:20:33 AM Reading file 191209_113839425.txt
+12/9/2019 10:20:33 AM Correct url started
+12/9/2019 10:20:33 AM                 inquiry no. <a href="https://protect-de.mimecast.com/s/IMGTC1607qs6z282SLKFfC?domain=supplierportal.dnvgl.com">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 10:20:36 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1
+12/9/2019 10:20:36 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1Correct url ended
+12/9/2019 10:20:39 AM LeS-1016:Unable to load url due to The remote server returned an error: (404) Not Found.
+12/9/2019 10:20:40 AM File moved to Error folder.
+12/9/2019 10:20:40 AM RFQ processing stopped.
+12/9/2019 10:20:40 AM No quote files found to process.
+12/9/2019 11:01:41 AM ================12/9/2019 11:01:41 AM================
+12/9/2019 11:01:41 AM DNVGL HTTP Processor started
+12/9/2019 11:01:43 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:01:43 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:01:43 AM V10107
+12/9/2019 11:01:43 AM SM0372_WEB
+12/9/2019 11:01:43 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:01:43 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:01:43 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:01:43 AM System.String[]
+12/9/2019 11:01:43 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:01:43 AM False
+12/9/2019 11:01:43 AM True
+12/9/2019 11:01:43 AM False
+12/9/2019 11:01:43 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:01:43 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:01:43 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:01:43 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:01:43 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:01:43 AM error path
+12/9/2019 11:01:43 AM audit path
+12/9/2019 11:01:43 AM protect-de.mimecast.com
+12/9/2019 11:01:43 AM False
+12/9/2019 11:01:43 AM 
+12/9/2019 11:01:43 AM Supplier: V10107
+12/9/2019 11:01:43 AM Process started for SM0372_WEB
+12/9/2019 11:01:43 AM No RFQ files found.
+12/9/2019 11:01:43 AM RFQ processing stopped.
+12/9/2019 11:01:43 AM 
+12/9/2019 11:01:43 AM Quote processing started.
+12/9/2019 11:01:43 AM 1 files found to process.
+12/9/2019 11:01:45 AM Started Loading interchange object.
+12/9/2019 11:01:45 AM stopped Loading interchange object.
+12/9/2019 11:01:53 AM successfully saved input to database.
+12/9/2019 11:05:58 AM ================12/9/2019 11:05:58 AM================
+12/9/2019 11:05:58 AM DNVGL HTTP Processor started
+12/9/2019 11:06:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:06:01 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:06:01 AM V10107
+12/9/2019 11:06:01 AM SM0372_WEB
+12/9/2019 11:06:01 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:06:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:06:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:06:01 AM System.String[]
+12/9/2019 11:06:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:06:01 AM False
+12/9/2019 11:06:01 AM True
+12/9/2019 11:06:01 AM False
+12/9/2019 11:06:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:06:01 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:06:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:06:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:06:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:06:01 AM error path
+12/9/2019 11:06:01 AM audit path
+12/9/2019 11:06:01 AM protect-de.mimecast.com
+12/9/2019 11:06:01 AM False
+12/9/2019 11:06:01 AM 
+12/9/2019 11:06:01 AM Supplier: V10107
+12/9/2019 11:06:01 AM Process started for SM0372_WEB
+12/9/2019 11:06:01 AM 
+12/9/2019 11:06:03 AM RFQ processing started.
+12/9/2019 11:06:04 AM Reading file 191209_113839425.txt
+12/9/2019 11:06:04 AM Correct url started
+12/9/2019 11:06:04 AM                 inquiry no. <a href="https://protect-de.mimecast.com/s/IMGTC1607qs6z282SLKFfC?domain=supplierportal.dnvgl.com">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 11:06:11 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1
+12/9/2019 11:06:11 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1Correct url ended
+12/9/2019 11:10:15 AM ================12/9/2019 11:10:15 AM================
+12/9/2019 11:10:15 AM DNVGL HTTP Processor started
+12/9/2019 11:10:17 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:10:17 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:10:17 AM V10107
+12/9/2019 11:10:17 AM SM0372_WEB
+12/9/2019 11:10:17 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:10:17 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:10:17 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:10:17 AM System.String[]
+12/9/2019 11:10:17 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:10:17 AM False
+12/9/2019 11:10:17 AM True
+12/9/2019 11:10:17 AM False
+12/9/2019 11:10:17 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:10:17 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:10:17 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:10:17 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:10:17 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:10:17 AM error path
+12/9/2019 11:10:17 AM audit path
+12/9/2019 11:10:17 AM protect-de.mimecast.com
+12/9/2019 11:10:17 AM False
+12/9/2019 11:10:17 AM 
+12/9/2019 11:10:17 AM Supplier: V10107
+12/9/2019 11:10:17 AM Process started for SM0372_WEB
+12/9/2019 11:10:18 AM 
+12/9/2019 11:10:19 AM RFQ processing started.
+12/9/2019 11:10:19 AM Reading file 191209_113839425.txt
+12/9/2019 11:10:19 AM Correct url started
+12/9/2019 11:10:19 AM                 inquiry no. <a href="https://protect-de.mimecast.com/s/IMGTC1607qs6z282SLKFfC?domain=supplierportal.dnvgl.com">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 11:10:22 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1
+12/9/2019 11:10:22 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1Correct url ended
+12/9/2019 11:22:08 AM ================12/9/2019 11:22:08 AM================
+12/9/2019 11:22:08 AM DNVGL HTTP Processor started
+12/9/2019 11:22:13 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:22:13 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:22:13 AM V10107
+12/9/2019 11:22:13 AM SM0372_WEB
+12/9/2019 11:22:13 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:22:13 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:22:13 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:22:13 AM System.String[]
+12/9/2019 11:22:13 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:22:13 AM False
+12/9/2019 11:22:13 AM True
+12/9/2019 11:22:13 AM False
+12/9/2019 11:22:13 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:22:13 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:22:13 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:22:13 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:22:13 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:22:13 AM error path
+12/9/2019 11:22:13 AM audit path
+12/9/2019 11:22:13 AM protect-de.mimecast.com
+12/9/2019 11:22:13 AM False
+12/9/2019 11:22:13 AM 
+12/9/2019 11:22:13 AM Supplier: V10107
+12/9/2019 11:22:13 AM Process started for SM0372_WEB
+12/9/2019 11:22:14 AM 
+12/9/2019 11:22:15 AM RFQ processing started.
+12/9/2019 11:22:15 AM Reading file 191209_113839425.txt
+12/9/2019 11:22:15 AM Correct url started
+12/9/2019 11:22:15 AM                 inquiry no. <a href="https://protect-de.mimecast.com/s/IMGTC1607qs6z282SLKFfC?domain=supplierportal.dnvgl.com">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 11:22:18 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1
+12/9/2019 11:22:18 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1Correct url ended
+12/9/2019 11:24:02 AM ================12/9/2019 11:24:02 AM================
+12/9/2019 11:24:02 AM DNVGL HTTP Processor started
+12/9/2019 11:24:03 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:24:03 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:24:03 AM V10107
+12/9/2019 11:24:03 AM SM0372_WEB
+12/9/2019 11:24:03 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:24:03 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:24:03 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:24:03 AM System.String[]
+12/9/2019 11:24:03 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:24:03 AM False
+12/9/2019 11:24:03 AM True
+12/9/2019 11:24:03 AM False
+12/9/2019 11:24:03 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:24:03 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:24:03 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:24:03 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:24:03 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:24:03 AM error path
+12/9/2019 11:24:03 AM audit path
+12/9/2019 11:24:03 AM protect-de.mimecast.com
+12/9/2019 11:24:03 AM False
+12/9/2019 11:24:03 AM 
+12/9/2019 11:24:03 AM Supplier: V10107
+12/9/2019 11:24:03 AM Process started for SM0372_WEB
+12/9/2019 11:24:04 AM 
+12/9/2019 11:24:04 AM RFQ processing started.
+12/9/2019 11:24:04 AM Reading file 191209_113839425.txt
+12/9/2019 11:24:04 AM Correct url started
+12/9/2019 11:24:04 AM                 inquiry no. <a href="https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1|KWYeaRg">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 11:24:04 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1|KWYeaRg">XYAMU-2019-ST0118-B(01)</a> from your|66
+12/9/2019 11:24:04 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1|KWYeaRg"
+12/9/2019 11:24:04 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1|KWYeaRg"Correct url ended
+12/9/2019 11:25:01 AM ================12/9/2019 11:25:01 AM================
+12/9/2019 11:25:01 AM DNVGL HTTP Processor started
+12/9/2019 11:25:06 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:25:06 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:25:06 AM V10107
+12/9/2019 11:25:06 AM SM0372_WEB
+12/9/2019 11:25:06 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:25:06 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:25:06 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:25:06 AM System.String[]
+12/9/2019 11:25:06 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:25:06 AM False
+12/9/2019 11:25:06 AM True
+12/9/2019 11:25:06 AM False
+12/9/2019 11:25:06 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:25:06 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:25:06 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:25:06 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:25:06 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:25:06 AM error path
+12/9/2019 11:25:06 AM audit path
+12/9/2019 11:25:06 AM protect-de.mimecast.com
+12/9/2019 11:25:06 AM False
+12/9/2019 11:25:06 AM 
+12/9/2019 11:25:06 AM Supplier: V10107
+12/9/2019 11:25:06 AM Process started for SM0372_WEB
+12/9/2019 11:25:07 AM 
+12/9/2019 11:25:09 AM RFQ processing started.
+12/9/2019 11:25:24 AM Reading file 191209_113839425.txt
+12/9/2019 11:25:24 AM Correct url started
+12/9/2019 11:25:24 AM                 inquiry no. <a href="https://protect-de.mimecast.com/s/IMGTC1607qs6z282SLKFfC?domain=supplierportal.dnvgl.com">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 11:25:27 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1
+12/9/2019 11:25:27 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1Correct url ended
+12/9/2019 11:26:33 AM ================12/9/2019 11:26:33 AM================
+12/9/2019 11:26:33 AM DNVGL HTTP Processor started
+12/9/2019 11:26:35 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:26:35 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:26:35 AM V10107
+12/9/2019 11:26:35 AM SM0372_WEB
+12/9/2019 11:26:35 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:26:35 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:26:35 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:26:35 AM System.String[]
+12/9/2019 11:26:35 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:26:35 AM False
+12/9/2019 11:26:35 AM True
+12/9/2019 11:26:35 AM False
+12/9/2019 11:26:35 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:26:35 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:26:35 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:26:35 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:26:35 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:26:35 AM error path
+12/9/2019 11:26:35 AM audit path
+12/9/2019 11:26:35 AM protect-de.mimecast.com
+12/9/2019 11:26:35 AM False
+12/9/2019 11:26:35 AM 
+12/9/2019 11:26:35 AM Supplier: V10107
+12/9/2019 11:26:35 AM Process started for SM0372_WEB
+12/9/2019 11:26:36 AM No RFQ files found.
+12/9/2019 11:26:36 AM RFQ processing stopped.
+12/9/2019 11:26:36 AM No quote files found to process.
+12/9/2019 11:26:36 AM 
+12/9/2019 11:26:36 AM Purchase Order processing started.
+12/9/2019 11:26:39 AM Reading file 191205_143839596.txt
+12/9/2019 11:26:39 AM Correct url started
+12/9/2019 11:26:39 AM                 A new <b>Order</b> with the no. <a href="https://protect-de.mimecast.com/s/CJXYC6WDVyiP3k0nupnDfX?domain=supplierportal.dnvgl.com">XPNUP-2019-ST0061-B(01)</a> ,from your|57
+12/9/2019 11:26:47 AM https://supplierportal.dnvgl.com/#/GxQ4NqlXnQ4zD5w8a1kg/2
+12/9/2019 11:26:47 AM https://supplierportal.dnvgl.com/#/GxQ4NqlXnQ4zD5w8a1kg/2Correct url ended
+12/9/2019 11:26:50 AM PO data extracted successfully.
+12/9/2019 11:26:50 AM Start Getting PO header details.
+12/9/2019 11:26:50 AM Getting header details successfully
+12/9/2019 11:26:50 AM Start Getting PO LineItem details.
+12/9/2019 11:26:50 AM Getting LineItem details successfully
+12/9/2019 11:26:50 AM Start Getting PO Address Details.
+12/9/2019 11:26:50 AM Getting address details successfully
+12/9/2019 11:26:50 AM 191205_143839596_PO_XPNUP-2019-ST0061-B(01)_20191209112650.xml downloaded successfully.
+12/9/2019 11:26:50 AM File moved to Backup folder.
+12/9/2019 11:26:50 AM Purchase Order processing stopped.
+12/9/2019 11:26:55 AM ================12/9/2019 11:26:55 AM================
+12/9/2019 11:26:55 AM DNVGL HTTP Processor started
+12/9/2019 11:27:05 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:27:05 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:27:05 AM V10107
+12/9/2019 11:27:05 AM SM0372_WEB
+12/9/2019 11:27:05 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:27:05 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:27:05 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:27:05 AM System.String[]
+12/9/2019 11:27:05 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:27:05 AM False
+12/9/2019 11:27:05 AM True
+12/9/2019 11:27:05 AM False
+12/9/2019 11:27:05 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:27:05 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:27:05 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:27:05 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:27:05 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:27:05 AM error path
+12/9/2019 11:27:05 AM audit path
+12/9/2019 11:27:05 AM protect-de.mimecast.com
+12/9/2019 11:27:05 AM False
+12/9/2019 11:27:05 AM 
+12/9/2019 11:27:05 AM Supplier: V10107
+12/9/2019 11:27:05 AM Process started for SM0372_WEB
+12/9/2019 11:27:06 AM No RFQ files found.
+12/9/2019 11:27:06 AM RFQ processing stopped.
+12/9/2019 11:27:06 AM No quote files found to process.
+12/9/2019 11:27:13 AM 
+12/9/2019 11:27:13 AM Purchase Order processing started.
+12/9/2019 11:27:15 AM Reading file 191205_143839596.txt
+12/9/2019 11:27:15 AM Correct url started
+12/9/2019 11:27:15 AM                 A new <b>Order</b> with the no. <a href="https://protect-de.mimecast.com/s/CJXYC6WDVyiP3k0nupnDfX?domain=supplierportal.dnvgl.com">XPNUP-2019-ST0061-B(01)</a> ,from your|57
+12/9/2019 11:27:19 AM https://supplierportal.dnvgl.com/#/GxQ4NqlXnQ4zD5w8a1kg/2
+12/9/2019 11:27:19 AM https://supplierportal.dnvgl.com/#/GxQ4NqlXnQ4zD5w8a1kg/2Correct url ended
+12/9/2019 11:27:58 AM ================12/9/2019 11:27:58 AM================
+12/9/2019 11:27:58 AM DNVGL HTTP Processor started
+12/9/2019 11:28:09 AM ================12/9/2019 11:28:09 AM================
+12/9/2019 11:28:09 AM DNVGL HTTP Processor started
+12/9/2019 11:28:38 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:28:38 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:28:38 AM V10107
+12/9/2019 11:28:38 AM SM0372_WEB
+12/9/2019 11:28:38 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:28:38 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:28:38 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:28:38 AM System.String[]
+12/9/2019 11:28:38 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:28:38 AM False
+12/9/2019 11:28:38 AM True
+12/9/2019 11:28:38 AM False
+12/9/2019 11:28:38 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:28:38 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:28:38 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:28:38 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:28:38 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:28:38 AM error path
+12/9/2019 11:28:38 AM audit path
+12/9/2019 11:28:38 AM protect-de.mimecast.com
+12/9/2019 11:28:38 AM False
+12/9/2019 11:28:38 AM 
+12/9/2019 11:28:38 AM Supplier: V10107
+12/9/2019 11:28:38 AM Process started for SM0372_WEB
+12/9/2019 11:28:39 AM 
+12/9/2019 11:28:39 AM RFQ processing started.
+12/9/2019 11:28:39 AM Reading file 191209_113839425.txt
+12/9/2019 11:28:39 AM Correct url started
+12/9/2019 11:28:40 AM                 inquiry no. <a href="https://protect-de.mimecast.com/s/IMGTC1607qs6z282SLKFfC?domain=supplierportal.dnvgl.com">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 11:28:43 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1
+12/9/2019 11:28:43 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1Correct url ended
+12/9/2019 11:28:53 AM LeS-1016:Unable to load url due to The remote server returned an error: (404) Not Found.
+12/9/2019 11:28:54 AM File moved to Error folder.
+12/9/2019 11:28:54 AM RFQ processing stopped.
+12/9/2019 11:28:54 AM No quote files found to process.
+12/9/2019 11:28:56 AM 
+12/9/2019 11:28:56 AM Purchase Order processing started.
+12/9/2019 11:28:56 AM No PO files found.
+12/9/2019 11:28:56 AM Purchase Order processing stopped.
+12/9/2019 11:28:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:28:57 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:28:57 AM V10107
+12/9/2019 11:28:57 AM SM0695_WEB
+12/9/2019 11:28:57 AM EIMSKIP ISLAND EHF
+12/9/2019 11:28:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:28:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 11:28:57 AM System.String[]
+12/9/2019 11:28:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0695_WEB
+12/9/2019 11:28:57 AM True
+12/9/2019 11:28:57 AM True
+12/9/2019 11:28:57 AM False
+12/9/2019 11:28:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:28:57 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:28:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:28:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:28:57 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 11:28:57 AM error path
+12/9/2019 11:28:57 AM audit path
+12/9/2019 11:28:57 AM protect-de.mimecast.com
+12/9/2019 11:28:57 AM False
+12/9/2019 11:28:57 AM 
+12/9/2019 11:28:57 AM Supplier: V10107
+12/9/2019 11:28:57 AM Process started for SM0695_WEB
+12/9/2019 11:28:57 AM No RFQ files found.
+12/9/2019 11:28:57 AM RFQ processing stopped.
+12/9/2019 11:28:57 AM No quote files found to process.
+12/9/2019 11:28:58 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:28:58 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:28:58 AM V10001
+12/9/2019 11:28:58 AM SM0668_WEB
+12/9/2019 11:28:58 AM Sea Consortium Pte. Ltd.
+12/9/2019 11:28:58 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:28:58 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 11:28:58 AM System.String[]
+12/9/2019 11:28:58 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0668_WEB
+12/9/2019 11:28:58 AM False
+12/9/2019 11:28:58 AM True
+12/9/2019 11:28:58 AM False
+12/9/2019 11:28:58 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:28:58 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:28:58 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:28:58 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:28:58 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 11:28:58 AM error path
+12/9/2019 11:28:58 AM audit path
+12/9/2019 11:28:58 AM protect-de.mimecast.com
+12/9/2019 11:28:58 AM False
+12/9/2019 11:28:58 AM 
+12/9/2019 11:28:58 AM Supplier: V10001
+12/9/2019 11:28:58 AM Process started for SM0668_WEB
+12/9/2019 11:28:58 AM No RFQ files found.
+12/9/2019 11:28:58 AM RFQ processing stopped.
+12/9/2019 11:28:59 AM 
+12/9/2019 11:28:59 AM Purchase Order processing started.
+12/9/2019 11:29:59 AM ================12/9/2019 11:29:59 AM================
+12/9/2019 11:29:59 AM DNVGL HTTP Processor started
+12/9/2019 11:30:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:30:01 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:30:01 AM V10107
+12/9/2019 11:30:01 AM SM0372_WEB
+12/9/2019 11:30:01 AM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 11:30:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:30:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:30:01 AM System.String[]
+12/9/2019 11:30:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 11:30:01 AM False
+12/9/2019 11:30:01 AM True
+12/9/2019 11:30:01 AM False
+12/9/2019 11:30:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 11:30:01 AM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 11:30:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:30:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 11:30:01 AM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 11:30:01 AM error path
+12/9/2019 11:30:01 AM audit path
+12/9/2019 11:30:01 AM protect-de.mimecast.com
+12/9/2019 11:30:01 AM False
+12/9/2019 11:30:01 AM 
+12/9/2019 11:30:01 AM Supplier: V10107
+12/9/2019 11:30:01 AM Process started for SM0372_WEB
+12/9/2019 11:30:02 AM 
+12/9/2019 11:30:04 AM RFQ processing started.
+12/9/2019 11:30:05 AM Reading file 191209_113839425.txt
+12/9/2019 11:30:05 AM Correct url started
+12/9/2019 11:30:05 AM                 inquiry no. <a href="https://protect-de.mimecast.com/s/IMGTC1607qs6z282SLKFfC?domain=supplierportal.dnvgl.com">XYAMU-2019-ST0118-B(01)</a> from your|37
+12/9/2019 11:30:08 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1
+12/9/2019 11:30:08 AM https://supplierportal.dnvgl.com/#/8lWOzNAd3BAmwXr4oPbM/1Correct url ended
+12/9/2019 2:20:43 PM ================12/9/2019 2:20:43 PM================
+12/9/2019 2:20:43 PM DNVGL HTTP Processor started
+12/9/2019 2:20:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:20:51 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:20:51 PM V10107
+12/9/2019 2:20:51 PM SM0372_WEB
+12/9/2019 2:20:51 PM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 2:20:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:20:51 PM System.String[]
+12/9/2019 2:20:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 2:20:51 PM False
+12/9/2019 2:20:51 PM True
+12/9/2019 2:20:51 PM False
+12/9/2019 2:20:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:20:51 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:20:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:20:51 PM error path
+12/9/2019 2:20:51 PM audit path
+12/9/2019 2:20:51 PM protect-de.mimecast.com
+12/9/2019 2:20:51 PM False
+12/9/2019 2:20:51 PM 
+12/9/2019 2:20:51 PM Supplier: V10107
+12/9/2019 2:20:51 PM Process started for SM0372_WEB
+12/9/2019 2:20:51 PM No RFQ files found.
+12/9/2019 2:20:51 PM RFQ processing stopped.
+12/9/2019 2:20:51 PM No quote files found to process.
+12/9/2019 2:20:51 PM 
+12/9/2019 2:20:51 PM Purchase Order processing started.
+12/9/2019 2:20:52 PM No PO files found.
+12/9/2019 2:20:52 PM Purchase Order processing stopped.
+12/9/2019 2:20:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:20:52 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:20:52 PM V10107
+12/9/2019 2:20:52 PM SM0695_WEB
+12/9/2019 2:20:52 PM EIMSKIP ISLAND EHF
+12/9/2019 2:20:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:20:52 PM System.String[]
+12/9/2019 2:20:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0695_WEB
+12/9/2019 2:20:52 PM True
+12/9/2019 2:20:52 PM True
+12/9/2019 2:20:53 PM False
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:20:53 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:20:53 PM error path
+12/9/2019 2:20:53 PM audit path
+12/9/2019 2:20:53 PM protect-de.mimecast.com
+12/9/2019 2:20:53 PM False
+12/9/2019 2:20:53 PM 
+12/9/2019 2:20:53 PM Supplier: V10107
+12/9/2019 2:20:53 PM Process started for SM0695_WEB
+12/9/2019 2:20:53 PM No RFQ files found.
+12/9/2019 2:20:53 PM RFQ processing stopped.
+12/9/2019 2:20:53 PM No quote files found to process.
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:20:53 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:20:53 PM V10001
+12/9/2019 2:20:53 PM SM0668_WEB
+12/9/2019 2:20:53 PM Sea Consortium Pte. Ltd.
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:20:53 PM System.String[]
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0668_WEB
+12/9/2019 2:20:53 PM False
+12/9/2019 2:20:53 PM True
+12/9/2019 2:20:53 PM False
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:20:53 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:53 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:20:53 PM error path
+12/9/2019 2:20:53 PM audit path
+12/9/2019 2:20:53 PM protect-de.mimecast.com
+12/9/2019 2:20:53 PM False
+12/9/2019 2:20:53 PM 
+12/9/2019 2:20:53 PM Supplier: V10001
+12/9/2019 2:20:53 PM Process started for SM0668_WEB
+12/9/2019 2:20:53 PM No RFQ files found.
+12/9/2019 2:20:53 PM RFQ processing stopped.
+12/9/2019 2:20:57 PM 
+12/9/2019 2:20:57 PM Purchase Order processing started.
+12/9/2019 2:20:57 PM No PO files found.
+12/9/2019 2:20:57 PM Purchase Order processing stopped.
+12/9/2019 2:20:57 PM No quote files found to process.
+12/9/2019 2:20:57 PM 
+12/9/2019 2:20:57 PM POC processing started.
+12/9/2019 2:20:57 PM No POC files found.
+12/9/2019 2:20:57 PM POC processing stopped.
+12/9/2019 2:20:57 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:20:57 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:20:57 PM V10001
+12/9/2019 2:20:57 PM SM0711_WEB
+12/9/2019 2:20:57 PM Norbulk Shipping UK Ltd
+12/9/2019 2:20:57 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:57 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:20:58 PM System.String[]
+12/9/2019 2:20:58 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0711_WEB
+12/9/2019 2:20:58 PM False
+12/9/2019 2:20:58 PM True
+12/9/2019 2:20:58 PM False
+12/9/2019 2:20:58 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:20:58 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:20:58 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:58 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:20:58 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:20:58 PM error path
+12/9/2019 2:20:58 PM audit path
+12/9/2019 2:20:58 PM protect-de.mimecast.com
+12/9/2019 2:20:58 PM False
+12/9/2019 2:20:58 PM 
+12/9/2019 2:20:58 PM Supplier: V10001
+12/9/2019 2:20:58 PM Process started for SM0711_WEB
+12/9/2019 2:20:58 PM No RFQ files found.
+12/9/2019 2:20:58 PM RFQ processing stopped.
+12/9/2019 2:20:58 PM 
+12/9/2019 2:20:58 PM Purchase Order processing started.
+12/9/2019 2:20:58 PM No PO files found.
+12/9/2019 2:20:58 PM Purchase Order processing stopped.
+12/9/2019 2:20:58 PM No quote files found to process.
+12/9/2019 2:20:58 PM 
+12/9/2019 2:20:58 PM POC processing started.
+12/9/2019 2:20:58 PM No POC files found.
+12/9/2019 2:20:58 PM POC processing stopped.
+12/9/2019 2:20:58 PM DNVGL HTTP Processor stopped
+12/9/2019 2:20:58 PM ====================================================
+12/9/2019 2:22:46 PM ================12/9/2019 2:22:46 PM================
+12/9/2019 2:22:46 PM DNVGL HTTP Processor started
+12/9/2019 2:22:46 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:22:46 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:22:46 PM V10107
+12/9/2019 2:22:46 PM SM0372_WEB
+12/9/2019 2:22:46 PM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 2:22:46 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:46 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:22:46 PM System.String[]
+12/9/2019 2:22:46 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 2:22:46 PM False
+12/9/2019 2:22:46 PM True
+12/9/2019 2:22:46 PM False
+12/9/2019 2:22:46 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:22:46 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:22:46 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:46 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:46 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:22:46 PM error path
+12/9/2019 2:22:46 PM audit path
+12/9/2019 2:22:46 PM protect-de.mimecast.com
+12/9/2019 2:22:46 PM False
+12/9/2019 2:22:46 PM 
+12/9/2019 2:22:46 PM Supplier: V10107
+12/9/2019 2:22:46 PM Process started for SM0372_WEB
+12/9/2019 2:22:46 PM No RFQ files found.
+12/9/2019 2:22:46 PM RFQ processing stopped.
+12/9/2019 2:22:46 PM 
+12/9/2019 2:22:46 PM Quote processing started.
+12/9/2019 2:22:46 PM 11 files found to process.
+12/9/2019 2:22:46 PM Started Loading interchange object.
+12/9/2019 2:22:46 PM stopped Loading interchange object.
+12/9/2019 2:22:49 PM successfully saved input to database.
+12/9/2019 2:22:49 PM Started Loading interchange object.
+12/9/2019 2:22:49 PM stopped Loading interchange object.
+12/9/2019 2:22:49 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:49 PM Started Loading interchange object.
+12/9/2019 2:22:49 PM stopped Loading interchange object.
+12/9/2019 2:22:50 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:50 PM Started Loading interchange object.
+12/9/2019 2:22:50 PM stopped Loading interchange object.
+12/9/2019 2:22:50 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:50 PM Started Loading interchange object.
+12/9/2019 2:22:50 PM stopped Loading interchange object.
+12/9/2019 2:22:50 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:50 PM Started Loading interchange object.
+12/9/2019 2:22:50 PM stopped Loading interchange object.
+12/9/2019 2:22:50 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:50 PM Started Loading interchange object.
+12/9/2019 2:22:50 PM stopped Loading interchange object.
+12/9/2019 2:22:50 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:50 PM Started Loading interchange object.
+12/9/2019 2:22:50 PM stopped Loading interchange object.
+12/9/2019 2:22:50 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:50 PM Started Loading interchange object.
+12/9/2019 2:22:50 PM stopped Loading interchange object.
+12/9/2019 2:22:51 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:51 PM Started Loading interchange object.
+12/9/2019 2:22:51 PM stopped Loading interchange object.
+12/9/2019 2:22:51 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:51 PM Started Loading interchange object.
+12/9/2019 2:22:51 PM stopped Loading interchange object.
+12/9/2019 2:22:51 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:22:51 PM 
+12/9/2019 2:22:51 PM Purchase Order processing started.
+12/9/2019 2:22:51 PM No PO files found.
+12/9/2019 2:22:51 PM Purchase Order processing stopped.
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:22:51 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:22:51 PM V10107
+12/9/2019 2:22:51 PM SM0695_WEB
+12/9/2019 2:22:51 PM EIMSKIP ISLAND EHF
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:22:51 PM System.String[]
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0695_WEB
+12/9/2019 2:22:51 PM True
+12/9/2019 2:22:51 PM True
+12/9/2019 2:22:51 PM False
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:22:51 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:22:51 PM error path
+12/9/2019 2:22:51 PM audit path
+12/9/2019 2:22:51 PM protect-de.mimecast.com
+12/9/2019 2:22:51 PM False
+12/9/2019 2:22:51 PM 
+12/9/2019 2:22:51 PM Supplier: V10107
+12/9/2019 2:22:51 PM Process started for SM0695_WEB
+12/9/2019 2:22:51 PM No RFQ files found.
+12/9/2019 2:22:51 PM RFQ processing stopped.
+12/9/2019 2:22:51 PM No quote files found to process.
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:22:51 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:22:51 PM V10001
+12/9/2019 2:22:51 PM SM0668_WEB
+12/9/2019 2:22:51 PM Sea Consortium Pte. Ltd.
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:22:51 PM System.String[]
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0668_WEB
+12/9/2019 2:22:51 PM False
+12/9/2019 2:22:51 PM True
+12/9/2019 2:22:51 PM False
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:22:51 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:51 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:22:51 PM error path
+12/9/2019 2:22:51 PM audit path
+12/9/2019 2:22:51 PM protect-de.mimecast.com
+12/9/2019 2:22:51 PM False
+12/9/2019 2:22:51 PM 
+12/9/2019 2:22:51 PM Supplier: V10001
+12/9/2019 2:22:51 PM Process started for SM0668_WEB
+12/9/2019 2:22:51 PM No RFQ files found.
+12/9/2019 2:22:51 PM RFQ processing stopped.
+12/9/2019 2:22:51 PM 
+12/9/2019 2:22:51 PM Purchase Order processing started.
+12/9/2019 2:22:52 PM No PO files found.
+12/9/2019 2:22:52 PM Purchase Order processing stopped.
+12/9/2019 2:22:52 PM No quote files found to process.
+12/9/2019 2:22:52 PM 
+12/9/2019 2:22:52 PM POC processing started.
+12/9/2019 2:22:52 PM No POC files found.
+12/9/2019 2:22:52 PM POC processing stopped.
+12/9/2019 2:22:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:22:52 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:22:52 PM V10001
+12/9/2019 2:22:52 PM SM0711_WEB
+12/9/2019 2:22:52 PM Norbulk Shipping UK Ltd
+12/9/2019 2:22:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:22:52 PM System.String[]
+12/9/2019 2:22:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0711_WEB
+12/9/2019 2:22:52 PM False
+12/9/2019 2:22:52 PM True
+12/9/2019 2:22:52 PM False
+12/9/2019 2:22:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:22:52 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:22:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:22:52 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:22:52 PM error path
+12/9/2019 2:22:52 PM audit path
+12/9/2019 2:22:52 PM protect-de.mimecast.com
+12/9/2019 2:22:52 PM False
+12/9/2019 2:22:52 PM 
+12/9/2019 2:22:52 PM Supplier: V10001
+12/9/2019 2:22:52 PM Process started for SM0711_WEB
+12/9/2019 2:22:52 PM No RFQ files found.
+12/9/2019 2:22:52 PM RFQ processing stopped.
+12/9/2019 2:22:52 PM 
+12/9/2019 2:22:52 PM Purchase Order processing started.
+12/9/2019 2:22:52 PM No PO files found.
+12/9/2019 2:22:52 PM Purchase Order processing stopped.
+12/9/2019 2:22:52 PM No quote files found to process.
+12/9/2019 2:22:52 PM 
+12/9/2019 2:22:52 PM POC processing started.
+12/9/2019 2:22:52 PM No POC files found.
+12/9/2019 2:22:52 PM POC processing stopped.
+12/9/2019 2:22:52 PM DNVGL HTTP Processor stopped
+12/9/2019 2:22:52 PM ====================================================
+12/9/2019 2:25:55 PM ================12/9/2019 2:25:55 PM================
+12/9/2019 2:25:55 PM DNVGL HTTP Processor started
+12/9/2019 2:25:55 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:25:55 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:25:55 PM V10107
+12/9/2019 2:25:55 PM SM0372_WEB
+12/9/2019 2:25:55 PM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 2:25:55 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:25:55 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:25:55 PM System.String[]
+12/9/2019 2:25:55 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 2:25:55 PM False
+12/9/2019 2:25:55 PM True
+12/9/2019 2:25:55 PM False
+12/9/2019 2:25:55 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:25:55 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:25:55 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:25:55 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:25:55 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:25:55 PM error path
+12/9/2019 2:25:55 PM audit path
+12/9/2019 2:25:55 PM protect-de.mimecast.com
+12/9/2019 2:25:55 PM False
+12/9/2019 2:25:55 PM 
+12/9/2019 2:25:55 PM Supplier: V10107
+12/9/2019 2:25:55 PM Process started for SM0372_WEB
+12/9/2019 2:25:55 PM No RFQ files found.
+12/9/2019 2:25:55 PM RFQ processing stopped.
+12/9/2019 2:25:59 PM 
+12/9/2019 2:25:59 PM Quote processing started.
+12/9/2019 2:26:01 PM 10 files found to process.
+12/9/2019 2:26:01 PM Started Loading interchange object.
+12/9/2019 2:26:01 PM stopped Loading interchange object.
+12/9/2019 2:26:13 PM successfully saved input to database.
+12/9/2019 2:26:15 PM Started Loading interchange object.
+12/9/2019 2:26:15 PM stopped Loading interchange object.
+12/9/2019 2:26:16 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:26:16 PM Started Loading interchange object.
+12/9/2019 2:26:16 PM stopped Loading interchange object.
+12/9/2019 2:26:18 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:26:18 PM Started Loading interchange object.
+12/9/2019 2:26:18 PM stopped Loading interchange object.
+12/9/2019 2:26:18 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:26:18 PM Started Loading interchange object.
+12/9/2019 2:26:18 PM stopped Loading interchange object.
+12/9/2019 2:26:18 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:26:18 PM Started Loading interchange object.
+12/9/2019 2:26:19 PM stopped Loading interchange object.
+12/9/2019 2:26:19 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:26:19 PM Started Loading interchange object.
+12/9/2019 2:26:19 PM stopped Loading interchange object.
+12/9/2019 2:26:19 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:26:19 PM Started Loading interchange object.
+12/9/2019 2:26:19 PM stopped Loading interchange object.
+12/9/2019 2:26:19 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:26:19 PM Started Loading interchange object.
+12/9/2019 2:26:19 PM stopped Loading interchange object.
+12/9/2019 2:26:19 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:26:19 PM Started Loading interchange object.
+12/9/2019 2:26:19 PM stopped Loading interchange object.
+12/9/2019 2:26:20 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:26:20 PM 
+12/9/2019 2:26:20 PM Purchase Order processing started.
+12/9/2019 2:26:20 PM No PO files found.
+12/9/2019 2:26:20 PM Purchase Order processing stopped.
+12/9/2019 2:26:20 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:26:20 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:26:20 PM V10107
+12/9/2019 2:26:20 PM SM0695_WEB
+12/9/2019 2:26:20 PM EIMSKIP ISLAND EHF
+12/9/2019 2:26:20 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:26:20 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:26:20 PM System.String[]
+12/9/2019 2:26:20 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0695_WEB
+12/9/2019 2:26:20 PM True
+12/9/2019 2:26:20 PM True
+12/9/2019 2:26:20 PM False
+12/9/2019 2:26:20 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:26:20 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:26:20 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:26:20 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:26:20 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:26:20 PM error path
+12/9/2019 2:26:20 PM audit path
+12/9/2019 2:26:20 PM protect-de.mimecast.com
+12/9/2019 2:26:20 PM False
+12/9/2019 2:26:20 PM 
+12/9/2019 2:26:20 PM Supplier: V10107
+12/9/2019 2:26:20 PM Process started for SM0695_WEB
+12/9/2019 2:26:20 PM No RFQ files found.
+12/9/2019 2:26:20 PM RFQ processing stopped.
+12/9/2019 2:27:25 PM No quote files found to process.
+12/9/2019 2:27:25 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:27:25 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:27:25 PM V10001
+12/9/2019 2:27:25 PM SM0668_WEB
+12/9/2019 2:27:25 PM Sea Consortium Pte. Ltd.
+12/9/2019 2:27:25 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:27:25 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:27:25 PM System.String[]
+12/9/2019 2:27:25 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0668_WEB
+12/9/2019 2:27:25 PM False
+12/9/2019 2:27:25 PM True
+12/9/2019 2:27:25 PM False
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:27:26 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:27:26 PM error path
+12/9/2019 2:27:26 PM audit path
+12/9/2019 2:27:26 PM protect-de.mimecast.com
+12/9/2019 2:27:26 PM False
+12/9/2019 2:27:26 PM 
+12/9/2019 2:27:26 PM Supplier: V10001
+12/9/2019 2:27:26 PM Process started for SM0668_WEB
+12/9/2019 2:27:26 PM No RFQ files found.
+12/9/2019 2:27:26 PM RFQ processing stopped.
+12/9/2019 2:27:26 PM 
+12/9/2019 2:27:26 PM Purchase Order processing started.
+12/9/2019 2:27:26 PM No PO files found.
+12/9/2019 2:27:26 PM Purchase Order processing stopped.
+12/9/2019 2:27:26 PM No quote files found to process.
+12/9/2019 2:27:26 PM 
+12/9/2019 2:27:26 PM POC processing started.
+12/9/2019 2:27:26 PM No POC files found.
+12/9/2019 2:27:26 PM POC processing stopped.
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:27:26 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:27:26 PM V10001
+12/9/2019 2:27:26 PM SM0711_WEB
+12/9/2019 2:27:26 PM Norbulk Shipping UK Ltd
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:27:26 PM System.String[]
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0711_WEB
+12/9/2019 2:27:26 PM False
+12/9/2019 2:27:26 PM True
+12/9/2019 2:27:26 PM False
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:27:26 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:27:26 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:27:26 PM error path
+12/9/2019 2:27:26 PM audit path
+12/9/2019 2:27:26 PM protect-de.mimecast.com
+12/9/2019 2:27:26 PM False
+12/9/2019 2:27:26 PM 
+12/9/2019 2:27:26 PM Supplier: V10001
+12/9/2019 2:27:26 PM Process started for SM0711_WEB
+12/9/2019 2:27:26 PM No RFQ files found.
+12/9/2019 2:27:26 PM RFQ processing stopped.
+12/9/2019 2:27:26 PM 
+12/9/2019 2:27:26 PM Purchase Order processing started.
+12/9/2019 2:27:27 PM No PO files found.
+12/9/2019 2:27:27 PM Purchase Order processing stopped.
+12/9/2019 2:27:27 PM No quote files found to process.
+12/9/2019 2:27:27 PM 
+12/9/2019 2:27:27 PM POC processing started.
+12/9/2019 2:27:27 PM No POC files found.
+12/9/2019 2:27:27 PM POC processing stopped.
+12/9/2019 2:27:27 PM DNVGL HTTP Processor stopped
+12/9/2019 2:27:27 PM ====================================================
+12/9/2019 2:28:10 PM ================12/9/2019 2:28:10 PM================
+12/9/2019 2:28:10 PM DNVGL HTTP Processor started
+12/9/2019 2:28:10 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:28:10 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:28:10 PM V10107
+12/9/2019 2:28:10 PM SM0372_WEB
+12/9/2019 2:28:10 PM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 2:28:10 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:28:10 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:28:10 PM System.String[]
+12/9/2019 2:28:10 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 2:28:10 PM False
+12/9/2019 2:28:10 PM True
+12/9/2019 2:28:10 PM False
+12/9/2019 2:28:10 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:28:10 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:28:10 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:28:10 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:28:10 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:28:10 PM error path
+12/9/2019 2:28:10 PM audit path
+12/9/2019 2:28:10 PM protect-de.mimecast.com
+12/9/2019 2:28:10 PM False
+12/9/2019 2:28:11 PM 
+12/9/2019 2:28:11 PM Supplier: V10107
+12/9/2019 2:28:11 PM Process started for SM0372_WEB
+12/9/2019 2:28:11 PM No RFQ files found.
+12/9/2019 2:28:11 PM RFQ processing stopped.
+12/9/2019 2:28:12 PM 
+12/9/2019 2:28:12 PM Quote processing started.
+12/9/2019 2:28:12 PM 1 files found to process.
+12/9/2019 2:28:12 PM Started Loading interchange object.
+12/9/2019 2:28:12 PM stopped Loading interchange object.
+12/9/2019 2:31:12 PM ================12/9/2019 2:31:12 PM================
+12/9/2019 2:31:12 PM DNVGL HTTP Processor started
+12/9/2019 2:31:12 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:31:12 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:31:12 PM V10107
+12/9/2019 2:31:12 PM SM0372_WEB
+12/9/2019 2:31:12 PM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 2:31:12 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:31:13 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:31:13 PM System.String[]
+12/9/2019 2:31:13 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 2:31:13 PM False
+12/9/2019 2:31:13 PM True
+12/9/2019 2:31:13 PM False
+12/9/2019 2:31:13 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:31:13 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:31:13 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:31:13 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:31:13 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:31:13 PM error path
+12/9/2019 2:31:13 PM audit path
+12/9/2019 2:31:13 PM protect-de.mimecast.com
+12/9/2019 2:31:13 PM False
+12/9/2019 2:31:13 PM 
+12/9/2019 2:31:13 PM Supplier: V10107
+12/9/2019 2:31:13 PM Process started for SM0372_WEB
+12/9/2019 2:31:13 PM No RFQ files found.
+12/9/2019 2:31:13 PM RFQ processing stopped.
+12/9/2019 2:31:13 PM 
+12/9/2019 2:31:13 PM Quote processing started.
+12/9/2019 2:31:13 PM 1 files found to process.
+12/9/2019 2:31:13 PM Started Loading interchange object.
+12/9/2019 2:31:13 PM stopped Loading interchange object.
+12/9/2019 2:32:06 PM successfully saved input to database.
+12/9/2019 2:32:06 PM 
+12/9/2019 2:32:06 PM Purchase Order processing started.
+12/9/2019 2:32:06 PM No PO files found.
+12/9/2019 2:32:06 PM Purchase Order processing stopped.
+12/9/2019 2:32:06 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:32:06 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:32:06 PM V10107
+12/9/2019 2:32:06 PM SM0695_WEB
+12/9/2019 2:32:06 PM EIMSKIP ISLAND EHF
+12/9/2019 2:32:06 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:32:06 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:32:06 PM System.String[]
+12/9/2019 2:32:06 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0695_WEB
+12/9/2019 2:32:06 PM True
+12/9/2019 2:32:06 PM True
+12/9/2019 2:32:06 PM False
+12/9/2019 2:32:06 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:32:06 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:32:06 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:32:06 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:32:06 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:32:06 PM error path
+12/9/2019 2:32:06 PM audit path
+12/9/2019 2:32:06 PM protect-de.mimecast.com
+12/9/2019 2:32:06 PM False
+12/9/2019 2:32:06 PM 
+12/9/2019 2:32:06 PM Supplier: V10107
+12/9/2019 2:32:06 PM Process started for SM0695_WEB
+12/9/2019 2:32:06 PM No RFQ files found.
+12/9/2019 2:32:06 PM RFQ processing stopped.
+12/9/2019 2:32:07 PM No quote files found to process.
+12/9/2019 2:32:07 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:32:07 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:32:07 PM V10001
+12/9/2019 2:32:07 PM SM0668_WEB
+12/9/2019 2:32:07 PM Sea Consortium Pte. Ltd.
+12/9/2019 2:32:07 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:32:07 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:32:07 PM System.String[]
+12/9/2019 2:32:07 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0668_WEB
+12/9/2019 2:32:07 PM False
+12/9/2019 2:32:07 PM True
+12/9/2019 2:32:07 PM False
+12/9/2019 2:32:07 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:32:07 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:32:07 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:32:07 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:32:07 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:32:07 PM error path
+12/9/2019 2:32:07 PM audit path
+12/9/2019 2:32:07 PM protect-de.mimecast.com
+12/9/2019 2:32:07 PM False
+12/9/2019 2:32:07 PM 
+12/9/2019 2:32:07 PM Supplier: V10001
+12/9/2019 2:32:07 PM Process started for SM0668_WEB
+12/9/2019 2:32:07 PM No RFQ files found.
+12/9/2019 2:32:07 PM RFQ processing stopped.
+12/9/2019 2:32:07 PM 
+12/9/2019 2:32:07 PM Purchase Order processing started.
+12/9/2019 2:32:07 PM No PO files found.
+12/9/2019 2:32:07 PM Purchase Order processing stopped.
+12/9/2019 2:32:08 PM No quote files found to process.
+12/9/2019 2:32:08 PM 
+12/9/2019 2:32:08 PM POC processing started.
+12/9/2019 2:32:08 PM No POC files found.
+12/9/2019 2:32:08 PM POC processing stopped.
+12/9/2019 2:32:08 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:32:08 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:32:08 PM V10001
+12/9/2019 2:32:08 PM SM0711_WEB
+12/9/2019 2:32:08 PM Norbulk Shipping UK Ltd
+12/9/2019 2:32:08 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:32:08 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:32:08 PM System.String[]
+12/9/2019 2:32:08 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0711_WEB
+12/9/2019 2:32:08 PM False
+12/9/2019 2:32:08 PM True
+12/9/2019 2:32:08 PM False
+12/9/2019 2:32:08 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:32:08 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:32:08 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:32:08 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:32:08 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:32:08 PM error path
+12/9/2019 2:32:08 PM audit path
+12/9/2019 2:32:08 PM protect-de.mimecast.com
+12/9/2019 2:32:08 PM False
+12/9/2019 2:32:08 PM 
+12/9/2019 2:32:08 PM Supplier: V10001
+12/9/2019 2:32:08 PM Process started for SM0711_WEB
+12/9/2019 2:32:08 PM No RFQ files found.
+12/9/2019 2:32:08 PM RFQ processing stopped.
+12/9/2019 2:32:08 PM 
+12/9/2019 2:32:08 PM Purchase Order processing started.
+12/9/2019 2:32:08 PM No PO files found.
+12/9/2019 2:32:08 PM Purchase Order processing stopped.
+12/9/2019 2:32:09 PM No quote files found to process.
+12/9/2019 2:32:09 PM 
+12/9/2019 2:32:09 PM POC processing started.
+12/9/2019 2:32:09 PM No POC files found.
+12/9/2019 2:32:09 PM POC processing stopped.
+12/9/2019 2:32:09 PM DNVGL HTTP Processor stopped
+12/9/2019 2:32:09 PM ====================================================
+12/9/2019 2:34:23 PM ================12/9/2019 2:34:23 PM================
+12/9/2019 2:34:23 PM DNVGL HTTP Processor started
+12/9/2019 2:34:23 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:23 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:23 PM V10107
+12/9/2019 2:34:23 PM SM0372_WEB
+12/9/2019 2:34:23 PM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 2:34:23 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:23 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:34:23 PM System.String[]
+12/9/2019 2:34:23 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 2:34:23 PM False
+12/9/2019 2:34:23 PM True
+12/9/2019 2:34:23 PM False
+12/9/2019 2:34:23 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:23 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:23 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:23 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:23 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:34:23 PM error path
+12/9/2019 2:34:23 PM audit path
+12/9/2019 2:34:23 PM protect-de.mimecast.com
+12/9/2019 2:34:23 PM False
+12/9/2019 2:34:23 PM 
+12/9/2019 2:34:23 PM Supplier: V10107
+12/9/2019 2:34:23 PM Process started for SM0372_WEB
+12/9/2019 2:34:23 PM No RFQ files found.
+12/9/2019 2:34:23 PM RFQ processing stopped.
+12/9/2019 2:34:23 PM 
+12/9/2019 2:34:23 PM Quote processing started.
+12/9/2019 2:34:23 PM 9 files found to process.
+12/9/2019 2:34:23 PM Started Loading interchange object.
+12/9/2019 2:34:23 PM stopped Loading interchange object.
+12/9/2019 2:34:26 PM successfully saved input to database.
+12/9/2019 2:34:26 PM Started Loading interchange object.
+12/9/2019 2:34:26 PM stopped Loading interchange object.
+12/9/2019 2:34:26 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:34:26 PM Started Loading interchange object.
+12/9/2019 2:34:26 PM stopped Loading interchange object.
+12/9/2019 2:34:27 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:34:27 PM Started Loading interchange object.
+12/9/2019 2:34:27 PM stopped Loading interchange object.
+12/9/2019 2:34:27 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:34:27 PM Started Loading interchange object.
+12/9/2019 2:34:27 PM stopped Loading interchange object.
+12/9/2019 2:34:27 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:34:27 PM Started Loading interchange object.
+12/9/2019 2:34:27 PM stopped Loading interchange object.
+12/9/2019 2:34:27 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:34:27 PM Started Loading interchange object.
+12/9/2019 2:34:27 PM stopped Loading interchange object.
+12/9/2019 2:34:28 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:34:28 PM Started Loading interchange object.
+12/9/2019 2:34:28 PM stopped Loading interchange object.
+12/9/2019 2:34:28 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:34:28 PM Started Loading interchange object.
+12/9/2019 2:34:28 PM stopped Loading interchange object.
+12/9/2019 2:34:28 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:34:28 PM 
+12/9/2019 2:34:28 PM Purchase Order processing started.
+12/9/2019 2:34:28 PM No PO files found.
+12/9/2019 2:34:28 PM Purchase Order processing stopped.
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:28 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:28 PM V10107
+12/9/2019 2:34:28 PM SM0695_WEB
+12/9/2019 2:34:28 PM EIMSKIP ISLAND EHF
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:34:28 PM System.String[]
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0695_WEB
+12/9/2019 2:34:28 PM True
+12/9/2019 2:34:28 PM True
+12/9/2019 2:34:28 PM False
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:28 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:34:28 PM error path
+12/9/2019 2:34:28 PM audit path
+12/9/2019 2:34:28 PM protect-de.mimecast.com
+12/9/2019 2:34:28 PM False
+12/9/2019 2:34:28 PM 
+12/9/2019 2:34:28 PM Supplier: V10107
+12/9/2019 2:34:28 PM Process started for SM0695_WEB
+12/9/2019 2:34:28 PM No RFQ files found.
+12/9/2019 2:34:28 PM RFQ processing stopped.
+12/9/2019 2:34:28 PM No quote files found to process.
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:28 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:28 PM V10001
+12/9/2019 2:34:28 PM SM0668_WEB
+12/9/2019 2:34:28 PM Sea Consortium Pte. Ltd.
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:34:28 PM System.String[]
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0668_WEB
+12/9/2019 2:34:28 PM False
+12/9/2019 2:34:28 PM True
+12/9/2019 2:34:28 PM False
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:28 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:34:28 PM error path
+12/9/2019 2:34:28 PM audit path
+12/9/2019 2:34:28 PM protect-de.mimecast.com
+12/9/2019 2:34:28 PM False
+12/9/2019 2:34:28 PM 
+12/9/2019 2:34:28 PM Supplier: V10001
+12/9/2019 2:34:28 PM Process started for SM0668_WEB
+12/9/2019 2:34:28 PM No RFQ files found.
+12/9/2019 2:34:28 PM RFQ processing stopped.
+12/9/2019 2:34:28 PM 
+12/9/2019 2:34:28 PM Purchase Order processing started.
+12/9/2019 2:34:28 PM No PO files found.
+12/9/2019 2:34:28 PM Purchase Order processing stopped.
+12/9/2019 2:34:28 PM No quote files found to process.
+12/9/2019 2:34:28 PM 
+12/9/2019 2:34:28 PM POC processing started.
+12/9/2019 2:34:28 PM No POC files found.
+12/9/2019 2:34:28 PM POC processing stopped.
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:28 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:28 PM V10001
+12/9/2019 2:34:28 PM SM0711_WEB
+12/9/2019 2:34:28 PM Norbulk Shipping UK Ltd
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:34:28 PM System.String[]
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0711_WEB
+12/9/2019 2:34:28 PM False
+12/9/2019 2:34:28 PM True
+12/9/2019 2:34:28 PM False
+12/9/2019 2:34:28 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:28 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:29 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:29 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:29 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:34:29 PM error path
+12/9/2019 2:34:29 PM audit path
+12/9/2019 2:34:29 PM protect-de.mimecast.com
+12/9/2019 2:34:29 PM False
+12/9/2019 2:34:29 PM 
+12/9/2019 2:34:29 PM Supplier: V10001
+12/9/2019 2:34:29 PM Process started for SM0711_WEB
+12/9/2019 2:34:29 PM No RFQ files found.
+12/9/2019 2:34:29 PM RFQ processing stopped.
+12/9/2019 2:34:29 PM 
+12/9/2019 2:34:29 PM Purchase Order processing started.
+12/9/2019 2:34:29 PM No PO files found.
+12/9/2019 2:34:29 PM Purchase Order processing stopped.
+12/9/2019 2:34:29 PM No quote files found to process.
+12/9/2019 2:34:29 PM 
+12/9/2019 2:34:29 PM POC processing started.
+12/9/2019 2:34:29 PM No POC files found.
+12/9/2019 2:34:29 PM POC processing stopped.
+12/9/2019 2:34:29 PM DNVGL HTTP Processor stopped
+12/9/2019 2:34:29 PM ====================================================
+12/9/2019 2:34:39 PM ================12/9/2019 2:34:39 PM================
+12/9/2019 2:34:39 PM DNVGL HTTP Processor started
+12/9/2019 2:34:39 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:39 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:39 PM V10107
+12/9/2019 2:34:39 PM SM0372_WEB
+12/9/2019 2:34:39 PM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 2:34:39 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:39 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:34:39 PM System.String[]
+12/9/2019 2:34:39 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 2:34:39 PM False
+12/9/2019 2:34:39 PM True
+12/9/2019 2:34:39 PM False
+12/9/2019 2:34:39 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:39 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:39 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:39 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:39 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:34:39 PM error path
+12/9/2019 2:34:39 PM audit path
+12/9/2019 2:34:39 PM protect-de.mimecast.com
+12/9/2019 2:34:39 PM False
+12/9/2019 2:34:39 PM 
+12/9/2019 2:34:39 PM Supplier: V10107
+12/9/2019 2:34:39 PM Process started for SM0372_WEB
+12/9/2019 2:34:39 PM No RFQ files found.
+12/9/2019 2:34:39 PM RFQ processing stopped.
+12/9/2019 2:34:39 PM 
+12/9/2019 2:34:39 PM Quote processing started.
+12/9/2019 2:34:39 PM 1 files found to process.
+12/9/2019 2:34:39 PM Started Loading interchange object.
+12/9/2019 2:34:39 PM stopped Loading interchange object.
+12/9/2019 2:34:42 PM successfully saved input to database.
+12/9/2019 2:34:42 PM 
+12/9/2019 2:34:42 PM Purchase Order processing started.
+12/9/2019 2:34:42 PM No PO files found.
+12/9/2019 2:34:42 PM Purchase Order processing stopped.
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:42 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:42 PM V10107
+12/9/2019 2:34:42 PM SM0695_WEB
+12/9/2019 2:34:42 PM EIMSKIP ISLAND EHF
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:34:42 PM System.String[]
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0695_WEB
+12/9/2019 2:34:42 PM True
+12/9/2019 2:34:42 PM True
+12/9/2019 2:34:42 PM False
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:42 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:34:42 PM error path
+12/9/2019 2:34:42 PM audit path
+12/9/2019 2:34:42 PM protect-de.mimecast.com
+12/9/2019 2:34:42 PM False
+12/9/2019 2:34:42 PM 
+12/9/2019 2:34:42 PM Supplier: V10107
+12/9/2019 2:34:42 PM Process started for SM0695_WEB
+12/9/2019 2:34:42 PM No RFQ files found.
+12/9/2019 2:34:42 PM RFQ processing stopped.
+12/9/2019 2:34:42 PM No quote files found to process.
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:42 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:42 PM V10001
+12/9/2019 2:34:42 PM SM0668_WEB
+12/9/2019 2:34:42 PM Sea Consortium Pte. Ltd.
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:34:42 PM System.String[]
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0668_WEB
+12/9/2019 2:34:42 PM False
+12/9/2019 2:34:42 PM True
+12/9/2019 2:34:42 PM False
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:42 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:34:42 PM error path
+12/9/2019 2:34:42 PM audit path
+12/9/2019 2:34:42 PM protect-de.mimecast.com
+12/9/2019 2:34:42 PM False
+12/9/2019 2:34:42 PM 
+12/9/2019 2:34:42 PM Supplier: V10001
+12/9/2019 2:34:42 PM Process started for SM0668_WEB
+12/9/2019 2:34:42 PM No RFQ files found.
+12/9/2019 2:34:42 PM RFQ processing stopped.
+12/9/2019 2:34:42 PM 
+12/9/2019 2:34:42 PM Purchase Order processing started.
+12/9/2019 2:34:42 PM No PO files found.
+12/9/2019 2:34:42 PM Purchase Order processing stopped.
+12/9/2019 2:34:42 PM No quote files found to process.
+12/9/2019 2:34:42 PM 
+12/9/2019 2:34:42 PM POC processing started.
+12/9/2019 2:34:42 PM No POC files found.
+12/9/2019 2:34:42 PM POC processing stopped.
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:42 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:42 PM V10001
+12/9/2019 2:34:42 PM SM0711_WEB
+12/9/2019 2:34:42 PM Norbulk Shipping UK Ltd
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:34:42 PM System.String[]
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0711_WEB
+12/9/2019 2:34:42 PM False
+12/9/2019 2:34:42 PM True
+12/9/2019 2:34:42 PM False
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:42 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:42 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:34:42 PM error path
+12/9/2019 2:34:42 PM audit path
+12/9/2019 2:34:42 PM protect-de.mimecast.com
+12/9/2019 2:34:42 PM False
+12/9/2019 2:34:42 PM 
+12/9/2019 2:34:42 PM Supplier: V10001
+12/9/2019 2:34:42 PM Process started for SM0711_WEB
+12/9/2019 2:34:43 PM No RFQ files found.
+12/9/2019 2:34:43 PM RFQ processing stopped.
+12/9/2019 2:34:43 PM 
+12/9/2019 2:34:43 PM Purchase Order processing started.
+12/9/2019 2:34:43 PM No PO files found.
+12/9/2019 2:34:43 PM Purchase Order processing stopped.
+12/9/2019 2:34:43 PM No quote files found to process.
+12/9/2019 2:34:43 PM 
+12/9/2019 2:34:43 PM POC processing started.
+12/9/2019 2:34:43 PM No POC files found.
+12/9/2019 2:34:43 PM POC processing stopped.
+12/9/2019 2:34:43 PM DNVGL HTTP Processor stopped
+12/9/2019 2:34:43 PM ====================================================
+12/9/2019 2:34:56 PM ================12/9/2019 2:34:56 PM================
+12/9/2019 2:34:56 PM DNVGL HTTP Processor started
+12/9/2019 2:34:56 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:56 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:56 PM V10107
+12/9/2019 2:34:56 PM SM0372_WEB
+12/9/2019 2:34:56 PM Pacific Basin Shipping (HK) Ltd.
+12/9/2019 2:34:56 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:56 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:34:56 PM System.String[]
+12/9/2019 2:34:56 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0372_WEB
+12/9/2019 2:34:56 PM False
+12/9/2019 2:34:56 PM True
+12/9/2019 2:34:56 PM False
+12/9/2019 2:34:56 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:34:56 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:34:56 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:56 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:34:56 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0372_WEB
+12/9/2019 2:34:56 PM error path
+12/9/2019 2:34:56 PM audit path
+12/9/2019 2:34:56 PM protect-de.mimecast.com
+12/9/2019 2:34:56 PM False
+12/9/2019 2:34:56 PM 
+12/9/2019 2:34:56 PM Supplier: V10107
+12/9/2019 2:34:56 PM Process started for SM0372_WEB
+12/9/2019 2:34:56 PM No RFQ files found.
+12/9/2019 2:34:56 PM RFQ processing stopped.
+12/9/2019 2:34:56 PM 
+12/9/2019 2:34:56 PM Quote processing started.
+12/9/2019 2:34:56 PM 2 files found to process.
+12/9/2019 2:34:56 PM Started Loading interchange object.
+12/9/2019 2:34:56 PM stopped Loading interchange object.
+12/9/2019 2:35:00 PM successfully saved input to database.
+12/9/2019 2:35:00 PM Started Loading interchange object.
+12/9/2019 2:35:00 PM stopped Loading interchange object.
+12/9/2019 2:35:00 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:35:00 PM 
+12/9/2019 2:35:00 PM Purchase Order processing started.
+12/9/2019 2:35:00 PM No PO files found.
+12/9/2019 2:35:00 PM Purchase Order processing stopped.
+12/9/2019 2:35:00 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:35:00 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:35:00 PM V10107
+12/9/2019 2:35:00 PM SM0695_WEB
+12/9/2019 2:35:00 PM EIMSKIP ISLAND EHF
+12/9/2019 2:35:00 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:35:00 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:35:00 PM System.String[]
+12/9/2019 2:35:00 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0695_WEB
+12/9/2019 2:35:00 PM True
+12/9/2019 2:35:00 PM True
+12/9/2019 2:35:00 PM False
+12/9/2019 2:35:00 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:35:01 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0695_WEB
+12/9/2019 2:35:01 PM error path
+12/9/2019 2:35:01 PM audit path
+12/9/2019 2:35:01 PM protect-de.mimecast.com
+12/9/2019 2:35:01 PM False
+12/9/2019 2:35:01 PM 
+12/9/2019 2:35:01 PM Supplier: V10107
+12/9/2019 2:35:01 PM Process started for SM0695_WEB
+12/9/2019 2:35:01 PM No RFQ files found.
+12/9/2019 2:35:01 PM RFQ processing stopped.
+12/9/2019 2:35:01 PM No quote files found to process.
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:35:01 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:35:01 PM V10001
+12/9/2019 2:35:01 PM SM0668_WEB
+12/9/2019 2:35:01 PM Sea Consortium Pte. Ltd.
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:35:01 PM System.String[]
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0668_WEB
+12/9/2019 2:35:01 PM False
+12/9/2019 2:35:01 PM True
+12/9/2019 2:35:01 PM False
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:35:01 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0668_WEB
+12/9/2019 2:35:01 PM error path
+12/9/2019 2:35:01 PM audit path
+12/9/2019 2:35:01 PM protect-de.mimecast.com
+12/9/2019 2:35:01 PM False
+12/9/2019 2:35:01 PM 
+12/9/2019 2:35:01 PM Supplier: V10001
+12/9/2019 2:35:01 PM Process started for SM0668_WEB
+12/9/2019 2:35:01 PM No RFQ files found.
+12/9/2019 2:35:01 PM RFQ processing stopped.
+12/9/2019 2:35:01 PM 
+12/9/2019 2:35:01 PM Purchase Order processing started.
+12/9/2019 2:35:01 PM No PO files found.
+12/9/2019 2:35:01 PM Purchase Order processing stopped.
+12/9/2019 2:35:01 PM No quote files found to process.
+12/9/2019 2:35:01 PM 
+12/9/2019 2:35:01 PM POC processing started.
+12/9/2019 2:35:01 PM No POC files found.
+12/9/2019 2:35:01 PM POC processing stopped.
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:35:01 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:35:01 PM V10001
+12/9/2019 2:35:01 PM SM0711_WEB
+12/9/2019 2:35:01 PM Norbulk Shipping UK Ltd
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:35:01 PM System.String[]
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MTML_Quote\SM0711_WEB
+12/9/2019 2:35:01 PM False
+12/9/2019 2:35:01 PM True
+12/9/2019 2:35:01 PM False
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Audit
+12/9/2019 2:35:01 PM C:\LeS\eSupplierPortal\LeS_XML_Inbox
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\Attachments
+12/9/2019 2:35:01 PM D:\Working\HTTP_POST\HTTP_Pacific_Basin_Processor\HTTP_Pacific_Basin_Processor\bin\Debug\MailTextFile\SM0711_WEB
+12/9/2019 2:35:01 PM error path
+12/9/2019 2:35:01 PM audit path
+12/9/2019 2:35:01 PM protect-de.mimecast.com
+12/9/2019 2:35:01 PM False
+12/9/2019 2:35:01 PM 
+12/9/2019 2:35:01 PM Supplier: V10001
+12/9/2019 2:35:01 PM Process started for SM0711_WEB
+12/9/2019 2:35:01 PM No RFQ files found.
+12/9/2019 2:35:01 PM RFQ processing stopped.
+12/9/2019 2:35:01 PM 
+12/9/2019 2:35:01 PM Purchase Order processing started.
+12/9/2019 2:35:01 PM No PO files found.
+12/9/2019 2:35:01 PM Purchase Order processing stopped.
+12/9/2019 2:35:01 PM No quote files found to process.
+12/9/2019 2:35:01 PM 
+12/9/2019 2:35:01 PM POC processing started.
+12/9/2019 2:35:01 PM No POC files found.
+12/9/2019 2:35:01 PM POC processing stopped.
+12/9/2019 2:35:01 PM DNVGL HTTP Processor stopped
+12/9/2019 2:35:01 PM ====================================================
+12/9/2019 2:36:29 PM ================12/9/2019 2:36:29 PM================
+12/9/2019 2:36:29 PM DNVGL HTTP Processor started
+12/9/2019 2:36:29 PM 
+12/9/2019 2:36:29 PM Supplier: V10107
+12/9/2019 2:36:29 PM Process started for SM0372_WEB
+12/9/2019 2:36:29 PM No RFQ files found.
+12/9/2019 2:36:29 PM RFQ processing stopped.
+12/9/2019 2:36:29 PM 
+12/9/2019 2:36:29 PM Quote processing started.
+12/9/2019 2:36:29 PM 1 files found to process.
+12/9/2019 2:36:29 PM Started Loading interchange object.
+12/9/2019 2:36:29 PM stopped Loading interchange object.
+12/9/2019 2:36:32 PM successfully saved input to database.
+12/9/2019 2:36:32 PM 
+12/9/2019 2:36:32 PM Purchase Order processing started.
+12/9/2019 2:36:32 PM No PO files found.
+12/9/2019 2:36:32 PM Purchase Order processing stopped.
+12/9/2019 2:36:32 PM 
+12/9/2019 2:36:32 PM Supplier: V10107
+12/9/2019 2:36:32 PM Process started for SM0695_WEB
+12/9/2019 2:36:32 PM No RFQ files found.
+12/9/2019 2:36:32 PM RFQ processing stopped.
+12/9/2019 2:36:32 PM No quote files found to process.
+12/9/2019 2:36:32 PM 
+12/9/2019 2:36:32 PM Supplier: V10001
+12/9/2019 2:36:32 PM Process started for SM0668_WEB
+12/9/2019 2:36:32 PM No RFQ files found.
+12/9/2019 2:36:32 PM RFQ processing stopped.
+12/9/2019 2:36:32 PM 
+12/9/2019 2:36:32 PM Purchase Order processing started.
+12/9/2019 2:36:32 PM No PO files found.
+12/9/2019 2:36:32 PM Purchase Order processing stopped.
+12/9/2019 2:36:32 PM No quote files found to process.
+12/9/2019 2:36:32 PM 
+12/9/2019 2:36:32 PM POC processing started.
+12/9/2019 2:36:32 PM No POC files found.
+12/9/2019 2:36:32 PM POC processing stopped.
+12/9/2019 2:36:32 PM 
+12/9/2019 2:36:32 PM Supplier: V10001
+12/9/2019 2:36:32 PM Process started for SM0711_WEB
+12/9/2019 2:36:32 PM No RFQ files found.
+12/9/2019 2:36:32 PM RFQ processing stopped.
+12/9/2019 2:36:32 PM 
+12/9/2019 2:36:32 PM Purchase Order processing started.
+12/9/2019 2:36:32 PM No PO files found.
+12/9/2019 2:36:32 PM Purchase Order processing stopped.
+12/9/2019 2:36:32 PM No quote files found to process.
+12/9/2019 2:36:32 PM 
+12/9/2019 2:36:32 PM POC processing started.
+12/9/2019 2:36:32 PM No POC files found.
+12/9/2019 2:36:32 PM POC processing stopped.
+12/9/2019 2:36:32 PM DNVGL HTTP Processor stopped
+12/9/2019 2:36:32 PM ====================================================
+12/9/2019 2:36:47 PM ================12/9/2019 2:36:47 PM================
+12/9/2019 2:36:47 PM DNVGL HTTP Processor started
+12/9/2019 2:36:47 PM 
+12/9/2019 2:36:47 PM Supplier: V10107
+12/9/2019 2:36:47 PM Process started for SM0372_WEB
+12/9/2019 2:36:47 PM No RFQ files found.
+12/9/2019 2:36:47 PM RFQ processing stopped.
+12/9/2019 2:36:47 PM 
+12/9/2019 2:36:47 PM Quote processing started.
+12/9/2019 2:36:47 PM 5 files found to process.
+12/9/2019 2:36:47 PM Started Loading interchange object.
+12/9/2019 2:36:47 PM stopped Loading interchange object.
+12/9/2019 2:36:50 PM successfully saved input to database.
+12/9/2019 2:36:50 PM Started Loading interchange object.
+12/9/2019 2:36:50 PM stopped Loading interchange object.
+12/9/2019 2:36:50 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:36:50 PM Started Loading interchange object.
+12/9/2019 2:36:50 PM stopped Loading interchange object.
+12/9/2019 2:36:50 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:36:50 PM Started Loading interchange object.
+12/9/2019 2:36:50 PM stopped Loading interchange object.
+12/9/2019 2:36:51 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:36:51 PM Started Loading interchange object.
+12/9/2019 2:36:51 PM stopped Loading interchange object.
+12/9/2019 2:36:51 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:36:51 PM 
+12/9/2019 2:36:51 PM Purchase Order processing started.
+12/9/2019 2:36:51 PM No PO files found.
+12/9/2019 2:36:51 PM Purchase Order processing stopped.
+12/9/2019 2:36:51 PM 
+12/9/2019 2:36:51 PM Supplier: V10107
+12/9/2019 2:36:51 PM Process started for SM0695_WEB
+12/9/2019 2:36:51 PM No RFQ files found.
+12/9/2019 2:36:51 PM RFQ processing stopped.
+12/9/2019 2:36:51 PM No quote files found to process.
+12/9/2019 2:36:51 PM 
+12/9/2019 2:36:51 PM Supplier: V10001
+12/9/2019 2:36:51 PM Process started for SM0668_WEB
+12/9/2019 2:36:51 PM No RFQ files found.
+12/9/2019 2:36:51 PM RFQ processing stopped.
+12/9/2019 2:36:51 PM 
+12/9/2019 2:36:51 PM Purchase Order processing started.
+12/9/2019 2:36:51 PM No PO files found.
+12/9/2019 2:36:51 PM Purchase Order processing stopped.
+12/9/2019 2:36:51 PM No quote files found to process.
+12/9/2019 2:36:51 PM 
+12/9/2019 2:36:51 PM POC processing started.
+12/9/2019 2:36:51 PM No POC files found.
+12/9/2019 2:36:51 PM POC processing stopped.
+12/9/2019 2:36:51 PM 
+12/9/2019 2:36:51 PM Supplier: V10001
+12/9/2019 2:36:51 PM Process started for SM0711_WEB
+12/9/2019 2:36:51 PM No RFQ files found.
+12/9/2019 2:36:51 PM RFQ processing stopped.
+12/9/2019 2:36:51 PM 
+12/9/2019 2:36:51 PM Purchase Order processing started.
+12/9/2019 2:36:51 PM No PO files found.
+12/9/2019 2:36:51 PM Purchase Order processing stopped.
+12/9/2019 2:36:51 PM No quote files found to process.
+12/9/2019 2:36:51 PM 
+12/9/2019 2:36:51 PM POC processing started.
+12/9/2019 2:36:51 PM No POC files found.
+12/9/2019 2:36:51 PM POC processing stopped.
+12/9/2019 2:36:51 PM DNVGL HTTP Processor stopped
+12/9/2019 2:36:51 PM ====================================================
+12/9/2019 2:37:04 PM ================12/9/2019 2:37:04 PM================
+12/9/2019 2:37:04 PM DNVGL HTTP Processor started
+12/9/2019 2:37:04 PM 
+12/9/2019 2:37:04 PM Supplier: V10107
+12/9/2019 2:37:04 PM Process started for SM0372_WEB
+12/9/2019 2:37:04 PM No RFQ files found.
+12/9/2019 2:37:04 PM RFQ processing stopped.
+12/9/2019 2:37:06 PM 
+12/9/2019 2:37:06 PM Quote processing started.
+12/9/2019 2:37:06 PM 4 files found to process.
+12/9/2019 2:37:06 PM Started Loading interchange object.
+12/9/2019 2:37:07 PM stopped Loading interchange object.
+12/9/2019 2:37:19 PM Unable to upload Quote for Ref : 'RTH-B19X0196(01)FA-5131' due to Total Amount '9.499' mismatch with item total '9.5
+12/9/2019 2:37:20 PM LeS-1008.1:Unable to Save Quote due to amount mismatch for RTH-B19X0196(01)FA-5131
+12/9/2019 2:37:20 PM LeS-1004:Unable to process file due to System.Net.WebException: The remote server returned an error: (500) Internal Server Error.
+   at HTTPWrapper.HTTPWrapper.PostURL(String _request, String _postData, String validateNodeTitle, String validateAttribute, String attributeValue, String HiddenAttributeKey, Boolean readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\HTTPWrapper\HTTPWrapper.cs:line 218
+   at PacificRoutine.PBRoutine.SaveQuotation(String[] Arr, RootObject _library, String MTML_QuoteFile, String Token) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1577
+   at PacificRoutine.PBRoutine.Fill_Quotation(String Token, String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1353
+12/9/2019 2:38:15 PM ================12/9/2019 2:38:15 PM================
+12/9/2019 2:38:15 PM DNVGL HTTP Processor started
+12/9/2019 2:38:15 PM 
+12/9/2019 2:38:15 PM Supplier: V10107
+12/9/2019 2:38:15 PM Process started for SM0372_WEB
+12/9/2019 2:38:15 PM No RFQ files found.
+12/9/2019 2:38:15 PM RFQ processing stopped.
+12/9/2019 2:38:16 PM 
+12/9/2019 2:38:16 PM Quote processing started.
+12/9/2019 2:38:16 PM 4 files found to process.
+12/9/2019 2:38:16 PM Started Loading interchange object.
+12/9/2019 2:38:16 PM stopped Loading interchange object.
+12/9/2019 2:38:19 PM successfully saved input to database.
+12/9/2019 2:38:19 PM Started Loading interchange object.
+12/9/2019 2:38:19 PM stopped Loading interchange object.
+12/9/2019 2:38:19 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:38:19 PM Started Loading interchange object.
+12/9/2019 2:38:19 PM stopped Loading interchange object.
+12/9/2019 2:38:19 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:38:19 PM Started Loading interchange object.
+12/9/2019 2:38:19 PM stopped Loading interchange object.
+12/9/2019 2:38:19 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:38:19 PM 
+12/9/2019 2:38:19 PM Purchase Order processing started.
+12/9/2019 2:38:19 PM No PO files found.
+12/9/2019 2:38:19 PM Purchase Order processing stopped.
+12/9/2019 2:38:19 PM 
+12/9/2019 2:38:19 PM Supplier: V10107
+12/9/2019 2:38:19 PM Process started for SM0695_WEB
+12/9/2019 2:38:19 PM No RFQ files found.
+12/9/2019 2:38:19 PM RFQ processing stopped.
+12/9/2019 2:39:44 PM ================12/9/2019 2:39:44 PM================
+12/9/2019 2:39:44 PM DNVGL HTTP Processor started
+12/9/2019 2:39:44 PM 
+12/9/2019 2:39:44 PM Supplier: V10107
+12/9/2019 2:39:44 PM Process started for SM0372_WEB
+12/9/2019 2:39:44 PM No RFQ files found.
+12/9/2019 2:39:44 PM RFQ processing stopped.
+12/9/2019 2:39:45 PM 
+12/9/2019 2:39:45 PM Quote processing started.
+12/9/2019 2:39:45 PM 3 files found to process.
+12/9/2019 2:39:45 PM Started Loading interchange object.
+12/9/2019 2:39:45 PM stopped Loading interchange object.
+12/9/2019 2:39:48 PM successfully saved input to database.
+12/9/2019 2:39:48 PM Started Loading interchange object.
+12/9/2019 2:39:49 PM stopped Loading interchange object.
+12/9/2019 2:39:49 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:39:49 PM Started Loading interchange object.
+12/9/2019 2:39:49 PM stopped Loading interchange object.
+12/9/2019 2:39:49 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:39:49 PM 
+12/9/2019 2:39:49 PM Purchase Order processing started.
+12/9/2019 2:39:49 PM No PO files found.
+12/9/2019 2:39:49 PM Purchase Order processing stopped.
+12/9/2019 2:39:49 PM 
+12/9/2019 2:39:49 PM Supplier: V10107
+12/9/2019 2:39:49 PM Process started for SM0695_WEB
+12/9/2019 2:39:49 PM No RFQ files found.
+12/9/2019 2:39:49 PM RFQ processing stopped.
+12/9/2019 2:39:52 PM No quote files found to process.
+12/9/2019 2:39:52 PM 
+12/9/2019 2:39:52 PM Supplier: V10001
+12/9/2019 2:39:52 PM Process started for SM0668_WEB
+12/9/2019 2:39:52 PM No RFQ files found.
+12/9/2019 2:39:52 PM RFQ processing stopped.
+12/9/2019 2:39:52 PM 
+12/9/2019 2:39:52 PM Purchase Order processing started.
+12/9/2019 2:39:52 PM No PO files found.
+12/9/2019 2:39:52 PM Purchase Order processing stopped.
+12/9/2019 2:39:53 PM No quote files found to process.
+12/9/2019 2:39:53 PM 
+12/9/2019 2:39:53 PM POC processing started.
+12/9/2019 2:39:53 PM No POC files found.
+12/9/2019 2:39:53 PM POC processing stopped.
+12/9/2019 2:39:53 PM 
+12/9/2019 2:39:53 PM Supplier: V10001
+12/9/2019 2:39:53 PM Process started for SM0711_WEB
+12/9/2019 2:39:53 PM No RFQ files found.
+12/9/2019 2:39:53 PM RFQ processing stopped.
+12/9/2019 2:39:53 PM 
+12/9/2019 2:39:53 PM Purchase Order processing started.
+12/9/2019 2:39:53 PM No PO files found.
+12/9/2019 2:39:53 PM Purchase Order processing stopped.
+12/9/2019 2:39:54 PM No quote files found to process.
+12/9/2019 2:39:54 PM 
+12/9/2019 2:39:54 PM POC processing started.
+12/9/2019 2:39:54 PM No POC files found.
+12/9/2019 2:39:54 PM POC processing stopped.
+12/9/2019 2:39:54 PM DNVGL HTTP Processor stopped
+12/9/2019 2:39:54 PM ====================================================
+12/9/2019 2:40:12 PM ================12/9/2019 2:40:12 PM================
+12/9/2019 2:40:12 PM DNVGL HTTP Processor started
+12/9/2019 2:40:12 PM 
+12/9/2019 2:40:12 PM Supplier: V10107
+12/9/2019 2:40:12 PM Process started for SM0372_WEB
+12/9/2019 2:40:12 PM No RFQ files found.
+12/9/2019 2:40:12 PM RFQ processing stopped.
+12/9/2019 2:40:14 PM 
+12/9/2019 2:40:15 PM Quote processing started.
+12/9/2019 2:40:15 PM 2 files found to process.
+12/9/2019 2:40:16 PM Started Loading interchange object.
+12/9/2019 2:40:17 PM stopped Loading interchange object.
+12/9/2019 2:40:30 PM successfully saved input to database.
+12/9/2019 2:40:36 PM Started Loading interchange object.
+12/9/2019 2:40:36 PM stopped Loading interchange object.
+12/9/2019 2:40:36 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+12/9/2019 2:40:36 PM 
+12/9/2019 2:40:36 PM Purchase Order processing started.
+12/9/2019 2:40:36 PM No PO files found.
+12/9/2019 2:40:36 PM Purchase Order processing stopped.
+12/9/2019 2:40:36 PM 
+12/9/2019 2:40:36 PM Supplier: V10107
+12/9/2019 2:40:36 PM Process started for SM0695_WEB
+12/9/2019 2:40:36 PM No RFQ files found.
+12/9/2019 2:40:36 PM RFQ processing stopped.
+12/9/2019 2:40:37 PM No quote files found to process.
+12/9/2019 2:40:37 PM 
+12/9/2019 2:40:37 PM Supplier: V10001
+12/9/2019 2:40:37 PM Process started for SM0668_WEB
+12/9/2019 2:40:37 PM No RFQ files found.
+12/9/2019 2:40:37 PM RFQ processing stopped.
+12/9/2019 2:40:37 PM 
+12/9/2019 2:40:37 PM Purchase Order processing started.
+12/9/2019 2:40:37 PM No PO files found.
+12/9/2019 2:40:37 PM Purchase Order processing stopped.
+12/9/2019 2:40:38 PM No quote files found to process.
+12/9/2019 2:40:38 PM 
+12/9/2019 2:40:38 PM POC processing started.
+12/9/2019 2:40:38 PM No POC files found.
+12/9/2019 2:40:38 PM POC processing stopped.
+12/9/2019 2:40:38 PM 
+12/9/2019 2:40:38 PM Supplier: V10001
+12/9/2019 2:40:38 PM Process started for SM0711_WEB
+12/9/2019 2:40:38 PM No RFQ files found.
+12/9/2019 2:40:38 PM RFQ processing stopped.
+12/9/2019 2:40:38 PM 
+12/9/2019 2:40:38 PM Purchase Order processing started.
+12/9/2019 2:40:38 PM No PO files found.
+12/9/2019 2:40:38 PM Purchase Order processing stopped.
+12/9/2019 2:40:43 PM No quote files found to process.
+12/9/2019 2:40:43 PM 
+12/9/2019 2:40:43 PM POC processing started.
+12/9/2019 2:40:43 PM No POC files found.
+12/9/2019 2:40:43 PM POC processing stopped.
+12/9/2019 2:40:43 PM DNVGL HTTP Processor stopped
+12/9/2019 2:40:43 PM ====================================================
+12/9/2019 2:41:00 PM ================12/9/2019 2:41:00 PM================
+12/9/2019 2:41:00 PM DNVGL HTTP Processor started
+12/9/2019 2:41:00 PM 
+12/9/2019 2:41:00 PM Supplier: V10107
+12/9/2019 2:41:00 PM Process started for SM0372_WEB
+12/9/2019 2:41:00 PM No RFQ files found.
+12/9/2019 2:41:00 PM RFQ processing stopped.
+12/9/2019 2:41:04 PM 
+12/9/2019 2:41:04 PM Quote processing started.
+12/9/2019 2:41:04 PM 1 files found to process.
+12/9/2019 2:41:04 PM Started Loading interchange object.
+12/9/2019 2:41:04 PM stopped Loading interchange object.
+12/9/2019 2:41:07 PM Save and/or submit quote button is null for Ref  RTH-B19X0216(01)GR-5134
+12/9/2019 2:41:07 PM LeS-1008.3:Unable to Save Quote due to missing controls for RTH-B19X0216(01)GR-5134
+12/9/2019 2:41:07 PM 
+12/9/2019 2:41:07 PM Purchase Order processing started.
+12/9/2019 2:41:07 PM No PO files found.
+12/9/2019 2:41:07 PM Purchase Order processing stopped.
+12/9/2019 2:41:07 PM 
+12/9/2019 2:41:07 PM Supplier: V10107
+12/9/2019 2:41:07 PM Process started for SM0695_WEB
+12/9/2019 2:41:07 PM No RFQ files found.
+12/9/2019 2:41:07 PM RFQ processing stopped.
+12/9/2019 3:37:54 PM No quote files found to process.
+12/9/2019 3:37:54 PM 
+12/9/2019 3:37:54 PM Supplier: V10001
+12/9/2019 3:37:54 PM Process started for SM0668_WEB
+12/9/2019 3:37:54 PM No RFQ files found.
+12/9/2019 3:37:54 PM RFQ processing stopped.
+12/9/2019 3:37:54 PM 
+12/9/2019 3:37:54 PM Purchase Order processing started.
+12/9/2019 3:37:54 PM No PO files found.
+12/9/2019 3:37:54 PM Purchase Order processing stopped.
+12/9/2019 3:37:56 PM No quote files found to process.
+12/9/2019 3:37:56 PM 
+12/9/2019 3:37:56 PM POC processing started.
+12/9/2019 3:37:56 PM No POC files found.
+12/9/2019 3:37:56 PM POC processing stopped.
+12/9/2019 3:37:56 PM 
+12/9/2019 3:37:56 PM Supplier: V10001
+12/9/2019 3:37:56 PM Process started for SM0711_WEB
+12/9/2019 3:37:56 PM No RFQ files found.
+12/9/2019 3:37:56 PM RFQ processing stopped.
+12/9/2019 3:37:56 PM 
+12/9/2019 3:37:56 PM Purchase Order processing started.
+12/9/2019 3:37:56 PM No PO files found.
+12/9/2019 3:37:56 PM Purchase Order processing stopped.
+12/9/2019 3:37:57 PM No quote files found to process.
+12/9/2019 3:37:57 PM 
+12/9/2019 3:37:57 PM POC processing started.
+12/9/2019 3:37:57 PM No POC files found.
+12/9/2019 3:37:57 PM POC processing stopped.
+12/9/2019 3:37:57 PM DNVGL HTTP Processor stopped
+12/9/2019 3:37:57 PM ====================================================

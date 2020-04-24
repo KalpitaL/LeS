@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange Identifier="UNOC" Recipient="V00026" Sender="SM0133_FUJI" PreparationDate="20190708" PreparationTime="150436" VersionNumber="1">
+    <RequestForQuote MessageReferenceNumber="430369" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=430369&amp;validate=0.244503936409708" LineItemCount="15" VersionNumber="1" FunctionCode="_9" BuyerRefNo="MAW-7119-B1" OriginalFile="MTM_SHIP_V00026_SM0133_MAW_7119_B1_08071915043634.png">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20190708" />
+      <Reference Qualifier="UC" ReferenceNumber="MAW-7119-B1" />
+      <Party Qualifier="UD" />
+      <Party Qualifier="BY" Name="M.T.M. SHIP MANAGEMENT PTE. LTD">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING CO. LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="078-4132611-" />
+          <CommunicationMethod Qualifier="EM" Number="mach-5@fujitrading.co.jp" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="Socket Set Screw (710) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="E400608G7" MeasureUnitQualifier="PCS" Quantity="8" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194666_5175042" SystemItemNo="1">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360Code : 0</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="2" Description="Tongued Washer (707) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="H5004B2" MeasureUnitQualifier="PCS" Quantity="8" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194665_5175043" SystemItemNo="2">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360Code : 0</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="3" Description="Bolt (706) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="F1004008B" MeasureUnitQualifier="PCS" Quantity="8" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194664_5175047" SystemItemNo="3">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360Code : 0</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="4" Description="Ball Bearing 3 (532) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="I27305J2" MeasureUnitQualifier="PCS" Quantity="4" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194663_5175046" SystemItemNo="4">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360Code : 0</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="5" Description="Spring Case (507) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="450523001" MeasureUnitQualifier="PCS" Quantity="2" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194662_5175045" SystemItemNo="5">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360Code : 0</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="6" Description="Bearig Sleeve (509) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="314257001" MeasureUnitQualifier="PCS" Quantity="3" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194661_5175044" SystemItemNo="6">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360Code : 0</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="7" Description="Flat Spring (520) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="436164001" MeasureUnitQualifier="PCS" Quantity="3" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194660_5175055" SystemItemNo="7">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360Code : 0</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="8" Description="Bearing Cap 2 (518) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="450526001" MeasureUnitQualifier="PCS" Quantity="4" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194659_5175054" SystemItemNo="8">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360Code : 0</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="9" Description="Bearing Cap 1 (516) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="450525001" MeasureUnitQualifier="PCS" Quantity="4" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194658_5175053" SystemItemNo="9">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="10" Description="Bowl Bush (123) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="436170001" MeasureUnitQualifier="PCS" Quantity="3" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194657_5175052" SystemItemNo="10">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201358</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="11" Description="Main Seal Ring (118) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="436022001" MeasureUnitQualifier="PCS" Quantity="6" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194656_5175051" SystemItemNo="11">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201358</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="12" Description="BEARING CASE 3 (531) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="315940001" MeasureUnitQualifier="PCS" Quantity="2" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194655_5175050" SystemItemNo="12">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" SJ10F" />
+      </LineItem>
+      <LineItem Number="13" Description="BEARING 2 (529) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="I42305J1" MeasureUnitQualifier="PCS" Quantity="4" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194654_5175049" SystemItemNo="13">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" MITSUBISHI  SELFJECTOR SJ 10F" />
+      </LineItem>
+      <LineItem Number="14" Description="BALL BEARING 1 (511) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="I16308J8" MeasureUnitQualifier="PCS" Quantity="4" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194653_5175048" SystemItemNo="14">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" MITSUBISHI  SELF JECTOR SJ 10 F" />
+      </LineItem>
+      <LineItem Number="15" Description="BEARING CASE (510) MITSUBISHI  KAKOKI KAISHA. LTD.&#xD;&#xA;2-1, OHKAWA-CYO, KAWASAKI-KU, KAWASAKI CITY&#xD;&#xA;KANAGAWA-PREF. 210-0858 JAPAN&#xD;&#xA;Tel:81-44-333-5357&#xD;&#xA;Fax:81-44-333-4816" Identification="314256001" MeasureUnitQualifier="PCS" Quantity="2" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2194652_5175056" SystemItemNo="15">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 201360</value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI  KAKOKI KAISHA. LTD." ModelNumber=" MITSUBISHI  SELF JECTOR SJ 10 F" />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

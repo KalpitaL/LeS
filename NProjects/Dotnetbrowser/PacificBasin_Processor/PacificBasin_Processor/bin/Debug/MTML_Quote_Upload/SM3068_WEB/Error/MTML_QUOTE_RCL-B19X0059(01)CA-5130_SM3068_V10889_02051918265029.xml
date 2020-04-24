@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="DG0205" Identifier="UNOC" Recipient="SM3068_WEB" Sender="V10889" PreparationDate="2019-May-02" PreparationTime="18:26" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3666" LesRecordID="11577385" LesLinkID="104425" MTML_DOCID="69A261C8-67A4-4EF0-B83B-01B21139521F">
+    <Quote MessageReferenceNumber="RCL-B19X0059(01)CA-5130" MessageNumber="https://supplierportal.dnvgl.com/#/0Qa2L81YvMxyVd5ml9MZ/1|X5aPe5" LineItemCount="22" VersionNumber="1" CurrencyCode="EUR" LeadTimeDays="0" OriginalFile="QUOTE_RCL-B19X0059(01)CA-5130_190430_15283283.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201905021826" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201906020000" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>Deck quarterly order</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="RCL-B19X0059(01)CA-5130" />
+      <Reference Qualifier="AAG" ReferenceNumber="DG0205" />
+      <Party Qualifier="BY" Name="Kopping Reederei GmbH &amp; Co. KG">
+        <Contact Name="Birte Kremser">
+          <CommunicationMethod Qualifier="TE" Number="+49-(0)4331-8466-49" />
+          <CommunicationMethod Qualifier="EM" Number="purchase@kship.de" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Gimas International Ship Supply Company">
+        <Contact>
+          <CommunicationMethod Qualifier="EM" Number="gimas@gimas.com" />
+        </Contact>
+        <StreetAddress>Ikitelli Organize San. Bol.,Istanbul,TURKEY</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="Rachel Borchard">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Duct tape, 48mm" MeasureUnitQualifier="NRL" Quantity="6" TypeCode="BP" OriginatingSystemRef="014/00433/2019" SystemItemNo="1" MonetaryAmount="3.42" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.6328" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.6328" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Ear plugs" MeasureUnitQualifier="PCE" Quantity="50" TypeCode="BP" OriginatingSystemRef="014/00434/2019" SystemItemNo="2" MonetaryAmount="10.92" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.2426" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.2426" />
+        <Comments Qualifier="LIN">
+          <value>50/PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="Masking tape, 50mm" MeasureUnitQualifier="NRL" Quantity="5" TypeCode="BP" OriginatingSystemRef="014/00440/2019" SystemItemNo="3" MonetaryAmount="2.28" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.5062" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.5062" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="Welders chalk" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="014/00442/2019" SystemItemNo="4" MonetaryAmount="12.91" Identification="KLOSKA 4248736091" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.3438" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.3438" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="Blind rivet, aluminium, 5x14mm" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="014/00446/2019" SystemItemNo="5" MonetaryAmount="1.12" Identification="KLOSKA 4248104309" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.2445" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.2445" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="Welding electrodes (stainless steel, 18/8 Cr/V), 2,5 x 350mm" MeasureUnitQualifier="PK" Quantity="1" TypeCode="BP" OriginatingSystemRef="014/00447/2019" SystemItemNo="6" MonetaryAmount="18.98" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="21.0938" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="21.0938" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="Welding electrodes (mild steel), 3,2 x 350mm" MeasureUnitQualifier="PK" Quantity="3" TypeCode="BP" OriginatingSystemRef="014/00448/2019" SystemItemNo="7" MonetaryAmount="17.66" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.5391" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.5391" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="Safety glasses with sun protection" MeasureUnitQualifier="PCE" Quantity="7" TypeCode="BP" OriginatingSystemRef="014/00450/2019" SystemItemNo="8" MonetaryAmount="15.95" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.5313" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.5313" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="Mop bucket, plastic, Vileda" MeasureUnitQualifier="PCE" Quantity="3" TypeCode="BP" OriginatingSystemRef="014/00507/2019" SystemItemNo="9" MonetaryAmount="33.45" Identification="KLOSKA 403030515" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.39" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.39" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="Spare glass for welding shield (90x110mm), prot. 11" MeasureUnitQualifier="PCE" Quantity="5" TypeCode="BP" OriginatingSystemRef="014/00508/2019" SystemItemNo="10" MonetaryAmount="0.71" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.1582" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.1582" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="Protection glass for welding shield (90x110mm), clear" MeasureUnitQualifier="PCE" Quantity="5" TypeCode="BP" OriginatingSystemRef="014/00509/2019" SystemItemNo="11" MonetaryAmount="0.38" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.0844" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.0844" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="Welding helmet, type 1005, without head stripe and glasses" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="014/00510/2019" SystemItemNo="12" MonetaryAmount="3.80" Identification="KLOSKA 32042045" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.2188" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.2188" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="Head stripe, foe welding helmet type 1005" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="014/00511/2019" SystemItemNo="13" MonetaryAmount="0.65" Identification="KLOSKA 32042010" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.7277" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.7277" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="Aluminium extension ladder, 2parts (straight) 7,2m max. length" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="014/00513/2019" SystemItemNo="14" MonetaryAmount="81.63" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="90.7031" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="90.7031" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="Strainer for paint, metal, 26x30cm " MeasureUnitQualifier="PCE" Quantity="3" TypeCode="BP" OriginatingSystemRef="014/00527/2019" SystemItemNo="15" MonetaryAmount="0.00" Identification="KLOSKA 403020415" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>N/A</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="Cement quick drying" MeasureUnitQualifier="BG" Quantity="1" TypeCode="BP" OriginatingSystemRef="014/00535/2019" SystemItemNo="16" MonetaryAmount="7.97" Identification="KLOSKA 405805255" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.8525" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.8525" />
+        <Comments Qualifier="LIN">
+          <value>50 KG/BAG</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="Squeegee, 35cm" MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="014/00541/2019" SystemItemNo="17" MonetaryAmount="2.27" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.42" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="Cable tie self locking 365x7.8mm" MeasureUnitQualifier="PCE" Quantity="100" TypeCode="BP" OriginatingSystemRef="014/00542/2019" SystemItemNo="18" MonetaryAmount="6.64" Identification="KLOSKA 424031100" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.0738" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.0738" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="Cable tie self locking 360x4.8mm" MeasureUnitQualifier="PCE" Quantity="100" TypeCode="BP" OriginatingSystemRef="014/00543/2019" SystemItemNo="19" MonetaryAmount="3.42" Identification="KLOSKA 424031080" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.038" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.038" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="Cable tie self locking 290x3.6mm" MeasureUnitQualifier="PCE" Quantity="100" TypeCode="BP" OriginatingSystemRef="014/00544/2019" SystemItemNo="20" MonetaryAmount="2.47" Identification="KLOSKA 424031060" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.0274" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.0274" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="Spun yarn, tarred, 3-ply 2,5kg coil" MeasureUnitQualifier="CL" Quantity="3" TypeCode="BP" OriginatingSystemRef="014/00549/2019" SystemItemNo="21" MonetaryAmount="25.63" Identification="KLOSKA 410408045" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.4922" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.4922" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="Head-helmet light, waterproof " MeasureUnitQualifier="PCE" Quantity="4" TypeCode="BP" OriginatingSystemRef="014/00550/2019" SystemItemNo="22" MonetaryAmount="64.55" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="17.9297" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="10" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="17.9297" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="316.797" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="316.797" />
+    </Quote>
+  </Interchange>
+</MTML>

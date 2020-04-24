@@ -1,0 +1,10 @@
+25-10-2019 11:23:36 ================25-10-2019 11:23:36================
+25-10-2019 11:23:36 MTM RFQ Download HTTP processor started
+25-10-2019 11:23:36 No RFQ Found !
+25-10-2019 11:23:47 Started Loading interchange object.
+25-10-2019 11:23:47 stopped Loading interchange object.
+25-10-2019 11:24:03 Processing quote started for ref no: EBO-5145-I1
+25-10-2019 11:25:48 Currency saved.
+25-10-2019 11:25:55 Item Details saved.
+25-10-2019 11:25:59 Header details saved.
+25-10-2019 11:26:17 Quote for RefNo EBO-5145-I1 saved successfully.

@@ -1,0 +1,509 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	MTMSM : Quote Manager
+</title><link href="../CSS/rfqStyle.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="../JS/jquery_v1.10.2.min.js"></script>    
+    <link href="../CSS/CalenderStyle.css" rel="Stylesheet" type="text/css" />
+    <script src="../JS/Calender.js" type="text/javascript"></script>
+    <script src="../JS/jquery.datetimepicker.js"></script>
+    <link href="../CSS/jquery.datetimepicker.css" rel="stylesheet" type="text/css" />
+     <style type="text/css">
+        div.panel {
+            border:solid 1px red;
+            z-index:99999;
+        }
+        .bordered tr td {
+            border:solid 1px #d7d7d7;
+            color:#292929;
+            padding:5px;
+        }
+        .headerrow td{
+            background-color:#cdcdce;
+            font-size: 12px;
+            padding:5px;
+            color:#333 !important;
+        }
+        input[type='text'],select
+        {
+            line-height:18px;
+            height:23px;
+            padding-left:5px;
+            padding-right:5px;
+            background-color:#ffea9e;
+            font-size:11px !important;
+            text-align:right;
+            border:solid 1px #d7d7d7 !important;
+        }
+        td{
+            vertical-align:middle;
+        }
+    </style>
+    <script type="text/javascript" language="javascript">
+function DisableBackButton() {
+window.history.forward()
+}
+DisableBackButton();
+window.onload = DisableBackButton;
+window.onpageshow = function(evt) { if (evt.persisted) DisableBackButton() }
+window.onunload = function() { void (0) }
+</script>
+    <script type="text/javascript">
+
+        function AttachFunc()
+        {
+            $('.date_only').datetimepicker({ timepicker: false, format: 'd-M-Y', formatDate: 'd-M-Y', allowBlank: true, defaultSelect: false, validateOnBlur: false });
+
+            $(".cal").keyup(function () {
+
+                var UpdateValue = 0;
+                var field = $(this).attr("f_name");
+                var BidItemID = $(this).attr("BidItemID");
+                var BidId = $(this).attr("BidId");
+                var RecID = $(this).attr("RecID");
+                var curentrate = $(".curentrate").html();
+                var ShippingTotalLc = $(".ShippingTotalLc").val();
+                var ShippingTotalUSD = $(".ShippingTotalUSD").html();
+
+                ShippingTotalLc = parseFloat(ShippingTotalLc);
+                ShippingTotalUSD = parseFloat(ShippingTotalUSD);
+
+                var objpricelc = $(this).closest(".row").find(".pricelc");
+                var priceusd = $(this).closest(".row").find(".priceusd");
+                var VendorDescription = $(this).closest(".row").find(".description");
+                var BidQty = $(this).closest(".row").find(".qty");
+                var UnitPrice = $(this).closest(".row").find(".unit");               
+
+                
+                BidItemID = parseInt(BidItemID);
+                BidId = parseInt(BidId);
+                RecID = parseInt(RecID);
+
+                var bq = $(BidQty).val();
+                var up = $(UnitPrice).val();
+                var vd = $(VendorDescription).val().replace("'","`");
+                if (isNaN(parseFloat(bq)))
+                {
+                    bq = 0.0;
+                }
+                if (isNaN(parseFloat(up))) {
+                    up = 0.0;
+                }
+
+                if (parseFloat(bq) < 0) {
+                    bq = Math.abs(bq);
+                    $(this).closest(".row").find(".qty").val(bq);
+                }
+                if (parseFloat(up) < 0) {
+                    up = Math.abs(up);
+                    $(this).closest(".row").find(".unit").val(up);
+                }
+
+
+                $.ajax({
+                    url: 'QuoteManager.aspx/Update_unitpriceAndquantity',
+                    data: "{ 'BidItemID': '" + BidItemID + "','BidQty': '" + bq + "','UnitPrice': '" + up + "','BidId': '" + BidId + "','RecID': '" + RecID + "','curentrate': '" + curentrate + "','vendordescription': '" + vd + "' }",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (data) {
+                        var myobj = JSON.parse(data.d);
+                        objpricelc.html(parseFloat(myobj.priceLC).toFixed(2));
+                        priceusd.html(parseFloat(myobj.priceUSD).toFixed(2));
+
+                        var totPriceLC = 0;
+                        var totPriceUsd = 0;
+                        $(".cal.pricelc").each(function () {
+                            totPriceLC = totPriceLC + parseFloat($(this).html());
+                        });
+                        $(".cal.priceusd").each(function () {
+                            totPriceUsd = totPriceUsd + parseFloat($(this).html());
+
+                        });
+
+                        totPriceLC = totPriceLC + ShippingTotalLc;
+                        totPriceUsd = totPriceUsd + ShippingTotalUSD;
+                        $(".QuoteTotalLc").html(totPriceLC.toFixed(2));
+                        $(".QuoteTotalUsd").html(totPriceUsd.toFixed(2));
+                    },
+                    error: function (data, status, jqXHR) { alert(jqXHR); }
+                });
+            });
+        }
+        $(document).ready(function () {
+            AttachFunc();
+        })
+    </script>
+
+</head>
+<body>
+    <form name="form1" method="post" action="./quotemanager.aspx?key=435798&amp;validate=0.498026976432127" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="ToolkitScriptManager1_HiddenField" id="ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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cXVvdGF0aW9uIGZvciB5b3VyIGNvbnNpZGVyYXRpb24uID09IFJFQ09NTUVOREVEIFNUQU5EQVJESVNFRCBFUVVJVkFMRU5UIENIRU1JQ0FMIEl0ZW0gMSA6IFVOSVdBU0ggLSB0byBvZmZlciBGT1JFIEFORCBBRlQgRURQIzU3MTU1NCA9PSBJdGVtIDIgOiBFRFAjNjI0Nzc1IGlzIHN1cGVyc2VkZWQgYnkgRURQIzc3ODkwMiBQT09MUE9XRVIgOTAgMjVLRy4gSG93ZXZlciBpdHMgcHJvaGliaXRlZCBpbiBVU0EsIHRodXMgd2Ugb2ZmZXIgYWx0ZXJuYXRpdmUgRURQI0wxNjA0NDEgQ0hMT1JJTkFUSU5HIFRBQkxFVFMsIDMiLiBBbGwgcXVvdGVkIGl0ZW1zIGFyZSBleC1zdG9jayBzdWJqZWN0IHRvIHByaW9yIHNhbGVzLiBFWENFUFQgOiBJdGVtIDIgaXMgTm9uLVN0YW5kYXJkIChOUykgaXRlbSBhbmQgY2FuIGJlIGxvY2FsbHkgc291cmNlZCB3aXRoIGxlYWQgdGltZSBvZiA1IC0gOCB3b3JraW5nIGRheXMgdXBvbiBvcmRlciBjb25maXJtYXRpb24uIFN0YW5kYXJkIHBhY2thZ2luZyBpcyAyMyBLRy9QQUlMLiBOb24tc3RhbmRhcmQgaXRlbXMgY2Fubm90IGJlIHJldHVybmVkIG9uY2UgZGVsaXZlcmVkLiBOb24tc3RhbmRhcmQgaXRlbXMgdGhhdCBhcmUgb24gb3JkZXIgZnJvbSBzdXBwbGllciBjYW5ub3QgYmUgY2FuY2VsbGVkIG9uY2UgY29uZmlybWF0aW9uIGhhcyBiZWVuIHJlY2VpdmVkIGZyb20gc3VwcGxpZXIuIERlbGl2ZXJ5IENoYXJnZSAoYWxvbmdzaWRlKSBAIFBvcnQgSE9VU1RPTiA6IFVTRCA1MyBEZWxpdmVyeSBMZWFkIHRpbWU6IDIgLSAzIHdvcmtpbmcgZGF5cy4gU3ViamVjdCB0byBhZGRpdGlvbmFsIGRlbGl2ZXJ5IGNoYXJnZSwgaGlyZSBvZiBiYXJnZS9jcmFuZSwgY3VzdG9tIGZlZSwgZXRjLiBQbGVhc2UgYWxsb3cgYW5vdGhlciAxLTIgd29ya2luZyBkYXlz4oCZIG5vdGljZSBmb3IgZGVsaXZlcnkgYXJyYW5nZW1lbnQuIFdlIGxvb2sgZm9yd2FyZCB0byByZWNlaXZpbmcgeW91ciBlYXJsaWVzdCBvcmRlciBjb25maXJtYXRpb24uIEJlc3QgUmVnYXJkcywgRW1pbGVlIEhlbmcgR2VuZXJhbCBDb25kaXRpb25zOiBUaGUgcHJvdmlzaW9uIG9mIHByb2R1Y3RzIGFuZC9vciBzZXJ2aWNlcyBieSBXaWxoZWxtc2VuIFNoaXBzIFNlcnZpY2VzIChXU1MpIGlzIGF0IGFsbCB0aW1lcyBzdWJqZWN0IHRvIHRoZSBXU1MgU3RhbmRhcmQgVGVybXMgYW5kIENvbmRpdGlvbnMgZm9yIHRoZSBTdXBwbHkgb2YgUHJvZHVjdHMgYW5kIEdhcyBDeWxpbmRlcnMuIFRoZXNlIGNhbiBiZSBmb3VuZCBhdDogaHR0cDovL3dpbGhlbG1zZW4uY29tL3Rlcm1zLWFuZC1jb25kaXRpb25zLyBkZAIDDxYCHwRnFiYCAQ8PFgIfBQUPTVRIIC0gODIyMCAtIEExZGQCAw8PFgIfBQULMTEtSnVsLTIwMTlkZAIFDw8WAh8FBQswOC1BdWctMjAxOWRkAgcPDxYCHwUFA1VTRGRkAgkPDxYCHwUFATFkZAILDxYCHwRoZAINDxYCHwRoFgoCAQ8PFgIfBWVkZAIDDw8WAh8FZWRkAgUPDxYCHwVlZGQCBw8PFgIfBWVkZAIJDw8WAh8FZWRkAg8PDxYCHwUFCzI1LUF1Zy0yMDE5ZGQCEQ8PFgIfBQUHSE9VU1RPTmRkAhMPDxYCHwUFBzUxNjI4OTlkZAIVDw8WAh8FZWRkAhcPDxYCHwUF6AdJdGVtIEFkZGVkIC0gNyA6IEZJWEVEIENIQVJHRSBMQVNUIE1JTEUgREVMSVZFUlkgfCBRVFkgOiAxIHwgVU9NIDogUENTIHwgUHJpY2UgOiA1MyBVU0QgSXRlbSBUb3RhbCA6IDI1MzcuNDggKGluY2x1ZGluZyBhZGRpdGlvbmFsIGl0ZW1zKVRoYW5rcyBmb3IgeW91ciBpbnF1aXJ5LiBXZXJlIHBsZWFzZWQgdG8gb2ZmZXIgb3VyIHF1b3RhdGlvbiBmb3IgeW91ciBjb25zaWRlcmF0aW9uLiA9PSBSRUNPTU1FTkRFRCBTVEFOREFSRElTRUQgRVFVSVZBTEVOVCBDSEVNSUNBTCBJdGVtIDEgOiBVTklXQVNIIC0gdG8gb2ZmZXIgRk9SRSBBTkQgQUZUIEVEUCM1NzE1NTQgPT0gSXRlbSAyIDogRURQIzYyNDc3NSBpcyBzdXBlcnNlZGVkIGJ5IEVEUCM3Nzg5MDIgUE9PTFBPV0VSIDkwIDI1S0cuIEhvd2V2ZXIgaXRzIHByb2hpYml0ZWQgaW4gVVNBLCB0aHVzIHdlIG9mZmVyIGFsdGVybmF0aXZlIEVEUCNMMTYwNDQxIENITE9SSU5BVElORyBUQUJMRVRTLCAzIi4gQWxsIHF1b3RlZCBpdGVtcyBhcmUgZXgtc3RvY2sgc3ViamVjdCB0byBwcmlvciBzYWxlcy4gRVhDRVBUIDogSXRlbSAyIGlzIE5vbi1TdGFuZGFyZCAoTlMpIGl0ZW0gYW5kIGNhbiBiZSBsb2NhbGx5IHNvdXJjZWQgd2l0aCBsZWFkIHRpbWUgb2YgNSAtIDggd29ya2luZyBkYXlzIHVwb24gb3JkZXIgY29uZmlybWF0aW9uLiBTdGFuZGFyZCBwYWNrYWdpbmcgaXMgMjMgS0cvUEFJTC4gTm9uLXN0YW5kYXJkIGl0ZW1zIGNhbm5vdCBiZSByZXR1cm5lZCBvbmNlIGRlbGl2ZXJlZC4gTm9uLXN0YW5kYXJkIGl0ZW1zIHRoYXQgYXJlIG9uIG9yZGVyIGZyb20gc3VwcGxpZXIgY2Fubm90IGJlIGNhbmNlbGxlZCBvbmNlIGNvbmZpcm1hdGlvbiBoYXMgYmVlbiByZWNlaXZlZCBmcm9tIHN1cHBsaWVyLiBEZWxpdmVyeSBDaGFyZ2UgKGFsb25nc2lkZSkgQCBQb3J0IEhPVVNUT04gOiBVU0QgNTMgRGVsaXZlcnkgTGVhZCB0aW1lOiAyIC0gMyB3b3JraW5nIGRheXMuIFN1YmplY3QgdG8gYWRkaXRpb25hbCBkZWxpZGQCGQ8PFgIfBQUFNTMuMDBkZAIbDw8WAh8FBQU1My4wMGRkAh0PFgIfCQIGFgxmD2QWAmYPFQsBMRFVbml0b3IgNjUxIDU3MTc0NQAAOVVuaS1XYXNoICgyNSBsdHJzL2NvbnRhaW5lcikgVW5pLVdhc2ggKDI1IGx0cnMvY29udGFpbmVyKSBRdW90ZWQgUXR5OiA1MDsgUXVvdGVkIFVuaXQ6IExUUgI1MARMVFJTAzIuOAYxNDAuMDAGMTQwLjAwZAIBD2QWAmYPFQsBMhFVbml0b3IgNjU3IDYyNDc3NQAAT0NobG9yaW5hdGluZyBUYWJsZXRzICggMSBwYWlsLzIyLjYga2cgKSBDaGxvcmluYXRpbmcgVGFibGV0cyAoIDEgcGFpbC8yMi42IGtnICkfUXVvdGVkIFF0eTogMjM7IFF1b3RlZCBVbml0OiBLRwIyMwRQQUlMBDE3LjgGNDA5LjQwBjQwOS40MGQCAg9kFgJmDxULATMRVW5pdG9yIDY1NSA1NzEzMzEAAElCb2lsZXIgQ29hZ3VsYW50ICgyNSBsdHJzL2NvbnRhaW5lcikgQm9pbGVyIENvYWd1bGFudCAoMjUgbHRycy9jb250YWluZXIpIFF1b3RlZCBRdHk6IDUwOyBRdW90ZWQgVW5pdDogTFRSAjUwBExUUlMENy4zMgYzNjYuMDAGMzY2LjAwZAIDD2QWAmYPFQsBNBFVbml0b3IgNjUyIDU3MTM4MAAAP0Vudmlyb2NsZWFuICgyNSBsdHJzL2NvbnRhaW5lcikgRW52aXJvY2xlYW4gKDI1IGx0cnMvY29udGFpbmVyKSBRdW90ZWQgUXR5OiA1MDsgUXVvdGVkIFVuaXQ6IExUUgI1MARMVFJTBDUuMDkGMjU0LjUwBjI1NC41MGQCBA9kFgJmDxULATURVW5pdG9yIDY1NiA1NzE3MTEAAE9HYW1henltZSA3MDBGTiAoIDIgY29udGFpbmVycyB4IDEyIGtnICkgR2FtYXp5bWUgNzAwRk4gKCAyIGNvbnRhaW5lcnMgeCAxMiBrZyApH1F1b3RlZCBRdHk6IDI0OyBRdW90ZWQgVW5pdDogS0cCMjQDS0dTBTQ1LjA5CDEsMDgyLjE2CDEsMDgyLjE2ZAIFD2QWAmYPFQsBNhFVbml0b3IgNjUxIDYwNzgxOQAAalVuaXRvciBVU0MgVWx0cmFzb25pYyBDbGVhbmVyICggMyBjYXJ0b25zIHggMTIgYm90IFVuaXRvciBVU0MgVWx0cmFzb25pYyBDbGVhbmVyICggMyBjYXJ0b25zIHggMTIgYm90dGxlcykgUXVvdGVkIFF0eTogMzY7IFF1b3RlZCBVbml0OiBMVFICMzYETFRSUwQ2LjQ2BjIzMi41NgYyMzIuNTZkAh8PDxYCHwUFBzI1MzcuNjJkZAIhDw8WAh8FBQcyNTM3LjYyZGQCJw8PFgIfBGhkZAIpDxcDBQNjc3NlBQRCQVNFZAUPUmVwb3J0Vmlld1N0YXRlFwMFB1JlZnJlc2hoBRJQYWdlUmVxdWVzdENvbnRleHQXAwUVSXNMYXN0UGFnZU51bWJlcktub3duaAUKUGFnZU51bWJlcgIBBQ5MYXN0UGFnZU51bWJlcmYFB0ZhY3RvcnkFlgFDcnlzdGFsRGVjaXNpb25zLlJlcG9ydFNvdXJjZS5SZXBvcnRTb3VyY2VGYWN0b3J5LENyeXN0YWxEZWNpc2lvbnMuUmVwb3J0U291cmNlLCBWZXJzaW9uPTEwLjUuMzcwMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTY5MmZiZWE1NTIxZTEzMDQWAgICDxcEBQRzaXBuZgUCYnMCn////w8FA3BzdGQFA3Nod2gWAgILDxAPFgIfCGdkDxYBZhYBEAULTWFpbiBSZXBvcnQFqANBQUVBQUFELy8vLy9BUUFBQUFBQUFBQUVBUUFBQUJ4VGVYTjBaVzB1UTI5c2JHVmpkR2x2Ym5NdVNHRnphSFJoWW14bEJ3QUFBQXBNYjJGa1JtRmpkRzl5QjFabGNuTnBiMjRJUTI5dGNHRnlaWElRU0dGemFFTnZaR1ZRY205MmFXUmxjZ2hJWVhOb1UybDZaUVJMWlhsekJsWmhiSFZsY3dBQUF3TUFCUVVMQ0J4VGVYTjBaVzB1UTI5c2JHVmpkR2x2Ym5NdVNVTnZiWEJoY21WeUpGTjVjM1JsYlM1RGIyeHNaV04wYVc5dWN5NUpTR0Z6YUVOdlpHVlFjbTkyYVdSbGNnanNVVGcvQkFBQUFBb0tCd0FBQUFrQ0FBQUFDUU1BQUFBUUFnQUFBQU1BQUFBR0JBQUFBQTVNWVhOMFVHRm5aVTUxYldKbGNnWUZBQUFBQ2xCaFoyVk9kVzFpWlhJR0JnQUFBQlZKYzB4aGMzUlFZV2RsVG5WdFltVnlTMjV2ZDI0UUF3QUFBQU1BQUFBSUNBQUFBQUFJQ0FFQUFBQUlBUUFMZxYBZmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgsFIENyeXN0YWxSZXBvcnRWaWV3ZXIxJGN0bDAyJGN0bDAwBSBDcnlzdGFsUmVwb3J0Vmlld2VyMSRjdGwwMiRjdGwwMQUgQ3J5c3RhbFJlcG9ydFZpZXdlcjEkY3RsMDIkY3RsMDIFIENyeXN0YWxSZXBvcnRWaWV3ZXIxJGN0bDAyJGN0bDAzBSBDcnlzdGFsUmVwb3J0Vmlld2VyMSRjdGwwMiRjdGwwNAUgQ3J5c3RhbFJlcG9ydFZpZXdlcjEkY3RsMDIkY3RsMDUFIENyeXN0YWxSZXBvcnRWaWV3ZXIxJGN0bDAyJGN0bDA2BSBDcnlzdGFsUmVwb3J0Vmlld2VyMSRjdGwwMiRjdGwwNwUgQ3J5c3RhbFJlcG9ydFZpZXdlcjEkY3RsMDIkY3RsMTAFIENyeXN0YWxSZXBvcnRWaWV3ZXIxJGN0bDAyJGN0bDEyBSBDcnlzdGFsUmVwb3J0Vmlld2VyMSRjdGwwMiRjdGwxNEnkIwVa2etYdhx2sqt7QBlYMnDWJM9GpH8iHQGJPbv3" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/public/WebResource.axd?d=Bzk0sMnMIYDTremhGBrf8dDzTihCDblvl1PmQsJ0dCNHYvJVTNaijW85wGtUCa7B1b7A3u7ygCr3e9H7zAR9Z3tl4-xZuq-Bexoq58Ri6S41&amp;t=636511736826842555" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+function ScrollToCrystalHighLighted() {
+                var highlighted = document.getElementById('CrystalHighLighted');
+                if(highlighted != null)
+                {
+                    var offset = highlighted.offsetTop;
+                    var myOffsetParent = highlighted.offsetParent;
+                    while( myOffsetParent )
+                    {
+                        offset += myOffsetParent.offsetTop;
+                        myOffsetParent = myOffsetParent.offsetParent;
+                    }
+                    window.scrollTo( 0, offset);
+                }
+            }//]]>
+</script>
+
+<script src="/public/ScriptResource.axd?d=USCqDBoAA_1722uYPKCGNfCv7x2dVeW-kFC6o0L0TClfME-8-7R6Nl7BRlY-4a_TY20HAp3Rn5e-0b0HlDwMAxJXSx6kwDHHrDPN9EhWOahDiy8Q3ZeI76m2TXtjMc4tacJaQg2pYbcRCiv-EwrisQ2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/public/ScriptResource.axd?d=jwji612utBRFDKRFbU1jJczxwITYdVvSiUwkAsYUYEvr1YU4ScEyEDq0qOvvbBzlloh8MBmttJBYnp5DZrO1yIyXOatqWq50_DqxAezU66m3ydaQBY-9XyNdUDTuq9AH0l1JKKZILNKyjeB6t2YlUA2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3E5CF63C" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAMsPwIQnAMtIhwc14ZxjQuk9Ry7q7Arm5KiVHJT/vcoOx5nZ+D7PsIbGz6fLLnJ8Kukx4GhmfnJE1AtnfAZaXFHAyBrCnlJKy1Q6Qc+z5L4Qw==" />
+</div>
+        
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ToolkitScriptManager1', 'form1', [], [], [], 90, '');
+//]]>
+</script>
+       
+        
+        
+
+
+             <div id="UpdatePanel2">
+	
+        
+        
+
+        <div id="dv_Final" style="position: absolute; top: 0px; left: 0px; height: 100%; width: 100%;">
+                <center>
+                  <div style="position: absolute; top: 0px; left: 0px; height: 100%; width: 100%;background-color: black; z-index: 305; opacity: 0.8; filter: alpha(opacity=80)"></div>
+                  <div style="position: absolute; left:30px; right:30px;top:30px;bottom:30px; padding: 0px; text-align: center;background: white; z-index: 306; border: solid 10px #333;font-size:11px;">
+                      <div style="font-size:16px;height:24px;line-height:24px;font-weight:bold;background-color:#1aac9a;color:white;">Request For Quote</div>
+                      <div>
+                          <div style="position:absolute;top:24px;left:0px;bottom:100px;width:300px;overflow-x:hidden;overflow-y:scroll;">
+                            <div style="padding:3px; text-align:left;border-bottom:solid 2px #f63623;color:#f63623">
+                           <b>RFQ Details </b>
+                              </div>
+                          <div style="background-color:#f3f3f3;">
+                            <table width="100%">
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right; width:110px;">RFQ # </td>
+                                          <td style="text-align:left;"> : <span id="lblRFQNo_P" style="font-weight:bold;">MTH - 8220 - A1</span></td>                                          
+                                      </tr>
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right;">RFQ Date</td>
+                                          <td style="text-align:left"> : <span id="lblRFQDate_P" style="font-weight:bold;">11-Jul-2019</span></td>     
+                                      </tr>
+                                    </table>
+                          </div>
+                          <div style="padding:3px; text-align:left;border-bottom:solid 2px #1aac9a;color:#1aac9a">
+                           <b>Currency & Exchange Rates </b>
+                              </div>
+                          <div style="background-color:#f3f3f3;">
+                            <table width="100%">
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right;width:110px;">Date </td>
+                                          <td style="text-align:left;"> : <span id="lblRateDate_P" style="font-weight:bold;">08-Aug-2019</span></td>                                          
+                                         </tr>
+                                      <tr>
+                                           <td style="padding:5PX; text-align:right;">Currency </td>
+                                          <td style="text-align:left;"> : <span id="lblCurr_P" style="font-weight:bold;">USD</span></td>     
+                                     </tr>
+                                      <tr>
+                                                <td style="padding:5PX;; text-align:right;">Exch. Rates </td>
+                                          <td style="text-align:left"> : <span id="lblExchRates_P" style="font-weight:bold;">1</span></td>     
+                                      </tr>
+                                    </table>
+                          </div>
+                          
+                          
+                          <div style="padding:3px; text-align:left;border-bottom:solid 2px #178dd1;color:#178dd1">
+                           <b>Delivery Details & Vendor Comments </b>
+                          </div>
+                          <div style="background-color:#f3f3f3;">
+                            <table width="100%">
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right;width:110px;">Delivery Date </td>
+                                          <td style="text-align:left;"> : <span id="lblDelDate_P" style="font-weight:bold;">25-Aug-2019</span></td>                                          
+                              </tr>
+                                      <tr>
+                                                      <td style="padding:5PX; text-align:right;">Delivery Port </td>
+                                          <td style="text-align:left;"> : <span id="lblDelPort_P" style="font-weight:bold;">HOUSTON</span></td>     
+                                </tr>
+                                      <tr>
+                                                    <td style="padding:5PX;text-align:right;">Quote Ref. No.</td>
+                                          <td style="text-align:left;"> : <span id="lblQRNo_P" style="font-weight:bold;">5162899</span></td>     
+                            </tr>
+                                      <tr>              <td style="padding:5PX;text-align:right;">Quote Exp. Date.</td>
+                                          <td style="text-align:left"> : <span id="lblQRExpDt_P" style="font-weight:bold;"></span></td>     
+                                      </tr>
+                                 <tr>
+                                          <td style="padding:5PX;text-align:center; " colspan="3">
+                                              Vendor Comments
+                                              <div style="font-weight:bold; padding:5px; font-style:italic; text-align:left; color:red">
+                                                  <span id="lblVC_P" style="font-weight:bold;">Item Added - 7 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 53 USD Item Total : 2537.48 (including additional items)Thanks for your inquiry. Were pleased to offer our quotation for your consideration. == RECOMMENDED STANDARDISED EQUIVALENT CHEMICAL Item 1 : UNIWASH - to offer FORE AND AFT EDP#571554 == Item 2 : EDP#624775 is superseded by EDP#778902 POOLPOWER 90 25KG. However its prohibited in USA, thus we offer alternative EDP#L160441 CHLORINATING TABLETS, 3". All quoted items are ex-stock subject to prior sales. EXCEPT : Item 2 is Non-Standard (NS) item and can be locally sourced with lead time of 5 - 8 working days upon order confirmation. Standard packaging is 23 KG/PAIL. Non-standard items cannot be returned once delivered. Non-standard items that are on order from supplier cannot be cancelled once confirmation has been received from supplier. Delivery Charge (alongside) @ Port HOUSTON : USD 53 Delivery Lead time: 2 - 3 working days. Subject to additional deli</span>
+                                              </div>
+                                          </td>
+                                          
+                                      </tr>
+                             </table>
+                          </div>
+                          <div style="padding:3px; text-align:left;border-bottom:solid 2px #d516d7;color:#d516d7">
+                           <b>Shipping and handling Charges </b>
+                          </div>
+                          <div style="background-color:#f3f3f3;">
+                            <table width="100%">
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right;width:110px;">LC </td>
+                                          <td style="text-align:left;"> : <span id="lblLC_P" style="font-weight:bold;">53.00</span></td>                                          
+                              </tr>
+                                      <tr>
+                                                      <td style="padding:5PX; text-align:right;">USD </td>
+                                          <td style="text-align:left;"> : <span id="lblUSD_P" style="font-weight:bold;">53.00</span></td>     
+                                </tr>
+                                    
+                             </table>
+                          </div>
+                          </div>
+                          <div style="position:absolute;top:24px;left:300px;bottom:100px;right:0px;overflow-x:hidden;overflow-y:hidden;">
+                              <div>
+                                  <table width="100%" class="bordered" cellpadding="0" cellspacing="0" style="border-collapse:collapse;height:40px;margin-right:17px;">
+                                      <tr style="font-weight:bold; background-color:#b3ded9;">
+                                          <td style="width:40px">Sr#</td>
+                                          <td style="text-align:left">
+                                              [ <span style="color:darkorange">Part #</span>
+                                              <b>/</b>
+                                              <span style="color:green">Drawing #</span>
+                                              <b>/</b>
+                                              <span style="color:Blue">Code #</span> ]
+                                              <br />
+                                              Item Name</td>
+                                          <td style="width:70px">Bid Qty</td>
+                                          <td style="width:100px">Unit</td>
+                                          <td style="width:80px">Unit Price</td>
+                                          <td style="width:100px">Amount (LC)</td>
+                                          <td style="width:120px">Amount (USD)</td>
+                                          <td style="width:17px">&nbsp;</td>
+                                      </tr>
+                                  </table>
+                                  <div style="position:absolute;top:40px;left:0px;bottom:0px;right:0px;overflow-x:hidden;overflow-y:scroll;">
+                                      <table width="100%" class="bordered" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+                                          
+                                                  <tr>
+                                                      <td style="width:40px">1.</td>
+                                                      <td style="text-align:left;">
+                                                          [ <span style="color:darkorange">Unitor 651 571745</span>
+                                                          <span style="color:green"></span>
+                                                          <span style="color:blue"></span> ]
+                                                          <br />
+                                                          Uni-Wash (25 ltrs/container) Uni-Wash (25 ltrs/container)
+                                                          <div style="color:red;font-style:italic; font-weight:bold;">
+                                                              Quoted Qty: 50; Quoted Unit: LTR                                                          
+                                                          </div>
+                                                      </td>
+                                                      <td style="text-align:right;width:70px">50</td>
+                                                      <td style="text-align:left;width:100px">LTRS</td>
+                                                      <td style="text-align:right;width:80px">2.8</td>
+                                                      <td style="text-align:right;width:100px">140.00</td>
+                                                      <td style="text-align:right;width:120px">140.00</td>
+                                                  </tr>
+                                              
+                                                  <tr>
+                                                      <td style="width:40px">2.</td>
+                                                      <td style="text-align:left;">
+                                                          [ <span style="color:darkorange">Unitor 657 624775</span>
+                                                          <span style="color:green"></span>
+                                                          <span style="color:blue"></span> ]
+                                                          <br />
+                                                          Chlorinating Tablets ( 1 pail/22.6 kg ) Chlorinating Tablets ( 1 pail/22.6 kg )
+                                                          <div style="color:red;font-style:italic; font-weight:bold;">
+                                                              Quoted Qty: 23; Quoted Unit: KG                                                          
+                                                          </div>
+                                                      </td>
+                                                      <td style="text-align:right;width:70px">23</td>
+                                                      <td style="text-align:left;width:100px">PAIL</td>
+                                                      <td style="text-align:right;width:80px">17.8</td>
+                                                      <td style="text-align:right;width:100px">409.40</td>
+                                                      <td style="text-align:right;width:120px">409.40</td>
+                                                  </tr>
+                                              
+                                                  <tr>
+                                                      <td style="width:40px">3.</td>
+                                                      <td style="text-align:left;">
+                                                          [ <span style="color:darkorange">Unitor 655 571331</span>
+                                                          <span style="color:green"></span>
+                                                          <span style="color:blue"></span> ]
+                                                          <br />
+                                                          Boiler Coagulant (25 ltrs/container) Boiler Coagulant (25 ltrs/container)
+                                                          <div style="color:red;font-style:italic; font-weight:bold;">
+                                                              Quoted Qty: 50; Quoted Unit: LTR                                                          
+                                                          </div>
+                                                      </td>
+                                                      <td style="text-align:right;width:70px">50</td>
+                                                      <td style="text-align:left;width:100px">LTRS</td>
+                                                      <td style="text-align:right;width:80px">7.32</td>
+                                                      <td style="text-align:right;width:100px">366.00</td>
+                                                      <td style="text-align:right;width:120px">366.00</td>
+                                                  </tr>
+                                              
+                                                  <tr>
+                                                      <td style="width:40px">4.</td>
+                                                      <td style="text-align:left;">
+                                                          [ <span style="color:darkorange">Unitor 652 571380</span>
+                                                          <span style="color:green"></span>
+                                                          <span style="color:blue"></span> ]
+                                                          <br />
+                                                          Enviroclean (25 ltrs/container) Enviroclean (25 ltrs/container)
+                                                          <div style="color:red;font-style:italic; font-weight:bold;">
+                                                              Quoted Qty: 50; Quoted Unit: LTR                                                          
+                                                          </div>
+                                                      </td>
+                                                      <td style="text-align:right;width:70px">50</td>
+                                                      <td style="text-align:left;width:100px">LTRS</td>
+                                                      <td style="text-align:right;width:80px">5.09</td>
+                                                      <td style="text-align:right;width:100px">254.50</td>
+                                                      <td style="text-align:right;width:120px">254.50</td>
+                                                  </tr>
+                                              
+                                                  <tr>
+                                                      <td style="width:40px">5.</td>
+                                                      <td style="text-align:left;">
+                                                          [ <span style="color:darkorange">Unitor 656 571711</span>
+                                                          <span style="color:green"></span>
+                                                          <span style="color:blue"></span> ]
+                                                          <br />
+                                                          Gamazyme 700FN ( 2 containers x 12 kg ) Gamazyme 700FN ( 2 containers x 12 kg )
+                                                          <div style="color:red;font-style:italic; font-weight:bold;">
+                                                              Quoted Qty: 24; Quoted Unit: KG                                                          
+                                                          </div>
+                                                      </td>
+                                                      <td style="text-align:right;width:70px">24</td>
+                                                      <td style="text-align:left;width:100px">KGS</td>
+                                                      <td style="text-align:right;width:80px">45.09</td>
+                                                      <td style="text-align:right;width:100px">1,082.16</td>
+                                                      <td style="text-align:right;width:120px">1,082.16</td>
+                                                  </tr>
+                                              
+                                                  <tr>
+                                                      <td style="width:40px">6.</td>
+                                                      <td style="text-align:left;">
+                                                          [ <span style="color:darkorange">Unitor 651 607819</span>
+                                                          <span style="color:green"></span>
+                                                          <span style="color:blue"></span> ]
+                                                          <br />
+                                                          Unitor USC Ultrasonic Cleaner ( 3 cartons x 12 bot Unitor USC Ultrasonic Cleaner ( 3 cartons x 12 bottles)
+                                                          <div style="color:red;font-style:italic; font-weight:bold;">
+                                                              Quoted Qty: 36; Quoted Unit: LTR                                                          
+                                                          </div>
+                                                      </td>
+                                                      <td style="text-align:right;width:70px">36</td>
+                                                      <td style="text-align:left;width:100px">LTRS</td>
+                                                      <td style="text-align:right;width:80px">6.46</td>
+                                                      <td style="text-align:right;width:100px">232.56</td>
+                                                      <td style="text-align:right;width:120px">232.56</td>
+                                                  </tr>
+                                              
+                                      </table>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      
+                      <div style="position:absolute; left:0px;bottom:0px; width:100%; font-size :14px;font-weight:bold;background-color:#feffc0;height:100px;">
+                          <div style="padding:5px; text-align:right;">
+                              <span style="float:left">
+                                  <div>
+                                      <table width="100%">
+                                          <tr>
+                                              <td>Total Amount ( LC ) </td>
+                                              <td style="width:150px; text-align:left">: <span id="lblTotLC_P" style="font-size:20px;font-weight:bold;">2537.62</span></td>
+                                              <td>Total Amount ( USD ) </td>
+                                              <td>: <span id="lblTotUSD_P" style="font-size:20px;font-weight:bold;">2537.62</span></td>
+                                          </tr>
+                                      </table>
+                                  </div>
+                              </span>
+                            <input type="submit" name="btnFinal" value="Yes - Submit My Quote" id="btnFinal" style="height:40px;width:180px;text-align:center;background-color:#1cb011;font-size:13px;border:none;color:white;margin-left:10px;" />
+                            <input type="submit" name="btnBack" value="Go Back to Editing" id="btnBack" style="height:40px;width:180px;text-align:center;background-color:#f52b0f;font-size:13px;border:none;color:white;margin-left:10px;" />
+                            
+                 
+                          </div>
+                              <div style="width:100%; color:red; text-align:center;padding:8px;font-weight:bold;">
+                                  NOTE : Please review your quote and press submit button to submit your quote.
+                              </div>
+                          <div style="display:none;">
+                                <LINK rel="stylesheet" type="text/css" href="/aspnet_client/System_Web/4_7_2623/CrystalReportWebFormViewer4/css/default.css">
+                          </div>
+                      </div>
+                  </div>
+                 </center>
+             </div>
+     
+            
+</div>
+       
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();settop();ScrollToCrystalHighLighted();//]]>
+</script>
+</form>
+    <script type="text/javascript">
+        function settop()
+        {
+            $(".content").css("margin-top", $(".FixedHeader").height() + 'px');
+	    $(".content").css("padding-bottom", '130px');
+//            $(document.body).css("margin-bottom", ($(".footer").height() + 300) + 'px');
+        }
+        $(document).ready(function () {
+            settop();
+        });
+        $(window).resize(function () {
+            settop();
+        });
+    </script>
+     <script type="text/javascript">
+       
+</script>
+</body>
+</html>

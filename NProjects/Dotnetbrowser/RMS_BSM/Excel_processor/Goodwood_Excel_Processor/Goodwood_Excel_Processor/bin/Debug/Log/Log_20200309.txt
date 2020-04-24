@@ -1,0 +1,168 @@
+3/9/2020 1:49:08 PM ========================================================
+3/9/2020 1:49:08 PM Excel Special Routine started.
+3/9/2020 1:49:08 PM 1 Excel file found.
+3/9/2020 1:49:11 PM Process started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:49:12 PM Loading config mapping file 'BS_Excel_Mapping.xml'
+3/9/2020 1:49:12 PM Loading Excel Routine started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:49:19 PM Loading Excel Routine successful for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:49:22 PM Processing RFQ details for 9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm
+3/9/2020 1:49:43 PM Reading Header Details started.
+3/9/2020 1:49:43 PM Buyer Ref : END/O0046/RF20
+3/9/2020 1:49:43 PM Vessel : Flex Endeavour
+3/9/2020 1:49:43 PM Doc_Date : 2/20/2020 12:00:00 AM
+3/9/2020 1:49:43 PM Currency : 
+3/9/2020 1:49:43 PM PortCode : Kaohsiung
+3/9/2020 1:49:43 PM VendorName : ACE-RMS MARINE SERVICE CO., LTD
+3/9/2020 1:49:56 PM Processing Item details.
+3/9/2020 1:49:56 PM Item details Add to the List : 1~REGULATOR DEMAND FLOW , FOR SPAN GAS 34/58/110LTR~851596~~~~~1~PCS~~~~~~20~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 2~REGULATOR FIXED FLOW F/SPANGAS, FLOW RATE 1.0LTR/MIN~851595~~~~~1~PCS~~~~~~21~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 3~REGULATOR FIXED FLOW F/SPANGAS, FLOW RATE 0.3LTR/MIN~851593~~~~~1~PCS~~~~~~22~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 4~NITROGEN 99.9% GAS 50LTR CYLINDER REFILL, NOMINAL FILLING PRESSURE 200BAR~DREW 725000~~~~~2~PCS~~~~~~23~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 5~REGULATOR 510 N2 PRESSURE 0 -1 BAR~UNITOR 510003~~~~~1~PC~~~~~~24~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 6~Return clamp 400 amps. Jaw opening 70 mm.~UNITOR 653899~~~~~2~PCS~~~~~~25~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 7~ELECTRODE HOLDER TWISTY 400 AMP FOR ELECTRODE DIA 1.6 TO 5 MM~513051~~~~~2~PCS~~~~~~26~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 8~18/8-321N 1,6X300MM 213 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699397~~~~~2~PCS~~~~~~27~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 9~18/8-321N 2.5X300MM 89 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699405~~~~~2~PCS~~~~~~28~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 10~18/8-321N 3.2X300MM 54 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699413~~~~~2~PCS~~~~~~29~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 11~LHR-320N 2.5X350MM 88 ELECTRODES 1.7KG-COATED STICK ELECTODES~683656~~~~~4~PCS~~~~~~30~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 12~LHR-320N 3.2X350MM 48 ELECTRODES 1.8KG-COATED STICK ELECTODES~699389~~~~~4~PCS~~~~~~31~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 13~LH-314N BOX 3.2X450MM 96 ELECTRODES 5KG-COATED STICK ELECTODES~699272~~~~~4~PCS~~~~~~32~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 14~LH-314N BOX 2.5X350MM 161 ELECTRODES 4.0KG-COATED STICK ELECTODES~699264~~~~~4~PCS~~~~~~33~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 15~GPO-302N BOX 2.5X350MM 295 ELECTRODES 5.2KG-COATED STICK ELECTODES~699165~~~~~4~PCS~~~~~~34~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Item details Add to the List : 16~GPO-302N BOX 3.2X350MM 190 ELECTRODES 5.4KG-COATED STICK ELECTODES~699173~~~~~4~PCS~~~~~~35~ Equip Desc :  Equip no : ~
+3/9/2020 1:49:56 PM Fright Cost : 0
+3/9/2020 1:49:56 PM Package Cost : 0
+3/9/2020 1:49:56 PM Buyer Remarks : 
+3/9/2020 1:51:09 PM ========================================================
+3/9/2020 1:51:09 PM Excel Special Routine started.
+3/9/2020 1:51:09 PM 1 Excel file found.
+3/9/2020 1:51:13 PM Process started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:51:13 PM Loading config mapping file 'BS_Excel_Mapping.xml'
+3/9/2020 1:51:13 PM Loading Excel Routine started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:51:14 PM Loading Excel Routine successful for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:51:16 PM Processing RFQ details for 9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm
+3/9/2020 1:57:50 PM ========================================================
+3/9/2020 1:57:50 PM Excel Special Routine started.
+3/9/2020 1:57:50 PM 1 Excel file found.
+3/9/2020 1:57:50 PM Process started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:57:50 PM Loading config mapping file 'BS_Excel_Mapping.xml'
+3/9/2020 1:57:50 PM Loading Excel Routine started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:57:52 PM Loading Excel Routine successful for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:57:54 PM Processing RFQ details for 9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm
+3/9/2020 1:59:11 PM ========================================================
+3/9/2020 1:59:11 PM Excel Special Routine started.
+3/9/2020 1:59:11 PM 1 Excel file found.
+3/9/2020 1:59:11 PM Process started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:59:11 PM Loading config mapping file 'BS_Excel_Mapping.xml'
+3/9/2020 1:59:11 PM Loading Excel Routine started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:59:12 PM Loading Excel Routine successful for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 1:59:13 PM Processing RFQ details for 9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm
+3/9/2020 1:59:18 PM Reading Header Details started.
+3/9/2020 1:59:18 PM Buyer Ref : END/O0046/RF20
+3/9/2020 1:59:18 PM Vessel : Flex Endeavour
+3/9/2020 1:59:18 PM Doc_Date : 2/20/2020 12:00:00 AM
+3/9/2020 1:59:18 PM Currency : 
+3/9/2020 1:59:18 PM PortCode : Kaohsiung
+3/9/2020 1:59:18 PM VendorName : ACE-RMS MARINE SERVICE CO., LTD
+3/9/2020 1:59:18 PM Processing Item details.
+3/9/2020 1:59:18 PM Item details Add to the List : 1~REGULATOR DEMAND FLOW , FOR SPAN GAS 34/58/110LTR~851596~~~~~1~PCS~~~~~~20~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 2~REGULATOR FIXED FLOW F/SPANGAS, FLOW RATE 1.0LTR/MIN~851595~~~~~1~PCS~~~~~~21~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 3~REGULATOR FIXED FLOW F/SPANGAS, FLOW RATE 0.3LTR/MIN~851593~~~~~1~PCS~~~~~~22~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 4~NITROGEN 99.9% GAS 50LTR CYLINDER REFILL, NOMINAL FILLING PRESSURE 200BAR~DREW 725000~~~~~2~PCS~~~~~~23~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 5~REGULATOR 510 N2 PRESSURE 0 -1 BAR~UNITOR 510003~~~~~1~PC~~~~~~24~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 6~Return clamp 400 amps. Jaw opening 70 mm.~UNITOR 653899~~~~~2~PCS~~~~~~25~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 7~ELECTRODE HOLDER TWISTY 400 AMP FOR ELECTRODE DIA 1.6 TO 5 MM~513051~~~~~2~PCS~~~~~~26~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 8~18/8-321N 1,6X300MM 213 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699397~~~~~2~PCS~~~~~~27~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 9~18/8-321N 2.5X300MM 89 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699405~~~~~2~PCS~~~~~~28~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 10~18/8-321N 3.2X300MM 54 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699413~~~~~2~PCS~~~~~~29~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 11~LHR-320N 2.5X350MM 88 ELECTRODES 1.7KG-COATED STICK ELECTODES~683656~~~~~4~PCS~~~~~~30~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 12~LHR-320N 3.2X350MM 48 ELECTRODES 1.8KG-COATED STICK ELECTODES~699389~~~~~4~PCS~~~~~~31~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 13~LH-314N BOX 3.2X450MM 96 ELECTRODES 5KG-COATED STICK ELECTODES~699272~~~~~4~PCS~~~~~~32~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 14~LH-314N BOX 2.5X350MM 161 ELECTRODES 4.0KG-COATED STICK ELECTODES~699264~~~~~4~PCS~~~~~~33~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 15~GPO-302N BOX 2.5X350MM 295 ELECTRODES 5.2KG-COATED STICK ELECTODES~699165~~~~~4~PCS~~~~~~34~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Item details Add to the List : 16~GPO-302N BOX 3.2X350MM 190 ELECTRODES 5.4KG-COATED STICK ELECTODES~699173~~~~~4~PCS~~~~~~35~ Equip Desc :  Equip no : ~
+3/9/2020 1:59:18 PM Fright Cost : 0
+3/9/2020 1:59:18 PM Package Cost : 0
+3/9/2020 1:59:18 PM Buyer Remarks : 
+3/9/2020 2:01:21 PM ========================================================
+3/9/2020 2:01:21 PM Excel Special Routine started.
+3/9/2020 2:01:21 PM 1 Excel file found.
+3/9/2020 2:01:21 PM Process started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 2:01:21 PM Loading config mapping file 'BS_Excel_Mapping.xml'
+3/9/2020 2:01:21 PM Loading Excel Routine started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 2:01:22 PM Loading Excel Routine successful for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 2:01:23 PM Processing RFQ details for 9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm
+3/9/2020 2:01:27 PM Reading Header Details started.
+3/9/2020 2:01:28 PM Buyer Ref : END/O0046/RF20
+3/9/2020 2:01:28 PM Vessel : Flex Endeavour
+3/9/2020 2:01:28 PM Doc_Date : 2/20/2020 12:00:00 AM
+3/9/2020 2:01:28 PM Currency : 
+3/9/2020 2:01:28 PM PortCode : Kaohsiung
+3/9/2020 2:01:28 PM VendorName : ACE-RMS MARINE SERVICE CO., LTD
+3/9/2020 2:01:28 PM Processing Item details.
+3/9/2020 2:01:28 PM Item details Add to the List : 1~REGULATOR DEMAND FLOW , FOR SPAN GAS 34/58/110LTR~851596~~~~~1~PCS~~~~~~20~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 2~REGULATOR FIXED FLOW F/SPANGAS, FLOW RATE 1.0LTR/MIN~851595~~~~~1~PCS~~~~~~21~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 3~REGULATOR FIXED FLOW F/SPANGAS, FLOW RATE 0.3LTR/MIN~851593~~~~~1~PCS~~~~~~22~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 4~NITROGEN 99.9% GAS 50LTR CYLINDER REFILL, NOMINAL FILLING PRESSURE 200BAR~DREW 725000~~~~~2~PCS~~~~~~23~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 5~REGULATOR 510 N2 PRESSURE 0 -1 BAR~UNITOR 510003~~~~~1~PC~~~~~~24~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 6~Return clamp 400 amps. Jaw opening 70 mm.~UNITOR 653899~~~~~2~PCS~~~~~~25~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 7~ELECTRODE HOLDER TWISTY 400 AMP FOR ELECTRODE DIA 1.6 TO 5 MM~513051~~~~~2~PCS~~~~~~26~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 8~18/8-321N 1,6X300MM 213 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699397~~~~~2~PCS~~~~~~27~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 9~18/8-321N 2.5X300MM 89 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699405~~~~~2~PCS~~~~~~28~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 10~18/8-321N 3.2X300MM 54 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699413~~~~~2~PCS~~~~~~29~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 11~LHR-320N 2.5X350MM 88 ELECTRODES 1.7KG-COATED STICK ELECTODES~683656~~~~~4~PCS~~~~~~30~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 12~LHR-320N 3.2X350MM 48 ELECTRODES 1.8KG-COATED STICK ELECTODES~699389~~~~~4~PCS~~~~~~31~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 13~LH-314N BOX 3.2X450MM 96 ELECTRODES 5KG-COATED STICK ELECTODES~699272~~~~~4~PCS~~~~~~32~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 14~LH-314N BOX 2.5X350MM 161 ELECTRODES 4.0KG-COATED STICK ELECTODES~699264~~~~~4~PCS~~~~~~33~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 15~GPO-302N BOX 2.5X350MM 295 ELECTRODES 5.2KG-COATED STICK ELECTODES~699165~~~~~4~PCS~~~~~~34~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Item details Add to the List : 16~GPO-302N BOX 3.2X350MM 190 ELECTRODES 5.4KG-COATED STICK ELECTODES~699173~~~~~4~PCS~~~~~~35~ Equip Desc :  Equip no : ~
+3/9/2020 2:01:28 PM Fright Cost : 0
+3/9/2020 2:01:28 PM Package Cost : 0
+3/9/2020 2:01:28 PM Buyer Remarks : 
+3/9/2020 2:02:27 PM ========================================================
+3/9/2020 2:02:27 PM Excel Special Routine started.
+3/9/2020 2:02:27 PM 1 Excel file found.
+3/9/2020 2:02:27 PM Process started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 2:02:27 PM Loading config mapping file 'BS_Excel_Mapping.xml'
+3/9/2020 2:02:27 PM Loading Excel Routine started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 2:02:29 PM Loading Excel Routine successful for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 2:02:34 PM Processing RFQ details for 9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm
+3/9/2020 2:06:15 PM ========================================================
+3/9/2020 2:06:15 PM Excel Special Routine started.
+3/9/2020 2:06:15 PM 1 Excel file found.
+3/9/2020 2:06:15 PM Process started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 2:06:15 PM Loading config mapping file 'BS_Excel_Mapping.xml'
+3/9/2020 2:06:15 PM Loading Excel Routine started for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 2:06:17 PM Loading Excel Routine successful for '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm'
+3/9/2020 2:06:17 PM Processing RFQ details for 9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm
+3/9/2020 2:06:17 PM Reading Header Details started.
+3/9/2020 2:06:17 PM Buyer Ref : END/O0046/RF20
+3/9/2020 2:06:17 PM Vessel : Flex Endeavour
+3/9/2020 2:06:17 PM Doc_Date : 2/20/2020 12:00:00 AM
+3/9/2020 2:06:17 PM Currency : 
+3/9/2020 2:06:17 PM PortCode : Kaohsiung
+3/9/2020 2:06:17 PM VendorName : ACE-RMS MARINE SERVICE CO., LTD
+3/9/2020 2:06:17 PM Processing Item details.
+3/9/2020 2:06:17 PM Item details Add to the List : 1~REGULATOR DEMAND FLOW , FOR SPAN GAS 34/58/110LTR~851596~~~~~1~PCS~~~~~~20~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 2~REGULATOR FIXED FLOW F/SPANGAS, FLOW RATE 1.0LTR/MIN~851595~~~~~1~PCS~~~~~~21~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 3~REGULATOR FIXED FLOW F/SPANGAS, FLOW RATE 0.3LTR/MIN~851593~~~~~1~PCS~~~~~~22~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 4~NITROGEN 99.9% GAS 50LTR CYLINDER REFILL, NOMINAL FILLING PRESSURE 200BAR~DREW 725000~~~~~2~PCS~~~~~~23~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 5~REGULATOR 510 N2 PRESSURE 0 -1 BAR~UNITOR 510003~~~~~1~PC~~~~~~24~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 6~Return clamp 400 amps. Jaw opening 70 mm.~UNITOR 653899~~~~~2~PCS~~~~~~25~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 7~ELECTRODE HOLDER TWISTY 400 AMP FOR ELECTRODE DIA 1.6 TO 5 MM~513051~~~~~2~PCS~~~~~~26~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 8~18/8-321N 1,6X300MM 213 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699397~~~~~2~PCS~~~~~~27~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 9~18/8-321N 2.5X300MM 89 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699405~~~~~2~PCS~~~~~~28~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 10~18/8-321N 3.2X300MM 54 ELECTRODES 1.7 KG-COATED STICK ELECTODES~699413~~~~~2~PCS~~~~~~29~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 11~LHR-320N 2.5X350MM 88 ELECTRODES 1.7KG-COATED STICK ELECTODES~683656~~~~~4~PCS~~~~~~30~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 12~LHR-320N 3.2X350MM 48 ELECTRODES 1.8KG-COATED STICK ELECTODES~699389~~~~~4~PCS~~~~~~31~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 13~LH-314N BOX 3.2X450MM 96 ELECTRODES 5KG-COATED STICK ELECTODES~699272~~~~~4~PCS~~~~~~32~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 14~LH-314N BOX 2.5X350MM 161 ELECTRODES 4.0KG-COATED STICK ELECTODES~699264~~~~~4~PCS~~~~~~33~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 15~GPO-302N BOX 2.5X350MM 295 ELECTRODES 5.2KG-COATED STICK ELECTODES~699165~~~~~4~PCS~~~~~~34~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Item details Add to the List : 16~GPO-302N BOX 3.2X350MM 190 ELECTRODES 5.4KG-COATED STICK ELECTODES~699173~~~~~4~PCS~~~~~~35~ Equip Desc :  Equip no : ~
+3/9/2020 2:06:17 PM Fright Cost : 0
+3/9/2020 2:06:17 PM Package Cost : 0
+3/9/2020 2:06:17 PM Buyer Remarks : 
+3/9/2020 2:06:18 PM RFQ file 'RFQ_SM0017_XLS_V10206_END_O0046_RF20_09032020140618247.xml' with Buyer Ref 'END/O0046/RF20' downloaded successfully.
+3/9/2020 2:06:18 PM Excel File '9211285_RFQ_END_O0046_RF20_09032020040206150.xlsm' move to Backup.
+3/9/2020 2:06:18 PM Excel Special Routine stopped.
+3/9/2020 2:06:18 PM ========================================================

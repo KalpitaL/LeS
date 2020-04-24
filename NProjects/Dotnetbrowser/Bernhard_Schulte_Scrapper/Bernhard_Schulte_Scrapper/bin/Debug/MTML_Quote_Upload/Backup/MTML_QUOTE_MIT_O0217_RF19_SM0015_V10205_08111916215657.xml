@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="BJD1911071525546LET" Identifier="UNOC" Recipient="SM0015_XLS" Sender="V10205" PreparationDate="2019-Nov-08" PreparationTime="16:21" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="9" LesRecordID="861365" LesLinkID="9200151" ParentRecordID="860022" MTML_DOCID="B03BD8D0-88E6-48A4-9389-295300523CEB">
+    <Quote MessageReferenceNumber="9200151_RFQ_MIT_O0217_RF19_07112019031043734_19110715112510.xlsm" MessageNumber="9200151_RFQ_MIT_O0217_RF19_07112019031043734_191107_15112510.xlsm" LineItemCount="2" VersionNumber="" CurrencyCode="USD" LeadTimeDays="3" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="146.74" BuyerQuoteTotal="146.74">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911081621" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201911110000" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201912080000" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Date promised : 2019-11-11
+Quote validity : 2019-12-08</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="MIT/O0217/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="BJD1911071525546LET" />
+      <Party Qualifier="UD" Name="Minstrel">
+        <PartyLocation Qualifier="TBA" Port="EXW CHINA" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="BERNHARD SCHULTE SHIPMANAGEMENT (HONG KONG) LIMITED PARTNERSHIP">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="RMS MARINE SERVICE COMPANY LTD">
+        <Contact FunctionCode="PD" Name="-">
+          <CommunicationMethod Qualifier="EM" Number="mt@rmsmarineservice.com" />
+        </Contact>
+        <StreetAddress>365, Gaodong, No 2 Road, Pudong District,SHANGHAI, CHINA</StreetAddress>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <LineItem Number="1" Description="GLOBE HOSE VALVE BRONZE, FLANGE&amp;SCREW F7334 10KG-15MM | Ref.No.:751702 | Ref.No.:751702" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="10316690" SystemItemNo="21" MonetaryAmount="28.55" Identification="751702" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="28.55" BuyerItemTotal="28.55" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="28.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="28.55" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="ANGLE VALVE DIN CAST STEEL 399, FLANGED PN16 ANGLE DN 65 | Ref.No.:755315 | Ref.No.:755315" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="10316691" SystemItemNo="22" MonetaryAmount="118.19" Identification="755315" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="118.19" BuyerItemTotal="118.19" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="118.19" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="118.19" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="146.740" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="146.740" />
+      <MonetaryAmount Qualifier="_90" Value="146.740" />
+      <MonetaryAmount Qualifier="_91" Value="146.740" />
+    </Quote>
+  </Interchange>
+</MTML>

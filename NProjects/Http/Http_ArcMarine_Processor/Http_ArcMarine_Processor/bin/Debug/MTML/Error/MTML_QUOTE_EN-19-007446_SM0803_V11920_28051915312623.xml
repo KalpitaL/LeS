@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="19004450" Identifier="UNOC" Recipient="SM0803_WEB" Sender="V11920" PreparationDate="2019-May-28" PreparationTime="15:31" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3767" LesRecordID="11607663" LesLinkID="104548" MTML_DOCID="67864FAA-4E82-46F5-AD7E-E38E975B7E6F">
+    <Quote MessageReferenceNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=57E39D9B-0181-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" MessageNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=57E39D9B-0181-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" LineItemCount="12" VersionNumber="" CurrencyCode="EUR" LeadTimeDays="0" OriginalFile="QUOTE_ALDCN2019-475_190526_14243340.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201905281531" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="EN-19-007446" />
+      <Reference Qualifier="AAG" ReferenceNumber="19004450" />
+      <Party Qualifier="BY" Name="Arc Marine PTE Ltd">
+        <Contact Name="LALIT KHAIRNAR">
+          <CommunicationMethod Qualifier="TE" Number="68422822" />
+          <CommunicationMethod Qualifier="EM" Number="storemum4@arcmarine.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="GIMAS SHIP SUPPLY &amp;amp; SERVICES B.V.">
+        <Contact>
+          <CommunicationMethod Qualifier="TE" Number="31103027820 31615286575" />
+          <CommunicationMethod Qualifier="EM" Number="rotterdam@gimas.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+        <StreetAddress>-</StreetAddress>
+      </Party>
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="LIFE JACLET LIGHT - OCEAN SAFETY LTD. / AQUASPEC A" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="1" MonetaryAmount="72.34" Identification="330143" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.51" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.51" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="TAPE REFLECTIVE SOLAS GRADE - SILVER W:50MM X L:45.7MTR" MeasureUnitQualifier="RLS" Quantity="2" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="2" MonetaryAmount="113.61" Identification="330189" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="66.83" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="66.83" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="RADAR REFLECTOR INFLATABLE" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="3" MonetaryAmount="102.13" Identification="330191" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="120.15" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="120.15" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="LIFEBOAT BAILER" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="4" MonetaryAmount="2.88" Identification="330201" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.39" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.39" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="LIFERAFT SPONGE" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="5" MonetaryAmount="13.57" Identification="330204" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.66" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.66" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="LIFEBOAT DRINKING CUP" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="6" MonetaryAmount="1.08" Identification="330241" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.27" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.27" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="LIFEBOAT DIPPER WITH LANYARD" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="7" MonetaryAmount="15.44" Identification="330210" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="18.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="18.16" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="CAN OPENER 3S" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="8" MonetaryAmount="1.54" Identification="330249" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.81" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.81" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="LIFEBOAT JACK-KNIFE" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="9" MonetaryAmount="12.01" Identification="330251" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.71" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.71" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="INSTRUCTION F/IMMEDIATE ACTION" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="10" MonetaryAmount="3.56" Identification="330258" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.19" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.19" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="SAFETY SIGN ARROW - HORIZONTAL(L) 150X150MM" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="11" MonetaryAmount="13.06" Identification="334420" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.28" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="DIRECTION SIGN EXIT FOR - EMERG USE ONLY(R) 150X400MM" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="12" SystemItemNo="12" MonetaryAmount="10.56" Identification="334413" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.07" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.07" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="361.760" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="361.760" />
+    </Quote>
+  </Interchange>
+</MTML>

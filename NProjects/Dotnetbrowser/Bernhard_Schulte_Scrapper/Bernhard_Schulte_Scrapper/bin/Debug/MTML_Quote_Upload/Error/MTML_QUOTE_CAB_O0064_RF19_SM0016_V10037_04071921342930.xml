@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="2QN4953(21)" Identifier="UNOC" Recipient="SM0016_FUJIBVXLS" Sender="V10037" PreparationDate="2019-Jul-04" PreparationTime="21:34" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="1400" LesRecordID="11651942" LesLinkID="102207" ParentRecordID="11651798" MTML_DOCID="1F5D3593-406A-4354-94E0-7F54DD9A1B57">
+    <Quote MessageReferenceNumber="102207_RFQ_CAB_O0064_RF19_04072019080157737.xlsm" MessageNumber="102207_RFQ_CAB_O0064_RF19_04072019080157737.xlsm" LineItemCount="1" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" LeadTimeDays="2" OriginalFile="V49458.xml" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201907042134" />
+      <Comments Qualifier="SUR">
+        <value> "WE HEREBY DECLARE THAT ALL OF OUR SUPPLYING PRODUCTS ARE ASBESTOS-FREE."  FROM FUJI TARDING (MARINE B.V.), ROTTERDAM THE NETHERLANDS ** GENERAL TERMS ** ** LEAD TIME: 2-3 DAYS ** ** DELIVERY: ARA EXCL. BARGE * ** VALID: 05.08.2019 ** ** QUOTATION CURRENCY: EURO **
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="CAB/O0064/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="2QN4953(21)" />
+      <Party Qualifier="BY" Identification="SM0016_FUJIBVXLS" Name="Bernhard Schulte Shipmanagement (India) Private Ltd." City="Mumbai">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V10037" Name="FUJI TRADING (MARINE) B.V.">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="info@fujitrading.nl" />
+        </Contact>
+        <StreetAddress>PO Box 2498 3000Cl</StreetAddress>
+        <StreetAddress>Rotterdam</StreetAddress>
+        <StreetAddress>Sluisjesdijk 109</StreetAddress>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="Margarete Schulte">
+        <PartyLocation Qualifier="TBA" Port="BALBOA" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="battery tester" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="99.50" Identification="2160045" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="99.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="99.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="99.500" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="99.500" />
+    </Quote>
+  </Interchange>
+</MTML>

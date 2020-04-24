@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="D104893" Identifier="UNOC" Recipient="SM0194_WEB" Sender="V10001" PreparationDate="2020-Mar-12" PreparationTime="16:54" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2653" LesRecordID="11995299" LesLinkID="104997" ParentRecordID="11993381" MTML_DOCID="0211B7A9-F4FD-487A-892C-044E93B54725">
+    <Quote MessageReferenceNumber="407/2020e-I001" MessageNumber="https://vega.cloudfleetmanager.com/apps/quote/0117c255-0194-4e6f-8c76-60db25d9c750" LineItemCount="10" VersionNumber="1" CurrencyCode="USD" TransportModeCode="_3" LeadTimeDays="13" BuyerRefNo="407/2020e-I001" OriginalFile="OrderQuotation-D104893_200312_164939399.pdf" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" CaseReference="ref:_00D200tPh._5003z5gRKE:ref" BuyerItemTotal="1739.43" BuyerQuoteTotal="1739.43">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202003121654" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="202003250000" />
+      <Comments Qualifier="SUR">
+        <value>Inventory will not be reserved based on this quotation. Product availability will be confirmed when the order is placed.
+Please note some ports have local taxes/charges, which may appear on the invoice.
+
+ITEMS NOT IN STOCK – May be subject to customs clearance:
+
+LINE 5,6
+Modality: via air
+Supplying Site: Rotterdm to Miami
+Total Lead Time (business days): 7 + site to port lead time (after order confirmation)
+Inbound freight charge: USD 184.00
+ 
+LINE 8
+Modality: via courier
+Supplying Site: Houston to Miami
+Total Lead Time (business days): 1 + site to port lead time (after order confirmation)
+Inbound freight charge: Free of charges
+
+ITEMS EX STOCK - lead time: 1-2 business days
+the rest of the items are available
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 11 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 53 USD
+Item Added - 12 : FREIGHT CHARGE | QTY : 1 | UOM : PCS | Price : 184 USD
+ Item Total : 1976.43 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="407/2020e-I001" />
+      <Reference Qualifier="AAG" ReferenceNumber="D104893" />
+      <Party Qualifier="BY" Name="VEGA REEDEREI GMBH &amp; CO KG">
+        <Contact>
+          <CommunicationMethod Qualifier="EM" Number="N/A" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service (S) Pte Ltd">
+        <Contact Name="Matic, Cherry Rose">
+          <CommunicationMethod Qualifier="EM" Number="wss.cs.germany.products@wilhelmsen.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA" Name="MS &quot;VEGA Sagittarius&quot; Schifffahrtsgesellschaft mbH &amp; Co. KG">
+        <Contact />
+        <StreetAddress>Paul-Dessau-Strae 3a
+22761 Hamburg
+Germany</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="VEGA Sagittarius">
+        <PartyLocation Qualifier="ZUC" Berth="PORT EVERGLADES" Port="USPEF" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="REGULATOR-12-5-10 for acetylene | " MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="1ca104b6-f4e6-42c2-a08f-04cb041dce50" SystemItemNo="1" MonetaryAmount="73.88" Identification="510001" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="PCS" Supp_Price="73.88" BuyerItemTotal="73.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="73.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="73.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="REGULATOR-12-5-10 for oxygen | " MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="256216fd-7d06-4ec0-8d19-32ddcb2b0885" SystemItemNo="2" MonetaryAmount="73.88" Identification="510000" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="PCS" Supp_Price="73.88" BuyerItemTotal="73.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="73.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="73.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="W-66SF/ acetylene regulator | " MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="3ddd1f3c-d1d7-4964-afe9-c18319cd77f3" SystemItemNo="3" MonetaryAmount="230.29" Identification="183970" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="PCS" Supp_Price="230.29" BuyerItemTotal="230.29" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="230.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="230.29" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="W-66SF/ oxygen regulator | " MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="db9da89c-d722-4040-bb12-237ed188ad05" SystemItemNo="4" MonetaryAmount="230.29" Identification="302976" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="PCS" Supp_Price="230.29" BuyerItemTotal="230.29" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="230.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="230.29" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="Quick coupling SG-1666 for 1/4 acetylene hose | " MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="0ca8a95a-8efe-4ff4-a7d3-1f1d5e593e8a" SystemItemNo="5" MonetaryAmount="371.00" Identification="734007" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="37.1" BuyerItemTotal="371" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="37.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="37.1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="Quick coupling SG-1666 for 1/4 oxygen hose | " MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="e6b09c83-aaba-45c9-9aea-29b805f5b68c" SystemItemNo="6" MonetaryAmount="371.00" Identification="734001" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="37.1" BuyerItemTotal="371" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="37.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="37.1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="hose joint for 6mm 1/4 acetylene | " MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="5758712c-d875-4e3f-b003-dd2ef1c1fe54" SystemItemNo="7" MonetaryAmount="103.90" Identification="175588" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="10.39" BuyerItemTotal="103.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.39" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.39" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="hose joint for 6mm 1/4 oxygen | " MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="5d1f4751-8bbd-4d42-a1a4-39ae2fbd1ed3" SystemItemNo="8" MonetaryAmount="103.90" Identification="175596" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="10.39" BuyerItemTotal="103.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.39" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.39" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="cutting nozzle for general use no.3 | " MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="2989e40a-9c51-458f-96cf-efe678c57a22" SystemItemNo="9" MonetaryAmount="31.50" Identification="174706" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="10.5" BuyerItemTotal="31.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="Auto vision welding face shield with adjustable shate-9-13 | " MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="a8b240e7-edb3-425c-9751-5aa0ced7d588" SystemItemNo="10" MonetaryAmount="149.79" Identification="779032" DeliveryTime="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="PCS" Supp_Price="149.79" BuyerItemTotal="149.79" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="149.79" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="149.79" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1976.430" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1976.430" />
+      <MonetaryAmount Qualifier="_99" Value="237.000" />
+      <MonetaryAmount Qualifier="_90" Value="1739.430" />
+      <MonetaryAmount Qualifier="_91" Value="1739.430" />
+    </Quote>
+  </Interchange>
+</MTML>

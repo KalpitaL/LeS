@@ -1,0 +1,168 @@
+
+2020-01-15 13:05:34 : Task to perform is 'DOWNLOAD'
+2020-01-15 13:07:08 : Logging to SK Shipping website.
+2020-01-15 13:07:16 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-01-15 13:07:25 : Successfull login to SK Shipping website.
+2020-01-15 13:07:34 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2020-01-15 13:07:38 : Number of Grid Pages found '5'
+2020-01-15 13:07:50 : Started reading Grid.
+2020-01-15 13:07:55 : Completed reading Grid.
+2020-01-15 13:08:07 : Started reading Grid.
+2020-01-15 13:08:10 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2020-01-15 13:08:10 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2020-01-15 13:08:10 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:11 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2020-01-15 13:08:11 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2020-01-15 13:08:12 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2020-01-15 13:08:12 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2020-01-15 13:08:12 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:12 : Completed reading Grid.
+2020-01-15 13:08:25 : Started reading Grid.
+2020-01-15 13:08:25 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:25 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2020-01-15 13:08:26 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:26 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2020-01-15 13:08:27 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2020-01-15 13:08:27 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:27 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:28 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2020-01-15 13:08:28 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2020-01-15 13:08:28 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2020-01-15 13:08:29 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2020-01-15 13:08:29 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2020-01-15 13:08:30 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2020-01-15 13:08:30 : Completed reading Grid.
+2020-01-15 13:08:42 : Started reading Grid.
+2020-01-15 13:08:43 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2020-01-15 13:08:43 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2020-01-15 13:08:43 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2020-01-15 13:08:43 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2020-01-15 13:08:44 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:44 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2020-01-15 13:08:44 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2020-01-15 13:08:45 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:45 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2020-01-15 13:08:45 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2020-01-15 13:08:46 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:46 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:46 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2020-01-15 13:08:46 : Completed reading Grid.
+2020-01-15 13:08:58 : Started reading Grid.
+2020-01-15 13:08:58 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2020-01-15 13:08:58 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:59 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2020-01-15 13:08:59 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:08:59 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 13:09:00 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2020-01-15 13:09:00 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2020-01-15 13:09:00 : Completed reading Grid.
+2020-01-15 13:09:08 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=C.%20INNOVATOR&QUONO=CIN-20-IT-003&REQNO=CINDDD20002&ETA=2019-12-29&PORT=DALIAN%20-%20CHINA&QUODATE=2020-01-14&SEQ=0'
+2020-01-15 13:09:35 : RFQ 'CIN-20-IT-003' of vessel 'C. INNOVATOR' and port name 'DALIAN - CHINA' is being downloaded.
+2020-01-15 13:09:35 : Started fetching Header data for RFQ 'CIN-20-IT-003'
+2020-01-15 13:09:35 : Completed fetching Header data.
+2020-01-15 14:05:35 : Task to perform is 'DOWNLOAD'
+2020-01-15 14:05:37 : Logging to SK Shipping website.
+2020-01-15 14:05:44 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-01-15 14:05:52 : Successfull login to SK Shipping website.
+2020-01-15 14:05:58 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2020-01-15 14:06:03 : Number of Grid Pages found '5'
+2020-01-15 14:06:15 : Started reading Grid.
+2020-01-15 14:06:20 : Completed reading Grid.
+2020-01-15 14:06:32 : Started reading Grid.
+2020-01-15 14:06:34 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2020-01-15 14:06:35 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2020-01-15 14:06:35 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:06:35 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2020-01-15 14:06:36 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2020-01-15 14:06:36 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2020-01-15 14:06:36 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2020-01-15 14:06:37 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:06:37 : Completed reading Grid.
+2020-01-15 14:06:52 : Started reading Grid.
+2020-01-15 14:06:52 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:06:52 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2020-01-15 14:06:52 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:06:53 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2020-01-15 14:06:53 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2020-01-15 14:06:53 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:06:54 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:06:54 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2020-01-15 14:06:55 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2020-01-15 14:06:55 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2020-01-15 14:06:55 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2020-01-15 14:06:56 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2020-01-15 14:06:56 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2020-01-15 14:06:56 : Completed reading Grid.
+2020-01-15 14:07:14 : Started reading Grid.
+2020-01-15 14:07:15 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2020-01-15 14:07:15 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2020-01-15 14:07:15 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2020-01-15 14:07:15 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2020-01-15 14:07:16 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:07:16 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2020-01-15 14:07:16 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2020-01-15 14:07:17 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:07:17 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2020-01-15 14:07:17 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2020-01-15 14:07:18 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:07:18 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:07:19 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2020-01-15 14:07:19 : Completed reading Grid.
+2020-01-15 14:07:35 : Started reading Grid.
+2020-01-15 14:07:36 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2020-01-15 14:07:36 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:07:36 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2020-01-15 14:07:36 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:07:37 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2020-01-15 14:07:37 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2020-01-15 14:07:37 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2020-01-15 14:07:37 : Completed reading Grid.
+2020-01-15 14:07:45 : Started fetching data from URL 'https://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=C.%20INNOVATOR&QUONO=CIN-20-IT-003&REQNO=CINDDD20002&ETA=2019-12-29&PORT=DALIAN%20-%20CHINA&QUODATE=2020-01-14&SEQ=0'
+2020-01-15 14:09:00 : RFQ 'CIN-20-IT-003' of vessel 'C. INNOVATOR' and port name 'DALIAN - CHINA' is being downloaded.
+2020-01-15 14:09:00 : Started fetching Header data for RFQ 'CIN-20-IT-003'
+2020-01-15 14:09:01 : Completed fetching Header data.
+2020-01-15 14:09:06 : Started fetching Items data for RFQ 'CIN-20-IT-003'
+2020-01-15 14:09:09 : No equipment data found for RFQ 'CIN-20-IT-003'
+2020-01-15 14:09:39 : 9 Items found for RFQ 'CIN-20-IT-003'
+2020-01-15 14:09:39 : IMPA found.
+2020-01-15 14:09:39 : Remark field having id 'txtVesselRemark0' not found.
+2020-01-15 14:09:39 : Remark field having id 'txtVesselRemark1' not found.
+2020-01-15 14:09:40 : Remark field having id 'txtVesselRemark2' not found.
+2020-01-15 14:09:40 : Remark field having id 'txtVesselRemark3' not found.
+2020-01-15 14:09:40 : Remark field having id 'txtVesselRemark4' not found.
+2020-01-15 14:09:40 : Remark field having id 'txtVesselRemark5' not found.
+2020-01-15 14:09:40 : Remark field having id 'txtVesselRemark6' not found.
+2020-01-15 14:09:40 : Remark field having id 'txtVesselRemark7' not found.
+2020-01-15 14:09:40 : Remark field having id 'txtVesselRemark8' not found.
+2020-01-15 14:09:40 : Success in fetching Items data.
+2020-01-15 14:09:42 : Completed fetching Items data.
+2020-01-15 14:09:46 : RFQ HTML named 'SKShipping_CIN_20_IT_003_20200115140944867.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2020-01-15 14:09:48 : RFQ Screenshot named 'SKShipping_CIN_20_IT_003_20200115140944868.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2020-01-15 14:10:10 : Started extracting Header data.
+2020-01-15 14:10:12 : Completed extracting Header data.
+2020-01-15 14:10:12 : Started extracting Address data.
+2020-01-15 14:10:15 : Completed extracting Address data.
+2020-01-15 14:10:18 : Started extracting Items data.
+2020-01-15 14:10:18 : Completed extracting Items data.
+2020-01-15 14:10:25 : RFQ 'CIN-20-IT-003' named RFQ_V10205_CIN_20_IT_003_20200115141015604.xml downloaded successfully on path 'C:\Shipmaster\eSupplierPortal\LES_XML_INBOX'
+2020-01-15 14:32:10 : Task to perform is 'UPLOAD'
+2020-01-15 14:32:12 : Logging to SK Shipping website.
+2020-01-15 14:32:18 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-01-15 14:32:38 : Successfull login to SK Shipping website.
+2020-01-15 14:32:40 : Started processing Quote named MTML_QUOTE_CIN-20-IT-003_SM0876_V10205_15012015101914.xml present on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX
+2020-01-15 14:32:42 : Uploading Quote of RFQ 'CIN-20-IT-003'
+2020-01-15 14:32:44 : Filling Header
+2020-01-15 14:32:44 : Filling Supplier Ref No
+2020-01-15 14:32:44 : Filling Currency
+2020-01-15 14:32:45 : Filling D/C Percent
+2020-01-15 14:32:45 : Filling Valid From
+2020-01-15 14:32:45 : Filling Valid To
+2020-01-15 14:32:45 : Filling Quotation Remark
+2020-01-15 14:32:45 : Checking Total Items count match.
+2020-01-15 14:32:45 : Filling Items
+2020-01-15 14:32:46 : 9 Items found for Quote having RFQ 'CIN-20-IT-003'
+2020-01-15 14:32:46 : IMPA found.
+2020-01-15 14:35:51 : Quote named MTML_QUOTE_CIN-20-IT-003_SM0876_V10205_15012015101914.xml uploaded successfully.
+2020-01-15 14:35:53 : MTML_QUOTE_CIN-20-IT-003_SM0876_V10205_15012015101914.xml File moved to C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX\Backup
+2020-01-15 14:36:10 : Quote HTML named 'SKShipping_CIN_20_IT_003_20200115143555768.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_Quote'
+2020-01-15 14:36:10 : Quote Screenshot named 'SKShipping_CIN_20_IT_003_20200115143558371.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_QUOTE'

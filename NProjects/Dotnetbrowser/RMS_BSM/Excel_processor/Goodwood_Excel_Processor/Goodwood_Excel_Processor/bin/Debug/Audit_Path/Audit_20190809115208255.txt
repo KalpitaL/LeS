@@ -1,0 +1,1 @@
+||BSM_Special_Excel|~$91000012_RFQ_SSA_O0176_RF19_09082019122420276.xlsm||Error|19-08-09 11:52 : The process cannot access the file 'E:\Projects\LES\Namrata_Projects\Excel_processor\Goodwood_Excel_Processor\Goodwood_Excel_Processor\bin\Debug\RFQ_Files\~$91000012_RFQ_SSA_O0176_RF19_09082019122420276.xlsm' because it is being used by another process.

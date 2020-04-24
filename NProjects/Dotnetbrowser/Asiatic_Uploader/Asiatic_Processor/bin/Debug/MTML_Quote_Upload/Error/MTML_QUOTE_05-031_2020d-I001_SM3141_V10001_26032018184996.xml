@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="D105754" Identifier="UNOC" Recipient="SM3141_WEB" Sender="V10001" PreparationDate="2020-Mar-26" PreparationTime="18:18" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2653" LesRecordID="12016207" LesLinkID="104163" ParentRecordID="12015050" MTML_DOCID="923727D9-6A67-4866-BB95-6A5B5A9AB83B">
+    <Quote MessageReferenceNumber="05-031/2020d-I001" MessageNumber="https://pts.cloudfleetmanager.com/apps/quote/2ef99ca3-e991-4fca-9bfc-3aa15d38e957" LineItemCount="3" VersionNumber="1" CurrencyCode="EUR" TransportModeCode="_3" LeadTimeDays="6" BuyerRefNo="05-031/2020d-I001" OriginalFile="OrderQuotation-D105754_200326_181339722.pdf" IsAltItemAllowed="1" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" CaseReference="ref:_00D200tPh._5003z5itU4:ref" BuyerItemTotal="1880" BuyerQuoteTotal="1880">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202003261818" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="202004010000" />
+      <Comments Qualifier="SUR">
+        <value>Inventory will not be reserved based on this quotation. Product availability will be confirmed when the order is placed.
+Please note some ports have local taxes/charges, which may appear on the invoice.
+ 
+ 
+ITEMS EX STOCK - lead time: 2 business days
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 3 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 882 EUR
+ Item Total : 2762.00 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="05-031/2020d-I001" />
+      <Reference Qualifier="AAG" ReferenceNumber="D105754" />
+      <Party Qualifier="BY" Name="PT Shipmanagement">
+        <Contact>
+          <CommunicationMethod Qualifier="EM" Number="N/A" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service (S) Pte Ltd">
+        <Contact Name="Brych, Claudia">
+          <CommunicationMethod Qualifier="EM" Number="wss.cs.germany.products@wilhelmsen.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA" Name="SOTOK Co. Ltd.">
+        <Contact />
+        <StreetAddress>19B Quay Chambers, South Quay
+IM1 5AR Douglas
+Isle of Man</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="05. Spirit of Tokyo">
+        <PartyLocation Qualifier="ZUC" Berth="MERSIN" Port="TRMER" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Oxygen | " MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="7fabb408-35d7-4dbd-be26-3ea393de5335" SystemItemNo="1" MonetaryAmount="1090.00" Identification="905034" DeliveryTime="6" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="109" BuyerItemTotal="1090" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="109" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="109" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Acetylene | " MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="fe3b22ea-173f-417c-ad94-81e39cabd720" SystemItemNo="2" MonetaryAmount="790.00" Identification="905026" DeliveryTime="6" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="158" BuyerItemTotal="790" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="158" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="158" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="FIXED CHARGE LAST MILE DELIVERY" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="3" MonetaryAmount="882.00" DeliveryTime="6" IsExtraItem="1" ItemType="FREIGHT" ItemStatus="Addition" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="882" BuyerItemTotal="882" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="882" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="2762.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="2762.000" />
+      <MonetaryAmount Qualifier="_99" Value="882.000" />
+      <MonetaryAmount Qualifier="_90" Value="1880.000" />
+      <MonetaryAmount Qualifier="_91" Value="1880.000" />
+    </Quote>
+  </Interchange>
+</MTML>

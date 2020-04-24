@@ -1,0 +1,304 @@
+17-10-2019 15:14:54 ================17-10-2019 15:14:54================
+17-10-2019 15:14:54 DNVGL HTTP Processor started
+17-10-2019 15:14:57 
+17-10-2019 15:14:57 Supplier: V10107
+17-10-2019 15:14:57 Process started for SM0372_WEB
+17-10-2019 15:14:58 
+17-10-2019 15:14:58 Quote processing started.
+17-10-2019 15:14:58 1 files found to process.
+17-10-2019 15:14:58 Started Loading interchange object.
+17-10-2019 15:14:58 stopped Loading interchange object.
+17-10-2019 15:15:05 Save and/or submit quote button is null for Ref  MIR-B19X0142(01)DD-5130
+17-10-2019 15:15:32 ================17-10-2019 15:15:32================
+17-10-2019 15:15:32 DNVGL HTTP Processor started
+17-10-2019 15:15:34 
+17-10-2019 15:15:34 Supplier: V10107
+17-10-2019 15:15:34 Process started for SM0372_WEB
+17-10-2019 15:15:35 No quote files found to process.
+17-10-2019 15:15:37 
+17-10-2019 15:15:37 Supplier: V10107
+17-10-2019 15:15:37 Process started for SM0695_WEB
+17-10-2019 15:15:37 No RFQ files found.
+17-10-2019 15:15:37 RFQ processing stopped.
+17-10-2019 15:15:38 No quote files found to process.
+17-10-2019 15:15:39 
+17-10-2019 15:15:39 Supplier: V10001
+17-10-2019 15:15:39 Process started for SM0668_WEB
+17-10-2019 15:15:39 No RFQ files found.
+17-10-2019 15:15:39 RFQ processing stopped.
+17-10-2019 15:15:39 
+17-10-2019 15:15:39 Purchase Order processing started.
+17-10-2019 15:15:39 No PO files found.
+17-10-2019 15:15:39 Purchase Order processing stopped.
+17-10-2019 15:15:44 No quote files found to process.
+17-10-2019 15:15:44 
+17-10-2019 15:15:44 POC processing started.
+17-10-2019 15:15:44 No POC files found.
+17-10-2019 15:15:44 POC processing stopped.
+17-10-2019 15:15:47 
+17-10-2019 15:15:47 Supplier: V10001
+17-10-2019 15:15:47 Process started for SM0711_WEB
+17-10-2019 15:15:47 No RFQ files found.
+17-10-2019 15:15:47 RFQ processing stopped.
+17-10-2019 15:15:47 
+17-10-2019 15:15:47 Purchase Order processing started.
+17-10-2019 15:15:47 No PO files found.
+17-10-2019 15:15:47 Purchase Order processing stopped.
+17-10-2019 15:16:42 ================17-10-2019 15:16:42================
+17-10-2019 15:16:42 DNVGL HTTP Processor started
+17-10-2019 15:16:45 
+17-10-2019 15:16:45 Supplier: V10107
+17-10-2019 15:16:45 Process started for SM0372_WEB
+17-10-2019 15:16:46 No quote files found to process.
+17-10-2019 15:16:46 
+17-10-2019 15:16:46 Supplier: V10107
+17-10-2019 15:16:46 Process started for SM0695_WEB
+17-10-2019 15:16:46 No RFQ files found.
+17-10-2019 15:16:46 RFQ processing stopped.
+17-10-2019 15:16:46 No quote files found to process.
+17-10-2019 15:16:46 
+17-10-2019 15:16:46 Supplier: V10001
+17-10-2019 15:16:46 Process started for SM0668_WEB
+17-10-2019 15:16:46 No RFQ files found.
+17-10-2019 15:16:46 RFQ processing stopped.
+17-10-2019 15:16:46 
+17-10-2019 15:16:46 Purchase Order processing started.
+17-10-2019 15:16:46 No PO files found.
+17-10-2019 15:16:46 Purchase Order processing stopped.
+17-10-2019 15:16:46 No quote files found to process.
+17-10-2019 15:16:46 
+17-10-2019 15:16:46 POC processing started.
+17-10-2019 15:16:46 No POC files found.
+17-10-2019 15:16:46 POC processing stopped.
+17-10-2019 15:16:46 
+17-10-2019 15:16:46 Supplier: V10001
+17-10-2019 15:16:46 Process started for SM0711_WEB
+17-10-2019 15:16:46 No RFQ files found.
+17-10-2019 15:16:46 RFQ processing stopped.
+17-10-2019 15:16:46 
+17-10-2019 15:16:46 Purchase Order processing started.
+17-10-2019 15:16:46 No PO files found.
+17-10-2019 15:16:46 Purchase Order processing stopped.
+17-10-2019 15:16:46 No quote files found to process.
+17-10-2019 15:16:46 
+17-10-2019 15:16:46 POC processing started.
+17-10-2019 15:16:46 No POC files found.
+17-10-2019 15:16:46 POC processing stopped.
+17-10-2019 15:16:46 DNVGL HTTP Processor stopped
+17-10-2019 15:16:46 ====================================================
+17-10-2019 15:16:57 ================17-10-2019 15:16:57================
+17-10-2019 15:16:57 DNVGL HTTP Processor started
+17-10-2019 15:17:01 
+17-10-2019 15:17:01 Supplier: V10107
+17-10-2019 15:17:01 Process started for SM0372_WEB
+17-10-2019 15:17:44 
+17-10-2019 15:17:44 Quote processing started.
+17-10-2019 15:17:44 4 files found to process.
+17-10-2019 15:17:45 Started Loading interchange object.
+17-10-2019 15:17:45 stopped Loading interchange object.
+17-10-2019 15:18:09 successfully saved input to database.
+17-10-2019 15:18:09 Started Loading interchange object.
+17-10-2019 15:18:09 stopped Loading interchange object.
+17-10-2019 15:18:20 Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+17-10-2019 15:18:20 Started Loading interchange object.
+17-10-2019 15:18:20 stopped Loading interchange object.
+17-10-2019 15:18:29 Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+17-10-2019 15:18:29 Started Loading interchange object.
+17-10-2019 15:18:29 stopped Loading interchange object.
+17-10-2019 15:19:07 ================17-10-2019 15:19:07================
+17-10-2019 15:19:07 DNVGL HTTP Processor started
+17-10-2019 15:19:07 
+17-10-2019 15:19:07 Supplier: V10107
+17-10-2019 15:19:08 Process started for SM0372_WEB
+17-10-2019 15:19:08 
+17-10-2019 15:19:08 Quote processing started.
+17-10-2019 15:19:08 3 files found to process.
+17-10-2019 15:19:08 Started Loading interchange object.
+17-10-2019 15:19:08 stopped Loading interchange object.
+17-10-2019 15:19:14 successfully saved input to database.
+17-10-2019 15:19:14 Started Loading interchange object.
+17-10-2019 15:19:14 stopped Loading interchange object.
+17-10-2019 15:19:16 Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+17-10-2019 15:19:16 Started Loading interchange object.
+17-10-2019 15:19:16 stopped Loading interchange object.
+17-10-2019 15:19:24 Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+17-10-2019 15:19:24 
+17-10-2019 15:19:24 Supplier: V10107
+17-10-2019 15:19:24 Process started for SM0695_WEB
+17-10-2019 15:19:24 No RFQ files found.
+17-10-2019 15:19:24 RFQ processing stopped.
+17-10-2019 15:19:25 No quote files found to process.
+17-10-2019 15:19:25 
+17-10-2019 15:19:25 Supplier: V10001
+17-10-2019 15:19:25 Process started for SM0668_WEB
+17-10-2019 15:19:25 No RFQ files found.
+17-10-2019 15:19:25 RFQ processing stopped.
+17-10-2019 15:19:25 
+17-10-2019 15:19:25 Purchase Order processing started.
+17-10-2019 15:19:25 No PO files found.
+17-10-2019 15:19:25 Purchase Order processing stopped.
+17-10-2019 15:19:25 No quote files found to process.
+17-10-2019 15:19:25 
+17-10-2019 15:19:25 POC processing started.
+17-10-2019 15:19:25 No POC files found.
+17-10-2019 15:19:25 POC processing stopped.
+17-10-2019 15:19:25 
+17-10-2019 15:19:25 Supplier: V10001
+17-10-2019 15:19:25 Process started for SM0711_WEB
+17-10-2019 15:19:25 No RFQ files found.
+17-10-2019 15:19:25 RFQ processing stopped.
+17-10-2019 15:19:25 
+17-10-2019 15:19:25 Purchase Order processing started.
+17-10-2019 15:19:25 No PO files found.
+17-10-2019 15:19:25 Purchase Order processing stopped.
+17-10-2019 15:19:26 No quote files found to process.
+17-10-2019 15:19:26 
+17-10-2019 15:19:26 POC processing started.
+17-10-2019 15:19:26 No POC files found.
+17-10-2019 15:19:26 POC processing stopped.
+17-10-2019 15:19:26 DNVGL HTTP Processor stopped
+17-10-2019 15:19:26 ====================================================
+17-10-2019 15:19:28 ================17-10-2019 15:19:28================
+17-10-2019 15:19:28 DNVGL HTTP Processor started
+17-10-2019 15:19:32 
+17-10-2019 15:19:32 Supplier: V10107
+17-10-2019 15:19:32 Process started for SM0372_WEB
+17-10-2019 15:19:33 
+17-10-2019 15:19:33 Quote processing started.
+17-10-2019 15:19:33 2 files found to process.
+17-10-2019 15:19:33 Started Loading interchange object.
+17-10-2019 15:19:33 stopped Loading interchange object.
+17-10-2019 15:19:48 successfully saved input to database.
+17-10-2019 15:19:48 Started Loading interchange object.
+17-10-2019 15:19:48 stopped Loading interchange object.
+17-10-2019 15:19:48 Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+17-10-2019 15:19:48 
+17-10-2019 15:19:48 Supplier: V10107
+17-10-2019 15:19:49 Process started for SM0695_WEB
+17-10-2019 15:19:49 No RFQ files found.
+17-10-2019 15:19:49 RFQ processing stopped.
+17-10-2019 15:19:49 No quote files found to process.
+17-10-2019 15:19:49 
+17-10-2019 15:19:49 Supplier: V10001
+17-10-2019 15:19:49 Process started for SM0668_WEB
+17-10-2019 15:19:49 No RFQ files found.
+17-10-2019 15:19:49 RFQ processing stopped.
+17-10-2019 15:19:49 
+17-10-2019 15:19:49 Purchase Order processing started.
+17-10-2019 15:19:49 No PO files found.
+17-10-2019 15:19:49 Purchase Order processing stopped.
+17-10-2019 15:19:49 No quote files found to process.
+17-10-2019 15:19:49 
+17-10-2019 15:19:49 POC processing started.
+17-10-2019 15:19:49 No POC files found.
+17-10-2019 15:19:49 POC processing stopped.
+17-10-2019 15:19:49 
+17-10-2019 15:19:49 Supplier: V10001
+17-10-2019 15:19:49 Process started for SM0711_WEB
+17-10-2019 15:19:49 No RFQ files found.
+17-10-2019 15:19:49 RFQ processing stopped.
+17-10-2019 15:19:49 
+17-10-2019 15:19:49 Purchase Order processing started.
+17-10-2019 15:19:49 No PO files found.
+17-10-2019 15:19:49 Purchase Order processing stopped.
+17-10-2019 15:19:49 No quote files found to process.
+17-10-2019 15:19:49 
+17-10-2019 15:19:49 POC processing started.
+17-10-2019 15:19:49 No POC files found.
+17-10-2019 15:19:49 POC processing stopped.
+17-10-2019 15:19:49 DNVGL HTTP Processor stopped
+17-10-2019 15:19:49 ====================================================
+17-10-2019 15:20:35 ================17-10-2019 15:20:35================
+17-10-2019 15:20:35 DNVGL HTTP Processor started
+17-10-2019 15:20:35 
+17-10-2019 15:20:35 Supplier: V10107
+17-10-2019 15:20:35 Process started for SM0372_WEB
+17-10-2019 15:20:35 
+17-10-2019 15:20:35 Quote processing started.
+17-10-2019 15:20:35 1 files found to process.
+17-10-2019 15:20:35 Started Loading interchange object.
+17-10-2019 15:20:35 stopped Loading interchange object.
+17-10-2019 15:20:38 successfully saved input to database.
+17-10-2019 15:20:38 
+17-10-2019 15:20:38 Supplier: V10107
+17-10-2019 15:20:38 Process started for SM0695_WEB
+17-10-2019 15:20:38 No RFQ files found.
+17-10-2019 15:20:38 RFQ processing stopped.
+17-10-2019 15:20:38 No quote files found to process.
+17-10-2019 15:20:38 
+17-10-2019 15:20:38 Supplier: V10001
+17-10-2019 15:20:38 Process started for SM0668_WEB
+17-10-2019 15:20:38 No RFQ files found.
+17-10-2019 15:20:38 RFQ processing stopped.
+17-10-2019 15:20:38 
+17-10-2019 15:20:38 Purchase Order processing started.
+17-10-2019 15:20:38 No PO files found.
+17-10-2019 15:20:38 Purchase Order processing stopped.
+17-10-2019 15:20:38 No quote files found to process.
+17-10-2019 15:20:38 
+17-10-2019 15:20:38 POC processing started.
+17-10-2019 15:20:38 No POC files found.
+17-10-2019 15:20:38 POC processing stopped.
+17-10-2019 15:20:38 
+17-10-2019 15:20:38 Supplier: V10001
+17-10-2019 15:20:38 Process started for SM0711_WEB
+17-10-2019 15:20:38 No RFQ files found.
+17-10-2019 15:20:38 RFQ processing stopped.
+17-10-2019 15:20:38 
+17-10-2019 15:20:38 Purchase Order processing started.
+17-10-2019 15:20:38 No PO files found.
+17-10-2019 15:20:38 Purchase Order processing stopped.
+17-10-2019 15:20:38 No quote files found to process.
+17-10-2019 15:20:38 
+17-10-2019 15:20:38 POC processing started.
+17-10-2019 15:20:38 No POC files found.
+17-10-2019 15:20:38 POC processing stopped.
+17-10-2019 15:20:38 DNVGL HTTP Processor stopped
+17-10-2019 15:20:38 ====================================================
+17-10-2019 16:36:59 ================17-10-2019 16:36:59================
+17-10-2019 16:36:59 DNVGL HTTP Processor started
+17-10-2019 16:36:59 
+17-10-2019 16:36:59 Supplier: V10107
+17-10-2019 16:36:59 Process started for SM0372_WEB
+17-10-2019 16:36:59 No quote files found to process.
+17-10-2019 16:36:59 
+17-10-2019 16:36:59 Supplier: V10107
+17-10-2019 16:36:59 Process started for SM0695_WEB
+17-10-2019 16:36:59 No RFQ files found.
+17-10-2019 16:36:59 RFQ processing stopped.
+17-10-2019 16:36:59 No quote files found to process.
+17-10-2019 16:36:59 
+17-10-2019 16:36:59 Supplier: V10001
+17-10-2019 16:36:59 Process started for SM0668_WEB
+17-10-2019 16:36:59 No RFQ files found.
+17-10-2019 16:36:59 RFQ processing stopped.
+17-10-2019 16:36:59 
+17-10-2019 16:36:59 Purchase Order processing started.
+17-10-2019 16:36:59 No PO files found.
+17-10-2019 16:36:59 Purchase Order processing stopped.
+17-10-2019 16:36:59 
+17-10-2019 16:36:59 Quote processing started.
+17-10-2019 16:36:59 1 files found to process.
+17-10-2019 16:36:59 Started Loading interchange object.
+17-10-2019 16:36:59 stopped Loading interchange object.
+17-10-2019 16:37:02 successfully saved input to database.
+17-10-2019 16:37:02 
+17-10-2019 16:37:02 POC processing started.
+17-10-2019 16:37:02 No POC files found.
+17-10-2019 16:37:02 POC processing stopped.
+17-10-2019 16:37:02 
+17-10-2019 16:37:02 Supplier: V10001
+17-10-2019 16:37:02 Process started for SM0711_WEB
+17-10-2019 16:37:02 No RFQ files found.
+17-10-2019 16:37:02 RFQ processing stopped.
+17-10-2019 16:37:02 
+17-10-2019 16:37:02 Purchase Order processing started.
+17-10-2019 16:37:02 No PO files found.
+17-10-2019 16:37:02 Purchase Order processing stopped.
+17-10-2019 16:37:02 No quote files found to process.
+17-10-2019 16:37:03 
+17-10-2019 16:37:03 POC processing started.
+17-10-2019 16:37:03 No POC files found.
+17-10-2019 16:37:03 POC processing stopped.
+17-10-2019 16:37:03 DNVGL HTTP Processor stopped
+17-10-2019 16:37:03 ====================================================

@@ -1,0 +1,1021 @@
+2/25/2019 12:04:10 AM ====================================================
+2/25/2019 12:04:10 AM Http Kotc processor started at 2/25/2019 12:04:10 AM
+2/25/2019 12:04:10 AM Loading AppSettings
+2/25/2019 12:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 12:04:12 AM Loading Login Page retry.
+2/25/2019 12:04:12 AM Loading Login Page retry.
+2/25/2019 12:04:13 AM Loading Login Page retry.
+2/25/2019 12:04:14 AM Unable to load url for login
+2/25/2019 12:04:14 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 12:04:14 AM Loading AppSettings
+2/25/2019 12:04:14 AM Process started for info@fujitrading.nl
+2/25/2019 12:04:15 AM Loading Login Page retry.
+2/25/2019 12:04:16 AM Loading Login Page retry.
+2/25/2019 12:04:17 AM Loading Login Page retry.
+2/25/2019 12:04:18 AM Unable to load url for login
+2/25/2019 12:04:18 AM Process stopped for info@fujitrading.nl
+2/25/2019 12:04:18 AM Loading AppSettings
+2/25/2019 12:04:18 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 12:04:18 AM Loading Login Page retry.
+2/25/2019 12:04:19 AM Loading Login Page retry.
+2/25/2019 12:04:20 AM Loading Login Page retry.
+2/25/2019 12:04:21 AM Unable to load url for login
+2/25/2019 12:04:21 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 12:04:21 AM Http Kotc processor stopped at 2/25/2019 12:04:21 AM
+2/25/2019 12:04:21 AM ====================================================
+2/25/2019 12:04:21 AM 
+2/25/2019 1:04:10 AM ====================================================
+2/25/2019 1:04:10 AM Http Kotc processor started at 2/25/2019 1:04:10 AM
+2/25/2019 1:04:10 AM Loading AppSettings
+2/25/2019 1:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:04:15 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:04:15 AM Loading AppSettings
+2/25/2019 1:04:15 AM Process started for info@fujitrading.nl
+2/25/2019 1:04:16 AM Loading Login Page retry.
+2/25/2019 1:04:17 AM Loading Login Page retry.
+2/25/2019 1:04:18 AM Loading Login Page retry.
+2/25/2019 1:04:19 AM Unable to load url for login
+2/25/2019 1:04:19 AM Process stopped for info@fujitrading.nl
+2/25/2019 1:04:19 AM Loading AppSettings
+2/25/2019 1:04:19 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:04:19 AM Loading Login Page retry.
+2/25/2019 1:04:20 AM Loading Login Page retry.
+2/25/2019 1:04:21 AM Loading Login Page retry.
+2/25/2019 1:04:22 AM Unable to load url for login
+2/25/2019 1:04:22 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:04:22 AM Http Kotc processor stopped at 2/25/2019 1:04:22 AM
+2/25/2019 1:04:22 AM ====================================================
+2/25/2019 1:04:22 AM 
+2/25/2019 2:04:10 AM ====================================================
+2/25/2019 2:04:10 AM Http Kotc processor started at 2/25/2019 2:04:10 AM
+2/25/2019 2:04:10 AM Loading AppSettings
+2/25/2019 2:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 2:04:15 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 2:04:15 AM Loading AppSettings
+2/25/2019 2:04:15 AM Process started for info@fujitrading.nl
+2/25/2019 2:04:15 AM Loading Login Page retry.
+2/25/2019 2:04:16 AM Loading Login Page retry.
+2/25/2019 2:04:17 AM Loading Login Page retry.
+2/25/2019 2:04:18 AM Unable to load url for login
+2/25/2019 2:04:18 AM Process stopped for info@fujitrading.nl
+2/25/2019 2:04:18 AM Loading AppSettings
+2/25/2019 2:04:18 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 2:04:19 AM Loading Login Page retry.
+2/25/2019 2:04:20 AM Loading Login Page retry.
+2/25/2019 2:04:20 AM Loading Login Page retry.
+2/25/2019 2:04:21 AM Unable to load url for login
+2/25/2019 2:04:21 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 2:04:21 AM Http Kotc processor stopped at 2/25/2019 2:04:21 AM
+2/25/2019 2:04:21 AM ====================================================
+2/25/2019 2:04:21 AM 
+2/25/2019 3:04:10 AM ====================================================
+2/25/2019 3:04:10 AM Http Kotc processor started at 2/25/2019 3:04:10 AM
+2/25/2019 3:04:10 AM Loading AppSettings
+2/25/2019 3:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:04:14 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:04:14 AM Loading AppSettings
+2/25/2019 3:04:14 AM Process started for info@fujitrading.nl
+2/25/2019 3:04:15 AM Loading Login Page retry.
+2/25/2019 3:04:16 AM Loading Login Page retry.
+2/25/2019 3:04:17 AM Loading Login Page retry.
+2/25/2019 3:04:18 AM Unable to load url for login
+2/25/2019 3:04:18 AM Process stopped for info@fujitrading.nl
+2/25/2019 3:04:18 AM Loading AppSettings
+2/25/2019 3:04:18 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:04:19 AM Loading Login Page retry.
+2/25/2019 3:04:20 AM Loading Login Page retry.
+2/25/2019 3:04:20 AM Loading Login Page retry.
+2/25/2019 3:04:21 AM Unable to load url for login
+2/25/2019 3:04:21 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:04:21 AM Http Kotc processor stopped at 2/25/2019 3:04:21 AM
+2/25/2019 3:04:21 AM ====================================================
+2/25/2019 3:04:21 AM 
+2/25/2019 4:04:10 AM ====================================================
+2/25/2019 4:04:10 AM Http Kotc processor started at 2/25/2019 4:04:10 AM
+2/25/2019 4:04:10 AM Loading AppSettings
+2/25/2019 4:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 4:04:16 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 4:04:16 AM Loading AppSettings
+2/25/2019 4:04:16 AM Process started for info@fujitrading.nl
+2/25/2019 4:04:17 AM Loading Login Page retry.
+2/25/2019 4:04:18 AM Loading Login Page retry.
+2/25/2019 4:04:18 AM Loading Login Page retry.
+2/25/2019 4:04:19 AM Unable to load url for login
+2/25/2019 4:04:19 AM Process stopped for info@fujitrading.nl
+2/25/2019 4:04:19 AM Loading AppSettings
+2/25/2019 4:04:19 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 4:04:20 AM Loading Login Page retry.
+2/25/2019 4:04:21 AM Loading Login Page retry.
+2/25/2019 4:04:22 AM Loading Login Page retry.
+2/25/2019 4:04:23 AM Unable to load url for login
+2/25/2019 4:04:23 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 4:04:23 AM Http Kotc processor stopped at 2/25/2019 4:04:23 AM
+2/25/2019 4:04:23 AM ====================================================
+2/25/2019 4:04:23 AM 
+2/25/2019 5:04:10 AM ====================================================
+2/25/2019 5:04:10 AM Http Kotc processor started at 2/25/2019 5:04:10 AM
+2/25/2019 5:04:10 AM Loading AppSettings
+2/25/2019 5:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 5:04:14 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 5:04:14 AM Loading AppSettings
+2/25/2019 5:04:14 AM Process started for info@fujitrading.nl
+2/25/2019 5:04:15 AM Loading Login Page retry.
+2/25/2019 5:04:16 AM Loading Login Page retry.
+2/25/2019 5:04:17 AM Loading Login Page retry.
+2/25/2019 5:04:18 AM Unable to load url for login
+2/25/2019 5:04:18 AM Process stopped for info@fujitrading.nl
+2/25/2019 5:04:18 AM Loading AppSettings
+2/25/2019 5:04:18 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 5:04:19 AM Loading Login Page retry.
+2/25/2019 5:04:19 AM Loading Login Page retry.
+2/25/2019 5:04:20 AM Loading Login Page retry.
+2/25/2019 5:04:21 AM Unable to load url for login
+2/25/2019 5:04:21 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 5:04:21 AM Http Kotc processor stopped at 2/25/2019 5:04:21 AM
+2/25/2019 5:04:21 AM ====================================================
+2/25/2019 5:04:21 AM 
+2/25/2019 6:04:10 AM ====================================================
+2/25/2019 6:04:10 AM Http Kotc processor started at 2/25/2019 6:04:10 AM
+2/25/2019 6:04:10 AM Loading AppSettings
+2/25/2019 6:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 6:04:16 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 6:04:16 AM Loading AppSettings
+2/25/2019 6:04:16 AM Process started for info@fujitrading.nl
+2/25/2019 6:04:17 AM Loading Login Page retry.
+2/25/2019 6:04:18 AM Loading Login Page retry.
+2/25/2019 6:04:18 AM Loading Login Page retry.
+2/25/2019 6:04:19 AM Unable to load url for login
+2/25/2019 6:04:20 AM Process stopped for info@fujitrading.nl
+2/25/2019 6:04:20 AM Loading AppSettings
+2/25/2019 6:04:20 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 6:04:20 AM Loading Login Page retry.
+2/25/2019 6:04:21 AM Loading Login Page retry.
+2/25/2019 6:04:22 AM Loading Login Page retry.
+2/25/2019 6:04:23 AM Unable to load url for login
+2/25/2019 6:04:23 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 6:04:23 AM Http Kotc processor stopped at 2/25/2019 6:04:23 AM
+2/25/2019 6:04:23 AM ====================================================
+2/25/2019 6:04:23 AM 
+2/25/2019 7:04:10 AM ====================================================
+2/25/2019 7:04:10 AM Http Kotc processor started at 2/25/2019 7:04:10 AM
+2/25/2019 7:04:10 AM Loading AppSettings
+2/25/2019 7:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 7:04:12 AM Loading Login Page retry.
+2/25/2019 7:04:12 AM Loading Login Page retry.
+2/25/2019 7:04:13 AM Loading Login Page retry.
+2/25/2019 7:04:14 AM Unable to load url for login
+2/25/2019 7:04:14 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 7:04:14 AM Loading AppSettings
+2/25/2019 7:04:14 AM Process started for info@fujitrading.nl
+2/25/2019 7:04:15 AM Loading Login Page retry.
+2/25/2019 7:04:16 AM Loading Login Page retry.
+2/25/2019 7:04:16 AM Loading Login Page retry.
+2/25/2019 7:04:17 AM Unable to load url for login
+2/25/2019 7:04:17 AM Process stopped for info@fujitrading.nl
+2/25/2019 7:04:17 AM Loading AppSettings
+2/25/2019 7:04:17 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 7:04:18 AM Loading Login Page retry.
+2/25/2019 7:04:19 AM Loading Login Page retry.
+2/25/2019 7:04:20 AM Loading Login Page retry.
+2/25/2019 7:04:21 AM Unable to load url for login
+2/25/2019 7:04:21 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 7:04:21 AM Http Kotc processor stopped at 2/25/2019 7:04:21 AM
+2/25/2019 7:04:21 AM ====================================================
+2/25/2019 7:04:21 AM 
+2/25/2019 8:04:10 AM ====================================================
+2/25/2019 8:04:10 AM Http Kotc processor started at 2/25/2019 8:04:10 AM
+2/25/2019 8:04:10 AM Loading AppSettings
+2/25/2019 8:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 8:04:14 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 8:04:14 AM Loading AppSettings
+2/25/2019 8:04:14 AM Process started for info@fujitrading.nl
+2/25/2019 8:04:15 AM Loading Login Page retry.
+2/25/2019 8:04:16 AM Loading Login Page retry.
+2/25/2019 8:04:17 AM Loading Login Page retry.
+2/25/2019 8:04:18 AM Unable to load url for login
+2/25/2019 8:04:18 AM Process stopped for info@fujitrading.nl
+2/25/2019 8:04:18 AM Loading AppSettings
+2/25/2019 8:04:18 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 8:04:19 AM Loading Login Page retry.
+2/25/2019 8:04:19 AM Loading Login Page retry.
+2/25/2019 8:04:20 AM Loading Login Page retry.
+2/25/2019 8:04:21 AM Unable to load url for login
+2/25/2019 8:04:21 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 8:04:21 AM Http Kotc processor stopped at 2/25/2019 8:04:21 AM
+2/25/2019 8:04:21 AM ====================================================
+2/25/2019 8:04:21 AM 
+2/25/2019 9:04:10 AM ====================================================
+2/25/2019 9:04:10 AM Http Kotc processor started at 2/25/2019 9:04:10 AM
+2/25/2019 9:04:10 AM Loading AppSettings
+2/25/2019 9:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 9:04:12 AM Loading Login Page retry.
+2/25/2019 9:04:13 AM Loading Login Page retry.
+2/25/2019 9:04:14 AM Loading Login Page retry.
+2/25/2019 9:04:15 AM Unable to load url for login
+2/25/2019 9:04:15 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 9:04:15 AM Loading AppSettings
+2/25/2019 9:04:15 AM Process started for info@fujitrading.nl
+2/25/2019 9:04:16 AM Loading Login Page retry.
+2/25/2019 9:04:17 AM Loading Login Page retry.
+2/25/2019 9:04:17 AM Loading Login Page retry.
+2/25/2019 9:04:18 AM Unable to load url for login
+2/25/2019 9:04:18 AM Process stopped for info@fujitrading.nl
+2/25/2019 9:04:18 AM Loading AppSettings
+2/25/2019 9:04:18 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 9:04:19 AM Loading Login Page retry.
+2/25/2019 9:04:20 AM Loading Login Page retry.
+2/25/2019 9:04:21 AM Loading Login Page retry.
+2/25/2019 9:04:22 AM Unable to load url for login
+2/25/2019 9:04:22 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 9:04:22 AM Http Kotc processor stopped at 2/25/2019 9:04:22 AM
+2/25/2019 9:04:22 AM ====================================================
+2/25/2019 9:04:22 AM 
+2/25/2019 10:04:10 AM ====================================================
+2/25/2019 10:04:10 AM Http Kotc processor started at 2/25/2019 10:04:10 AM
+2/25/2019 10:04:10 AM Loading AppSettings
+2/25/2019 10:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 10:04:12 AM Loading Login Page retry.
+2/25/2019 10:04:13 AM Loading Login Page retry.
+2/25/2019 10:04:14 AM Loading Login Page retry.
+2/25/2019 10:04:15 AM Unable to load url for login
+2/25/2019 10:04:15 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 10:04:15 AM Loading AppSettings
+2/25/2019 10:04:15 AM Process started for info@fujitrading.nl
+2/25/2019 10:04:16 AM Loading Login Page retry.
+2/25/2019 10:04:16 AM Loading Login Page retry.
+2/25/2019 10:04:17 AM Loading Login Page retry.
+2/25/2019 10:04:18 AM Unable to load url for login
+2/25/2019 10:04:18 AM Process stopped for info@fujitrading.nl
+2/25/2019 10:04:18 AM Loading AppSettings
+2/25/2019 10:04:18 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 10:04:19 AM Loading Login Page retry.
+2/25/2019 10:04:20 AM Loading Login Page retry.
+2/25/2019 10:04:20 AM Loading Login Page retry.
+2/25/2019 10:04:21 AM Unable to load url for login
+2/25/2019 10:04:21 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 10:04:21 AM Http Kotc processor stopped at 2/25/2019 10:04:21 AM
+2/25/2019 10:04:21 AM ====================================================
+2/25/2019 10:04:21 AM 
+2/25/2019 11:04:10 AM ====================================================
+2/25/2019 11:04:10 AM Http Kotc processor started at 2/25/2019 11:04:10 AM
+2/25/2019 11:04:10 AM Loading AppSettings
+2/25/2019 11:04:10 AM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 11:04:22 AM Logged in successfully.
+2/25/2019 11:04:24 AM Navigate to page 1
+2/25/2019 11:04:24 AM RFQ for ref 2019/DRZ/1073 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/SD2/0792 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/FUN/0926 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/RQA/0972 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/KFN/0969 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/FUN/1030 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/FUN/0999 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/RQA/0985 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/KZ3/1138 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/BND/0962 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/SAL/1052 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/WAF/1005 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/JB2/0828 already downloaded.
+2/25/2019 11:04:24 AM RFQ added to list for processing '2019/DRZ/1136'
+2/25/2019 11:04:24 AM RFQ for ref 2019/JB2/0876 already downloaded.
+2/25/2019 11:04:24 AM RFQ for ref 2019/BUR/0909 already downloaded.
+2/25/2019 11:04:24 AM RFQ added to list for processing '2019/DRZ/1103'
+2/25/2019 11:04:24 AM RFQ added to list for processing '2019/SR2/0946'
+2/25/2019 11:04:24 AM RFQ added to list for processing '2019/DRZ/1107'
+2/25/2019 11:04:24 AM RFQ added to list for processing '2019/DRZ/1097'
+2/25/2019 11:04:24 AM RFQ added to list for processing '2019/DRZ/1098'
+2/25/2019 11:04:24 AM RFQ added to list for processing '2019/DRZ/1135'
+2/25/2019 11:04:24 AM RFQ for ref 2019/SL2/0848 already downloaded.
+2/25/2019 11:04:24 AM RFQ added to list for processing '2019/DRZ/1132'
+2/25/2019 11:04:24 AM RFQ for ref 2019/BUR/0822 already downloaded.
+2/25/2019 11:04:30 AM RFQ 617698_2019_DRZ_1136_0.pdf downloaded for ref 2019/DRZ/1136
+2/25/2019 11:04:36 AM RFQ 617679_2019_DRZ_1103_0.pdf downloaded for ref 2019/DRZ/1103
+2/25/2019 11:04:44 AM RFQ 617651_2019_SR2_0946_0.pdf downloaded for ref 2019/SR2/0946
+2/25/2019 11:04:50 AM RFQ 617682_2019_DRZ_1107_0.pdf downloaded for ref 2019/DRZ/1107
+2/25/2019 11:04:56 AM RFQ 617690_2019_DRZ_1097_0.pdf downloaded for ref 2019/DRZ/1097
+2/25/2019 11:05:01 AM RFQ 617691_2019_DRZ_1098_0.pdf downloaded for ref 2019/DRZ/1098
+2/25/2019 11:05:07 AM RFQ 617697_2019_DRZ_1135_0.pdf downloaded for ref 2019/DRZ/1135
+2/25/2019 11:05:13 AM RFQ 617694_2019_DRZ_1132_0.pdf downloaded for ref 2019/DRZ/1132
+2/25/2019 11:05:15 AM User MACH-1@FUJITRADING.CO.JP logged out successfully.
+2/25/2019 11:05:15 AM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 11:05:15 AM Loading AppSettings
+2/25/2019 11:05:15 AM Process started for info@fujitrading.nl
+2/25/2019 11:05:25 AM Logged in successfully.
+2/25/2019 11:05:27 AM Navigate to page 1
+2/25/2019 11:05:27 AM RFQ for ref 2019/BUR/0883 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/MTB/0856 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/UMA/1081 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/UMA/1085 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/DRZ/1073 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/DSM/1005 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/UMA/1089 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/UMA/1094 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/DSM/0975 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/KFN/0917 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/BBN/0683 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/BBN/0982 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/BBN/0906 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/FUN/1014 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/MTB/0883 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/MTB/0886 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/MTB/0887 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/MTB/0890 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/WAF/0999 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/BND/0925 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/KUT/0872 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/SAL/1025 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/SAL/1072 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/SAL/1071 already downloaded.
+2/25/2019 11:05:27 AM RFQ for ref 2019/UMA/1011 already downloaded.
+2/25/2019 11:05:28 AM Navigate to page 2
+2/25/2019 11:05:28 AM RFQ for ref 2019/GAN/0954 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/GAN/0939 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/GAN/0817 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/UMA/1102 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/WT4/0707 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/WAF/1006 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/MTB/0803 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/BUR/0926 already downloaded.
+2/25/2019 11:05:28 AM RFQ added to list for processing '2019/DRZ/1093'
+2/25/2019 11:05:28 AM RFQ for ref 2019/SR2/0913 already downloaded.
+2/25/2019 11:05:28 AM RFQ added to list for processing '2019/SR2/0948'
+2/25/2019 11:05:28 AM RFQ added to list for processing '2019/BBN/1015'
+2/25/2019 11:05:28 AM RFQ for ref 2019/BUR/0911 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/SL2/0874 already downloaded.
+2/25/2019 11:05:28 AM RFQ added to list for processing '2019/DRZ/1133'
+2/25/2019 11:05:28 AM RFQ for ref 2019/SL2/0808 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/SL2/0848 already downloaded.
+2/25/2019 11:05:28 AM RFQ for ref 2019/BUR/0869 already downloaded.
+2/25/2019 11:05:28 AM RFQ added to list for processing '2019/DRZ/1134'
+2/25/2019 11:05:36 AM RFQ 617665_2019_DRZ_1093_0.pdf downloaded for ref 2019/DRZ/1093
+2/25/2019 11:05:45 AM RFQ 617655_2019_SR2_0948_0.pdf downloaded for ref 2019/SR2/0948
+2/25/2019 11:05:51 AM RFQ 617707_2019_BBN_1015_0.pdf downloaded for ref 2019/BBN/1015
+2/25/2019 11:05:57 AM RFQ 617695_2019_DRZ_1133_0.pdf downloaded for ref 2019/DRZ/1133
+2/25/2019 11:06:03 AM RFQ 617696_2019_DRZ_1134_0.pdf downloaded for ref 2019/DRZ/1134
+2/25/2019 11:06:04 AM User info@fujitrading.nl logged out successfully.
+2/25/2019 11:06:04 AM Process stopped for info@fujitrading.nl
+2/25/2019 11:06:04 AM Loading AppSettings
+2/25/2019 11:06:04 AM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 11:06:07 AM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 11:06:07 AM Http Kotc processor stopped at 2/25/2019 11:06:07 AM
+2/25/2019 11:06:07 AM ====================================================
+2/25/2019 11:06:07 AM 
+2/25/2019 12:04:10 PM ====================================================
+2/25/2019 12:04:10 PM Http Kotc processor started at 2/25/2019 12:04:10 PM
+2/25/2019 12:04:10 PM Loading AppSettings
+2/25/2019 12:04:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 12:04:15 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 12:04:15 PM Loading AppSettings
+2/25/2019 12:04:15 PM Process started for info@fujitrading.nl
+2/25/2019 12:04:16 PM Loading Login Page retry.
+2/25/2019 12:04:17 PM Loading Login Page retry.
+2/25/2019 12:04:18 PM Loading Login Page retry.
+2/25/2019 12:04:19 PM Unable to load url for login
+2/25/2019 12:04:19 PM Process stopped for info@fujitrading.nl
+2/25/2019 12:04:19 PM Loading AppSettings
+2/25/2019 12:04:19 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 12:04:20 PM Loading Login Page retry.
+2/25/2019 12:04:20 PM Loading Login Page retry.
+2/25/2019 12:04:21 PM Loading Login Page retry.
+2/25/2019 12:04:22 PM Unable to load url for login
+2/25/2019 12:04:22 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 12:04:22 PM Http Kotc processor stopped at 2/25/2019 12:04:22 PM
+2/25/2019 12:04:22 PM ====================================================
+2/25/2019 12:04:22 PM 
+2/25/2019 1:04:10 PM ====================================================
+2/25/2019 1:04:10 PM Http Kotc processor started at 2/25/2019 1:04:10 PM
+2/25/2019 1:04:10 PM Loading AppSettings
+2/25/2019 1:04:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:04:15 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:04:15 PM Loading AppSettings
+2/25/2019 1:04:15 PM Process started for info@fujitrading.nl
+2/25/2019 1:04:16 PM Loading Login Page retry.
+2/25/2019 1:04:17 PM Loading Login Page retry.
+2/25/2019 1:04:18 PM Loading Login Page retry.
+2/25/2019 1:04:19 PM Unable to load url for login
+2/25/2019 1:04:19 PM Process stopped for info@fujitrading.nl
+2/25/2019 1:04:19 PM Loading AppSettings
+2/25/2019 1:04:19 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:04:20 PM Loading Login Page retry.
+2/25/2019 1:04:20 PM Loading Login Page retry.
+2/25/2019 1:04:21 PM Loading Login Page retry.
+2/25/2019 1:04:22 PM Unable to load url for login
+2/25/2019 1:04:22 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:04:22 PM Http Kotc processor stopped at 2/25/2019 1:04:22 PM
+2/25/2019 1:04:22 PM ====================================================
+2/25/2019 1:04:22 PM 
+2/25/2019 1:31:31 PM ====================================================
+2/25/2019 1:31:31 PM Http Kotc processor started at 2/25/2019 1:31:31 PM
+2/25/2019 1:31:31 PM Loading AppSettings
+2/25/2019 1:31:31 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:31:36 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:31:36 PM Loading AppSettings
+2/25/2019 1:31:36 PM Process started for info@fujitrading.nl
+2/25/2019 1:31:36 PM Loading Login Page retry.
+2/25/2019 1:31:37 PM Loading Login Page retry.
+2/25/2019 1:31:38 PM Loading Login Page retry.
+2/25/2019 1:31:39 PM Unable to load url for login
+2/25/2019 1:31:39 PM Process stopped for info@fujitrading.nl
+2/25/2019 1:31:39 PM Loading AppSettings
+2/25/2019 1:31:39 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:31:40 PM Loading Login Page retry.
+2/25/2019 1:31:41 PM Loading Login Page retry.
+2/25/2019 1:31:41 PM Loading Login Page retry.
+2/25/2019 1:31:42 PM Unable to load url for login
+2/25/2019 1:31:42 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:31:42 PM Http Kotc processor stopped at 2/25/2019 1:31:42 PM
+2/25/2019 1:31:42 PM ====================================================
+2/25/2019 1:31:42 PM 
+2/25/2019 1:32:00 PM ====================================================
+2/25/2019 1:32:00 PM Http Kotc processor started at 2/25/2019 1:32:00 PM
+2/25/2019 1:32:00 PM Loading AppSettings
+2/25/2019 1:32:00 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:32:06 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:32:06 PM Loading AppSettings
+2/25/2019 1:32:06 PM Process started for info@fujitrading.nl
+2/25/2019 1:32:07 PM Loading Login Page retry.
+2/25/2019 1:32:07 PM Loading Login Page retry.
+2/25/2019 1:32:08 PM Loading Login Page retry.
+2/25/2019 1:32:09 PM Unable to load url for login
+2/25/2019 1:32:09 PM Process stopped for info@fujitrading.nl
+2/25/2019 1:32:09 PM Loading AppSettings
+2/25/2019 1:32:09 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:32:10 PM Loading Login Page retry.
+2/25/2019 1:32:11 PM Loading Login Page retry.
+2/25/2019 1:32:12 PM Loading Login Page retry.
+2/25/2019 1:32:12 PM Unable to load url for login
+2/25/2019 1:32:13 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:32:13 PM Http Kotc processor stopped at 2/25/2019 1:32:13 PM
+2/25/2019 1:32:13 PM ====================================================
+2/25/2019 1:32:13 PM 
+2/25/2019 1:32:34 PM ====================================================
+2/25/2019 1:32:34 PM Http Kotc processor started at 2/25/2019 1:32:34 PM
+2/25/2019 1:32:34 PM Loading AppSettings
+2/25/2019 1:32:34 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:32:36 PM Loading Login Page retry.
+2/25/2019 1:32:36 PM Loading Login Page retry.
+2/25/2019 1:32:37 PM Loading Login Page retry.
+2/25/2019 1:32:38 PM Unable to load url for login
+2/25/2019 1:32:38 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:32:38 PM Loading AppSettings
+2/25/2019 1:32:38 PM Process started for info@fujitrading.nl
+2/25/2019 1:32:39 PM Loading Login Page retry.
+2/25/2019 1:32:40 PM Loading Login Page retry.
+2/25/2019 1:32:40 PM Loading Login Page retry.
+2/25/2019 1:32:41 PM Unable to load url for login
+2/25/2019 1:32:41 PM Process stopped for info@fujitrading.nl
+2/25/2019 1:32:41 PM Loading AppSettings
+2/25/2019 1:32:41 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:32:42 PM Loading Login Page retry.
+2/25/2019 1:32:43 PM Loading Login Page retry.
+2/25/2019 1:32:43 PM Loading Login Page retry.
+2/25/2019 1:32:44 PM Unable to load url for login
+2/25/2019 1:32:44 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:32:44 PM Http Kotc processor stopped at 2/25/2019 1:32:44 PM
+2/25/2019 1:32:44 PM ====================================================
+2/25/2019 1:32:44 PM 
+2/25/2019 1:32:47 PM ====================================================
+2/25/2019 1:32:47 PM Http Kotc processor started at 2/25/2019 1:32:47 PM
+2/25/2019 1:32:47 PM Loading AppSettings
+2/25/2019 1:32:47 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:32:49 PM Loading Login Page retry.
+2/25/2019 1:32:50 PM Loading Login Page retry.
+2/25/2019 1:32:51 PM Loading Login Page retry.
+2/25/2019 1:32:52 PM Unable to load url for login
+2/25/2019 1:32:52 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:32:52 PM Loading AppSettings
+2/25/2019 1:32:52 PM Process started for info@fujitrading.nl
+2/25/2019 1:32:52 PM Loading Login Page retry.
+2/25/2019 1:32:53 PM Loading Login Page retry.
+2/25/2019 1:32:54 PM Loading Login Page retry.
+2/25/2019 1:32:55 PM Unable to load url for login
+2/25/2019 1:32:55 PM Process stopped for info@fujitrading.nl
+2/25/2019 1:32:55 PM Loading AppSettings
+2/25/2019 1:32:55 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:32:56 PM Loading Login Page retry.
+2/25/2019 1:32:56 PM Loading Login Page retry.
+2/25/2019 1:32:57 PM Loading Login Page retry.
+2/25/2019 1:32:58 PM Unable to load url for login
+2/25/2019 1:32:58 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:32:58 PM Http Kotc processor stopped at 2/25/2019 1:32:58 PM
+2/25/2019 1:32:58 PM ====================================================
+2/25/2019 1:32:58 PM 
+2/25/2019 1:33:27 PM ====================================================
+2/25/2019 1:33:27 PM Http Kotc processor started at 2/25/2019 1:33:27 PM
+2/25/2019 1:33:27 PM Loading AppSettings
+2/25/2019 1:33:27 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:33:29 PM Loading Login Page retry.
+2/25/2019 1:33:30 PM Loading Login Page retry.
+2/25/2019 1:33:31 PM Loading Login Page retry.
+2/25/2019 1:33:32 PM Unable to load url for login
+2/25/2019 1:33:32 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:33:32 PM Loading AppSettings
+2/25/2019 1:33:32 PM Process started for info@fujitrading.nl
+2/25/2019 1:33:32 PM Loading Login Page retry.
+2/25/2019 1:33:33 PM Loading Login Page retry.
+2/25/2019 1:33:34 PM Loading Login Page retry.
+2/25/2019 1:33:35 PM Unable to load url for login
+2/25/2019 1:33:35 PM Process stopped for info@fujitrading.nl
+2/25/2019 1:33:35 PM Loading AppSettings
+2/25/2019 1:33:35 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:33:36 PM Loading Login Page retry.
+2/25/2019 1:33:37 PM Loading Login Page retry.
+2/25/2019 1:33:37 PM Loading Login Page retry.
+2/25/2019 1:33:38 PM Unable to load url for login
+2/25/2019 1:33:38 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:33:38 PM Http Kotc processor stopped at 2/25/2019 1:33:38 PM
+2/25/2019 1:33:38 PM ====================================================
+2/25/2019 1:33:38 PM 
+2/25/2019 1:34:10 PM ====================================================
+2/25/2019 1:34:10 PM Http Kotc processor started at 2/25/2019 1:34:10 PM
+2/25/2019 1:34:10 PM Loading AppSettings
+2/25/2019 1:34:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:34:12 PM Loading Login Page retry.
+2/25/2019 1:34:13 PM Loading Login Page retry.
+2/25/2019 1:34:13 PM Loading Login Page retry.
+2/25/2019 1:34:14 PM Unable to load url for login
+2/25/2019 1:34:14 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 1:34:14 PM Loading AppSettings
+2/25/2019 1:34:14 PM Process started for info@fujitrading.nl
+2/25/2019 1:34:15 PM Loading Login Page retry.
+2/25/2019 1:34:16 PM Loading Login Page retry.
+2/25/2019 1:34:17 PM Loading Login Page retry.
+2/25/2019 1:34:18 PM Unable to load url for login
+2/25/2019 1:34:18 PM Process stopped for info@fujitrading.nl
+2/25/2019 1:34:18 PM Loading AppSettings
+2/25/2019 1:34:18 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:34:19 PM Loading Login Page retry.
+2/25/2019 1:34:19 PM Loading Login Page retry.
+2/25/2019 1:34:20 PM Loading Login Page retry.
+2/25/2019 1:34:21 PM Unable to load url for login
+2/25/2019 1:34:21 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 1:34:21 PM Http Kotc processor stopped at 2/25/2019 1:34:21 PM
+2/25/2019 1:34:21 PM ====================================================
+2/25/2019 1:34:21 PM 
+2/25/2019 2:04:10 PM ====================================================
+2/25/2019 2:04:10 PM Http Kotc processor started at 2/25/2019 2:04:10 PM
+2/25/2019 2:04:10 PM Loading AppSettings
+2/25/2019 2:04:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 2:04:15 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 2:04:15 PM Loading AppSettings
+2/25/2019 2:04:15 PM Process started for info@fujitrading.nl
+2/25/2019 2:04:16 PM Loading Login Page retry.
+2/25/2019 2:04:17 PM Loading Login Page retry.
+2/25/2019 2:04:18 PM Loading Login Page retry.
+2/25/2019 2:04:19 PM Unable to load url for login
+2/25/2019 2:04:19 PM Process stopped for info@fujitrading.nl
+2/25/2019 2:04:19 PM Loading AppSettings
+2/25/2019 2:04:19 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 2:04:20 PM Loading Login Page retry.
+2/25/2019 2:04:21 PM Loading Login Page retry.
+2/25/2019 2:04:21 PM Loading Login Page retry.
+2/25/2019 2:04:22 PM Unable to load url for login
+2/25/2019 2:04:22 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 2:04:22 PM Http Kotc processor stopped at 2/25/2019 2:04:22 PM
+2/25/2019 2:04:22 PM ====================================================
+2/25/2019 2:04:22 PM 
+2/25/2019 2:34:10 PM ====================================================
+2/25/2019 2:34:10 PM Http Kotc processor started at 2/25/2019 2:34:10 PM
+2/25/2019 2:34:10 PM Loading AppSettings
+2/25/2019 2:34:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 2:34:15 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 2:34:15 PM Loading AppSettings
+2/25/2019 2:34:15 PM Process started for info@fujitrading.nl
+2/25/2019 2:34:16 PM Loading Login Page retry.
+2/25/2019 2:34:17 PM Loading Login Page retry.
+2/25/2019 2:34:17 PM Loading Login Page retry.
+2/25/2019 2:34:18 PM Unable to load url for login
+2/25/2019 2:34:18 PM Process stopped for info@fujitrading.nl
+2/25/2019 2:34:18 PM Loading AppSettings
+2/25/2019 2:34:18 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 2:34:19 PM Loading Login Page retry.
+2/25/2019 2:34:20 PM Loading Login Page retry.
+2/25/2019 2:34:21 PM Loading Login Page retry.
+2/25/2019 2:34:22 PM Unable to load url for login
+2/25/2019 2:34:22 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 2:34:22 PM Http Kotc processor stopped at 2/25/2019 2:34:22 PM
+2/25/2019 2:34:22 PM ====================================================
+2/25/2019 2:34:22 PM 
+2/25/2019 3:04:10 PM ====================================================
+2/25/2019 3:04:10 PM Http Kotc processor started at 2/25/2019 3:04:10 PM
+2/25/2019 3:04:10 PM Loading AppSettings
+2/25/2019 3:04:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:04:14 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:04:14 PM Loading AppSettings
+2/25/2019 3:04:14 PM Process started for info@fujitrading.nl
+2/25/2019 3:04:15 PM Loading Login Page retry.
+2/25/2019 3:04:16 PM Loading Login Page retry.
+2/25/2019 3:04:16 PM Loading Login Page retry.
+2/25/2019 3:04:17 PM Unable to load url for login
+2/25/2019 3:04:17 PM Process stopped for info@fujitrading.nl
+2/25/2019 3:04:17 PM Loading AppSettings
+2/25/2019 3:04:17 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:04:18 PM Loading Login Page retry.
+2/25/2019 3:04:19 PM Loading Login Page retry.
+2/25/2019 3:04:20 PM Loading Login Page retry.
+2/25/2019 3:04:21 PM Unable to load url for login
+2/25/2019 3:04:21 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:04:21 PM Http Kotc processor stopped at 2/25/2019 3:04:21 PM
+2/25/2019 3:04:21 PM ====================================================
+2/25/2019 3:04:21 PM 
+2/25/2019 3:19:58 PM ====================================================
+2/25/2019 3:19:58 PM Http Kotc processor started at 2/25/2019 3:19:58 PM
+2/25/2019 3:19:58 PM Loading AppSettings
+2/25/2019 3:19:58 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:20:02 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:20:02 PM Loading AppSettings
+2/25/2019 3:20:02 PM Process started for info@fujitrading.nl
+2/25/2019 3:20:02 PM Loading Login Page retry.
+2/25/2019 3:20:03 PM Loading Login Page retry.
+2/25/2019 3:20:04 PM Loading Login Page retry.
+2/25/2019 3:20:05 PM Unable to load url for login
+2/25/2019 3:20:05 PM Process stopped for info@fujitrading.nl
+2/25/2019 3:20:05 PM Loading AppSettings
+2/25/2019 3:20:05 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:20:06 PM Loading Login Page retry.
+2/25/2019 3:20:07 PM Loading Login Page retry.
+2/25/2019 3:20:08 PM Loading Login Page retry.
+2/25/2019 3:20:09 PM Unable to load url for login
+2/25/2019 3:20:09 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:20:09 PM Http Kotc processor stopped at 2/25/2019 3:20:09 PM
+2/25/2019 3:20:09 PM ====================================================
+2/25/2019 3:20:09 PM 
+2/25/2019 3:20:12 PM ====================================================
+2/25/2019 3:20:12 PM Http Kotc processor started at 2/25/2019 3:20:12 PM
+2/25/2019 3:20:12 PM Loading AppSettings
+2/25/2019 3:20:12 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:20:16 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:20:16 PM Loading AppSettings
+2/25/2019 3:20:16 PM Process started for info@fujitrading.nl
+2/25/2019 3:20:17 PM Loading Login Page retry.
+2/25/2019 3:20:18 PM Loading Login Page retry.
+2/25/2019 3:20:19 PM Loading Login Page retry.
+2/25/2019 3:20:20 PM Unable to load url for login
+2/25/2019 3:20:20 PM Process stopped for info@fujitrading.nl
+2/25/2019 3:20:20 PM Loading AppSettings
+2/25/2019 3:20:20 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:20:20 PM Loading Login Page retry.
+2/25/2019 3:20:21 PM Loading Login Page retry.
+2/25/2019 3:20:22 PM Loading Login Page retry.
+2/25/2019 3:20:23 PM Unable to load url for login
+2/25/2019 3:20:23 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:20:23 PM Http Kotc processor stopped at 2/25/2019 3:20:23 PM
+2/25/2019 3:20:23 PM ====================================================
+2/25/2019 3:20:23 PM 
+2/25/2019 3:24:50 PM ====================================================
+2/25/2019 3:24:50 PM Http Kotc processor started at 2/25/2019 3:24:50 PM
+2/25/2019 3:24:50 PM Loading AppSettings
+2/25/2019 3:24:50 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:24:53 PM Loading Login Page retry.
+2/25/2019 3:24:54 PM Loading Login Page retry.
+2/25/2019 3:24:56 PM Loading Login Page retry.
+2/25/2019 3:24:57 PM Unable to load url for login
+2/25/2019 3:24:57 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:24:57 PM Loading AppSettings
+2/25/2019 3:24:57 PM Process started for info@fujitrading.nl
+2/25/2019 3:24:58 PM Loading Login Page retry.
+2/25/2019 3:24:58 PM Loading Login Page retry.
+2/25/2019 3:24:59 PM Loading Login Page retry.
+2/25/2019 3:25:00 PM Unable to load url for login
+2/25/2019 3:25:00 PM Process stopped for info@fujitrading.nl
+2/25/2019 3:25:00 PM Loading AppSettings
+2/25/2019 3:25:00 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:25:01 PM Loading Login Page retry.
+2/25/2019 3:25:02 PM Loading Login Page retry.
+2/25/2019 3:25:02 PM Loading Login Page retry.
+2/25/2019 3:25:03 PM Unable to load url for login
+2/25/2019 3:25:03 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:25:03 PM Http Kotc processor stopped at 2/25/2019 3:25:03 PM
+2/25/2019 3:25:03 PM ====================================================
+2/25/2019 3:25:03 PM 
+2/25/2019 3:34:10 PM ====================================================
+2/25/2019 3:34:10 PM Http Kotc processor started at 2/25/2019 3:34:10 PM
+2/25/2019 3:34:10 PM Loading AppSettings
+2/25/2019 3:34:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:34:13 PM Loading Login Page retry.
+2/25/2019 3:34:14 PM Loading Login Page retry.
+2/25/2019 3:34:15 PM Loading Login Page retry.
+2/25/2019 3:34:17 PM Unable to load url for login
+2/25/2019 3:34:17 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 3:34:17 PM Loading AppSettings
+2/25/2019 3:34:17 PM Process started for info@fujitrading.nl
+2/25/2019 3:34:18 PM Loading Login Page retry.
+2/25/2019 3:34:19 PM Loading Login Page retry.
+2/25/2019 3:34:20 PM Loading Login Page retry.
+2/25/2019 3:34:21 PM Unable to load url for login
+2/25/2019 3:34:21 PM Process stopped for info@fujitrading.nl
+2/25/2019 3:34:21 PM Loading AppSettings
+2/25/2019 3:34:21 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:34:23 PM Loading Login Page retry.
+2/25/2019 3:34:24 PM Loading Login Page retry.
+2/25/2019 3:34:25 PM Loading Login Page retry.
+2/25/2019 3:34:26 PM Unable to load url for login
+2/25/2019 3:34:26 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 3:34:26 PM Http Kotc processor stopped at 2/25/2019 3:34:26 PM
+2/25/2019 3:34:26 PM ====================================================
+2/25/2019 3:34:26 PM 
+2/25/2019 4:04:10 PM ====================================================
+2/25/2019 4:04:10 PM Http Kotc processor started at 2/25/2019 4:04:10 PM
+2/25/2019 4:04:10 PM Loading AppSettings
+2/25/2019 4:04:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 4:04:13 PM Loading Login Page retry.
+2/25/2019 4:04:14 PM Loading Login Page retry.
+2/25/2019 4:04:16 PM Loading Login Page retry.
+2/25/2019 4:04:17 PM Unable to load url for login
+2/25/2019 4:04:17 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 4:04:17 PM Loading AppSettings
+2/25/2019 4:04:17 PM Process started for info@fujitrading.nl
+2/25/2019 4:04:18 PM Loading Login Page retry.
+2/25/2019 4:04:19 PM Loading Login Page retry.
+2/25/2019 4:04:20 PM Loading Login Page retry.
+2/25/2019 4:04:22 PM Unable to load url for login
+2/25/2019 4:04:22 PM Process stopped for info@fujitrading.nl
+2/25/2019 4:04:22 PM Loading AppSettings
+2/25/2019 4:04:22 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 4:04:23 PM Loading Login Page retry.
+2/25/2019 4:04:24 PM Loading Login Page retry.
+2/25/2019 4:04:25 PM Loading Login Page retry.
+2/25/2019 4:04:26 PM Unable to load url for login
+2/25/2019 4:04:26 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 4:04:26 PM Http Kotc processor stopped at 2/25/2019 4:04:26 PM
+2/25/2019 4:04:26 PM ====================================================
+2/25/2019 4:04:26 PM 
+2/25/2019 4:34:10 PM ====================================================
+2/25/2019 4:34:10 PM Http Kotc processor started at 2/25/2019 4:34:10 PM
+2/25/2019 4:34:10 PM Loading AppSettings
+2/25/2019 4:34:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 4:34:15 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 4:34:15 PM Loading AppSettings
+2/25/2019 4:34:15 PM Process started for info@fujitrading.nl
+2/25/2019 4:34:16 PM Loading Login Page retry.
+2/25/2019 4:34:17 PM Loading Login Page retry.
+2/25/2019 4:34:19 PM Loading Login Page retry.
+2/25/2019 4:34:20 PM Unable to load url for login
+2/25/2019 4:34:20 PM Process stopped for info@fujitrading.nl
+2/25/2019 4:34:20 PM Loading AppSettings
+2/25/2019 4:34:20 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 4:34:21 PM Loading Login Page retry.
+2/25/2019 4:34:22 PM Loading Login Page retry.
+2/25/2019 4:34:23 PM Loading Login Page retry.
+2/25/2019 4:34:24 PM Unable to load url for login
+2/25/2019 4:34:25 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 4:34:25 PM Http Kotc processor stopped at 2/25/2019 4:34:25 PM
+2/25/2019 4:34:25 PM ====================================================
+2/25/2019 4:34:25 PM 
+2/25/2019 5:04:43 PM ====================================================
+2/25/2019 5:04:43 PM Http Kotc processor started at 2/25/2019 5:04:43 PM
+2/25/2019 5:04:43 PM Loading AppSettings
+2/25/2019 5:04:43 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 5:04:46 PM Loading Login Page retry.
+2/25/2019 5:04:48 PM Loading Login Page retry.
+2/25/2019 5:04:49 PM Loading Login Page retry.
+2/25/2019 5:04:51 PM Unable to load url for login
+2/25/2019 5:04:51 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 5:04:51 PM Loading AppSettings
+2/25/2019 5:04:51 PM Process started for info@fujitrading.nl
+2/25/2019 5:04:52 PM Loading Login Page retry.
+2/25/2019 5:04:53 PM Loading Login Page retry.
+2/25/2019 5:04:54 PM Loading Login Page retry.
+2/25/2019 5:04:55 PM Unable to load url for login
+2/25/2019 5:04:56 PM Process stopped for info@fujitrading.nl
+2/25/2019 5:04:56 PM Loading AppSettings
+2/25/2019 5:04:56 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 5:04:57 PM Loading Login Page retry.
+2/25/2019 5:04:58 PM Loading Login Page retry.
+2/25/2019 5:04:59 PM Loading Login Page retry.
+2/25/2019 5:05:00 PM Unable to load url for login
+2/25/2019 5:05:00 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 5:05:00 PM Http Kotc processor stopped at 2/25/2019 5:05:00 PM
+2/25/2019 5:05:00 PM ====================================================
+2/25/2019 5:05:00 PM 
+2/25/2019 5:34:10 PM ====================================================
+2/25/2019 5:34:10 PM Http Kotc processor started at 2/25/2019 5:34:10 PM
+2/25/2019 5:34:10 PM Loading AppSettings
+2/25/2019 5:34:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 5:34:12 PM Loading Login Page retry.
+2/25/2019 5:34:13 PM Loading Login Page retry.
+2/25/2019 5:34:14 PM Loading Login Page retry.
+2/25/2019 5:34:15 PM Unable to load url for login
+2/25/2019 5:34:16 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 5:34:16 PM Loading AppSettings
+2/25/2019 5:34:16 PM Process started for info@fujitrading.nl
+2/25/2019 5:34:18 PM Loading Login Page retry.
+2/25/2019 5:34:19 PM Loading Login Page retry.
+2/25/2019 5:34:20 PM Loading Login Page retry.
+2/25/2019 5:34:22 PM Unable to load url for login
+2/25/2019 5:34:22 PM Process stopped for info@fujitrading.nl
+2/25/2019 5:34:22 PM Loading AppSettings
+2/25/2019 5:34:22 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 5:34:23 PM Loading Login Page retry.
+2/25/2019 5:34:24 PM Loading Login Page retry.
+2/25/2019 5:34:25 PM Loading Login Page retry.
+2/25/2019 5:34:26 PM Unable to load url for login
+2/25/2019 5:34:26 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 5:34:26 PM Http Kotc processor stopped at 2/25/2019 5:34:26 PM
+2/25/2019 5:34:26 PM ====================================================
+2/25/2019 5:34:26 PM 
+2/25/2019 6:04:10 PM ====================================================
+2/25/2019 6:04:10 PM Http Kotc processor started at 2/25/2019 6:04:10 PM
+2/25/2019 6:04:10 PM Loading AppSettings
+2/25/2019 6:04:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 6:04:16 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 6:04:16 PM Loading AppSettings
+2/25/2019 6:04:16 PM Process started for info@fujitrading.nl
+2/25/2019 6:04:17 PM Loading Login Page retry.
+2/25/2019 6:04:18 PM Loading Login Page retry.
+2/25/2019 6:04:19 PM Loading Login Page retry.
+2/25/2019 6:04:20 PM Unable to load url for login
+2/25/2019 6:04:20 PM Process stopped for info@fujitrading.nl
+2/25/2019 6:04:20 PM Loading AppSettings
+2/25/2019 6:04:20 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 6:04:22 PM Loading Login Page retry.
+2/25/2019 6:04:23 PM Loading Login Page retry.
+2/25/2019 6:04:24 PM Loading Login Page retry.
+2/25/2019 6:04:25 PM Unable to load url for login
+2/25/2019 6:04:25 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 6:04:25 PM Http Kotc processor stopped at 2/25/2019 6:04:25 PM
+2/25/2019 6:04:25 PM ====================================================
+2/25/2019 6:04:25 PM 
+2/25/2019 6:34:10 PM ====================================================
+2/25/2019 6:34:10 PM Http Kotc processor started at 2/25/2019 6:34:10 PM
+2/25/2019 6:34:10 PM Loading AppSettings
+2/25/2019 6:34:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 6:34:12 PM Loading Login Page retry.
+2/25/2019 6:34:13 PM Loading Login Page retry.
+2/25/2019 6:34:16 PM Loading Login Page retry.
+2/25/2019 6:34:17 PM Unable to load url for login
+2/25/2019 6:34:17 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 6:34:17 PM Loading AppSettings
+2/25/2019 6:34:17 PM Process started for info@fujitrading.nl
+2/25/2019 6:34:18 PM Loading Login Page retry.
+2/25/2019 6:34:19 PM Loading Login Page retry.
+2/25/2019 6:34:21 PM Loading Login Page retry.
+2/25/2019 6:34:22 PM Unable to load url for login
+2/25/2019 6:34:22 PM Process stopped for info@fujitrading.nl
+2/25/2019 6:34:22 PM Loading AppSettings
+2/25/2019 6:34:22 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 6:34:23 PM Loading Login Page retry.
+2/25/2019 6:34:24 PM Loading Login Page retry.
+2/25/2019 6:34:25 PM Loading Login Page retry.
+2/25/2019 6:34:26 PM Unable to load url for login
+2/25/2019 6:34:26 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 6:34:26 PM Http Kotc processor stopped at 2/25/2019 6:34:26 PM
+2/25/2019 6:34:26 PM ====================================================
+2/25/2019 6:34:26 PM 
+2/25/2019 7:04:10 PM ====================================================
+2/25/2019 7:04:10 PM Http Kotc processor started at 2/25/2019 7:04:10 PM
+2/25/2019 7:04:10 PM Loading AppSettings
+2/25/2019 7:04:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 7:04:12 PM Loading Login Page retry.
+2/25/2019 7:04:16 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 7:04:16 PM Loading AppSettings
+2/25/2019 7:04:16 PM Process started for info@fujitrading.nl
+2/25/2019 7:04:17 PM Loading Login Page retry.
+2/25/2019 7:04:18 PM Loading Login Page retry.
+2/25/2019 7:04:19 PM Unable to load url for login
+2/25/2019 7:04:19 PM Process stopped for info@fujitrading.nl
+2/25/2019 7:04:19 PM Loading AppSettings
+2/25/2019 7:04:19 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 7:04:21 PM Loading Login Page retry.
+2/25/2019 7:04:22 PM Loading Login Page retry.
+2/25/2019 7:04:23 PM Loading Login Page retry.
+2/25/2019 7:04:24 PM Unable to load url for login
+2/25/2019 7:04:24 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 7:04:24 PM Http Kotc processor stopped at 2/25/2019 7:04:24 PM
+2/25/2019 7:04:24 PM ====================================================
+2/25/2019 7:04:24 PM 
+2/25/2019 7:34:10 PM ====================================================
+2/25/2019 7:34:10 PM Http Kotc processor started at 2/25/2019 7:34:10 PM
+2/25/2019 7:34:10 PM Loading AppSettings
+2/25/2019 7:34:10 PM Process started for MACH-1@FUJITRADING.CO.JP
+2/25/2019 7:34:29 PM Logged in successfully.
+2/25/2019 7:34:31 PM Navigate to page 1
+2/25/2019 7:34:31 PM RFQ for ref 2019/RQA/0972 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/KFN/0969 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/FUN/1030 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/FUN/0999 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/RQA/0985 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/KZ3/1138 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/BND/0962 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/SAL/1052 already downloaded.
+2/25/2019 7:34:31 PM RFQ added to list for processing '2019/SR2/0951'
+2/25/2019 7:34:31 PM RFQ for ref 2019/WAF/1005 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/JB2/0828 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/DRZ/1136 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/JB2/0876 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/BUR/0909 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/SR2/0946 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/DRZ/1098 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/DRZ/1097 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/DRZ/1132 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/DRZ/1135 already downloaded.
+2/25/2019 7:34:31 PM RFQ added to list for processing '2019/BBN/1020'
+2/25/2019 7:34:31 PM RFQ for ref 2019/SL2/0848 already downloaded.
+2/25/2019 7:34:31 PM RFQ for ref 2019/BUR/0822 already downloaded.
+2/25/2019 7:34:31 PM RFQ added to list for processing '2019/BBN/1021'
+2/25/2019 7:34:31 PM RFQ added to list for processing '2019/GK2/0893'
+2/25/2019 7:34:39 PM RFQ 617710_2019_SR2_0951_0.pdf downloaded for ref 2019/SR2/0951
+2/25/2019 7:34:50 PM RFQ 617731_2019_BBN_1020_0.pdf downloaded for ref 2019/BBN/1020
+2/25/2019 7:34:55 PM RFQ 617732_2019_BBN_1021_0.pdf downloaded for ref 2019/BBN/1021
+2/25/2019 7:34:59 PM RFQ 617734_2019_GK2_0893_0.pdf downloaded for ref 2019/GK2/0893
+2/25/2019 7:35:01 PM User MACH-1@FUJITRADING.CO.JP logged out successfully.
+2/25/2019 7:35:01 PM Process stopped for MACH-1@FUJITRADING.CO.JP
+2/25/2019 7:35:01 PM Loading AppSettings
+2/25/2019 7:35:01 PM Process started for info@fujitrading.nl
+2/25/2019 7:35:13 PM Logged in successfully.
+2/25/2019 7:35:14 PM Navigate to page 1
+2/25/2019 7:35:14 PM RFQ for ref 2019/DSM/1005 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/UMA/1089 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/UMA/1094 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/DSM/0975 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/BBN/0982 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/BBN/0683 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/BBN/0906 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/KFN/0917 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/FUN/1014 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/MTB/0883 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/MTB/0886 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/MTB/0887 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/MTB/0890 already downloaded.
+2/25/2019 7:35:14 PM RFQ added to list for processing '2019/WAF/1039'
+2/25/2019 7:35:14 PM RFQ for ref 2019/WAF/0999 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/BND/0925 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/KUT/0872 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/SAL/1025 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/SAL/1072 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/SAL/1071 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/UMA/1011 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/GAN/0954 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/GAN/0939 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/GAN/0817 already downloaded.
+2/25/2019 7:35:14 PM RFQ for ref 2019/WT4/0707 already downloaded.
+2/25/2019 7:35:15 PM Navigate to page 2
+2/25/2019 7:35:15 PM RFQ for ref 2019/UMA/1102 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/WAF/1006 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/MTB/0803 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/BUR/0926 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/SR2/0913 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/DRZ/1093 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/SR2/0948 already downloaded.
+2/25/2019 7:35:15 PM RFQ added to list for processing '2019/WAF/1037'
+2/25/2019 7:35:15 PM RFQ for ref 2019/BBN/1015 already downloaded.
+2/25/2019 7:35:15 PM RFQ added to list for processing '2019/WAF/1036'
+2/25/2019 7:35:15 PM RFQ for ref 2019/BUR/0911 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/SL2/0874 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/SL2/0808 already downloaded.
+2/25/2019 7:35:15 PM RFQ added to list for processing '2019/BBN/1018'
+2/25/2019 7:35:15 PM RFQ for ref 2019/DRZ/1133 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/SL2/0848 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/BUR/0869 already downloaded.
+2/25/2019 7:35:15 PM RFQ for ref 2019/DRZ/1134 already downloaded.
+2/25/2019 7:35:15 PM RFQ added to list for processing '2019/GK2/0894'
+2/25/2019 7:35:15 PM RFQ added to list for processing '2019/GK2/0897'
+2/25/2019 7:35:21 PM RFQ 617708_2019_WAF_1039_0.pdf downloaded for ref 2019/WAF/1039
+2/25/2019 7:35:25 PM RFQ 617713_2019_WAF_1037_0.pdf downloaded for ref 2019/WAF/1037
+2/25/2019 7:35:31 PM RFQ 617712_2019_WAF_1036_0.pdf downloaded for ref 2019/WAF/1036
+2/25/2019 7:35:35 PM RFQ 617727_2019_BBN_1018_0.pdf downloaded for ref 2019/BBN/1018
+2/25/2019 7:35:39 PM RFQ 617735_2019_GK2_0894_0.pdf downloaded for ref 2019/GK2/0894
+2/25/2019 7:35:43 PM RFQ 617738_2019_GK2_0897_0.pdf downloaded for ref 2019/GK2/0897
+2/25/2019 7:35:45 PM User info@fujitrading.nl logged out successfully.
+2/25/2019 7:35:45 PM Process stopped for info@fujitrading.nl
+2/25/2019 7:35:45 PM Loading AppSettings
+2/25/2019 7:35:45 PM Process started for KOTC@SEVENSEASGROUP.COM
+2/25/2019 7:36:16 PM Logged in successfully.
+2/25/2019 7:36:19 PM Navigate to page 1
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/MTB/0893'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/FUN/1103'
+2/25/2019 7:36:19 PM RFQ for ref 2019/SAL/1052 already downloaded.
+2/25/2019 7:36:19 PM RFQ for ref 2019/JB2/0858 already downloaded.
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1095'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1094'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/BBN/1014'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/BBN/1005'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1087'
+2/25/2019 7:36:19 PM RFQ for ref 2019/BUR/0915 already downloaded.
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1119'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1121'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1122'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1123'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1124'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1126'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1127'
+2/25/2019 7:36:19 PM RFQ added to list for processing '2019/DRZ/1128'
+2/25/2019 7:36:22 PM No attahcment found for Ref 2019/MTB/0893
+2/25/2019 7:36:26 PM RFQ 617676_2019_FUN_1103_0.pdf downloaded for ref 2019/FUN/1103
+2/25/2019 7:36:35 PM RFQ 617668_2019_DRZ_1095_0.pdf downloaded for ref 2019/DRZ/1095
+2/25/2019 7:36:41 PM RFQ 617666_2019_DRZ_1094_0.pdf downloaded for ref 2019/DRZ/1094
+2/25/2019 7:36:47 PM RFQ 617706_2019_BBN_1014_0.pdf downloaded for ref 2019/BBN/1014
+2/25/2019 7:36:53 PM RFQ 617702_2019_BBN_1005_0.pdf downloaded for ref 2019/BBN/1005
+2/25/2019 7:36:58 PM RFQ 617688_2019_DRZ_1087_0.pdf downloaded for ref 2019/DRZ/1087
+2/25/2019 7:37:02 PM RFQ 617715_2019_DRZ_1119_0.pdf downloaded for ref 2019/DRZ/1119
+2/25/2019 7:37:07 PM RFQ 617717_2019_DRZ_1121_0.pdf downloaded for ref 2019/DRZ/1121
+2/25/2019 7:37:11 PM RFQ 617718_2019_DRZ_1122_0.pdf downloaded for ref 2019/DRZ/1122
+2/25/2019 7:37:19 PM RFQ 617719_2019_DRZ_1123_0.pdf downloaded for ref 2019/DRZ/1123
+2/25/2019 7:37:31 PM RFQ 617720_2019_DRZ_1124_0.pdf downloaded for ref 2019/DRZ/1124
+2/25/2019 7:37:43 PM RFQ 617722_2019_DRZ_1126_0.pdf downloaded for ref 2019/DRZ/1126
+2/25/2019 7:37:55 PM RFQ 617723_2019_DRZ_1127_0.pdf downloaded for ref 2019/DRZ/1127
+2/25/2019 7:38:04 PM RFQ 617724_2019_DRZ_1128_0.pdf downloaded for ref 2019/DRZ/1128
+2/25/2019 7:38:06 PM User KOTC@SEVENSEASGROUP.COM logged out successfully.
+2/25/2019 7:38:06 PM Process stopped for KOTC@SEVENSEASGROUP.COM
+2/25/2019 7:38:06 PM Http Kotc processor stopped at 2/25/2019 7:38:06 PM
+2/25/2019 7:38:06 PM ====================================================
+2/25/2019 7:38:06 PM 

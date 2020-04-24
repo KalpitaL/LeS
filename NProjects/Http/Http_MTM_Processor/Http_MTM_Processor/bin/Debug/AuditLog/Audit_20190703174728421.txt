@@ -1,0 +1,1 @@
+SM0133|V00006|MTM_HTTP_Processor|MTM_SHIP_ErrorV00006_SM0133__03071917472787.html|MSJ-6441-B1|Error|19-07-03 17:47 : Mismatch total of mtml 1659.5 with site total 2912.30

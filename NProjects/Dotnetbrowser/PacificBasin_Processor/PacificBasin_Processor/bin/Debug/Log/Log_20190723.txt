@@ -1,0 +1,34 @@
+23/07/2019 17:54:09 ================23/07/2019 17:54:09================
+23/07/2019 17:54:09 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+23/07/2019 17:54:09 
+23/07/2019 17:54:09 Buyer: Pacific Basin Shipping (HK) Ltd.
+23/07/2019 17:54:09 
+23/07/2019 17:54:09 RFQ processing started.
+23/07/2019 17:54:09 No file found.
+23/07/2019 17:54:09 RFQ processing stopped.
+23/07/2019 17:54:09 
+23/07/2019 17:54:09 Quote processing started.
+23/07/2019 17:54:09 Started Loading interchange object.
+23/07/2019 17:54:09 stopped Loading interchange object.
+23/07/2019 17:54:09 1 files found to process.
+23/07/2019 17:54:09 Started Loading interchange object.
+23/07/2019 17:54:09 stopped Loading interchange object.
+23/07/2019 17:54:09 'MTML_QUOTE_223-2019-ST0028-B(01)_SM0372_V10107_16071920141545.xml' Quote file processing started.
+23/07/2019 17:54:09 about:blank
+23/07/2019 17:54:42 ================23/07/2019 17:54:42================
+23/07/2019 17:54:42 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+23/07/2019 17:54:42 
+23/07/2019 17:54:42 Buyer: Pacific Basin Shipping (HK) Ltd.
+23/07/2019 17:54:42 
+23/07/2019 17:54:42 RFQ processing started.
+23/07/2019 17:54:42 No file found.
+23/07/2019 17:54:42 RFQ processing stopped.
+23/07/2019 17:54:42 
+23/07/2019 17:54:42 Quote processing started.
+23/07/2019 17:54:42 Started Loading interchange object.
+23/07/2019 17:54:42 stopped Loading interchange object.
+23/07/2019 17:54:42 1 files found to process.
+23/07/2019 17:54:42 Started Loading interchange object.
+23/07/2019 17:54:42 stopped Loading interchange object.
+23/07/2019 17:54:42 'MTML_QUOTE_223-2019-ST0028-B(01)_SM0372_V10107_16071920141545.xml' Quote file processing started.
+23/07/2019 17:54:42 about:blank

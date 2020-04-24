@@ -1,0 +1,44 @@
+
+14:22:14 : Phoenix RFQ & PO Downloader Started.
+14:22:14 : Processing File 160909_124805680.txt
+14:23:14 : Reading Header Details ..
+14:26:33 : Reading Item Details ..
+14:28:15 : Phoenix RFQ & PO Downloader Started.
+14:28:15 : Processing File 160909_124805680.txt
+14:28:24 : Reading Header Details ..
+14:28:33 : Reading Item Details ..
+14:29:22 : Phoenix RFQ & PO Downloader Started.
+14:29:22 : Processing File 160909_124805680.txt
+14:29:27 : Reading Header Details ..
+14:29:30 : Reading Item Details ..
+14:41:13 : Phoenix RFQ & PO Downloader Started.
+14:41:13 : Processing File 160909_124805680.txt
+14:41:22 : Reading Header Details ..
+14:41:25 : Reading Item Details ..
+14:42:44 : Phoenix RFQ & PO Downloader Started.
+14:42:44 : Processing File 160909_124805680.txt
+14:42:49 : Reading Header Details ..
+14:42:52 : Reading Item Details ..
+14:42:57 : Error in ExporttoHeader() -    at PhoenixRoutine.Phoenix.GetOrderItems(String pdfFile, List`1& _lineItems) in d:\Projects (Webscrapers)\PhoenixRFQDownloader\PhoenixRoutine\Phoenix.cs:line 1730
+   at PhoenixRoutine.Phoenix.ExporttoHeader(Dictionary`2 _xmlHeader, LeSXML _lesXML) in d:\Projects (Webscrapers)\PhoenixRFQDownloader\PhoenixRoutine\Phoenix.cs:line 1283
+14:42:57 : Unable to export xml! Error - Index was outside the bounds of the array.
+14:42:57 : Error in GetPODetails: using block-    at PhoenixRoutine.Phoenix.GetOrderItems(String pdfFile, List`1& _lineItems) in d:\Projects (Webscrapers)\PhoenixRFQDownloader\PhoenixRoutine\Phoenix.cs:line 1730
+   at PhoenixRoutine.Phoenix.GetPODetails(String URL) in d:\Projects (Webscrapers)\PhoenixRFQDownloader\PhoenixRoutine\Phoenix.cs:line 524
+14:43:08 : Error in GetRFQDetails() -    at PhoenixRoutine.Phoenix.GetPODetails(String URL) in d:\Projects (Webscrapers)\PhoenixRFQDownloader\PhoenixRoutine\Phoenix.cs:line 583
+14:43:08 : Unable to process link file '160909_124805680.txt'.
+14:43:08 : 160909_124805680.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Error_files
+14:43:08 : Phoenix RFQ Downloader Stopped.
+
+
+14:43:33 : Phoenix RFQ & PO Downloader Started.
+14:43:33 : Processing File 160909_124805680.txt
+14:43:43 : Reading Header Details ..
+14:43:46 : Reading Item Details ..
+14:44:30 : Phoenix RFQ & PO Downloader Started.
+14:44:30 : Processing File 160909_124805680.txt
+14:44:36 : Reading Header Details ..
+14:44:39 : Reading Item Details ..
+14:45:53 : PO 'ELE-16-0151' downloaded successfully.
+14:46:05 : 160909_124805680.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+14:46:05 : Phoenix RFQ Downloader Stopped.
+

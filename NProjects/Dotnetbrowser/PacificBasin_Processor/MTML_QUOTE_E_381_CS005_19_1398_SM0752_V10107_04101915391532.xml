@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8796313-1" Identifier="UNOC" Recipient="SM0752_WEB" Sender="V10107" PreparationDate="2019-Oct-04" PreparationTime="15:39" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2679" LesRecordID="11765438" LesLinkID="103736" ParentRecordID="11764551" MTML_DOCID="D43D5795-97AA-4DF3-8F11-40A130BC19C9">
+    <Quote MessageReferenceNumber="E/381/CS005/19/1398" MessageNumber="https://webquote.navbul.com/suppliers/Edit_Req.aspx?LeadIDT=E/381/CS005/19/1398" LineItemCount="51" VersionNumber="1" CurrencyCode="EUR" LeadTimeDays="0" BuyerRefNo="E/381/CS005/19/1398" OriginalFile="20191004093308-QUO-E-381-CS005-19-1398-1.xml" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="1557.94" BuyerQuoteTotal="1557.94">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201910040939" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201912031539" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="E/381/CS005/19/1398" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8796313-1" />
+      <Party Qualifier="BY" Name="Navigation Maritime Bulgare">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="KAMENITZA">
+        <PartyLocation Qualifier="ZUC" Berth="AMSTERDAM" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="WASHINGPOWDER  10KG. GEN.USE " MeasureUnitQualifier="KGR" Quantity="75" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_0" SystemItemNo="1" MonetaryAmount="43.60" Identification="550108" IsExtraItem="0" ItemStatus="Original" Byr_Qty="75" Supp_Qty="8" Byr_UOM="KGR" Supp_UOM="BG" Supp_Price="5.45" BuyerItemTotal="43.6" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.5813" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.5813" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 8 | UOM : BG</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="BLEACH WATER , 1LTR. " MeasureUnitQualifier="LTR" Quantity="12" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_1" SystemItemNo="2" MonetaryAmount="4.68" Identification="550120" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="LTR" Supp_UOM="LTR" Supp_Price="0.39" BuyerItemTotal="4.68" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.39" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.39" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="DISHWASHING LIQUID CITRON 1 LTR. " MeasureUnitQualifier="Bott1Kg" Quantity="60" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_2" SystemItemNo="3" MonetaryAmount="33.60" Identification="550141" IsExtraItem="0" ItemStatus="Original" Byr_Qty="60" Supp_Qty="60" Byr_UOM="Bott1Kg" Supp_UOM="PCE" Supp_Price="0.56" BuyerItemTotal="33.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.56" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.56" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 60 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="SOAP HAND LAVA 40 OZX48S 550144 SOAP HAND LAVA 40 OZX48S&#xA;&#xA;**WE OFFER MACO HAND CLEANER ORANGE**&#xA;&#xA;**PER 600 ML**" MeasureUnitQualifier="Case48Pcs" Quantity="4" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_3" SystemItemNo="4" MonetaryAmount="566.40" Identification="550144" IsExtraItem="0" MarkedRemarks="WE OFFER MACO HAND CLEANER ORANGE&#xD;&#xA;&#xA;&#xA;&#xD;&#xA;PER 600 ML&#xD;&#xA;" ItemStatus="Original" Byr_Qty="4" Supp_Qty="192" Byr_UOM="Case48Pcs" Supp_UOM="PCE" Supp_Price="2.95" BuyerItemTotal="566.4" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="141.6" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="141.6" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 192 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="WINDOWCLEANER LIQUID 1 LTR.UN 1993 " MeasureUnitQualifier="Bott500mL" Quantity="9" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_4" SystemItemNo="5" MonetaryAmount="4.65" Identification="550311" IsExtraItem="0" ItemStatus="Original" Byr_Qty="9" Supp_Qty="5" Byr_UOM="Bott500mL" Supp_UOM="PCE" Supp_Price="0.93" BuyerItemTotal="4.65" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.5167" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.5167" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="DISHWASHING  MACHINE DETERGENT 20LTR. UN1719 " MeasureUnitQualifier="LTR" Quantity="80" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_5" SystemItemNo="6" MonetaryAmount="81.20" Identification="550166" IsExtraItem="0" ItemStatus="Original" Byr_Qty="80" Supp_Qty="4" Byr_UOM="LTR" Supp_UOM="CA" Supp_Price="20.3" BuyerItemTotal="81.2" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.015" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.015" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 4 | UOM : CA</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="AMERICOL SANITARY CLEANER 1 LITER BOTTLE " MeasureUnitQualifier="Pieces" Quantity="10" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_6" SystemItemNo="7" MonetaryAmount="29.00" Identification="550236" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="Pieces" Supp_UOM="CY" Supp_Price="2.9" BuyerItemTotal="29" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.9" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.9" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : CY</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="SOAP TOILET LIFEBUOY 100GRM 550254 SOAP TOILET LIFEBUOY 100GRM&#xA;&#xA;**WE OFFER DETTOL ANTIBAC HANDSOAP**&#xA;&#xA;**PER 100 GRM**" MeasureUnitQualifier="Pieces" Quantity="10" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_7" SystemItemNo="8" MonetaryAmount="7.40" Identification="550254" IsExtraItem="0" MarkedRemarks="WE OFFER DETTOL ANTIBAC HANDSOAP&#xD;&#xA;&#xA;&#xA;&#xD;&#xA;PER 100 GRM&#xD;&#xA;" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="0.74" BuyerItemTotal="7.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.74" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="AMERICOL HAND CLEANER YELLOW 4,5 LITER " MeasureUnitQualifier="KGR" Quantity="40" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_8" SystemItemNo="9" MonetaryAmount="137.88" Identification="550271" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="9" Byr_UOM="KGR" Supp_UOM="CY" Supp_Price="15.32" BuyerItemTotal="137.88" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.447" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.447" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 9 | UOM : CY</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="OVEN, GRILL &amp; BBQ CLEANER 500ML TRIGGER BOTTLE UN1824 " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_9" SystemItemNo="10" MonetaryAmount="15.72" Identification="550301" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TN" Supp_Price="1.31" BuyerItemTotal="15.72" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.31" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 12 | UOM : TN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="WINDOWCLEANER LIQUID 1 LTR.UN 1993 " MeasureUnitQualifier="TIN" Quantity="5" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_10" SystemItemNo="11" MonetaryAmount="4.65" Identification="550311" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="TIN" Supp_UOM="TN" Supp_Price="0.93" BuyerItemTotal="4.65" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.93" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.93" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : TN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="KEEN AIR FRESHENER FLOWERSHOP 300 ML UN1950 " MeasureUnitQualifier="TIN" Quantity="20" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_11" SystemItemNo="12" MonetaryAmount="18.60" Identification="550332" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="TIN" Supp_UOM="TN" Supp_Price="0.93" BuyerItemTotal="18.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.93" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.93" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 20 | UOM : TN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="TOILET ODOR BALL 50GRAM " MeasureUnitQualifier="Pieces" Quantity="30" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_12" SystemItemNo="13" MonetaryAmount="8.10" Identification="550336" IsExtraItem="0" ItemStatus="Original" Byr_Qty="30" Supp_Qty="30" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="0.27" BuyerItemTotal="8.1" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.27" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.27" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 30 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="CARPET CLEANER 5LTR. " MeasureUnitQualifier="Tin4Ltr" Quantity="1" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_13" SystemItemNo="14" MonetaryAmount="5.34" Identification="550398" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Tin4Ltr" Supp_UOM="PCE" Supp_Price="5.34" BuyerItemTotal="5.34" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.34" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.34" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="DENATURED ALCOHOL 85% (BRANDSPIRITUS)  1 LITER UN1170 " MeasureUnitQualifier="BTL" Quantity="5" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_14" SystemItemNo="15" MonetaryAmount="6.90" Identification="550890" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="BTL" Supp_UOM="BO" Supp_Price="1.38" BuyerItemTotal="6.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.38" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : BO</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="HYDROCHLORIC ACID 20 LITER UN1789 " MeasureUnitQualifier="BTL" Quantity="1" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_15" SystemItemNo="16" MonetaryAmount="14.06" Identification="550924" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="BTL" Supp_UOM="BO" Supp_Price="14.06" BuyerItemTotal="14.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.06" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : BO</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="SHEET WHITE FITTED 150x240 100% COTTON (INC. ELASTIEK)" MeasureUnitQualifier="SHT" Quantity="8" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_16" SystemItemNo="17" MonetaryAmount="63.60" Identification="150102" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="SHT" Supp_UOM="PCE" Supp_Price="7.95" BuyerItemTotal="63.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.95" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.95" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 8 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="PILLOW CASE WHITE REGULAR, 50X75CM " MeasureUnitQualifier="Pieces" Quantity="3" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_17" SystemItemNo="18" MonetaryAmount="3.24" Identification="150286" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="1.08" BuyerItemTotal="3.24" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.08" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.08" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 3 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="PILLOW CASE BLUE REGULAR, 75X50CM " MeasureUnitQualifier="Pieces" Quantity="3" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_18" SystemItemNo="19" MonetaryAmount="3.72" Identification="150287" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="1.24" BuyerItemTotal="3.72" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.24" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 3 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="APRON COTTON WHITE BIB TYPE " MeasureUnitQualifier="Pieces" Quantity="2" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_19" SystemItemNo="20" MonetaryAmount="2.94" Identification="150464" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="1.47" BuyerItemTotal="2.94" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.47" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.47" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="TABLE CLOTHING COLOURED  PLASTIC COTTON, LINED WIDTH 1000MM P/M1" MeasureUnitQualifier="SHT" Quantity="3" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_20" SystemItemNo="21" MonetaryAmount="6.24" Identification="1506.." IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="SHT" Supp_UOM="MTR" Supp_Price="2.08" BuyerItemTotal="6.24" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.08" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.08" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 3 | UOM : MTR</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="BATH TOWEL COTTON WHITE, 670 X 1270MM 100% COTTON " MeasureUnitQualifier="SHT" Quantity="5" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_21" SystemItemNo="22" MonetaryAmount="14.05" Identification="150603" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="SHT" Supp_UOM="PCE" Supp_Price="2.81" BuyerItemTotal="14.05" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.81" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.81" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="BATH TOWEL COTTON BLUE, 670 X 1270MM 100% COTTON " MeasureUnitQualifier="SHT" Quantity="4" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_22" SystemItemNo="23" MonetaryAmount="11.24" Identification="150604" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="SHT" Supp_UOM="PCE" Supp_Price="2.81" BuyerItemTotal="11.24" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.81" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.81" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 4 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="FACE TOWEL COTTON WHITE, 400 X 800MM 100% COTTON " MeasureUnitQualifier="SHT" Quantity="3" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_23" SystemItemNo="24" MonetaryAmount="3.99" Identification="150608" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="SHT" Supp_UOM="PCE" Supp_Price="1.33" BuyerItemTotal="3.99" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.33" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.33" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 3 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="FACE TOWEL COTTON BLUE, 400 X 800MM 100% COTTON " MeasureUnitQualifier="SHT" Quantity="6" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_24" SystemItemNo="25" MonetaryAmount="7.98" Identification="150609" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="SHT" Supp_UOM="PCE" Supp_Price="1.33" BuyerItemTotal="7.98" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.33" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.33" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 6 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="TABLE CLOTH 130 X 170 CM WHITE 100% COTTON " MeasureUnitQualifier="SHT" Quantity="3" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_25" SystemItemNo="26" MonetaryAmount="56.46" Identification="1506XX" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="SHT" Supp_UOM="PCE" Supp_Price="18.82" BuyerItemTotal="56.46" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="18.82" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="18.82" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 3 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="TEA CUP STANDARD, LINE 208CC " MeasureUnitQualifier="Pieces" Quantity="20" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_26" SystemItemNo="27" MonetaryAmount="18.40" Identification="170358" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="0.92" BuyerItemTotal="18.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.92" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.92" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 20 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="WATERGLASS STRAIGHT 20 CL " MeasureUnitQualifier="Pieces" Quantity="12" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_27" SystemItemNo="28" MonetaryAmount="3.36" Identification="170604" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="0.28" BuyerItemTotal="3.36" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.28" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 12 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="NAPKIN PAPER 1/4 FOLDED WHITE, 320X320MM 500'S " MeasureUnitQualifier="C/S" Quantity="5500" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_28" SystemItemNo="29" MonetaryAmount="21.56" Identification="171454" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5500" Supp_Qty="11" Byr_UOM="C/S" Supp_UOM="PKT" Supp_Price="1.96" BuyerItemTotal="21.56" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.0039" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.0039" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 11 | UOM : PKT</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="FRYING PAN NON-STICK 280MM STEEL WITH HANDLE " MeasureUnitQualifier="Pieces" Quantity="1" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_29" SystemItemNo="30" MonetaryAmount="8.47" Identification="171707" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="8.47" BuyerItemTotal="8.47" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.47" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.47" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="STAINLESS STEEL FRYING PAN, 300MM " MeasureUnitQualifier="Pieces" Quantity="1" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_30" SystemItemNo="31" MonetaryAmount="30.87" Identification="171723" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="30.87" BuyerItemTotal="30.87" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="30.87" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="30.87" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="32" Description="HAND SCOURER STEEL " MeasureUnitQualifier="Pieces" Quantity="15" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_31" SystemItemNo="32" MonetaryAmount="1.95" Identification="174053" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="0.13" BuyerItemTotal="1.95" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.13" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 15 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="33" Description="SPONGE CLEANER 140 X 110 X 33 MM " MeasureUnitQualifier="Pieces" Quantity="20" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_32" SystemItemNo="33" MonetaryAmount="4.00" Identification="174058" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="0.2" BuyerItemTotal="4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.2" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 20 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="34" Description="STEEL WOOL NO.3 450GRM " MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_33" SystemItemNo="34" MonetaryAmount="28.60" Identification="174061" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.43" BuyerItemTotal="28.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.43" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="35" Description="STEEL WOOL NO.0 450GRM " MeasureUnitQualifier="PKT" Quantity="3" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_34" SystemItemNo="35" MonetaryAmount="4.14" Identification="174063" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.38" BuyerItemTotal="4.14" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.38" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="36" Description="BAGS GARBAGE 85X100CM T60 125 LTR BLACK LDPE ROL 10' S " MeasureUnitQualifier="PKT" Quantity="25" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_35" SystemItemNo="36" MonetaryAmount="57.50" Identification="174170" IsExtraItem="0" ItemStatus="Original" Byr_Qty="25" Supp_Qty="25" Byr_UOM="PKT" Supp_UOM="PCE" Supp_Price="2.3" BuyerItemTotal="57.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.3" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 25 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="37" Description="PLASTIC BAG TRANSPARENT, 50X55CM T10 50'S " MeasureUnitQualifier="PKT" Quantity="3" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_36" SystemItemNo="37" MonetaryAmount="1.35" Identification="174172" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.45" BuyerItemTotal="1.35" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.45" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="38" Description="PLASTIC BAG TRANSPARENT, 50X55CM T10 50'S " MeasureUnitQualifier="PKT" Quantity="15" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_37" SystemItemNo="38" MonetaryAmount="6.75" Identification="174172" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.45" BuyerItemTotal="6.75" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.45" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="39" Description="PLASTIC BAG TRANSPARENT 600X800MM" MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_38" SystemItemNo="39" MonetaryAmount="8.40" Identification="174174" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.42" BuyerItemTotal="8.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.42" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="40" Description="GARBAGEBAG PLAST.BLACK 60X80 25'S " MeasureUnitQualifier="PKT" Quantity="25" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_39" SystemItemNo="40" MonetaryAmount="18.00" Identification="174175" IsExtraItem="0" ItemStatus="Original" Byr_Qty="25" Supp_Qty="25" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.72" BuyerItemTotal="18" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.72" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="41" Description="COOKING FOIL ALUMINIUM, 300MMX20MTR " MeasureUnitQualifier="Pieces" Quantity="2" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_40" SystemItemNo="41" MonetaryAmount="2.16" Identification="174201" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="1.08" BuyerItemTotal="2.16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.08" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.08" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="42" Description="COOKING FOIL ALUMINIUM, 450MMX30MTR " MeasureUnitQualifier="Pieces" Quantity="9" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_41" SystemItemNo="42" MonetaryAmount="28.71" Identification="174202" IsExtraItem="0" ItemStatus="Original" Byr_Qty="9" Supp_Qty="9" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="3.19" BuyerItemTotal="28.71" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.19" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.19" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 9 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="43" Description="WRAPPING FOIL CELLOPHANE, 300MMX20MTR " MeasureUnitQualifier="Pieces" Quantity="9" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_42" SystemItemNo="43" MonetaryAmount="3.87" Identification="174207" IsExtraItem="0" ItemStatus="Original" Byr_Qty="9" Supp_Qty="9" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="0.43" BuyerItemTotal="3.87" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.43" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 9 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="44" Description="WRAPPING FOIL CELLOPHANE, 450MMX50MTR " MeasureUnitQualifier="Pieces" Quantity="5" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_43" SystemItemNo="44" MonetaryAmount="8.40" Identification="174208" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="1.68" BuyerItemTotal="8.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.68" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="45" Description="TOILETPAPER WHITE 200SHEET 2PLY CELLULOSE " MeasureUnitQualifier="CAS." Quantity="340" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_44" SystemItemNo="45" MonetaryAmount="51.00" Identification="174242" IsExtraItem="0" ItemStatus="Original" Byr_Qty="340" Supp_Qty="340" Byr_UOM="CAS." Supp_UOM="PCE" Supp_Price="0.15" BuyerItemTotal="51" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.15" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.15" />
+        <Comments Qualifier="LIN">
+          <value>note we offer per pcs* |  QTY : 340 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="46" Description="TOILET BRUSH WITH HOLDER WHITE NYLON " MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_45" SystemItemNo="46" MonetaryAmount="0.92" Identification="174253" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="0.92" BuyerItemTotal="0.92" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.92" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.92" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="47" Description="YACHT MOP COMPLETE " MeasureUnitQualifier="Pieces" Quantity="12" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_46" SystemItemNo="47" MonetaryAmount="13.56" Identification="174271" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="1.13" BuyerItemTotal="13.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.13" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 12 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="48" Description="SPRING CLAMP MOP COMPLETE " MeasureUnitQualifier="Pieces" Quantity="5" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_47" SystemItemNo="48" MonetaryAmount="15.60" Identification="174275" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="3.12" BuyerItemTotal="15.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.12" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="49" Description="LINEA HANDLE ALUMINIUM WITH SCREW THEAD 130 CM " MeasureUnitQualifier="Pieces" Quantity="19" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_48" SystemItemNo="49" MonetaryAmount="23.94" Identification="510891" IsExtraItem="0" ItemStatus="Original" Byr_Qty="19" Supp_Qty="19" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="1.26" BuyerItemTotal="23.94" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.26" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.26" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 19 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="50" Description="SPONGE MOP WITH SPRING HANDLE " MeasureUnitQualifier="Pieces" Quantity="5" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_49" SystemItemNo="50" MonetaryAmount="28.35" Identification="174296" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="5.67" BuyerItemTotal="28.35" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.67" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="51" Description="WATER BOILER 1 LTR AUTO STO SWITCH OFF  230V 50-60HZ " MeasureUnitQualifier="Pieces" Quantity="1" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_50" SystemItemNo="51" MonetaryAmount="12.84" Identification="174507" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="12.84" BuyerItemTotal="12.84" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.84" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1557.940" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1557.940" />
+      <MonetaryAmount Qualifier="_90" Value="1557.940" />
+      <MonetaryAmount Qualifier="_91" Value="27932.210" />
+    </Quote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="D90264" Identifier="UNOC" Recipient="SM0616_Web" Sender="V10001" PreparationDate="2019-Jul-09" PreparationTime="15:14" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2653" LesRecordID="11656361" LesLinkID="104102" ParentRecordID="11655723" MTML_DOCID="C86A0141-C346-4F4C-9152-D48006BEEBE6">
+    <Quote MessageReferenceNumber="M/V-132/2019e-I003" MessageNumber="https://cr.cloudfleetmanager.com/apps/quote/e3ea60e8-aa9e-4e9b-8d97-080674c2a1ea" LineItemCount="3" VersionNumber="1" CurrencyCode="EUR" TransportModeCode="_3" LeadTimeDays="7" OriginalFile="OrderQuotation-D90264_190709_151340525.pdf" IsAltItemAllowed="1" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201907091514" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201907160000" />
+      <Comments Qualifier="SUR">
+        <value>DELIVERY INFORMATION
+Inventory will not be reserved based on this quotation. Product availability will be confirmed when the order is placed.
+Please note some ports have local taxes/charges, which may appear on the invoice.
+
+ITEMS EX STOCK: lines 1,2-   lead time 2 business days
+
+According to latest policy of China customs, many local customs offices have closed their service for weekend/holiday. 
+So if your vsl schedule is during the weekend/holiday, we may not arrange supply. 
+
+DELIVERY TO SHIPYARDS: we might face problems when trying to supply to a shipyard. Depending on which yard, Unitor might not be able to enter, if vessel/superintendent does not insist &amp; assist.
+.
+DELIVERY TO YANGSHAN: No delivery of dangerous goods incl. cylinders (all gases including Unicool Refrigerant) to Yangshan Port due to local Customs restrictions, Delivery charges USD 350.00
+Delivery to Shipyard; i.e. CHONGMING / CHONGMING ISLAND: USD 550,00
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 3 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 88.2 EUR
+ Item Total : 1324.88 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="M/V-132/2019e-I003" />
+      <Reference Qualifier="AAG" ReferenceNumber="D90264" />
+      <Party Qualifier="BY" Name="Carsten Rehder Schiffsmakler und Reederei GmbH &amp; Co. KG">
+        <Contact>
+          <CommunicationMethod Qualifier="EM" Number="N/A" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service (S) Pte Ltd">
+        <Contact Name="Schleidowitz, Olga">
+          <CommunicationMethod Qualifier="EM" Number="petra.neumann@wilhelmsen.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA" Name="Kale Limited">
+        <Contact />
+        <StreetAddress>Groe Elbstrae 42
+22767 Hamburg
+Germany</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="M/V. MCC KYOTO">
+        <PartyLocation Qualifier="ZUC" Berth="SHANGHAI (WITHIN PORT LIMIT)" Port="CNSHA" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Easy Ship Combined Test Kit" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="4e49adea-45b5-437b-984b-dd3d3634fbc0" SystemItemNo="1" MonetaryAmount="1204.00" Identification="773154" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1204" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1204" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="TBN Reagent Pack" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="063411b0-bd61-4363-b18b-3e50c2fa0c25" SystemItemNo="2" MonetaryAmount="32.68" Identification="632406" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="32.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="32.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="FIXED CHARGE LAST MILE DELIVERY" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="3" MonetaryAmount="88.20" DeliveryTime="7" IsExtraItem="1" ItemType="FREIGHT" ItemStatus="Addition">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="88.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1324.880" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1324.880" />
+      <MonetaryAmount Qualifier="_99" Value="88.200" />
+      <MonetaryAmount Qualifier="_90" Value="1236.680" />
+    </Quote>
+  </Interchange>
+</MTML>

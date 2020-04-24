@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange Identifier="UNOC" Recipient="GLAS00001227" Sender="MTMS_HTM" PreparationDate="20190704" PreparationTime="105958" VersionNumber="1">
+    <RequestForQuote MessageReferenceNumber="429678" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=429678&amp;validate=0.910452087079751" LineItemCount="4" VersionNumber="1" FunctionCode="_9" BuyerRefNo="MGB-8322-E1" OriginalFile="MTM_SHIP_V00006_SM0133_MGB_8322_E1_04071910595901.png">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20190620" />
+      <Reference Qualifier="UC" ReferenceNumber="MGB-8322-E1" />
+      <Party Qualifier="UD" />
+      <Party Qualifier="BY" Name="M.T.M. SHIP MANAGEMENT PTE. LTD">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="SINWA (SINGAPORE) PTE LTD">
+        <Contact FunctionCode="SR" Name="Josphine Lim">
+          <CommunicationMethod Qualifier="TE" Number="68626300--" />
+          <CommunicationMethod Qualifier="EM" Number="purchc1@sinwaglobal.com; sinwa@sinwaglobal.com" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="Manual Gear Box Only, Square Shaft D - 22mm, PCD B Manual Gear Box Only, Square Shaft D - 22mm, PCD Bolt Hole - 100mm, Bolt Hole - M 10" Identification="00" MeasureUnitQualifier="Pc" Quantity="2" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2181581_5171036" SystemItemNo="1">
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="2" Description="Steel cargo block single Sheave, SWL 1T, Wire size Steel cargo block single Sheave, SWL 1T, Wire size 12.5MM, with Swivel eye, hooks &amp; Safety latch" Identification="00" MeasureUnitQualifier="pc" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2181580_5171037" SystemItemNo="2">
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="3" Description="Viton Gasket,(62/50 x 5), TS 22713, ND 20135, For  Viton Gasket,(62/50 x 5), TS 22713, ND 20135, For Hermatic Valve - C2SS" Identification="00" MeasureUnitQualifier="Pc" Quantity="16" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2181579_5171039" SystemItemNo="3">
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="4" Description="Butterfly Valve, 10K-150A, SCS 16, Acid Resistant, Butterfly Valve, 10K-150A, SCS 16, Acid Resistant, Manual Operated Gear Box, BF Kogyo Kaisha Ltd" Identification="00" MeasureUnitQualifier="Pc" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2181578_5171038" SystemItemNo="4">
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,142 @@
+2/4/2020 3:17:29 PM ================2/4/2020 3:17:29 PM================
+2/4/2020 3:17:29 PM DNVGL HTTP Processor started
+2/4/2020 3:17:29 PM 
+2/4/2020 3:17:29 PM Supplier: V10107
+2/4/2020 3:17:29 PM Process started for SM0372_WEB
+2/4/2020 3:17:29 PM 
+2/4/2020 3:17:29 PM Quote processing started.
+2/4/2020 3:17:29 PM 1 files found to process.
+2/4/2020 3:17:29 PM Started Loading interchange object.
+2/4/2020 3:17:29 PM stopped Loading interchange object.
+2/4/2020 3:17:31 PM Unable to set supplier remarks for MIR-B20X0028(01)CC-5133
+2/4/2020 3:17:31 PM Unable to set validity offer for MIR-B20X0028(01)CC-5133
+2/4/2020 3:17:33 PM LeS-1004:Unable to process file due to System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at HTTPWrapper.HTTPWrapper.PostURL(String _request, String _postData, String validateNodeTitle, String validateAttribute, String attributeValue, String HiddenAttributeKey, Boolean readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\HTTPWrapper\HTTPWrapper.cs:line 218
+   at PacificRoutine.PBRoutine.SaveQuotation(String[] Arr, RootObject _library, String MTML_QuoteFile, String Token) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1858
+   at PacificRoutine.PBRoutine.Fill_Quotation(String Token, String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1609
+2/4/2020 3:17:33 PM DNVGL HTTP Processor stopped
+2/4/2020 3:17:34 PM ====================================================
+2/4/2020 3:18:02 PM ================2/4/2020 3:18:02 PM================
+2/4/2020 3:18:02 PM DNVGL HTTP Processor started
+2/4/2020 3:18:02 PM 
+2/4/2020 3:18:02 PM Supplier: V10107
+2/4/2020 3:18:02 PM Process started for SM0372_WEB
+2/4/2020 3:18:02 PM 
+2/4/2020 3:18:02 PM Quote processing started.
+2/4/2020 3:18:02 PM 1 files found to process.
+2/4/2020 3:18:02 PM Started Loading interchange object.
+2/4/2020 3:18:02 PM stopped Loading interchange object.
+2/4/2020 3:18:05 PM Unable to set supplier remarks for CHA-B20X0018(01)CG-5130
+2/4/2020 3:18:07 PM LeS-1004:Unable to process file due to System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at HTTPWrapper.HTTPWrapper.PostURL(String _request, String _postData, String validateNodeTitle, String validateAttribute, String attributeValue, String HiddenAttributeKey, Boolean readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\HTTPWrapper\HTTPWrapper.cs:line 218
+   at PacificRoutine.PBRoutine.SaveQuotation(String[] Arr, RootObject _library, String MTML_QuoteFile, String Token) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1858
+   at PacificRoutine.PBRoutine.Fill_Quotation(String Token, String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1609
+2/4/2020 3:18:07 PM DNVGL HTTP Processor stopped
+2/4/2020 3:18:07 PM ====================================================
+2/4/2020 3:23:32 PM ================2/4/2020 3:23:32 PM================
+2/4/2020 3:23:32 PM DNVGL HTTP Processor started
+2/4/2020 3:23:32 PM 
+2/4/2020 3:23:32 PM Supplier: V10107
+2/4/2020 3:23:32 PM Process started for SM0372_WEB
+2/4/2020 3:23:32 PM 
+2/4/2020 3:23:32 PM Quote processing started.
+2/4/2020 3:23:32 PM 1 files found to process.
+2/4/2020 3:23:32 PM Started Loading interchange object.
+2/4/2020 3:23:32 PM stopped Loading interchange object.
+2/4/2020 3:23:35 PM Unable to set supplier remarks for CHA-B20X0018(01)CG-5130
+2/4/2020 3:23:37 PM LeS-1004:Unable to process file due to System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at HTTPWrapper.HTTPWrapper.PostURL(String _request, String _postData, String validateNodeTitle, String validateAttribute, String attributeValue, String HiddenAttributeKey, Boolean readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\HTTPWrapper\HTTPWrapper.cs:line 218
+   at PacificRoutine.PBRoutine.SaveQuotation(String[] Arr, RootObject _library, String MTML_QuoteFile, String Token) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1858
+   at PacificRoutine.PBRoutine.Fill_Quotation(String Token, String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1609
+2/4/2020 3:23:37 PM DNVGL HTTP Processor stopped
+2/4/2020 3:23:37 PM ====================================================
+2/4/2020 3:30:16 PM ================2/4/2020 3:30:16 PM================
+2/4/2020 3:30:16 PM DNVGL HTTP Processor started
+2/4/2020 3:30:16 PM 
+2/4/2020 3:30:16 PM Supplier: V10107
+2/4/2020 3:30:16 PM Process started for SM0372_WEB
+2/4/2020 3:30:17 PM 
+2/4/2020 3:30:17 PM Quote processing started.
+2/4/2020 3:30:17 PM 4 files found to process.
+2/4/2020 3:30:17 PM Started Loading interchange object.
+2/4/2020 3:30:17 PM stopped Loading interchange object.
+2/4/2020 3:30:19 PM Unable to set supplier remarks for CHA-B20X0018(01)CG-5130
+2/4/2020 3:30:22 PM LeS-1004:Unable to process file due to System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at HTTPWrapper.HTTPWrapper.PostURL(String _request, String _postData, String validateNodeTitle, String validateAttribute, String attributeValue, String HiddenAttributeKey, Boolean readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\HTTPWrapper\HTTPWrapper.cs:line 218
+   at PacificRoutine.PBRoutine.SaveQuotation(String[] Arr, RootObject _library, String MTML_QuoteFile, String Token) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1858
+   at PacificRoutine.PBRoutine.Fill_Quotation(String Token, String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1609
+2/4/2020 3:30:22 PM Started Loading interchange object.
+2/4/2020 3:30:22 PM stopped Loading interchange object.
+2/4/2020 3:30:22 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+2/4/2020 3:30:22 PM Started Loading interchange object.
+2/4/2020 3:30:22 PM stopped Loading interchange object.
+2/4/2020 3:30:22 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+2/4/2020 3:30:22 PM Started Loading interchange object.
+2/4/2020 3:30:22 PM stopped Loading interchange object.
+2/4/2020 3:30:23 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+2/4/2020 3:30:23 PM DNVGL HTTP Processor stopped
+2/4/2020 3:30:23 PM ====================================================
+2/4/2020 3:30:42 PM ================2/4/2020 3:30:42 PM================
+2/4/2020 3:30:42 PM DNVGL HTTP Processor started
+2/4/2020 3:30:42 PM 
+2/4/2020 3:30:42 PM Supplier: V10107
+2/4/2020 3:30:42 PM Process started for SM0372_WEB
+2/4/2020 3:30:42 PM 
+2/4/2020 3:30:42 PM Quote processing started.
+2/4/2020 3:30:42 PM 1 files found to process.
+2/4/2020 3:30:42 PM Started Loading interchange object.
+2/4/2020 3:30:42 PM stopped Loading interchange object.
+2/4/2020 3:30:44 PM Unable to set supplier remarks for CHA-B20X0025(01)DB-5130
+2/4/2020 3:30:45 PM LeS-1004:Unable to process file due to System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at HTTPWrapper.HTTPWrapper.PostURL(String _request, String _postData, String validateNodeTitle, String validateAttribute, String attributeValue, String HiddenAttributeKey, Boolean readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\HTTPWrapper\HTTPWrapper.cs:line 218
+   at PacificRoutine.PBRoutine.SaveQuotation(String[] Arr, RootObject _library, String MTML_QuoteFile, String Token) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1858
+   at PacificRoutine.PBRoutine.Fill_Quotation(String Token, String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1609
+2/4/2020 3:30:45 PM DNVGL HTTP Processor stopped
+2/4/2020 3:30:45 PM ====================================================
+2/4/2020 3:33:31 PM ================2/4/2020 3:33:31 PM================
+2/4/2020 3:33:31 PM DNVGL HTTP Processor started
+2/4/2020 3:33:31 PM 
+2/4/2020 3:33:31 PM Supplier: V10107
+2/4/2020 3:33:31 PM Process started for SM0372_WEB
+2/4/2020 3:33:31 PM 
+2/4/2020 3:33:31 PM Quote processing started.
+2/4/2020 3:33:31 PM 6 files found to process.
+2/4/2020 3:33:31 PM Started Loading interchange object.
+2/4/2020 3:33:31 PM stopped Loading interchange object.
+2/4/2020 3:33:43 PM LeS-1004:Unable to process file due to System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at HTTPWrapper.HTTPWrapper.PostURL(String _request, String _postData, String validateNodeTitle, String validateAttribute, String attributeValue, String HiddenAttributeKey, Boolean readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\HTTPWrapper\HTTPWrapper.cs:line 218
+   at PacificRoutine.PBRoutine.SaveQuotation(String[] Arr, RootObject _library, String MTML_QuoteFile, String Token) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1858
+   at PacificRoutine.PBRoutine.Fill_Quotation(String Token, String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1609
+2/4/2020 3:33:43 PM Started Loading interchange object.
+2/4/2020 3:33:43 PM stopped Loading interchange object.
+2/4/2020 3:33:43 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+2/4/2020 3:33:43 PM Started Loading interchange object.
+2/4/2020 3:33:43 PM stopped Loading interchange object.
+2/4/2020 3:33:44 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+2/4/2020 3:33:44 PM Started Loading interchange object.
+2/4/2020 3:33:44 PM stopped Loading interchange object.
+2/4/2020 3:33:44 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+2/4/2020 3:33:44 PM Started Loading interchange object.
+2/4/2020 3:33:44 PM stopped Loading interchange object.
+2/4/2020 3:33:44 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+2/4/2020 3:33:44 PM Started Loading interchange object.
+2/4/2020 3:33:44 PM stopped Loading interchange object.
+2/4/2020 3:33:45 PM Exception while processing Quote MTML : The remote server returned an error: (405) Method Not Allowed.
+2/4/2020 3:33:45 PM DNVGL HTTP Processor stopped
+2/4/2020 3:33:45 PM ====================================================
+2/4/2020 3:41:11 PM ================2/4/2020 3:41:11 PM================
+2/4/2020 3:41:11 PM DNVGL HTTP Processor started
+2/4/2020 3:41:11 PM 
+2/4/2020 3:41:11 PM Supplier: V10107
+2/4/2020 3:41:11 PM Process started for SM0372_WEB
+2/4/2020 3:41:11 PM 
+2/4/2020 3:41:11 PM Quote processing started.
+2/4/2020 3:41:11 PM 1 files found to process.
+2/4/2020 3:41:11 PM Started Loading interchange object.
+2/4/2020 3:41:11 PM stopped Loading interchange object.
+2/4/2020 3:41:15 PM LeS-1004:Unable to process file due to System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at HTTPWrapper.HTTPWrapper.PostURL(String _request, String _postData, String validateNodeTitle, String validateAttribute, String attributeValue, String HiddenAttributeKey, Boolean readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\HTTPWrapper\HTTPWrapper.cs:line 218
+   at PacificRoutine.PBRoutine.SaveQuotation(String[] Arr, RootObject _library, String MTML_QuoteFile, String Token) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1858
+   at PacificRoutine.PBRoutine.Fill_Quotation(String Token, String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1609
+2/4/2020 3:41:15 PM DNVGL HTTP Processor stopped
+2/4/2020 3:41:15 PM ====================================================

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="T-SQ-191101216" Identifier="UNOC" Recipient="BESC09_AMOSEPB" Sender="V00128" PreparationDate="2019-Nov-06" PreparationTime="11:51" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="91000004" LesRecordID="91375962" LesLinkID="91000014" ParentRecordID="91375887" MTML_DOCID="14B6B242-2173-41E9-ADAD-1F6156E16EF1">
+    <Quote MessageReferenceNumber="91000014_RFQ_PPN_O0148_RF19_06112019102420209.xlsm" MessageNumber="91000014_RFQ_PPN_O0148_RF19_06112019102420209.xlsm" LineItemCount="6" VersionNumber="1" CurrencyCode="SGD" FunctionCode="_9" OriginatingSystemRef="91375887" LeadTimeDays="0" BuyerRefNo="PPN/O0148/RF19" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" SupplierORGRef="500091375887" BuyerItemTotal="2356.33" BuyerQuoteTotal="2356.33">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911061151" />
+      <Comments Qualifier="SUR">
+        <value>PLEASE SUPPLY AT FUJAIRAH 05 NOV 2019
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="PPN/O0148/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="T-SQ-191101216" />
+      <Party Qualifier="BY" Identification="BESC09_AMOSEPB" Name="BERNHARD SCHULTE SHIPMANAGEMENT (SINGAPORE) PTE. LTD." City="SINGAPORE">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V00128" Name="AMOS INTERNATIONAL (S) PTE LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="sales.ms.sg@amosgroup.com,Pur_tech@amos-sg.com,pur_f&amp;b@amos-sg.com" />
+        </Contact>
+        <StreetAddress>156 GUL CIRCLE</StreetAddress>
+        <StreetAddress>SINGAPORE 619901</StreetAddress>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="PIS PIONEER">
+        <PartyLocation Qualifier="TBA" Port="SINGAPORE" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="PADLOCK BRASS 60MM, MASTER KEY SYSTEM" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="77.88" Identification="490513" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PCS" Supp_UOM="SET" Supp_Price="6.49" BuyerItemTotal="77.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.49" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 12 | UOM : SET</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="2" Description="RAZOR WIRE GALVANIZED CROSSED LOOP (DIA 900 MM X 10 M) --- STAINLESS STEEL" MeasureUnitQualifier="RL" Quantity="17" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="311.95" Identification="232801" IsExtraItem="0" MarkedRemarks="OFFER H/DUTY DOUBLE BLADE RAZOR BARDED 900MM 10-12MTR" ItemStatus="Original" Byr_Qty="17" Supp_Qty="17" Byr_UOM="RL" Supp_UOM="C/L" Supp_Price="18.35" BuyerItemTotal="311.95" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="18.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="18.35" />
+        <Comments Qualifier="LIN">
+          <value>OFFER H/DUTY DOUBLE BLADE RAZOR BARDED 900MM 10-12MTR |  QTY : 17 | UOM : C/L</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="3" Description="GLOVES ARMOURED LEATHER FOR HANDLING  RAZOR WIRES" MeasureUnitQualifier="PRS" Quantity="15" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="22" MonetaryAmount="95.25" Identification="190141" IsExtraItem="0" MarkedRemarks="OFFER CUT PROOF BARBED WIRE GLOVES 13.5&quot; LONG" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="6.35" BuyerItemTotal="95.25" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.35" />
+        <Comments Qualifier="LIN">
+          <value>OFFER CUT PROOF BARBED WIRE GLOVES 13.5" LONG</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="4" Description="PORTABLE TOILET CHEMICAL TYPE COMPLETE SET 2 SET" MeasureUnitQualifier="SET" Quantity="4" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="23" MonetaryAmount="796.60" Identification="530133" IsExtraItem="0" MarkedRemarks="OFFER MOBILE PORTABLE PLASTIC TOILET POTTY 268 ~~ PRICE QUOTED IN PCS, PLS CHECK QTY" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="SET" Supp_UOM="PCS" Supp_Price="199.15" BuyerItemTotal="796.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="199.15" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="199.15" />
+        <Comments Qualifier="LIN">
+          <value>OFFER MOBILE PORTABLE PLASTIC TOILET POTTY 268 ~~ PRICE QUOTED IN PCS, PLS CHECK QTY |  QTY : 4 | UOM : PCS</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="5" Description="LIGHT FIBER BULLET PROOF VEST JACKETS" MeasureUnitQualifier="EA" Quantity="1" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="24" MonetaryAmount="695.35" Identification="314111" IsExtraItem="0" MarkedRemarks="OFFER BULLETPROOF VEST (MATERIAL KELVAR FIBER) C/W TEST REPORT &#xA;~~ SUBJECT TO PRIOR SALES" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="EA" Supp_UOM="PCS" Supp_Price="695.35" BuyerItemTotal="695.35" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="695.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="695.35" />
+        <Comments Qualifier="LIN">
+          <value>OFFER BULLETPROOF VEST (MATERIAL KELVAR FIBER) C/W TEST REPORT 
+~~ SUBJECT TO PRIOR SALES |  QTY : 1 | UOM : PCS</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="6" Description="BULLETPROOF HELMET WITH VISOR" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="25" MonetaryAmount="379.30" Identification="310571" IsExtraItem="0" MarkedRemarks="OFFER BULLET-PROOF HELMET VISION" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="379.3" BuyerItemTotal="379.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="379.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="379.3" />
+        <Comments Qualifier="LIN">
+          <value>OFFER BULLET-PROOF HELMET VISION</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="2356.330" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="2356.330" />
+      <MonetaryAmount Qualifier="_90" Value="2356.330" />
+      <MonetaryAmount Qualifier="_91" Value="2356.330" />
+    </Quote>
+  </Interchange>
+</MTML>

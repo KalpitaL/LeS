@@ -1,0 +1,250 @@
+11/09/2019 09:48:58 ================11/09/2019 09:48:58================
+11/09/2019 09:48:58 DNVGL HTTP Processor started
+11/09/2019 09:48:59 
+11/09/2019 09:48:59 Supplier: V10107
+11/09/2019 09:48:59 Process started for SM0372_WEB
+11/09/2019 09:49:00 
+11/09/2019 09:49:00 Quote processing started.
+11/09/2019 09:49:00 1 files found to process.
+11/09/2019 09:49:00 Started Loading interchange object.
+11/09/2019 09:49:00 stopped Loading interchange object.
+11/09/2019 09:51:34 Quotation successfully sent.
+11/09/2019 10:02:28 ================11/09/2019 10:02:28================
+11/09/2019 10:02:28 DNVGL HTTP Processor started
+11/09/2019 10:02:29 
+11/09/2019 10:02:29 Supplier: V10107
+11/09/2019 10:02:29 Process started for SM0372_WEB
+11/09/2019 10:02:29 No quote files found to process.
+11/09/2019 10:02:29 
+11/09/2019 10:02:29 Supplier: V10107
+11/09/2019 10:02:29 Process started for SM0695_WEB
+11/09/2019 10:02:29 No RFQ files found.
+11/09/2019 10:02:29 RFQ processing stopped.
+11/09/2019 10:02:29 No quote files found to process.
+11/09/2019 10:02:29 
+11/09/2019 10:02:29 Supplier: V10001
+11/09/2019 10:02:29 Process started for SM0668_WEB
+11/09/2019 10:02:29 No RFQ files found.
+11/09/2019 10:02:29 RFQ processing stopped.
+11/09/2019 10:02:29 
+11/09/2019 10:02:29 Purchase Order processing started.
+11/09/2019 10:02:29 No PO files found.
+11/09/2019 10:02:29 Purchase Order processing stopped.
+11/09/2019 10:02:29 No quote files found to process.
+11/09/2019 10:02:29 
+11/09/2019 10:02:29 POC processing started.
+11/09/2019 10:02:29 No POC files found.
+11/09/2019 10:02:29 POC processing stopped.
+11/09/2019 10:02:29 
+11/09/2019 10:02:29 Supplier: V10001
+11/09/2019 10:02:29 Process started for SM0711_WEB
+11/09/2019 10:02:29 No RFQ files found.
+11/09/2019 10:02:29 RFQ processing stopped.
+11/09/2019 10:02:29 
+11/09/2019 10:02:29 Purchase Order processing started.
+11/09/2019 10:02:29 No PO files found.
+11/09/2019 10:02:29 Purchase Order processing stopped.
+11/09/2019 10:02:29 No quote files found to process.
+11/09/2019 10:02:29 
+11/09/2019 10:02:29 POC processing started.
+11/09/2019 10:02:29 No POC files found.
+11/09/2019 10:02:29 POC processing stopped.
+11/09/2019 10:02:29 DNVGL HTTP Processor stopped
+11/09/2019 10:02:29 ====================================================
+11/09/2019 10:03:12 ================11/09/2019 10:03:12================
+11/09/2019 10:03:12 DNVGL HTTP Processor started
+11/09/2019 10:03:13 
+11/09/2019 10:03:13 Supplier: V10107
+11/09/2019 10:03:13 Process started for SM0372_WEB
+11/09/2019 10:03:14 
+11/09/2019 10:03:14 Quote processing started.
+11/09/2019 10:03:14 1 files found to process.
+11/09/2019 10:03:14 Started Loading interchange object.
+11/09/2019 10:03:14 stopped Loading interchange object.
+11/09/2019 10:15:12 ================11/09/2019 10:15:12================
+11/09/2019 10:15:12 DNVGL HTTP Processor started
+11/09/2019 10:15:13 
+11/09/2019 10:15:13 Supplier: V10107
+11/09/2019 10:15:13 Process started for SM0372_WEB
+11/09/2019 10:15:14 
+11/09/2019 10:15:14 Quote processing started.
+11/09/2019 10:15:14 1 files found to process.
+11/09/2019 10:15:14 Started Loading interchange object.
+11/09/2019 10:15:14 stopped Loading interchange object.
+11/09/2019 10:17:10 ================11/09/2019 10:17:10================
+11/09/2019 10:17:10 DNVGL HTTP Processor started
+11/09/2019 10:17:12 
+11/09/2019 10:17:12 Supplier: V10107
+11/09/2019 10:17:12 Process started for SM0372_WEB
+11/09/2019 10:17:13 
+11/09/2019 10:17:13 Quote processing started.
+11/09/2019 10:17:13 1 files found to process.
+11/09/2019 10:17:13 Started Loading interchange object.
+11/09/2019 10:17:13 stopped Loading interchange object.
+11/09/2019 10:23:47 ================11/09/2019 10:23:47================
+11/09/2019 10:23:47 DNVGL HTTP Processor started
+11/09/2019 10:23:47 
+11/09/2019 10:23:47 Supplier: V10107
+11/09/2019 10:23:47 Process started for SM0372_WEB
+11/09/2019 10:23:48 
+11/09/2019 10:23:48 Quote processing started.
+11/09/2019 10:23:48 1 files found to process.
+11/09/2019 10:23:48 Started Loading interchange object.
+11/09/2019 10:23:48 stopped Loading interchange object.
+11/09/2019 10:27:38 ================11/09/2019 10:27:38================
+11/09/2019 10:27:38 DNVGL HTTP Processor started
+11/09/2019 10:27:38 
+11/09/2019 10:27:38 Supplier: V10107
+11/09/2019 10:27:38 Process started for SM0372_WEB
+11/09/2019 10:27:39 
+11/09/2019 10:27:39 Quote processing started.
+11/09/2019 10:27:39 1 files found to process.
+11/09/2019 10:27:39 Started Loading interchange object.
+11/09/2019 10:27:39 stopped Loading interchange object.
+11/09/2019 10:31:49 ================11/09/2019 10:31:49================
+11/09/2019 10:31:49 DNVGL HTTP Processor started
+11/09/2019 10:31:50 
+11/09/2019 10:31:50 Supplier: V10107
+11/09/2019 10:31:50 Process started for SM0372_WEB
+11/09/2019 10:31:50 
+11/09/2019 10:31:50 Quote processing started.
+11/09/2019 10:31:50 1 files found to process.
+11/09/2019 10:31:50 Started Loading interchange object.
+11/09/2019 10:31:50 stopped Loading interchange object.
+11/09/2019 10:40:13 ================11/09/2019 10:40:13================
+11/09/2019 10:40:13 DNVGL HTTP Processor started
+11/09/2019 10:40:15 
+11/09/2019 10:40:15 Supplier: V10107
+11/09/2019 10:40:15 Process started for SM0372_WEB
+11/09/2019 10:40:15 
+11/09/2019 10:40:15 Quote processing started.
+11/09/2019 10:40:15 1 files found to process.
+11/09/2019 10:40:15 Started Loading interchange object.
+11/09/2019 10:40:15 stopped Loading interchange object.
+11/09/2019 10:40:18 Quotation successfully sent.
+11/09/2019 10:40:18 
+11/09/2019 10:40:18 Supplier: V10107
+11/09/2019 10:40:18 Process started for SM0695_WEB
+11/09/2019 10:40:18 No RFQ files found.
+11/09/2019 10:40:18 RFQ processing stopped.
+11/09/2019 10:40:18 No quote files found to process.
+11/09/2019 10:40:18 
+11/09/2019 10:40:18 Supplier: V10001
+11/09/2019 10:40:18 Process started for SM0668_WEB
+11/09/2019 10:40:18 No RFQ files found.
+11/09/2019 10:40:18 RFQ processing stopped.
+11/09/2019 10:40:18 
+11/09/2019 10:40:18 Purchase Order processing started.
+11/09/2019 10:40:18 No PO files found.
+11/09/2019 10:40:18 Purchase Order processing stopped.
+11/09/2019 10:40:18 No quote files found to process.
+11/09/2019 10:40:18 
+11/09/2019 10:40:18 POC processing started.
+11/09/2019 10:40:18 No POC files found.
+11/09/2019 10:40:18 POC processing stopped.
+11/09/2019 10:40:18 
+11/09/2019 10:40:18 Supplier: V10001
+11/09/2019 10:40:18 Process started for SM0711_WEB
+11/09/2019 10:40:18 No RFQ files found.
+11/09/2019 10:40:18 RFQ processing stopped.
+11/09/2019 10:40:18 
+11/09/2019 10:40:18 Purchase Order processing started.
+11/09/2019 10:40:18 No PO files found.
+11/09/2019 10:40:18 Purchase Order processing stopped.
+11/09/2019 10:40:18 No quote files found to process.
+11/09/2019 10:40:18 
+11/09/2019 10:40:18 POC processing started.
+11/09/2019 10:40:18 No POC files found.
+11/09/2019 10:40:18 POC processing stopped.
+11/09/2019 10:40:18 DNVGL HTTP Processor stopped
+11/09/2019 10:40:18 ====================================================
+11/09/2019 10:40:34 ================11/09/2019 10:40:34================
+11/09/2019 10:40:34 DNVGL HTTP Processor started
+11/09/2019 10:40:35 
+11/09/2019 10:40:35 Supplier: V10107
+11/09/2019 10:40:35 Process started for SM0372_WEB
+11/09/2019 10:40:35 
+11/09/2019 10:40:35 Quote processing started.
+11/09/2019 10:40:35 1 files found to process.
+11/09/2019 10:40:35 Started Loading interchange object.
+11/09/2019 10:40:35 stopped Loading interchange object.
+11/09/2019 10:44:31 ================11/09/2019 10:44:31================
+11/09/2019 10:44:31 DNVGL HTTP Processor started
+11/09/2019 10:44:33 
+11/09/2019 10:44:33 Supplier: V10107
+11/09/2019 10:44:33 Process started for SM0372_WEB
+11/09/2019 10:44:33 
+11/09/2019 10:44:33 Quote processing started.
+11/09/2019 10:44:33 1 files found to process.
+11/09/2019 10:44:33 Started Loading interchange object.
+11/09/2019 10:44:33 stopped Loading interchange object.
+11/09/2019 10:46:47 ================11/09/2019 10:46:47================
+11/09/2019 10:46:47 DNVGL HTTP Processor started
+11/09/2019 10:46:48 
+11/09/2019 10:46:48 Supplier: V10107
+11/09/2019 10:46:48 Process started for SM0372_WEB
+11/09/2019 10:46:48 
+11/09/2019 10:46:48 Quote processing started.
+11/09/2019 10:46:48 1 files found to process.
+11/09/2019 10:46:48 Started Loading interchange object.
+11/09/2019 10:46:48 stopped Loading interchange object.
+11/09/2019 10:48:35 ================11/09/2019 10:48:35================
+11/09/2019 10:48:35 DNVGL HTTP Processor started
+11/09/2019 10:48:36 
+11/09/2019 10:48:36 Supplier: V10107
+11/09/2019 10:48:36 Process started for SM0372_WEB
+11/09/2019 10:48:36 
+11/09/2019 10:48:36 Quote processing started.
+11/09/2019 10:48:36 1 files found to process.
+11/09/2019 10:48:36 Started Loading interchange object.
+11/09/2019 10:48:36 stopped Loading interchange object.
+11/09/2019 16:45:09 ================11/09/2019 16:45:09================
+11/09/2019 16:45:09 DNVGL HTTP Processor started
+11/09/2019 16:45:11 
+11/09/2019 16:45:11 Supplier: V10107
+11/09/2019 16:45:11 Process started for SM0372_WEB
+11/09/2019 16:45:11 
+11/09/2019 16:45:11 Quote processing started.
+11/09/2019 16:45:11 1 files found to process.
+11/09/2019 16:45:11 Started Loading interchange object.
+11/09/2019 16:45:11 stopped Loading interchange object.
+11/09/2019 16:47:36 ================11/09/2019 16:47:36================
+11/09/2019 16:47:36 DNVGL HTTP Processor started
+11/09/2019 16:47:38 
+11/09/2019 16:47:38 Supplier: V10107
+11/09/2019 16:47:38 Process started for SM0372_WEB
+11/09/2019 16:47:38 
+11/09/2019 16:47:38 Quote processing started.
+11/09/2019 16:47:38 1 files found to process.
+11/09/2019 16:47:38 Started Loading interchange object.
+11/09/2019 16:47:38 stopped Loading interchange object.
+11/09/2019 16:50:46 ================11/09/2019 16:50:46================
+11/09/2019 16:50:46 DNVGL HTTP Processor started
+11/09/2019 16:50:57 
+11/09/2019 16:50:57 Supplier: V10107
+11/09/2019 16:50:57 Process started for SM0372_WEB
+11/09/2019 16:50:57 
+11/09/2019 16:50:57 Quote processing started.
+11/09/2019 16:50:57 1 files found to process.
+11/09/2019 16:50:57 Started Loading interchange object.
+11/09/2019 16:50:57 stopped Loading interchange object.
+11/09/2019 16:57:53 ================11/09/2019 16:57:53================
+11/09/2019 16:57:53 DNVGL HTTP Processor started
+11/09/2019 16:57:55 
+11/09/2019 16:57:55 Supplier: V10107
+11/09/2019 16:57:55 Process started for SM0372_WEB
+11/09/2019 16:57:55 
+11/09/2019 16:57:55 Quote processing started.
+11/09/2019 16:57:55 1 files found to process.
+11/09/2019 16:57:55 Started Loading interchange object.
+11/09/2019 16:57:55 stopped Loading interchange object.
+11/09/2019 16:59:03 ================11/09/2019 16:59:03================
+11/09/2019 16:59:03 DNVGL HTTP Processor started
+11/09/2019 16:59:04 
+11/09/2019 16:59:04 Supplier: V10107
+11/09/2019 16:59:04 Process started for SM0372_WEB
+11/09/2019 16:59:04 
+11/09/2019 16:59:04 Quote processing started.
+11/09/2019 16:59:04 1 files found to process.
+11/09/2019 16:59:04 Started Loading interchange object.
+11/09/2019 16:59:04 stopped Loading interchange object.

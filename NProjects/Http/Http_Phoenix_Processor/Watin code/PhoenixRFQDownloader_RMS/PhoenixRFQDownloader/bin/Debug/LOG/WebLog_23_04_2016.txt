@@ -1,0 +1,7 @@
+
+16:46:16 : Phoenix RFQ Downloader Started.
+16:46:16 : Processing File attachmentLink.txt
+17:01:10 : Phoenix RFQ Downloader Started.
+17:01:10 : Processing File attachmentLink.txt
+17:02:44 : Phoenix RFQ Downloader Started.
+17:02:44 : Processing File attachmentLink.txt

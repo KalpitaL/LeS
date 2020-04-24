@@ -1,0 +1,1087 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="" Identifier="" Recipient="V00128" Sender="BESC08_AMOSEPB" PreparationDate="2019-08-09" PreparationTime="12:30" LesGroupID="91000197" LesRecordID="0" LesLinkID="91000012">
+    <RequestForQuote MessageReferenceNumber="91000012_RFQ_SSA_O0176_RF19_09082019122420276_19080912300669.xlsm" MessageNumber="91000012_RFQ_SSA_O0176_RF19_09082019122420276_190809_12300669.xlsm" LineItemCount="143" VersionNumber="" CurrencyCode="SGD" BuyerRefNo="SSA/O0176/RF19" OriginalFile="91000012_RFQ_SSA_O0176_RF19_09082019122420276_19080912300669.xlsm" IsDeclined="False">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20190809" />
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="PUR">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="SSA/O0176/RF19" />
+      <Party Qualifier="BY" Name="Bernhard Schulte Shipmanagement (Hellas) SPLLC" City="Athens">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="AMOS INTERNATIONAL (S) PTE LTD">
+        <Contact FunctionCode="PD" Name="Mr. Danny Lien">
+          <CommunicationMethod Qualifier="TE" Number="6562622323" />
+          <CommunicationMethod Qualifier="EM" Number="sales.ms.sg@amosgroup.com" />
+        </Contact>
+        <StreetAddress>156 Gul Circle 156 Gul Circle, Singapore 629613</StreetAddress>
+        <StreetAddress>SINGAPORE 619901</StreetAddress>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="UD" Name="Coral Shasta">
+        <PartyLocation Qualifier="7" />
+      </Party>
+      <LineItem Number="1" Description="AIR FRESHENER 420ML" MeasureUnitQualifier="TIN" Quantity="24" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="21" MonetaryAmount="0.00" Identification="550332" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**LOCAL BRAND 300ML**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="2" Description="BRUSH TOILET NYLON W/HOLDER" MeasureUnitQualifier="SET" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="22" MonetaryAmount="0.00" Identification="174253" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : ECONOMY TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="3" Description="DETERGENT LIQUID DISINFECTANT, &amp; ANTISEPTIC HAND 5KGS" MeasureUnitQualifier="BTL" Quantity="4" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="23" MonetaryAmount="0.00" Identification="550263" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER DETERGENT LIQUID DISINFECTANT &amp; ANTISEPTIC HAND 5KGS "AL</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="4" Description="PILLOW CASE WHITE REGULAR, 750X500X200MM" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="24" MonetaryAmount="0.00" Identification="150286" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>** ALCONA  BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="5" Description="PILLOW KAPOK 600X400MM" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="25" MonetaryAmount="0.00" Identification="150282" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>OFFER  WASTABLE FIBER TYPE</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="6" Description="CLEANER LIQUID GENERAL PURPOSE, CONCENTRATED SPRAY 400ML" MeasureUnitQualifier="BTL" Quantity="24" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="26" MonetaryAmount="0.00" Identification="2096612" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER GENERAL PURPOSE LIQUID CLEANER  500ML SPRAY "ALCONA BRAN</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="7" Description="CLEANER OVEN 300GRM" MeasureUnitQualifier="TIN" Quantity="24" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="27" MonetaryAmount="0.00" Identification="550301" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER OVEN CLEANER  368GM**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="8" Description="SOAP DOVE 100GRM" MeasureUnitQualifier="PCS" Quantity="180" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="28" MonetaryAmount="0.00" Identification="550251" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER CAMAY 125GM**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="9" Description="BLANKET COVER  COTTON WHITE SIZE: WIDTH 2300 MM X LENGHT 2600MM)" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="29" MonetaryAmount="0.00" Identification="150355" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER   WHITE COLOR**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="10" Description="FAN VENTILATION PNEUMATIC, PORTABLE RF-12 DIA305MM" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="30" MonetaryAmount="0.00" Identification="591425" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : DIA305MM/SET**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="11" Description="HEAD FOR SPRING CLAMP MOP" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="31" MonetaryAmount="0.00" Identification="174277" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : HEAD ONLY**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="12" Description="MARINE REFUSE SACK &quot;MAXI&quot;, 70X110CM 50'S/PKT" MeasureUnitQualifier="PKT" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="32" MonetaryAmount="0.00" Identification="174180" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 50'S/PKT**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="13" Description="MARINE REFUSE SACK &quot;MIDI&quot;, 52.5X50CM 50'S/PKT" MeasureUnitQualifier="PKT" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="33" MonetaryAmount="0.00" Identification="174179" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 50'S/PKT**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="14" Description="MAT DOOR NYLON LAWN STEP, 45X75CM" MeasureUnitQualifier="SHT" Quantity="6" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="34" MonetaryAmount="0.00" Identification="2123833" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="15" Description="PAPER GARBAGE BAGS( 25LTR,370X650125MM)" MeasureUnitQualifier="PCS" Quantity="500" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="35" MonetaryAmount="0.00" Identification="174177" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>** OFFER MARINE REFUSE SACK MIDI 52.5X50CM**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="16" Description="PLASTIC BAG BLACK, 35ltr*50pcs" MeasureUnitQualifier="PKT" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="36" MonetaryAmount="0.00" Identification="2844537" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="17" Description="PLASTIC BAG BLACK, 500X400X1300MM 50'S" MeasureUnitQualifier="PKT" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="37" MonetaryAmount="0.00" Identification="174176" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER 800X1300MM 50`S/PKT**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="18" Description="PLASTIC BAG BLACK,750X1000MM, 100'S/PACKET" MeasureUnitQualifier="PKT" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="38" MonetaryAmount="0.00" Identification="174170" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : SIZE 700 X 1080MM 100'S/PKT (NORMAL)**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="19" Description="PLASTIC GARBAGE BAG (CABIN USE) 450x450MM" MeasureUnitQualifier="PKT" Quantity="50" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="39" MonetaryAmount="0.00" Identification="174173" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>** OFFER 450X500MM 50'S/PKT WHITE COLOR**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="20" Description="PLASTICS BAGS FOR GARBAGE DISPOSAL (10SHTS PER PKT) 650x850MM" MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="40" MonetaryAmount="0.00" Identification="174174" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 10'S/PKT**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="21" Description="SPRING CLAMP MOP COMPLETE" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="41" MonetaryAmount="0.00" Identification="174275" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : COMPLETE SET**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="22" Description="TISSUE PAPER ECONOMY SIZE" MeasureUnitQualifier="BOX" Quantity="200" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="42" MonetaryAmount="0.00" Identification="174220" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER 90'S/BOX</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="23" Description="VACUUM CLEANER 220V" MeasureUnitQualifier="SET" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="43" MonetaryAmount="0.00" Identification="174672" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>LG VK89682HU; LG VK89304H; LG VK89601HQ</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="24" Description="VENTILATION TUBE, SPIRAL TYPE, DIAM. 300MM, LENGHT 10MTR." MeasureUnitQualifier="LGH" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="44" MonetaryAmount="0.00" Identification="591484" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER VENTILATION TUBE SPIRAL TYPE PVC 300MM X 10MTR**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="25" Description="Yacht Mop COMPLETE" MeasureUnitQualifier="SET" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="45" MonetaryAmount="0.00" Identification="2844536" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="26" Description="ALC.BATT. 1,5V MN1500 SIZE AA&#xD;&#xA;LR6 DUR" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="46" MonetaryAmount="0.00" Identification="KERGER 182234" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="27" Description="ALC.BATT. 1,5V MN2400 SIZE AAA&#xD;&#xA;LR03" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="47" MonetaryAmount="0.00" Identification="KERGER 182222" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="28" Description="ALC.BATT. 1,5V VARTA SIZE AA" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="48" MonetaryAmount="0.00" Identification="KERGER 182240" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="29" Description="CHARGER FOR WOLF TORCH R-30H, FOR MODEL R-30 AC100-254VOLT" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="49" MonetaryAmount="0.00" Identification="2120839" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="30" Description="FLASHLIGHT #2224 3CELL SAFETY, APPROVED" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="50" MonetaryAmount="0.00" Identification="792217" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**BRIGHTSTAR</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="31" Description="HANDMIXER    110V AC-DC" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="51" MonetaryAmount="0.00" Identification="KERGER 902980" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="32" Description="LANTERN LED SAFETY APPROVED, BRIGHTSTAR 2206LED 4 CELLS" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="52" MonetaryAmount="0.00" Identification="2111743" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**BRIGHTSTAR</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="33" Description="PVC COAT.ASSEMBL.STRAP 12MM&#xD;&#xA;ROLL OF 10 MTRS." MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="53" MonetaryAmount="0.00" Identification="KERGER 302584" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="34" Description="TORCH SAFETY PERSONAL ISSUE, WOLF M-60 ATEX 1WATT LED MINI" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="54" MonetaryAmount="0.00" Identification="2142299" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**WOLF</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="35" Description="TORCH SAFETY WOLF RECHARGEABLE, ANGLE R-55 ATEX ZONE-0 LED" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="55" MonetaryAmount="0.00" Identification="792268" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="36" Description="BRUSH WIRE WHEEL STANDARD, 75MMX3/8&quot;" MeasureUnitQualifier="PCS" Quantity="30" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="56" MonetaryAmount="0.00" Identification="510771" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>* LOCAL " BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="37" Description="CORDOBOND STRONG-BACK RESIN &amp;, ACTIVATOR 453GRM (Alternative Equivalent)" MeasureUnitQualifier="SET" Quantity="12" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="57" MonetaryAmount="0.00" Identification="812301" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER EQVT "MONOKOTE" ST RESIN &amp; ACTIVATOR 450GRM</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="38" Description="GLUE GENERAL PURPOSE 150GRM" MeasureUnitQualifier="TUB" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="58" MonetaryAmount="0.00" Identification="812702" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**LOCAL BRAND</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="39" Description="LUBRICANT WD-40 SPRAY 360ML" MeasureUnitQualifier="TIN" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="59" MonetaryAmount="0.00" Identification="450702" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER EQUIVALENT BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="40" Description="PLASTIC STEEL PUTTY DEVCON-A, 500GRM (Alternative Equivalent)" MeasureUnitQualifier="SET" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="60" MonetaryAmount="0.00" Identification="812251" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER EQVT "MONOKOTE" PLASTIC STEEL 500GRM/SET</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="41" Description="RAG PAPER ROLL M-TORK, 1PLY, 250MMX275MTR, 6 ROLLS PER BOX" MeasureUnitQualifier="BOX" Quantity="6" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="61" MonetaryAmount="0.00" Identification="232923" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>*OFFER EQUIVALENT BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="42" Description="ASH TRAY STAINLESS STEEL, DIVIDE &amp; DROP 120MM DIAM" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="62" MonetaryAmount="0.00" Identification="174319" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : ECONOMY TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="43" Description="BLEACHING WATER FOR LAUNDRY, 1500ML  (1 LTR)" MeasureUnitQualifier="BTL" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="63" MonetaryAmount="0.00" Identification="550121" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**ALCONA BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="44" Description="CHOPSTICKS LACQUERED BAMBOO, ROUND JAPANESE STYLE" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="64" MonetaryAmount="0.00" Identification="2093277" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL IN-HSE BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="45" Description="COFFEE MUG CHINA, MARINE QUALITY 290CC" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="65" MonetaryAmount="0.00" Identification="170337" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : WHITE MUG**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="46" Description="CRUET STAND SET 4PCS" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="66" MonetaryAmount="0.00" Identification="171026" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER LOCAL IN-HSE BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="47" Description="Descaling Tablets for Coffee Machines" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="67" MonetaryAmount="0.00" Identification="MISC 111" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="48" Description="DINNER KNIFE 18-CHROME, STAINLESS STEEL PLAIN HANDLE" MeasureUnitQualifier="PCS" Quantity="24" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="68" MonetaryAmount="0.00" Identification="170160" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>ALCONA BRAND</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="49" Description="DISHWASHING DETERGENT(LIQUID), 25KGS" MeasureUnitQualifier="BTL" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="69" MonetaryAmount="0.00" Identification="550182" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER GALLEY DISH WASHING  LIQUID  20 LTR "ALCONA BRAND "**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="50" Description="FLY SWATTERS OVERALL LENGTH 550 MM" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="70" MonetaryAmount="0.00" Identification="174356" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 550MM**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="51" Description="GLOVES RUBBER FOR GALLEY USE, L-SIZE" MeasureUnitQualifier="PRS" Quantity="6" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="71" MonetaryAmount="0.00" Identification="174045" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : RUBBER GLOVES**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="52" Description="GOBLET GLASS STANDARD PLAIN 300CC" MeasureUnitQualifier="PCS" Quantity="24" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="72" MonetaryAmount="0.00" Identification="170611" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL IN-HSE BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="53" Description="KETTLE ELECTRIC CORDLESS, AC220V 1.7LTR" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="73" MonetaryAmount="0.00" Identification="2120957" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER CORDLESS KETTLE ELE 2 LTR 220V**
+
+
+OR (B) PHILIP BRAND E</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="54" Description="LAUNDRY SOFTENER 1.65LTR (1 LTR )" MeasureUnitQualifier="BTL" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="74" MonetaryAmount="0.00" Identification="550124" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**ALCONA BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="55" Description="MUG CUP MELAMINE 260CC" MeasureUnitQualifier="PCS" Quantity="24" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="75" MonetaryAmount="0.00" Identification="2120948" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : WHITE MUG**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="56" Description="NAPKIN PAPER WHITE UNFOLDED, 250X250MM 1000'S" MeasureUnitQualifier="PKT" Quantity="50" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="76" MonetaryAmount="0.00" Identification="2136075" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 1000'S/PKT**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="57" Description="NAPKIN PAPERS, UNFOLDED, WHITE, 300 X 300 MM., 100'S/PKT" MeasureUnitQualifier="PKT" Quantity="50" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="77" MonetaryAmount="0.00" Identification="171452" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 100'S/PKT**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="58" Description="PAPER TOWEL ROLL 228MMX17.6MTR 2 ROLL/PKT" MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="78" MonetaryAmount="0.00" Identification="174233" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**QUOTED IN PER ROLL**** OFFER PAPER TOWEL ROLLED 280MMX12-14MTR</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="59" Description="PLASTIC BAG BLACK 30&quot;X34&quot;, (762X864MM) 65LTR 50'S" MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="79" MonetaryAmount="0.00" Identification="2131492" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : SIZE 700 X 1080MM 100'S/PKT (NORMAL)**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="60" Description="REPLACEABLE HEAD FOR YACHT MOP" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="80" MonetaryAmount="0.00" Identification="174272" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : REPLACEMENT HEAD ONLY**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="61" Description="SAFETY MATCH 12'S" MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="81" MonetaryAmount="0.00" Identification="174301" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>** OFFER ECONOMY { 10 SMALL BOX PER PKT }**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="62" Description="SERVING FORK 18-CHROME, STAINLESS STEEL PLAIN HANDLE" MeasureUnitQualifier="PCS" Quantity="24" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="82" MonetaryAmount="0.00" Identification="170151" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : S/STEEL**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="63" Description="SOAP LIQUID 800CC FOR GALLEY (1 LTR )." MeasureUnitQualifier="BTL" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="83" MonetaryAmount="0.00" Identification="550141" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**" ALCONA BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="64" Description="SOAP LIQUID TEEPOL 18KGS (18ltr)" MeasureUnitQualifier="CAN" Quantity="3" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="84" MonetaryAmount="0.00" Identification="550143" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER SOAP LIQUID MULTI PURPOSE CLEANER *</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="65" Description="SOAP POWDER LAUNDRY, 10KGS" MeasureUnitQualifier="BAG" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="85" MonetaryAmount="0.00" Identification="550108" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>* ALCONA BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="66" Description="SOAP POWDER, LAUNDRY, 500 GRM" MeasureUnitQualifier="PKT" Quantity="100" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="86" MonetaryAmount="0.00" Identification="550107" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>** ALCONA BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="67" Description="SOUP BOWL CHINESE STYLE, PORCELAIN 205MM DIAM" MeasureUnitQualifier="PCS" Quantity="24" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="87" MonetaryAmount="0.00" Identification="2112568" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : ECONOMY TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="68" Description="SPARE BAG CAPACITY 150LBS, FOR GARBAGE COMPACTOR" MeasureUnitQualifier="PCS" Quantity="30" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="88" MonetaryAmount="0.00" Identification="175586" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="69" Description="SPARE BALE CAPACITY 100LBS, FOR GARBAGE COMPACTOR" MeasureUnitQualifier="PCS" Quantity="30" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="89" MonetaryAmount="0.00" Identification="175589" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="70" Description="SPONGE CLEANER 150X100X50MM" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="90" MonetaryAmount="0.00" Identification="174058" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>** OFFER SCRUBBING SPONGE LARGE SPONGE ACE L LOCAL SIZE 70X140MM</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="71" Description="SUGAR DISPENSER GLASS, WITH STAINLESS STEEL TOP" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="91" MonetaryAmount="0.00" Identification="171111" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER LOCAL IN-HSE BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="72" Description="TABLE SPOON 18-CHROME, STAINLESS STEEL PLAIN HANDLE" MeasureUnitQualifier="PCS" Quantity="24" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="92" MonetaryAmount="0.00" Identification="170162" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>ALCONA BRAND</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="73" Description="TEA CUP CHINA, MARINE QUALITY 210CC" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="93" MonetaryAmount="0.00" Identification="170329" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL IN-HSE BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="74" Description="TEA CUP STANDARD, WITH BLUE LINE 208CC" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="94" MonetaryAmount="0.00" Identification="170358" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="75" Description="TOILET PAPER 2-PLY SOFT 100'S" MeasureUnitQualifier="CTN" Quantity="4" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="95" MonetaryAmount="0.00" Identification="174244" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="76" Description="TOOTH PICK ROUND 150'S" MeasureUnitQualifier="PKT" Quantity="50" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="96" MonetaryAmount="0.00" Identification="171090" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER LOCAL IN-HSE BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="77" Description="TUMBLER BARREL HARDSTRONG, 240CC" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="97" MonetaryAmount="0.00" Identification="2583732" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="78" Description="WRINGER MOP BUCKET (Hard Plastic)" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="98" MonetaryAmount="0.00" Identification="174280" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>** OFFER MOP BUCKET LOCAL TYPE W/STRAINER**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="79" Description="BRASS WIRE FOR FIRE HOSE SPLICING 1 MM DIAMETER, LENGTH 20 MTR PER COIL" MeasureUnitQualifier="RLS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="99" MonetaryAmount="0.00" Identification="2120970" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER WIRE COPPER 1.2MM, 1KG/ROLL, LOCAL</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="80" Description="HOSE PLASTIC TRANSPARENT, 15X18MM" MeasureUnitQualifier="MTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="100" MonetaryAmount="0.00" Identification="350232" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="81" Description="HOSE WATER RUBBER WRAPPED &amp;, FABRIC 5KG 19MMX2B" MeasureUnitQualifier="MTR" Quantity="100" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="101" MonetaryAmount="0.00" Identification="350153" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**CUT ITEM, NON-RETURNABLE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="82" Description="STEEL CHECKER PLATE HOT-ROLLED, 4.5X914X1829MM" MeasureUnitQualifier="SHT" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="102" MonetaryAmount="0.00" Identification="670802" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="83" Description="CORDBOND GLASS TAPE 38MMX30MTR" MeasureUnitQualifier="RLS" Quantity="12" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="103" MonetaryAmount="0.00" Identification="2120979" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER FIBERGLASS TAPE</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="84" Description="DEVCON PLASTIC STEEL LIQUID, B , 4 LBS" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="104" MonetaryAmount="0.00" Identification="812257" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="85" Description="PACKING DOOR WATERTIGHT, EPDM RUBBER 30X20MM L:10MTR" MeasureUnitQualifier="LGH" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="105" MonetaryAmount="0.00" Identification="815003" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="86" Description="SILICON SEALANT CLEAR 100GRM" MeasureUnitQualifier="TUB" Quantity="12" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="106" MonetaryAmount="0.00" Identification="2136359" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**LOCAL BRAND</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="87" Description="BRUSH COUNTER BLACK HAIR" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="107" MonetaryAmount="0.00" Identification="510646" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="88" Description="BRUSH PAINT ROLLER MINI, WITH HANDLE 100MM WIDTH" MeasureUnitQualifier="SET" Quantity="50" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="108" MonetaryAmount="0.00" Identification="510461" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER MINI ROLLER YELLOW LINE BRUSH C/SET**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="89" Description="BRUSH PENCIL ROUND 4MM DIAM" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="109" MonetaryAmount="0.00" Identification="510192" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="90" Description="BRUSH RADIATOR ANGLE(DOG LEG), 25MM WIDTH" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="110" MonetaryAmount="0.00" Identification="510165" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="91" Description="BRUSH RADIATOR ANGLE(DOG LEG), 40MM WIDTH" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="111" MonetaryAmount="0.00" Identification="510166" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="92" Description="SASH TOOL OVAL 15MM" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="112" MonetaryAmount="0.00" Identification="2093288" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="93" Description="SPARE MINI ROLLER 100MM WIDTH" MeasureUnitQualifier="PCS" Quantity="200" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="113" MonetaryAmount="0.00" Identification="510462" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER SPARE MINI ROLLER YELLOW LINE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="94" Description="GASOLINE 18LTR" MeasureUnitQualifier="CAN" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="114" MonetaryAmount="0.00" Identification="450102" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 18LTR**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="95" Description="GREASE WIRE ROPE 16KG" MeasureUnitQualifier="CAN" Quantity="3" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="115" MonetaryAmount="0.00" Identification="450341" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**LOCAL BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="96" Description="ACRYL SHEET TRANSPARENT 6MMX1X2MTR" MeasureUnitQualifier="SHT" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="116" MonetaryAmount="0.00" Identification="232835" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>For lifeboat window 9MM</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="97" Description="CAR CLASPER BELT TYPE, NORMAL WORKING LOAD 400KGS" MeasureUnitQualifier="PCS" Quantity="8" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="117" MonetaryAmount="0.00" Identification="231901" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="98" Description="MANILA ROPE THIMBLE C-TYPE, GALV 10MM" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="118" MonetaryAmount="0.00" Identification="230941" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="99" Description="MANILA ROPE THIMBLE C-TYPE, GALV 20MM" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="119" MonetaryAmount="0.00" Identification="230946" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="100" Description="MANILA ROPE THIMBLE C-TYPE, GALV 24MM" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="120" MonetaryAmount="0.00" Identification="230948" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="101" Description="SHACKLE ANCHOR FORGED CROSBY, SCREW PIN G-209 GALV 1-3/4&quot;" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="121" MonetaryAmount="0.00" Identification="234175" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>For mooring stopper. With certificate.</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="102" Description="SEIZING WIRE GALVANIZED, 2MM DIA" MeasureUnitQualifier="KGS" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="122" MonetaryAmount="0.00" Identification="2124680" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 1KG**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="103" Description="BALL-POINT PEN BLACK" MeasureUnitQualifier="PCS" Quantity="40" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="123" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER BIC-BRAND**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="104" Description="CLIP BOARD HARD BOARD, HORIZONTAL A-4" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="124" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : STANDARD TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="105" Description="CLIP BOARD HARD BOARD, VERTICAL A-4" MeasureUnitQualifier="PCS" Quantity="15" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="125" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : STANDARD TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="106" Description="COPY PAPER PLAIN A-4 500SHT (80grm)" MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="126" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 500SHT/RMS**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="107" Description="DRAWING INSTRUMENT SET, LION EC-15 10PCS/SET" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="127" MonetaryAmount="0.00" Identification="471541" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="108" Description="INK FOR STAMP PAD BLACK 60CC" MeasureUnitQualifier="BTL" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="128" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER 30CC**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="109" Description="INK FOR STAMP PAD BLUE 60CC" MeasureUnitQualifier="BTL" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="129" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER 30CC**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="110" Description="Laser Toner Cartridge for HP Laser Jet 200 CF210A, Black, High Capacity" MeasureUnitQualifier="PC" Quantity="3" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="130" MonetaryAmount="0.00" Identification="2853487" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="111" Description="Laser Toner Cartridge for HP Laser Jet 200 CF211A,  Cyan" MeasureUnitQualifier="PC" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="131" MonetaryAmount="0.00" Identification="2853490" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="112" Description="Laser Toner Cartridge for HP Laser Jet 200 CF212A , Yellow" MeasureUnitQualifier="PC" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="132" MonetaryAmount="0.00" Identification="2853491" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="113" Description="Laser Toner Cartridge for HP Laser Jet 200 CF213A, Magenta" MeasureUnitQualifier="PC" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="133" MonetaryAmount="0.00" Identification="2853492" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="114" Description="MASKING TAPE PAPER 25MM x ROLL 50MTR" MeasureUnitQualifier="ROL" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="134" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="115" Description="MEMORANDUM PAD B-6 177X125MM" MeasureUnitQualifier="PAD" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="135" MonetaryAmount="0.00" Identification="470134" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="116" Description="MEMORANDUM PAD B-7 125X88MM" MeasureUnitQualifier="PAD" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="136" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : 125X88MM/PAD**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="117" Description="NAVTEX RECORDING PAPER, FOR DPU 414, (Size - 112 x 40 x 13 mm)" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="137" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="118" Description="PAINT MARKER - BLACK" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="138" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**LOCAL BRAND</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="119" Description="PAINT MARKER - RED" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="139" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**LOCAL BRAND</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="120" Description="PAINT MARKER - WHITE" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="140" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**LOCAL BRAND</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="121" Description="PRINTER ROLL FOR NAVTEX 6ZCAF00252A ( 112mm x f50mm  25m x 1 ) (JRC, model: DPU-414)" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="141" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**LOCAL BRAND</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="122" Description="RECORDING PAPER FOR SAT-C PRINTER PAPER&#xD;&#xA; TYPE: WOODFREE PAPER NIPPON5, PAPER SIZE: 210MM X 25MM X 100MTRS, PRINTER MAKE: FURUNO, MODEL: PP-510" MeasureUnitQualifier="PCS" Quantity="15" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="142" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="123" Description="ROTRING ISOGRAPH PEN 0.1MM, COMPLETE" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="143" MonetaryAmount="0.00" Identification="470751" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="124" Description="TAPE MASKING PAPER 48MMXL55MTR" MeasureUnitQualifier="RLS" Quantity="10" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="144" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER 8MTR/ROLL**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="125" Description="TAPE PAPER DOUBLE SIDE GUMMED, 5MMX6.5MTR" MeasureUnitQualifier="RLS" Quantity="12" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="145" MonetaryAmount="0.00" Identification="PRTCONS" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="126" Description="TEA POT STAINLESS STEEL, 1100CC" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="146" MonetaryAmount="0.00" Identification="171148" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="127" Description="DIAPHRAGM PUMP AIR-OPERATED, WILDEN P-1 PLASTIC BODY" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="147" MonetaryAmount="0.00" Identification="591611" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>For potable water</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="128" Description="DISC PAPER ABRASIVE 100MM, GRIT #120" MeasureUnitQualifier="PCS" Quantity="80" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="148" MonetaryAmount="0.00" Identification="614621" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="129" Description="GREASE GUN W/BENT FLEX. PIPE, FOR AIR GREASE PUMP" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="149" MonetaryAmount="0.00" Identification="2126275" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER KOREA GREASE GUN WITH SWIVEL JOINT</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="130" Description="PLIER SIDE-CUTTING W/PLASTIC, GRIP BAHCO #2628G-160 167MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="150" MonetaryAmount="0.00" Identification="616213" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="131" Description="PLIER VISE-GRIP COMBINATION, 125MM" MeasureUnitQualifier="PRS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="151" MonetaryAmount="0.00" Identification="611641" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**  ALCONA" BRAND **</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="132" Description="RIVET BLIND OPENTYPE ALUM-BODY, STEEL-MANDREL 2.4X5.7MM 100'S" MeasureUnitQualifier="PKT" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="152" MonetaryAmount="0.00" Identification="615236" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>LOCAL BRAND</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="133" Description="RIVET BLIND OPENTYPE ALUM-BODY, STEEL-MANDREL 3.2X4.4MM 60'S" MeasureUnitQualifier="PKT" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="153" MonetaryAmount="0.00" Identification="615237" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="134" Description="SHOVEL SQUARE NON-SPARK FIBREGLASS 290X1040MM" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="154" MonetaryAmount="0.00" Identification="615961" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>Anti-pollution equipment</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="135" Description="TOOL RIVETER HAND PLIER-TYPE, FOR RIVET DIA 2.4-4.8MM" MeasureUnitQualifier="PRS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="155" MonetaryAmount="0.00" Identification="2093045" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**AMMECH</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="136" Description="BARBELL BAR" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="156" MonetaryAmount="0.00" Identification="2583330" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="137" Description="BARBELL DISCS" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="157" MonetaryAmount="0.00" Identification="2583328" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="138" Description="BARBELL SET" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="158" MonetaryAmount="0.00" Identification="110120" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER LOCAL TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="139" Description="BATHROOM SCALES 0-130KG (DIGITAL)" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="159" MonetaryAmount="0.00" Identification="110176" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER : LOCAL DIGITAL TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="140" Description="DUMBBELL SET" MeasureUnitQualifier="SET" Quantity="2" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="160" MonetaryAmount="0.00" Identification="110122" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER LOCAL TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="141" Description="SPINE PRESS BENCH" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="161" MonetaryAmount="0.00" Identification="110124" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>**OFFER LOCAL TYPE**</value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="1" Description="Packing cost" MeasureUnitQualifier="Packing cost" Quantity="0" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="166" MonetaryAmount="0.00" Identification="Packing cost" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+      <LineItem Number="2" Description="Freight charge" MeasureUnitQualifier="Freight charge" Quantity="0" TypeCode="BP" OriginatingSystemRef="" SystemItemNo="167" MonetaryAmount="0.00" Identification="Freight charge" DeliveryTime="0" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="BJD1911081225323LET" Identifier="UNOC" Recipient="SM0013_XLS" Sender="V10205" PreparationDate="2019-Nov-08" PreparationTime="16:12" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="9" LesRecordID="861345" LesLinkID="9200149" ParentRecordID="861039" MTML_DOCID="EF1F13D0-297C-48AB-A7EC-73C7F7874803">
+    <Quote MessageReferenceNumber="9200149_RFQ_KGLS_O0182_RF19_08112019121043613.xlsm" MessageNumber="9200149_RFQ_KGLS_O0182_RF19_08112019121043613.xlsm" LineItemCount="1" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" LeadTimeDays="3" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="551.84" BuyerQuoteTotal="551.84">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911081612" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201911110000" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201912080000" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Date promised : 2019-11-11
+Quote validity : 2019-12-08</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="KGLS/O0182/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="BJD1911081225323LET" />
+      <Party Qualifier="UD" Name="Kokuka Glorious">
+        <PartyLocation Qualifier="TBA" Port="QINGDAO" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Identification="SM0013_XLS" Name="Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V10205" Name="RMS MARINE SERVICE COMPANY LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="mt@rmsmarineservice.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="EXPLOSION PROOF METAL HALIDE SPOT LIGTH AC220V CFT1/400W/IP56/ExdII BT3 | Ref.No.:21 | Ref.No.:21" MeasureUnitQualifier="SET" Quantity="2" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="551.84" Identification="21" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="275.92" BuyerItemTotal="551.84" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="275.92" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="275.92" />
+        <Comments Qualifier="LIN">
+          <value>CFT1-400W</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="551.840" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="551.840" />
+      <MonetaryAmount Qualifier="_90" Value="551.840" />
+      <MonetaryAmount Qualifier="_91" Value="551.840" />
+    </Quote>
+  </Interchange>
+</MTML>

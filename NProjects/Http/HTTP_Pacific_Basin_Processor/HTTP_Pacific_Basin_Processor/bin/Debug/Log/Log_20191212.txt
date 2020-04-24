@@ -1,0 +1,130 @@
+12/12/2019 11:05:03 AM ================12/12/2019 11:05:03 AM================
+12/12/2019 11:05:03 AM DNVGL HTTP Processor started
+12/12/2019 11:05:06 AM 
+12/12/2019 11:05:06 AM Supplier: V10107
+12/12/2019 11:05:06 AM Process started for SM0372_WEB
+12/12/2019 11:05:06 AM No RFQ files found.
+12/12/2019 11:05:06 AM RFQ processing stopped.
+12/12/2019 11:05:06 AM 
+12/12/2019 11:05:06 AM Quote processing started.
+12/12/2019 11:05:06 AM 1 files found to process.
+12/12/2019 11:05:10 AM Started Loading interchange object.
+12/12/2019 11:05:10 AM stopped Loading interchange object.
+12/12/2019 11:05:40 AM Unable to set validity offer for XPRKL-2019-ST0010-O(01)
+12/12/2019 11:06:39 AM Unable to upload Quote for Ref : 'XPRKL-2019-ST0010-O(01)' due to Total Amount '1672.925' mismatch with item total '1973.19
+12/12/2019 11:06:41 AM LeS-1008.1:Unable to Save Quote due to amount mismatch for XPRKL-2019-ST0010-O(01)
+12/12/2019 11:06:45 AM ================12/12/2019 11:06:45 AM================
+12/12/2019 11:06:45 AM DNVGL HTTP Processor started
+12/12/2019 11:06:46 AM 
+12/12/2019 11:06:46 AM Supplier: V10107
+12/12/2019 11:06:46 AM Process started for SM0372_WEB
+12/12/2019 11:06:46 AM No RFQ files found.
+12/12/2019 11:06:46 AM RFQ processing stopped.
+12/12/2019 11:06:46 AM No quote files found to process.
+12/12/2019 11:06:46 AM 
+12/12/2019 11:06:46 AM Purchase Order processing started.
+12/12/2019 11:06:46 AM No PO files found.
+12/12/2019 11:06:46 AM Purchase Order processing stopped.
+12/12/2019 11:06:46 AM 
+12/12/2019 11:06:46 AM Supplier: V10107
+12/12/2019 11:06:46 AM Process started for SM0695_WEB
+12/12/2019 11:06:46 AM No RFQ files found.
+12/12/2019 11:06:46 AM RFQ processing stopped.
+12/12/2019 11:06:46 AM No quote files found to process.
+12/12/2019 11:06:46 AM 
+12/12/2019 11:06:46 AM Supplier: V10001
+12/12/2019 11:06:46 AM Process started for SM0668_WEB
+12/12/2019 11:06:46 AM No RFQ files found.
+12/12/2019 11:06:46 AM RFQ processing stopped.
+12/12/2019 11:06:46 AM 
+12/12/2019 11:06:46 AM Purchase Order processing started.
+12/12/2019 11:06:46 AM No PO files found.
+12/12/2019 11:06:46 AM Purchase Order processing stopped.
+12/12/2019 11:06:46 AM No quote files found to process.
+12/12/2019 11:06:46 AM 
+12/12/2019 11:06:46 AM POC processing started.
+12/12/2019 11:06:46 AM No POC files found.
+12/12/2019 11:06:46 AM POC processing stopped.
+12/12/2019 11:06:46 AM 
+12/12/2019 11:06:46 AM Supplier: V10001
+12/12/2019 11:06:46 AM Process started for SM0711_WEB
+12/12/2019 11:06:46 AM No RFQ files found.
+12/12/2019 11:06:46 AM RFQ processing stopped.
+12/12/2019 11:06:46 AM 
+12/12/2019 11:06:46 AM Purchase Order processing started.
+12/12/2019 11:06:46 AM No PO files found.
+12/12/2019 11:06:46 AM Purchase Order processing stopped.
+12/12/2019 11:06:46 AM No quote files found to process.
+12/12/2019 11:06:46 AM 
+12/12/2019 11:06:46 AM POC processing started.
+12/12/2019 11:06:46 AM No POC files found.
+12/12/2019 11:06:46 AM POC processing stopped.
+12/12/2019 11:06:46 AM DNVGL HTTP Processor stopped
+12/12/2019 11:06:46 AM ====================================================
+12/12/2019 11:09:57 AM ================12/12/2019 11:09:57 AM================
+12/12/2019 11:09:57 AM DNVGL HTTP Processor started
+12/12/2019 11:09:58 AM 
+12/12/2019 11:09:58 AM Supplier: V10107
+12/12/2019 11:09:58 AM Process started for SM0372_WEB
+12/12/2019 11:09:58 AM No RFQ files found.
+12/12/2019 11:09:58 AM RFQ processing stopped.
+12/12/2019 11:09:58 AM 
+12/12/2019 11:09:58 AM Quote processing started.
+12/12/2019 11:09:58 AM 1 files found to process.
+12/12/2019 11:10:02 AM Started Loading interchange object.
+12/12/2019 11:10:02 AM stopped Loading interchange object.
+12/12/2019 11:10:16 AM Unable to set validity offer for XPRKL-2019-ST0010-O(01)
+12/12/2019 11:10:17 AM LeS-1007:Unable to Save file for Quote-Validity Offer  Field(s) not present.
+12/12/2019 11:10:17 AM 
+12/12/2019 11:10:17 AM Purchase Order processing started.
+12/12/2019 11:10:17 AM No PO files found.
+12/12/2019 11:10:17 AM Purchase Order processing stopped.
+12/12/2019 11:10:18 AM 
+12/12/2019 11:10:18 AM Supplier: V10107
+12/12/2019 11:10:18 AM Process started for SM0695_WEB
+12/12/2019 11:10:18 AM No RFQ files found.
+12/12/2019 11:10:18 AM RFQ processing stopped.
+12/12/2019 11:10:18 AM No quote files found to process.
+12/12/2019 11:10:18 AM 
+12/12/2019 11:10:18 AM Supplier: V10001
+12/12/2019 11:10:18 AM Process started for SM0668_WEB
+12/12/2019 11:10:18 AM No RFQ files found.
+12/12/2019 11:10:18 AM RFQ processing stopped.
+12/12/2019 11:10:18 AM 
+12/12/2019 11:10:18 AM Purchase Order processing started.
+12/12/2019 11:10:18 AM No PO files found.
+12/12/2019 11:10:18 AM Purchase Order processing stopped.
+12/12/2019 11:10:18 AM No quote files found to process.
+12/12/2019 11:10:18 AM 
+12/12/2019 11:10:18 AM POC processing started.
+12/12/2019 11:10:18 AM No POC files found.
+12/12/2019 11:10:18 AM POC processing stopped.
+12/12/2019 11:10:18 AM 
+12/12/2019 11:10:18 AM Supplier: V10001
+12/12/2019 11:10:18 AM Process started for SM0711_WEB
+12/12/2019 11:10:18 AM No RFQ files found.
+12/12/2019 11:10:18 AM RFQ processing stopped.
+12/12/2019 11:10:18 AM 
+12/12/2019 11:10:18 AM Purchase Order processing started.
+12/12/2019 11:10:18 AM No PO files found.
+12/12/2019 11:10:18 AM Purchase Order processing stopped.
+12/12/2019 11:10:18 AM No quote files found to process.
+12/12/2019 11:10:18 AM 
+12/12/2019 11:10:18 AM POC processing started.
+12/12/2019 11:10:18 AM No POC files found.
+12/12/2019 11:10:18 AM POC processing stopped.
+12/12/2019 11:10:18 AM DNVGL HTTP Processor stopped
+12/12/2019 11:10:18 AM ====================================================
+12/12/2019 11:11:14 AM ================12/12/2019 11:11:14 AM================
+12/12/2019 11:11:14 AM DNVGL HTTP Processor started
+12/12/2019 11:11:15 AM 
+12/12/2019 11:11:15 AM Supplier: V10107
+12/12/2019 11:11:15 AM Process started for SM0372_WEB
+12/12/2019 11:11:15 AM No RFQ files found.
+12/12/2019 11:11:15 AM RFQ processing stopped.
+12/12/2019 11:11:15 AM 
+12/12/2019 11:11:15 AM Quote processing started.
+12/12/2019 11:11:15 AM 1 files found to process.
+12/12/2019 11:11:15 AM Started Loading interchange object.
+12/12/2019 11:11:15 AM stopped Loading interchange object.
+12/12/2019 11:11:50 AM Unable to set validity offer for XPRKL-2019-ST0010-O(01)

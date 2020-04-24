@@ -1,0 +1,162 @@
+/*
+ThinkTextBox가 ReadOnly = true일 경우
+*/
+
+.ThinkTextBoxReadOnly {
+    font-family: "맑은� 딕", "tahoma";
+    margin: 0;
+    padding: 0 1px 0 0;
+    height: 20px /*16px;*/;
+    /*font-size: 12px;*/
+    line-height: 14px;
+    background-color: #E5EBF2; /*#E5EBF2;*/
+    border: 1px solid #AAAAAA;
+    color: #000000; /*#808080;*/
+	width:90%;
+}
+
+
+/*
+ThinkTextBox가 ReadOnly = false일 경우
+*/
+
+.ThinkTextBox {
+    font-family: "맑은� 딕", "tahoma";
+    margin: 0;
+    padding: 0 1px 0 0;
+    height: 20px /*16px;*/;
+    /*font-size: 12px;*/
+    line-height: 14px;
+    background-color: #FFFFFF;
+    border: 1px solid #5C6922;
+    color: #000000;
+    width: 90%;
+}
+
+.ThinkTextBoxKor {
+    font-family: "맑은� 딕", "tahoma";
+    margin: 0;
+    padding: 0 1px 0 0;
+    height: 20px /*16px;*/;
+    /*font-size: 12px;*/
+    line-height: 14px;
+    background-color: #FFFFFF;
+    border: 1px solid #AAAAAA;
+    color: #000000;
+    ime-mode: active;
+}
+
+.ThinkTextBoxEng {
+    font-family: "맑은� 딕", "tahoma";
+    margin: 0;
+    padding: 0 1px 0 0;
+    height: 20px /*16px;*/;
+    /*font-size: 12px;*/
+    line-height: 14px;
+    background-color: #FFFFFF;
+    border: 1px solid #AAAAAA;
+    color: #000000;
+    ime-mode: inactive;
+}
+
+
+/*
+ThinkDropDownList가 Enabled = true일 경우
+*/
+
+.ThinkDropDownList {
+    font-family: "맑은� 딕", "tahoma";
+    margin: 0;
+    padding: 0;
+    height: 20px /*16px;*/;
+    font-size: 12px;
+    background-color: #FFFFFF;
+}
+
+
+/*
+ThinkDropDownList가 Enabled = false일 경우
+*/
+
+.ThinkDropDownListEnabled {
+    font-family: "맑은� 딕", "tahoma";
+    margin: 0;
+    padding: 0;
+    /*font-size: 12px;*/
+    background-color: #E5EBF2; /*#E5EBF2;*/
+}
+
+
+/* 페이징 */
+
+.pageBox {
+    margin-top: 3px;
+    padding: 3px;
+    width: 100%;
+    border-collapse: separate;
+}
+
+.pageLink {
+    font-weight: bold;
+    color: black !important;
+}
+
+.page {
+    border: 1px solid transparent;
+}
+
+.pageBox .pageActive {
+    cursor: pointer;
+    color: black;
+}
+
+.pageBox .pageNotActive {
+    cursor: not-allowed;
+    color: #BBBBBB;
+}
+
+.pageBox td > span {
+    padding: 0px 8px 3px 8px;
+    margin-right: 3px;
+    /*font-size: 13px;*/
+    text-decoration: none;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.pageToFirst, .pageToPrevious, .pageToNext, .pageToLast {
+}
+
+.pageActive:hover {
+    border: 1px solid #BBBBBB;
+}
+
+.pageLink {
+    border: 1px solid #BBBBBB;
+}
+
+.imgbtn-hidden {
+    display: none;
+}
+
+
+.ThinkFileToListBox {
+    width: 100%;
+}
+
+.ThinkFileToListBox .ThinkFileToListBox_Buttons {
+    height: 30px;
+}
+
+
+.CemsGrid_Main_List {
+    width: 100% !important;
+    overflow-x: auto !important;
+}
+
+/*
+ThinkStateBar 기본
+*/
+.ThinkStateBar {
+    border-width:0px !important;
+}

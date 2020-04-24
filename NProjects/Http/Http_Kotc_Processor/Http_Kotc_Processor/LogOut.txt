@@ -1,0 +1,95 @@
+private bool Request_erp_kotc_com_kw(out HttpWebResponse response)
+{
+	response = null;
+
+	try
+	{
+		HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://erp.kotc.com.kw/OA_HTML/OALogout.jsp?menu=Y");
+
+		request.Accept = "text/html, application/xhtml+xml, */*";
+		request.Referer = "https://erp.kotc.com.kw/OA_HTML/OA.jsp?OAFunc=OAHOMEPAGE";
+		request.Headers.Set(HttpRequestHeader.AcceptLanguage, "en-US");
+		request.UserAgent = "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko";
+		request.Headers.Set(HttpRequestHeader.AcceptEncoding, "gzip, deflate");
+		request.Headers.Add("DNT", @"1");
+		request.Headers.Set(HttpRequestHeader.Cookie, @"JSESSIONID=39d0e81a115137202ab26d4d817362a479b9076bbb1fb0296808c2be1c38073c.e3aSbN8Nb3aLe3iLbx8Nbh8Lci0; TS01c15d28=01202cce82821ff03fb352ad2c161587e29f8cb690d332bbebdcc78c873ea90d71be30ac344299ffe1bbdac42efdb3129dae539f34aa436fc142f604525d071e45d47aec3c; PROD=7myeZLNyJB65uAQBnAik6iVoGo; BIGipServer~DMZ_w_ASM_2018~ext_erp.app~ext_erp_pool=rd7o00000000000000000000ffff0a70151ao8443; TS0163343d=01202cce827924546e91ad482f6f7ac109bec3c1ebd332bbebdcc78c873ea90d71be30ac34c366b7ef5a507b9fc9e79c9df89b98684e5a8d3523bae21b598a0ee9f449f0f12e7e437fdbc868eb4b129d6776979436; oracle.uix=0^^GMT+5:30^p");
+
+		response = (HttpWebResponse)request.GetResponse();
+	}
+	catch (WebException e)
+	{
+		if (e.Status == WebExceptionStatus.ProtocolError) response = (HttpWebResponse)e.Response;
+		else return false;
+	}
+	catch (Exception)
+	{
+		if(response != null) response.Close();
+		return false;
+	}
+
+	return true;
+}
+
+private bool Request_erp_kotc_com_kw(out HttpWebResponse response)
+{
+	response = null;
+
+	try
+	{
+		HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://erp.kotc.com.kw/OA_HTML/AppsLogout");
+
+		request.Accept = "text/html, application/xhtml+xml, */*";
+		request.Referer = "https://erp.kotc.com.kw/OA_HTML/OA.jsp?OAFunc=OAHOMEPAGE";
+		request.Headers.Set(HttpRequestHeader.AcceptLanguage, "en-US");
+		request.UserAgent = "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko";
+		request.Headers.Set(HttpRequestHeader.AcceptEncoding, "gzip, deflate");
+		request.Headers.Set(HttpRequestHeader.Cookie, @"TS01c15d28=01202cce82c8da5135009a1f3b59b91808cc78aa9fd332bbebdcc78c873ea90d71be30ac344299ffe1bbdac42efdb3129dae539f3414f9cd20d1753e89c68dc3af13521470; PROD=7myeZLNyJB65uAQBnAik6iVoGo; BIGipServer~DMZ_w_ASM_2018~ext_erp.app~ext_erp_pool=rd7o00000000000000000000ffff0a70151ao8443; TS0163343d=01202cce829a5926ad263e44c76515a9ebb6bf3f984b202cdf01532c159713e85f31f143b901d1b4f8cfdedd0ef1647d912f364907ef85d68734c9f0555061415ce4c956f27d9bd1730aa6fc12d111c1394583131d; oracle.uix=0^^GMT+5:30^p");
+		request.Headers.Add("DNT", @"1");
+
+		response = (HttpWebResponse)request.GetResponse();
+	}
+	catch (WebException e)
+	{
+		if (e.Status == WebExceptionStatus.ProtocolError) response = (HttpWebResponse)e.Response;
+		else return false;
+	}
+	catch (Exception)
+	{
+		if(response != null) response.Close();
+		return false;
+	}
+
+	return true;
+}
+
+private bool Request_erp_kotc_com_kw(out HttpWebResponse response)
+{
+	response = null;
+
+	try
+	{
+		HttpWebRequest request = (HttpWebRequest)WebRequest.Create("https://erp.kotc.com.kw/OA_HTML/AppsLocalLogin.jsp?langCode=US&_logoutRedirect=y");
+
+		request.Accept = "text/html, application/xhtml+xml, */*";
+		request.Referer = "https://erp.kotc.com.kw/OA_HTML/OA.jsp?OAFunc=OAHOMEPAGE";
+		request.Headers.Set(HttpRequestHeader.AcceptLanguage, "en-US");
+		request.UserAgent = "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko";
+		request.Headers.Set(HttpRequestHeader.AcceptEncoding, "gzip, deflate");
+		request.Headers.Add("DNT", @"1");
+		request.Headers.Set(HttpRequestHeader.Cookie, @"TS01c15d28=01202cce82c8da5135009a1f3b59b91808cc78aa9fd332bbebdcc78c873ea90d71be30ac344299ffe1bbdac42efdb3129dae539f3414f9cd20d1753e89c68dc3af13521470; PROD=-1; BIGipServer~DMZ_w_ASM_2018~ext_erp.app~ext_erp_pool=rd7o00000000000000000000ffff0a70151ao8443; TS0163343d=01202cce826e15aedb2922d8fb49d944abab55e8ef4b202cdf01532c159713e85f31f143b901d1b4f8cfdedd0ef1647d912f364907dade7515096bd8fe78012a3f644cd56669cfdee0b01ee182f61627af6faa6038; oracle.uix=0^^GMT+5:30^p");
+
+		response = (HttpWebResponse)request.GetResponse();
+	}
+	catch (WebException e)
+	{
+		if (e.Status == WebExceptionStatus.ProtocolError) response = (HttpWebResponse)e.Response;
+		else return false;
+	}
+	catch (Exception)
+	{
+		if(response != null) response.Close();
+		return false;
+	}
+
+	return true;
+}

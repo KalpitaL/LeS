@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="T-SQ-191101092" Identifier="UNOC" Recipient="BESC09_AMOSEPB" Sender="V00128" PreparationDate="2019-Nov-06" PreparationTime="09:43" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="91000004" LesRecordID="91375858" LesLinkID="91000014" ParentRecordID="91375828" MTML_DOCID="39CB5D4C-BC35-482E-B7A8-2828E9BF8F55">
+    <Quote MessageReferenceNumber="91000014_RFQ_FST_O0135_RF19_06112019075420488.xlsm" MessageNumber="91000014_RFQ_FST_O0135_RF19_06112019075420488.xlsm" LineItemCount="2" VersionNumber="1" CurrencyCode="SGD" FunctionCode="_9" OriginatingSystemRef="91375828" LeadTimeDays="0" BuyerRefNo="FST/O0135/RF19" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" SupplierORGRef="500091375828" BuyerItemTotal="625.6" BuyerQuoteTotal="625.6">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911060943" />
+      <Comments Qualifier="SUR">
+        <value>TUBULAR NAVIGATION LAMP
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="FST/O0135/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="T-SQ-191101092" />
+      <Party Qualifier="BY" Identification="BESC09_AMOSEPB" Name="BERNHARD SCHULTE SHIPMANAGEMENT (SINGAPORE) PTE. LTD." City="SINGAPORE">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V00128" Name="AMOS INTERNATIONAL (S) PTE LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="sales.ms.sg@amosgroup.com,Pur_tech@amos-sg.com,pur_f&amp;b@amos-sg.com" />
+        </Contact>
+        <StreetAddress>156 GUL CIRCLE</StreetAddress>
+        <StreetAddress>SINGAPORE 619901</StreetAddress>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="FASTRON">
+        <PartyLocation Qualifier="TBA" Port="SINGAPORE" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="LAMP NAVIGATION E26 220V/60 W" MeasureUnitQualifier="PCS" Quantity="200" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="544.00" Identification="790424" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="200" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.72" BuyerItemTotal="544" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.72" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="2" Description="TUBULAR NAVIGATION LAMP DIAM 38 LENGTH" MeasureUnitQualifier="PCS" Quantity="30" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="81.60" Identification="790434" IsExtraItem="0" MarkedRemarks="OFFER LAMP NAVIGATION TUBULAR P-28S 220V 65W" ItemStatus="Original" Byr_Qty="30" Supp_Qty="30" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.72" BuyerItemTotal="81.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.72" />
+        <Comments Qualifier="LIN">
+          <value>OFFER LAMP NAVIGATION TUBULAR P-28S 220V 65W</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="625.600" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="625.600" />
+      <MonetaryAmount Qualifier="_90" Value="625.600" />
+      <MonetaryAmount Qualifier="_91" Value="625.600" />
+    </Quote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,184 @@
+05/08/2019 10:36:23 ================05/08/2019 10:36:23================
+05/08/2019 10:36:23 MTM RFQ Download HTTP processor started
+05/08/2019 10:42:33 ================05/08/2019 10:42:33================
+05/08/2019 10:42:33 MTM RFQ Download HTTP processor started
+05/08/2019 10:45:20 ================05/08/2019 10:45:20================
+05/08/2019 10:45:20 MTM RFQ Download HTTP processor started
+05/08/2019 10:53:14 ================05/08/2019 10:53:14================
+05/08/2019 10:53:14 MTM RFQ Download HTTP processor started
+05/08/2019 10:55:17 ================05/08/2019 10:55:17================
+05/08/2019 10:55:17 MTM RFQ Download HTTP processor started
+05/08/2019 10:58:18 ================05/08/2019 10:58:18================
+05/08/2019 10:58:18 MTM RFQ Download HTTP processor started
+05/08/2019 10:58:58 RFQ 'TMU-8156-A1' downloaded successfully.
+05/08/2019 10:58:58 File 5000264_190805_094943289.txt moved to backup folder.
+05/08/2019 10:59:38 RFQ 'MSJ-6477-C1' downloaded successfully.
+05/08/2019 10:59:38 File 4001020_190805_104213467.txt moved to backup folder.
+05/08/2019 11:00:17 RFQ 'MTH-8240-A1' downloaded successfully.
+05/08/2019 11:00:17 File 4001020_190805_093213891.txt moved to backup folder.
+05/08/2019 11:00:33 RFQ 'ALC-7837-A1' downloaded successfully.
+05/08/2019 11:00:33 File 190805_105641154.txt moved to backup folder.
+05/08/2019 11:00:33 MTM RFQ Download HTTP processor stopped
+05/08/2019 11:00:33 ====================================================
+05/08/2019 11:09:04 ================05/08/2019 11:09:04================
+05/08/2019 11:09:04 MTM RFQ Download HTTP processor started
+05/08/2019 11:09:49 RFQ 'MGB-8384-A1' downloaded successfully.
+05/08/2019 11:09:49 File 4001020_190805_094213639.txt moved to backup folder.
+05/08/2019 11:12:16 ================05/08/2019 11:12:16================
+05/08/2019 11:12:16 MTM RFQ Download HTTP processor started
+05/08/2019 11:12:32 RFQ 'MTH-8240-A1' downloaded successfully.
+05/08/2019 11:12:32 File 4001020_190805_093213891.txt moved to backup folder.
+05/08/2019 11:32:51 ================05/08/2019 11:32:51================
+05/08/2019 11:32:51 MTM RFQ Download HTTP processor started
+05/08/2019 11:32:58 RFQ 'TMU-8156-A1' downloaded successfully.
+05/08/2019 11:32:58 File 5000264_190805_094943289.txt moved to backup folder.
+05/08/2019 11:32:58 RFQ 'MSJ-6477-C1' downloaded successfully.
+05/08/2019 11:32:58 File 4001020_190805_104213467.txt moved to backup folder.
+05/08/2019 11:32:59 RFQ 'MGB-8384-A1' downloaded successfully.
+05/08/2019 11:32:59 File 4001020_190805_094213639.txt moved to backup folder.
+05/08/2019 11:33:00 Unable to process file 4001020_190703_173213519.txt; Error - Invalid Link!
+05/08/2019 11:33:00 File 4001020_190703_173213519.txt moved to error files.
+05/08/2019 11:33:01 RFQ 'ALC-7837-A1' downloaded successfully.
+05/08/2019 11:33:01 File 190805_105641154.txt moved to backup folder.
+05/08/2019 11:33:02 Unable to process file 190805_093843639.txt; Error - Invalid Link!
+05/08/2019 11:33:02 File 190805_093843639.txt moved to error files.
+05/08/2019 11:33:02 MTM RFQ Download HTTP processor stopped
+05/08/2019 11:33:02 ====================================================
+05/08/2019 14:12:13 ================05/08/2019 14:12:13================
+05/08/2019 14:12:13 MTM RFQ Download HTTP processor started
+05/08/2019 14:12:20 RFQ 'SSV-6332-A1' downloaded successfully.
+05/08/2019 14:12:20 File 4001020_190805_120217435.txt moved to backup folder.
+05/08/2019 14:12:21 Unable to process file 190805_142041279.txt; Error - Invalid Link!
+05/08/2019 14:12:21 File 190805_142041279.txt moved to error files.
+05/08/2019 14:12:22 RFQ 'SPL-6385-A1' downloaded successfully.
+05/08/2019 14:12:22 File 190805_134448920.txt moved to backup folder.
+05/08/2019 14:12:22 MTM RFQ Download HTTP processor stopped
+05/08/2019 14:12:22 ====================================================
+05/08/2019 14:49:22 ================05/08/2019 14:49:22================
+05/08/2019 14:49:22 MTM RFQ Download HTTP processor started
+05/08/2019 14:49:25 MTM Domain not found in 190805_150251217.txt
+05/08/2019 14:49:33 File 190805_150251217_4001051_06014_MSJ-E-19-6325-A1.pdf moved to backup files.
+05/08/2019 14:49:33 File 190805_150251217.txt moved to backup files.
+05/08/2019 14:49:33 File '190805_150251217_4001051_06014_MSJ-E-19-6325-A1.pdf' processed successfully.
+05/08/2019 14:49:33 File '190805_150251217.txt' processed successfully.
+05/08/2019 14:49:34 MTM Domain not found in 190805_163255810.txt
+05/08/2019 14:49:39 File 190805_163255810_4001051_19482_5162177.pdf moved to backup files.
+05/08/2019 14:49:39 File 190805_163255810.txt moved to backup files.
+05/08/2019 14:49:39 File '190805_163255810_4001051_19482_5162177.pdf' processed successfully.
+05/08/2019 14:49:39 File '190805_163255810.txt' processed successfully.
+05/08/2019 14:49:48 MTM Domain not found in 4001020_190805_121218232.txt
+05/08/2019 14:49:51 No PDF file found for file 4001020_190805_121218232.txt
+05/08/2019 14:49:51 Unable to process file - Link not found in file 4001020_190805_121218232.txt
+05/08/2019 14:49:51 File 4001020_190805_121218232.txt moved to error files.
+05/08/2019 14:49:53 RFQ 'MTF-8624-B1' downloaded successfully.
+05/08/2019 14:49:53 File 4001020_190805_161215748.txt moved to backup folder.
+05/08/2019 14:49:54 RFQ 'MTO-8699-A1' downloaded successfully.
+05/08/2019 14:49:54 File 4001020_190805_143213342.txt moved to backup folder.
+05/08/2019 14:49:55 RFQ 'AKR-6663-B1' downloaded successfully.
+05/08/2019 14:49:55 File 4001020_190805_142219795.txt moved to backup folder.
+05/08/2019 14:49:56 RFQ 'AKR-6664-B1' downloaded successfully.
+05/08/2019 14:49:56 File 4001020_190805_142218060.txt moved to backup folder.
+05/08/2019 14:49:56 RFQ 'AKR-6666-B1' downloaded successfully.
+05/08/2019 14:49:56 File 4001020_190805_142216310.txt moved to backup folder.
+05/08/2019 14:49:56 RFQ 'MNY-6136-A1' downloaded successfully.
+05/08/2019 14:49:56 File 4001020_190805_141230998.txt moved to backup folder.
+05/08/2019 14:49:57 RFQ 'MNY-6136-A1' downloaded successfully.
+05/08/2019 14:49:57 File 4001020_190805_141229232.txt moved to backup folder.
+05/08/2019 14:49:57 RFQ 'MNY-6135-A1' downloaded successfully.
+05/08/2019 14:49:57 File 4001020_190805_141227498.txt moved to backup folder.
+05/08/2019 14:49:58 RFQ 'MNY-6134-A1' downloaded successfully.
+05/08/2019 14:49:58 File 4001020_190805_141224295.txt moved to backup folder.
+05/08/2019 14:49:58 RFQ 'MNY-6132-A1' downloaded successfully.
+05/08/2019 14:49:58 File 4001020_190805_141213467.txt moved to backup folder.
+05/08/2019 14:49:59 RFQ 'MNY-6131-A1' downloaded successfully.
+05/08/2019 14:49:59 File 4001020_190805_140216373.txt moved to backup folder.
+05/08/2019 14:49:59 RFQ 'MNY-6137-A1' downloaded successfully.
+05/08/2019 14:49:59 File 4001020_190805_140213357.txt moved to backup folder.
+05/08/2019 14:49:59 RFQ 'SSV-6329-A1' downloaded successfully.
+05/08/2019 14:50:00 File 4001020_190805_120227576.txt moved to backup folder.
+05/08/2019 14:50:00 RFQ 'SSV-6331-A1' downloaded successfully.
+05/08/2019 14:50:00 File 4001020_190805_120225810.txt moved to backup folder.
+05/08/2019 14:50:00 RFQ 'SSV-6332-A1' downloaded successfully.
+05/08/2019 14:50:00 File 4001020_190805_120223951.txt moved to backup folder.
+05/08/2019 14:50:01 RFQ 'SSV-6332-A1' downloaded successfully.
+05/08/2019 14:50:01 File 4001020_190805_120217435.txt moved to backup folder.
+05/08/2019 14:50:03 Unable to process file 190805_170841998.txt; Error - Invalid Link!
+05/08/2019 14:50:03 File 190805_170841998.txt moved to error files.
+05/08/2019 14:50:03 Unable to process file 190805_155650779.txt; Error - Invalid Link!
+05/08/2019 14:50:03 File 190805_155650779.txt moved to error files.
+05/08/2019 14:50:03 MTM RFQ Download HTTP processor stopped
+05/08/2019 14:50:03 ====================================================
+05/08/2019 15:31:04 ================05/08/2019 15:31:04================
+05/08/2019 15:31:04 MTM RFQ Download HTTP processor started
+05/08/2019 15:31:08 No RFQ Found !
+05/08/2019 15:31:12 Started Loading interchange object.
+05/08/2019 15:31:12 stopped Loading interchange object.
+05/08/2019 15:31:44 Requested Bid [MSJ-6486-A1] is not available for quotation.
+05/08/2019 15:31:44 File MTML_QUOTE_MSJ-6486-A1_SM0133_V10001_05081913341432.xml moved to error files.
+05/08/2019 15:31:49 Started Loading interchange object.
+05/08/2019 15:31:49 stopped Loading interchange object.
+05/08/2019 15:31:51 Processing quote started for ref no: MTF-8624-B1
+05/08/2019 15:31:53 Currency saved.
+05/08/2019 15:31:54 Item Details saved.
+05/08/2019 15:31:56 Header details saved.
+05/08/2019 15:31:57 Error while setting other header details: Mismatch total of mtml 33640 with site total 35200.00
+05/08/2019 15:31:58 Mismatch total of mtml 33640 with site total 35200.00
+05/08/2019 15:31:58 File MTML_QUOTE_MTF-8624-B1_SM0133_V00026_05081916394116.xml moved to error files.
+05/08/2019 15:31:58 Started Loading interchange object.
+05/08/2019 15:31:58 stopped Loading interchange object.
+05/08/2019 15:32:21 Processing quote started for ref no: MTH-8241-A1
+05/08/2019 15:58:19 ================05/08/2019 15:58:19================
+05/08/2019 15:58:19 MTM RFQ Download HTTP processor started
+05/08/2019 15:58:22 No RFQ Found !
+05/08/2019 15:58:25 Started Loading interchange object.
+05/08/2019 15:58:25 stopped Loading interchange object.
+05/08/2019 15:58:41 Processing quote started for ref no: MTF-8624-B1
+05/08/2019 15:59:24 ================05/08/2019 15:59:24================
+05/08/2019 15:59:24 MTM RFQ Download HTTP processor started
+05/08/2019 15:59:27 No RFQ Found !
+05/08/2019 15:59:28 Started Loading interchange object.
+05/08/2019 15:59:28 stopped Loading interchange object.
+05/08/2019 15:59:37 Processing quote started for ref no: MTF-8624-B1
+05/08/2019 16:00:34 Currency saved.
+05/08/2019 16:03:14 ================05/08/2019 16:03:14================
+05/08/2019 16:03:14 MTM RFQ Download HTTP processor started
+05/08/2019 16:03:35 No RFQ Found !
+05/08/2019 16:03:36 Started Loading interchange object.
+05/08/2019 16:03:36 stopped Loading interchange object.
+05/08/2019 16:04:30 Processing quote started for ref no: MTF-8624-B1
+05/08/2019 16:04:38 Currency saved.
+05/08/2019 16:05:32 Item Details saved.
+05/08/2019 16:06:18 Header details saved.
+05/08/2019 16:09:26 ================05/08/2019 16:09:26================
+05/08/2019 16:09:26 MTM RFQ Download HTTP processor started
+05/08/2019 16:09:28 No RFQ Found !
+05/08/2019 16:09:30 Started Loading interchange object.
+05/08/2019 16:09:30 stopped Loading interchange object.
+05/08/2019 16:09:35 Processing quote started for ref no: MTH-8241-A1
+05/08/2019 16:09:37 Currency saved.
+05/08/2019 16:10:59 Item Details saved.
+05/08/2019 16:11:17 Header details saved.
+05/08/2019 16:14:34 ================05/08/2019 16:14:34================
+05/08/2019 16:14:34 MTM RFQ Download HTTP processor started
+05/08/2019 16:14:38 No RFQ Found !
+05/08/2019 16:14:39 Started Loading interchange object.
+05/08/2019 16:14:39 stopped Loading interchange object.
+05/08/2019 16:14:43 Processing quote started for ref no: MTO-8690-A1
+05/08/2019 16:14:46 Currency saved.
+05/08/2019 16:14:48 Item Details saved.
+05/08/2019 16:14:51 Header details saved.
+05/08/2019 17:08:03 ================05/08/2019 17:08:03================
+05/08/2019 17:08:03 MTM RFQ Download HTTP processor started
+05/08/2019 17:09:05 ================05/08/2019 17:09:05================
+05/08/2019 17:09:05 MTM RFQ Download HTTP processor started
+05/08/2019 17:12:27 ================05/08/2019 17:12:27================
+05/08/2019 17:12:27 MTM RFQ Download HTTP processor started
+05/08/2019 17:12:29 MTM Domain not found in 190805_163255810.txt
+05/08/2019 17:12:36 ================05/08/2019 17:12:36================
+05/08/2019 17:12:36 MTM RFQ Download HTTP processor started
+05/08/2019 17:13:53 ================05/08/2019 17:13:53================
+05/08/2019 17:13:53 MTM RFQ Download HTTP processor started
+05/08/2019 17:14:48 RFQ 'SEQ-6313-A1' downloaded successfully.
+05/08/2019 17:14:48 File 190805_191456842.txt moved to backup folder.
+05/08/2019 17:14:49 MTM RFQ Download HTTP processor stopped
+05/08/2019 17:14:49 ====================================================

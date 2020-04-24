@@ -1,0 +1,84 @@
+26/06/2019 17:04:19 ================26/06/2019 17:04:19================
+26/06/2019 17:04:19 DNVGL HTTP Processor started
+26/06/2019 17:04:19 
+26/06/2019 17:04:19 Supplier: V10107
+26/06/2019 17:04:19 Process started for SM0372_WEB
+26/06/2019 17:04:23 No RFQ files found.
+26/06/2019 17:04:23 RFQ processing stopped.
+26/06/2019 17:04:23 
+26/06/2019 17:04:23 Supplier: V10107
+26/06/2019 17:04:23 Process started for SM0695_WEB
+26/06/2019 17:04:24 No RFQ files found.
+26/06/2019 17:04:24 RFQ processing stopped.
+26/06/2019 17:04:30 No quote files found to process.
+26/06/2019 17:04:31 
+26/06/2019 17:04:31 Supplier: V10001
+26/06/2019 17:04:31 Process started for SM0668_WEB
+26/06/2019 17:04:36 No RFQ files found.
+26/06/2019 17:04:36 RFQ processing stopped.
+26/06/2019 17:04:36 
+26/06/2019 17:04:36 Purchase Order processing started.
+26/06/2019 17:04:36 No PO files found.
+26/06/2019 17:04:36 Purchase Order processing stopped.
+26/06/2019 17:04:40 No quote files found to process.
+26/06/2019 17:04:40 
+26/06/2019 17:04:40 POC processing started.
+26/06/2019 17:04:40 
+26/06/2019 17:04:40 Supplier: V10001
+26/06/2019 17:04:40 Process started for SM0711_WEB
+26/06/2019 17:04:45 No RFQ files found.
+26/06/2019 17:04:45 RFQ processing stopped.
+26/06/2019 17:04:45 
+26/06/2019 17:04:45 Purchase Order processing started.
+26/06/2019 17:04:45 No PO files found.
+26/06/2019 17:04:45 Purchase Order processing stopped.
+26/06/2019 17:04:49 No quote files found to process.
+26/06/2019 17:04:49 
+26/06/2019 17:04:49 POC processing started.
+26/06/2019 17:04:49 DNVGL HTTP Processor stopped
+26/06/2019 17:04:49 ====================================================
+26/06/2019 17:05:41 ================26/06/2019 17:05:40================
+26/06/2019 17:05:41 DNVGL HTTP Processor started
+26/06/2019 17:05:41 
+26/06/2019 17:05:41 Supplier: V10107
+26/06/2019 17:05:41 Process started for SM0372_WEB
+26/06/2019 17:06:13 ================26/06/2019 17:06:13================
+26/06/2019 17:06:13 DNVGL HTTP Processor started
+26/06/2019 17:06:13 
+26/06/2019 17:06:13 Supplier: V10107
+26/06/2019 17:06:13 Process started for SM0372_WEB
+26/06/2019 17:06:22 No RFQ files found.
+26/06/2019 17:06:22 RFQ processing stopped.
+26/06/2019 17:06:22 
+26/06/2019 17:06:22 Supplier: V10107
+26/06/2019 17:06:22 Process started for SM0695_WEB
+26/06/2019 17:06:25 No RFQ files found.
+26/06/2019 17:06:25 RFQ processing stopped.
+26/06/2019 17:06:28 No quote files found to process.
+26/06/2019 17:06:28 
+26/06/2019 17:06:28 Supplier: V10001
+26/06/2019 17:06:28 Process started for SM0668_WEB
+26/06/2019 17:07:23 ================26/06/2019 17:07:22================
+26/06/2019 17:07:23 DNVGL HTTP Processor started
+26/06/2019 17:07:23 
+26/06/2019 17:07:23 Supplier: V10001
+26/06/2019 17:07:23 Process started for SM0668_WEB
+26/06/2019 17:08:44 
+26/06/2019 17:08:44 RFQ processing started.
+26/06/2019 17:08:50 Reading file 190626_164547380.txt
+26/06/2019 17:10:16 ================26/06/2019 17:10:16================
+26/06/2019 17:10:16 DNVGL HTTP Processor started
+26/06/2019 17:10:16 
+26/06/2019 17:10:16 Supplier: V10001
+26/06/2019 17:10:16 Process started for SM0668_WEB
+26/06/2019 17:10:26 
+26/06/2019 17:10:26 RFQ processing started.
+26/06/2019 17:10:31 Reading file 190626_164547380.txt
+26/06/2019 17:47:41 ================26/06/2019 17:47:41================
+26/06/2019 17:47:41 DNVGL HTTP Processor started
+26/06/2019 17:47:41 
+26/06/2019 17:47:41 Supplier: V10001
+26/06/2019 17:47:41 Process started for SM0668_WEB
+26/06/2019 17:47:44 
+26/06/2019 17:47:44 RFQ processing started.
+26/06/2019 17:47:46 Reading file 190626_164547380.txt

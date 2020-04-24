@@ -1,0 +1,119 @@
+2/6/2020 10:04:02 AM ================2/6/2020 10:04:02 AM================
+2/6/2020 10:04:02 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:04:33 AM ================2/6/2020 10:04:33 AM================
+2/6/2020 10:04:33 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:05:13 AM ================2/6/2020 10:05:13 AM================
+2/6/2020 10:05:13 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:07:33 AM ================2/6/2020 10:07:33 AM================
+2/6/2020 10:07:33 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:13:15 AM ================2/6/2020 10:13:15 AM================
+2/6/2020 10:13:15 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:13:30 AM ================2/6/2020 10:13:30 AM================
+2/6/2020 10:13:30 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:15:35 AM ================2/6/2020 10:15:35 AM================
+2/6/2020 10:15:35 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:16:35 AM ================2/6/2020 10:16:35 AM================
+2/6/2020 10:16:35 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:19:56 AM ================2/6/2020 10:19:56 AM================
+2/6/2020 10:19:56 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:22:05 AM ================2/6/2020 10:22:05 AM================
+2/6/2020 10:22:05 AM MTM RFQ Download HTTP processor started
+2/6/2020 10:59:56 AM ================2/6/2020 10:59:56 AM================
+2/6/2020 10:59:56 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:00:00 AM Error GetURL() : parsing "https?:\/\/[^ ]*\" - Illegal \ at end of pattern.
+2/6/2020 11:00:08 AM ================2/6/2020 11:00:08 AM================
+2/6/2020 11:00:08 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:00:57 AM ================2/6/2020 11:00:57 AM================
+2/6/2020 11:00:57 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:00:57 AM No RFQ Found !
+2/6/2020 11:00:58 AM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_DZV-5721-B1_SM0133_V00006_06022013164435.xml Started.
+2/6/2020 11:00:59 AM Started Loading interchange object.
+2/6/2020 11:00:59 AM stopped Loading interchange object.
+2/6/2020 11:01:10 AM Processing quote started for ref no: DZV-5721-B1
+2/6/2020 11:02:33 AM ================2/6/2020 11:02:32 AM================
+2/6/2020 11:02:33 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:02:33 AM No RFQ Found !
+2/6/2020 11:02:34 AM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_DZV-5721-B1_SM0133_V00006_06022013164435.xml Started.
+2/6/2020 11:02:34 AM Started Loading interchange object.
+2/6/2020 11:02:34 AM stopped Loading interchange object.
+2/6/2020 11:20:30 AM ================2/6/2020 11:20:30 AM================
+2/6/2020 11:20:30 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:20:30 AM No RFQ Found !
+2/6/2020 11:20:31 AM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_PRE-5405-A1_SM0133_V00006_06022013084416.xml Started.
+2/6/2020 11:20:32 AM Started Loading interchange object.
+2/6/2020 11:20:32 AM stopped Loading interchange object.
+2/6/2020 11:20:33 AM Processing quote started for ref no: PRE-5405-A1
+2/6/2020 11:21:21 AM Currency saved.
+2/6/2020 11:24:05 AM ================2/6/2020 11:24:05 AM================
+2/6/2020 11:24:05 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:24:05 AM No RFQ Found !
+2/6/2020 11:24:06 AM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_PRE-5405-A1_SM0133_V00006_06022013084416.xml Started.
+2/6/2020 11:24:07 AM Started Loading interchange object.
+2/6/2020 11:24:07 AM stopped Loading interchange object.
+2/6/2020 11:24:10 AM Processing quote started for ref no: PRE-5405-A1
+2/6/2020 11:24:15 AM Currency saved.
+2/6/2020 11:25:00 AM ================2/6/2020 11:25:00 AM================
+2/6/2020 11:25:00 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:25:00 AM No RFQ Found !
+2/6/2020 11:25:15 AM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_PRE-5405-A1_SM0133_V00006_06022013084416.xml Started.
+2/6/2020 11:25:15 AM Started Loading interchange object.
+2/6/2020 11:25:15 AM stopped Loading interchange object.
+2/6/2020 11:25:18 AM Processing quote started for ref no: PRE-5405-A1
+2/6/2020 11:25:19 AM Currency saved.
+2/6/2020 11:27:05 AM ================2/6/2020 11:27:05 AM================
+2/6/2020 11:27:05 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:27:05 AM No RFQ Found !
+2/6/2020 11:27:05 AM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_PRE-5405-A1_SM0133_V00006_06022013084416.xml Started.
+2/6/2020 11:27:06 AM Started Loading interchange object.
+2/6/2020 11:27:06 AM stopped Loading interchange object.
+2/6/2020 11:27:08 AM Processing quote started for ref no: PRE-5405-A1
+2/6/2020 11:27:10 AM Currency saved.
+2/6/2020 11:29:11 AM ================2/6/2020 11:29:11 AM================
+2/6/2020 11:29:11 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:29:11 AM No RFQ Found !
+2/6/2020 11:29:12 AM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_PRE-5405-A1_SM0133_V00006_06022013084416.xml Started.
+2/6/2020 11:29:15 AM Started Loading interchange object.
+2/6/2020 11:29:15 AM stopped Loading interchange object.
+2/6/2020 11:30:10 AM ================2/6/2020 11:30:10 AM================
+2/6/2020 11:30:10 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:30:10 AM No RFQ Found !
+2/6/2020 11:30:10 AM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_PRE-5405-A1_SM0133_V00006_06022013084416.xml Started.
+2/6/2020 11:30:11 AM Started Loading interchange object.
+2/6/2020 11:30:11 AM stopped Loading interchange object.
+2/6/2020 11:30:15 AM Processing quote started for ref no: PRE-5405-A1
+2/6/2020 11:30:17 AM Currency saved.
+2/6/2020 11:30:42 AM ================2/6/2020 11:30:42 AM================
+2/6/2020 11:30:42 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:30:42 AM No RFQ Found !
+2/6/2020 11:30:49 AM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_PRE-5405-A1_SM0133_V00006_06022013084416.xml Started.
+2/6/2020 11:30:50 AM Started Loading interchange object.
+2/6/2020 11:30:50 AM stopped Loading interchange object.
+2/6/2020 11:31:13 AM ================2/6/2020 11:31:13 AM================
+2/6/2020 11:31:13 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:31:13 AM No RFQ Found !
+2/6/2020 11:31:38 AM ================2/6/2020 11:31:38 AM================
+2/6/2020 11:31:38 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:33:58 AM ================2/6/2020 11:33:58 AM================
+2/6/2020 11:33:58 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:38:58 AM ================2/6/2020 11:38:58 AM================
+2/6/2020 11:38:58 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:40:25 AM ================2/6/2020 11:40:25 AM================
+2/6/2020 11:40:25 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:40:56 AM RFQ 'AKR-6863-C1' downloaded successfully.
+2/6/2020 11:40:56 AM File 4001020_200206_115217969.txt moved to backup folder.
+2/6/2020 11:40:56 AM MTM RFQ Download HTTP processor stopped
+2/6/2020 11:40:56 AM ====================================================
+2/6/2020 11:42:11 AM ================2/6/2020 11:42:11 AM================
+2/6/2020 11:42:11 AM MTM RFQ Download HTTP processor started
+2/6/2020 11:42:24 AM RFQ 'VER-5476-B1' downloaded successfully.
+2/6/2020 11:42:24 AM File 200205_170247051.txt moved to backup folder.
+2/6/2020 11:42:24 AM MTM RFQ Download HTTP processor stopped
+2/6/2020 11:42:24 AM ====================================================
+2/6/2020 1:11:11 PM ================2/6/2020 1:11:11 PM================
+2/6/2020 1:11:11 PM MTM RFQ Download HTTP processor started
+2/6/2020 1:11:11 PM No RFQ Found !
+2/6/2020 1:11:12 PM Processing of file - E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_MTM_Processor\Http_MTM_Processor\bin\Debug\MTML_Quotes\MTML_QUOTE_MTH-8482-B1_SM0133_V00026_06022012484931.xml Started.
+2/6/2020 1:11:14 PM Started Loading interchange object.
+2/6/2020 1:11:14 PM stopped Loading interchange object.
+2/6/2020 1:11:39 PM Processing quote started for ref no: MTH-8482-B1
+2/6/2020 1:11:41 PM Currency saved.

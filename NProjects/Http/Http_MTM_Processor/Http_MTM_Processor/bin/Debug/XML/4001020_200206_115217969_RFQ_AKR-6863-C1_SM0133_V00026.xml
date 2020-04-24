@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange Identifier="UNOC" Recipient="V00026" Sender="SM0133_FUJI" PreparationDate="20200206" PreparationTime="114053" VersionNumber="1">
+    <RequestForQuote MessageReferenceNumber="473890" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=473890&amp;validate=0.330068599581631" LineItemCount="2" VersionNumber="1" FunctionCode="_9" BuyerRefNo="AKR-6863-C1" OriginalFile="MTM_SHIP_V00026_SM0133_AKR_6863_C1_06022011405444.png">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20200204" />
+      <Reference Qualifier="UC" ReferenceNumber="AKR-6863-C1" />
+      <Party Qualifier="UD" />
+      <Party Qualifier="BY" Name="M.T.M. SHIP MANAGEMENT PTE. LTD">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING CO. LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="078-4132611-" />
+          <CommunicationMethod Qualifier="EM" Number="mach-5@fujitrading.co.jp" />
+        </Contact>
+      </Party>
+      <Equipment Name="Mooring Spring Winch (Fwd)" Description="Model / Type : YANASE TEKKO CO. LTD, Y5.5H-021" Manufacturer="Maker :YANASE TEKKO CO. LTD&#xD;&#xA;Model/Type :Y5.5H-021&#xD;&#xA;Part Description rqd, ;PISTON ASS`Y    SACM6 45.P31C-E 9SET&#xD;&#xA;Model/Type :Y5.5H-021&#xD;&#xA;Draw name: YPM 107V  AXIAL PISTON MOTOR" />
+      <LineItem Number="1" Description="CYLINDER BLOCK Maker :  YANASE TEKKO MARINE CO. LTD     &#xD;&#xA;Model/Type :Y5.5H-021&#xD;&#xA;Part Description rqd:  CYLINDER BLOCK" Identification="10" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2391042_5614434" SystemItemNo="1">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : JA1F6000</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="PISTON ASS`Y    SACM6 45.P31C-E 9SET Maker :YANASE TEKKO CO. LTD&#xD;&#xA;Model/Type :Y5.5H-021&#xD;&#xA;Part Description rqd, ;PISTON ASS`Y    SACM6 45.P31C-E 9SET&#xD;&#xA;Model/Type :Y5.5H-021&#xD;&#xA;Draw name: YPM 107V  AXIAL PISTON MOTOR" Identification="15" MeasureUnitQualifier="SET" Quantity="9" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2391041_5614435" SystemItemNo="2">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : JA1F6000</value>
+        </Comments>
+        <Section />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

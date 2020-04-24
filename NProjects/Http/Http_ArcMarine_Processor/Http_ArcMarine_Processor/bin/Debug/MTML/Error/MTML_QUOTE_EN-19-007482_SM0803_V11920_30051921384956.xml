@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="19004556" Identifier="UNOC" Recipient="SM0803_WEB" Sender="V11920" PreparationDate="2019-May-30" PreparationTime="21:38" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3767" LesRecordID="11611393" LesLinkID="104548" MTML_DOCID="1DD675BE-AA4F-4D11-B2D6-BC6800B508AF">
+    <Quote MessageReferenceNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=10BC0359-D482-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" MessageNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=10BC0359-D482-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" LineItemCount="22" VersionNumber="" CurrencyCode="EUR" LeadTimeDays="0" OriginalFile="QUOTE_EN-19-007482_190530_20403287.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201905302138" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="EN-19-007482" />
+      <Reference Qualifier="AAG" ReferenceNumber="19004556" />
+      <Party Qualifier="BY" Name="Arc Marine PTE Ltd">
+        <Contact Name="LALIT KHAIRNAR">
+          <CommunicationMethod Qualifier="TE" Number="68422822" />
+          <CommunicationMethod Qualifier="EM" Number="storemum4@arcmarine.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="GIMAS SHIP SUPPLY &amp;amp; SERVICES B.V.">
+        <Contact>
+          <CommunicationMethod Qualifier="TE" Number="31103027820 31615286575" />
+          <CommunicationMethod Qualifier="EM" Number="rotterdam@gimas.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+        <StreetAddress>-</StreetAddress>
+      </Party>
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="PIPE CARBON STEEL SGP UNGALV - 1-1/4(32A)X5.5MTR" MeasureUnitQualifier="LGH" Quantity="5" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="1" MonetaryAmount="109.31" Identification="710157" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="25.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="25.72" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="PIPE CARBON STEEL SGP UNGALV - 1(25A)X5.5MTR" MeasureUnitQualifier="LGH" Quantity="3" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="2" MonetaryAmount="52.15" Identification="710156" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="20.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="20.45" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="FLANGE STEEL WELDING SLIP-ON - FLAT FACE B-2220 5KG-25MM" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="3" MonetaryAmount="10.91" Identification="734604" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.07" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.07" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="FLANGE STEEL WELDING SLIP-ON - FLAT FACE B-2220 5KG-32MM" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="4" MonetaryAmount="18.77" Identification="734605" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.84" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="SOCKET STEEL 1 THREADED - FOR H.P. PIPE FITTING" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="5" MonetaryAmount="20.66" Identification="731846" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.86" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.86" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="SOCKET STEEL 1-1/4 THREADED - FOR H.P. PIPE FITTING" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="6" MonetaryAmount="34.43" Identification="731847" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="GLOBE VALVE BRONZE FLANGED-END - F7301 5KG-25MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="7" MonetaryAmount="80.73" Identification="750123" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="47.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="47.49" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="GLOBE VALVE BRONZE FLANGED-END - F7301 5KG-40MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="8" MonetaryAmount="147.82" Identification="750125" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="86.95" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="86.95" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="ANGLE VALVE BRONZE FLANGED-END - F7302 5KG-25MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="9" MonetaryAmount="78.44" Identification="750133" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="46.14" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="46.14" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="ANGLE VALVE BRONZE FLANGED-END - F7302 5KG-32MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="10" MonetaryAmount="108.78" Identification="750134" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="63.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="63.99" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="ELBOW STEEL BUTT-WELDING SGP - 90DEG LONG RADIUS 25A" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="11" MonetaryAmount="24.79" Identification="731123" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.43" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="ELBOW STEEL BUTT-WELDING SGP - 90DEG LONG RADIUS 32A" MeasureUnitQualifier="PCS" Quantity="18" TypeCode="BP" OriginatingSystemRef="12" SystemItemNo="12" MonetaryAmount="45.44" Identification="731124" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.97" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.97" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="ELBOW STEEL BUTT-WELDING SGP - 45DEG LONG RADIUS 25A" MeasureUnitQualifier="PCS" Quantity="8" TypeCode="BP" OriginatingSystemRef="13" SystemItemNo="13" MonetaryAmount="9.18" Identification="731103" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.35" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="ELBOW STEEL BUTT-WELDING SGP - 45DEG LONG RADIUS 32A" MeasureUnitQualifier="PCS" Quantity="8" TypeCode="BP" OriginatingSystemRef="14" SystemItemNo="14" MonetaryAmount="11.02" Identification="731104" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.62" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="STEEL EQUAL ANGLE HOT-ROLLED - 65X65X6MM 5.5MTR" MeasureUnitQualifier="LGH" Quantity="2" TypeCode="BP" OriginatingSystemRef="15" SystemItemNo="15" MonetaryAmount="96.48" Identification="670609" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="56.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="56.75" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="U-BOLT STEEL PIPE 25A M10" MeasureUnitQualifier="PCS" Quantity="24" TypeCode="BP" OriginatingSystemRef="16" SystemItemNo="16" MonetaryAmount="8.36" Identification="696703" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.41" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.41" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="U-BOLT STEEL PIPE 32A M10" MeasureUnitQualifier="PCS" Quantity="24" TypeCode="BP" OriginatingSystemRef="17" SystemItemNo="17" MonetaryAmount="11.02" Identification="696704" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.54" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.54" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="BOLT HEXAGON HEAD" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="18" SystemItemNo="18" MonetaryAmount="2.55" Identification="690191" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.03" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.03" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="HEXGON HEAD SET SCREW   M8    LENGTH=35MM VESSEL REQUIRES 4 SIZES HEXAGON HEAD SET SCREWS(METRIC COARSE FULL THREADED) WITH NUTS" MeasureUnitQualifier="pc" Quantity="1" TypeCode="BP" OriginatingSystemRef="19" SystemItemNo="19" MonetaryAmount="0.08" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.09" />
+        <Comments Qualifier="LIN">
+          <value>HEX.HEAD SET SCREW M8X40 DIN 933-STEEL 8.8 ZINC + HEXAGON NUT M8 DIN 934-STEEL 8.8 ZINC
+
+</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="HEXAGON HEAD SET SCREW M10    LENGTH=45MM" MeasureUnitQualifier="pc" Quantity="1" TypeCode="BP" OriginatingSystemRef="20" SystemItemNo="20" MonetaryAmount="0.15" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.18" />
+        <Comments Qualifier="LIN">
+          <value>HEX.HEAD SET SCREW M10X50 DIN 933-STEEL 8.8 ZINC + HEXAGON NUT M10 DIN 934-STEEL 8.8 ZINC
+
+</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="HEXAGON HEAD SET SCREW M12    LENGTH=45MM" MeasureUnitQualifier="pcs" Quantity="1" TypeCode="BP" OriginatingSystemRef="21" SystemItemNo="21" MonetaryAmount="0.23" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.27" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.27" />
+        <Comments Qualifier="LIN">
+          <value>HEX.HEAD SET SCREW M12X50 DIN 933-STEEL 8.8 ZINC + HEXAGON NUT M12 DIN 934-STEEL 8.8 ZINC
+
+</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="HEXAGON HEAD SET SCREW M16    LENGTH=60MM" MeasureUnitQualifier="pc" Quantity="1" TypeCode="BP" OriginatingSystemRef="22" SystemItemNo="22" MonetaryAmount="0.46" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.54" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.54" />
+        <Comments Qualifier="LIN">
+          <value>HEX.HEAD SET SCREW M16X60 DIN 933-STEEL 8.8 ZINC + HEXAGON NUT M16 DIN 934-STEEL 8.8 ZINC
+
+</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="871.735" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="871.735" />
+    </Quote>
+  </Interchange>
+</MTML>

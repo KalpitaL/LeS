@@ -1,0 +1,9 @@
+
+19:10:19 : Phoenix RFQ & PO Downloader Started.
+19:10:19 : Processing File PO_1.txt
+19:10:46 : Phoenix RFQ & PO Downloader Started.
+19:10:52 : Processing File PO_1.txt
+19:11:54 : Phoenix RFQ & PO Downloader Started.
+19:11:54 : Processing File PO_1.txt
+19:13:59 : Phoenix RFQ & PO Downloader Started.
+19:13:59 : Processing File PO_1.txt

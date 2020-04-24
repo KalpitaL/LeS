@@ -1,0 +1,1039 @@
+6/26/2019 12:04:54 AM ================6/26/2019 12:04:54 AM================
+6/26/2019 12:04:54 AM Phoenix HTTP processor started
+6/26/2019 12:04:54 AM Phoenix Processor Started.
+6/26/2019 12:04:54 AM No files found.
+6/26/2019 12:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 12:04:54 AM ====================================================
+6/26/2019 12:04:54 AM 
+6/26/2019 12:14:54 AM ================6/26/2019 12:14:54 AM================
+6/26/2019 12:14:54 AM Phoenix HTTP processor started
+6/26/2019 12:14:54 AM Phoenix Processor Started.
+6/26/2019 12:14:54 AM No files found.
+6/26/2019 12:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 12:14:54 AM ====================================================
+6/26/2019 12:14:54 AM 
+6/26/2019 12:24:54 AM ================6/26/2019 12:24:54 AM================
+6/26/2019 12:24:54 AM Phoenix HTTP processor started
+6/26/2019 12:24:54 AM Phoenix Processor Started.
+6/26/2019 12:24:54 AM No files found.
+6/26/2019 12:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 12:24:54 AM ====================================================
+6/26/2019 12:24:54 AM 
+6/26/2019 12:34:54 AM ================6/26/2019 12:34:54 AM================
+6/26/2019 12:34:54 AM Phoenix HTTP processor started
+6/26/2019 12:34:54 AM Phoenix Processor Started.
+6/26/2019 12:34:54 AM No files found.
+6/26/2019 12:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 12:34:54 AM ====================================================
+6/26/2019 12:34:54 AM 
+6/26/2019 12:44:54 AM ================6/26/2019 12:44:54 AM================
+6/26/2019 12:44:54 AM Phoenix HTTP processor started
+6/26/2019 12:44:54 AM Phoenix Processor Started.
+6/26/2019 12:44:54 AM No files found.
+6/26/2019 12:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 12:44:54 AM ====================================================
+6/26/2019 12:44:54 AM 
+6/26/2019 12:54:54 AM ================6/26/2019 12:54:54 AM================
+6/26/2019 12:54:54 AM Phoenix HTTP processor started
+6/26/2019 12:54:54 AM Phoenix Processor Started.
+6/26/2019 12:54:54 AM No files found.
+6/26/2019 12:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 12:54:54 AM ====================================================
+6/26/2019 12:54:54 AM 
+6/26/2019 1:04:54 AM ================6/26/2019 1:04:54 AM================
+6/26/2019 1:04:54 AM Phoenix HTTP processor started
+6/26/2019 1:04:54 AM Phoenix Processor Started.
+6/26/2019 1:04:54 AM No files found.
+6/26/2019 1:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 1:04:54 AM ====================================================
+6/26/2019 1:04:54 AM 
+6/26/2019 1:14:54 AM ================6/26/2019 1:14:54 AM================
+6/26/2019 1:14:54 AM Phoenix HTTP processor started
+6/26/2019 1:14:54 AM Phoenix Processor Started.
+6/26/2019 1:14:54 AM No files found.
+6/26/2019 1:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 1:14:54 AM ====================================================
+6/26/2019 1:14:54 AM 
+6/26/2019 1:24:54 AM ================6/26/2019 1:24:54 AM================
+6/26/2019 1:24:54 AM Phoenix HTTP processor started
+6/26/2019 1:24:54 AM Phoenix Processor Started.
+6/26/2019 1:24:54 AM No files found.
+6/26/2019 1:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 1:24:54 AM ====================================================
+6/26/2019 1:24:54 AM 
+6/26/2019 1:34:54 AM ================6/26/2019 1:34:54 AM================
+6/26/2019 1:34:54 AM Phoenix HTTP processor started
+6/26/2019 1:34:54 AM Phoenix Processor Started.
+6/26/2019 1:34:54 AM No files found.
+6/26/2019 1:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 1:34:54 AM ====================================================
+6/26/2019 1:34:54 AM 
+6/26/2019 1:44:54 AM ================6/26/2019 1:44:54 AM================
+6/26/2019 1:44:54 AM Phoenix HTTP processor started
+6/26/2019 1:44:54 AM Phoenix Processor Started.
+6/26/2019 1:44:54 AM No files found.
+6/26/2019 1:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 1:44:54 AM ====================================================
+6/26/2019 1:44:54 AM 
+6/26/2019 1:54:54 AM ================6/26/2019 1:54:54 AM================
+6/26/2019 1:54:54 AM Phoenix HTTP processor started
+6/26/2019 1:54:54 AM Phoenix Processor Started.
+6/26/2019 1:54:54 AM No files found.
+6/26/2019 1:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 1:54:54 AM ====================================================
+6/26/2019 1:54:54 AM 
+6/26/2019 2:04:54 AM ================6/26/2019 2:04:54 AM================
+6/26/2019 2:04:54 AM Phoenix HTTP processor started
+6/26/2019 2:04:54 AM Phoenix Processor Started.
+6/26/2019 2:04:54 AM No files found.
+6/26/2019 2:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 2:04:54 AM ====================================================
+6/26/2019 2:04:54 AM 
+6/26/2019 2:14:54 AM ================6/26/2019 2:14:54 AM================
+6/26/2019 2:14:54 AM Phoenix HTTP processor started
+6/26/2019 2:14:54 AM Phoenix Processor Started.
+6/26/2019 2:14:54 AM No files found.
+6/26/2019 2:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 2:14:54 AM ====================================================
+6/26/2019 2:14:54 AM 
+6/26/2019 2:24:54 AM ================6/26/2019 2:24:54 AM================
+6/26/2019 2:24:54 AM Phoenix HTTP processor started
+6/26/2019 2:24:54 AM Phoenix Processor Started.
+6/26/2019 2:24:54 AM No files found.
+6/26/2019 2:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 2:24:54 AM ====================================================
+6/26/2019 2:24:54 AM 
+6/26/2019 2:34:54 AM ================6/26/2019 2:34:54 AM================
+6/26/2019 2:34:54 AM Phoenix HTTP processor started
+6/26/2019 2:34:54 AM Phoenix Processor Started.
+6/26/2019 2:34:54 AM No files found.
+6/26/2019 2:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 2:34:54 AM ====================================================
+6/26/2019 2:34:54 AM 
+6/26/2019 2:44:54 AM ================6/26/2019 2:44:54 AM================
+6/26/2019 2:44:54 AM Phoenix HTTP processor started
+6/26/2019 2:44:54 AM Phoenix Processor Started.
+6/26/2019 2:44:54 AM No files found.
+6/26/2019 2:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 2:44:54 AM ====================================================
+6/26/2019 2:44:54 AM 
+6/26/2019 2:54:54 AM ================6/26/2019 2:54:54 AM================
+6/26/2019 2:54:54 AM Phoenix HTTP processor started
+6/26/2019 2:54:54 AM Phoenix Processor Started.
+6/26/2019 2:54:54 AM No files found.
+6/26/2019 2:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 2:54:54 AM ====================================================
+6/26/2019 2:54:54 AM 
+6/26/2019 3:04:54 AM ================6/26/2019 3:04:54 AM================
+6/26/2019 3:04:54 AM Phoenix HTTP processor started
+6/26/2019 3:04:54 AM Phoenix Processor Started.
+6/26/2019 3:04:54 AM No files found.
+6/26/2019 3:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 3:04:54 AM ====================================================
+6/26/2019 3:04:54 AM 
+6/26/2019 3:14:54 AM ================6/26/2019 3:14:54 AM================
+6/26/2019 3:14:54 AM Phoenix HTTP processor started
+6/26/2019 3:14:54 AM Phoenix Processor Started.
+6/26/2019 3:14:54 AM No files found.
+6/26/2019 3:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 3:14:54 AM ====================================================
+6/26/2019 3:14:54 AM 
+6/26/2019 3:24:54 AM ================6/26/2019 3:24:54 AM================
+6/26/2019 3:24:54 AM Phoenix HTTP processor started
+6/26/2019 3:24:54 AM Phoenix Processor Started.
+6/26/2019 3:24:54 AM No files found.
+6/26/2019 3:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 3:24:54 AM ====================================================
+6/26/2019 3:24:54 AM 
+6/26/2019 3:34:54 AM ================6/26/2019 3:34:54 AM================
+6/26/2019 3:34:54 AM Phoenix HTTP processor started
+6/26/2019 3:34:54 AM Phoenix Processor Started.
+6/26/2019 3:34:54 AM No files found.
+6/26/2019 3:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 3:34:54 AM ====================================================
+6/26/2019 3:34:54 AM 
+6/26/2019 3:44:54 AM ================6/26/2019 3:44:54 AM================
+6/26/2019 3:44:55 AM Phoenix HTTP processor started
+6/26/2019 3:44:55 AM Phoenix Processor Started.
+6/26/2019 3:44:55 AM No files found.
+6/26/2019 3:44:55 AM Phoenix HTTP processor stopped
+6/26/2019 3:44:55 AM ====================================================
+6/26/2019 3:44:55 AM 
+6/26/2019 3:54:54 AM ================6/26/2019 3:54:54 AM================
+6/26/2019 3:54:54 AM Phoenix HTTP processor started
+6/26/2019 3:54:54 AM Phoenix Processor Started.
+6/26/2019 3:54:54 AM No files found.
+6/26/2019 3:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 3:54:54 AM ====================================================
+6/26/2019 3:54:54 AM 
+6/26/2019 4:04:54 AM ================6/26/2019 4:04:54 AM================
+6/26/2019 4:04:54 AM Phoenix HTTP processor started
+6/26/2019 4:04:54 AM Phoenix Processor Started.
+6/26/2019 4:04:54 AM No files found.
+6/26/2019 4:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 4:04:54 AM ====================================================
+6/26/2019 4:04:54 AM 
+6/26/2019 4:14:54 AM ================6/26/2019 4:14:54 AM================
+6/26/2019 4:14:54 AM Phoenix HTTP processor started
+6/26/2019 4:14:54 AM Phoenix Processor Started.
+6/26/2019 4:14:54 AM No files found.
+6/26/2019 4:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 4:14:54 AM ====================================================
+6/26/2019 4:14:54 AM 
+6/26/2019 4:24:54 AM ================6/26/2019 4:24:54 AM================
+6/26/2019 4:24:54 AM Phoenix HTTP processor started
+6/26/2019 4:24:54 AM Phoenix Processor Started.
+6/26/2019 4:24:54 AM No files found.
+6/26/2019 4:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 4:24:54 AM ====================================================
+6/26/2019 4:24:54 AM 
+6/26/2019 4:34:54 AM ================6/26/2019 4:34:54 AM================
+6/26/2019 4:34:54 AM Phoenix HTTP processor started
+6/26/2019 4:34:54 AM Phoenix Processor Started.
+6/26/2019 4:34:54 AM No files found.
+6/26/2019 4:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 4:34:54 AM ====================================================
+6/26/2019 4:34:54 AM 
+6/26/2019 4:44:54 AM ================6/26/2019 4:44:54 AM================
+6/26/2019 4:44:54 AM Phoenix HTTP processor started
+6/26/2019 4:44:54 AM Phoenix Processor Started.
+6/26/2019 4:44:54 AM No files found.
+6/26/2019 4:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 4:44:54 AM ====================================================
+6/26/2019 4:44:54 AM 
+6/26/2019 4:54:54 AM ================6/26/2019 4:54:54 AM================
+6/26/2019 4:54:54 AM Phoenix HTTP processor started
+6/26/2019 4:54:54 AM Phoenix Processor Started.
+6/26/2019 4:54:54 AM No files found.
+6/26/2019 4:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 4:54:54 AM ====================================================
+6/26/2019 4:54:54 AM 
+6/26/2019 5:04:54 AM ================6/26/2019 5:04:54 AM================
+6/26/2019 5:04:54 AM Phoenix HTTP processor started
+6/26/2019 5:04:54 AM Phoenix Processor Started.
+6/26/2019 5:04:54 AM No files found.
+6/26/2019 5:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 5:04:54 AM ====================================================
+6/26/2019 5:04:54 AM 
+6/26/2019 5:14:54 AM ================6/26/2019 5:14:54 AM================
+6/26/2019 5:14:54 AM Phoenix HTTP processor started
+6/26/2019 5:14:54 AM Phoenix Processor Started.
+6/26/2019 5:14:54 AM No files found.
+6/26/2019 5:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 5:14:54 AM ====================================================
+6/26/2019 5:14:54 AM 
+6/26/2019 5:24:54 AM ================6/26/2019 5:24:54 AM================
+6/26/2019 5:24:54 AM Phoenix HTTP processor started
+6/26/2019 5:24:54 AM Phoenix Processor Started.
+6/26/2019 5:24:54 AM No files found.
+6/26/2019 5:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 5:24:54 AM ====================================================
+6/26/2019 5:24:54 AM 
+6/26/2019 5:34:54 AM ================6/26/2019 5:34:54 AM================
+6/26/2019 5:34:54 AM Phoenix HTTP processor started
+6/26/2019 5:34:54 AM Phoenix Processor Started.
+6/26/2019 5:34:54 AM No files found.
+6/26/2019 5:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 5:34:54 AM ====================================================
+6/26/2019 5:34:54 AM 
+6/26/2019 5:44:54 AM ================6/26/2019 5:44:54 AM================
+6/26/2019 5:44:54 AM Phoenix HTTP processor started
+6/26/2019 5:44:54 AM Phoenix Processor Started.
+6/26/2019 5:44:54 AM No files found.
+6/26/2019 5:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 5:44:54 AM ====================================================
+6/26/2019 5:44:54 AM 
+6/26/2019 5:54:54 AM ================6/26/2019 5:54:54 AM================
+6/26/2019 5:54:54 AM Phoenix HTTP processor started
+6/26/2019 5:54:54 AM Phoenix Processor Started.
+6/26/2019 5:54:54 AM No files found.
+6/26/2019 5:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 5:54:54 AM ====================================================
+6/26/2019 5:54:54 AM 
+6/26/2019 6:04:54 AM ================6/26/2019 6:04:54 AM================
+6/26/2019 6:04:54 AM Phoenix HTTP processor started
+6/26/2019 6:04:54 AM Phoenix Processor Started.
+6/26/2019 6:04:54 AM No files found.
+6/26/2019 6:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 6:04:54 AM ====================================================
+6/26/2019 6:04:54 AM 
+6/26/2019 6:14:54 AM ================6/26/2019 6:14:54 AM================
+6/26/2019 6:14:54 AM Phoenix HTTP processor started
+6/26/2019 6:14:54 AM Phoenix Processor Started.
+6/26/2019 6:14:54 AM No files found.
+6/26/2019 6:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 6:14:54 AM ====================================================
+6/26/2019 6:14:54 AM 
+6/26/2019 6:24:54 AM ================6/26/2019 6:24:54 AM================
+6/26/2019 6:24:54 AM Phoenix HTTP processor started
+6/26/2019 6:24:54 AM Phoenix Processor Started.
+6/26/2019 6:24:54 AM No files found.
+6/26/2019 6:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 6:24:54 AM ====================================================
+6/26/2019 6:24:54 AM 
+6/26/2019 6:34:54 AM ================6/26/2019 6:34:54 AM================
+6/26/2019 6:34:54 AM Phoenix HTTP processor started
+6/26/2019 6:34:54 AM Phoenix Processor Started.
+6/26/2019 6:34:54 AM No files found.
+6/26/2019 6:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 6:34:54 AM ====================================================
+6/26/2019 6:34:54 AM 
+6/26/2019 6:44:54 AM ================6/26/2019 6:44:54 AM================
+6/26/2019 6:44:54 AM Phoenix HTTP processor started
+6/26/2019 6:44:54 AM Phoenix Processor Started.
+6/26/2019 6:44:54 AM No files found.
+6/26/2019 6:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 6:44:54 AM ====================================================
+6/26/2019 6:44:54 AM 
+6/26/2019 6:54:54 AM ================6/26/2019 6:54:54 AM================
+6/26/2019 6:54:54 AM Phoenix HTTP processor started
+6/26/2019 6:54:54 AM Phoenix Processor Started.
+6/26/2019 6:54:54 AM No files found.
+6/26/2019 6:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 6:54:54 AM ====================================================
+6/26/2019 6:54:54 AM 
+6/26/2019 7:04:54 AM ================6/26/2019 7:04:54 AM================
+6/26/2019 7:04:54 AM Phoenix HTTP processor started
+6/26/2019 7:04:54 AM Phoenix Processor Started.
+6/26/2019 7:04:54 AM No files found.
+6/26/2019 7:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 7:04:54 AM ====================================================
+6/26/2019 7:04:54 AM 
+6/26/2019 7:14:54 AM ================6/26/2019 7:14:54 AM================
+6/26/2019 7:14:54 AM Phoenix HTTP processor started
+6/26/2019 7:14:54 AM Phoenix Processor Started.
+6/26/2019 7:14:54 AM No files found.
+6/26/2019 7:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 7:14:54 AM ====================================================
+6/26/2019 7:14:54 AM 
+6/26/2019 7:24:54 AM ================6/26/2019 7:24:54 AM================
+6/26/2019 7:24:54 AM Phoenix HTTP processor started
+6/26/2019 7:24:54 AM Phoenix Processor Started.
+6/26/2019 7:24:54 AM No files found.
+6/26/2019 7:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 7:24:54 AM ====================================================
+6/26/2019 7:24:54 AM 
+6/26/2019 7:34:54 AM ================6/26/2019 7:34:54 AM================
+6/26/2019 7:34:54 AM Phoenix HTTP processor started
+6/26/2019 7:34:54 AM Phoenix Processor Started.
+6/26/2019 7:34:54 AM No files found.
+6/26/2019 7:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 7:34:54 AM ====================================================
+6/26/2019 7:34:54 AM 
+6/26/2019 7:44:54 AM ================6/26/2019 7:44:54 AM================
+6/26/2019 7:44:54 AM Phoenix HTTP processor started
+6/26/2019 7:44:54 AM Phoenix Processor Started.
+6/26/2019 7:44:54 AM No files found.
+6/26/2019 7:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 7:44:54 AM ====================================================
+6/26/2019 7:44:54 AM 
+6/26/2019 7:54:54 AM ================6/26/2019 7:54:54 AM================
+6/26/2019 7:54:54 AM Phoenix HTTP processor started
+6/26/2019 7:54:54 AM Phoenix Processor Started.
+6/26/2019 7:54:54 AM No files found.
+6/26/2019 7:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 7:54:54 AM ====================================================
+6/26/2019 7:54:54 AM 
+6/26/2019 8:04:54 AM ================6/26/2019 8:04:54 AM================
+6/26/2019 8:04:54 AM Phoenix HTTP processor started
+6/26/2019 8:04:54 AM Phoenix Processor Started.
+6/26/2019 8:04:54 AM No files found.
+6/26/2019 8:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 8:04:54 AM ====================================================
+6/26/2019 8:04:54 AM 
+6/26/2019 8:14:54 AM ================6/26/2019 8:14:54 AM================
+6/26/2019 8:14:54 AM Phoenix HTTP processor started
+6/26/2019 8:14:54 AM Phoenix Processor Started.
+6/26/2019 8:14:54 AM No files found.
+6/26/2019 8:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 8:14:54 AM ====================================================
+6/26/2019 8:14:54 AM 
+6/26/2019 8:24:54 AM ================6/26/2019 8:24:54 AM================
+6/26/2019 8:24:54 AM Phoenix HTTP processor started
+6/26/2019 8:24:54 AM Phoenix Processor Started.
+6/26/2019 8:24:54 AM No files found.
+6/26/2019 8:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 8:24:54 AM ====================================================
+6/26/2019 8:24:54 AM 
+6/26/2019 8:34:54 AM ================6/26/2019 8:34:54 AM================
+6/26/2019 8:34:54 AM Phoenix HTTP processor started
+6/26/2019 8:34:54 AM Phoenix Processor Started.
+6/26/2019 8:34:54 AM No files found.
+6/26/2019 8:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 8:34:54 AM ====================================================
+6/26/2019 8:34:54 AM 
+6/26/2019 8:44:54 AM ================6/26/2019 8:44:54 AM================
+6/26/2019 8:44:54 AM Phoenix HTTP processor started
+6/26/2019 8:44:54 AM Phoenix Processor Started.
+6/26/2019 8:44:54 AM No files found.
+6/26/2019 8:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 8:44:54 AM ====================================================
+6/26/2019 8:44:54 AM 
+6/26/2019 8:54:54 AM ================6/26/2019 8:54:54 AM================
+6/26/2019 8:54:54 AM Phoenix HTTP processor started
+6/26/2019 8:54:54 AM Phoenix Processor Started.
+6/26/2019 8:54:54 AM No files found.
+6/26/2019 8:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 8:54:54 AM ====================================================
+6/26/2019 8:54:54 AM 
+6/26/2019 9:04:54 AM ================6/26/2019 9:04:54 AM================
+6/26/2019 9:04:54 AM Phoenix HTTP processor started
+6/26/2019 9:04:54 AM Phoenix Processor Started.
+6/26/2019 9:04:54 AM No files found.
+6/26/2019 9:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 9:04:54 AM ====================================================
+6/26/2019 9:04:54 AM 
+6/26/2019 9:14:54 AM ================6/26/2019 9:14:54 AM================
+6/26/2019 9:14:54 AM Phoenix HTTP processor started
+6/26/2019 9:14:54 AM Phoenix Processor Started.
+6/26/2019 9:14:54 AM No files found.
+6/26/2019 9:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 9:14:54 AM ====================================================
+6/26/2019 9:14:54 AM 
+6/26/2019 9:24:54 AM ================6/26/2019 9:24:54 AM================
+6/26/2019 9:24:54 AM Phoenix HTTP processor started
+6/26/2019 9:24:54 AM Phoenix Processor Started.
+6/26/2019 9:24:54 AM No files found.
+6/26/2019 9:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 9:24:54 AM ====================================================
+6/26/2019 9:24:54 AM 
+6/26/2019 9:34:54 AM ================6/26/2019 9:34:54 AM================
+6/26/2019 9:34:54 AM Phoenix HTTP processor started
+6/26/2019 9:34:54 AM Phoenix Processor Started.
+6/26/2019 9:34:54 AM No files found.
+6/26/2019 9:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 9:34:54 AM ====================================================
+6/26/2019 9:34:54 AM 
+6/26/2019 9:44:54 AM ================6/26/2019 9:44:54 AM================
+6/26/2019 9:44:54 AM Phoenix HTTP processor started
+6/26/2019 9:44:54 AM Phoenix Processor Started.
+6/26/2019 9:44:54 AM No files found.
+6/26/2019 9:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 9:44:54 AM ====================================================
+6/26/2019 9:44:54 AM 
+6/26/2019 9:54:54 AM ================6/26/2019 9:54:54 AM================
+6/26/2019 9:54:54 AM Phoenix HTTP processor started
+6/26/2019 9:54:54 AM Phoenix Processor Started.
+6/26/2019 9:54:54 AM No files found.
+6/26/2019 9:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 9:54:54 AM ====================================================
+6/26/2019 9:54:54 AM 
+6/26/2019 10:04:54 AM ================6/26/2019 10:04:54 AM================
+6/26/2019 10:04:54 AM Phoenix HTTP processor started
+6/26/2019 10:04:54 AM Phoenix Processor Started.
+6/26/2019 10:04:54 AM No files found.
+6/26/2019 10:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 10:04:54 AM ====================================================
+6/26/2019 10:04:54 AM 
+6/26/2019 10:14:54 AM ================6/26/2019 10:14:54 AM================
+6/26/2019 10:14:54 AM Phoenix HTTP processor started
+6/26/2019 10:14:54 AM Phoenix Processor Started.
+6/26/2019 10:14:54 AM No files found.
+6/26/2019 10:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 10:14:54 AM ====================================================
+6/26/2019 10:14:54 AM 
+6/26/2019 10:24:54 AM ================6/26/2019 10:24:54 AM================
+6/26/2019 10:24:54 AM Phoenix HTTP processor started
+6/26/2019 10:24:54 AM Phoenix Processor Started.
+6/26/2019 10:24:54 AM No files found.
+6/26/2019 10:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 10:24:54 AM ====================================================
+6/26/2019 10:24:54 AM 
+6/26/2019 10:34:54 AM ================6/26/2019 10:34:54 AM================
+6/26/2019 10:34:54 AM Phoenix HTTP processor started
+6/26/2019 10:34:54 AM Phoenix Processor Started.
+6/26/2019 10:34:54 AM No files found.
+6/26/2019 10:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 10:34:54 AM ====================================================
+6/26/2019 10:34:54 AM 
+6/26/2019 10:44:54 AM ================6/26/2019 10:44:54 AM================
+6/26/2019 10:44:54 AM Phoenix HTTP processor started
+6/26/2019 10:44:54 AM Phoenix Processor Started.
+6/26/2019 10:44:54 AM No files found.
+6/26/2019 10:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 10:44:54 AM ====================================================
+6/26/2019 10:44:54 AM 
+6/26/2019 10:54:54 AM ================6/26/2019 10:54:54 AM================
+6/26/2019 10:54:54 AM Phoenix HTTP processor started
+6/26/2019 10:54:54 AM Phoenix Processor Started.
+6/26/2019 10:54:54 AM No files found.
+6/26/2019 10:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 10:54:54 AM ====================================================
+6/26/2019 10:54:54 AM 
+6/26/2019 11:04:54 AM ================6/26/2019 11:04:54 AM================
+6/26/2019 11:04:54 AM Phoenix HTTP processor started
+6/26/2019 11:04:54 AM Phoenix Processor Started.
+6/26/2019 11:04:54 AM No files found.
+6/26/2019 11:04:54 AM Phoenix HTTP processor stopped
+6/26/2019 11:04:54 AM ====================================================
+6/26/2019 11:04:54 AM 
+6/26/2019 11:14:54 AM ================6/26/2019 11:14:54 AM================
+6/26/2019 11:14:54 AM Phoenix HTTP processor started
+6/26/2019 11:14:54 AM Phoenix Processor Started.
+6/26/2019 11:14:54 AM No files found.
+6/26/2019 11:14:54 AM Phoenix HTTP processor stopped
+6/26/2019 11:14:54 AM ====================================================
+6/26/2019 11:14:54 AM 
+6/26/2019 11:24:54 AM ================6/26/2019 11:24:54 AM================
+6/26/2019 11:24:54 AM Phoenix HTTP processor started
+6/26/2019 11:24:54 AM Phoenix Processor Started.
+6/26/2019 11:24:54 AM No files found.
+6/26/2019 11:24:54 AM Phoenix HTTP processor stopped
+6/26/2019 11:24:54 AM ====================================================
+6/26/2019 11:24:54 AM 
+6/26/2019 11:34:54 AM ================6/26/2019 11:34:54 AM================
+6/26/2019 11:34:54 AM Phoenix HTTP processor started
+6/26/2019 11:34:54 AM Phoenix Processor Started.
+6/26/2019 11:34:54 AM No files found.
+6/26/2019 11:34:54 AM Phoenix HTTP processor stopped
+6/26/2019 11:34:54 AM ====================================================
+6/26/2019 11:34:54 AM 
+6/26/2019 11:44:54 AM ================6/26/2019 11:44:54 AM================
+6/26/2019 11:44:54 AM Phoenix HTTP processor started
+6/26/2019 11:44:54 AM Phoenix Processor Started.
+6/26/2019 11:44:54 AM No files found.
+6/26/2019 11:44:54 AM Phoenix HTTP processor stopped
+6/26/2019 11:44:54 AM ====================================================
+6/26/2019 11:44:54 AM 
+6/26/2019 11:54:54 AM ================6/26/2019 11:54:54 AM================
+6/26/2019 11:54:54 AM Phoenix HTTP processor started
+6/26/2019 11:54:54 AM Phoenix Processor Started.
+6/26/2019 11:54:54 AM No files found.
+6/26/2019 11:54:54 AM Phoenix HTTP processor stopped
+6/26/2019 11:54:54 AM ====================================================
+6/26/2019 11:54:54 AM 
+6/26/2019 12:04:54 PM ================6/26/2019 12:04:54 PM================
+6/26/2019 12:04:54 PM Phoenix HTTP processor started
+6/26/2019 12:04:54 PM Phoenix Processor Started.
+6/26/2019 12:04:54 PM No files found.
+6/26/2019 12:04:54 PM Phoenix HTTP processor stopped
+6/26/2019 12:04:54 PM ====================================================
+6/26/2019 12:04:54 PM 
+6/26/2019 12:14:54 PM ================6/26/2019 12:14:54 PM================
+6/26/2019 12:14:54 PM Phoenix HTTP processor started
+6/26/2019 12:14:54 PM Phoenix Processor Started.
+6/26/2019 12:14:54 PM No files found.
+6/26/2019 12:14:54 PM Phoenix HTTP processor stopped
+6/26/2019 12:14:54 PM ====================================================
+6/26/2019 12:14:54 PM 
+6/26/2019 12:24:54 PM ================6/26/2019 12:24:54 PM================
+6/26/2019 12:24:54 PM Phoenix HTTP processor started
+6/26/2019 12:24:54 PM Phoenix Processor Started.
+6/26/2019 12:24:54 PM No files found.
+6/26/2019 12:24:54 PM Phoenix HTTP processor stopped
+6/26/2019 12:24:54 PM ====================================================
+6/26/2019 12:24:54 PM 
+6/26/2019 12:34:54 PM ================6/26/2019 12:34:54 PM================
+6/26/2019 12:34:54 PM Phoenix HTTP processor started
+6/26/2019 12:34:54 PM Phoenix Processor Started.
+6/26/2019 12:34:54 PM No files found.
+6/26/2019 12:34:54 PM Phoenix HTTP processor stopped
+6/26/2019 12:34:54 PM ====================================================
+6/26/2019 12:34:54 PM 
+6/26/2019 12:44:54 PM ================6/26/2019 12:44:54 PM================
+6/26/2019 12:44:54 PM Phoenix HTTP processor started
+6/26/2019 12:44:54 PM Phoenix Processor Started.
+6/26/2019 12:44:54 PM No files found.
+6/26/2019 12:44:54 PM Phoenix HTTP processor stopped
+6/26/2019 12:44:54 PM ====================================================
+6/26/2019 12:44:54 PM 
+6/26/2019 12:54:54 PM ================6/26/2019 12:54:54 PM================
+6/26/2019 12:54:54 PM Phoenix HTTP processor started
+6/26/2019 12:54:54 PM Phoenix Processor Started.
+6/26/2019 12:54:54 PM No files found.
+6/26/2019 12:54:54 PM Phoenix HTTP processor stopped
+6/26/2019 12:54:54 PM ====================================================
+6/26/2019 12:54:54 PM 
+6/26/2019 1:04:54 PM ================6/26/2019 1:04:54 PM================
+6/26/2019 1:04:54 PM Phoenix HTTP processor started
+6/26/2019 1:04:54 PM Phoenix Processor Started.
+6/26/2019 1:04:54 PM No files found.
+6/26/2019 1:04:54 PM Phoenix HTTP processor stopped
+6/26/2019 1:04:54 PM ====================================================
+6/26/2019 1:04:54 PM 
+6/26/2019 1:14:54 PM ================6/26/2019 1:14:54 PM================
+6/26/2019 1:14:54 PM Phoenix HTTP processor started
+6/26/2019 1:14:54 PM Phoenix Processor Started.
+6/26/2019 1:14:54 PM No files found.
+6/26/2019 1:14:54 PM Phoenix HTTP processor stopped
+6/26/2019 1:14:54 PM ====================================================
+6/26/2019 1:14:54 PM 
+6/26/2019 1:24:54 PM ================6/26/2019 1:24:54 PM================
+6/26/2019 1:24:54 PM Phoenix HTTP processor started
+6/26/2019 1:24:54 PM Phoenix Processor Started.
+6/26/2019 1:24:54 PM No files found.
+6/26/2019 1:24:54 PM Phoenix HTTP processor stopped
+6/26/2019 1:24:54 PM ====================================================
+6/26/2019 1:24:54 PM 
+6/26/2019 1:34:54 PM ================6/26/2019 1:34:54 PM================
+6/26/2019 1:34:54 PM Phoenix HTTP processor started
+6/26/2019 1:34:54 PM Phoenix Processor Started.
+6/26/2019 1:34:54 PM No files found.
+6/26/2019 1:34:54 PM Phoenix HTTP processor stopped
+6/26/2019 1:34:54 PM ====================================================
+6/26/2019 1:34:54 PM 
+6/26/2019 1:44:54 PM ================6/26/2019 1:44:54 PM================
+6/26/2019 1:44:54 PM Phoenix HTTP processor started
+6/26/2019 1:44:54 PM Phoenix Processor Started.
+6/26/2019 1:44:54 PM No files found.
+6/26/2019 1:44:54 PM Phoenix HTTP processor stopped
+6/26/2019 1:44:54 PM ====================================================
+6/26/2019 1:44:54 PM 
+6/26/2019 1:54:54 PM ================6/26/2019 1:54:54 PM================
+6/26/2019 1:54:54 PM Phoenix HTTP processor started
+6/26/2019 1:54:54 PM Phoenix Processor Started.
+6/26/2019 1:54:54 PM No files found.
+6/26/2019 1:54:54 PM Phoenix HTTP processor stopped
+6/26/2019 1:54:54 PM ====================================================
+6/26/2019 1:54:54 PM 
+6/26/2019 2:04:54 PM ================6/26/2019 2:04:54 PM================
+6/26/2019 2:04:54 PM Phoenix HTTP processor started
+6/26/2019 2:04:54 PM Phoenix Processor Started.
+6/26/2019 2:04:54 PM No files found.
+6/26/2019 2:04:54 PM Phoenix HTTP processor stopped
+6/26/2019 2:04:54 PM ====================================================
+6/26/2019 2:04:54 PM 
+6/26/2019 2:14:54 PM ================6/26/2019 2:14:54 PM================
+6/26/2019 2:14:54 PM Phoenix HTTP processor started
+6/26/2019 2:14:54 PM Phoenix Processor Started.
+6/26/2019 2:14:54 PM No files found.
+6/26/2019 2:14:54 PM Phoenix HTTP processor stopped
+6/26/2019 2:14:54 PM ====================================================
+6/26/2019 2:14:54 PM 
+6/26/2019 2:24:54 PM ================6/26/2019 2:24:54 PM================
+6/26/2019 2:24:54 PM Phoenix HTTP processor started
+6/26/2019 2:24:54 PM Phoenix Processor Started.
+6/26/2019 2:24:54 PM No files found.
+6/26/2019 2:24:54 PM Phoenix HTTP processor stopped
+6/26/2019 2:24:54 PM ====================================================
+6/26/2019 2:24:54 PM 
+6/26/2019 2:34:54 PM ================6/26/2019 2:34:54 PM================
+6/26/2019 2:34:54 PM Phoenix HTTP processor started
+6/26/2019 2:34:54 PM Phoenix Processor Started.
+6/26/2019 2:34:54 PM No files found.
+6/26/2019 2:34:54 PM Phoenix HTTP processor stopped
+6/26/2019 2:34:54 PM ====================================================
+6/26/2019 2:34:54 PM 
+6/26/2019 2:44:54 PM ================6/26/2019 2:44:54 PM================
+6/26/2019 2:44:54 PM Phoenix HTTP processor started
+6/26/2019 2:44:54 PM Phoenix Processor Started.
+6/26/2019 2:44:54 PM No files found.
+6/26/2019 2:44:54 PM Phoenix HTTP processor stopped
+6/26/2019 2:44:54 PM ====================================================
+6/26/2019 2:44:54 PM 
+6/26/2019 2:54:54 PM ================6/26/2019 2:54:54 PM================
+6/26/2019 2:54:54 PM Phoenix HTTP processor started
+6/26/2019 2:54:54 PM Phoenix Processor Started.
+6/26/2019 2:54:54 PM No files found.
+6/26/2019 2:54:54 PM Phoenix HTTP processor stopped
+6/26/2019 2:54:54 PM ====================================================
+6/26/2019 2:54:54 PM 
+6/26/2019 3:04:54 PM ================6/26/2019 3:04:54 PM================
+6/26/2019 3:04:54 PM Phoenix HTTP processor started
+6/26/2019 3:04:54 PM Phoenix Processor Started.
+6/26/2019 3:04:54 PM No files found.
+6/26/2019 3:04:54 PM Phoenix HTTP processor stopped
+6/26/2019 3:04:54 PM ====================================================
+6/26/2019 3:04:54 PM 
+6/26/2019 3:14:54 PM ================6/26/2019 3:14:54 PM================
+6/26/2019 3:14:54 PM Phoenix HTTP processor started
+6/26/2019 3:14:54 PM Phoenix Processor Started.
+6/26/2019 3:14:54 PM No files found.
+6/26/2019 3:14:54 PM Phoenix HTTP processor stopped
+6/26/2019 3:14:54 PM ====================================================
+6/26/2019 3:14:54 PM 
+6/26/2019 3:24:54 PM ================6/26/2019 3:24:54 PM================
+6/26/2019 3:24:54 PM Phoenix HTTP processor started
+6/26/2019 3:24:54 PM Phoenix Processor Started.
+6/26/2019 3:24:54 PM No files found.
+6/26/2019 3:24:54 PM Phoenix HTTP processor stopped
+6/26/2019 3:24:54 PM ====================================================
+6/26/2019 3:24:54 PM 
+6/26/2019 3:34:54 PM ================6/26/2019 3:34:54 PM================
+6/26/2019 3:34:54 PM Phoenix HTTP processor started
+6/26/2019 3:34:54 PM Phoenix Processor Started.
+6/26/2019 3:34:54 PM No files found.
+6/26/2019 3:34:54 PM Phoenix HTTP processor stopped
+6/26/2019 3:34:54 PM ====================================================
+6/26/2019 3:34:54 PM 
+6/26/2019 3:44:54 PM ================6/26/2019 3:44:54 PM================
+6/26/2019 3:44:54 PM Phoenix HTTP processor started
+6/26/2019 3:44:54 PM Phoenix Processor Started.
+6/26/2019 3:44:54 PM No files found.
+6/26/2019 3:44:54 PM Phoenix HTTP processor stopped
+6/26/2019 3:44:54 PM ====================================================
+6/26/2019 3:44:54 PM 
+6/26/2019 3:54:54 PM ================6/26/2019 3:54:54 PM================
+6/26/2019 3:54:54 PM Phoenix HTTP processor started
+6/26/2019 3:54:54 PM Phoenix Processor Started.
+6/26/2019 3:54:54 PM No files found.
+6/26/2019 3:54:54 PM Phoenix HTTP processor stopped
+6/26/2019 3:54:54 PM ====================================================
+6/26/2019 3:54:54 PM 
+6/26/2019 4:04:54 PM ================6/26/2019 4:04:54 PM================
+6/26/2019 4:04:54 PM Phoenix HTTP processor started
+6/26/2019 4:04:54 PM Phoenix Processor Started.
+6/26/2019 4:04:54 PM No files found.
+6/26/2019 4:04:54 PM Phoenix HTTP processor stopped
+6/26/2019 4:04:54 PM ====================================================
+6/26/2019 4:04:54 PM 
+6/26/2019 4:14:54 PM ================6/26/2019 4:14:54 PM================
+6/26/2019 4:14:54 PM Phoenix HTTP processor started
+6/26/2019 4:14:54 PM Phoenix Processor Started.
+6/26/2019 4:14:54 PM No files found.
+6/26/2019 4:14:54 PM Phoenix HTTP processor stopped
+6/26/2019 4:14:54 PM ====================================================
+6/26/2019 4:14:54 PM 
+6/26/2019 4:24:54 PM ================6/26/2019 4:24:54 PM================
+6/26/2019 4:24:54 PM Phoenix HTTP processor started
+6/26/2019 4:24:54 PM Phoenix Processor Started.
+6/26/2019 4:24:54 PM No files found.
+6/26/2019 4:24:54 PM Phoenix HTTP processor stopped
+6/26/2019 4:24:54 PM ====================================================
+6/26/2019 4:24:54 PM 
+6/26/2019 4:34:54 PM ================6/26/2019 4:34:54 PM================
+6/26/2019 4:34:54 PM Phoenix HTTP processor started
+6/26/2019 4:34:54 PM Phoenix Processor Started.
+6/26/2019 4:34:54 PM No files found.
+6/26/2019 4:34:54 PM Phoenix HTTP processor stopped
+6/26/2019 4:34:54 PM ====================================================
+6/26/2019 4:34:54 PM 
+6/26/2019 4:44:54 PM ================6/26/2019 4:44:54 PM================
+6/26/2019 4:44:54 PM Phoenix HTTP processor started
+6/26/2019 4:44:54 PM Phoenix Processor Started.
+6/26/2019 4:44:54 PM No files found.
+6/26/2019 4:44:54 PM Phoenix HTTP processor stopped
+6/26/2019 4:44:54 PM ====================================================
+6/26/2019 4:44:54 PM 
+6/26/2019 4:54:54 PM ================6/26/2019 4:54:54 PM================
+6/26/2019 4:54:54 PM Phoenix HTTP processor started
+6/26/2019 4:54:54 PM Phoenix Processor Started.
+6/26/2019 4:54:54 PM No files found.
+6/26/2019 4:54:54 PM Phoenix HTTP processor stopped
+6/26/2019 4:54:54 PM ====================================================
+6/26/2019 4:54:54 PM 
+6/26/2019 5:04:54 PM ================6/26/2019 5:04:54 PM================
+6/26/2019 5:04:54 PM Phoenix HTTP processor started
+6/26/2019 5:04:54 PM Phoenix Processor Started.
+6/26/2019 5:04:54 PM No files found.
+6/26/2019 5:04:54 PM Phoenix HTTP processor stopped
+6/26/2019 5:04:54 PM ====================================================
+6/26/2019 5:04:54 PM 
+6/26/2019 5:14:54 PM ================6/26/2019 5:14:54 PM================
+6/26/2019 5:14:54 PM Phoenix HTTP processor started
+6/26/2019 5:14:54 PM Phoenix Processor Started.
+6/26/2019 5:14:54 PM No files found.
+6/26/2019 5:14:54 PM Phoenix HTTP processor stopped
+6/26/2019 5:14:54 PM ====================================================
+6/26/2019 5:14:54 PM 
+6/26/2019 5:24:54 PM ================6/26/2019 5:24:54 PM================
+6/26/2019 5:24:54 PM Phoenix HTTP processor started
+6/26/2019 5:24:54 PM Phoenix Processor Started.
+6/26/2019 5:24:54 PM Processing File 5001400_190626_171617392.txt
+6/26/2019 5:24:54 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=E1F56C07-F297-E911-B330-06089601E630&STOCKTYPE=STORE
+6/26/2019 5:24:54 PM Navigating To URL ..
+6/26/2019 5:24:56 PM Page Loaded ..
+6/26/2019 5:24:57 PM Reading Header Details ..
+6/26/2019 5:24:58 PM Reading Item Details ..
+6/26/2019 5:25:00 PM RFQ 'AZN-19-0095' downloaded successfully.
+6/26/2019 5:25:00 PM File saved ..
+6/26/2019 5:25:00 PM 5001400_190626_171617392.txt File moved to Backup
+6/26/2019 5:25:00 PM 
+6/26/2019 5:25:00 PM Phoenix HTTP processor stopped
+6/26/2019 5:25:00 PM ====================================================
+6/26/2019 5:25:00 PM 
+6/26/2019 5:34:54 PM ================6/26/2019 5:34:54 PM================
+6/26/2019 5:34:54 PM Phoenix HTTP processor started
+6/26/2019 5:34:54 PM Phoenix Processor Started.
+6/26/2019 5:34:54 PM No files found.
+6/26/2019 5:34:54 PM Phoenix HTTP processor stopped
+6/26/2019 5:34:54 PM ====================================================
+6/26/2019 5:34:54 PM 
+6/26/2019 5:44:54 PM ================6/26/2019 5:44:54 PM================
+6/26/2019 5:44:54 PM Phoenix HTTP processor started
+6/26/2019 5:44:54 PM Phoenix Processor Started.
+6/26/2019 5:44:54 PM Processing File 5001400_190626_173418421.txt
+6/26/2019 5:44:54 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=0D94F7F8-F497-E911-B330-06089601E630&STOCKTYPE=STORE
+6/26/2019 5:44:54 PM Navigating To URL ..
+6/26/2019 5:44:56 PM Page Loaded ..
+6/26/2019 5:44:56 PM Reading Header Details ..
+6/26/2019 5:44:58 PM Reading Item Details ..
+6/26/2019 5:44:59 PM RFQ 'GUI-19-0115' downloaded successfully.
+6/26/2019 5:44:59 PM File saved ..
+6/26/2019 5:44:59 PM 5001400_190626_173418421.txt File moved to Backup
+6/26/2019 5:44:59 PM 
+6/26/2019 5:44:59 PM Phoenix HTTP processor stopped
+6/26/2019 5:44:59 PM ====================================================
+6/26/2019 5:45:00 PM 
+6/26/2019 5:54:54 PM ================6/26/2019 5:54:54 PM================
+6/26/2019 5:54:54 PM Phoenix HTTP processor started
+6/26/2019 5:54:54 PM Phoenix Processor Started.
+6/26/2019 5:54:54 PM No files found.
+6/26/2019 5:54:54 PM Phoenix HTTP processor stopped
+6/26/2019 5:54:54 PM ====================================================
+6/26/2019 5:54:54 PM 
+6/26/2019 6:04:54 PM ================6/26/2019 6:04:54 PM================
+6/26/2019 6:04:54 PM Phoenix HTTP processor started
+6/26/2019 6:04:54 PM Phoenix Processor Started.
+6/26/2019 6:04:54 PM No files found.
+6/26/2019 6:04:54 PM Phoenix HTTP processor stopped
+6/26/2019 6:04:54 PM ====================================================
+6/26/2019 6:04:54 PM 
+6/26/2019 6:14:54 PM ================6/26/2019 6:14:54 PM================
+6/26/2019 6:14:54 PM Phoenix HTTP processor started
+6/26/2019 6:14:54 PM Phoenix Processor Started.
+6/26/2019 6:14:54 PM No files found.
+6/26/2019 6:14:54 PM Phoenix HTTP processor stopped
+6/26/2019 6:14:54 PM ====================================================
+6/26/2019 6:14:54 PM 
+6/26/2019 6:24:54 PM ================6/26/2019 6:24:54 PM================
+6/26/2019 6:24:54 PM Phoenix HTTP processor started
+6/26/2019 6:24:54 PM Phoenix Processor Started.
+6/26/2019 6:24:54 PM No files found.
+6/26/2019 6:24:54 PM Phoenix HTTP processor stopped
+6/26/2019 6:24:54 PM ====================================================
+6/26/2019 6:24:54 PM 
+6/26/2019 6:34:54 PM ================6/26/2019 6:34:54 PM================
+6/26/2019 6:34:54 PM Phoenix HTTP processor started
+6/26/2019 6:34:54 PM Phoenix Processor Started.
+6/26/2019 6:34:54 PM No files found.
+6/26/2019 6:34:54 PM Phoenix HTTP processor stopped
+6/26/2019 6:34:54 PM ====================================================
+6/26/2019 6:34:54 PM 
+6/26/2019 6:44:54 PM ================6/26/2019 6:44:54 PM================
+6/26/2019 6:44:54 PM Phoenix HTTP processor started
+6/26/2019 6:44:54 PM Phoenix Processor Started.
+6/26/2019 6:44:54 PM No files found.
+6/26/2019 6:44:54 PM Phoenix HTTP processor stopped
+6/26/2019 6:44:54 PM ====================================================
+6/26/2019 6:44:54 PM 
+6/26/2019 6:54:54 PM ================6/26/2019 6:54:54 PM================
+6/26/2019 6:54:54 PM Phoenix HTTP processor started
+6/26/2019 6:54:54 PM Phoenix Processor Started.
+6/26/2019 6:54:54 PM Processing File 190626_164421286.txt
+6/26/2019 6:54:54 PM  URL : https://protect-de.mimecast.com/s/jybCCpZ4VKFABxxtXE1ZO?domain=apps.southnests.com<https://protect-de.mimecast.com/s/tKxYCqQg85hXo77F58686?domain=apc01.safelinks.protection.outlook.com
+6/26/2019 6:54:54 PM Unable to process link file; Link not found in file 190626_164421286.txt
+6/26/2019 6:54:54 PM 190626_164421286.txt File moved to Error_files
+6/26/2019 6:54:54 PM 
+6/26/2019 6:54:54 PM Processing File 190626_164423833.txt
+6/26/2019 6:55:01 PM  URL : https://apps.southnests.com/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=A3CBD856-CE97-E911-B330-06089601E630&amp;STOCKTYPE=STORE
+6/26/2019 6:55:01 PM Navigating To URL ..
+6/26/2019 6:55:02 PM Page Loaded ..
+6/26/2019 6:55:02 PM Reading Header Details ..
+6/26/2019 6:55:04 PM Reading Item Details ..
+6/26/2019 6:55:07 PM RFQ 'REA-19-0178' downloaded successfully.
+6/26/2019 6:55:07 PM File saved ..
+6/26/2019 6:55:07 PM 190626_164423833.txt File moved to Backup
+6/26/2019 6:55:07 PM 
+6/26/2019 6:55:07 PM Processing File 190626_164458161.txt
+6/26/2019 6:55:12 PM  URL : https://apps.southnests.com/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=6ED310A0-E097-E911-B330-06089601E630&amp;STOCKTYPE=SERVICE
+6/26/2019 6:55:12 PM Navigating To URL ..
+6/26/2019 6:55:12 PM Page Loaded ..
+6/26/2019 6:55:12 PM Reading Header Details ..
+6/26/2019 6:55:13 PM Reading Item Details ..
+6/26/2019 6:55:14 PM RFQ 'GCV-19-9086' downloaded successfully.
+6/26/2019 6:55:14 PM File saved ..
+6/26/2019 6:55:14 PM 190626_164458161.txt File moved to Backup
+6/26/2019 6:55:14 PM 
+6/26/2019 6:55:14 PM Processing File 190626_164500271.txt
+6/26/2019 6:55:14 PM  URL : https://protect-de.mimecast.com/s/tZ59CVvwZrTkxWwczvPmi?domain=apc01.safelinks.protection.outlook.com
+6/26/2019 6:55:14 PM Unable to process link file; Link not found in file 190626_164500271.txt
+6/26/2019 6:55:14 PM 190626_164500271.txt File moved to Error_files
+6/26/2019 6:55:14 PM 
+6/26/2019 6:55:14 PM Processing File 190626_164524646.txt
+6/26/2019 6:55:19 PM  URL : https://apps.southnests.com/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=43F6F34A-E697-E911-B330-06089601E630&amp;STOCKTYPE=STORE
+6/26/2019 6:55:19 PM Navigating To URL ..
+6/26/2019 6:55:20 PM Page Loaded ..
+6/26/2019 6:55:20 PM Reading Header Details ..
+6/26/2019 6:55:21 PM Reading Item Details ..
+6/26/2019 6:55:23 PM RFQ 'EGX-19-0074A' downloaded successfully.
+6/26/2019 6:55:23 PM File saved ..
+6/26/2019 6:55:23 PM 190626_164524646.txt File moved to Backup
+6/26/2019 6:55:23 PM 
+6/26/2019 6:55:23 PM Processing File 190626_173458990.txt
+6/26/2019 6:55:23 PM  URL : https://protect-de.mimecast.com/s/8dSCC57B0xHpwz1tOJFU0?domain=apc01.safelinks.protection.outlook.com
+6/26/2019 6:55:23 PM Unable to process link file; Link not found in file 190626_173458990.txt
+6/26/2019 6:55:23 PM 190626_173458990.txt File moved to Error_files
+6/26/2019 6:55:23 PM 
+6/26/2019 6:55:23 PM Processing File 190626_184430782.txt
+6/26/2019 6:55:29 PM  URL : https://apps.southnests.com/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=ce603ceb-5b92-e911-b585-06089601e630&amp;STOCKTYPE=STORE
+6/26/2019 6:55:29 PM Navigating To URL ..
+6/26/2019 6:55:33 PM Reading Header Details ..
+6/26/2019 6:55:33 PM Reading Item Details ..
+6/26/2019 6:55:35 PM PO 'AAO-19-0080' downloaded successfully.
+6/26/2019 6:55:35 PM 190626_184430782.txt File moved to Backup
+6/26/2019 6:55:35 PM 
+6/26/2019 6:55:35 PM 190626_184430782_4001051_34142_AAO-19-0080SUP-00250420190626.pdf File moved to Backup
+6/26/2019 6:55:35 PM 
+6/26/2019 6:55:35 PM Processing File 4001020_190626_174056724.txt
+6/26/2019 6:55:35 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=056FAA7B-E397-E911-B330-06089601E630&STOCKTYPE=SPARE
+6/26/2019 6:55:35 PM Navigating To URL ..
+6/26/2019 6:55:35 PM Page Loaded ..
+6/26/2019 6:55:35 PM Reading Header Details ..
+6/26/2019 6:55:36 PM Reading Item Details ..
+6/26/2019 6:55:37 PM RFQ 'GUI-19-0113' downloaded successfully.
+6/26/2019 6:55:37 PM File saved ..
+6/26/2019 6:55:37 PM 4001020_190626_174056724.txt File moved to Backup
+6/26/2019 6:55:37 PM 
+6/26/2019 6:55:37 PM Processing File 4001020_190626_174057458.txt
+6/26/2019 6:55:37 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=76C494C6-E697-E911-B330-06089601E630&STOCKTYPE=SPARE
+6/26/2019 6:55:37 PM Navigating To URL ..
+6/26/2019 6:55:38 PM Page Loaded ..
+6/26/2019 6:55:38 PM Reading Header Details ..
+6/26/2019 6:55:39 PM Reading Item Details ..
+6/26/2019 6:55:41 PM RFQ 'GUI-19-0118' downloaded successfully.
+6/26/2019 6:55:41 PM File saved ..
+6/26/2019 6:55:41 PM 4001020_190626_174057458.txt File moved to Backup
+6/26/2019 6:55:41 PM 
+6/26/2019 6:55:41 PM Processing File 4001020_190626_174115224.txt
+6/26/2019 6:55:41 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=DB79A93C-EE97-E911-B330-06089601E630&STOCKTYPE=SPARE
+6/26/2019 6:55:41 PM Navigating To URL ..
+6/26/2019 6:55:41 PM Page Loaded ..
+6/26/2019 6:55:41 PM Reading Header Details ..
+6/26/2019 6:55:42 PM Reading Item Details ..
+6/26/2019 6:55:43 PM RFQ 'JAL-19-9098' downloaded successfully.
+6/26/2019 6:55:43 PM File saved ..
+6/26/2019 6:55:43 PM 4001020_190626_174115224.txt File moved to Backup
+6/26/2019 6:55:43 PM 
+6/26/2019 6:55:43 PM Processing File 4001020_190626_184113923.txt
+6/26/2019 6:55:43 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=ad42f589-228c-e911-b585-06089601e630&STOCKTYPE=SPARE
+6/26/2019 6:55:43 PM Navigating To URL ..
+6/26/2019 6:55:44 PM Reading Header Details ..
+6/26/2019 6:55:44 PM Reading Item Details ..
+6/26/2019 6:55:44 PM PO 'MAE-19-0058' downloaded successfully.
+6/26/2019 6:55:44 PM 4001020_190626_184113923.txt File moved to Backup
+6/26/2019 6:55:44 PM 
+6/26/2019 6:55:44 PM 4001020_190626_184113923_4001020_18813_MAE-19-0058SUP-00000220190626.pdf File moved to Backup
+6/26/2019 6:55:44 PM 
+6/26/2019 6:55:44 PM Processing File 4001020_190626_184115329.txt
+6/26/2019 6:55:44 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=dcc32f37-458b-e911-b585-06089601e630&STOCKTYPE=SPARE
+6/26/2019 6:55:44 PM Navigating To URL ..
+6/26/2019 6:55:44 PM Reading Header Details ..
+6/26/2019 6:55:44 PM Reading Item Details ..
+6/26/2019 6:55:45 PM PO 'MAE-19-0059' downloaded successfully.
+6/26/2019 6:55:45 PM 4001020_190626_184115329.txt File moved to Backup
+6/26/2019 6:55:45 PM 
+6/26/2019 6:55:45 PM 4001020_190626_184115329_4001020_18829_MAE-19-0059SUP-00000220190626.pdf File moved to Backup
+6/26/2019 6:55:45 PM 
+6/26/2019 6:55:45 PM Processing File 4001020_190626_184116048.txt
+6/26/2019 6:55:45 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=400fe854-5c75-e911-bac7-06089601e630&STOCKTYPE=SPARE
+6/26/2019 6:55:45 PM Navigating To URL ..
+6/26/2019 6:55:45 PM Reading Header Details ..
+6/26/2019 6:55:45 PM Reading Item Details ..
+6/26/2019 6:55:45 PM PO 'MAE-19-0045' downloaded successfully.
+6/26/2019 6:55:45 PM 4001020_190626_184116048.txt File moved to Backup
+6/26/2019 6:55:45 PM 
+6/26/2019 6:55:45 PM 4001020_190626_184116048_4001020_18876_MAE-19-0045SUP-00000220190626.pdf File moved to Backup
+6/26/2019 6:55:45 PM 
+6/26/2019 6:55:46 PM 190626_164500271_4001051_32880_5149944 LR2 POSEIDON.pdf File moved to InvalidFiles
+6/26/2019 6:55:46 PM 
+6/26/2019 6:55:46 PM Invalid File 190626_164500271_4001051_32880_5149944 LR2 POSEIDON.pdf moved to invalidFiles folder
+6/26/2019 6:55:46 PM Phoenix HTTP processor stopped
+6/26/2019 6:55:46 PM ====================================================
+6/26/2019 6:55:46 PM 
+6/26/2019 7:04:54 PM ================6/26/2019 7:04:54 PM================
+6/26/2019 7:04:54 PM Phoenix HTTP processor started
+6/26/2019 7:04:54 PM Phoenix Processor Started.
+6/26/2019 7:04:54 PM No files found.
+6/26/2019 7:04:54 PM Phoenix HTTP processor stopped
+6/26/2019 7:04:54 PM ====================================================
+6/26/2019 7:04:54 PM 
+6/26/2019 7:14:54 PM ================6/26/2019 7:14:54 PM================
+6/26/2019 7:14:54 PM Phoenix HTTP processor started
+6/26/2019 7:14:54 PM Phoenix Processor Started.
+6/26/2019 7:14:54 PM No files found.
+6/26/2019 7:14:54 PM Phoenix HTTP processor stopped
+6/26/2019 7:14:54 PM ====================================================
+6/26/2019 7:14:54 PM 
+6/26/2019 7:24:54 PM ================6/26/2019 7:24:54 PM================
+6/26/2019 7:24:54 PM Phoenix HTTP processor started
+6/26/2019 7:24:54 PM Phoenix Processor Started.
+6/26/2019 7:24:54 PM No files found.
+6/26/2019 7:24:54 PM Phoenix HTTP processor stopped
+6/26/2019 7:24:54 PM ====================================================
+6/26/2019 7:24:54 PM 
+6/26/2019 7:34:54 PM ================6/26/2019 7:34:54 PM================
+6/26/2019 7:34:54 PM Phoenix HTTP processor started
+6/26/2019 7:34:54 PM Phoenix Processor Started.
+6/26/2019 7:34:54 PM No files found.
+6/26/2019 7:34:54 PM Phoenix HTTP processor stopped
+6/26/2019 7:34:54 PM ====================================================
+6/26/2019 7:34:54 PM 
+6/26/2019 7:44:54 PM ================6/26/2019 7:44:54 PM================
+6/26/2019 7:44:54 PM Phoenix HTTP processor started
+6/26/2019 7:44:54 PM Phoenix Processor Started.
+6/26/2019 7:44:54 PM No files found.
+6/26/2019 7:44:54 PM Phoenix HTTP processor stopped
+6/26/2019 7:44:54 PM ====================================================
+6/26/2019 7:44:54 PM 
+6/26/2019 7:54:54 PM ================6/26/2019 7:54:54 PM================
+6/26/2019 7:54:54 PM Phoenix HTTP processor started
+6/26/2019 7:54:54 PM Phoenix Processor Started.
+6/26/2019 7:54:54 PM No files found.
+6/26/2019 7:54:54 PM Phoenix HTTP processor stopped
+6/26/2019 7:54:54 PM ====================================================
+6/26/2019 7:54:54 PM 
+6/26/2019 8:04:54 PM ================6/26/2019 8:04:54 PM================
+6/26/2019 8:04:54 PM Phoenix HTTP processor started
+6/26/2019 8:04:54 PM Phoenix Processor Started.
+6/26/2019 8:04:54 PM Processing File 4001020_190626_190614911.txt
+6/26/2019 8:04:54 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=bc379283-0f5c-e911-a90d-06089601e630&STOCKTYPE=STORE
+6/26/2019 8:04:54 PM Navigating To URL ..
+6/26/2019 8:05:01 PM Unable to process link file '4001020_190626_190614911.txt'. Error - The remote server returned an error: (500) Internal Server Error.
+6/26/2019 8:05:01 PM 4001020_190626_190614911.txt File moved to Error_files
+6/26/2019 8:05:01 PM 
+6/26/2019 8:05:01 PM Error in ProcessLinkFiles() - Object reference not set to an instance of an object.   at Http_Phoenix_Routine.Http_Download_Routine.ProcessLinkFiles()
+6/26/2019 8:05:01 PM Phoenix HTTP processor stopped
+6/26/2019 8:05:01 PM ====================================================
+6/26/2019 8:05:01 PM 
+6/26/2019 8:14:54 PM ================6/26/2019 8:14:54 PM================
+6/26/2019 8:14:54 PM Phoenix HTTP processor started
+6/26/2019 8:14:54 PM Phoenix Processor Started.
+6/26/2019 8:14:54 PM Processing File 4001020_190626_190616802.txt
+6/26/2019 8:14:54 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=D962E96A-0198-E911-B330-06089601E630&STOCKTYPE=SPARE
+6/26/2019 8:14:54 PM Navigating To URL ..
+6/26/2019 8:14:56 PM Page Loaded ..
+6/26/2019 8:14:56 PM Reading Header Details ..
+6/26/2019 8:14:59 PM Reading Item Details ..
+6/26/2019 8:15:00 PM RFQ 'PLR-19-0099' downloaded successfully.
+6/26/2019 8:15:00 PM File saved ..
+6/26/2019 8:15:00 PM 4001020_190626_190616802.txt File moved to Backup
+6/26/2019 8:15:00 PM 
+6/26/2019 8:15:01 PM Phoenix HTTP processor stopped
+6/26/2019 8:15:01 PM ====================================================
+6/26/2019 8:15:01 PM 
+6/26/2019 8:24:54 PM ================6/26/2019 8:24:54 PM================
+6/26/2019 8:24:54 PM Phoenix HTTP processor started
+6/26/2019 8:24:54 PM Phoenix Processor Started.
+6/26/2019 8:24:54 PM No files found.
+6/26/2019 8:24:54 PM Phoenix HTTP processor stopped
+6/26/2019 8:24:54 PM ====================================================
+6/26/2019 8:24:54 PM 
+6/26/2019 8:34:03 PM ================6/26/2019 8:34:03 PM================
+6/26/2019 8:34:03 PM Phoenix HTTP processor started
+6/26/2019 8:34:03 PM Phoenix Processor Started.
+6/26/2019 8:34:03 PM Processing File 4001020_190626_190614911.txt
+6/26/2019 8:34:03 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=bc379283-0f5c-e911-a90d-06089601e630&STOCKTYPE=STORE
+6/26/2019 8:34:03 PM Navigating To URL ..
+6/26/2019 8:34:04 PM Reading Header Details ..
+6/26/2019 8:34:04 PM Reading Item Details ..
+6/26/2019 8:34:05 PM Error in ExporttoItems() : Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDouble(String value)
+   at LeSXML.LineItem.set_ListPrice(String value)
+   at Http_Phoenix_Routine.Http_Download_Routine.ExporttoItems(List`1 _xmlItems, LeSXML _lesXML)
+6/26/2019 8:34:05 PM PO 'PLR-19-0056' downloaded successfully.
+6/26/2019 8:34:05 PM 4001020_190626_190614911.txt File moved to Backup
+6/26/2019 8:34:05 PM 
+6/26/2019 8:34:05 PM 4001020_190626_190614911_4001020_19021_PLR-19-0056SUP-00000220190626.pdf File moved to Backup
+6/26/2019 8:34:05 PM 
+6/26/2019 8:34:05 PM Phoenix HTTP processor stopped
+6/26/2019 8:34:05 PM ====================================================
+6/26/2019 8:34:05 PM 
+6/26/2019 8:34:54 PM ================6/26/2019 8:34:54 PM================
+6/26/2019 8:34:54 PM Phoenix HTTP processor started
+6/26/2019 8:34:54 PM Phoenix Processor Started.
+6/26/2019 8:34:54 PM No files found.
+6/26/2019 8:34:54 PM Phoenix HTTP processor stopped
+6/26/2019 8:34:54 PM ====================================================
+6/26/2019 8:34:54 PM 

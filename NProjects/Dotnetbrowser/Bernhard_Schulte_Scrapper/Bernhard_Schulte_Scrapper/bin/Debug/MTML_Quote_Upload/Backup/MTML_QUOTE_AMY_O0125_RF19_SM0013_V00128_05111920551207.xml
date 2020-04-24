@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="T-SQ-191101040" Identifier="UNOC" Recipient="BESC09_AMOSEPB" Sender="V00128" PreparationDate="2019-Nov-05" PreparationTime="20:55" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="91000004" LesRecordID="91375766" LesLinkID="91000014" ParentRecordID="91373837" MTML_DOCID="8C2D2BF5-D320-412E-8CB0-76F2F2245E45">
+    <Quote MessageReferenceNumber="91000014_RFQ_AMY_O0125_RF19_01112019120921480.xlsm" MessageNumber="91000014_RFQ_AMY_O0125_RF19_01112019120921480.xlsm" LineItemCount="13" VersionNumber="1" CurrencyCode="SGD" FunctionCode="_9" OriginatingSystemRef="91373837" LeadTimeDays="0" BuyerRefNo="AMY/O0125/RF19" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" SupplierORGRef="500091373837" BuyerItemTotal="479.55" BuyerQuoteTotal="479.55">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911052055" />
+      <Comments Qualifier="SUR">
+        <value>MINIMUM 4 WALKIE TALKIE REQUIRED FOR DECK( 2PCS) AND ENGINE(2PCS) WHICH WILL BE REQUIRED DURING CARGO, GANGWAY WATCH AND BUNKERING OPERATIONS. RADIO RX FREQ:457.525000 RADIO TX FREQ:457.525000 RX SQUELCH CODE TYPE: CSQ -- ETA SINGAPORE: 16TH NOV 2019
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="AMY/O0125/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="T-SQ-191101040" />
+      <Party Qualifier="BY" Identification="BESC09_AMOSEPB" Name="BERNHARD SCHULTE SHIPMANAGEMENT (SINGAPORE) PTE. LTD." City="SINGAPORE">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V00128" Name="AMOS INTERNATIONAL (S) PTE LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="sales.ms.sg@amosgroup.com,Pur_tech@amos-sg.com,pur_f&amp;b@amos-sg.com" />
+        </Contact>
+        <StreetAddress>156 GUL CIRCLE</StreetAddress>
+        <StreetAddress>SINGAPORE 619901</StreetAddress>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="TRUST AMITY">
+        <PartyLocation Qualifier="TBA" Port="SINGAPORE" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="PORTABLE 2 WAY RADIO / WALKIE-TALKIE &quot;MOTOROLA GP328&quot; WITH CHARGER AND BATTERY UHF" MeasureUnitQualifier="SET" Quantity="4" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="0.00" Identification="3700000" IsExtraItem="0" MarkedRemarks="PLEASE ADVISE I.S OR NON I.S" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="SET" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>PLEASE ADVISE I.S OR NON I.S |  QTY : 4 | UOM : PCS</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="2" Description="SPARE BATTERY FOR PORTABLE 2 WAY RADIO / WALKIE-TALKIE &quot;MOTOROLA GP328&quot;" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="0.00" Identification="3700000" IsExtraItem="0" MarkedRemarks="PLEASE ADVISE I.S OR NON I.S" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>PLEASE ADVISE I.S OR NON I.S</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="3" Description="PRINTER RIBBON CARTRIDGE FOR FURUNO PP-520 PRINTER INK RIBBON CARTRIDGE, TYPE: 7Q1VP80SF, CODE: 001-198-190-10" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="22" MonetaryAmount="26.75" Identification="3700000" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="5.35" BuyerItemTotal="26.75" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.35" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="4" Description="SAT-C PAPER SAT- C MAKE: FURUNO, MODEL: FELCOM18, PRINTER MODEL: PP-520, PAPER TYPE: A21PLYW, CODE: 000-167-226-10" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="23" MonetaryAmount="28.00" Identification="4700000" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.8" BuyerItemTotal="28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.8" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="5" Description="COURSE RECORDER PAPER COURSE RECORDER: TOKYO KEIKI, MODEL: CR-4, DIMENSION OF PAPER- 151(MM) * 32.4(M) PRESSURE SENSITIVE PAPER." MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="24" MonetaryAmount="112.90" Identification="372610" IsExtraItem="0" MarkedRemarks="OFFER RECORDING PAPER COURSE RECORDER TOKIMEC CR-4 120103570" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="11.29" BuyerItemTotal="112.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.29" />
+        <Comments Qualifier="LIN">
+          <value>OFFER RECORDING PAPER COURSE RECORDER TOKIMEC CR-4 120103570</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="6" Description="ECHO SOUNDER RECORDER PAPER ECHO SOUNDER MAKE: FURUNO, MODEL: FE-800, PRINTER MAKE: FURUNO, MODEL: PP-505." MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="25" MonetaryAmount="9.00" Identification="4700000" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.8" BuyerItemTotal="9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.8" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="7" Description="FACSIMILI RECEIVER THERMAL RECORDING PAPER FAX MAKE: FURUNO, MODEL: FAX-408, PAPER TYPE: TP-0820B, CODE: 000-157-755-10" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="26" MonetaryAmount="12.75" Identification="4700000" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.55" BuyerItemTotal="12.75" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.55" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="8" Description="NAVTEX THERMAL PAPER NAVTEX MAKE: FURUNO, MODEL: NX-700A/B. THERMAL PAPER TYPE: TP058-30CL, CODE: 000-154-047." MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="27" MonetaryAmount="9.00" Identification="4700000" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.8" BuyerItemTotal="9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.8" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="9" Description="TELEGRAPH LOGGER PRINTER PAPER MAKE: NABTESCO. PAPER NO.- 74744800-01" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="28" MonetaryAmount="9.00" Identification="4700000" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.8" BuyerItemTotal="9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.8" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="10" Description="SOUNDING LEAD 12.7KG" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="29" MonetaryAmount="192.50" Identification="370302" IsExtraItem="0" MarkedRemarks="W/OUT LINE" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="192.5" BuyerItemTotal="192.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="192.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="192.5" />
+        <Comments Qualifier="LIN">
+          <value>W/OUT LINE</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="11" Description="SOUNDING LEAD 3.2KG" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="30" MonetaryAmount="53.10" Identification="370301" IsExtraItem="0" MarkedRemarks="W/OUT LINE" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="53.1" BuyerItemTotal="53.1" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="53.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="53.1" />
+        <Comments Qualifier="LIN">
+          <value>W/OUT LINE</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="12" Description="SOUNDING ROD BRASS 4-FOLDED, ROUND METRIC 1MTR" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="12" SystemItemNo="31" MonetaryAmount="26.55" Identification="370309" IsExtraItem="0" MarkedRemarks="OFFER SOUNDING ROD BRASS 5-FOLDER ROUND METRIC&amp;INCH 1MTR" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="26.55" BuyerItemTotal="26.55" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="26.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="26.55" />
+        <Comments Qualifier="LIN">
+          <value>OFFER SOUNDING ROD BRASS 5-FOLDER ROUND METRIC&amp;INCH 1MTR</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="13" Description="PORTABLE POUCH WITH ADJUSTABLE STRAP (FOR UHF WALKIE-TALKIE &quot;MOTOROLA GP328&quot;)-HLN9701" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="13" SystemItemNo="32" MonetaryAmount="0.00" Identification="3700000" IsExtraItem="0" MarkedRemarks="PLEASE ADVISE I.S OR NON I.S" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>PLEASE ADVISE I.S OR NON I.S</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="479.550" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="479.550" />
+      <MonetaryAmount Qualifier="_90" Value="479.550" />
+      <MonetaryAmount Qualifier="_91" Value="479.550" />
+    </Quote>
+  </Interchange>
+</MTML>

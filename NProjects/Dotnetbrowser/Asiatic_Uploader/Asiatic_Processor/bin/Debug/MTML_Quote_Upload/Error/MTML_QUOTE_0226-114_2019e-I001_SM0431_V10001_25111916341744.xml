@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="S103548" Identifier="UNOC" Recipient="SM0431_Web" Sender="V10001" PreparationDate="2019-Nov-25" PreparationTime="16:34" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2653" LesRecordID="11834914" LesLinkID="103720" ParentRecordID="11834616" MTML_DOCID="0050F543-AF62-4AF9-85EF-E1F427A22850">
+    <Quote MessageReferenceNumber="0226-114/2019e-I001" MessageNumber="https://atlantic-lloyd.cloudfleetmanager.com/apps/quote/f85bad60-2e77-44bb-8f95-01f679a28da8" LineItemCount="14" VersionNumber="1" CurrencyCode="USD" TransportModeCode="_3" LeadTimeDays="7" BuyerRefNo="0226-114/2019e-I001" OriginalFile="OrderQuotation-S103548_191125_163141530.pdf" IsAltItemAllowed="1" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="3311.37" BuyerQuoteTotal="3311.37">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911251634" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201912020000" />
+      <Comments Qualifier="SUR">
+        <value>Thanks for your inquiry. We're pleased to offer our quotation for your consideration.
+
+Item 8, 9, 10, 11, 12, 13: Quantities offered are in accordance to our standard packaging. Our UOM is in pck.
+
+All quoted items are ex-stock subject to prior sales. 
+
+Delivery Charge (alongside) @  Port Singapore  
+Delivery Lead time: 1-2  working days
+Subject to additional delivery charge, hire of barge/crane, custom fee, etc.
+
+Please allow another 1-2 working days’ notice for delivery arrangement.
+
+All deliveries in Singapore are subject to 7% Goods and Services Tax (GST) under local regulation. This GST could be waived by providing Vessel Stamps on D/O or any other relevant export documentation within 14 days.
+
+We look forward to receiving your earliest order confirmation.
+
+Best Regards,
+Jaccy Low
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 14 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 0 USD
+ Item Total : 1754.09 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="0226-114/2019e-I001" />
+      <Reference Qualifier="AAG" ReferenceNumber="S103548" />
+      <Party Qualifier="BY" Name="ASIATIC LLOYD SHIPMANAGEMENT LLP">
+        <Contact>
+          <CommunicationMethod Qualifier="EM" Number="N/A" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service (S) Pte Ltd">
+        <Contact Name="Saw, Myint">
+          <CommunicationMethod Qualifier="EM" Number="wss.cs.singapore.products@wilhelmsen.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA" Name="Asiatic Moon Shipping Pte. Ltd.">
+        <Contact />
+        <StreetAddress>20 McCallum Street, #16-01, Tokio Marine Centre
+069046 
+Singapore</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="0226. ASIATIC MOON">
+        <PartyLocation Qualifier="ZUC" Berth="SINGAPORE" Port="SGSIN" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Charging Hose | " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="76505277-cc64-493b-959d-af88259ad180" SystemItemNo="1" MonetaryAmount="61.60" Identification="320234" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="61.6" BuyerItemTotal="61.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="61.6" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="61.6" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Refrigerant Cyl. valve adaptors | " MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="3c5c203b-d06e-4c82-a4cc-4f93e39d0a9a" SystemItemNo="2" MonetaryAmount="46.20" Identification="544932" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="SET" Supp_Price="46.2" BuyerItemTotal="46.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="46.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="46.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="Collection of fittings | " MeasureUnitQualifier="PA" Quantity="1" TypeCode="BP" OriginatingSystemRef="64774309-c918-4556-8aa4-ad20b948e5e7" SystemItemNo="3" MonetaryAmount="204.31" Identification="636431" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="PCK" Supp_Price="204.31" BuyerItemTotal="204.31" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="204.31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="204.31" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="Gauge adaptors | " MeasureUnitQualifier="PA" Quantity="1" TypeCode="BP" OriginatingSystemRef="fa13827a-f2b8-4269-8fa8-d1a868cf66c5" SystemItemNo="4" MonetaryAmount="168.30" Identification="636712" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="PCK" Supp_Price="168.3" BuyerItemTotal="168.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="168.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="168.3" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="Discharge/OP gauge | " MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="ef897ac9-3fe9-4d88-932a-4d2d32563bfa" SystemItemNo="5" MonetaryAmount="187.00" Identification="741165" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Piece" Supp_UOM="PCS" Supp_Price="93.5" BuyerItemTotal="187" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="93.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="93.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="Meintenance Kit Leak Detector-XP2 | " MeasureUnitQualifier="PA" Quantity="1" TypeCode="BP" OriginatingSystemRef="9abb209f-6d32-4f83-b1ec-e2f20b4c0889" SystemItemNo="6" MonetaryAmount="88.20" Identification="548700" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="PCK" Supp_Price="88.2" BuyerItemTotal="88.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="88.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="88.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="Flux coated Silver Rods AG 60 252 2.0X | " MeasureUnitQualifier="PA" Quantity="1" TypeCode="BP" OriginatingSystemRef="3ee6b2a8-aa4b-47b8-91f0-fb6516646196" SystemItemNo="7" MonetaryAmount="354.39" Identification="233601" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Packet" Supp_UOM="PCK" Supp_Price="354.39" BuyerItemTotal="354.39" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="354.39" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="354.39" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="Flux coated Bronze Rods | " MeasureUnitQualifier="PA" Quantity="2" TypeCode="BP" OriginatingSystemRef="ca72f08e-68d8-4c32-9e8b-ae7b7985d273" SystemItemNo="8" MonetaryAmount="160.70" Identification="233577" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Kilogram" Supp_UOM="PCK" Supp_Price="80.35" BuyerItemTotal="160.7" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="80.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="80.35" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="Tig Gloves | " MeasureUnitQualifier="PA" Quantity="1" TypeCode="BP" OriginatingSystemRef="58c92823-8733-4dd3-bbac-ebd324d008e9" SystemItemNo="9" MonetaryAmount="48.15" Identification="632794" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="1" Byr_UOM="Pair" Supp_UOM="PCK" Supp_Price="48.15" BuyerItemTotal="288.9" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="48.15" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="48.15" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="Welding Electrodes E-6013; 2.5mm | " MeasureUnitQualifier="PA" Quantity="5" TypeCode="BP" OriginatingSystemRef="7baad217-6ebc-4568-b409-5bd911784632" SystemItemNo="10" MonetaryAmount="112.90" Identification="699165" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="26" Supp_Qty="5" Byr_UOM="Kilogram" Supp_UOM="PCK" Supp_Price="22.58" BuyerItemTotal="587.08" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="22.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="22.58" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="Welding Electrodes E-6013; 3.2mm | " MeasureUnitQualifier="PA" Quantity="5" TypeCode="BP" OriginatingSystemRef="3b78b9d0-3e64-43ac-8b1f-1b464822d8aa" SystemItemNo="11" MonetaryAmount="107.85" Identification="699173" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="27" Supp_Qty="5" Byr_UOM="Kilogram" Supp_UOM="PCK" Supp_Price="21.57" BuyerItemTotal="582.39" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="21.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="21.57" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="Welding Electrodes E-7018; 2.5mm | " MeasureUnitQualifier="PA" Quantity="5" TypeCode="BP" OriginatingSystemRef="f76bbbeb-a60b-4ad5-860b-a32e9dd7d168" SystemItemNo="12" MonetaryAmount="96.35" Identification="699264" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="5" Byr_UOM="Kilogram" Supp_UOM="PCK" Supp_Price="19.27" BuyerItemTotal="385.4" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="19.27" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="19.27" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="Welding Electrodes 18/8-321N 2.5mm | " MeasureUnitQualifier="PA" Quantity="3" TypeCode="BP" OriginatingSystemRef="04580329-8946-4215-b456-bb3c2a2e737a" SystemItemNo="13" MonetaryAmount="118.14" Identification="699405" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="3" Byr_UOM="Kilogram" Supp_UOM="PCK" Supp_Price="39.38" BuyerItemTotal="196.9" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="39.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="39.38" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="FIXED CHARGE LAST MILE DELIVERY" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="14" MonetaryAmount="0.00" DeliveryTime="7" IsExtraItem="1" ItemType="FREIGHT" ItemStatus="Addition" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1754.090" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1754.090" />
+      <MonetaryAmount Qualifier="_90" Value="3311.370" />
+      <MonetaryAmount Qualifier="_91" Value="1754.090" />
+    </Quote>
+  </Interchange>
+</MTML>

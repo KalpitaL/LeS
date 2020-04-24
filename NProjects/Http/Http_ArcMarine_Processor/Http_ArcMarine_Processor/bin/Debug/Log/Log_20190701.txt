@@ -1,0 +1,237 @@
+01/07/2019 13:10:24 ================01/07/2019 13:10:24================
+01/07/2019 13:10:24 ArcMarine HTTP processor started
+01/07/2019 13:10:24 ArcMarine Processor Started.
+01/07/2019 13:10:24 Processing File 15000332_190701_144709137.txt
+01/07/2019 13:10:51  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 13:10:58 Navigating To URL ..
+01/07/2019 13:11:21 Page Loaded ..
+01/07/2019 13:11:24 Reading Header Details ..
+01/07/2019 13:11:36 Reading Item Details ..
+01/07/2019 13:13:53 Error while reading items -    at Http_ArcMarine_Routine.Http_Download_Routine.GetRFQItems(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_ArcMarine_Processor\Http_ArcMarine_Routine\Http_Download_Routine.cs:line 738
+   at Http_ArcMarine_Routine.Http_Download_Routine.GetItemsData(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_ArcMarine_Processor\Http_ArcMarine_Routine\Http_Download_Routine.cs:line 583
+01/07/2019 13:52:59 ================01/07/2019 13:52:59================
+01/07/2019 13:52:59 ArcMarine HTTP processor started
+01/07/2019 13:52:59 ArcMarine Processor Started.
+01/07/2019 13:52:59 Processing File 15000332_190701_144709137.txt
+01/07/2019 13:53:00  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 13:53:01 Navigating To URL ..
+01/07/2019 13:53:05 Page Loaded ..
+01/07/2019 13:53:05 Reading Header Details ..
+01/07/2019 13:53:11 Reading Item Details ..
+01/07/2019 14:25:51 ================01/07/2019 14:25:51================
+01/07/2019 14:25:51 ArcMarine HTTP processor started
+01/07/2019 14:25:51 ArcMarine Processor Started.
+01/07/2019 14:25:51 Processing File 15000332_190701_144709137.txt
+01/07/2019 14:26:13  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 14:26:15 Navigating To URL ..
+01/07/2019 14:26:20 Page Loaded ..
+01/07/2019 14:26:20 Reading Header Details ..
+01/07/2019 14:26:23 Reading Item Details ..
+01/07/2019 14:29:29 ================01/07/2019 14:29:29================
+01/07/2019 14:29:29 ArcMarine HTTP processor started
+01/07/2019 14:29:29 ArcMarine Processor Started.
+01/07/2019 14:29:29 Processing File 15000332_190701_144709137.txt
+01/07/2019 14:29:32  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 14:29:34 Navigating To URL ..
+01/07/2019 14:29:42 Page Loaded ..
+01/07/2019 14:29:42 Reading Header Details ..
+01/07/2019 14:29:45 Reading Item Details ..
+01/07/2019 15:03:43 ================01/07/2019 15:03:43================
+01/07/2019 15:03:43 ArcMarine HTTP processor started
+01/07/2019 15:03:43 ArcMarine Processor Started.
+01/07/2019 15:03:43 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:03:43  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:03:43 Navigating To URL ..
+01/07/2019 15:03:51 Page Loaded ..
+01/07/2019 15:03:51 Reading Header Details ..
+01/07/2019 15:03:55 Reading Item Details ..
+01/07/2019 15:04:15 ================01/07/2019 15:04:15================
+01/07/2019 15:04:15 ArcMarine HTTP processor started
+01/07/2019 15:04:15 ArcMarine Processor Started.
+01/07/2019 15:04:15 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:04:15  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:04:15 Navigating To URL ..
+01/07/2019 15:04:17 Page Loaded ..
+01/07/2019 15:04:17 Reading Header Details ..
+01/07/2019 15:04:21 Reading Item Details ..
+01/07/2019 15:10:14 ================01/07/2019 15:10:14================
+01/07/2019 15:10:14 ArcMarine HTTP processor started
+01/07/2019 15:10:14 ArcMarine Processor Started.
+01/07/2019 15:10:14 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:10:15  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:10:15 Navigating To URL ..
+01/07/2019 15:10:17 Page Loaded ..
+01/07/2019 15:10:17 Reading Header Details ..
+01/07/2019 15:10:20 Reading Item Details ..
+01/07/2019 15:12:28 ================01/07/2019 15:12:28================
+01/07/2019 15:12:28 ArcMarine HTTP processor started
+01/07/2019 15:12:28 ArcMarine Processor Started.
+01/07/2019 15:12:28 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:12:28  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:12:28 Navigating To URL ..
+01/07/2019 15:12:30 Page Loaded ..
+01/07/2019 15:12:30 Reading Header Details ..
+01/07/2019 15:12:34 Reading Item Details ..
+01/07/2019 15:16:00 ================01/07/2019 15:16:00================
+01/07/2019 15:16:00 ArcMarine HTTP processor started
+01/07/2019 15:16:00 ArcMarine Processor Started.
+01/07/2019 15:16:00 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:16:00  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:16:00 Navigating To URL ..
+01/07/2019 15:16:03 Page Loaded ..
+01/07/2019 15:16:03 Reading Header Details ..
+01/07/2019 15:16:06 Reading Item Details ..
+01/07/2019 15:17:03 ================01/07/2019 15:17:03================
+01/07/2019 15:17:03 ArcMarine HTTP processor started
+01/07/2019 15:17:03 ArcMarine Processor Started.
+01/07/2019 15:17:03 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:17:03  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:17:03 Navigating To URL ..
+01/07/2019 15:17:06 Page Loaded ..
+01/07/2019 15:17:06 Reading Header Details ..
+01/07/2019 15:17:10 Reading Item Details ..
+01/07/2019 15:25:53 ================01/07/2019 15:25:53================
+01/07/2019 15:25:53 ArcMarine HTTP processor started
+01/07/2019 15:25:53 ArcMarine Processor Started.
+01/07/2019 15:25:53 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:25:53  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:25:53 Navigating To URL ..
+01/07/2019 15:25:55 Page Loaded ..
+01/07/2019 15:25:55 Reading Header Details ..
+01/07/2019 15:26:07 ================01/07/2019 15:26:07================
+01/07/2019 15:26:07 ArcMarine HTTP processor started
+01/07/2019 15:26:07 ArcMarine Processor Started.
+01/07/2019 15:26:07 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:26:07  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:26:07 Navigating To URL ..
+01/07/2019 15:26:10 Page Loaded ..
+01/07/2019 15:26:10 Reading Header Details ..
+01/07/2019 15:26:13 Reading Item Details ..
+01/07/2019 15:39:04 ================01/07/2019 15:39:04================
+01/07/2019 15:39:04 ArcMarine HTTP processor started
+01/07/2019 15:39:04 ArcMarine Processor Started.
+01/07/2019 15:39:04 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:39:04  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:39:04 Navigating To URL ..
+01/07/2019 15:39:07 Page Loaded ..
+01/07/2019 15:39:07 Reading Header Details ..
+01/07/2019 15:39:10 Reading Item Details ..
+01/07/2019 15:43:02 ================01/07/2019 15:43:02================
+01/07/2019 15:43:02 ArcMarine HTTP processor started
+01/07/2019 15:43:02 ArcMarine Processor Started.
+01/07/2019 15:43:02 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:43:02  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:43:02 Navigating To URL ..
+01/07/2019 15:43:04 Page Loaded ..
+01/07/2019 15:43:04 Reading Header Details ..
+01/07/2019 15:43:07 Reading Item Details ..
+01/07/2019 15:44:37 ================01/07/2019 15:44:37================
+01/07/2019 15:44:37 ArcMarine HTTP processor started
+01/07/2019 15:44:37 ArcMarine Processor Started.
+01/07/2019 15:44:37 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:44:37  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:44:37 Navigating To URL ..
+01/07/2019 15:44:40 Page Loaded ..
+01/07/2019 15:44:40 Reading Header Details ..
+01/07/2019 15:44:43 Reading Item Details ..
+01/07/2019 15:45:22 ================01/07/2019 15:45:22================
+01/07/2019 15:45:22 ArcMarine HTTP processor started
+01/07/2019 15:45:22 ArcMarine Processor Started.
+01/07/2019 15:45:22 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:45:22  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:45:22 Navigating To URL ..
+01/07/2019 15:45:24 Page Loaded ..
+01/07/2019 15:45:24 Reading Header Details ..
+01/07/2019 15:45:27 Reading Item Details ..
+01/07/2019 15:46:40 ================01/07/2019 15:46:40================
+01/07/2019 15:46:40 ArcMarine HTTP processor started
+01/07/2019 15:46:40 ArcMarine Processor Started.
+01/07/2019 15:46:40 Processing File 15000332_190701_144709137.txt
+01/07/2019 15:46:40  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=3807545E-C89B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 15:46:40 Navigating To URL ..
+01/07/2019 15:46:42 Page Loaded ..
+01/07/2019 15:46:42 Reading Header Details ..
+01/07/2019 15:46:45 Reading Item Details ..
+01/07/2019 16:29:43 ================01/07/2019 16:29:43================
+01/07/2019 16:29:43 ArcMarine HTTP processor started
+01/07/2019 16:29:43 ArcMarine Processor Started.
+01/07/2019 16:29:43 Processing File 15000332_190701_134741358.txt
+01/07/2019 16:29:43  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=56932162-B69B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 16:29:43 Navigating To URL ..
+01/07/2019 16:29:45 Page Loaded ..
+01/07/2019 16:29:45 Reading Header Details ..
+01/07/2019 16:29:47 Reading Item Details ..
+01/07/2019 16:29:50 Error while reading items -    at Http_ArcMarine_Routine.Http_Download_Routine.GetRFQItems(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_ArcMarine_Processor\Http_ArcMarine_Routine\Http_Download_Routine.cs:line 770
+   at Http_ArcMarine_Routine.Http_Download_Routine.GetItemsData(Dictionary`2 _xmlHeader) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_ArcMarine_Processor\Http_ArcMarine_Routine\Http_Download_Routine.cs:line 583
+01/07/2019 16:30:22 ================01/07/2019 16:30:22================
+01/07/2019 16:30:22 ArcMarine HTTP processor started
+01/07/2019 16:30:22 ArcMarine Processor Started.
+01/07/2019 16:30:22 Processing File 15000332_190701_134741358.txt
+01/07/2019 16:30:22  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=56932162-B69B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 16:30:22 Navigating To URL ..
+01/07/2019 16:30:24 Page Loaded ..
+01/07/2019 16:30:24 Reading Header Details ..
+01/07/2019 16:30:25 Reading Item Details ..
+01/07/2019 16:31:55 ================01/07/2019 16:31:55================
+01/07/2019 16:31:55 ArcMarine HTTP processor started
+01/07/2019 16:31:55 ArcMarine Processor Started.
+01/07/2019 16:31:55 Processing File 15000332_190701_134741358.txt
+01/07/2019 16:31:55  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=56932162-B69B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 16:31:55 Navigating To URL ..
+01/07/2019 16:31:56 Page Loaded ..
+01/07/2019 16:31:56 Reading Header Details ..
+01/07/2019 16:31:58 Reading Item Details ..
+01/07/2019 16:33:43 ================01/07/2019 16:33:43================
+01/07/2019 16:33:43 ArcMarine HTTP processor started
+01/07/2019 16:33:43 ArcMarine Processor Started.
+01/07/2019 16:33:43 Processing File 15000332_190701_134741358.txt
+01/07/2019 16:33:43  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=56932162-B69B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 16:33:43 Navigating To URL ..
+01/07/2019 16:33:45 Page Loaded ..
+01/07/2019 16:33:45 Reading Header Details ..
+01/07/2019 16:33:46 Reading Item Details ..
+01/07/2019 16:35:03 ================01/07/2019 16:35:03================
+01/07/2019 16:35:03 ArcMarine HTTP processor started
+01/07/2019 16:35:03 ArcMarine Processor Started.
+01/07/2019 16:35:03 Processing File 15000332_190701_134741358.txt
+01/07/2019 16:35:03  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=56932162-B69B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 16:35:03 Navigating To URL ..
+01/07/2019 16:35:06 Page Loaded ..
+01/07/2019 16:35:06 Reading Header Details ..
+01/07/2019 16:35:07 Reading Item Details ..
+01/07/2019 16:45:07 ================01/07/2019 16:45:07================
+01/07/2019 16:45:07 ArcMarine HTTP processor started
+01/07/2019 16:45:07 ArcMarine Processor Started.
+01/07/2019 16:45:07 Processing File 15000332_190701_134741358.txt
+01/07/2019 16:45:07  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=56932162-B69B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 16:45:07 Navigating To URL ..
+01/07/2019 16:45:09 Page Loaded ..
+01/07/2019 16:45:09 Reading Header Details ..
+01/07/2019 16:45:10 Reading Item Details ..
+01/07/2019 17:09:22 ================01/07/2019 17:09:22================
+01/07/2019 17:09:22 ArcMarine HTTP processor started
+01/07/2019 17:09:22 ArcMarine Processor Started.
+01/07/2019 17:09:22 Processing File 15000332_190701_134741358.txt
+01/07/2019 17:09:22  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=56932162-B69B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 17:09:22 Navigating To URL ..
+01/07/2019 17:09:25 Page Loaded ..
+01/07/2019 17:09:25 Reading Header Details ..
+01/07/2019 17:09:27 Reading Item Details ..
+01/07/2019 18:21:47 ================01/07/2019 18:21:47================
+01/07/2019 18:21:47 ArcMarine HTTP processor started
+01/07/2019 18:21:47 ArcMarine Processor Started.
+01/07/2019 18:21:47 Processing File 15000332_190701_134741358.txt
+01/07/2019 18:21:47  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=56932162-B69B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 18:21:47 Navigating To URL ..
+01/07/2019 18:21:49 Page Loaded ..
+01/07/2019 18:21:49 Reading Header Details ..
+01/07/2019 18:21:51 Reading Item Details ..
+01/07/2019 18:22:30 ================01/07/2019 18:22:30================
+01/07/2019 18:22:30 ArcMarine HTTP processor started
+01/07/2019 18:22:30 ArcMarine Processor Started.
+01/07/2019 18:22:30 Processing File 15000332_190701_134741358.txt
+01/07/2019 18:22:30  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=56932162-B69B-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+01/07/2019 18:22:31 Navigating To URL ..
+01/07/2019 18:22:32 Page Loaded ..
+01/07/2019 18:22:32 Reading Header Details ..
+01/07/2019 18:22:35 Reading Item Details ..

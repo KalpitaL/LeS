@@ -1,0 +1,23 @@
+25/06/2019 14:49:57 ================25/06/2019 14:49:57================
+25/06/2019 14:49:57 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+25/06/2019 14:50:02 
+25/06/2019 14:50:02 Buyer: Kopping Reederei GmbH & Co. KG
+25/06/2019 14:50:02 
+25/06/2019 14:50:02 Quote processing started.
+25/06/2019 14:50:02 No Quote files found to process.
+25/06/2019 14:50:02 Quote processing stopped.
+25/06/2019 14:50:04 Pacific Basin RFQ,PO,Quote,POC HTTP processor stooped.
+25/06/2019 14:50:04 ====================================================
+25/06/2019 14:51:47 ================25/06/2019 14:51:47================
+25/06/2019 14:51:47 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+25/06/2019 14:52:01 
+25/06/2019 14:52:03 Buyer: Kopping Reederei GmbH & Co. KG
+25/06/2019 14:52:11 
+25/06/2019 14:52:11 Quote processing started.
+25/06/2019 14:52:19 Started Loading interchange object.
+25/06/2019 14:52:19 stopped Loading interchange object.
+25/06/2019 14:52:28 1 files found to process.
+25/06/2019 14:52:30 Started Loading interchange object.
+25/06/2019 14:52:30 stopped Loading interchange object.
+25/06/2019 14:52:33 'MTML_QUOTE_RTH-B19X0084(01)CC-5133_SM3068_V10889_25061916344991.xml' Quote file processing started.
+25/06/2019 14:52:53 Login Successfully.

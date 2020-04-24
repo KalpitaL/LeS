@@ -1,0 +1,1 @@
+||Asiatic_HTTP_RFQ|190724_103249012.txt||Error|19-07-30 16:26 : Exception while processing RFQ -190724_103249012.msg: The remote server returned an error: (404) Not Found.||LeS_182|SM0431_Web|V10001|Http_Asiatic_Processor

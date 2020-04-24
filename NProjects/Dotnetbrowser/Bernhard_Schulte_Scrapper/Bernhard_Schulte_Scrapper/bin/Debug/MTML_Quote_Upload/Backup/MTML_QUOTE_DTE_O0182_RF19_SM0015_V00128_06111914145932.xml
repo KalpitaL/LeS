@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="T-SQ-191101256" Identifier="UNOC" Recipient="BESC05_AMOSEPB" Sender="V00128" PreparationDate="2019-Nov-06" PreparationTime="14:14" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="91000004" LesRecordID="91376060" LesLinkID="91000016" ParentRecordID="91375896" MTML_DOCID="2BBBFF5A-659F-4795-9D5C-03B5306DD16C">
+    <Quote MessageReferenceNumber="91000016_RFQ_DTE_O0182_RF19_06112019103920669.xlsm" MessageNumber="91000016_RFQ_DTE_O0182_RF19_06112019103920669.xlsm" LineItemCount="10" VersionNumber="1" CurrencyCode="SGD" FunctionCode="_9" OriginatingSystemRef="91375896" LeadTimeDays="0" BuyerRefNo="DTE/O0182/RF19" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" SupplierORGRef="500091375896" BuyerItemTotal="0" BuyerQuoteTotal="0">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911061414" />
+      <Comments Qualifier="SUR">
+        <value>
+
+ITEM ADDED - 1 : LIFEBOAT DRINKING WATER 385ML **OFFER 500ML/PKT** | QTY : 195 | UOM : PKT | PRICE : 2.05 SGD | REMARKS : OFFER 500ML/PKT
+ITEM ADDED - 2 : FIRST AID KIT WITH LLOYD AND SOLAR APPROVED FOR LIFEBOAT OR LIFEART | QTY : 2 | UOM : PCS | PRICE : 53.1 SGD
+ITEM ADDED - 3 : ANTI-SEASICKNESS TABLETS (312S) **OFFER 100'S/BTL** | QTY : 3 | UOM : BTL | PRICE : 4.7 SGD | REMARKS : OFFER 100'S/BTL
+ITEM ADDED - 4 : RETRO TAPE REFLECTIVE SILVER W 50MM X 50 YD ( WITHOUT SOLAS) | QTY : 3 | UOM : PCS | PRICE : 36.08 SGD
+ITEM ADDED - 5 : LIFE JACLET LIGHT (TYPE:YDG1C) **YDG1C CURRENTLY OUT OF STOCK, OFFER HAIZHOU BRAND MED CERT** | QTY : 5 | UOM : PCS | PRICE : 9.5 SGD | REMARKS : YDG1C CURRENTLY OUT OF STOCK, OFFER HAIZHOU BRAND MED CERT
+ITEM ADDED - 6 : LIFEBUOY LIGHT L160 DANIAMANT, SOLAS/MED APPROVED (TYPE:QD10G)
+**OFFER HUAYAN CHINA QD10L MODEL MED CERT LITHIUM BATTERY 
+~~QD10G CURRENTLY OUT OF STOCK** | QTY : 5 | UOM : PCS | PRICE : 29.1 SGD | REMARKS : OFFER HUAYAN CHINA QD10L MODEL MED CERT LITHIUM BATTERY 
+~~QD10G CURRENTLY OUT OF STOCK
+ITEM ADDED - 7 : @@OPTION 2 : OFFER L160 DANIAMANT@@ | QTY : 0 | UOM : PCS | PRICE : 94.85 SGD
+ITEM ADDED - 8 : FIRE EXTINGUISHER ABC POWDER POWDER CONTENT 6.0KGS (TYPE: 6KG MFZ/ABC6)
+**OFFER 6.0 KG DCP FIRE EXTINGUISHER C/W WALL HANGER, STORED PRESSURE TYPE, DNV-GL MED APPROVED** | QTY : 1 | UOM : PCS | PRICE : 63.25 SGD | REMARKS : OFFER 6.0 KG DCP FIRE EXTINGUISHER C/W WALL HANGER, STORED PRESSURE TYPE, DNV-GL MED APPROVED
+ITEM ADDED - 9 : FIRE HOSE RUBBER LINED TETORON, 65MMX20MTR 9KGF/CM2**OFFER : WHITE CANVAS FIRE HOSE 65MM X 20MTR W/CERTIFICATE** | QTY : 10 | UOM : C/L | PRICE : 28.2 SGD | REMARKS : OFFER : WHITE CANVAS FIRE HOSE 65MM X 20MTR W/CERTIFICATE
+ITEM ADDED - 10 : FIRE EXTINGUISHER ABC POWDER POWDER CONTENT 1.2KGS (TYPE:  2.0KG  PED 123)
+**OFFER SRI FEX104 2KG DRY POWDER FIRE EXTINGUISHER (STORED PRESSURE) (EC CERT)** | QTY : 2 | UOM : PCS | PRICE : 31.65 SGD | REMARKS : OFFER SRI FEX104 2KG DRY POWDER FIRE EXTINGUISHER (STORED PRESSURE) (EC CERT)
+ITEM ADDED - 11 : FIRE EXTINGUISHER ABC POWDER POWDER CONTENT 3.5KGS (TYPE:3.5KG MFZ/ABC2) **OFFER EVERSAFE (M’SIA) STORED PRESSURE TYPE  MED CERT 3KG TYPE** | QTY : 5 | UOM : PCS | PRICE : 49.3 SGD | REMARKS : OFFER EVERSAFE (M’SIA) STORED PRESSURE TYPE  MED CERT 3KG TYPE
+ ITEM TOTAL : 1476.34 (INCLUDING ADDITIONAL ITEMS) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="DTE/O0182/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="T-SQ-191101256" />
+      <Party Qualifier="BY" Identification="BESC05_AMOSEPB" Name="BERNHARD SCHULTE SHIPMANAGEMENT (HONG KONG) LIMITED PARTNERSHIP" City="HONG KONG">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V00128" Name="AMOS INTERNATIONAL (S) PTE LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="sales.ms.sg@amosgroup.com,Pur_tech@amos-sg.com,pur_f&amp;b@amos-sg.com" />
+        </Contact>
+        <StreetAddress>156 GUL CIRCLE</StreetAddress>
+        <StreetAddress>SINGAPORE 619901</StreetAddress>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="SOHO MANDATE">
+        <PartyLocation Qualifier="TBA" Port="SINGAPORE" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="LIFEBOAT DRINKING WATER 385ML" MeasureUnitQualifier="CAN" Quantity="195" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="0.00" Identification="330236" IsExtraItem="0" ItemStatus="Original" Byr_Qty="195" Supp_Qty="195" Byr_UOM="CAN" Supp_UOM="CAN" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="2" Description="LIFEBOAT FIRST AID KIT" MeasureUnitQualifier="SET" Quantity="2" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="0.00" Identification="330246" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="3" Description="ANTI-SEASICKNESS MEDICINE" MeasureUnitQualifier="TAB" Quantity="52" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="22" MonetaryAmount="0.00" Identification="330247" IsExtraItem="0" ItemStatus="Original" Byr_Qty="52" Supp_Qty="52" Byr_UOM="TAB" Supp_UOM="TAB" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="4" Description="TAPE REFLECTIVE SOLAS GRADE, SILVER W:50MM X L:45.7MTR" MeasureUnitQualifier="RLS" Quantity="3" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="23" MonetaryAmount="0.00" Identification="330189" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="RLS" Supp_UOM="RLS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="5" Description="LIFE JACKET LIGHT, OCEAN SAFETY LTD. / AQUASPEC A" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="24" MonetaryAmount="0.00" Identification="330143" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="6" Description="LIFEBUOY LIGHT L160 DANIAMANT, SOLAS/MED APPROVED" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="25" MonetaryAmount="0.00" Identification="330329" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="7" Description="FIRE EXTINGUISHER ABC POWDER, POWDER CONTENT 6.0KGS" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="26" MonetaryAmount="0.00" Identification="331018" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="8" Description="FIRE HOSE RUBBER LINED TETORON, 65MMX20MTR 9KGF/CM2" MeasureUnitQualifier="C/L" Quantity="10" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="27" MonetaryAmount="0.00" Identification="330706" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="C/L" Supp_UOM="C/L" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="9" Description="FIRE EXTINGUISHER ABC POWDER, POWDER CONTENT 1.2KGS" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="28" MonetaryAmount="0.00" Identification="331015" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="10" Description="FIRE EXTINGUISHER ABC POWDER, POWDER CONTENT 3.5KGS" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="29" MonetaryAmount="0.00" Identification="331016" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1476.340" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1476.340" />
+      <MonetaryAmount Qualifier="_90" Value="0.000" />
+      <MonetaryAmount Qualifier="_91" Value="0.000" />
+    </Quote>
+  </Interchange>
+</MTML>

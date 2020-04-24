@@ -1,0 +1,152 @@
+
+2020-01-17 10:21:04 : Task to perform is 'UPLOAD'
+2020-01-17 10:21:06 : No files found on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX to upload.
+2020-01-17 10:21:33 : Task to perform is 'UPLOAD'
+2020-01-17 10:21:35 : Logging to SK Shipping website.
+2020-01-17 10:21:42 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-01-17 10:22:52 : Task to perform is 'UPLOAD'
+2020-01-17 10:22:52 : Logging to SK Shipping website.
+2020-01-17 10:22:57 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-01-17 10:23:04 : Task to perform is 'UPLOAD'
+2020-01-17 10:42:16 : Task to perform is 'UPLOAD'
+2020-01-17 10:42:17 : Logging to SK Shipping website.
+2020-01-17 10:42:23 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-01-17 10:42:34 : Successfull login to SK Shipping website.
+2020-01-17 10:42:36 : Started processing Quote named MTML_QUOTE_CIN-20-IT-004_SM0876_V10205_17012011185968.xml present on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX
+2020-01-17 10:42:39 : Uploading Quote of RFQ 'CIN-20-IT-004'
+2020-01-17 10:42:41 : Filling Header
+2020-01-17 10:42:41 : Filling Supplier Ref No
+2020-01-17 10:42:41 : Filling Currency
+2020-01-17 10:42:42 : Filling D/C Percent
+2020-01-17 10:42:42 : Filling Valid From
+2020-01-17 10:42:42 : Filling Valid To
+2020-01-17 10:42:42 : Filling Quotation Remark
+2020-01-17 10:42:42 : Checking Total Items count match.
+2020-01-17 10:42:42 : Filling Items
+2020-01-17 10:42:42 : 3 Items found for Quote having RFQ 'CIN-20-IT-004'
+2020-01-17 10:42:42 : IMPA found.
+2020-01-17 10:43:16 : Quote named MTML_QUOTE_CIN-20-IT-004_SM0876_V10205_17012011185968.xml uploaded successfully.
+2020-01-17 10:43:16 : MTML_QUOTE_CIN-20-IT-004_SM0876_V10205_17012011185968.xml File moved to C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX\Backup
+2020-01-17 10:43:17 : Quote HTML named 'SKShipping_CIN_20_IT_004_20200117104316971.htm' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_Quote'
+2020-01-17 10:43:18 : Quote Screenshot named 'SKShipping_CIN_20_IT_004_20200117104316973.png' saved on path 'E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_QUOTE'
+2020-01-17 10:43:19 : Successfull closing of SK Shipping website.
+2020-01-17 10:43:24 : 
+ 
+     function Skcc_CanSelect() { return true; } function Skcc_CanUpdate() { return true; } function Skcc_CanInsert() { return true; } function Skcc_CanDelete() { return true; }  
+  
+
+
+
+  Notice 
+
+
+
+ 
+
+    다시 보지 않기  
+
+
+ 
+2020-01-17 10:43:25 : 
+
+Help   |   LogoutWelcome
+Hello lk, welcome to the Array AG.
+VPN Control
+
+
+
+Web Links
+SoftLayer Customer Portal 
+SoftLayer Website 
+SoftLayer Community Forums 
+SoftLayer Status Page 
+Standalone SSL VPN Clients
+Windows 32-Bit 
+Windows 64-Bit 
+Linux 
+Mac OS 
+SSL VPN Misc Tools
+Windows - SSL VPN Logger 
+Windows - SSL VPN Client Cleanup Tool 
+
+
+© SoftLayer Technologies, Inc. All rights reserved.
+2020-01-17 14:40:58 : Task to perform is 'UPLOAD'
+2020-01-17 14:40:59 : No files found on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX to upload.
+2020-01-17 14:41:02 : 
+ 
+     function Skcc_CanSelect() { return true; } function Skcc_CanUpdate() { return true; } function Skcc_CanInsert() { return true; } function Skcc_CanDelete() { return true; }  
+  
+
+
+
+  Notice 
+
+
+
+
+
+
+[안내_KOR] 구매 담당자 변경
+
+
+구매 담당자가 변경 되었으니, 업무에 참고하여 주시기 바랍니다. 
+Information > Procurement Information > 구매담당자 
+
+
+
+[Notice_ENG] Purchasing Staff Update
+
+
+Please check the changed job allocation. 
+Information > Procurement Information > Purchasing Staff 
+
+    다시 보지 않기  
+
+
+ 
+2020-01-17 14:41:03 : 
+ 
+     function Skcc_CanSelect() { return true; } function Skcc_CanUpdate() { return true; } function Skcc_CanInsert() { return true; } function Skcc_CanDelete() { return true; }  
+  
+
+
+
+  Notice 
+
+
+
+ 
+
+    다시 보지 않기  
+
+
+ 
+2020-01-17 14:41:04 : 
+
+Help   |   LogoutWelcome
+Hello lk, welcome to the Array AG.
+VPN Control
+
+
+
+Web Links
+SoftLayer Customer Portal 
+SoftLayer Website 
+SoftLayer Community Forums 
+SoftLayer Status Page 
+Standalone SSL VPN Clients
+Windows 32-Bit 
+Windows 64-Bit 
+Linux 
+Mac OS 
+SSL VPN Misc Tools
+Windows - SSL VPN Logger 
+Windows - SSL VPN Client Cleanup Tool 
+
+
+© SoftLayer Technologies, Inc. All rights reserved.
+2020-01-17 14:41:30 : Task to perform is 'UPLOAD'
+2020-01-17 14:41:31 : No files found on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX to upload.
+2020-01-17 14:41:37 : Task to perform is 'UPLOAD'
+2020-01-17 14:41:38 : No files found on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX to upload.

@@ -1,0 +1,47 @@
+04-11-2019 14:34:56 ================04-11-2019 14:34:56================
+04-11-2019 14:34:56 DNVGL HTTP Processor started
+04-11-2019 14:34:56 
+04-11-2019 14:34:56 Supplier: V10107
+04-11-2019 14:34:56 Process started for SM0372_WEB
+04-11-2019 14:34:56 
+04-11-2019 14:34:56 Quote processing started.
+04-11-2019 14:34:56 1 files found to process.
+04-11-2019 14:34:56 Started Loading interchange object.
+04-11-2019 14:34:56 stopped Loading interchange object.
+04-11-2019 14:35:00 successfully saved input to database.
+04-11-2019 14:35:00 
+04-11-2019 14:35:00 Supplier: V10107
+04-11-2019 14:35:00 Process started for SM0695_WEB
+04-11-2019 14:35:00 No RFQ files found.
+04-11-2019 14:35:00 RFQ processing stopped.
+04-11-2019 14:35:00 No quote files found to process.
+04-11-2019 14:35:00 
+04-11-2019 14:35:00 Supplier: V10001
+04-11-2019 14:35:00 Process started for SM0668_WEB
+04-11-2019 14:35:00 No RFQ files found.
+04-11-2019 14:35:00 RFQ processing stopped.
+04-11-2019 14:35:00 
+04-11-2019 14:35:00 Purchase Order processing started.
+04-11-2019 14:35:00 No PO files found.
+04-11-2019 14:35:00 Purchase Order processing stopped.
+04-11-2019 14:35:00 No quote files found to process.
+04-11-2019 14:35:00 
+04-11-2019 14:35:00 POC processing started.
+04-11-2019 14:35:00 No POC files found.
+04-11-2019 14:35:00 POC processing stopped.
+04-11-2019 14:35:00 
+04-11-2019 14:35:00 Supplier: V10001
+04-11-2019 14:35:00 Process started for SM0711_WEB
+04-11-2019 14:35:00 No RFQ files found.
+04-11-2019 14:35:00 RFQ processing stopped.
+04-11-2019 14:35:00 
+04-11-2019 14:35:00 Purchase Order processing started.
+04-11-2019 14:35:00 No PO files found.
+04-11-2019 14:35:00 Purchase Order processing stopped.
+04-11-2019 14:35:00 No quote files found to process.
+04-11-2019 14:35:00 
+04-11-2019 14:35:00 POC processing started.
+04-11-2019 14:35:00 No POC files found.
+04-11-2019 14:35:00 POC processing stopped.
+04-11-2019 14:35:00 DNVGL HTTP Processor stopped
+04-11-2019 14:35:00 ====================================================

@@ -1,0 +1,17 @@
+08-11-2019 16:27:21 Quote processing started.
+
+08-11-2019 16:27:22 Bernhard Schulte Processor Started.
+08-11-2019 16:27:32 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+08-11-2019 16:27:35 about:blank
+08-11-2019 16:27:35 about:blank
+08-11-2019 16:27:35 about:blank
+08-11-2019 16:29:01 Quote processing started.
+
+08-11-2019 16:29:10 Bernhard Schulte Processor Started.
+08-11-2019 16:29:22 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+08-11-2019 16:29:23 about:blank
+08-11-2019 16:29:26 Login Successfully.
+08-11-2019 16:29:27 16 Quote files found to process.
+08-11-2019 16:29:28 'MTML_QUOTE_ECY_O0139_RF19_SM0013_V10204_08111918023718.xml' Quote file processing started.
+08-11-2019 16:29:30 Started Loading interchange object.
+08-11-2019 16:29:30 stopped Loading interchange object.

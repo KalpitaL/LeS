@@ -1,0 +1,13 @@
+1/3/2020 10:05:17 AM Error at NetBrowser constructor: The type initializer for '‫‭⁯‪‌‍‎​⁫​‪⁬⁬⁯​‪‮‎‍⁬​‬⁯‍‭‬‭⁪⁫⁯‫‎‮⁪⁫⁪⁭‍‮⁮‮.⁪‬⁯⁫‪‮⁫‍​⁪⁭​‭‪⁭⁬⁪‍⁪​⁭‬‭‏‭⁭‪‮‌‏⁭‍‬‭⁬‭⁬‮⁬⁭‮' threw an exception.
+1/3/2020 10:05:18 AM 
+1/3/2020 10:05:18 AM Quote processing started.
+
+1/3/2020 10:05:18 AM Bernhard Schulte Processor Started.
+1/3/2020 10:05:22 AM Exception while processing Quote : System.NullReferenceException: Object reference not set to an instance of an object.
+   at DotNetBrowserWrapper.NetBrowser.PrintPDF(String sFileName, Boolean isSetScrrenSize) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\DotNetBrowserWrapper\NetBrowser.cs:line 1261
+   at Bernhard_Schulte_Routine.BSRoutine.LogIn() in e:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 167
+   at Bernhard_Schulte_Routine.BSRoutine.ProcessQuote(String MailPath, String MailTemplate, String FROM_EMAILID, String MailBcc) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 1400
+1/3/2020 10:05:22 AM Exception while processing QUOTE : System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bernhard_Schulte_Routine.BSRoutine.ProcessQuote(String MailPath, String MailTemplate, String FROM_EMAILID, String MailBcc) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 1425
+   at Bernhard_Schulte_Scrapper.Form1.ProcessQuote() in e:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\Form1.cs:line 109
+   at Bernhard_Schulte_Scrapper.Form1.Form1_Load(Object sender, EventArgs e) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\Form1.cs:line 82

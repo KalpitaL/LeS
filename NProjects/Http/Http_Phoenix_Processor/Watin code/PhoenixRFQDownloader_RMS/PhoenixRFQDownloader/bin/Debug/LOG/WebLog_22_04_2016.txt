@@ -1,0 +1,16 @@
+
+12:31:55 : Phoenix RFQ Downloader Started.
+12:31:55 : Processing File 160422_080306543.txt
+12:33:36 : Phoenix RFQ Downloader Started.
+12:33:36 : Processing File 160422_080306543.txt
+12:37:19 : Phoenix RFQ Downloader Started.
+12:37:19 : Processing File 160422_080306543.txt
+12:42:52 : Phoenix RFQ Downloader Started.
+12:42:52 : Processing File 160422_080306543.txt
+12:44:47 : Phoenix RFQ Downloader Started.
+12:44:47 : Processing File 160422_080306543.txt
+13:05:30 : RFQ 'CMY-16-0022' downloaded successfully.
+1 instance of ie is killed.
+13:05:46 : 160422_080306543.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+13:05:46 : Phoenix RFQ Downloader Stopped.
+

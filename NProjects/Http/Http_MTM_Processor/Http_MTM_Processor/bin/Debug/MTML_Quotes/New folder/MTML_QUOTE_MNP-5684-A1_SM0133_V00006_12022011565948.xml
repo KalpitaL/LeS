@@ -1,0 +1,97 @@
+﻿<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="TQ20019019" Identifier="UNOC" Recipient="MTMS_HTM" Sender="GLAS00001227" PreparationDate="2020-Feb-12" PreparationTime="11:56" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="86" LesRecordID="94238131" LesLinkID="100602" ParentRecordID="94237537" MTML_DOCID="A26FA278-3E54-4652-A0B0-2492135AAAE6">
+    <Quote MessageReferenceNumber="475749" MessageNumber="https://portal.mtmsm.com/public/pos/quotemanager.aspx?key=475749&amp;validate=0.342443147694752" LineItemCount="6" VersionNumber="1" CurrencyCode="SGD" FunctionCode="_9" OriginatingSystemRef="94237537" LeadTimeDays="2" BuyerRefNo="MNP-5684-A1" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" SupplierORGRef="500094237537" BuyerItemTotal="474.9" BuyerQuoteTotal="474.9">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202002121156" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Item 1 :  MORE DETAIL REQUIRE  | QTY - 0 | UOM - Kg
+Item 3 :  OFFER 180X7.2X22MM FOR S/STEEL, PFERD 
+Item 4 :  OFFER 100MMX7/8” WIRE CUP BRUSH BRASS WIRE  
+Item 5 :  OFFER SS316 
+Item 6 :  OFFER SS316 </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>30 Days</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="MNP-5684-A1" />
+      <Reference Qualifier="AAG" ReferenceNumber="TQ20019019" />
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" Berth="TBA" Port="TBA" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M. SHIP MANAGEMENT PTE. LTD" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="SINWA (SINGAPORE) PTE LTD">
+        <Contact FunctionCode="SR" Name="Josphine Lim">
+          <CommunicationMethod Qualifier="TE" Number="68626300--" />
+          <CommunicationMethod Qualifier="EM" Number="purchc1@sinwaglobal.com; sinwa@sinwaglobal.com" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="Pickling paste for Stainless steel welding Pickling paste for Stainless steel welding" MeasureUnitQualifier="Kg" Quantity="2" TypeCode="BP" OriginatingSystemRef="2398802_5631137" SystemItemNo="1" MonetaryAmount="0.00" Identification="." DeliveryTime="2" IsExtraItem="0" MarkedRemarks=" MORE DETAIL REQUIRE " ItemStatus="Original" Byr_Qty="2" Supp_Qty="0" Byr_UOM="Kg" Supp_UOM="Kg" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value> MORE DETAIL REQUIRE </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Welding Cable Connector ( Japanese type ) for 50mm Welding Cable Connector ( Japanese type ) for 50mm2 welding cable" MeasureUnitQualifier="Set" Quantity="1" TypeCode="BP" OriginatingSystemRef="2398801_5631138" SystemItemNo="2" MonetaryAmount="8.90" Identification="." DeliveryTime="2" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Set" Supp_UOM="Set" Supp_Price="8.9" BuyerItemTotal="8.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.9" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.9" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="Grinding wheel for stainless steel (Fine)for pnuem Grinding wheel for stainless steel (Fine)for pnuematic grinder 180 x 8 x 22.23 mm 7600 RPM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="2398800_5631142" SystemItemNo="3" MonetaryAmount="12.90" Identification="." DeliveryTime="2" IsExtraItem="0" MarkedRemarks=" OFFER 180X7.2X22MM FOR S/STEEL, PFERD " ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="6.45" BuyerItemTotal="12.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.45" />
+        <Comments Qualifier="LIN">
+          <value> OFFER 180X7.2X22MM FOR S/STEEL, PFERD </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="Wire-brush (For stainless ), Standard cup, Arbor s Wire-brush (For stainless ), Standard cup, Arbor size= 7/8 inches" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="2398799_5631141" SystemItemNo="4" MonetaryAmount="8.50" Identification="." DeliveryTime="2" IsExtraItem="0" MarkedRemarks=" OFFER 100MMX7/8” WIRE CUP BRUSH BRASS WIRE  " ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="4.25" BuyerItemTotal="8.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.25" />
+        <Comments Qualifier="LIN">
+          <value> OFFER 100MMX7/8” WIRE CUP BRUSH BRASS WIRE  </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="SUS 317L (AWS A5.4 E317L) ELECTRODE D=3.2MM SUS 317L (AWS A5.4 E317L) ELECTRODE D=3.2MM" MeasureUnitQualifier="PACKET" Quantity="2" TypeCode="BP" OriginatingSystemRef="2398798_5631140" SystemItemNo="5" MonetaryAmount="222.30" Identification="." DeliveryTime="2" IsExtraItem="0" MarkedRemarks=" OFFER SS316 " ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PACKET" Supp_UOM="PACKET" Supp_Price="111.15" BuyerItemTotal="222.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="111.15" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="111.15" />
+        <Comments Qualifier="LIN">
+          <value> OFFER SS316 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="SUS 317L (AWS A5.4 E317L) ELECTRODE D=2.4 MM SUS 317L (AWS A5.4 E317L) ELECTRODE D=2.4 MM" MeasureUnitQualifier="PACKET" Quantity="2" TypeCode="BP" OriginatingSystemRef="2398797_5631139" SystemItemNo="6" MonetaryAmount="222.30" Identification="." DeliveryTime="2" IsExtraItem="0" MarkedRemarks=" OFFER SS316 " ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PACKET" Supp_UOM="PACKET" Supp_Price="111.15" BuyerItemTotal="222.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="111.15" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="111.15" />
+        <Comments Qualifier="LIN">
+          <value> OFFER SS316 </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="474.900" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="474.900" />
+      <MonetaryAmount Qualifier="_90" Value="474.900" />
+      <MonetaryAmount Qualifier="_91" Value="474.900" />
+    </Quote>
+  </Interchange>
+</MTML>

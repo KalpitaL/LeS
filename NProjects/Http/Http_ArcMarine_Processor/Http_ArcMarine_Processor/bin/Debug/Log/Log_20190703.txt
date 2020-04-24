@@ -1,0 +1,79 @@
+03/07/2019 09:57:22 ================03/07/2019 09:57:22================
+03/07/2019 09:57:22 ArcMarine HTTP processor started
+03/07/2019 09:57:22 ArcMarine Processor Started.
+03/07/2019 09:57:22 Processing File 15000332_190703_115708820.txt
+03/07/2019 09:57:28  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=1ACD9A6E-469D-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+03/07/2019 09:57:30 Navigating To URL ..
+03/07/2019 09:57:37 Unable to process link file '15000332_190703_115708820.txt'. Error - RFQ is in closed status
+03/07/2019 09:57:37 15000332_190703_115708820.txt File moved to Error_files
+03/07/2019 09:57:37 
+03/07/2019 09:58:33 ================03/07/2019 09:58:33================
+03/07/2019 09:58:33 ArcMarine HTTP processor started
+03/07/2019 09:58:33 ArcMarine Processor Started.
+03/07/2019 09:58:33 No files found.
+03/07/2019 09:59:03 ================03/07/2019 09:59:03================
+03/07/2019 09:59:03 ArcMarine HTTP processor started
+03/07/2019 09:59:06 ArcMarine Processor Started.
+03/07/2019 09:59:40 ================03/07/2019 09:59:40================
+03/07/2019 09:59:40 ArcMarine HTTP processor started
+03/07/2019 09:59:42 ArcMarine Processor Started.
+03/07/2019 09:59:49 Processing File 15000332_190703_115708820.txt
+03/07/2019 09:59:56  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=1ACD9A6E-469D-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+03/07/2019 09:59:58 Navigating To URL ..
+03/07/2019 10:01:57 ================03/07/2019 10:01:57================
+03/07/2019 10:01:57 ArcMarine HTTP processor started
+03/07/2019 10:01:58 ArcMarine Processor Started.
+03/07/2019 10:01:59 Processing File 15000332_190703_115708820.txt
+03/07/2019 10:01:59  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=1ACD9A6E-469D-E911-80E9-06ABAD61BE97&STOCKTYPE=STORE
+03/07/2019 10:02:00 Navigating To URL ..
+03/07/2019 10:02:06 Page Loaded ..
+03/07/2019 10:02:06 Reading Header Details ..
+03/07/2019 10:02:11 Reading Item Details ..
+03/07/2019 10:02:31 RFQ 'EN-19-009001' downloaded successfully.
+03/07/2019 18:01:28 ================03/07/2019 18:01:28================
+03/07/2019 18:01:28 ArcMarine HTTP processor started
+03/07/2019 18:01:44 
+03/07/2019 18:07:14 ================03/07/2019 18:07:14================
+03/07/2019 18:07:14 ArcMarine HTTP processor started
+03/07/2019 18:07:15 ArcMarine Processor Started.
+03/07/2019 18:07:34 ================03/07/2019 18:07:34================
+03/07/2019 18:07:34 ArcMarine HTTP processor started
+03/07/2019 18:07:36 ArcMarine Processor Started.
+03/07/2019 18:07:37 No files found.
+03/07/2019 18:07:40 
+03/07/2019 18:07:50 Started Loading interchange object.
+03/07/2019 18:07:50 stopped Loading interchange object.
+03/07/2019 18:07:52 Quote processing started.
+03/07/2019 18:07:54 Quote processing started for refno: EN-19-009029
+03/07/2019 18:08:04 Filling Quotation.
+03/07/2019 18:08:16 Header details saved.
+03/07/2019 18:08:20 Filling items.
+03/07/2019 18:08:48 Updating item 1
+03/07/2019 18:34:11 ================03/07/2019 18:34:11================
+03/07/2019 18:34:11 ArcMarine HTTP processor started
+03/07/2019 18:34:12 ArcMarine Processor Started.
+03/07/2019 18:34:13 No files found.
+03/07/2019 18:34:14 
+03/07/2019 18:34:14 Started Loading interchange object.
+03/07/2019 18:34:14 stopped Loading interchange object.
+03/07/2019 18:34:14 Quote processing started.
+03/07/2019 18:34:14 Quote processing started for refno: EN-19-009034
+03/07/2019 18:34:16 Filling Quotation.
+03/07/2019 18:34:16 Header details saved.
+03/07/2019 18:34:19 Filling items.
+03/07/2019 18:34:41 Updating item 1
+03/07/2019 18:35:00 ================03/07/2019 18:35:00================
+03/07/2019 18:35:00 ArcMarine HTTP processor started
+03/07/2019 18:35:12 ================03/07/2019 18:35:12================
+03/07/2019 18:35:12 ArcMarine HTTP processor started
+03/07/2019 18:35:13 ArcMarine Processor Started.
+03/07/2019 18:35:14 No files found.
+03/07/2019 18:35:14 
+03/07/2019 18:35:14 Started Loading interchange object.
+03/07/2019 18:35:14 stopped Loading interchange object.
+03/07/2019 18:35:14 Quote processing started.
+03/07/2019 18:35:14 Quote processing started for refno: EN-19-009034
+03/07/2019 18:35:16 Filling Quotation.
+03/07/2019 18:35:16 Header details saved.
+03/07/2019 18:35:17 Filling items.
+03/07/2019 18:35:32 Updating item 1

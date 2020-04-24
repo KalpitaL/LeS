@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="" Identifier="UNOC" Recipient="V11032" Sender="SM0017_KLXLS" PreparationDate="2019-Feb-07" PreparationTime="19:36" VersionNumber="1" LesRecordID="0" LesLinkID="0">
+    <RequestForQuote MessageReferenceNumber="104244_RFQ_JBS_O0033_RF19_07022019073540228.xlsm" MessageNumber="104244_RFQ_JBS_O0033_RF19_07022019073540228.xlsm" LineItemCount="1" VersionNumber="1" FunctionCode="_9" BuyerRefNo="JBS/O0033/RF19" OriginalFile="104244_RFQ_JBS_O0033_RF19_07022019073540228.xlsm" IsDeclined="False">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20190207" />
+      <Comments Qualifier="PUR">
+        <value>26.01.2019 during normal operation  burnt out UPS unit for Aconis Server 2 in ECR observed. ROB=O, Temporarily replaced for smaller power UPS from vessel's server room. Affected UPS unit is working as safety power supply for ACONIS monitoring system displaying operating parameters from ER equipment. Due to its importance it must be installed correct one as soon as possible. Please supply it in any convenient port.</value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="JBS/O0033/RF19" />
+      <Party Qualifier="BY" Identification="SM0017_KLXLS" Name="Bernhard Schulte Shipmanagement (Deutschland) GmbH &amp; Co. KG">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V11032" Name="BASTE + LANGE GMBH">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="technical@bastelange.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN" />
+      <Party Qualifier="BA" />
+      <Party Qualifier="UD" Name="MSC Arica">
+        <PartyLocation Qualifier="TBA" Port="Hamburg" />
+      </Party>
+      <LineItem Number="1" Description="UPS SYSTEM 1500VA, PRIMARY 145-275V SEC. 220V+10% 50/60HZ" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="0.00" Identification="SCF-S-ELE526" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

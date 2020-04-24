@@ -1,0 +1,715 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="BJD1911081445176LET" Identifier="UNOC" Recipient="SM0013_XLS" Sender="V10205" PreparationDate="2019-Nov-08" PreparationTime="16:02" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="9" LesRecordID="861326" LesLinkID="9200149" ParentRecordID="861172" MTML_DOCID="9F3F9B97-D128-40AA-BA4D-57D9C9096B74">
+    <Quote MessageReferenceNumber="9200149_RFQ_TAH_O0134_RF19_08112019023044209.xlsm" MessageNumber="9200149_RFQ_TAH_O0134_RF19_08112019023044209.xlsm" LineItemCount="61" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" LeadTimeDays="3" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="1800.92" BuyerQuoteTotal="1800.92">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911081602" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201911110000" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201912080000" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Date promised : 2019-11-11
+Quote validity : 2019-12-08
+Item Added - 16.10 : LIFEBUOY LIGHT L90 W/BATTERY, 63-B300 DANIAMANT | Ref.No.:331378 | QTY : 12 | UOM : PCS | Price : 0.26 USD | Remarks : BATTERY ALKALINE,1.5V (AM-3) TYPE AA
+Item Added - 35.10 : HEAD TORCH LED SAFETY, WOLF HT-400 | Ref.No.:330620 | QTY : 0 | UOM : SET | Price : 104.81 USD | Remarks : WOLF HT-400Z0
+ Item Total : 1800.92</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="TAH/O0134/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="BJD1911081445176LET" />
+      <Party Qualifier="UD" Name="Taharoa Eos">
+        <PartyLocation Qualifier="TBA" Port="LANSHAN" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Identification="SM0013_XLS" Name="Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V10205" Name="RMS MARINE SERVICE COMPANY LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="mt@rmsmarineservice.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="GLOVES PLASTIC OIL/ACID RESIST, LONG | Ref.No.:190132 | Ref.No.:190132" MeasureUnitQualifier="PRS" Quantity="20" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="26.80" Identification="190132" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="1.34" BuyerItemTotal="26.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.34" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.34" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="GLOVES WORKING COTTON, RUBBER COATED PALM | Ref.No.:190102 | Ref.No.:190102" MeasureUnitQualifier="PRS" Quantity="300" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="108.00" Identification="190102" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="300" Supp_Qty="300" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="0.36" BuyerItemTotal="108" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.36" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.36" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="GLOVES WORKING LEATHER PALM | Ref.No.:190109 | Ref.No.:190109" MeasureUnitQualifier="DOZ" Quantity="30" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="22" MonetaryAmount="277.20" Identification="190109" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="30" Supp_Qty="30" Byr_UOM="DOZ" Supp_UOM="DOZ" Supp_Price="9.24" BuyerItemTotal="277.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.24" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="SAFETY CAP LAMP, WITH RECHARGEABLE BATTERY 4V | Ref.No.:330618 | Ref.No.:330618" MeasureUnitQualifier="SET" Quantity="10" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="23" MonetaryAmount="97.70" Identification="330618" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="9.77" BuyerItemTotal="97.7" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.77" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.77" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="FIRE CONTROL SIGN POWDER(P2), FIRE EXTINGUISHER 150X150MM | Ref.No.:336083 | Ref.No.:336083" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="24" MonetaryAmount="1.06" Identification="336083" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="FIRE CONTROL SIGN POWDER(P6), FIRE EXTINGUISHER 150X150MM | Ref.No.:336079 | Ref.No.:336079" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="25" MonetaryAmount="10.60" Identification="336079" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="10.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="FIRE CONTROL SIGN FIRE PUMP, 150X150MM | Ref.No.:336060 | Ref.No.:336060" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="26" MonetaryAmount="1.06" Identification="336060" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="FIRE CONTROL SYMBOL ISO 17631, HI EXPANSION FOAM SUPPLY TANK | Ref.No.:336838 | Ref.No.:336838" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="27" MonetaryAmount="1.06" Identification="336838" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="FIRE CONTROL SYMBOL ISO 17631, FIRE PUMP VALVE RMT CONTROL | Ref.No.:336807 | Ref.No.:336807" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="28" MonetaryAmount="1.06" Identification="336807" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="FIRE CONTROL SYMBOL ISO 17631, EMERGENCY FIREPUMP RMT CONTR'L | Ref.No.:336799 | Ref.No.:336799" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="29" MonetaryAmount="1.06" Identification="336799" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="FIRE CONTROL SYMBOL ISO 17631, SPACE MONIT'RD BY FLAME DETECT | Ref.No.:336875 | Ref.No.:336875" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="30" MonetaryAmount="5.30" Identification="336875" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="5.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="FIRE CONTROL SYMBOL ISO 17631, EMERG SOURCE OF ELEC POWER BAT | Ref.No.:336867 | Ref.No.:336867" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="12" SystemItemNo="31" MonetaryAmount="1.06" Identification="336867" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="FIRE CONTROL SYMBOL ISO 17631, SPACE PROTECTD BY WATER EXTING | Ref.No.:336863 | Ref.No.:336863" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="13" SystemItemNo="32" MonetaryAmount="1.06" Identification="336863" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="FIRE CONTROL SYMBOL ISO 17631, REMOTE RELEASE STATION F/FOAM | Ref.No.:336811 | Ref.No.:336811" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="14" SystemItemNo="33" MonetaryAmount="2.12" Identification="336811" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="2.12" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="FIRE CONTROL SYMBOL ISO 17631, LUB OIL VALVE RMT CONTROL | Ref.No.:336806 | Ref.No.:336806" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="15" SystemItemNo="34" MonetaryAmount="1.06" Identification="336806" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="LIFEBUOY LIGHT L90 W/BATTERY, 63-B300 DANIAMANT | Ref.No.:331378 | Ref.No.:331378" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="16" SystemItemNo="35" MonetaryAmount="143.76" Identification="331378" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="11.72" BuyerItemTotal="143.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.98" />
+        <Comments Qualifier="LIN">
+          <value>HWAYAN QD20,WITHOUT BATTERY WITH EC CERT
+16.10 BATTERY ALKALINE,1.5V (AM-3) TYPE AA | Price-0.26</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="EXTINGUISHER FOAM UK DOT APRVD, CHUBB CF-9 9LTR | Ref.No.:331062 | Ref.No.:331062" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="17" SystemItemNo="36" MonetaryAmount="78.60" Identification="331062" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="19.65" BuyerItemTotal="78.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="19.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="19.65" />
+        <Comments Qualifier="LIN">
+          <value>WITH PRESSURE GUAGE WITH CCS CERT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="EXTINGUISHER POWDER UK DOT, APPROVED CHUBB SP-6 6KGS | Ref.No.:331068 | Ref.No.:331068" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="18" SystemItemNo="37" MonetaryAmount="67.40" Identification="331068" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="16.85" BuyerItemTotal="67.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="16.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="16.85" />
+        <Comments Qualifier="LIN">
+          <value>WITH PRESSURE GUAGE WITH CCS CERT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="FIRE HOSE BOX FRP FOR 20MTR | Ref.No.:330751 | Ref.No.:330751" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="19" SystemItemNo="38" MonetaryAmount="314.46" Identification="330751" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="52.41" BuyerItemTotal="314.46" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="52.41" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="52.41" />
+        <Comments Qualifier="LIN">
+          <value>HWAYAN，550*650*190MM</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="FIRE CONTROL SYMBOL ISO 17631, FUEL OIL VALVE RMT CONTROL | Ref.No.:336805 | Ref.No.:336805" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="20" SystemItemNo="39" MonetaryAmount="1.06" Identification="336805" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="FIRE CONTROL SYMBOL ISO 17631, F-DAMPER F/MACH-SPACE 150X150 | Ref.No.:336785 | Ref.No.:336785" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="21" SystemItemNo="40" MonetaryAmount="2.65" Identification="336785" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="2.65" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="FIRE CONTROL SYMBOL ISO 17631, F-DAMPER F/ACC&amp;S-SPACE 150X150 | Ref.No.:336784 | Ref.No.:336784" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="22" SystemItemNo="41" MonetaryAmount="1.59" Identification="336784" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.59" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="FIRE CONTROL SYMBOL ISO 17631, RMT VENT S/O F/CA-SP 150X150MM | Ref.No.:336780 | Ref.No.:336780" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="23" SystemItemNo="42" MonetaryAmount="1.06" Identification="336780" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="FIRE CONTROL SYMBOL ISO 17631, RMT VENT S/O F/MA-SP 150X150MM | Ref.No.:336779 | Ref.No.:336779" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="24" SystemItemNo="43" MonetaryAmount="1.06" Identification="336779" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="FIRE CONTROL SYMBOL ISO 17631, RMT VENT S/O F/ACCOM 150X150MM | Ref.No.:336778 | Ref.No.:336778" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="25" SystemItemNo="44" MonetaryAmount="1.59" Identification="336778" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.59" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="SAFETY SIGN GENERAL ALARM, 150X150MM | Ref.No.:334155 | Ref.No.:334155" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="26" SystemItemNo="45" MonetaryAmount="1.06" Identification="334155" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="FIRE CONTROL SIGN, FIRE ALARM PANEL 150X150MM | Ref.No.:336043 | Ref.No.:336043" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="27" SystemItemNo="46" MonetaryAmount="1.06" Identification="336043" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="FIRE CONTROL SIGN DRENCHING, INSTALLATION 150X150MM | Ref.No.:336027 | Ref.No.:336027" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="28" SystemItemNo="47" MonetaryAmount="1.06" Identification="336027" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="FIRE CONTROL SIGN EMERGENCY, FIRE PUMP 150X150MM | Ref.No.:336019 | Ref.No.:336019" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="29" SystemItemNo="48" MonetaryAmount="1.06" Identification="336019" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="SAFETY SIGN EMERGENCY, TELEPHONE 150X150MM | Ref.No.:334131 | Ref.No.:334131" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="30" SystemItemNo="49" MonetaryAmount="3.18" Identification="334131" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="3.18" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="FIRE CONTROL SYMBOL ISO 17631, FIRE MAIN SEC VALVE 150X150MM | Ref.No.:336818 | Ref.No.:336818" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="31" SystemItemNo="50" MonetaryAmount="1.06" Identification="336818" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="32" Description="FIRE CONTROL SYMBOL ISO 17631, FOAM SECTION VALVE 150X150MM | Ref.No.:336816 | Ref.No.:336816" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="32" SystemItemNo="51" MonetaryAmount="1.06" Identification="336816" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="33" Description="FIRE EQUIPMENT SIGN 9LTR FOAM, FOAM EXTINGUISHER 150X150MM | Ref.No.:336091 | Ref.No.:336091" MeasureUnitQualifier="PCS" Quantity="15" TypeCode="BP" OriginatingSystemRef="33" SystemItemNo="52" MonetaryAmount="7.95" Identification="336091" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="7.95" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="34" Description="FIRE EQUIPMENT SIGN 45LTR FOAM, FIRE EXTINGUISHER 150X150MM | Ref.No.:336089 | Ref.No.:336089" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="34" SystemItemNo="53" MonetaryAmount="1.06" Identification="336089" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="1.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="35" Description="HEAD TORCH LED SAFETY, WOLF HT-400 | Ref.No.:330620 | Ref.No.:330620" MeasureUnitQualifier="SET" Quantity="5" TypeCode="BP" OriginatingSystemRef="35" SystemItemNo="54" MonetaryAmount="80.55" Identification="330620" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="16.11" BuyerItemTotal="80.55" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="16.11" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="16.11" />
+        <Comments Qualifier="LIN">
+          <value>SUPFIRE COMMON TYPE
+35.10 WOLF HT-400Z0 | Price-104.81</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="36" Description="EAR PLUG FOR HIGH PITCH NOISE | Ref.No.:331157 | Ref.No.:331157" MeasureUnitQualifier="PCS" Quantity="80" TypeCode="BP" OriginatingSystemRef="36" SystemItemNo="55" MonetaryAmount="23.20" Identification="331157" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="80" Supp_Qty="80" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.29" BuyerItemTotal="23.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.29" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="37" Description="SIGN WHITE VINYL SELF ADHESIVE, #8502 150X150MM NO ENTRY | Ref.No.:338502 | Ref.No.:338502" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="37" SystemItemNo="56" MonetaryAmount="5.30" Identification="338502" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="5.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="38" Description="SIGN WHITE VINYL SELF ADHESIVE, #8501 150X150MM NO MATCHES | Ref.No.:338501 | Ref.No.:338501" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="38" SystemItemNo="57" MonetaryAmount="5.30" Identification="338501" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="5.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="39" Description="SIGN WHITE VINYL SELF ADHESIVE, #5642 150X150MM HELMET | Ref.No.:335642 | Ref.No.:335642" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="39" SystemItemNo="58" MonetaryAmount="5.30" Identification="335642" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="5.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="40" Description="SIGN WHITE VINYL SELF ADHESIVE, #7501 150X150MM HAZARD SLIP | Ref.No.:337501 | Ref.No.:337501" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="40" SystemItemNo="59" MonetaryAmount="5.30" Identification="337501" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="5.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="41" Description="SIGN DECK &amp; ENGINE ROOM, OXYGEN #7700 100X300MM | Ref.No.:337700 | Ref.No.:337700" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="41" SystemItemNo="60" MonetaryAmount="3.65" Identification="337700" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.73" BuyerItemTotal="3.65" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.73" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.73" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="42" Description="SIGN DECK &amp; ENGINE ROOM, ACETYLENE #7701 100X300MM | Ref.No.:337701 | Ref.No.:337701" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="42" SystemItemNo="61" MonetaryAmount="3.65" Identification="337701" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.73" BuyerItemTotal="3.65" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.73" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.73" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="43" Description="SIGN WHITE VINYL SELF ADHESIVE, 8500 NO-SMOKING (SPECIFY SIZE) | Ref.No.:338500 | Ref.No.:338500" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="43" SystemItemNo="62" MonetaryAmount="5.30" Identification="338500" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="5.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="44" Description="SIGN WHITE VINYL SELF ADHESIVE, #5648 150X150MM EAR PROTECTION | Ref.No.:335648 | Ref.No.:335648" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="44" SystemItemNo="63" MonetaryAmount="5.30" Identification="335648" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="5.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="45" Description="SIGN WHITE VINYL SELF ADHESIVE, #5645 150X150MM FACE SHIELD | Ref.No.:335645 | Ref.No.:335645" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="45" SystemItemNo="64" MonetaryAmount="2.65" Identification="335645" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="2.65" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="46" Description="SIGN WHITE VINYL SELF ADHESIVE, #5644 150X150MM EYE PROTECTION | Ref.No.:335644 | Ref.No.:335644" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="46" SystemItemNo="65" MonetaryAmount="5.30" Identification="335644" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.53" BuyerItemTotal="5.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="47" Description="GLOVES WORKING COTTON, NON SLIP DOTS | Ref.No.:190103 | Ref.No.:190103" MeasureUnitQualifier="PRS" Quantity="500" TypeCode="BP" OriginatingSystemRef="47" SystemItemNo="66" MonetaryAmount="100.00" Identification="190103" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="500" Supp_Qty="500" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="0.2" BuyerItemTotal="100" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="48" Description="GLOVES WORKING COTTON ORDINARY | Ref.No.:190101 | Ref.No.:190101" MeasureUnitQualifier="DOZ" Quantity="50" TypeCode="BP" OriginatingSystemRef="48" SystemItemNo="67" MonetaryAmount="84.00" Identification="190101" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="DOZ" Supp_UOM="DOZ" Supp_Price="1.68" BuyerItemTotal="84" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="49" Description="EYEWEAR PROTECTIVE ANTIFOG , CLEAR LENS #10026005 | Ref.No.:311051 | Ref.No.:311051" MeasureUnitQualifier="PRS" Quantity="10" TypeCode="BP" OriginatingSystemRef="49" SystemItemNo="68" MonetaryAmount="5.30" Identification="311051" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="0.53" BuyerItemTotal="5.3" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.53" />
+        <Comments Qualifier="LIN">
+          <value>YONGSHENG</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="50" Description="EYEWEAR PROTECTIVE ANTIFOG , GRAY LENS #10026006 | Ref.No.:311052 | Ref.No.:311052" MeasureUnitQualifier="PRS" Quantity="10" TypeCode="BP" OriginatingSystemRef="50" SystemItemNo="69" MonetaryAmount="6.60" Identification="311052" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="0.66" BuyerItemTotal="6.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.66" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.66" />
+        <Comments Qualifier="LIN">
+          <value>YONGSHENG</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="51" Description="DUST PROTECTING MASK, MECHANICAL FILTERING | Ref.No.:331111 | Ref.No.:331111" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="51" SystemItemNo="70" MonetaryAmount="13.60" Identification="331111" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.36" BuyerItemTotal="13.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.36" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.36" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="52" Description="FILTER MECHANICAL, FOR DUST PROTECTING MASK | Ref.No.:331118 | Ref.No.:331118" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="52" SystemItemNo="71" MonetaryAmount="30.00" Identification="331118" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0.3" BuyerItemTotal="30" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.3" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="53" Description="HELMET SAFETY SLOTTED V-GARD, W/SATZ-ON SUSPENSION WHITE | Ref.No.:310101 | Ref.No.:310101" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="53" SystemItemNo="72" MonetaryAmount="13.40" Identification="310101" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.68" BuyerItemTotal="13.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="54" Description="HELMET SAFETY SLOTTED V-GARD, W/SATZ-ON SUSPENSION YELLOW | Ref.No.:310103 | Ref.No.:310103" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="54" SystemItemNo="73" MonetaryAmount="13.40" Identification="310103" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.68" BuyerItemTotal="13.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="55" Description="BOILERSUIT DISPOSABLE, POLYPROPYLENE SIZE XXL (3L) | Ref.No.:190570 | Ref.No.:190570" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="55" SystemItemNo="74" MonetaryAmount="6.50" Identification="190570" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.3" BuyerItemTotal="6.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.3" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="56" Description="SPRAY TEST FOR SMOKE DETECTOR, 150ML | Ref.No.:331075 | Ref.No.:331075" MeasureUnitQualifier="CAN" Quantity="10" TypeCode="BP" OriginatingSystemRef="56" SystemItemNo="75" MonetaryAmount="51.60" Identification="331075" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="CAN" Supp_UOM="CAN" Supp_Price="5.16" BuyerItemTotal="51.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.16" />
+        <Comments Qualifier="LIN">
+          <value>CRC 71G</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="57" Description="PARKA L SIZE | Ref.No.:190612 | Ref.No.:190612" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="57" SystemItemNo="76" MonetaryAmount="22.46" Identification="190612" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="11.23" BuyerItemTotal="22.46" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.23" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.23" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="58" Description="PARKA LL SIZE | Ref.No.:190613 | Ref.No.:190613" MeasureUnitQualifier="PCS" Quantity="8" TypeCode="BP" OriginatingSystemRef="58" SystemItemNo="77" MonetaryAmount="89.84" Identification="190613" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="11.23" BuyerItemTotal="89.84" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.23" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.23" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="59" Description="SIGN ISPS CODE UNDER CCTV, #WV2896NM 350X300MM | Ref.No.:332896 | Ref.No.:332896" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="59" SystemItemNo="78" MonetaryAmount="3.14" Identification="332896" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.57" BuyerItemTotal="3.14" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.57" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="60" Description="GLOVES WORKING CALF HIDE SOFT | Ref.No.:190112 | Ref.No.:190112" MeasureUnitQualifier="PRS" Quantity="30" TypeCode="BP" OriginatingSystemRef="60" SystemItemNo="79" MonetaryAmount="34.20" Identification="190112" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="30" Supp_Qty="30" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="1.14" BuyerItemTotal="34.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.14" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.14" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="61" Description="FACESHIELD FOR CHIPPING, PROTECTION | Ref.No.:331143 | Ref.No.:331143" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="61" SystemItemNo="80" MonetaryAmount="8.10" Identification="331143" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.7" BuyerItemTotal="8.1" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.7" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.7" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1800.920" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1800.920" />
+      <MonetaryAmount Qualifier="_90" Value="1800.920" />
+      <MonetaryAmount Qualifier="_91" Value="1797.800" />
+    </Quote>
+  </Interchange>
+</MTML>

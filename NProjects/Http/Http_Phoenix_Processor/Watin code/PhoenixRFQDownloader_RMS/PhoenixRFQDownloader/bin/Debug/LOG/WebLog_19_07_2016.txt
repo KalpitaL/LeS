@@ -1,0 +1,36 @@
+
+20:30:57 : Phoenix RFQ & PO Downloader Started.
+20:31:01 : Processing File 160719_190308502.txt
+20:31:50 : Unable to get header data! Error - The given key was not present in the dictionary.
+20:35:03 : Error in ExporttoHeader - The given key was not present in the dictionary.
+20:36:14 : Phoenix RFQ & PO Downloader Started.
+20:36:15 : Processing File 160719_190308502.txt
+20:36:29 : Unable to get header data! Error - The given key was not present in the dictionary.
+20:37:57 : Error in ExporttoHeader - The given key was not present in the dictionary.
+20:37:57 : Error in GetPODetails: using block-    at PhoenixRoutine.Phoenix.ExporttoHeader(Dictionary`2 _xmlHeader, LeSXML _lesXML)
+   at PhoenixRoutine.Phoenix.GetPODetails(String URL)
+20:38:06 : Phoenix RFQ & PO Downloader Started.
+20:38:06 : Processing File 160719_190308502.txt
+20:38:15 : Unable to get header data! Error - The given key was not present in the dictionary.
+20:40:09 : Phoenix RFQ & PO Downloader Started.
+20:40:09 : Processing File 160719_190308502.txt
+20:40:14 : Unable to get header data! Error - The given key was not present in the dictionary.
+20:42:26 : Phoenix RFQ & PO Downloader Started.
+20:42:26 : Processing File 160719_190308502.txt
+20:42:31 : Unable to get header data! Error - The given key was not present in the dictionary.
+20:43:41 : 160719_190308502.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+20:43:41 : Phoenix RFQ Downloader Stopped.
+
+
+20:45:48 : Phoenix RFQ & PO Downloader Started.
+20:45:48 : Processing File 160719_190308502.txt
+20:45:53 : Unable to get header data! Error - The given key was not present in the dictionary.
+20:48:59 : Phoenix RFQ & PO Downloader Started.
+20:48:59 : Processing File 160719_190308502.txt
+20:49:46 : Unable to get header data! Error - The given key was not present in the dictionary.
+20:57:38 : Phoenix RFQ & PO Downloader Started.
+20:57:38 : Processing File 160719_190308502.txt
+21:03:36 : PO 'IVY-16-9167' downloaded successfully.
+21:03:49 : 160719_190308502.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+21:03:49 : Phoenix RFQ Downloader Stopped.
+

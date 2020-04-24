@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="T-SQ-190703088" Identifier="UNOC" Recipient="BESC05_AMOSEPB" Sender="V00128" PreparationDate="2019-Jul-11" PreparationTime="12:55" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="2" LesGroupID="91000004" LesRecordID="91325167" LesLinkID="91000016" ParentRecordID="91324586" MTML_DOCID="A3A15EF8-3126-4910-96CB-428C4591582F">
+    <Quote MessageReferenceNumber="91000016_RFQ_PTY_O0090_RF19_10072019023920805.xlsm" MessageNumber="91000016_RFQ_PTY_O0090_RF19_10072019023920805.xlsm" LineItemCount="2" VersionNumber="1" CurrencyCode="SGD" FunctionCode="_9" OriginatingSystemRef="91324586" LeadTimeDays="0" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="2" SupplierORGRef="500091324586">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201907111255" />
+      <Comments Qualifier="SUR">
+        <value>GALLERY EQUIPMENT: MAKER: KANG LI FAR EAST PTE LTD MODEL FOR COOKING RANGE WITH OVEN: ECR2SO
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="PTY/O0090/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="T-SQ-190703088" />
+      <Party Qualifier="BY" Identification="BESC05_AMOSEPB" Name="BERNHARD SCHULTE SHIPMANAGEMENT (HONG KONG) LIMITED PARTNERSHIP" City="HONG KONG">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V00128" Name="AMOS INTERNATIONAL (S) PTE LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="SALES.MS.SG@AMOSGROUP.COM,PUR_TECH@AMOS-SG.COM,PUR_F&amp;B@AMOS-SG.COM" />
+        </Contact>
+        <StreetAddress>156 GUL CIRCLE</StreetAddress>
+        <StreetAddress>SINGAPORE 619901</StreetAddress>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="INTERLINK PRIORITY">
+        <PartyLocation Qualifier="TBA" Port="SHANGHAI - WAIG" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="OVEN THERMOSTAT CONTROL W/KNOB" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="0.00" Identification="7900000" IsExtraItem="0" MarkedRemarks="N/A, PLS REFER DIRECT">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>N/A, PLS REFER DIRECT</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <LineItem Number="2" Description="MARINE ELECTRIC COOKING RANGE W/OVEN" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="0.00" Identification="7900000" IsExtraItem="0" MarkedRemarks="N/A, PLS REFER DIRECT">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>N/A, PLS REFER DIRECT</value>
+        </Comments>
+        <Section Description=" EQUIP DESC :  EQUIP NO : " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="0.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="0.000" />
+    </Quote>
+  </Interchange>
+</MTML>

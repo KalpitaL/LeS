@@ -1,0 +1,268 @@
+10/07/2019 18:02:25 ================10/07/2019 18:02:25================
+10/07/2019 18:02:25 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+10/07/2019 18:02:25 
+10/07/2019 18:02:25 Buyer: Pacific Basin Shipping (HK) Ltd.
+10/07/2019 18:02:25 
+10/07/2019 18:02:25 RFQ processing started.
+10/07/2019 18:02:25 No file found.
+10/07/2019 18:02:25 RFQ processing stopped.
+10/07/2019 18:02:25 
+10/07/2019 18:02:25 Quote processing started.
+10/07/2019 18:02:25 Started Loading interchange object.
+10/07/2019 18:02:25 stopped Loading interchange object.
+10/07/2019 18:02:25 1 files found to process.
+10/07/2019 18:02:25 Started Loading interchange object.
+10/07/2019 18:02:25 stopped Loading interchange object.
+10/07/2019 18:02:25 'MTML_QUOTE_MUS-B19X0102(01)FK-5131_SM3068_V11920_10071920024976.xml' Quote file processing started.
+10/07/2019 18:02:39 Login Successfully.
+10/07/2019 18:03:22 ================10/07/2019 18:03:22================
+10/07/2019 18:03:22 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+10/07/2019 18:03:22 
+10/07/2019 18:03:22 Buyer: Pacific Basin Shipping (HK) Ltd.
+10/07/2019 18:03:22 
+10/07/2019 18:03:22 RFQ processing started.
+10/07/2019 18:03:22 No file found.
+10/07/2019 18:03:22 RFQ processing stopped.
+10/07/2019 18:03:22 
+10/07/2019 18:03:22 Quote processing started.
+10/07/2019 18:03:22 Started Loading interchange object.
+10/07/2019 18:03:22 stopped Loading interchange object.
+10/07/2019 18:03:22 1 files found to process.
+10/07/2019 18:03:22 Started Loading interchange object.
+10/07/2019 18:03:22 stopped Loading interchange object.
+10/07/2019 18:03:22 'MTML_QUOTE_MUS-B19X0102(01)FK-5131_SM3068_V11920_10071920024976.xml' Quote file processing started.
+10/07/2019 18:03:37 Login Successfully.
+10/07/2019 18:03:39 Exception while processing Quote MTML : System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificBasinRoutine.PacificRoutine.Fill_QuoteHeader_details(String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasinRoutine\PacificRoutine.cs:line 1826
+   at PacificBasinRoutine.PacificRoutine.ProcessQuoteMTML(String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasinRoutine\PacificRoutine.cs:line 1480
+10/07/2019 18:03:40 Quote processing stopped.
+10/07/2019 18:03:40 
+10/07/2019 18:03:40 Buyer: EIMSKIP ISLAND EHF
+10/07/2019 18:03:40 
+10/07/2019 18:03:40 RFQ processing started.
+10/07/2019 18:03:40 No file found.
+10/07/2019 18:03:40 RFQ processing stopped.
+10/07/2019 18:03:40 
+10/07/2019 18:03:40 Quote processing started.
+10/07/2019 18:03:40 No Quote files found to process.
+10/07/2019 18:03:40 Quote processing stopped.
+10/07/2019 18:03:40 
+10/07/2019 18:03:40 Buyer: Sea Consortium Pte. Ltd.
+10/07/2019 18:03:40 
+10/07/2019 18:03:40 RFQ processing started.
+10/07/2019 18:03:40 No file found.
+10/07/2019 18:03:40 RFQ processing stopped.
+10/07/2019 18:03:40 
+10/07/2019 18:03:40 Purchase Order processing started.
+10/07/2019 18:03:40 Purchase Order processing stopped.
+10/07/2019 18:03:40 
+10/07/2019 18:03:40 Quote processing started.
+10/07/2019 18:03:40 Started Loading interchange object.
+10/07/2019 18:03:40 stopped Loading interchange object.
+10/07/2019 18:03:40 1 files found to process.
+10/07/2019 18:03:40 Started Loading interchange object.
+10/07/2019 18:03:40 stopped Loading interchange object.
+10/07/2019 18:03:40 'MTML_QUOTE_XPMKU-2019-ST0004-O(01)_SM0668_V10001_02071916505152.xml' Quote file processing started.
+10/07/2019 18:03:58 ================10/07/2019 18:03:58================
+10/07/2019 18:03:58 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 Buyer: Pacific Basin Shipping (HK) Ltd.
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 RFQ processing started.
+10/07/2019 18:03:58 No file found.
+10/07/2019 18:03:58 RFQ processing stopped.
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 Quote processing started.
+10/07/2019 18:03:58 No Quote files found to process.
+10/07/2019 18:03:58 Quote processing stopped.
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 Buyer: EIMSKIP ISLAND EHF
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 RFQ processing started.
+10/07/2019 18:03:58 No file found.
+10/07/2019 18:03:58 RFQ processing stopped.
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 Quote processing started.
+10/07/2019 18:03:58 No Quote files found to process.
+10/07/2019 18:03:58 Quote processing stopped.
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 Buyer: Sea Consortium Pte. Ltd.
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 RFQ processing started.
+10/07/2019 18:03:58 No file found.
+10/07/2019 18:03:58 RFQ processing stopped.
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 Purchase Order processing started.
+10/07/2019 18:03:58 Purchase Order processing stopped.
+10/07/2019 18:03:58 
+10/07/2019 18:03:58 Quote processing started.
+10/07/2019 18:03:58 Started Loading interchange object.
+10/07/2019 18:03:58 stopped Loading interchange object.
+10/07/2019 18:03:58 1 files found to process.
+10/07/2019 18:03:58 Started Loading interchange object.
+10/07/2019 18:03:58 stopped Loading interchange object.
+10/07/2019 18:03:58 'MTML_QUOTE_XPMKU-2019-ST0004-O(01)_SM0668_V10001_02071916505152.xml' Quote file processing started.
+10/07/2019 18:04:17 Login Successfully.
+10/07/2019 18:04:19 Currency USD set successfully
+10/07/2019 18:04:20 Supplier Ref 5155116 set successfully
+10/07/2019 18:06:47 ================10/07/2019 18:06:47================
+10/07/2019 18:06:47 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+10/07/2019 18:06:47 
+10/07/2019 18:06:47 Buyer: Pacific Basin Shipping (HK) Ltd.
+10/07/2019 18:06:47 
+10/07/2019 18:06:47 RFQ processing started.
+10/07/2019 18:06:47 No file found.
+10/07/2019 18:06:47 RFQ processing stopped.
+10/07/2019 18:06:47 
+10/07/2019 18:06:47 Quote processing started.
+10/07/2019 18:06:47 Started Loading interchange object.
+10/07/2019 18:06:47 stopped Loading interchange object.
+10/07/2019 18:06:47 1 files found to process.
+10/07/2019 18:06:47 Started Loading interchange object.
+10/07/2019 18:06:47 stopped Loading interchange object.
+10/07/2019 18:06:47 'MTML_QUOTE_MUS-B19X0102(01)FK-5131_SM3068_V11920_10071920024976.xml' Quote file processing started.
+10/07/2019 18:07:01 Login Successfully.
+10/07/2019 18:07:25 ================10/07/2019 18:07:25================
+10/07/2019 18:07:25 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+10/07/2019 18:07:25 
+10/07/2019 18:07:25 Buyer: Pacific Basin Shipping (HK) Ltd.
+10/07/2019 18:07:25 
+10/07/2019 18:07:25 RFQ processing started.
+10/07/2019 18:07:25 No file found.
+10/07/2019 18:07:25 RFQ processing stopped.
+10/07/2019 18:07:25 
+10/07/2019 18:07:25 Quote processing started.
+10/07/2019 18:07:25 Started Loading interchange object.
+10/07/2019 18:07:25 stopped Loading interchange object.
+10/07/2019 18:07:25 1 files found to process.
+10/07/2019 18:07:25 Started Loading interchange object.
+10/07/2019 18:07:25 stopped Loading interchange object.
+10/07/2019 18:07:25 'MTML_QUOTE_MUS-B19X0102(01)FK-5131_SM3068_V11920_10071920024976.xml' Quote file processing started.
+10/07/2019 18:08:00 Login Successfully.
+10/07/2019 18:12:46 ================10/07/2019 18:12:46================
+10/07/2019 18:12:46 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+10/07/2019 18:12:46 
+10/07/2019 18:12:46 Buyer: Pacific Basin Shipping (HK) Ltd.
+10/07/2019 18:12:46 
+10/07/2019 18:12:46 RFQ processing started.
+10/07/2019 18:12:46 No file found.
+10/07/2019 18:12:46 RFQ processing stopped.
+10/07/2019 18:12:46 
+10/07/2019 18:12:46 Quote processing started.
+10/07/2019 18:12:46 Started Loading interchange object.
+10/07/2019 18:12:46 stopped Loading interchange object.
+10/07/2019 18:12:46 1 files found to process.
+10/07/2019 18:12:46 Started Loading interchange object.
+10/07/2019 18:12:46 stopped Loading interchange object.
+10/07/2019 18:12:46 'MTML_QUOTE_MUS-B19X0102(01)FK-5131_SM3068_V11920_10071920024976.xml' Quote file processing started.
+10/07/2019 18:13:03 Login Successfully.
+10/07/2019 18:16:02 ================10/07/2019 18:16:02================
+10/07/2019 18:16:02 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+10/07/2019 18:16:02 
+10/07/2019 18:16:02 Buyer: Pacific Basin Shipping (HK) Ltd.
+10/07/2019 18:16:02 
+10/07/2019 18:16:02 RFQ processing started.
+10/07/2019 18:16:02 No file found.
+10/07/2019 18:16:02 RFQ processing stopped.
+10/07/2019 18:16:02 
+10/07/2019 18:16:02 Quote processing started.
+10/07/2019 18:16:02 Started Loading interchange object.
+10/07/2019 18:16:02 stopped Loading interchange object.
+10/07/2019 18:16:02 1 files found to process.
+10/07/2019 18:16:02 Started Loading interchange object.
+10/07/2019 18:16:02 stopped Loading interchange object.
+10/07/2019 18:16:02 'MTML_QUOTE_MUS-B19X0102(01)FK-5131_SM3068_V11920_10071920024976.xml' Quote file processing started.
+10/07/2019 18:16:16 Login Successfully.
+10/07/2019 18:16:38 Login Successfully.
+10/07/2019 18:16:41 Exception while processing Quote MTML : System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificBasinRoutine.PacificRoutine.Fill_QuoteHeader_details(String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasinRoutine\PacificRoutine.cs:line 1826
+   at PacificBasinRoutine.PacificRoutine.ProcessQuoteMTML(String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\PacificBasin_Processor\PacificBasinRoutine\PacificRoutine.cs:line 1480
+10/07/2019 18:16:42 Quote processing stopped.
+10/07/2019 18:16:42 
+10/07/2019 18:16:42 Buyer: EIMSKIP ISLAND EHF
+10/07/2019 18:16:42 
+10/07/2019 18:16:42 RFQ processing started.
+10/07/2019 18:16:42 No file found.
+10/07/2019 18:16:42 RFQ processing stopped.
+10/07/2019 18:16:42 
+10/07/2019 18:16:42 Quote processing started.
+10/07/2019 18:16:42 No Quote files found to process.
+10/07/2019 18:16:42 Quote processing stopped.
+10/07/2019 18:16:42 
+10/07/2019 18:16:42 Buyer: Sea Consortium Pte. Ltd.
+10/07/2019 18:16:42 
+10/07/2019 18:16:42 RFQ processing started.
+10/07/2019 18:16:42 No file found.
+10/07/2019 18:16:42 RFQ processing stopped.
+10/07/2019 18:16:42 
+10/07/2019 18:16:42 Purchase Order processing started.
+10/07/2019 18:16:42 Purchase Order processing stopped.
+10/07/2019 18:16:42 
+10/07/2019 18:16:42 Quote processing started.
+10/07/2019 18:16:42 Started Loading interchange object.
+10/07/2019 18:16:42 stopped Loading interchange object.
+10/07/2019 18:16:42 1 files found to process.
+10/07/2019 18:16:42 Started Loading interchange object.
+10/07/2019 18:16:42 stopped Loading interchange object.
+10/07/2019 18:16:42 'MTML_QUOTE_XPMKU-2019-ST0004-O(01)_SM0668_V10001_02071916505152.xml' Quote file processing started.
+10/07/2019 18:17:51 ================10/07/2019 18:17:51================
+10/07/2019 18:17:51 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 Buyer: Pacific Basin Shipping (HK) Ltd.
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 RFQ processing started.
+10/07/2019 18:17:51 No file found.
+10/07/2019 18:17:51 RFQ processing stopped.
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 Quote processing started.
+10/07/2019 18:17:51 No Quote files found to process.
+10/07/2019 18:17:51 Quote processing stopped.
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 Buyer: EIMSKIP ISLAND EHF
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 RFQ processing started.
+10/07/2019 18:17:51 No file found.
+10/07/2019 18:17:51 RFQ processing stopped.
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 Quote processing started.
+10/07/2019 18:17:51 No Quote files found to process.
+10/07/2019 18:17:51 Quote processing stopped.
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 Buyer: Sea Consortium Pte. Ltd.
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 RFQ processing started.
+10/07/2019 18:17:51 No file found.
+10/07/2019 18:17:51 RFQ processing stopped.
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 Purchase Order processing started.
+10/07/2019 18:17:51 Purchase Order processing stopped.
+10/07/2019 18:17:51 
+10/07/2019 18:17:51 Quote processing started.
+10/07/2019 18:17:51 Started Loading interchange object.
+10/07/2019 18:17:51 stopped Loading interchange object.
+10/07/2019 18:17:51 1 files found to process.
+10/07/2019 18:17:51 Started Loading interchange object.
+10/07/2019 18:17:51 stopped Loading interchange object.
+10/07/2019 18:17:51 'MTML_QUOTE_XPMKU-2019-ST0004-O(01)_SM0668_V10001_02071916505152.xml' Quote file processing started.
+10/07/2019 18:18:03 Login Successfully.
+10/07/2019 18:18:18 Login Successfully.
+10/07/2019 18:18:31 Currency USD set successfully
+10/07/2019 18:18:35 Supplier Ref 5155116 set successfully
+10/07/2019 18:23:15 ================10/07/2019 18:23:15================
+10/07/2019 18:23:15 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+10/07/2019 18:23:15 
+10/07/2019 18:23:15 Buyer: Pacific Basin Shipping (HK) Ltd.
+10/07/2019 18:23:15 
+10/07/2019 18:23:15 RFQ processing started.
+10/07/2019 18:23:15 No file found.
+10/07/2019 18:23:15 RFQ processing stopped.
+10/07/2019 18:23:15 
+10/07/2019 18:23:16 Quote processing started.
+10/07/2019 18:23:16 Started Loading interchange object.
+10/07/2019 18:23:16 stopped Loading interchange object.
+10/07/2019 18:23:16 1 files found to process.
+10/07/2019 18:23:16 Started Loading interchange object.
+10/07/2019 18:23:16 stopped Loading interchange object.
+10/07/2019 18:23:16 'MTML_QUOTE_MUS-B19X0102(01)FK-5131_SM3068_V11920_10071920024976.xml' Quote file processing started.
+10/07/2019 18:23:28 Login Successfully.
+10/07/2019 18:23:43 Login Successfully.

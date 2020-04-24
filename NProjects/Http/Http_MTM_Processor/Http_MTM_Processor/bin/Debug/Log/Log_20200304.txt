@@ -1,0 +1,6 @@
+3/4/2020 12:04:06 PM ================3/4/2020 12:04:06 PM================
+3/4/2020 12:04:06 PM MTM RFQ Download HTTP processor started
+3/4/2020 12:04:37 PM RFQ 'LEO-8176-L1' downloaded successfully.
+3/4/2020 12:04:37 PM File 5000264_200304_141942268.txt moved to backup folder.
+3/4/2020 12:04:37 PM MTM RFQ Download HTTP processor stopped
+3/4/2020 12:04:37 PM ====================================================

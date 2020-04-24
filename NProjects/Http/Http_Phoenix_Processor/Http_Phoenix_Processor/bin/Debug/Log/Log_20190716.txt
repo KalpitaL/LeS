@@ -1,0 +1,24 @@
+16/07/2019 13:40:51 ================16/07/2019 13:40:51================
+16/07/2019 13:40:52 Phoenix HTTP processor started
+16/07/2019 13:40:57 Phoenix Processor Started.
+16/07/2019 13:41:06 Processing File 190716_143246968.txt
+16/07/2019 13:41:42  URL : https://apps.southnests.com/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=cd3a885e-5a60-e911-9edd-06089601e630&amp;STOCKTYPE=STORE
+16/07/2019 13:42:14 Navigating To URL ..
+16/07/2019 13:43:40 Reading Header Details ..
+16/07/2019 13:50:54 Reading Item Details ..
+16/07/2019 14:04:20 ================16/07/2019 14:04:20================
+16/07/2019 14:04:20 Phoenix HTTP processor started
+16/07/2019 14:04:20 Phoenix Processor Started.
+16/07/2019 14:04:21 Processing File 190716_143246968.txt
+16/07/2019 14:04:35  URL : https://apps.southnests.com/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=cd3a885e-5a60-e911-9edd-06089601e630&amp;STOCKTYPE=STORE
+16/07/2019 14:04:38 Navigating To URL ..
+16/07/2019 14:04:42 Reading Header Details ..
+16/07/2019 14:04:48 Reading Item Details ..
+16/07/2019 14:06:00 PO 'NGC-19-0030' downloaded successfully.
+16/07/2019 14:06:00 190716_143246968.txt File moved to Backup
+16/07/2019 14:06:00 
+16/07/2019 14:06:00 190716_143246968_4001051_58265_NGC-19-0030SUP-00250420190716.pdf File moved to Backup
+16/07/2019 14:06:00 
+16/07/2019 14:06:00 Phoenix HTTP processor stopped
+16/07/2019 14:06:00 ====================================================
+16/07/2019 14:06:00 

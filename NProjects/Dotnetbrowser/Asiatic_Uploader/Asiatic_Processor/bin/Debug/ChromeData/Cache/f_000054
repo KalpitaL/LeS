@@ -1,0 +1,414 @@
+﻿<content class="answer-inquiry">
+    {{#ifnot: environment.isPurchase}}
+    <header class="background-primary">
+        <div class="cfm-logo-full logo"></div>
+        <flexbox class="grow answer-inquiry-company">
+            <name class="color-white" text="{{utilities.companyName}}"></name>
+        </flexbox>
+    </header>
+    {{/ifnot}}
+    <content class="row"
+             busy="{{isBusy}}"
+             dropzone="{{dropZoneAttachmentsSettings}}">
+        {{#if: environment.isPurchase}}
+        <div class="drop-items-here">
+            <div><span>Drop your files here</span></div>
+        </div>
+        {{/if}}
+
+
+        {{#if: !!inquiry()}}
+        {{#if: environment.isPurchase}}
+        {{#component { name: 'purchase/components/../../purchaseSupplierQuote/components/main/navigation', params: $component.environment } /}}
+        {{/if}}
+        {{#ifnot: environment.isPurchase}}
+        {{#component { name: 'main/navigation', params: $component.environment } /}}
+        {{/ifnot}}
+        <content class="answer-inquiry-scroll-container"
+                 data-bind="template: { afterRender: $component.registerDatepicker.bind($component), data: inquiry }">
+            <header>
+                <h2 id="general-information">General information</h2>
+            </header>
+        <section class="general-information no-shrink">
+            <header class="download-header">
+                <h2 text="{{$component.environment.isPurchase ? 'Contact details' : 'Customer'}}"></h2>
+                {{#if: IsQuoteDownloadAvailable}}
+                <button click="{{$component.downloadQuote.bind($component)}}">
+                    <icon class="icon-download small"></icon>
+                    Download Quote PDF
+                </button>
+                {{/if}}
+            </header>
+            <content class="answer-inquiry-content purchaser-info">
+                <grid class="wrap offset">
+                    <grid-cell class="phone-1of2">
+                        <key>Attention of</key>
+                        <value text="{{ResponsibleUserName | default: 'n/a'}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of2">
+                        <key>Location</key>
+                        <value text="{{VesselName}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of2">
+                        <key>Billing company</key>
+                        <value text="{{BillingCompany | default: 'n/a'}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of2">
+                        <key>Billing address</key>
+                        <value text="{{BillingAddress | default: 'n/a'}}"></value>
+                    </grid-cell>
+                </grid>
+            </content>
+            <header>
+                <grid>
+                    <grid-cell class="phone-1of2">
+                        <h2 id="general-requested-terms" text="{{$root.media.is('medium', 'up') ? 'Requested terms' : 'Requested/Offered terms'}}"></h2>
+                    </grid-cell>
+                    <grid-cell class="phone-1of2"
+                               visible="{{$root.media.is('medium', 'up')}}">
+                        <h2>Offered terms</h2>
+                    </grid-cell>
+                </grid>
+            </header>
+            <content class="answer-inquiry-content">
+                <grid class="wrap offset">
+
+                    <grid-cell class="phone-1of2">
+                        <key>Inquiry date</key>
+                        <value text="{{inquirySentDateString | default: 'n/a'}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of1 medium-1of2">
+                    </grid-cell>
+
+                    <grid-cell class="phone-1of2">
+                        <key>Inquiry no.</key>
+                        <value text="{{InquiryNumber | default: 'n/a'}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <form-field params="value: OfferReferenceNumber, readonly: !$data.CanUserWrite(), label: 'Reference number'">
+                            <input type="text" value="{{value}}" disabled="{{readonly}}"/>
+                        </form-field>
+                    </grid-cell>
+
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <key>Please reply before</key>
+                        <value text="{{replyRequestedUntilString | default: 'n/a'}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <form-field params="value: offerValidUntilString, label: 'Offer valid until', readonly: !$data.CanUserWrite(), placeholder: $component.datePlaceholder">
+                            <input class="date-input" disabled="{{readonly}}" type="text" value="{{value}}" placeholder="{{placeholder}}"/>
+                        </form-field>
+                    </grid-cell>
+
+                    <grid-cell class="phone-1of1 medium-1of2" with="{{RequestedInquiryTerms}}">
+                        <key>Requested payment terms</key>
+                        <value text="{{$component.getPaymentTermTitle($data) | default: 'n/a'}}"></value>
+                    </grid-cell>
+
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <form-field params="value: OfferedPaymentTerms.ID, readonly: !$data.CanUserWrite(), options: $component.possiblePaymentTerms, label: 'Offered payment terms'">
+                            <select disabled="{{readonly}}" data-bind="options: options,
+                                        optionsText: function (x) { return $parentContext.$component.getPaymentTermTitle(x) },
+                                        value: value, optionsValue: 'ID'"></select>
+                        </form-field>
+                    </grid-cell>
+
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <key>Requested currency</key>
+                        <value text="{{requestedCurrencyName | default: 'n/a'}}"></value>
+                    </grid-cell>
+
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <form-field params="value: OfferedInquiryTerms.CurrencyCode, readonly: !$component.canChangeCurrency(), options: $component.possibleCurrencies, label: 'Offered currency'">
+                            <select disabled="{{readonly}}" data-bind="options: options, optionsText: 'Name', optionsValue: 'IsoCode', value: value"></select>
+                        </form-field>
+                    </grid-cell>
+
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <key>Spare part quality level</key>
+                        <value text="{{SparePartQualityLevel | default: 'n/a'}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <key>General terms & conditions</key>
+                        <textarea textinput="{{OfferedInquiryTerms.GeneralTermsConditions}}" readonly="{{ !$data.CanUserWrite()}}"></textarea>
+                    </grid-cell>
+                </grid>
+            </content>
+
+            <header>
+                <h3 id="general-delivery-terms">Delivery terms</h3>
+            </header>
+            <content class="answer-inquiry-content">
+                <grid class="wrap offset">
+                    <grid-cell class="phone-1of4" style="padding-top: 3px;">
+                        <key>Place of delivery</key>
+                        <value text="{{deliveryLocation | default: 'n/a'}}"></value>
+                    </grid-cell>
+                    {{#if: DeliveryAgentText}}
+                    <grid-cell class="phone-1of4">
+                        <flexbox>
+                            <icon class="icon-person-tie primary small"></icon>
+                            <key style="margin: 3px;">Delivery agent</key>
+                        </flexbox>
+                        <value text="{{DeliveryAgentText}}"></value>
+                    </grid-cell>
+                    {{/if}}
+                    <grid-cell class="phone-1of1 medium-2of4">
+
+                    </grid-cell>
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <key>Delivery requested until</key>
+                        <value text="{{deliveryRequestedUntilString | default: 'n/a'}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of4 medium-1of6">
+                        <form-field params="value: deliveryLeadTimeString, label: 'Delivery time', readonly: !$data.CanUserWrite()">
+                            <input type="text" disabled="{{readonly}}" value="{{value}}" />
+                        </form-field>
+                    </grid-cell>
+                    <grid-cell class="phone-1of4 medium-1of6">
+                        <form-field params="value: DeliveryLeadTimeUnit, label: '', options: $component.deliveryLeadTimeUnits, readonly: !$data.CanUserWrite()">
+                            <select disabled="{{readonly}}" data-bind="options: options, optionsText: 'name', optionsValue: 'id', value: value"></select>
+                        </form-field>
+                    </grid-cell>
+                    <grid-cell class="phone-1of2 medium-1of6">
+                        <form-field params="value: orderByDateString, label: 'For on time delivery, order by', readonly: !$data.CanUserWrite(), placeholder: $component.datePlaceholder">
+                            <input class="date-input" disabled="{{readonly}}" type="text" value="{{value}}" placeholder="{{placeholder}}"/>
+                        </form-field>
+                    </grid-cell>
+                    
+                    {{#with: RequestedInquiryTerms.DeliveryInCoTerm}}
+                    <grid-cell class="phone-1of1 medium-1of2" title="{{Description}}">
+                        <key>Requested delivery terms</key>
+                        <value text="{{DisplayName | default: 'n/a'}}"></value>
+                    </grid-cell>
+                    {{/with}}
+                    {{#with: OfferedInquiryTerms}}
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <form-field params="value: DeliveryInCoTermCode, readonly: !$parent.CanUserWrite(), options: $component.possibleIncoTerms, label: 'Offered delivery terms'">
+                            <select disabled="{{readonly}}" data-bind="options: options, optionsText: 'DisplayName', optionsValue: 'IDCode', value: value"></select>
+                        </form-field>
+                    </grid-cell>
+                    {{/with}}
+                </grid>
+            </content>
+
+            {{#if: AdditionalTerms().length}}
+            <header>
+                <h3 id="additional-terms">Additional terms</h3>
+            </header>
+            <content>
+                <grid class="wrap offset">
+                    {{#foreach: AdditionalTerms}}
+                    <grid-cell class="phone-1of1 medium-1of1">
+                        <key text="{{Name}}"></key>
+                        <textarea style="height: 140px" textinput="{{Description}}" readonly></textarea>
+                    </grid-cell>
+                    {{/foreach}}                                    
+                </grid>
+            </content>
+            {{/if}}
+
+            {{#if: SparePartData}}
+            <header>
+                <h3 id="general-spare-part-info">Spare part info</h3>
+            </header>
+            <content class="answer-inquiry-content" with="{{SparePartData}}">
+                <grid class="wrap offset">
+                    <grid-cell class="phone-2of4">
+                        <key>Name</key>
+                        <value text="{{SparePartName}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-2of4"></grid-cell>
+
+                    <grid-cell class="phone-1of4">
+                        <key>Manufacturer</key>
+                        <value text="{{SparePartMaker}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of4">
+                        <key>Model</key>
+                        <value text="{{SparePartModel}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-2of4"></grid-cell>
+
+                    <grid-cell class="phone-1of4">
+                        <key>Type</key>
+                        <value text="{{SparePartType}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-1of4">
+                        <key>Serial no.</key>
+                        <value text="{{SparePartSerial}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-2of4"></grid-cell>
+
+                    <grid-cell class="phone-2of4">
+                        <key>Description</key>
+                        <value text="{{SparePartDescription}}"></value>
+                    </grid-cell>
+                    <grid-cell class="phone-2of4"></grid-cell>
+                </grid>
+            </content>
+            {{/if}}
+
+            {{#if $component.environment.isPurchase}}
+            <content class="answer-inquiry-content inquiry-attachments no-padding">
+                {{#component { name: 'purchase/components/../../purchaseSupplierQuote/components/main/inquiry-attachments', params: $component.environment } /}}
+            </content>
+            {{/if}}
+            {{#ifnot $component.environment.isPurchase}}
+            <content class="answer-inquiry-content inquiry-attachments no-padding">
+                {{#component { name: 'main/inquiry-attachments', params: $component.environment } /}}
+            </content>
+            {{/ifnot}}
+        </section>
+
+            <header>
+                <h2 id="requested-items"
+                    text="{{'Requested items ('+ $component.normalItems().length + ')'}}"
+                    class="color-gray-dark"></h2>
+            </header>
+            {{#foreach: $component.normalItems}}
+            {{#if: $component.environment.isPurchase}}
+            {{#component { name: 'purchase/components/../../purchaseSupplierQuote/components/main/inquiry-item', params: { item: $data, currencySign: $parent.currencySign, inquiry: $parent, environment: $component.environment } } /}}
+            {{/if}}
+            {{#ifnot: $component.environment.isPurchase}}
+            {{#component { name: 'main/inquiry-item', params: { item: $data, currencySign: $parent.currencySign, inquiry: $parent, environment: $component.environment } } /}}
+            {{/ifnot}}
+            {{/foreach}}
+
+            <header>
+                <h2 id="additional-items"
+                    text="{{'Additional Items (' + $component.additionalItems().length + ')'}}"
+                    class="color-gray-dark"></h2>
+            </header>
+            {{#foreach: $component.additionalItems}}
+            {{#if: $component.environment.isPurchase}}
+            {{#component { name: 'purchase/components/../../purchaseSupplierQuote/components/main/inquiry-item', params: { item: $data, currencySign: $parent.currencySign, inquiry: $parent, environment: $component.environment } } /}}
+            {{/if}}
+            {{#ifnot: $component.environment.isPurchase}}
+            {{#component { name: 'main/inquiry-item', params: { item: $data, currencySign: $parent.currencySign, inquiry: $parent, environment: $component.environment } } /}}
+            {{/ifnot}}
+            {{/foreach}}
+            <header class="additional-items-button">
+                <span>
+                    {{#if: $component.additionalItems().length === 0}}
+                    No additional items added.
+                    {{/if}}
+                </span>
+                {{#if: CanUserWrite()}}
+                <button class="no-shrink" click="{{$component.addItem.bind($component)}}">Add Item</button>
+                {{/if}}
+            </header>
+
+            <header>
+                <h2 id="additional-positions" class="color-gray-dark">Additional positions</h2>
+            </header>
+            {{#foreach: $component.specialPositions()}}
+            {{#if: $component.environment.isPurchase}}
+            {{#component { name: 'purchase/components/../../purchaseSupplierQuote/components/main/additional-positions', params: { item: $data, currencySign: $parent.currencySign, inquiry: $parent, environment: $component.environment } } /}}
+            {{/if}}
+            {{#ifnot: $component.environment.isPurchase}}
+            {{#component { name: 'main/additional-positions', params: { item: $data, currencySign: $parent.currencySign, inquiry: $parent, environment: $component.environment } } /}}
+            {{/ifnot}}
+            {{/foreach}}        
+
+            <header>
+                <h2 class="color-gray-dark" id="general-remarks">Remarks</h2>
+            </header>
+            <section class="remarks no-shrink">
+                <grid class="wrap offset">
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <header>
+                            <h3>Inquiry remark</h3>
+                        </header>
+                        <textarea style="height: 140px" readonly value="{{Remarks() && Remarks().length > 0 ? Remarks : 'No remark.'}}" tabindex="-1"></textarea>
+                    </grid-cell>
+                    <grid-cell class="phone-1of1 medium-1of2">
+                        <header>
+                            <h3>Supplier remark</h3>
+                        </header>
+                        <textarea style="height: 140px" readonly="{{ !$data.CanUserWrite() }}" textinput="{{SupplierRemark}}"></textarea>
+                    </grid-cell>
+                </grid>
+            </section>
+
+            <header>
+                <h2 class="color-gray-dark" id="general-finish-offer">Finish offer</h2>
+            </header>
+            <section class="finish-offer no-shrink">
+                <content class="answer-inquiry-content">
+                    <grid class="wrap offset">
+                        <grid-cell class="phone-1of1 medium-3of4"></grid-cell>
+                        <grid-cell class="total-sum phone-1of1 medium-1of4">
+                            <form-field class="currency" params="value: totalSumString, label: 'Total sum', readonly: !$data.CanUserWrite() || !$component.inquiry().UseQuotedPriceTotal()">
+                                <input disabled="{{readonly}}" value="{{value}}"/>
+                                <span text="{{$parent.currencySign}}"></span>
+                            </form-field>
+                            {{#if: $component.environment.isPurchase}}
+                            <grid-cell class="row">
+                                <check-box params="value: $component.inquiry().UseQuotedPriceTotal, isDisabled: !$data.CanUserWrite(), label: 'Enter total sum manually'"></check-box>
+                            </grid-cell>
+                                <p class="description">All item prices will be ignored</p>
+                            {{/if}}
+                        </grid-cell>
+                        {{#if: CanUserWrite}}
+                        <grid-cell class="phone-1of1 medium-2of4"></grid-cell>
+                        <grid-cell class="phone-1of1 medium-1of4">
+                            <button click="{{$component.cancel.bind($component)}}" tabindex="-1">
+                                {{#if: $component.environment.isPurchase}}
+                                Cancel Inquiry
+                                {{/if}}
+                                {{#ifnot: $component.environment.isPurchase}}
+                                Do Not Quote
+                                {{/ifnot}}
+                            </button>
+                        </grid-cell>
+                        <grid-cell class="phone-1of1 medium-1of4">
+                            <button click="{{$component.submit.bind($component)}}" disabled="{{ !isValid()}}" tabindex="-1">
+                                {{#if: $component.environment.isPurchase}}
+                                Save Quote
+                                {{/if}}
+                                {{#ifnot: $component.environment.isPurchase}}
+                                Submit Offer
+                                {{/ifnot}}
+                            </button>
+                        </grid-cell>
+                        {{/if}}
+                    </grid>
+                </content>
+            </section>
+        </content>
+        {{/if}}
+        {{#if: !inquiry()}}
+        <div class="no-inquiry grow">
+            <div>
+                <div>
+                    <header>
+                        <h2>
+                            <img style="height: 32px; width: 32px" data-bind="attr.src: utilities.companyMediumLogoIcon" />
+                            <name text="{{utilities.companyName}}"></name>
+                        </h2>
+                    </header>
+                    <content class="no-grow shrink">
+                        <h1>The inquiry was not found.</h1>
+                    </content>
+                </div>
+            </div>
+        </div>
+        {{/if}}
+    </content>
+    {{#ifnot: environment.isPurchase}}
+    <footer class="copyright-footer">
+        <left>
+            <phone>
+                Copyright &copy;{{copyrightYear}} Hanseaticsoft GmbH - All rights reserved
+            </phone>
+        </left>
+        <right>
+            <phone>
+                Learn more on <a href="https://www.hanseaticsoft.com">www.hanseaticsoft.com</a>
+            </phone>
+            <div class="logo logo-hanseaticsoft"></div>
+        </right>
+    </footer>
+    {{/ifnot}}
+</content>

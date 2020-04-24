@@ -1,0 +1,80 @@
+1/16/2020 3:33:25 PM ================1/16/2020 3:33:25 PM================
+1/16/2020 3:33:25 PM DNVGL HTTP Processor started
+1/16/2020 3:33:27 PM 
+1/16/2020 3:33:27 PM Supplier: V10107
+1/16/2020 3:33:27 PM Process started for SM0372_WEB
+1/16/2020 3:33:28 PM 
+1/16/2020 3:33:28 PM Quote processing started.
+1/16/2020 3:33:28 PM 1 files found to process.
+1/16/2020 3:33:29 PM Started Loading interchange object.
+1/16/2020 3:33:29 PM stopped Loading interchange object.
+1/16/2020 3:33:36 PM Unable to set supplier remarks for 175-2020-ST0004-B(01)
+1/16/2020 3:38:48 PM ================1/16/2020 3:38:48 PM================
+1/16/2020 3:38:48 PM DNVGL HTTP Processor started
+1/16/2020 3:38:49 PM 
+1/16/2020 3:38:49 PM Supplier: V10107
+1/16/2020 3:38:49 PM Process started for SM0372_WEB
+1/16/2020 3:38:50 PM 
+1/16/2020 3:38:50 PM Quote processing started.
+1/16/2020 3:38:50 PM 1 files found to process.
+1/16/2020 3:38:53 PM Started Loading interchange object.
+1/16/2020 3:38:53 PM stopped Loading interchange object.
+1/16/2020 3:39:02 PM Unable to set supplier remarks for 175-2020-ST0004-B(01)
+1/16/2020 3:44:49 PM ================1/16/2020 3:44:49 PM================
+1/16/2020 3:44:49 PM DNVGL HTTP Processor started
+1/16/2020 3:44:50 PM 
+1/16/2020 3:44:50 PM Supplier: V10107
+1/16/2020 3:44:50 PM Process started for SM0372_WEB
+1/16/2020 3:44:51 PM 
+1/16/2020 3:44:51 PM Quote processing started.
+1/16/2020 3:44:51 PM 1 files found to process.
+1/16/2020 3:44:51 PM Started Loading interchange object.
+1/16/2020 3:44:51 PM stopped Loading interchange object.
+1/16/2020 3:44:55 PM Unable to set supplier remarks for 175-2020-ST0004-B(01)
+1/16/2020 3:45:45 PM LeS-1004:Unable to process file due to System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at HTTPWrapper.HTTPWrapper.PostURL(String _request, String _postData, String validateNodeTitle, String validateAttribute, String attributeValue, String HiddenAttributeKey, Boolean readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\HTTPWrapper\HTTPWrapper.cs:line 218
+   at PacificRoutine.PBRoutine.SaveQuotation(String[] Arr, RootObject _library, String MTML_QuoteFile, String Token) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1858
+   at PacificRoutine.PBRoutine.Fill_Quotation(String Token, String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\HTTP_Pacific_Basin_Processor\PacificRoutine\PBRoutine.cs:line 1609
+1/16/2020 3:45:45 PM DNVGL HTTP Processor stopped
+1/16/2020 3:45:45 PM ====================================================
+1/16/2020 3:53:50 PM ================1/16/2020 3:53:50 PM================
+1/16/2020 3:53:50 PM DNVGL HTTP Processor started
+1/16/2020 3:53:50 PM 
+1/16/2020 3:53:50 PM Supplier: V10107
+1/16/2020 3:53:50 PM Process started for SM0372_WEB
+1/16/2020 3:53:52 PM No quote files found to process.
+1/16/2020 3:53:52 PM DNVGL HTTP Processor stopped
+1/16/2020 3:53:52 PM ====================================================
+1/16/2020 3:54:07 PM ================1/16/2020 3:54:07 PM================
+1/16/2020 3:54:07 PM DNVGL HTTP Processor started
+1/16/2020 3:54:09 PM 
+1/16/2020 3:54:09 PM Supplier: V10107
+1/16/2020 3:54:09 PM Process started for SM0372_WEB
+1/16/2020 3:54:11 PM 
+1/16/2020 3:54:11 PM Quote processing started.
+1/16/2020 3:54:11 PM 1 files found to process.
+1/16/2020 3:54:11 PM Started Loading interchange object.
+1/16/2020 3:54:11 PM stopped Loading interchange object.
+1/16/2020 3:54:16 PM Unable to set supplier remarks for 175-2020-ST0004-B(01)
+1/16/2020 4:02:39 PM ================1/16/2020 4:02:39 PM================
+1/16/2020 4:02:39 PM DNVGL HTTP Processor started
+1/16/2020 4:02:39 PM 
+1/16/2020 4:02:39 PM Supplier: V10107
+1/16/2020 4:02:39 PM Process started for SM0372_WEB
+1/16/2020 4:02:39 PM 
+1/16/2020 4:02:39 PM Quote processing started.
+1/16/2020 4:02:39 PM 1 files found to process.
+1/16/2020 4:02:39 PM Started Loading interchange object.
+1/16/2020 4:02:39 PM stopped Loading interchange object.
+1/16/2020 4:02:45 PM Unable to set supplier remarks for 175-2020-ST0004-B(01)
+1/16/2020 5:04:22 PM ================1/16/2020 5:04:22 PM================
+1/16/2020 5:04:22 PM DNVGL HTTP Processor started
+1/16/2020 5:04:22 PM 
+1/16/2020 5:04:22 PM Supplier: V10107
+1/16/2020 5:04:22 PM Process started for SM0372_WEB
+1/16/2020 5:04:22 PM 
+1/16/2020 5:04:22 PM Quote processing started.
+1/16/2020 5:04:22 PM 1 files found to process.
+1/16/2020 5:04:22 PM Started Loading interchange object.
+1/16/2020 5:04:22 PM stopped Loading interchange object.
+1/16/2020 5:05:09 PM Unable to set supplier remarks for 175-2020-ST0004-B(01)

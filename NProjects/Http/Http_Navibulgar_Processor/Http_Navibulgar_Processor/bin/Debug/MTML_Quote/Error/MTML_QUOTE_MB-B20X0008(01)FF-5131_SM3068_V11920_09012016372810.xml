@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="20000282" Identifier="UNOC" Recipient="SM3068_WEB" Sender="V11920" PreparationDate="2020-Jan-09" PreparationTime="16:37" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3666" LesRecordID="11894376" LesLinkID="104517" ParentRecordID="11893099" MTML_DOCID="D8479F91-C3A6-49E3-A8A4-0332B473956D">
+    <Quote MessageReferenceNumber="MB-B20X0008(01)FF-5131" MessageNumber="https://supplierportal.dnvgl.com/#/19w78KmXZO12AdQjxZ5P/1|6aqAxJp" LineItemCount="2" VersionNumber="1" CurrencyCode="EUR" LeadTimeDays="0" BuyerRefNo="MB-B20X0008(01)FF-5131" OriginalFile="QUOTE_MB-B20X0008(01)FF-5131_200108_23123571.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="36.26" BuyerQuoteTotal="36.26">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202001091637" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>Galley utensils</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="MB-B20X0008(01)FF-5131" />
+      <Reference Qualifier="AAG" ReferenceNumber="20000282" />
+      <Party Qualifier="BY" Name="Kopping Reederei GmbH &amp; Co. KG">
+        <Contact Name="Marc Rengers">
+          <CommunicationMethod Qualifier="TE" Number="+49-(0)4331-8466-43" />
+          <CommunicationMethod Qualifier="EM" Number="purchase@kship.de" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Gimas Ship Supply &amp; Services B.V.">
+        <Contact />
+        <StreetAddress>Jan van Galenstraat 9,Schiedam,NETHERLANDS,3115 JG</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="Miriam">
+        <PartyLocation Qualifier="ZUC" Berth="ROTTERDAM   NETHERLANDS" Port="ROTTERDAM " />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Blender | " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="012/00090/2020" SystemItemNo="1" MonetaryAmount="24.38" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCE" Supp_UOM="PC" Supp_Price="24.38" BuyerItemTotal="24.38" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="24.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="24.38" />
+        <Comments Qualifier="LIN">
+          <value>ELECTRIC BLENDER 1,5LTR 220V
+ |  QTY : 1 | UOM : PC</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Kettle, 1,7l | " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="012/00091/2020" SystemItemNo="2" MonetaryAmount="11.88" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCE" Supp_UOM="PC" Supp_Price="11.88" BuyerItemTotal="11.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.88" />
+        <Comments Qualifier="LIN">
+          <value>ELECTRIC CORDLESS KETTLE 1,7LTR 220V 
+ |  QTY : 1 | UOM : PC</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="36.260" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="36.260" />
+      <MonetaryAmount Qualifier="_90" Value="36.260" />
+      <MonetaryAmount Qualifier="_91" Value="36.260" />
+    </Quote>
+  </Interchange>
+</MTML>

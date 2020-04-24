@@ -1,0 +1,77 @@
+
+13:38:40 : Phoenix RFQ & PO Downloader Started.
+13:38:40 : Processing File 160509_120305841.txt
+13:39:05 : Unable to get header data! Error - PO details mismatched
+13:42:36 : Phoenix RFQ & PO Downloader Started.
+13:42:36 : Processing File 160509_120305841.txt
+13:42:56 : Unable to get header data! Error - PO details mismatched
+16:03:30 : Phoenix RFQ & PO Downloader Started.
+16:03:30 : Processing File 160509_120305841.txt
+16:07:20 : Unable to get header data! Error - Index and length must refer to a location within the string.
+Parameter name: length
+16:12:51 : Phoenix RFQ & PO Downloader Started.
+16:12:51 : Processing File 160509_120305841.txt
+16:27:08 : Phoenix RFQ & PO Downloader Started.
+16:27:08 : Processing File 160509_120305841.txt
+16:34:03 : Phoenix RFQ & PO Downloader Started.
+16:34:03 : Processing File 160509_120305841.txt
+16:36:56 : Phoenix RFQ & PO Downloader Started.
+16:36:56 : Processing File 160509_120305841.txt
+16:45:10 : Phoenix RFQ & PO Downloader Started.
+16:45:10 : Processing File 160509_120305841.txt
+16:55:30 : Unable to get item data! Error - The given key was not present in the dictionary.
+16:55:47 : Phoenix RFQ & PO Downloader Started.
+16:55:47 : Processing File 160509_120305841.txt
+16:58:40 : Error in ExporttoHeader - The given key was not present in the dictionary.
+16:59:02 : Unable to export xml! Error - The given key was not present in the dictionary.
+16:59:10 : Phoenix RFQ & PO Downloader Started.
+16:59:10 : Processing File 160509_120305841.txt
+17:00:58 : Phoenix RFQ & PO Downloader Started.
+17:00:58 : Processing File 160509_120305841.txt
+17:01:46 : Phoenix RFQ & PO Downloader Started.
+17:01:46 : Processing File 160509_120305841.txt
+17:04:49 : Phoenix RFQ & PO Downloader Started.
+17:04:49 : Processing File 160509_120305841.txt
+17:07:55 : Phoenix RFQ & PO Downloader Started.
+17:07:55 : Processing File 160509_120305841.txt
+17:14:45 : Phoenix RFQ & PO Downloader Started.
+17:14:45 : Processing File 160509_120305841.txt
+17:17:39 : Error in ExporttoHeader - Could not find a part of the path.
+17:17:49 : Phoenix RFQ & PO Downloader Started.
+17:17:49 : Processing File 160509_120305841.txt
+17:17:54 : Unable to get header data! Error - Object reference not set to an instance of an object.
+17:18:04 : Phoenix RFQ & PO Downloader Started.
+17:18:04 : Processing File 160509_120305841.txt
+17:18:38 : PO 'DSR-16-0069' downloaded successfully.
+17:18:53 : 160509_120305841.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:18:53 : Phoenix RFQ Downloader Stopped.
+
+
+17:21:24 : Phoenix RFQ & PO Downloader Started.
+17:21:24 : Processing File 160426_131806843.txt
+17:22:40 : RFQ 'ECS-16-0068' downloaded successfully.
+17:22:53 : 160426_131806843.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:22:53 : Processing File 160426_131808311.txt
+17:26:45 : RFQ 'ECS-16-0086' downloaded successfully.
+17:26:58 : 160426_131808311.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:26:58 : Processing File 160426_131809419.txt
+17:29:21 : RFQ 'DSR-16-0078' downloaded successfully.
+17:29:34 : 160426_131809419.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:29:34 : Processing File 160426_150304534.txt
+17:30:17 : RFQ 'AKS-16-0110' downloaded successfully.
+17:30:31 : 160426_150304534.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:30:31 : Processing File 160430_120306507.txt
+17:31:28 : RFQ 'NBZ-16-0045' downloaded successfully.
+17:31:41 : 160430_120306507.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:31:41 : Processing File 160509_120305841.txt
+17:31:46 : PO 'DSR-16-0069' downloaded successfully.
+17:31:59 : 160509_120305841.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:31:59 : Phoenix RFQ Downloader Stopped.
+
+
+17:35:56 : Phoenix RFQ & PO Downloader Started.
+17:35:56 : Processing File 160509_120305841.txt
+17:36:03 : PO 'DSR-16-0069' downloaded successfully.
+17:36:16 : 160509_120305841.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:36:16 : Phoenix RFQ Downloader Stopped.
+

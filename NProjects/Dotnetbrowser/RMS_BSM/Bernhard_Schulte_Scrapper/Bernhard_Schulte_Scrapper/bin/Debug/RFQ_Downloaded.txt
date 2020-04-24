@@ -1,0 +1,92 @@
+SCW/O0085/RF17|12-May-2017|Shandong Chong Wen||12-May-2017
+QUY/O0047/RF17|26-May-2017|Interlink Quality||26-May-2017
+DTE/O0061/RF17|26-May-2017|SoHo Mandate|Jiang Yin|26-May-2017
+AVY/O0052/RF17|26-May-2017|Interlink Activity||26-May-2017
+AVY/O0051/RF17|26-May-2017|Interlink Activity||26-May-2017
+KS1/O0094/RF17|26-May-2017|Kokuka Courageous|Shanghai - Yangshan|26-May-2017
+KS1/O0093/RF17|26-May-2017|Kokuka Courageous|Shanghai - Yangshan|26-May-2017
+KS1/O0092/RF17|26-May-2017|Kokuka Courageous|Shanghai - Yangshan|26-May-2017
+KS1/O0091/RF17|26-May-2017|Kokuka Courageous|Singapore|26-May-2017
+LIL/O0067/RF17|26-May-2017|Lilstella|Singapore|26-May-2017
+DSAL/O0090/RF17|26-May-2017|Alpine Mathilde|Ningbo|26-May-2017
+JYU/O0115/RF17|22-May-2017|Jin Yun|Qingdao|26-May-2017
+DSAL/O0090/RF17|26-May-2017|Alpine Mathilde|Singapore|26-May-2017
+JYU/O0123/RF17|26-May-2017|Jin Yun|Rizhao|26-May-2017
+JYU/O0122/RF17|26-May-2017|Jin Yun|Rizhao|26-May-2017
+JYU/O0121/RF17|26-May-2017|Jin Yun|Qingdao|26-May-2017
+JYU/O0119/RF17|26-May-2017|Jin Yun|Qingdao|26-May-2017
+JYU/O0120/RF17|26-May-2017|Jin Yun|Qingdao|26-May-2017
+FTY/O0003/RF17|26-May-2017|Interlink Fortuity|Nanjing|26-May-2017
+CRT1/O0137/RF17|26-May-2017|Crete I|Zhoushan Pt|26-May-2017
+SCY/O0055/RF17|25-May-2017|Interlink Sagacity||26-May-2017
+HHJA/O0197/RF17|25-May-2017|Honourable Henry Jackman|Jiangyin Pt|25-May-2017
+PWI/O0037/RF17|25-May-2017|Pacific Winner|Singapore|25-May-2017
+IRMG/O0099/RF17|25-May-2017|Irmgard Schulte||25-May-2017
+ERN/O0013/RF17|17-Jan-2017|Erin Schulte||25-May-2017
+80jo/O0124/RF17|17-May-2017|Johann Schulte||25-May-2017
+80jo/O0090/RF17|03-Apr-2017|Johann Schulte||25-May-2017
+XHZ/O0066/RF17|24-May-2017|New Huzhou|Singapore|25-May-2017
+APIL/O0054/RF17|09-May-2017|Astrid Schulte|Antwerp|25-May-2017
+PTY/O0076/RF17|25-May-2017|Interlink Priority||25-May-2017
+APLO/O0073/RF17|21-Jul-2017|SCT Oman|Shanghai - Waigaoqiao|21-Jul-2017
+MPRT/O0085/RF17|21-Jul-2017|MOL Prestige|Yantian Pt|21-Jul-2017
+MPRT/O0088/RF17|21-Jul-2017|MOL Prestige|Yantian Pt|21-Jul-2017
+MPRT/O0084/RF17|21-Jul-2017|MOL Prestige|Yantian Pt|21-Jul-2017
+MOLP/O0087/RF17|21-Jul-2017|MOL Pace|Shanghai - Yangshan|21-Jul-2017
+MPRT/O0082/RF17|21-Jul-2017|MOL Prestige|Yantian Pt|21-Jul-2017
+MPRT/O0083/RF17|21-Jul-2017|MOL Prestige|Yantian Pt|21-Jul-2017
+MS7/O0083/RF17|20-Jul-2017|Meridian||21-Jul-2017
+BUR/O0038/RF17|21-Jul-2017|Raffles Quay|Xiuyu|21-Jul-2017
+FNC/O0051/RF17|21-Jul-2017|FMG Nicola|Caofeidian|21-Jul-2017
+TTI/O0063/RF17|21-Jul-2017|Trust Integrity|Bayuquan|21-Jul-2017
+ISGR/O0146/RF17|21-Jul-2017|Island Green|Zhanjiang Potou Apt|21-Jul-2017
+TTI/O0062/RF17|21-Jul-2017|Trust Integrity||21-Jul-2017
+RPI/O0336/RF16|28-Sep-2016|Ridgebury Pioneer||21-Jul-2017
+SOH/O0086/RF17|21-Jul-2017|Soho Merchant||21-Jul-2017
+RPI/O0224/RF17|21-Jul-2017|Ridgebury Pioneer|Zhoushan Pt|21-Jul-2017
+RST/O0163/RF17|21-Jul-2017|Christa Schulte|Qingdao|21-Jul-2017
+IKAR/O0123/RF17|21-Jul-2017|Ikaria|Shekou|21-Jul-2017
+SFLA/O0118/RF17|21-Jul-2017|SFL Avon|Shanghai - Yangshan|21-Jul-2017
+SFLA/O0117/RF17|21-Jul-2017|SFL Avon|Shanghai - Yangshan|21-Jul-2017
+AMI/O0087/RF17|20-Jul-2017|Amelia|Shanghai - Yangshan|20-Jul-2017
+VER/O0166/RF17|20-Jul-2017|Interlink Verity||20-Jul-2017
+PBT/O0114/RF17|20-Jul-2017|Interlink Probity|Las Palmas|20-Jul-2017
+WEM/O0096/RF17|13-Jun-2017|Wembley|Rotterdam|20-Jul-2017
+RTL/O0028/RF17|20-Jul-2017|Rostella|Zhenjiang Pt|20-Jul-2017
+PME/O0077/RF17|20-Jul-2017|Pacific Merchants|Singapore|20-Jul-2017
+RPI/O0223/RF17|20-Jul-2017|Ridgebury Pioneer||20-Jul-2017
+EQU/O0044/RF17|10-Apr-2017|Interlink Equity||20-Jul-2017
+PAMY/O0111/RF17|14-Jul-2017|Patagonian Mystic||20-Jul-2017
+FSD/O0059/RF17|20-Jul-2017|FMG Sydney|Qingdao|20-Jul-2017
+GGE/O0092/RF17|21-Jul-2017|Golden Gemini||21-Jul-2017
+ERIK/O0118/RF17|21-Jul-2017|Erika Schulte||21-Jul-2017
+PTY/O0102/RF17|31-Jul-2017|Interlink Priority||31-Jul-2017
+PTY/O0101/RF17|31-Jul-2017|Interlink Priority||31-Jul-2017
+XENA/O0093/RF17|31-Jul-2017|Xena|Zhangjiagang|31-Jul-2017
+APLO/O0074/RF17|31-Jul-2017|SCT Oman|Shanghai - Waigaoqiao|31-Jul-2017
+AMI/O0090/RF17|31-Jul-2017|Amelia|Shanghai - Yangshan|31-Jul-2017
+MOLP/O0105/RF17|31-Jul-2017|MOL Pace|Shanghai - Yangshan|31-Jul-2017
+MPRT/O0098/RF17|31-Jul-2017|MOL Prestige|Yantian Pt|31-Jul-2017
+BOE/O0146/RF17|30-Jul-2017|Baosteel Education|Zhangjiagang|30-Jul-2017
+ISGR/O0154/RF17|30-Jul-2017|Island Green|Dalian|30-Jul-2017
+SCW/O0150/RF17|30-Jul-2017|Shandong Chong Wen|Tianjin Pt|30-Jul-2017
+ISGR/O0153/RF17|30-Jul-2017|Island Green|Dalian|30-Jul-2017
+SCW/O0149/RF17|30-Jul-2017|Shandong Chong Wen|Tianjin Pt|30-Jul-2017
+SCW/O0147/RF17|30-Jul-2017|Shandong Chong Wen|Tianjin Pt|30-Jul-2017
+SCW/O0148/RF17|30-Jul-2017|Shandong Chong Wen|Tianjin Pt|30-Jul-2017
+SCW/O0146/RF17|30-Jul-2017|Shandong Chong Wen|Tianjin Pt|30-Jul-2017
+ORB/O0030/RF17|31-Mar-2017|Ore Bayovar|Shanghai - Yangshan|30-Jul-2017
+SCW/O0144/RF17|30-Jul-2017|Shandong Chong Wen|Tianjin Pt|30-Jul-2017
+SCW/O0145/RF17|30-Jul-2017|Shandong Chong Wen||30-Jul-2017
+KGLS/O0112/RF17|21-Jul-2017|Kokuka Glorious|Rotterdam|30-Jul-2017
+VDJK/O0108/RF17|31-Jul-2017|Ore Dongjiakou|Singapore|31-Jul-2017
+APLO/O0082/RF17|11-Sep-2017|SCT Oman|Shanghai - Waigaoqiao|11-Sep-2017
+PER/O0151/RF17|11-Sep-2017|Atlantic Moon|Singapore|11-Sep-2017
+MS6/O0125/RF17|11-Sep-2017|Mia Schulte|Shanghai - Yangshan|11-Sep-2017
+MS6/O0124/RF17|11-Sep-2017|Mia Schulte||11-Sep-2017
+KS1/O0152/RF17|11-Sep-2017|Kokuka Courageous|Shanghai - Yangshan|11-Sep-2017
+SC2/O0048/RF17|11-Sep-2017|SCT Qatar|Shanghai - Waigaoqiao|11-Sep-2017
+SC2/O0049/RF17|11-Sep-2017|SCT Qatar|Shanghai - Waigaoqiao|11-Sep-2017
+SC2/O0050/RF17|11-Sep-2017|SCT Qatar|Shanghai - Waigaoqiao|11-Sep-2017
+FNC/O0059/RF17|11-Sep-2017|FMG Nicola||11-Sep-2017
+DTE/O0115/RF17|11-Sep-2017|SoHo Mandate|Shanghai - Yangshan|11-Sep-2017

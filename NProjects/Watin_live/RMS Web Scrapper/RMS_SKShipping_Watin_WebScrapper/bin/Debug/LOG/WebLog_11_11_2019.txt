@@ -1,0 +1,35 @@
+
+2019-11-11 17:17:41 : Task to perform is 'UPLOAD'
+2019-11-11 17:17:41 : Logging to SK Shipping website.
+2019-11-11 17:17:47 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-11-11 17:17:58 : Successfull login to SK Shipping website.
+2019-11-11 17:17:59 : Started processing Quote named MTML_QUOTE_KVI-19-IT-064_SM0876_V10205_11111918062947.xml present on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX
+2019-11-11 17:18:14 : Uploading Quote of RFQ 'KVI-19-IT-064'
+2019-11-11 17:18:27 : Filling Header
+2019-11-11 17:18:27 : Filling Supplier Ref No
+2019-11-11 17:18:27 : Filling Currency
+2019-11-11 17:18:27 : Filling D/C Percent
+2019-11-11 17:18:27 : Filling Valid From
+2019-11-11 17:18:27 : Filling Valid To
+2019-11-11 17:18:27 : Filling Quotation Remark
+2019-11-11 17:18:27 : Checking Total Items count match.
+2019-11-11 17:18:27 : Filling Items
+2019-11-11 17:18:41 : 7 Items found for Quote having RFQ 'KVI-19-IT-064'
+2019-11-11 17:18:46 : IMPA found.
+2019-11-11 17:21:37 : Task to perform is 'UPLOAD'
+2019-11-11 17:21:51 : Logging to SK Shipping website.
+2019-11-11 17:21:56 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-11-11 17:22:04 : Successfull login to SK Shipping website.
+2019-11-11 17:22:05 : Started processing Quote named MTML_QUOTE_KVI-19-IT-064_SM0876_V10205_11111918062947.xml present on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX
+2019-11-11 17:22:07 : Uploading Quote of RFQ 'KVI-19-IT-064'
+2019-11-11 17:22:46 : Filling Header
+2019-11-11 17:22:46 : Filling Supplier Ref No
+2019-11-11 17:22:46 : Filling Currency
+2019-11-11 17:22:46 : Filling D/C Percent
+2019-11-11 17:22:46 : Filling Valid From
+2019-11-11 17:22:46 : Filling Valid To
+2019-11-11 17:22:46 : Filling Quotation Remark
+2019-11-11 17:22:46 : Checking Total Items count match.
+2019-11-11 17:22:46 : Filling Items
+2019-11-11 17:22:48 : 7 Items found for Quote having RFQ 'KVI-19-IT-064'
+2019-11-11 17:22:48 : IMPA found.

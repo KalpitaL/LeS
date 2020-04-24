@@ -1,0 +1,13 @@
+12/12/2019 6:23:12 PM ================12/12/2019 6:23:12 PM================
+12/12/2019 6:23:12 PM Phoenix HTTP processor started
+12/12/2019 6:23:13 PM Phoenix Processor Started.
+12/12/2019 6:23:16 PM No files found.
+12/12/2019 6:23:34 PM Phoenix HTTP processor stopped
+12/12/2019 6:23:34 PM ====================================================
+12/12/2019 6:23:34 PM 
+12/12/2019 6:23:37 PM ================12/12/2019 6:23:37 PM================
+12/12/2019 6:23:37 PM Phoenix HTTP processor started
+12/12/2019 6:23:37 PM Phoenix Processor Started.
+12/12/2019 6:23:38 PM Processing File 4001020_191212_201218099.txt
+12/12/2019 6:23:54 PM  URL : https://apps2.southnests.com:443/PhoenixTelerik/Purchase/PurchaseQuotationItems.aspx?SESSIONID=CBDE44E2-D61C-EA11-80D9-065916D1083C&STOCKTYPE=SPARE
+12/12/2019 6:23:56 PM Navigating To URL ..

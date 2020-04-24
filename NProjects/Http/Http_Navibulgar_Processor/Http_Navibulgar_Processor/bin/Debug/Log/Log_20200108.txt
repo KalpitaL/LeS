@@ -1,0 +1,126 @@
+1/8/2020 3:50:42 PM ================1/8/2020 3:50:42 PM================
+1/8/2020 3:50:42 PM Navibulgar HTTP Processor started
+1/8/2020 3:50:42 PM Domain: navbul
+
+1/8/2020 3:50:42 PM Process started for bburki@nekoship.nl
+1/8/2020 3:50:49 PM Logged in successfully
+1/8/2020 3:50:49 PM RFQ processing started.
+1/8/2020 3:50:49 PM Processing RFQ for ref no E/283-S011/19/1398
+1/8/2020 3:50:51 PM Start Getting Header details
+1/8/2020 3:50:51 PM Getting Header details completed successfully.
+1/8/2020 3:50:51 PM Start Getting LineItem details
+1/8/2020 3:50:51 PM Getting LineItem details successfully
+1/8/2020 3:50:51 PM Start Getting address details
+1/8/2020 3:50:51 PM Getting address details successfully
+1/8/2020 3:50:52 PM RFQ_E_283-S011_19_1398_20200108035051.xml downloaded successfully.
+1/8/2020 3:50:52 PM 
+1/8/2020 3:50:52 PM Processing RFQ for ref no E/270/ES001/20/1398
+1/8/2020 3:50:52 PM Start Getting Header details
+1/8/2020 3:50:52 PM Getting Header details completed successfully.
+1/8/2020 3:50:52 PM Start Getting LineItem details
+1/8/2020 3:50:52 PM Getting LineItem details successfully
+1/8/2020 3:50:52 PM Start Getting address details
+1/8/2020 3:50:52 PM Getting address details successfully
+1/8/2020 3:50:52 PM RFQ_E_270_ES001_20_1398_20200108035052.xml downloaded successfully.
+1/8/2020 3:50:52 PM 
+1/8/2020 3:50:52 PM Processing RFQ for ref no E/387/ES002/20/1398
+1/8/2020 3:50:53 PM Start Getting Header details
+1/8/2020 3:50:53 PM Getting Header details completed successfully.
+1/8/2020 3:50:53 PM Start Getting LineItem details
+1/8/2020 3:50:53 PM Getting LineItem details successfully
+1/8/2020 3:50:53 PM Start Getting address details
+1/8/2020 3:50:53 PM Getting address details successfully
+1/8/2020 3:50:53 PM RFQ_E_387_ES002_20_1398_20200108035053.xml downloaded successfully.
+1/8/2020 3:50:53 PM 
+1/8/2020 3:50:53 PM Processing RFQ for ref no E/385/DS002/20/1398
+1/8/2020 3:50:53 PM Start Getting Header details
+1/8/2020 3:50:53 PM Getting Header details completed successfully.
+1/8/2020 3:50:53 PM Start Getting LineItem details
+1/8/2020 3:50:53 PM Getting LineItem details successfully
+1/8/2020 3:50:53 PM Start Getting address details
+1/8/2020 3:50:53 PM Getting address details successfully
+1/8/2020 3:50:53 PM RFQ_E_385_DS002_20_1398_20200108035053.xml downloaded successfully.
+1/8/2020 3:50:53 PM 
+1/8/2020 3:50:53 PM Processing RFQ for ref no E/383/DS004/20/1398
+1/8/2020 3:50:54 PM Start Getting Header details
+1/8/2020 3:50:54 PM Getting Header details completed successfully.
+1/8/2020 3:50:54 PM Start Getting LineItem details
+1/8/2020 3:50:54 PM Getting LineItem details successfully
+1/8/2020 3:50:54 PM Start Getting address details
+1/8/2020 3:50:54 PM Getting address details successfully
+1/8/2020 3:50:54 PM RFQ_E_383_DS004_20_1398_20200108035054.xml downloaded successfully.
+1/8/2020 3:50:54 PM 
+1/8/2020 3:50:54 PM RFQ processing stopped.
+1/8/2020 3:50:55 PM 
+1/8/2020 3:50:55 PM Quote processing started.
+1/8/2020 3:50:56 PM 2 Quote files found to process.
+1/8/2020 3:50:59 PM Started Loading interchange object.
+1/8/2020 3:50:59 PM stopped Loading interchange object.
+1/8/2020 3:51:00 PM Quote processing started for refno: E/383/DS003/20/1398
+1/8/2020 3:51:05 PM Reference Number Matched
+1/8/2020 3:51:07 PM Checking Quote Status
+1/8/2020 3:51:14 PM LeS-1011.1:Unable to submit Quote since Quotation is already submitted for E/383/DS003/20/1398.
+1/8/2020 3:51:14 PM File MTML_QUOTE_E_383_DS003_20_1398_SM0752_V10107_08012017545107.xml moved to error files.
+1/8/2020 3:51:24 PM Started Loading interchange object.
+1/8/2020 3:51:24 PM stopped Loading interchange object.
+1/8/2020 3:51:25 PM Quote processing started for refno: E/383/ES006/20/1398
+1/8/2020 3:51:26 PM Reference Number Matched
+1/8/2020 3:51:28 PM Checking Quote Status
+1/8/2020 3:51:28 PM LeS-1011.1:Unable to submit Quote since Quotation is already submitted for E/383/ES006/20/1398.
+1/8/2020 3:51:28 PM File MTML_QUOTE_E_383_ES006_20_1398_SM0752_V10107_08012018065042.xml moved to error files.
+1/8/2020 3:51:28 PM Quote processing stopped.
+1/8/2020 3:51:28 PM Navibulgar HTTP Processor stopped
+1/8/2020 3:51:28 PM ====================================================
+1/8/2020 3:56:37 PM ================1/8/2020 3:56:37 PM================
+1/8/2020 3:56:37 PM Navibulgar HTTP Processor started
+1/8/2020 3:56:37 PM Domain: navbul
+
+1/8/2020 3:56:37 PM Process started for bburki@nekoship.nl
+1/8/2020 3:56:41 PM Logged in successfully
+1/8/2020 3:56:41 PM RFQ processing started.
+1/8/2020 3:56:42 PM No new RFQ found.
+1/8/2020 3:56:42 PM RFQ processing stopped.
+1/8/2020 3:56:43 PM 
+1/8/2020 3:56:43 PM Quote processing started.
+1/8/2020 3:56:43 PM 2 Quote files found to process.
+1/8/2020 3:56:44 PM Started Loading interchange object.
+1/8/2020 3:56:44 PM stopped Loading interchange object.
+1/8/2020 3:56:45 PM Quote processing started for refno: E/387/DS032/19/1398
+1/8/2020 3:56:45 PM Reference Number Matched
+1/8/2020 3:56:47 PM Checking Quote Status
+1/8/2020 3:56:48 PM LeS-1011.1:Unable to submit Quote since Quotation is already submitted for E/387/DS032/19/1398.
+1/8/2020 3:56:48 PM File MTML_QUOTE_E_387_DS032_19_1398_SM0752_V10107_06012021125315.xml moved to error files.
+1/8/2020 3:56:49 PM Started Loading interchange object.
+1/8/2020 3:56:49 PM stopped Loading interchange object.
+1/8/2020 3:56:50 PM Quote processing started for refno: E/387/ES029/19/1398
+1/8/2020 3:56:52 PM Reference Number Matched
+1/8/2020 3:56:55 PM Checking Quote Status
+1/8/2020 4:36:44 PM ================1/8/2020 4:36:44 PM================
+1/8/2020 4:36:44 PM Navibulgar HTTP Processor started
+1/8/2020 4:36:44 PM Domain: navbul
+
+1/8/2020 4:36:44 PM Process started for bburki@nekoship.nl
+1/8/2020 4:36:50 PM Logged in successfully
+1/8/2020 4:36:50 PM RFQ processing started.
+1/8/2020 4:36:50 PM No new RFQ found.
+1/8/2020 4:36:50 PM RFQ processing stopped.
+1/8/2020 4:36:52 PM 
+1/8/2020 4:36:52 PM Quote processing started.
+1/8/2020 4:36:52 PM 2 Quote files found to process.
+1/8/2020 4:36:53 PM Started Loading interchange object.
+1/8/2020 4:36:53 PM stopped Loading interchange object.
+1/8/2020 4:36:53 PM Quote processing started for refno: E/385/DS002/20/1398
+1/8/2020 4:36:54 PM Reference Number Matched
+1/8/2020 4:36:56 PM Checking Quote Status
+1/8/2020 4:36:57 PM LeS-1011.1:Unable to submit Quote since Quotation is already submitted for E/385/DS002/20/1398.
+1/8/2020 4:36:57 PM File MTML_QUOTE_E_385_DS002_20_1398_SM0752_V10107_08012018545207.xml moved to error files.
+1/8/2020 4:37:00 PM Started Loading interchange object.
+1/8/2020 4:37:00 PM stopped Loading interchange object.
+1/8/2020 4:37:00 PM Quote processing started for refno: E/387/ES002/20/1398
+1/8/2020 4:37:12 PM Reference Number Matched
+1/8/2020 4:37:14 PM Checking Quote Status
+1/8/2020 4:37:18 PM Quote is in progress state
+1/8/2020 4:37:22 PM Started filling Header Details
+1/8/2020 4:37:29 PM Filling Header Details completed
+1/8/2020 4:37:30 PM Started filling Item Details
+1/8/2020 4:37:31 PM Filling Item Details completed

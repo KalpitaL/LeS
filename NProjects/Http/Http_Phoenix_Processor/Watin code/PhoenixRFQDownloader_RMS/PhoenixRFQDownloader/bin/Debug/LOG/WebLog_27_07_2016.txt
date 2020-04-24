@@ -1,0 +1,5 @@
+
+12:12:09 : Phoenix RFQ & PO Downloader Started.
+12:12:09 : Processing File 160726_204819039.txt
+12:13:20 : Phoenix RFQ & PO Downloader Started.
+12:13:20 : Processing File 160726_204819039.txt

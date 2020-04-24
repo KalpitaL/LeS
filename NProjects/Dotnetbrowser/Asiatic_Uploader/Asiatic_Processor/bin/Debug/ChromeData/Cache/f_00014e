@@ -1,0 +1,789 @@
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = function (d, b) {
+        extendStatics = Object.setPrototypeOf ||
+            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+            function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+        return extendStatics(d, b);
+    };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+var __read = (this && this.__read) || function (o, n) {
+    var m = typeof Symbol === "function" && o[Symbol.iterator];
+    if (!m) return o;
+    var i = m.call(o), r, ar = [], e;
+    try {
+        while ((n === void 0 || n-- > 0) && !(r = i.next()).done) ar.push(r.value);
+    }
+    catch (error) { e = { error: error }; }
+    finally {
+        try {
+            if (r && !r.done && (m = i["return"])) m.call(i);
+        }
+        finally { if (e) throw e.error; }
+    }
+    return ar;
+};
+var __spread = (this && this.__spread) || function () {
+    for (var ar = [], i = 0; i < arguments.length; i++) ar = ar.concat(__read(arguments[i]));
+    return ar;
+};
+var __values = (this && this.__values) || function(o) {
+    var s = typeof Symbol === "function" && Symbol.iterator, m = s && o[s], i = 0;
+    if (m) return m.call(o);
+    if (o && typeof o.length === "number") return {
+        next: function () {
+            if (o && i >= o.length) o = void 0;
+            return { value: o && o[i++], done: !o };
+        }
+    };
+    throw new TypeError(s ? "Object is not iterable." : "Symbol.iterator is not defined.");
+};
+define(["require", "exports", "core/components/layer", "core/packages/modalValidator"], function (require, exports, layer, modalValidator) {
+    DialogType = {
+        INFO: 0,
+        SUCCESS: 1,
+        WARNING: 2,
+        ERROR: 3
+    };
+    var ModalTypes;
+    (function (ModalTypes) {
+        ModalTypes[ModalTypes["POPUP"] = 0] = "POPUP";
+        ModalTypes[ModalTypes["DIALOG"] = 1] = "DIALOG";
+        ModalTypes[ModalTypes["BORDERLESSPOPUP"] = 2] = "BORDERLESSPOPUP";
+        ModalTypes[ModalTypes["CUSTOM_DIALOG"] = 3] = "CUSTOM_DIALOG";
+    })(ModalTypes || (ModalTypes = {}));
+    ModalType = {
+        POPUP: ModalTypes.POPUP,
+        DIALOG: ModalTypes.DIALOG,
+        BORDERLESSPOPUP: ModalTypes.BORDERLESSPOPUP,
+        CUSTOM_DIALOG: ModalTypes.CUSTOM_DIALOG,
+    };
+    var modal = (function (_super) {
+        __extends(modal, _super);
+        function modal(_options) {
+            if (_options === void 0) { _options = undefined; }
+            var _this = _super.call(this) || this;
+            _this._options = _options;
+            _this.identifier = H.randomGuid();
+            _this.componentContainer = ko.observable(null);
+            _this.componentContext = ko.observable();
+            _this.title = ko.observable("unset title");
+            _this._isOpen = ko.observable(false);
+            _this._isBusy = ko.observable(false);
+            _this._isOpenDelayed = ko.observable(false);
+            _this._isClosing = ko.observable(false);
+            _this._modalType = ModalTypes.POPUP;
+            _this._element = ko.observable(null);
+            _this._validator = null;
+            _this.escHandler = $.noop;
+            _this.showFooter = ko.observable(true);
+            _this.footerTemplateID = ko.observable(null);
+            _this.additionalButtons = ko.observableArray();
+            _this.buttons = ko.computed(function () {
+                var component = _this.componentContext();
+                if (!component)
+                    return [];
+                var result = [];
+                var canSave = H.isFunction(component.$data.save);
+                if (canSave) {
+                    result.push({
+                        title: 'Save',
+                        isEnabled: _this.validator.canSave,
+                        onClick: component.$data.save,
+                    });
+                }
+                return __spread(result, _this.additionalButtons());
+            });
+            _this.hasFooter = ko.pureComputed(function () {
+                return _this.showFooter() && _this.componentContext() && (_this.footerTemplateID() || _this.buttons().length > 0);
+            });
+            _this._additionalContainerClasses = ko.observableArray([]);
+            _this._additionalModalClasses = ko.observableArray([]);
+            _options = typeof _options == "object" ? _options : {};
+            var overlayCssClass = "modalLayer-" + H.randomGuid();
+            _this.createZIndexStyleClassDomNode(overlayCssClass, _this.zIndex - 1, true);
+            _this._containerClass = ko.pureComputed(function () {
+                var classList = [
+                    "modal-container",
+                    overlayCssClass,
+                ];
+                if (_this._isClosing()) {
+                    classList.push("is-closing");
+                }
+                if (_this._isOpenDelayed()) {
+                    classList.push("is-open");
+                }
+                if (!_this._isOpen() && !_this._isClosing()) {
+                    classList.push("is-hidden");
+                }
+                classList.push.apply(classList, __spread(_this._additionalContainerClasses()));
+                return classList.join(" ");
+            }).extend({
+                rateLimit: 0
+            });
+            var elementSubscription = _this.disposeLater(_this.element.subscribe(function (e) {
+                _this.limitTabbing();
+                elementSubscription.dispose();
+            }));
+            var componentContainerSubscription = _this.disposeLater(_this.componentContainer.subscribe(function (e) {
+                if (!e)
+                    return;
+                var findFn = function () {
+                    if (!e.firstElementChild)
+                        return void window.requestAnimationFrame(findFn);
+                    window.requestAnimationFrame(function () { return _this.componentContext(ko.contextFor(e.firstElementChild)); });
+                    elementSubscription.dispose();
+                };
+                window.requestAnimationFrame(findFn);
+            }));
+            var timeout = -1;
+            var timeoutDelayed = -1;
+            _this.disposeLater(_this._isOpen.subscribe(function (b) {
+                clearTimeout(timeout);
+                clearTimeout(timeoutDelayed);
+                if (b) {
+                    _this._isClosing(false);
+                    timeoutDelayed = window.setTimeout(function () {
+                        _this._isOpenDelayed(true);
+                    }, 25);
+                }
+                else {
+                    _this._isOpenDelayed(false);
+                    _this._isClosing(true);
+                    timeout = window.setTimeout(function () {
+                        _this._isClosing(false);
+                    }, 400 - 25);
+                }
+            }));
+            if (_options.closeOnOverlayClick) {
+                var containerElementSubscription_1 = _this.disposeLater(_this.element.subscribe(function (element) {
+                    if (element == null) {
+                        return;
+                    }
+                    var $element = $(element);
+                    var eventName = "click.modal-" + H.randomGuid();
+                    $element.on(eventName, function (e) {
+                        if (e.target == e.currentTarget) {
+                            _this.tryClose();
+                        }
+                    });
+                    _this.disposeLater(function () {
+                        $element.off(eventName);
+                    });
+                    containerElementSubscription_1.dispose();
+                }));
+            }
+            if (_options.closeOnEscape) {
+                _this.escHandler = _this.tryClose.bind(_this);
+            }
+            return _this;
+        }
+        Object.defineProperty(modal.prototype, "containerClass", {
+            get: function () { return this._containerClass; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modal.prototype, "isOpen", {
+            get: function () { return this._isOpen; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modal.prototype, "isBusy", {
+            get: function () { return this._isBusy; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modal.prototype, "isClosing", {
+            get: function () { return this._isClosing; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modal.prototype, "modalType", {
+            get: function () { return this._modalType; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modal.prototype, "element", {
+            get: function () { return this._element; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modal.prototype, "modalClass", {
+            get: function () { return this._modalClass; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modal.prototype, "validator", {
+            get: function () {
+                return this._validator;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modal.prototype, "additionalContainerClasses", {
+            get: function () {
+                return this._additionalContainerClasses;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modal.prototype, "additionalModalClasses", {
+            get: function () {
+                return this._additionalModalClasses;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        modal.prototype.setValidator = function (validator) {
+            this._validator = validator;
+        };
+        modal.prototype.open = function () {
+            this.isOpen(true);
+            return this;
+        };
+        modal.prototype.close = function () {
+            this.isOpen(false);
+            this.dispose();
+            return this;
+        };
+        modal.prototype.tryClose = function () {
+            var _this = this;
+            return new Promise((function (resolve, reject) {
+                if (_this.validator && _this.validator.isDirty()) {
+                    _this.validator.confirmLeave()
+                        .done(function (b) {
+                        if (b) {
+                            _this.close();
+                            resolve();
+                        }
+                        else {
+                            reject();
+                        }
+                    });
+                }
+                else {
+                    _this.close();
+                    resolve();
+                }
+            }));
+        };
+        modal.prototype.limitTabbing = function () {
+            var elem = this.element(), inputElements = 'input, textarea, select, checkbox, radiobutton';
+            var tabDown, shiftDown = tabDown = false;
+            $(elem).find('window').on('keydown.tabbing', function (e) {
+                shiftDown = e.shiftKey;
+                tabDown = e.which === 9 || e.originalEvent['which'] === 9;
+            });
+            $(elem).find('window').on('keyup.tabbing', function (e) {
+                shiftDown = tabDown = false;
+                return true;
+            });
+            $(elem).find('window').on('blur.tabbing', inputElements, function (e) {
+                if (!tabDown)
+                    return;
+                var normalizeTabIndex = function (x) {
+                    if (x == undefined || x == 0)
+                        return Infinity;
+                    return x;
+                };
+                var compareTabElement = function (a, b) {
+                    if (a.tabIndex == b.tabIndex) {
+                        return a.index - b.index;
+                    }
+                    return a.tabIndex - b.tabIndex;
+                };
+                var target = (e.target || e.originalEvent.target), $target = $(target), $currentModal = $target.parents('window').eq(0), inputs = $currentModal.find(inputElements), currentIndex = {
+                    tabIndex: normalizeTabIndex(target.tabIndex),
+                    element: $target,
+                    index: NaN,
+                }, tabIndizes = Array.prototype.slice.call(inputs)
+                    .map(function (x, index) {
+                    if (currentIndex.index != NaN && currentIndex.element.get(0) === x) {
+                        currentIndex.index = index;
+                    }
+                    return {
+                        tabIndex: normalizeTabIndex(x.tabIndex),
+                        element: x,
+                        index: index,
+                    };
+                })
+                    .filter(function (x) { return x.tabIndex > 0; })
+                    .sort(compareTabElement), nextIndex = shiftDown
+                    ? tabIndizes.reverse().filter(function (x) { return compareTabElement(x, currentIndex) < 0; })[0]
+                    : tabIndizes.filter(function (x) { return compareTabElement(x, currentIndex) > 0; })[0], $nextElement = nextIndex && $(nextIndex.element);
+                if (!nextIndex && shiftDown) {
+                    if (inputs.length - 1 >= 0) {
+                        $(inputs[inputs.length - 1]).focus().select();
+                    }
+                }
+                else if (!nextIndex) {
+                    if (inputs[0]) {
+                        $(inputs[0]).focus().select();
+                    }
+                }
+                else {
+                    if ($nextElement) {
+                        $nextElement.focus().select();
+                    }
+                }
+                e.preventDefault();
+                return false;
+            });
+            this.disposeLater(function () {
+                $(elem).find('window').off('blur.tabbing');
+            });
+        };
+        modal.prototype.calculateZIndex = function () {
+            return _super.prototype.calculateZIndex.call(this) + 1;
+        };
+        return modal;
+    }(layer));
+    var dialogModal = (function (_super) {
+        __extends(dialogModal, _super);
+        function dialogModal(options) {
+            var _this = _super.call(this, options) || this;
+            _this._buttons = ko.observableArray();
+            _this._sortedButtons = ko.pureComputed(function () {
+                return _this._buttons().sortBy(function (b) {
+                    return b.priority;
+                });
+            });
+            _this._modalType = ModalType.DIALOG;
+            _this._modalClass = ko.pureComputed(function () {
+                var classes = __spread(dialogModal.getBaseClasses(_this._options.dialogType), _this._additionalModalClasses());
+                return classes.join(" ");
+            });
+            var buttons = [];
+            ["ok", "close", "retry", "cancel", "yes", "no"].each(function (key) {
+                var optionKey = "on" + (key.capitalize()) + "Button";
+                var _self = _this;
+                if (options[optionKey] && typeof options[optionKey] == "function") {
+                    buttons.push({
+                        isDisabled: false,
+                        priority: 0,
+                        onClick: function () {
+                            var fn = options[optionKey];
+                            if (fn.apply(fn, arguments)) {
+                                _self.close();
+                            }
+                        },
+                        value: key,
+                        title: key
+                    });
+                }
+            });
+            (options.buttons || []).each(function (item) {
+                buttons.push({
+                    isDisabled: item.isDisabled || false,
+                    priority: item.priority || 0,
+                    value: item.value || "untitled button",
+                    onClick: function () {
+                        var args = [];
+                        for (var _i = 0; _i < arguments.length; _i++) {
+                            args[_i] = arguments[_i];
+                        }
+                        var fn = ko.unwrap(item.onClick) || (function () { return true; });
+                        if (fn.apply(fn, args)) {
+                            _this.close();
+                        }
+                    },
+                    title: item.title || item.value || ""
+                });
+            });
+            _this._buttons(buttons);
+            return _this;
+        }
+        Object.defineProperty(dialogModal.prototype, "title", {
+            get: function () {
+                return ko.observable(ko.unwrap(this._options.title)
+                    || dialogModal.getTypeString(this._options.dialogType).capitalize());
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(dialogModal.prototype, "content", {
+            get: function () {
+                return this._options.content;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(dialogModal.prototype, "sortedButtons", {
+            get: function () {
+                return this._sortedButtons;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        dialogModal.getBaseClasses = function (dialogType) {
+            return [
+                "modal",
+                "modal-dialog",
+                "modal-dialog-" + this.getTypeString(dialogType),
+            ];
+        };
+        dialogModal.getTypeString = function (dialogType) {
+            return (dialogType == DialogType.ERROR && "error")
+                || (dialogType == DialogType.WARNING && "warning")
+                || (dialogType == DialogType.SUCCESS && "success")
+                || "info";
+        };
+        return dialogModal;
+    }(modal));
+    var customDialogModal = (function (_super) {
+        __extends(customDialogModal, _super);
+        function customDialogModal(options) {
+            var _this = _super.call(this, options) || this;
+            _this._buttons = ko.observableArray();
+            _this._sortedButtons = ko.pureComputed(function () {
+                return _this._buttons().sortBy(function (b) {
+                    return b.priority;
+                });
+            });
+            _this.dialogType = ko.observable();
+            _this._modalType = ModalType.CUSTOM_DIALOG;
+            _this.setValidator(_this.disposeLater(new modalValidator(_this)));
+            _this._component = ko.pureComputed(function () {
+                var computedParams = ko.pureComputed(function () {
+                    var result = typeof options.componentParamsFn === "function"
+                        ? options.componentParamsFn()
+                        : {};
+                    if (result && typeof result === "object") {
+                        result["$modal"] = _this;
+                        result['$validator'] = _this.validator;
+                    }
+                    return result;
+                });
+                return ko.unwrap(options.componentName)
+                    ? {
+                        name: options.componentName,
+                        params: computedParams
+                    }
+                    : null;
+            });
+            _this._modalClass = ko.pureComputed(function () {
+                var classes = __spread(dialogModal.getBaseClasses(_this.dialogType()), [
+                    "modal-dialog-custom"
+                ], _this._additionalModalClasses());
+                return classes.join(" ");
+            });
+            return _this;
+        }
+        Object.defineProperty(customDialogModal.prototype, "component", {
+            get: function () { return this._component; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(customDialogModal.prototype, "sortedButtons", {
+            get: function () {
+                return this._sortedButtons;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        customDialogModal.prototype.setButtons = function () {
+            var e_1, _a;
+            var _this = this;
+            var buttons = [];
+            for (var _i = 0; _i < arguments.length; _i++) {
+                buttons[_i] = arguments[_i];
+            }
+            var effectiveButtons = [];
+            try {
+                for (var buttons_1 = __values(buttons), buttons_1_1 = buttons_1.next(); !buttons_1_1.done; buttons_1_1 = buttons_1.next()) {
+                    var button = buttons_1_1.value;
+                    effectiveButtons.push({
+                        isDisabled: button.isDisabled || false,
+                        priority: button.priority || 0,
+                        value: button.value || "untitled button",
+                        onClick: button.onClick || (function () { return _this.close(); }),
+                        title: button.title || button.value || ""
+                    });
+                }
+            }
+            catch (e_1_1) { e_1 = { error: e_1_1 }; }
+            finally {
+                try {
+                    if (buttons_1_1 && !buttons_1_1.done && (_a = buttons_1.return)) _a.call(buttons_1);
+                }
+                finally { if (e_1) throw e_1.error; }
+            }
+            this._buttons(effectiveButtons);
+        };
+        return customDialogModal;
+    }(modal));
+    var popupModal = (function (_super) {
+        __extends(popupModal, _super);
+        function popupModal(options) {
+            var _this = _super.call(this, options) || this;
+            _this._isReadOnly = ko.observable(false);
+            _this.isReadOnly = ko.computed({
+                read: function () { return _this._isReadOnly(); },
+                write: function (b) {
+                    _this.setReadOnly(b);
+                }
+            });
+            _this.$draggableElement = null;
+            _this.$draggingHandle = null;
+            _this.isDragging = ko.observable(false);
+            _this.dragOffsetX = 0;
+            _this.dragOffsetY = 0;
+            _this.oldDragOffsetX = 0;
+            _this.oldDragOffsetY = 0;
+            _this.mouseUpEventName = '';
+            _this.mouseMoveEventName = '';
+            _this.dragTranslate = ko.observable('translate(0, 0)');
+            _this.setValidator(_this.disposeLater(new modalValidator(_this)));
+            _this._modalType = options.isBorderless ? ModalType.BORDERLESSPOPUP : ModalType.POPUP;
+            _this.setModalClass(options);
+            _this.setComponentReference(options.componentName);
+            _this.setEventNames();
+            _this.disposeLater(_this.element.subscribe(function (elem) {
+                if (!options.isBorderless) {
+                    _this.$draggableElement = $(elem).children('window');
+                    _this.$draggingHandle = _this.$draggableElement.children('header');
+                    _this.setDraggingClickEvents();
+                }
+                else {
+                    var checkDraggableElement_1 = function () {
+                        _this.$draggableElement = $(elem).children('.modal-borderless');
+                        _this.$draggingHandle = _this.$draggableElement.children('window').children('header');
+                        if (_this.$draggingHandle && _this.$draggingHandle.length) {
+                            _this.setDraggingClickEvents();
+                        }
+                        else {
+                            window.requestAnimationFrame(checkDraggableElement_1);
+                        }
+                    };
+                    window.requestAnimationFrame(checkDraggableElement_1);
+                }
+            }));
+            _this.disposeLater(function () {
+                $(document).off(_this.mouseUpEventName);
+            });
+            return _this;
+        }
+        Object.defineProperty(popupModal.prototype, "component", {
+            get: function () { return this._component; },
+            enumerable: true,
+            configurable: true
+        });
+        popupModal.prototype.setModalClass = function (options) {
+            var _this = this;
+            this._modalClass = ko.pureComputed(function () {
+                var classes = [
+                    "modal",
+                    "modal-popup",
+                ];
+                if (options.isBorderless) {
+                    classes.push("modal-borderless");
+                }
+                var componentName = ko.unwrap(options.componentName);
+                if (!!componentName) {
+                    var easyName = componentName.split('/').last();
+                    var componentClass = componentName
+                        .replace(new RegExp(app.name + "/components/", 'ig'), '')
+                        .replace(/-/g, "_").replace(/\//g, "-")
+                        .toLowerCase();
+                    classes.push(easyName, "modal-popup-" + componentClass, "modal-" + componentClass, "component-" + componentClass);
+                }
+                classes.push.apply(classes, __spread(_this._additionalModalClasses()));
+                return classes.join(" ");
+            });
+        };
+        popupModal.prototype.setComponentReference = function (componentName) {
+            var _this = this;
+            this._component = ko.pureComputed(function () {
+                var computedParams = ko.pureComputed(function () {
+                    var result = typeof _this._options.componentParamsFn === "function"
+                        ? _this._options.componentParamsFn()
+                        : {};
+                    if (result && typeof result === "object") {
+                        result["$modal"] = _this;
+                        result['$validator'] = _this.validator;
+                    }
+                    return result;
+                });
+                return ko.unwrap(componentName)
+                    ? {
+                        name: _this._options.componentName,
+                        params: computedParams
+                    }
+                    : null;
+            });
+        };
+        popupModal.prototype.setEventNames = function () {
+            var id = H.randomGuid();
+            this.mouseUpEventName = "mouseup.modal-" + id;
+            this.mouseMoveEventName = "mousemove.modal-" + id;
+        };
+        popupModal.prototype.setDraggingClickEvents = function () {
+            var _this = this;
+            this.$draggingHandle.on('mousedown', function (event) {
+                _this.grabPositionX = event.clientX;
+                _this.grabPositionY = event.clientY;
+                _this.isDragging(true);
+                _this.$draggableElement.css('transition', 'none');
+                $(document).off(_this.mouseMoveEventName)
+                    .on(_this.mouseMoveEventName, function (event) {
+                    _this.dragOffsetX = -(_this.grabPositionX - event.clientX) + _this.oldDragOffsetX;
+                    _this.dragOffsetY = -(_this.grabPositionY - event.clientY) + _this.oldDragOffsetY;
+                    window.requestAnimationFrame(function () { return _this.$draggableElement.css("transform", "translate3d(" + _this.dragOffsetX + "px, " + _this.dragOffsetY + "px, 0px)"); });
+                });
+            });
+            $(document).on(this.mouseUpEventName, function (event) {
+                _this.isDragging(false);
+                _this.grabPositionX = null;
+                _this.grabPositionY = null;
+                _this.oldDragOffsetX = _this.dragOffsetX;
+                _this.oldDragOffsetY = _this.dragOffsetY;
+                $(document).off(_this.mouseMoveEventName);
+            });
+        };
+        popupModal.prototype.setReadOnly = function (isReadOnly) {
+            if (isReadOnly === void 0) { isReadOnly = false; }
+            $(this._element()).find('input, textarea, select, checkbox, radiobutton').each(function (i, elem) {
+                var $elem = $(elem);
+                if (!isReadOnly) {
+                    if (typeof $elem.data('previous-disabled') !== 'undefined') {
+                        $elem.attr('disabled', ($elem.data('previous-disabled') === 'disabled'));
+                        $elem.data('previous-disabled', undefined);
+                    }
+                    else {
+                        $elem.removeAttr('disabled');
+                    }
+                }
+                else {
+                    if (typeof $elem.attr('disabled') !== 'undefined') {
+                        $elem.data('previous-disabled', $elem.attr('disabled'));
+                    }
+                    $elem.attr('disabled', true);
+                }
+            });
+            this._isReadOnly(isReadOnly);
+        };
+        return popupModal;
+    }(modal));
+    var modalUtils = (function () {
+        function modalUtils() {
+        }
+        Object.defineProperty(modalUtils, "defaultModalOptions", {
+            get: function () {
+                return $.extend({}, {
+                    closeOnEscape: true,
+                    closeOnOverlayClick: true,
+                });
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modalUtils, "defaultDialogOptions", {
+            get: function () {
+                return $.extend({}, modalUtils.defaultModalOptions, {
+                    type: DialogType.INFO,
+                    closeOnButtonClick: true,
+                    closeOnOverlayClick: false,
+                    closeOnEscape: false,
+                });
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modalUtils, "defaultCustomDialogOptions", {
+            get: function () {
+                return $.extend({}, modalUtils.defaultModalOptions, {
+                    componentName: "core/components/common/comming-soon",
+                    closeOnOverlayClick: false,
+                    closeOnEscape: false,
+                });
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modalUtils, "defaultPopupOptions", {
+            get: function () {
+                return $.extend({}, modalUtils.defaultModalOptions, {
+                    componentName: "core/components/common/comming-soon",
+                });
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modalUtils, "defaultDialogButtonOptions", {
+            get: function () {
+                return $.extend({}, {
+                    isDisabled: false,
+                    priority: 0,
+                    value: "",
+                    onClick: undefined
+                });
+            },
+            enumerable: true,
+            configurable: true
+        });
+        return modalUtils;
+    }());
+    var modals = (function () {
+        function modals() {
+            this._list = ko.observableArray([]);
+            ko.applyBindingsToNode(document.body, {
+                action: {
+                    esc: function () {
+                        if (layer.topLayer && typeof layer.topLayer.escHandler === "function") {
+                            layer.topLayer.escHandler();
+                        }
+                    }
+                }
+            });
+        }
+        Object.defineProperty(modals.prototype, "Utils", {
+            get: function () { return modalUtils; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modals, "Utils", {
+            get: function () { return modalUtils; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(modals.prototype, "list", {
+            get: function () {
+                return this._list;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        modals.prototype._add = function (m) {
+            var _this = this;
+            m.disposeLater(function () {
+                _this._list.remove(m);
+            });
+            this._list.push(m);
+        };
+        modals.prototype.createDialog = function (options) {
+            options = $.extend(modalUtils.defaultDialogOptions, options || {});
+            var m = new dialogModal(options);
+            this._add(m);
+            return m;
+        };
+        modals.prototype.createCustomDialog = function (options) {
+            options = $.extend(modalUtils.defaultCustomDialogOptions, options || {});
+            var m = new customDialogModal(options);
+            this._add(m);
+            return m;
+        };
+        modals.prototype.createPopup = function (options) {
+            options = $.extend(modalUtils.defaultPopupOptions, options || {});
+            var m = new popupModal(options);
+            this._add(m);
+            return m;
+        };
+        return modals;
+    }());
+    return modals;
+});
+//# sourceMappingURL=modals.js.map

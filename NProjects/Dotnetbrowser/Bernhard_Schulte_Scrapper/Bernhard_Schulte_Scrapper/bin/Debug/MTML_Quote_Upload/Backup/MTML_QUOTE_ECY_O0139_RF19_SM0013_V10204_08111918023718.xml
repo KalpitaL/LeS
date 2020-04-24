@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="SG1911081146657LET" Identifier="UNOC" Recipient="SM0013_XLS" Sender="V10204" PreparationDate="2019-Nov-08" PreparationTime="18:02" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="9" LesRecordID="861540" LesLinkID="9200159" ParentRecordID="860969" MTML_DOCID="A9CA8EE7-CCE1-4A51-8AA5-517BA11EF456">
+    <Quote MessageReferenceNumber="9200159_RFQ_ECY_O0139_RF19_08112019111045136.xlsm" MessageNumber="9200159_RFQ_ECY_O0139_RF19_08112019111045136.xlsm" LineItemCount="4" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" LeadTimeDays="3" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="515.59" BuyerQuoteTotal="515.59">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911081802" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201911110000" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201912080000" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Date promised : 2019-11-11
+Quote validity : 2019-12-08
+Item Added - 2.10 : CANON CARTRIDGES 051 FOR MF264dw PRINTER | Ref.No.:V_00002367 | QTY : 0 | UOM : PCS | Price : 39.06 USD | Remarks : ORIGINAL
+Item Added - 3.10 : CANON TONER CARTRIDGE 337 | Ref.No.:2045050 | QTY : 0 | UOM : PCS | Price : 72.26 USD | Remarks : ORIGINAL
+ Item Total : 515.59</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="ECY/O0139/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="SG1911081146657LET" />
+      <Party Qualifier="UD" Name="Egeiro Cyan">
+        <PartyLocation Qualifier="TBA" Port="ZHANGJIAGANG" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Identification="SM0013_XLS" Name="Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V10204" Name="RMS MARINE SERVICE COMPANY LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="mt@rmsmarineservice.com" />
+        </Contact>
+        <StreetAddress>No.365, Gaodong No.2 Road</StreetAddress>
+        <StreetAddress>Pudong District, Shanghai</StreetAddress>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="CANON DIGITAL CAMERA WITH MEMORY CARD | Ref.No.:2545902 | Ref.No.:2545902" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="166.01" Identification="2545902" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="166.01" BuyerItemTotal="166.01" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="166.01" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="166.01" />
+        <Comments Qualifier="LIN">
+          <value>CANON IXUS 185,WITH 16G CARD</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="CANON CARTRIDGES 051 FOR MF264dw PRINTER | Ref.No.:V_00002367 | Ref.No.:V_00002367" MeasureUnitQualifier="PCS" Quantity="8" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="187.52" Identification="V_00002367" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="23.44" BuyerItemTotal="187.52" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="23.44" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="23.44" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT
+2.10 ORIGINAL | Price-39.06</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="CANON TONER CARTRIDGE 337 | Ref.No.:2045050 | Ref.No.:2045050" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="22" MonetaryAmount="35.16" Identification="2045050" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="11.72" BuyerItemTotal="35.16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.72" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT
+3.10 ORIGINAL | Price-72.26</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="63 ink cartridges Black HP Deskjet 2130 Series | Ref.No.:V_00002626 | Ref.No.:V_00002626" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="23" MonetaryAmount="126.90" Identification="V_00002626" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="12.69" BuyerItemTotal="126.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.69" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT ONLY</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="515.590" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="515.590" />
+      <MonetaryAmount Qualifier="_90" Value="515.590" />
+      <MonetaryAmount Qualifier="_91" Value="515.590" />
+    </Quote>
+  </Interchange>
+</MTML>

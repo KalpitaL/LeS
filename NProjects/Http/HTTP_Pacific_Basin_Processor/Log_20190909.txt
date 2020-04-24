@@ -1,0 +1,4655 @@
+9/9/2019 12:07:39 AM ================9/9/2019 12:07:39 AM================
+9/9/2019 12:07:39 AM DNVGL HTTP Processor started
+9/9/2019 12:07:39 AM 
+9/9/2019 12:07:39 AM Supplier: V10107
+9/9/2019 12:07:39 AM Process started for SM0372_WEB
+9/9/2019 12:07:39 AM No RFQ files found.
+9/9/2019 12:07:39 AM RFQ processing stopped.
+9/9/2019 12:07:39 AM 
+9/9/2019 12:07:39 AM Supplier: V10107
+9/9/2019 12:07:39 AM Process started for SM0695_WEB
+9/9/2019 12:07:39 AM No RFQ files found.
+9/9/2019 12:07:39 AM RFQ processing stopped.
+9/9/2019 12:07:39 AM 
+9/9/2019 12:07:39 AM Supplier: V10001
+9/9/2019 12:07:39 AM Process started for SM0668_WEB
+9/9/2019 12:07:39 AM No RFQ files found.
+9/9/2019 12:07:39 AM RFQ processing stopped.
+9/9/2019 12:07:39 AM 
+9/9/2019 12:07:39 AM Purchase Order processing started.
+9/9/2019 12:07:39 AM No PO files found.
+9/9/2019 12:07:39 AM Purchase Order processing stopped.
+9/9/2019 12:07:39 AM 
+9/9/2019 12:07:39 AM Supplier: V10001
+9/9/2019 12:07:39 AM Process started for SM0711_WEB
+9/9/2019 12:07:39 AM No RFQ files found.
+9/9/2019 12:07:39 AM RFQ processing stopped.
+9/9/2019 12:07:39 AM 
+9/9/2019 12:07:39 AM Purchase Order processing started.
+9/9/2019 12:07:39 AM No PO files found.
+9/9/2019 12:07:39 AM Purchase Order processing stopped.
+9/9/2019 12:07:39 AM 
+9/9/2019 12:07:39 AM Supplier: V10001
+9/9/2019 12:07:39 AM Process started for SM0518_WEB
+9/9/2019 12:07:39 AM No RFQ files found.
+9/9/2019 12:07:39 AM RFQ processing stopped.
+9/9/2019 12:07:39 AM 
+9/9/2019 12:07:39 AM Purchase Order processing started.
+9/9/2019 12:07:39 AM No PO files found.
+9/9/2019 12:07:39 AM Purchase Order processing stopped.
+9/9/2019 12:07:39 AM 
+9/9/2019 12:07:39 AM Supplier: V10001
+9/9/2019 12:07:39 AM Process started for SM3171_WEB
+9/9/2019 12:07:40 AM No RFQ files found.
+9/9/2019 12:07:40 AM RFQ processing stopped.
+9/9/2019 12:07:40 AM 
+9/9/2019 12:07:40 AM Purchase Order processing started.
+9/9/2019 12:07:40 AM No PO files found.
+9/9/2019 12:07:40 AM Purchase Order processing stopped.
+9/9/2019 12:07:40 AM 
+9/9/2019 12:07:40 AM Supplier: V10889
+9/9/2019 12:07:40 AM Process started for SM0372_WEB
+9/9/2019 12:07:40 AM No RFQ files found.
+9/9/2019 12:07:40 AM RFQ processing stopped.
+9/9/2019 12:07:40 AM 
+9/9/2019 12:07:40 AM Supplier: V10889
+9/9/2019 12:07:40 AM Process started for SM3068_WEB
+9/9/2019 12:07:40 AM No RFQ files found.
+9/9/2019 12:07:40 AM RFQ processing stopped.
+9/9/2019 12:07:40 AM 
+9/9/2019 12:07:40 AM Supplier: V11920
+9/9/2019 12:07:40 AM Process started for SM0372_WEB
+9/9/2019 12:07:40 AM No RFQ files found.
+9/9/2019 12:07:40 AM RFQ processing stopped.
+9/9/2019 12:07:40 AM 
+9/9/2019 12:07:40 AM Supplier: V11920
+9/9/2019 12:07:40 AM Process started for SM3068_WEB
+9/9/2019 12:07:40 AM No RFQ files found.
+9/9/2019 12:07:40 AM RFQ processing stopped.
+9/9/2019 12:07:40 AM DNVGL HTTP Processor stopped
+9/9/2019 12:07:40 AM ====================================================
+9/9/2019 12:22:39 AM ================9/9/2019 12:22:39 AM================
+9/9/2019 12:22:39 AM DNVGL HTTP Processor started
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Supplier: V10107
+9/9/2019 12:22:39 AM Process started for SM0372_WEB
+9/9/2019 12:22:39 AM No RFQ files found.
+9/9/2019 12:22:39 AM RFQ processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Supplier: V10107
+9/9/2019 12:22:39 AM Process started for SM0695_WEB
+9/9/2019 12:22:39 AM No RFQ files found.
+9/9/2019 12:22:39 AM RFQ processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Supplier: V10001
+9/9/2019 12:22:39 AM Process started for SM0668_WEB
+9/9/2019 12:22:39 AM No RFQ files found.
+9/9/2019 12:22:39 AM RFQ processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Purchase Order processing started.
+9/9/2019 12:22:39 AM No PO files found.
+9/9/2019 12:22:39 AM Purchase Order processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Supplier: V10001
+9/9/2019 12:22:39 AM Process started for SM0711_WEB
+9/9/2019 12:22:39 AM No RFQ files found.
+9/9/2019 12:22:39 AM RFQ processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Purchase Order processing started.
+9/9/2019 12:22:39 AM No PO files found.
+9/9/2019 12:22:39 AM Purchase Order processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Supplier: V10001
+9/9/2019 12:22:39 AM Process started for SM0518_WEB
+9/9/2019 12:22:39 AM No RFQ files found.
+9/9/2019 12:22:39 AM RFQ processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Purchase Order processing started.
+9/9/2019 12:22:39 AM No PO files found.
+9/9/2019 12:22:39 AM Purchase Order processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Supplier: V10001
+9/9/2019 12:22:39 AM Process started for SM3171_WEB
+9/9/2019 12:22:39 AM No RFQ files found.
+9/9/2019 12:22:39 AM RFQ processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Purchase Order processing started.
+9/9/2019 12:22:39 AM No PO files found.
+9/9/2019 12:22:39 AM Purchase Order processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Supplier: V10889
+9/9/2019 12:22:39 AM Process started for SM0372_WEB
+9/9/2019 12:22:39 AM No RFQ files found.
+9/9/2019 12:22:39 AM RFQ processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Supplier: V10889
+9/9/2019 12:22:39 AM Process started for SM3068_WEB
+9/9/2019 12:22:39 AM No RFQ files found.
+9/9/2019 12:22:39 AM RFQ processing stopped.
+9/9/2019 12:22:39 AM 
+9/9/2019 12:22:39 AM Supplier: V11920
+9/9/2019 12:22:39 AM Process started for SM0372_WEB
+9/9/2019 12:22:40 AM No RFQ files found.
+9/9/2019 12:22:40 AM RFQ processing stopped.
+9/9/2019 12:22:40 AM 
+9/9/2019 12:22:40 AM Supplier: V11920
+9/9/2019 12:22:40 AM Process started for SM3068_WEB
+9/9/2019 12:22:40 AM No RFQ files found.
+9/9/2019 12:22:40 AM RFQ processing stopped.
+9/9/2019 12:22:40 AM DNVGL HTTP Processor stopped
+9/9/2019 12:22:40 AM ====================================================
+9/9/2019 12:37:39 AM ================9/9/2019 12:37:39 AM================
+9/9/2019 12:37:39 AM DNVGL HTTP Processor started
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Supplier: V10107
+9/9/2019 12:37:39 AM Process started for SM0372_WEB
+9/9/2019 12:37:39 AM No RFQ files found.
+9/9/2019 12:37:39 AM RFQ processing stopped.
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Supplier: V10107
+9/9/2019 12:37:39 AM Process started for SM0695_WEB
+9/9/2019 12:37:39 AM No RFQ files found.
+9/9/2019 12:37:39 AM RFQ processing stopped.
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Supplier: V10001
+9/9/2019 12:37:39 AM Process started for SM0668_WEB
+9/9/2019 12:37:39 AM No RFQ files found.
+9/9/2019 12:37:39 AM RFQ processing stopped.
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Purchase Order processing started.
+9/9/2019 12:37:39 AM No PO files found.
+9/9/2019 12:37:39 AM Purchase Order processing stopped.
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Supplier: V10001
+9/9/2019 12:37:39 AM Process started for SM0711_WEB
+9/9/2019 12:37:39 AM No RFQ files found.
+9/9/2019 12:37:39 AM RFQ processing stopped.
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Purchase Order processing started.
+9/9/2019 12:37:39 AM No PO files found.
+9/9/2019 12:37:39 AM Purchase Order processing stopped.
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Supplier: V10001
+9/9/2019 12:37:39 AM Process started for SM0518_WEB
+9/9/2019 12:37:39 AM No RFQ files found.
+9/9/2019 12:37:39 AM RFQ processing stopped.
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Purchase Order processing started.
+9/9/2019 12:37:39 AM No PO files found.
+9/9/2019 12:37:39 AM Purchase Order processing stopped.
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Supplier: V10001
+9/9/2019 12:37:39 AM Process started for SM3171_WEB
+9/9/2019 12:37:39 AM No RFQ files found.
+9/9/2019 12:37:39 AM RFQ processing stopped.
+9/9/2019 12:37:39 AM 
+9/9/2019 12:37:39 AM Purchase Order processing started.
+9/9/2019 12:37:40 AM No PO files found.
+9/9/2019 12:37:40 AM Purchase Order processing stopped.
+9/9/2019 12:37:40 AM 
+9/9/2019 12:37:40 AM Supplier: V10889
+9/9/2019 12:37:40 AM Process started for SM0372_WEB
+9/9/2019 12:37:40 AM No RFQ files found.
+9/9/2019 12:37:40 AM RFQ processing stopped.
+9/9/2019 12:37:40 AM 
+9/9/2019 12:37:40 AM Supplier: V10889
+9/9/2019 12:37:40 AM Process started for SM3068_WEB
+9/9/2019 12:37:40 AM No RFQ files found.
+9/9/2019 12:37:40 AM RFQ processing stopped.
+9/9/2019 12:37:40 AM 
+9/9/2019 12:37:40 AM Supplier: V11920
+9/9/2019 12:37:40 AM Process started for SM0372_WEB
+9/9/2019 12:37:40 AM No RFQ files found.
+9/9/2019 12:37:40 AM RFQ processing stopped.
+9/9/2019 12:37:40 AM 
+9/9/2019 12:37:40 AM Supplier: V11920
+9/9/2019 12:37:40 AM Process started for SM3068_WEB
+9/9/2019 12:37:40 AM No RFQ files found.
+9/9/2019 12:37:40 AM RFQ processing stopped.
+9/9/2019 12:37:40 AM DNVGL HTTP Processor stopped
+9/9/2019 12:37:40 AM ====================================================
+9/9/2019 12:52:39 AM ================9/9/2019 12:52:39 AM================
+9/9/2019 12:52:39 AM DNVGL HTTP Processor started
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Supplier: V10107
+9/9/2019 12:52:39 AM Process started for SM0372_WEB
+9/9/2019 12:52:39 AM No RFQ files found.
+9/9/2019 12:52:39 AM RFQ processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Supplier: V10107
+9/9/2019 12:52:39 AM Process started for SM0695_WEB
+9/9/2019 12:52:39 AM No RFQ files found.
+9/9/2019 12:52:39 AM RFQ processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Supplier: V10001
+9/9/2019 12:52:39 AM Process started for SM0668_WEB
+9/9/2019 12:52:39 AM No RFQ files found.
+9/9/2019 12:52:39 AM RFQ processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Purchase Order processing started.
+9/9/2019 12:52:39 AM No PO files found.
+9/9/2019 12:52:39 AM Purchase Order processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Supplier: V10001
+9/9/2019 12:52:39 AM Process started for SM0711_WEB
+9/9/2019 12:52:39 AM No RFQ files found.
+9/9/2019 12:52:39 AM RFQ processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Purchase Order processing started.
+9/9/2019 12:52:39 AM No PO files found.
+9/9/2019 12:52:39 AM Purchase Order processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Supplier: V10001
+9/9/2019 12:52:39 AM Process started for SM0518_WEB
+9/9/2019 12:52:39 AM No RFQ files found.
+9/9/2019 12:52:39 AM RFQ processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Purchase Order processing started.
+9/9/2019 12:52:39 AM No PO files found.
+9/9/2019 12:52:39 AM Purchase Order processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Supplier: V10001
+9/9/2019 12:52:39 AM Process started for SM3171_WEB
+9/9/2019 12:52:39 AM No RFQ files found.
+9/9/2019 12:52:39 AM RFQ processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Purchase Order processing started.
+9/9/2019 12:52:39 AM No PO files found.
+9/9/2019 12:52:39 AM Purchase Order processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Supplier: V10889
+9/9/2019 12:52:39 AM Process started for SM0372_WEB
+9/9/2019 12:52:39 AM No RFQ files found.
+9/9/2019 12:52:39 AM RFQ processing stopped.
+9/9/2019 12:52:39 AM 
+9/9/2019 12:52:39 AM Supplier: V10889
+9/9/2019 12:52:40 AM Process started for SM3068_WEB
+9/9/2019 12:52:40 AM No RFQ files found.
+9/9/2019 12:52:40 AM RFQ processing stopped.
+9/9/2019 12:52:40 AM 
+9/9/2019 12:52:40 AM Supplier: V11920
+9/9/2019 12:52:40 AM Process started for SM0372_WEB
+9/9/2019 12:52:40 AM No RFQ files found.
+9/9/2019 12:52:40 AM RFQ processing stopped.
+9/9/2019 12:52:40 AM 
+9/9/2019 12:52:40 AM Supplier: V11920
+9/9/2019 12:52:40 AM Process started for SM3068_WEB
+9/9/2019 12:52:40 AM No RFQ files found.
+9/9/2019 12:52:40 AM RFQ processing stopped.
+9/9/2019 12:52:40 AM DNVGL HTTP Processor stopped
+9/9/2019 12:52:40 AM ====================================================
+9/9/2019 1:07:41 AM ================9/9/2019 1:07:41 AM================
+9/9/2019 1:07:52 AM DNVGL HTTP Processor started
+9/9/2019 1:07:56 AM 
+9/9/2019 1:08:01 AM Supplier: V10107
+9/9/2019 1:08:06 AM Process started for SM0372_WEB
+9/9/2019 1:08:11 AM No RFQ files found.
+9/9/2019 1:08:15 AM RFQ processing stopped.
+9/9/2019 1:08:20 AM 
+9/9/2019 1:08:30 AM Supplier: V10107
+9/9/2019 1:08:34 AM Process started for SM0695_WEB
+9/9/2019 1:08:39 AM No RFQ files found.
+9/9/2019 1:08:45 AM RFQ processing stopped.
+9/9/2019 1:08:50 AM 
+9/9/2019 1:08:55 AM Supplier: V10001
+9/9/2019 1:08:59 AM Process started for SM0668_WEB
+9/9/2019 1:09:04 AM No RFQ files found.
+9/9/2019 1:09:09 AM RFQ processing stopped.
+9/9/2019 1:09:14 AM 
+9/9/2019 1:09:18 AM Purchase Order processing started.
+9/9/2019 1:09:23 AM No PO files found.
+9/9/2019 1:09:28 AM Purchase Order processing stopped.
+9/9/2019 1:09:33 AM 
+9/9/2019 1:09:37 AM Supplier: V10001
+9/9/2019 1:09:42 AM Process started for SM0711_WEB
+9/9/2019 1:09:47 AM No RFQ files found.
+9/9/2019 1:09:53 AM RFQ processing stopped.
+9/9/2019 1:09:57 AM 
+9/9/2019 1:10:02 AM Purchase Order processing started.
+9/9/2019 1:10:07 AM No PO files found.
+9/9/2019 1:10:12 AM Purchase Order processing stopped.
+9/9/2019 1:10:16 AM 
+9/9/2019 1:10:21 AM Supplier: V10001
+9/9/2019 1:10:26 AM Process started for SM0518_WEB
+9/9/2019 1:10:31 AM No RFQ files found.
+9/9/2019 1:10:35 AM RFQ processing stopped.
+9/9/2019 1:10:45 AM 
+9/9/2019 1:10:54 AM Purchase Order processing started.
+9/9/2019 1:11:04 AM No PO files found.
+9/9/2019 1:11:15 AM Purchase Order processing stopped.
+9/9/2019 1:11:29 AM 
+9/9/2019 1:11:43 AM Supplier: V10001
+9/9/2019 1:11:57 AM Process started for SM3171_WEB
+9/9/2019 1:12:13 AM No RFQ files found.
+9/9/2019 1:12:27 AM RFQ processing stopped.
+9/9/2019 1:12:41 AM 
+9/9/2019 1:13:00 AM Purchase Order processing started.
+9/9/2019 1:13:19 AM No PO files found.
+9/9/2019 1:13:43 AM Purchase Order processing stopped.
+9/9/2019 1:13:58 AM 
+9/9/2019 1:13:58 AM Supplier: V10889
+9/9/2019 1:13:58 AM Process started for SM0372_WEB
+9/9/2019 1:13:58 AM No RFQ files found.
+9/9/2019 1:14:10 AM RFQ processing stopped.
+9/9/2019 1:14:24 AM 
+9/9/2019 1:14:43 AM Supplier: V10889
+9/9/2019 1:14:57 AM Process started for SM3068_WEB
+9/9/2019 1:15:40 AM No RFQ files found.
+9/9/2019 1:15:49 AM RFQ processing stopped.
+9/9/2019 1:15:58 AM 
+9/9/2019 1:16:18 AM Supplier: V11920
+9/9/2019 1:17:18 AM Process started for SM0372_WEB
+9/9/2019 1:17:19 AM No RFQ files found.
+9/9/2019 1:17:19 AM RFQ processing stopped.
+9/9/2019 1:17:20 AM 
+9/9/2019 1:17:20 AM Supplier: V11920
+9/9/2019 1:17:21 AM Process started for SM3068_WEB
+9/9/2019 1:17:22 AM No RFQ files found.
+9/9/2019 1:17:22 AM RFQ processing stopped.
+9/9/2019 1:17:22 AM DNVGL HTTP Processor stopped
+9/9/2019 1:17:22 AM ====================================================
+9/9/2019 1:22:49 AM ================9/9/2019 1:22:49 AM================
+9/9/2019 1:22:49 AM DNVGL HTTP Processor started
+9/9/2019 1:22:50 AM 
+9/9/2019 1:22:50 AM Supplier: V10107
+9/9/2019 1:22:50 AM Process started for SM0372_WEB
+9/9/2019 1:22:50 AM No RFQ files found.
+9/9/2019 1:22:50 AM RFQ processing stopped.
+9/9/2019 1:22:50 AM 
+9/9/2019 1:22:50 AM Supplier: V10107
+9/9/2019 1:22:50 AM Process started for SM0695_WEB
+9/9/2019 1:22:50 AM No RFQ files found.
+9/9/2019 1:22:50 AM RFQ processing stopped.
+9/9/2019 1:22:50 AM 
+9/9/2019 1:22:50 AM Supplier: V10001
+9/9/2019 1:22:50 AM Process started for SM0668_WEB
+9/9/2019 1:22:50 AM No RFQ files found.
+9/9/2019 1:22:50 AM RFQ processing stopped.
+9/9/2019 1:22:50 AM 
+9/9/2019 1:22:50 AM Purchase Order processing started.
+9/9/2019 1:22:50 AM No PO files found.
+9/9/2019 1:22:50 AM Purchase Order processing stopped.
+9/9/2019 1:22:50 AM 
+9/9/2019 1:22:50 AM Supplier: V10001
+9/9/2019 1:22:50 AM Process started for SM0711_WEB
+9/9/2019 1:22:50 AM No RFQ files found.
+9/9/2019 1:22:50 AM RFQ processing stopped.
+9/9/2019 1:22:50 AM 
+9/9/2019 1:22:50 AM Purchase Order processing started.
+9/9/2019 1:22:50 AM No PO files found.
+9/9/2019 1:22:50 AM Purchase Order processing stopped.
+9/9/2019 1:22:50 AM 
+9/9/2019 1:22:50 AM Supplier: V10001
+9/9/2019 1:22:50 AM Process started for SM0518_WEB
+9/9/2019 1:22:50 AM No RFQ files found.
+9/9/2019 1:22:50 AM RFQ processing stopped.
+9/9/2019 1:22:50 AM 
+9/9/2019 1:22:50 AM Purchase Order processing started.
+9/9/2019 1:22:50 AM No PO files found.
+9/9/2019 1:22:50 AM Purchase Order processing stopped.
+9/9/2019 1:22:50 AM 
+9/9/2019 1:22:50 AM Supplier: V10001
+9/9/2019 1:22:50 AM Process started for SM3171_WEB
+9/9/2019 1:22:51 AM No RFQ files found.
+9/9/2019 1:22:51 AM RFQ processing stopped.
+9/9/2019 1:22:51 AM 
+9/9/2019 1:22:51 AM Purchase Order processing started.
+9/9/2019 1:22:51 AM No PO files found.
+9/9/2019 1:22:51 AM Purchase Order processing stopped.
+9/9/2019 1:22:51 AM 
+9/9/2019 1:22:51 AM Supplier: V10889
+9/9/2019 1:22:51 AM Process started for SM0372_WEB
+9/9/2019 1:22:51 AM No RFQ files found.
+9/9/2019 1:22:51 AM RFQ processing stopped.
+9/9/2019 1:22:51 AM 
+9/9/2019 1:22:51 AM Supplier: V10889
+9/9/2019 1:22:51 AM Process started for SM3068_WEB
+9/9/2019 1:22:51 AM No RFQ files found.
+9/9/2019 1:22:51 AM RFQ processing stopped.
+9/9/2019 1:22:51 AM 
+9/9/2019 1:22:51 AM Supplier: V11920
+9/9/2019 1:22:51 AM Process started for SM0372_WEB
+9/9/2019 1:22:51 AM No RFQ files found.
+9/9/2019 1:22:51 AM RFQ processing stopped.
+9/9/2019 1:22:51 AM 
+9/9/2019 1:22:51 AM Supplier: V11920
+9/9/2019 1:22:51 AM Process started for SM3068_WEB
+9/9/2019 1:22:51 AM No RFQ files found.
+9/9/2019 1:22:51 AM RFQ processing stopped.
+9/9/2019 1:22:51 AM DNVGL HTTP Processor stopped
+9/9/2019 1:22:51 AM ====================================================
+9/9/2019 1:37:39 AM ================9/9/2019 1:37:39 AM================
+9/9/2019 1:37:39 AM DNVGL HTTP Processor started
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V10107
+9/9/2019 1:37:39 AM Process started for SM0372_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V10107
+9/9/2019 1:37:39 AM Process started for SM0695_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V10001
+9/9/2019 1:37:39 AM Process started for SM0668_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Purchase Order processing started.
+9/9/2019 1:37:39 AM No PO files found.
+9/9/2019 1:37:39 AM Purchase Order processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V10001
+9/9/2019 1:37:39 AM Process started for SM0711_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Purchase Order processing started.
+9/9/2019 1:37:39 AM No PO files found.
+9/9/2019 1:37:39 AM Purchase Order processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V10001
+9/9/2019 1:37:39 AM Process started for SM0518_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Purchase Order processing started.
+9/9/2019 1:37:39 AM No PO files found.
+9/9/2019 1:37:39 AM Purchase Order processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V10001
+9/9/2019 1:37:39 AM Process started for SM3171_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Purchase Order processing started.
+9/9/2019 1:37:39 AM No PO files found.
+9/9/2019 1:37:39 AM Purchase Order processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V10889
+9/9/2019 1:37:39 AM Process started for SM0372_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V10889
+9/9/2019 1:37:39 AM Process started for SM3068_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V11920
+9/9/2019 1:37:39 AM Process started for SM0372_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM 
+9/9/2019 1:37:39 AM Supplier: V11920
+9/9/2019 1:37:39 AM Process started for SM3068_WEB
+9/9/2019 1:37:39 AM No RFQ files found.
+9/9/2019 1:37:39 AM RFQ processing stopped.
+9/9/2019 1:37:39 AM DNVGL HTTP Processor stopped
+9/9/2019 1:37:39 AM ====================================================
+9/9/2019 1:52:39 AM ================9/9/2019 1:52:39 AM================
+9/9/2019 1:52:39 AM DNVGL HTTP Processor started
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V10107
+9/9/2019 1:52:39 AM Process started for SM0372_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V10107
+9/9/2019 1:52:39 AM Process started for SM0695_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V10001
+9/9/2019 1:52:39 AM Process started for SM0668_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Purchase Order processing started.
+9/9/2019 1:52:39 AM No PO files found.
+9/9/2019 1:52:39 AM Purchase Order processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V10001
+9/9/2019 1:52:39 AM Process started for SM0711_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Purchase Order processing started.
+9/9/2019 1:52:39 AM No PO files found.
+9/9/2019 1:52:39 AM Purchase Order processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V10001
+9/9/2019 1:52:39 AM Process started for SM0518_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Purchase Order processing started.
+9/9/2019 1:52:39 AM No PO files found.
+9/9/2019 1:52:39 AM Purchase Order processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V10001
+9/9/2019 1:52:39 AM Process started for SM3171_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Purchase Order processing started.
+9/9/2019 1:52:39 AM No PO files found.
+9/9/2019 1:52:39 AM Purchase Order processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V10889
+9/9/2019 1:52:39 AM Process started for SM0372_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V10889
+9/9/2019 1:52:39 AM Process started for SM3068_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V11920
+9/9/2019 1:52:39 AM Process started for SM0372_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM 
+9/9/2019 1:52:39 AM Supplier: V11920
+9/9/2019 1:52:39 AM Process started for SM3068_WEB
+9/9/2019 1:52:39 AM No RFQ files found.
+9/9/2019 1:52:39 AM RFQ processing stopped.
+9/9/2019 1:52:39 AM DNVGL HTTP Processor stopped
+9/9/2019 1:52:39 AM ====================================================
+9/9/2019 2:07:39 AM ================9/9/2019 2:07:39 AM================
+9/9/2019 2:07:39 AM DNVGL HTTP Processor started
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V10107
+9/9/2019 2:07:39 AM Process started for SM0372_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V10107
+9/9/2019 2:07:39 AM Process started for SM0695_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V10001
+9/9/2019 2:07:39 AM Process started for SM0668_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Purchase Order processing started.
+9/9/2019 2:07:39 AM No PO files found.
+9/9/2019 2:07:39 AM Purchase Order processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V10001
+9/9/2019 2:07:39 AM Process started for SM0711_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Purchase Order processing started.
+9/9/2019 2:07:39 AM No PO files found.
+9/9/2019 2:07:39 AM Purchase Order processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V10001
+9/9/2019 2:07:39 AM Process started for SM0518_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Purchase Order processing started.
+9/9/2019 2:07:39 AM No PO files found.
+9/9/2019 2:07:39 AM Purchase Order processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V10001
+9/9/2019 2:07:39 AM Process started for SM3171_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Purchase Order processing started.
+9/9/2019 2:07:39 AM No PO files found.
+9/9/2019 2:07:39 AM Purchase Order processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V10889
+9/9/2019 2:07:39 AM Process started for SM0372_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V10889
+9/9/2019 2:07:39 AM Process started for SM3068_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V11920
+9/9/2019 2:07:39 AM Process started for SM0372_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM 
+9/9/2019 2:07:39 AM Supplier: V11920
+9/9/2019 2:07:39 AM Process started for SM3068_WEB
+9/9/2019 2:07:39 AM No RFQ files found.
+9/9/2019 2:07:39 AM RFQ processing stopped.
+9/9/2019 2:07:39 AM DNVGL HTTP Processor stopped
+9/9/2019 2:07:39 AM ====================================================
+9/9/2019 2:22:39 AM ================9/9/2019 2:22:39 AM================
+9/9/2019 2:22:39 AM DNVGL HTTP Processor started
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V10107
+9/9/2019 2:22:39 AM Process started for SM0372_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V10107
+9/9/2019 2:22:39 AM Process started for SM0695_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V10001
+9/9/2019 2:22:39 AM Process started for SM0668_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Purchase Order processing started.
+9/9/2019 2:22:39 AM No PO files found.
+9/9/2019 2:22:39 AM Purchase Order processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V10001
+9/9/2019 2:22:39 AM Process started for SM0711_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Purchase Order processing started.
+9/9/2019 2:22:39 AM No PO files found.
+9/9/2019 2:22:39 AM Purchase Order processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V10001
+9/9/2019 2:22:39 AM Process started for SM0518_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Purchase Order processing started.
+9/9/2019 2:22:39 AM No PO files found.
+9/9/2019 2:22:39 AM Purchase Order processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V10001
+9/9/2019 2:22:39 AM Process started for SM3171_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Purchase Order processing started.
+9/9/2019 2:22:39 AM No PO files found.
+9/9/2019 2:22:39 AM Purchase Order processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V10889
+9/9/2019 2:22:39 AM Process started for SM0372_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V10889
+9/9/2019 2:22:39 AM Process started for SM3068_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V11920
+9/9/2019 2:22:39 AM Process started for SM0372_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM 
+9/9/2019 2:22:39 AM Supplier: V11920
+9/9/2019 2:22:39 AM Process started for SM3068_WEB
+9/9/2019 2:22:39 AM No RFQ files found.
+9/9/2019 2:22:39 AM RFQ processing stopped.
+9/9/2019 2:22:39 AM DNVGL HTTP Processor stopped
+9/9/2019 2:22:39 AM ====================================================
+9/9/2019 2:37:39 AM ================9/9/2019 2:37:39 AM================
+9/9/2019 2:37:39 AM DNVGL HTTP Processor started
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V10107
+9/9/2019 2:37:39 AM Process started for SM0372_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V10107
+9/9/2019 2:37:39 AM Process started for SM0695_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V10001
+9/9/2019 2:37:39 AM Process started for SM0668_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Purchase Order processing started.
+9/9/2019 2:37:39 AM No PO files found.
+9/9/2019 2:37:39 AM Purchase Order processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V10001
+9/9/2019 2:37:39 AM Process started for SM0711_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Purchase Order processing started.
+9/9/2019 2:37:39 AM No PO files found.
+9/9/2019 2:37:39 AM Purchase Order processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V10001
+9/9/2019 2:37:39 AM Process started for SM0518_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Purchase Order processing started.
+9/9/2019 2:37:39 AM No PO files found.
+9/9/2019 2:37:39 AM Purchase Order processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V10001
+9/9/2019 2:37:39 AM Process started for SM3171_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Purchase Order processing started.
+9/9/2019 2:37:39 AM No PO files found.
+9/9/2019 2:37:39 AM Purchase Order processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V10889
+9/9/2019 2:37:39 AM Process started for SM0372_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V10889
+9/9/2019 2:37:39 AM Process started for SM3068_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V11920
+9/9/2019 2:37:39 AM Process started for SM0372_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM 
+9/9/2019 2:37:39 AM Supplier: V11920
+9/9/2019 2:37:39 AM Process started for SM3068_WEB
+9/9/2019 2:37:39 AM No RFQ files found.
+9/9/2019 2:37:39 AM RFQ processing stopped.
+9/9/2019 2:37:39 AM DNVGL HTTP Processor stopped
+9/9/2019 2:37:39 AM ====================================================
+9/9/2019 2:52:39 AM ================9/9/2019 2:52:39 AM================
+9/9/2019 2:52:39 AM DNVGL HTTP Processor started
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V10107
+9/9/2019 2:52:39 AM Process started for SM0372_WEB
+9/9/2019 2:52:39 AM No RFQ files found.
+9/9/2019 2:52:39 AM RFQ processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V10107
+9/9/2019 2:52:39 AM Process started for SM0695_WEB
+9/9/2019 2:52:39 AM No RFQ files found.
+9/9/2019 2:52:39 AM RFQ processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V10001
+9/9/2019 2:52:39 AM Process started for SM0668_WEB
+9/9/2019 2:52:39 AM No RFQ files found.
+9/9/2019 2:52:39 AM RFQ processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Purchase Order processing started.
+9/9/2019 2:52:39 AM No PO files found.
+9/9/2019 2:52:39 AM Purchase Order processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V10001
+9/9/2019 2:52:39 AM Process started for SM0711_WEB
+9/9/2019 2:52:39 AM No RFQ files found.
+9/9/2019 2:52:39 AM RFQ processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Purchase Order processing started.
+9/9/2019 2:52:39 AM No PO files found.
+9/9/2019 2:52:39 AM Purchase Order processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V10001
+9/9/2019 2:52:39 AM Process started for SM0518_WEB
+9/9/2019 2:52:39 AM No RFQ files found.
+9/9/2019 2:52:39 AM RFQ processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Purchase Order processing started.
+9/9/2019 2:52:39 AM No PO files found.
+9/9/2019 2:52:39 AM Purchase Order processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V10001
+9/9/2019 2:52:39 AM Process started for SM3171_WEB
+9/9/2019 2:52:39 AM No RFQ files found.
+9/9/2019 2:52:39 AM RFQ processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Purchase Order processing started.
+9/9/2019 2:52:39 AM No PO files found.
+9/9/2019 2:52:39 AM Purchase Order processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V10889
+9/9/2019 2:52:39 AM Process started for SM0372_WEB
+9/9/2019 2:52:39 AM No RFQ files found.
+9/9/2019 2:52:39 AM RFQ processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V10889
+9/9/2019 2:52:39 AM Process started for SM3068_WEB
+9/9/2019 2:52:39 AM No RFQ files found.
+9/9/2019 2:52:39 AM RFQ processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V11920
+9/9/2019 2:52:39 AM Process started for SM0372_WEB
+9/9/2019 2:52:39 AM No RFQ files found.
+9/9/2019 2:52:39 AM RFQ processing stopped.
+9/9/2019 2:52:39 AM 
+9/9/2019 2:52:39 AM Supplier: V11920
+9/9/2019 2:52:39 AM Process started for SM3068_WEB
+9/9/2019 2:52:40 AM No RFQ files found.
+9/9/2019 2:52:40 AM RFQ processing stopped.
+9/9/2019 2:52:40 AM DNVGL HTTP Processor stopped
+9/9/2019 2:52:40 AM ====================================================
+9/9/2019 3:07:39 AM ================9/9/2019 3:07:39 AM================
+9/9/2019 3:07:39 AM DNVGL HTTP Processor started
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V10107
+9/9/2019 3:07:39 AM Process started for SM0372_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V10107
+9/9/2019 3:07:39 AM Process started for SM0695_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V10001
+9/9/2019 3:07:39 AM Process started for SM0668_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Purchase Order processing started.
+9/9/2019 3:07:39 AM No PO files found.
+9/9/2019 3:07:39 AM Purchase Order processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V10001
+9/9/2019 3:07:39 AM Process started for SM0711_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Purchase Order processing started.
+9/9/2019 3:07:39 AM No PO files found.
+9/9/2019 3:07:39 AM Purchase Order processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V10001
+9/9/2019 3:07:39 AM Process started for SM0518_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Purchase Order processing started.
+9/9/2019 3:07:39 AM No PO files found.
+9/9/2019 3:07:39 AM Purchase Order processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V10001
+9/9/2019 3:07:39 AM Process started for SM3171_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Purchase Order processing started.
+9/9/2019 3:07:39 AM No PO files found.
+9/9/2019 3:07:39 AM Purchase Order processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V10889
+9/9/2019 3:07:39 AM Process started for SM0372_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V10889
+9/9/2019 3:07:39 AM Process started for SM3068_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V11920
+9/9/2019 3:07:39 AM Process started for SM0372_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM 
+9/9/2019 3:07:39 AM Supplier: V11920
+9/9/2019 3:07:39 AM Process started for SM3068_WEB
+9/9/2019 3:07:39 AM No RFQ files found.
+9/9/2019 3:07:39 AM RFQ processing stopped.
+9/9/2019 3:07:39 AM DNVGL HTTP Processor stopped
+9/9/2019 3:07:39 AM ====================================================
+9/9/2019 3:22:39 AM ================9/9/2019 3:22:39 AM================
+9/9/2019 3:22:39 AM DNVGL HTTP Processor started
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V10107
+9/9/2019 3:22:39 AM Process started for SM0372_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V10107
+9/9/2019 3:22:39 AM Process started for SM0695_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V10001
+9/9/2019 3:22:39 AM Process started for SM0668_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Purchase Order processing started.
+9/9/2019 3:22:39 AM No PO files found.
+9/9/2019 3:22:39 AM Purchase Order processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V10001
+9/9/2019 3:22:39 AM Process started for SM0711_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Purchase Order processing started.
+9/9/2019 3:22:39 AM No PO files found.
+9/9/2019 3:22:39 AM Purchase Order processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V10001
+9/9/2019 3:22:39 AM Process started for SM0518_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Purchase Order processing started.
+9/9/2019 3:22:39 AM No PO files found.
+9/9/2019 3:22:39 AM Purchase Order processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V10001
+9/9/2019 3:22:39 AM Process started for SM3171_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Purchase Order processing started.
+9/9/2019 3:22:39 AM No PO files found.
+9/9/2019 3:22:39 AM Purchase Order processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V10889
+9/9/2019 3:22:39 AM Process started for SM0372_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V10889
+9/9/2019 3:22:39 AM Process started for SM3068_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V11920
+9/9/2019 3:22:39 AM Process started for SM0372_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM 
+9/9/2019 3:22:39 AM Supplier: V11920
+9/9/2019 3:22:39 AM Process started for SM3068_WEB
+9/9/2019 3:22:39 AM No RFQ files found.
+9/9/2019 3:22:39 AM RFQ processing stopped.
+9/9/2019 3:22:39 AM DNVGL HTTP Processor stopped
+9/9/2019 3:22:39 AM ====================================================
+9/9/2019 3:40:10 AM ================9/9/2019 3:40:10 AM================
+9/9/2019 3:40:12 AM DNVGL HTTP Processor started
+9/9/2019 3:40:15 AM 
+9/9/2019 3:40:15 AM Supplier: V10107
+9/9/2019 3:40:15 AM Process started for SM0372_WEB
+9/9/2019 3:40:15 AM No RFQ files found.
+9/9/2019 3:40:15 AM RFQ processing stopped.
+9/9/2019 3:40:15 AM 
+9/9/2019 3:40:15 AM Supplier: V10107
+9/9/2019 3:40:15 AM Process started for SM0695_WEB
+9/9/2019 3:40:15 AM No RFQ files found.
+9/9/2019 3:40:16 AM RFQ processing stopped.
+9/9/2019 3:40:16 AM 
+9/9/2019 3:40:17 AM Supplier: V10001
+9/9/2019 3:40:17 AM Process started for SM0668_WEB
+9/9/2019 3:40:17 AM No RFQ files found.
+9/9/2019 3:40:17 AM RFQ processing stopped.
+9/9/2019 3:40:17 AM 
+9/9/2019 3:40:17 AM Purchase Order processing started.
+9/9/2019 3:40:17 AM No PO files found.
+9/9/2019 3:40:18 AM Purchase Order processing stopped.
+9/9/2019 3:40:18 AM 
+9/9/2019 3:40:18 AM Supplier: V10001
+9/9/2019 3:40:18 AM Process started for SM0711_WEB
+9/9/2019 3:40:18 AM No RFQ files found.
+9/9/2019 3:40:18 AM RFQ processing stopped.
+9/9/2019 3:40:18 AM 
+9/9/2019 3:40:19 AM Purchase Order processing started.
+9/9/2019 3:40:19 AM No PO files found.
+9/9/2019 3:40:19 AM Purchase Order processing stopped.
+9/9/2019 3:40:19 AM 
+9/9/2019 3:40:19 AM Supplier: V10001
+9/9/2019 3:40:19 AM Process started for SM0518_WEB
+9/9/2019 3:40:19 AM No RFQ files found.
+9/9/2019 3:40:19 AM RFQ processing stopped.
+9/9/2019 3:40:19 AM 
+9/9/2019 3:40:19 AM Purchase Order processing started.
+9/9/2019 3:40:19 AM No PO files found.
+9/9/2019 3:40:19 AM Purchase Order processing stopped.
+9/9/2019 3:40:19 AM 
+9/9/2019 3:40:19 AM Supplier: V10001
+9/9/2019 3:40:19 AM Process started for SM3171_WEB
+9/9/2019 3:40:20 AM No RFQ files found.
+9/9/2019 3:40:20 AM RFQ processing stopped.
+9/9/2019 3:40:20 AM 
+9/9/2019 3:40:20 AM Purchase Order processing started.
+9/9/2019 3:40:20 AM No PO files found.
+9/9/2019 3:40:20 AM Purchase Order processing stopped.
+9/9/2019 3:40:20 AM 
+9/9/2019 3:40:20 AM Supplier: V10889
+9/9/2019 3:40:20 AM Process started for SM0372_WEB
+9/9/2019 3:40:20 AM No RFQ files found.
+9/9/2019 3:40:20 AM RFQ processing stopped.
+9/9/2019 3:40:20 AM 
+9/9/2019 3:40:20 AM Supplier: V10889
+9/9/2019 3:40:20 AM Process started for SM3068_WEB
+9/9/2019 3:40:20 AM No RFQ files found.
+9/9/2019 3:40:20 AM RFQ processing stopped.
+9/9/2019 3:40:20 AM 
+9/9/2019 3:40:20 AM Supplier: V11920
+9/9/2019 3:40:20 AM Process started for SM0372_WEB
+9/9/2019 3:40:20 AM No RFQ files found.
+9/9/2019 3:40:20 AM RFQ processing stopped.
+9/9/2019 3:40:20 AM 
+9/9/2019 3:40:20 AM Supplier: V11920
+9/9/2019 3:40:20 AM Process started for SM3068_WEB
+9/9/2019 3:40:20 AM No RFQ files found.
+9/9/2019 3:40:20 AM RFQ processing stopped.
+9/9/2019 3:40:20 AM DNVGL HTTP Processor stopped
+9/9/2019 3:40:20 AM ====================================================
+9/9/2019 3:52:39 AM ================9/9/2019 3:52:39 AM================
+9/9/2019 3:52:39 AM DNVGL HTTP Processor started
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V10107
+9/9/2019 3:52:39 AM Process started for SM0372_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V10107
+9/9/2019 3:52:39 AM Process started for SM0695_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V10001
+9/9/2019 3:52:39 AM Process started for SM0668_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Purchase Order processing started.
+9/9/2019 3:52:39 AM No PO files found.
+9/9/2019 3:52:39 AM Purchase Order processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V10001
+9/9/2019 3:52:39 AM Process started for SM0711_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Purchase Order processing started.
+9/9/2019 3:52:39 AM No PO files found.
+9/9/2019 3:52:39 AM Purchase Order processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V10001
+9/9/2019 3:52:39 AM Process started for SM0518_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Purchase Order processing started.
+9/9/2019 3:52:39 AM No PO files found.
+9/9/2019 3:52:39 AM Purchase Order processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V10001
+9/9/2019 3:52:39 AM Process started for SM3171_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Purchase Order processing started.
+9/9/2019 3:52:39 AM No PO files found.
+9/9/2019 3:52:39 AM Purchase Order processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V10889
+9/9/2019 3:52:39 AM Process started for SM0372_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V10889
+9/9/2019 3:52:39 AM Process started for SM3068_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V11920
+9/9/2019 3:52:39 AM Process started for SM0372_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM 
+9/9/2019 3:52:39 AM Supplier: V11920
+9/9/2019 3:52:39 AM Process started for SM3068_WEB
+9/9/2019 3:52:39 AM No RFQ files found.
+9/9/2019 3:52:39 AM RFQ processing stopped.
+9/9/2019 3:52:39 AM DNVGL HTTP Processor stopped
+9/9/2019 3:52:39 AM ====================================================
+9/9/2019 4:07:39 AM ================9/9/2019 4:07:39 AM================
+9/9/2019 4:07:39 AM DNVGL HTTP Processor started
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V10107
+9/9/2019 4:07:39 AM Process started for SM0372_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V10107
+9/9/2019 4:07:39 AM Process started for SM0695_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V10001
+9/9/2019 4:07:39 AM Process started for SM0668_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Purchase Order processing started.
+9/9/2019 4:07:39 AM No PO files found.
+9/9/2019 4:07:39 AM Purchase Order processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V10001
+9/9/2019 4:07:39 AM Process started for SM0711_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Purchase Order processing started.
+9/9/2019 4:07:39 AM No PO files found.
+9/9/2019 4:07:39 AM Purchase Order processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V10001
+9/9/2019 4:07:39 AM Process started for SM0518_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Purchase Order processing started.
+9/9/2019 4:07:39 AM No PO files found.
+9/9/2019 4:07:39 AM Purchase Order processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V10001
+9/9/2019 4:07:39 AM Process started for SM3171_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Purchase Order processing started.
+9/9/2019 4:07:39 AM No PO files found.
+9/9/2019 4:07:39 AM Purchase Order processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V10889
+9/9/2019 4:07:39 AM Process started for SM0372_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V10889
+9/9/2019 4:07:39 AM Process started for SM3068_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V11920
+9/9/2019 4:07:39 AM Process started for SM0372_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM 
+9/9/2019 4:07:39 AM Supplier: V11920
+9/9/2019 4:07:39 AM Process started for SM3068_WEB
+9/9/2019 4:07:39 AM No RFQ files found.
+9/9/2019 4:07:39 AM RFQ processing stopped.
+9/9/2019 4:07:39 AM DNVGL HTTP Processor stopped
+9/9/2019 4:07:39 AM ====================================================
+9/9/2019 4:22:39 AM ================9/9/2019 4:22:39 AM================
+9/9/2019 4:22:39 AM DNVGL HTTP Processor started
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V10107
+9/9/2019 4:22:39 AM Process started for SM0372_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V10107
+9/9/2019 4:22:39 AM Process started for SM0695_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V10001
+9/9/2019 4:22:39 AM Process started for SM0668_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Purchase Order processing started.
+9/9/2019 4:22:39 AM No PO files found.
+9/9/2019 4:22:39 AM Purchase Order processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V10001
+9/9/2019 4:22:39 AM Process started for SM0711_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Purchase Order processing started.
+9/9/2019 4:22:39 AM No PO files found.
+9/9/2019 4:22:39 AM Purchase Order processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V10001
+9/9/2019 4:22:39 AM Process started for SM0518_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Purchase Order processing started.
+9/9/2019 4:22:39 AM No PO files found.
+9/9/2019 4:22:39 AM Purchase Order processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V10001
+9/9/2019 4:22:39 AM Process started for SM3171_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Purchase Order processing started.
+9/9/2019 4:22:39 AM No PO files found.
+9/9/2019 4:22:39 AM Purchase Order processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V10889
+9/9/2019 4:22:39 AM Process started for SM0372_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V10889
+9/9/2019 4:22:39 AM Process started for SM3068_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V11920
+9/9/2019 4:22:39 AM Process started for SM0372_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM 
+9/9/2019 4:22:39 AM Supplier: V11920
+9/9/2019 4:22:39 AM Process started for SM3068_WEB
+9/9/2019 4:22:39 AM No RFQ files found.
+9/9/2019 4:22:39 AM RFQ processing stopped.
+9/9/2019 4:22:39 AM DNVGL HTTP Processor stopped
+9/9/2019 4:22:39 AM ====================================================
+9/9/2019 4:37:39 AM ================9/9/2019 4:37:39 AM================
+9/9/2019 4:37:39 AM DNVGL HTTP Processor started
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V10107
+9/9/2019 4:37:39 AM Process started for SM0372_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V10107
+9/9/2019 4:37:39 AM Process started for SM0695_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V10001
+9/9/2019 4:37:39 AM Process started for SM0668_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Purchase Order processing started.
+9/9/2019 4:37:39 AM No PO files found.
+9/9/2019 4:37:39 AM Purchase Order processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V10001
+9/9/2019 4:37:39 AM Process started for SM0711_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Purchase Order processing started.
+9/9/2019 4:37:39 AM No PO files found.
+9/9/2019 4:37:39 AM Purchase Order processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V10001
+9/9/2019 4:37:39 AM Process started for SM0518_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Purchase Order processing started.
+9/9/2019 4:37:39 AM No PO files found.
+9/9/2019 4:37:39 AM Purchase Order processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V10001
+9/9/2019 4:37:39 AM Process started for SM3171_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Purchase Order processing started.
+9/9/2019 4:37:39 AM No PO files found.
+9/9/2019 4:37:39 AM Purchase Order processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V10889
+9/9/2019 4:37:39 AM Process started for SM0372_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V10889
+9/9/2019 4:37:39 AM Process started for SM3068_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V11920
+9/9/2019 4:37:39 AM Process started for SM0372_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM 
+9/9/2019 4:37:39 AM Supplier: V11920
+9/9/2019 4:37:39 AM Process started for SM3068_WEB
+9/9/2019 4:37:39 AM No RFQ files found.
+9/9/2019 4:37:39 AM RFQ processing stopped.
+9/9/2019 4:37:39 AM DNVGL HTTP Processor stopped
+9/9/2019 4:37:39 AM ====================================================
+9/9/2019 4:52:39 AM ================9/9/2019 4:52:39 AM================
+9/9/2019 4:52:39 AM DNVGL HTTP Processor started
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Supplier: V10107
+9/9/2019 4:52:39 AM Process started for SM0372_WEB
+9/9/2019 4:52:39 AM No RFQ files found.
+9/9/2019 4:52:39 AM RFQ processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Supplier: V10107
+9/9/2019 4:52:39 AM Process started for SM0695_WEB
+9/9/2019 4:52:39 AM No RFQ files found.
+9/9/2019 4:52:39 AM RFQ processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Supplier: V10001
+9/9/2019 4:52:39 AM Process started for SM0668_WEB
+9/9/2019 4:52:39 AM No RFQ files found.
+9/9/2019 4:52:39 AM RFQ processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Purchase Order processing started.
+9/9/2019 4:52:39 AM No PO files found.
+9/9/2019 4:52:39 AM Purchase Order processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Supplier: V10001
+9/9/2019 4:52:39 AM Process started for SM0711_WEB
+9/9/2019 4:52:39 AM No RFQ files found.
+9/9/2019 4:52:39 AM RFQ processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Purchase Order processing started.
+9/9/2019 4:52:39 AM No PO files found.
+9/9/2019 4:52:39 AM Purchase Order processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Supplier: V10001
+9/9/2019 4:52:39 AM Process started for SM0518_WEB
+9/9/2019 4:52:39 AM No RFQ files found.
+9/9/2019 4:52:39 AM RFQ processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Purchase Order processing started.
+9/9/2019 4:52:39 AM No PO files found.
+9/9/2019 4:52:39 AM Purchase Order processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Supplier: V10001
+9/9/2019 4:52:39 AM Process started for SM3171_WEB
+9/9/2019 4:52:39 AM No RFQ files found.
+9/9/2019 4:52:39 AM RFQ processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Purchase Order processing started.
+9/9/2019 4:52:39 AM No PO files found.
+9/9/2019 4:52:39 AM Purchase Order processing stopped.
+9/9/2019 4:52:39 AM 
+9/9/2019 4:52:39 AM Supplier: V10889
+9/9/2019 4:52:39 AM Process started for SM0372_WEB
+9/9/2019 4:52:40 AM No RFQ files found.
+9/9/2019 4:52:40 AM RFQ processing stopped.
+9/9/2019 4:52:40 AM 
+9/9/2019 4:52:40 AM Supplier: V10889
+9/9/2019 4:52:40 AM Process started for SM3068_WEB
+9/9/2019 4:52:40 AM No RFQ files found.
+9/9/2019 4:52:40 AM RFQ processing stopped.
+9/9/2019 4:52:40 AM 
+9/9/2019 4:52:40 AM Supplier: V11920
+9/9/2019 4:52:40 AM Process started for SM0372_WEB
+9/9/2019 4:52:40 AM No RFQ files found.
+9/9/2019 4:52:40 AM RFQ processing stopped.
+9/9/2019 4:52:40 AM 
+9/9/2019 4:52:40 AM Supplier: V11920
+9/9/2019 4:52:40 AM Process started for SM3068_WEB
+9/9/2019 4:52:40 AM No RFQ files found.
+9/9/2019 4:52:40 AM RFQ processing stopped.
+9/9/2019 4:52:40 AM DNVGL HTTP Processor stopped
+9/9/2019 4:52:40 AM ====================================================
+9/9/2019 5:07:39 AM ================9/9/2019 5:07:39 AM================
+9/9/2019 5:07:39 AM DNVGL HTTP Processor started
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V10107
+9/9/2019 5:07:39 AM Process started for SM0372_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:39 AM RFQ processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V10107
+9/9/2019 5:07:39 AM Process started for SM0695_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:39 AM RFQ processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V10001
+9/9/2019 5:07:39 AM Process started for SM0668_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:39 AM RFQ processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Purchase Order processing started.
+9/9/2019 5:07:39 AM No PO files found.
+9/9/2019 5:07:39 AM Purchase Order processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V10001
+9/9/2019 5:07:39 AM Process started for SM0711_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:39 AM RFQ processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Purchase Order processing started.
+9/9/2019 5:07:39 AM No PO files found.
+9/9/2019 5:07:39 AM Purchase Order processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V10001
+9/9/2019 5:07:39 AM Process started for SM0518_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:39 AM RFQ processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Purchase Order processing started.
+9/9/2019 5:07:39 AM No PO files found.
+9/9/2019 5:07:39 AM Purchase Order processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V10001
+9/9/2019 5:07:39 AM Process started for SM3171_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:39 AM RFQ processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Purchase Order processing started.
+9/9/2019 5:07:39 AM No PO files found.
+9/9/2019 5:07:39 AM Purchase Order processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V10889
+9/9/2019 5:07:39 AM Process started for SM0372_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:39 AM RFQ processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V10889
+9/9/2019 5:07:39 AM Process started for SM3068_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:39 AM RFQ processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V11920
+9/9/2019 5:07:39 AM Process started for SM0372_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:39 AM RFQ processing stopped.
+9/9/2019 5:07:39 AM 
+9/9/2019 5:07:39 AM Supplier: V11920
+9/9/2019 5:07:39 AM Process started for SM3068_WEB
+9/9/2019 5:07:39 AM No RFQ files found.
+9/9/2019 5:07:40 AM RFQ processing stopped.
+9/9/2019 5:07:40 AM DNVGL HTTP Processor stopped
+9/9/2019 5:07:40 AM ====================================================
+9/9/2019 5:22:39 AM ================9/9/2019 5:22:39 AM================
+9/9/2019 5:22:39 AM DNVGL HTTP Processor started
+9/9/2019 5:22:39 AM 
+9/9/2019 5:22:39 AM Supplier: V10107
+9/9/2019 5:22:39 AM Process started for SM0372_WEB
+9/9/2019 5:22:39 AM No RFQ files found.
+9/9/2019 5:22:39 AM RFQ processing stopped.
+9/9/2019 5:22:39 AM 
+9/9/2019 5:22:39 AM Supplier: V10107
+9/9/2019 5:22:39 AM Process started for SM0695_WEB
+9/9/2019 5:22:39 AM No RFQ files found.
+9/9/2019 5:22:39 AM RFQ processing stopped.
+9/9/2019 5:22:39 AM 
+9/9/2019 5:22:39 AM Supplier: V10001
+9/9/2019 5:22:39 AM Process started for SM0668_WEB
+9/9/2019 5:22:39 AM No RFQ files found.
+9/9/2019 5:22:39 AM RFQ processing stopped.
+9/9/2019 5:22:39 AM 
+9/9/2019 5:22:39 AM Purchase Order processing started.
+9/9/2019 5:22:39 AM No PO files found.
+9/9/2019 5:22:39 AM Purchase Order processing stopped.
+9/9/2019 5:22:39 AM 
+9/9/2019 5:22:39 AM Supplier: V10001
+9/9/2019 5:22:39 AM Process started for SM0711_WEB
+9/9/2019 5:22:39 AM No RFQ files found.
+9/9/2019 5:22:39 AM RFQ processing stopped.
+9/9/2019 5:22:39 AM 
+9/9/2019 5:22:39 AM Purchase Order processing started.
+9/9/2019 5:22:39 AM No PO files found.
+9/9/2019 5:22:39 AM Purchase Order processing stopped.
+9/9/2019 5:22:39 AM 
+9/9/2019 5:22:39 AM Supplier: V10001
+9/9/2019 5:22:39 AM Process started for SM0518_WEB
+9/9/2019 5:22:39 AM No RFQ files found.
+9/9/2019 5:22:39 AM RFQ processing stopped.
+9/9/2019 5:22:39 AM 
+9/9/2019 5:22:39 AM Purchase Order processing started.
+9/9/2019 5:22:39 AM No PO files found.
+9/9/2019 5:22:40 AM Purchase Order processing stopped.
+9/9/2019 5:22:40 AM 
+9/9/2019 5:22:40 AM Supplier: V10001
+9/9/2019 5:22:40 AM Process started for SM3171_WEB
+9/9/2019 5:22:40 AM No RFQ files found.
+9/9/2019 5:22:40 AM RFQ processing stopped.
+9/9/2019 5:22:40 AM 
+9/9/2019 5:22:40 AM Purchase Order processing started.
+9/9/2019 5:22:40 AM No PO files found.
+9/9/2019 5:22:40 AM Purchase Order processing stopped.
+9/9/2019 5:22:40 AM 
+9/9/2019 5:22:40 AM Supplier: V10889
+9/9/2019 5:22:40 AM Process started for SM0372_WEB
+9/9/2019 5:22:40 AM No RFQ files found.
+9/9/2019 5:22:40 AM RFQ processing stopped.
+9/9/2019 5:22:40 AM 
+9/9/2019 5:22:40 AM Supplier: V10889
+9/9/2019 5:22:40 AM Process started for SM3068_WEB
+9/9/2019 5:22:40 AM No RFQ files found.
+9/9/2019 5:22:40 AM RFQ processing stopped.
+9/9/2019 5:22:40 AM 
+9/9/2019 5:22:40 AM Supplier: V11920
+9/9/2019 5:22:40 AM Process started for SM0372_WEB
+9/9/2019 5:22:40 AM No RFQ files found.
+9/9/2019 5:22:40 AM RFQ processing stopped.
+9/9/2019 5:22:40 AM 
+9/9/2019 5:22:40 AM Supplier: V11920
+9/9/2019 5:22:40 AM Process started for SM3068_WEB
+9/9/2019 5:22:40 AM No RFQ files found.
+9/9/2019 5:22:40 AM RFQ processing stopped.
+9/9/2019 5:22:40 AM DNVGL HTTP Processor stopped
+9/9/2019 5:22:40 AM ====================================================
+9/9/2019 5:37:39 AM ================9/9/2019 5:37:39 AM================
+9/9/2019 5:37:39 AM DNVGL HTTP Processor started
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V10107
+9/9/2019 5:37:39 AM Process started for SM0372_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V10107
+9/9/2019 5:37:39 AM Process started for SM0695_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V10001
+9/9/2019 5:37:39 AM Process started for SM0668_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Purchase Order processing started.
+9/9/2019 5:37:39 AM No PO files found.
+9/9/2019 5:37:39 AM Purchase Order processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V10001
+9/9/2019 5:37:39 AM Process started for SM0711_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Purchase Order processing started.
+9/9/2019 5:37:39 AM No PO files found.
+9/9/2019 5:37:39 AM Purchase Order processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V10001
+9/9/2019 5:37:39 AM Process started for SM0518_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Purchase Order processing started.
+9/9/2019 5:37:39 AM No PO files found.
+9/9/2019 5:37:39 AM Purchase Order processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V10001
+9/9/2019 5:37:39 AM Process started for SM3171_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Purchase Order processing started.
+9/9/2019 5:37:39 AM No PO files found.
+9/9/2019 5:37:39 AM Purchase Order processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V10889
+9/9/2019 5:37:39 AM Process started for SM0372_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V10889
+9/9/2019 5:37:39 AM Process started for SM3068_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V11920
+9/9/2019 5:37:39 AM Process started for SM0372_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM 
+9/9/2019 5:37:39 AM Supplier: V11920
+9/9/2019 5:37:39 AM Process started for SM3068_WEB
+9/9/2019 5:37:39 AM No RFQ files found.
+9/9/2019 5:37:39 AM RFQ processing stopped.
+9/9/2019 5:37:39 AM DNVGL HTTP Processor stopped
+9/9/2019 5:37:39 AM ====================================================
+9/9/2019 5:52:39 AM ================9/9/2019 5:52:39 AM================
+9/9/2019 5:52:39 AM DNVGL HTTP Processor started
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V10107
+9/9/2019 5:52:39 AM Process started for SM0372_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V10107
+9/9/2019 5:52:39 AM Process started for SM0695_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V10001
+9/9/2019 5:52:39 AM Process started for SM0668_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Purchase Order processing started.
+9/9/2019 5:52:39 AM No PO files found.
+9/9/2019 5:52:39 AM Purchase Order processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V10001
+9/9/2019 5:52:39 AM Process started for SM0711_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Purchase Order processing started.
+9/9/2019 5:52:39 AM No PO files found.
+9/9/2019 5:52:39 AM Purchase Order processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V10001
+9/9/2019 5:52:39 AM Process started for SM0518_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Purchase Order processing started.
+9/9/2019 5:52:39 AM No PO files found.
+9/9/2019 5:52:39 AM Purchase Order processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V10001
+9/9/2019 5:52:39 AM Process started for SM3171_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Purchase Order processing started.
+9/9/2019 5:52:39 AM No PO files found.
+9/9/2019 5:52:39 AM Purchase Order processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V10889
+9/9/2019 5:52:39 AM Process started for SM0372_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V10889
+9/9/2019 5:52:39 AM Process started for SM3068_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V11920
+9/9/2019 5:52:39 AM Process started for SM0372_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM 
+9/9/2019 5:52:39 AM Supplier: V11920
+9/9/2019 5:52:39 AM Process started for SM3068_WEB
+9/9/2019 5:52:39 AM No RFQ files found.
+9/9/2019 5:52:39 AM RFQ processing stopped.
+9/9/2019 5:52:39 AM DNVGL HTTP Processor stopped
+9/9/2019 5:52:39 AM ====================================================
+9/9/2019 6:07:39 AM ================9/9/2019 6:07:39 AM================
+9/9/2019 6:07:39 AM DNVGL HTTP Processor started
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V10107
+9/9/2019 6:07:39 AM Process started for SM0372_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V10107
+9/9/2019 6:07:39 AM Process started for SM0695_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V10001
+9/9/2019 6:07:39 AM Process started for SM0668_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Purchase Order processing started.
+9/9/2019 6:07:39 AM No PO files found.
+9/9/2019 6:07:39 AM Purchase Order processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V10001
+9/9/2019 6:07:39 AM Process started for SM0711_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Purchase Order processing started.
+9/9/2019 6:07:39 AM No PO files found.
+9/9/2019 6:07:39 AM Purchase Order processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V10001
+9/9/2019 6:07:39 AM Process started for SM0518_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Purchase Order processing started.
+9/9/2019 6:07:39 AM No PO files found.
+9/9/2019 6:07:39 AM Purchase Order processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V10001
+9/9/2019 6:07:39 AM Process started for SM3171_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Purchase Order processing started.
+9/9/2019 6:07:39 AM No PO files found.
+9/9/2019 6:07:39 AM Purchase Order processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V10889
+9/9/2019 6:07:39 AM Process started for SM0372_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V10889
+9/9/2019 6:07:39 AM Process started for SM3068_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V11920
+9/9/2019 6:07:39 AM Process started for SM0372_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM 
+9/9/2019 6:07:39 AM Supplier: V11920
+9/9/2019 6:07:39 AM Process started for SM3068_WEB
+9/9/2019 6:07:39 AM No RFQ files found.
+9/9/2019 6:07:39 AM RFQ processing stopped.
+9/9/2019 6:07:39 AM DNVGL HTTP Processor stopped
+9/9/2019 6:07:39 AM ====================================================
+9/9/2019 6:22:39 AM ================9/9/2019 6:22:39 AM================
+9/9/2019 6:22:39 AM DNVGL HTTP Processor started
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V10107
+9/9/2019 6:22:39 AM Process started for SM0372_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V10107
+9/9/2019 6:22:39 AM Process started for SM0695_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V10001
+9/9/2019 6:22:39 AM Process started for SM0668_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Purchase Order processing started.
+9/9/2019 6:22:39 AM No PO files found.
+9/9/2019 6:22:39 AM Purchase Order processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V10001
+9/9/2019 6:22:39 AM Process started for SM0711_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Purchase Order processing started.
+9/9/2019 6:22:39 AM No PO files found.
+9/9/2019 6:22:39 AM Purchase Order processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V10001
+9/9/2019 6:22:39 AM Process started for SM0518_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Purchase Order processing started.
+9/9/2019 6:22:39 AM No PO files found.
+9/9/2019 6:22:39 AM Purchase Order processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V10001
+9/9/2019 6:22:39 AM Process started for SM3171_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Purchase Order processing started.
+9/9/2019 6:22:39 AM No PO files found.
+9/9/2019 6:22:39 AM Purchase Order processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V10889
+9/9/2019 6:22:39 AM Process started for SM0372_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V10889
+9/9/2019 6:22:39 AM Process started for SM3068_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V11920
+9/9/2019 6:22:39 AM Process started for SM0372_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM 
+9/9/2019 6:22:39 AM Supplier: V11920
+9/9/2019 6:22:39 AM Process started for SM3068_WEB
+9/9/2019 6:22:39 AM No RFQ files found.
+9/9/2019 6:22:39 AM RFQ processing stopped.
+9/9/2019 6:22:39 AM DNVGL HTTP Processor stopped
+9/9/2019 6:22:39 AM ====================================================
+9/9/2019 6:37:39 AM ================9/9/2019 6:37:39 AM================
+9/9/2019 6:37:39 AM DNVGL HTTP Processor started
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V10107
+9/9/2019 6:37:39 AM Process started for SM0372_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V10107
+9/9/2019 6:37:39 AM Process started for SM0695_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V10001
+9/9/2019 6:37:39 AM Process started for SM0668_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Purchase Order processing started.
+9/9/2019 6:37:39 AM No PO files found.
+9/9/2019 6:37:39 AM Purchase Order processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V10001
+9/9/2019 6:37:39 AM Process started for SM0711_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Purchase Order processing started.
+9/9/2019 6:37:39 AM No PO files found.
+9/9/2019 6:37:39 AM Purchase Order processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V10001
+9/9/2019 6:37:39 AM Process started for SM0518_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Purchase Order processing started.
+9/9/2019 6:37:39 AM No PO files found.
+9/9/2019 6:37:39 AM Purchase Order processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V10001
+9/9/2019 6:37:39 AM Process started for SM3171_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Purchase Order processing started.
+9/9/2019 6:37:39 AM No PO files found.
+9/9/2019 6:37:39 AM Purchase Order processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V10889
+9/9/2019 6:37:39 AM Process started for SM0372_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V10889
+9/9/2019 6:37:39 AM Process started for SM3068_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V11920
+9/9/2019 6:37:39 AM Process started for SM0372_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM 
+9/9/2019 6:37:39 AM Supplier: V11920
+9/9/2019 6:37:39 AM Process started for SM3068_WEB
+9/9/2019 6:37:39 AM No RFQ files found.
+9/9/2019 6:37:39 AM RFQ processing stopped.
+9/9/2019 6:37:39 AM DNVGL HTTP Processor stopped
+9/9/2019 6:37:39 AM ====================================================
+9/9/2019 6:52:39 AM ================9/9/2019 6:52:39 AM================
+9/9/2019 6:52:39 AM DNVGL HTTP Processor started
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V10107
+9/9/2019 6:52:39 AM Process started for SM0372_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V10107
+9/9/2019 6:52:39 AM Process started for SM0695_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V10001
+9/9/2019 6:52:39 AM Process started for SM0668_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Purchase Order processing started.
+9/9/2019 6:52:39 AM No PO files found.
+9/9/2019 6:52:39 AM Purchase Order processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V10001
+9/9/2019 6:52:39 AM Process started for SM0711_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Purchase Order processing started.
+9/9/2019 6:52:39 AM No PO files found.
+9/9/2019 6:52:39 AM Purchase Order processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V10001
+9/9/2019 6:52:39 AM Process started for SM0518_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Purchase Order processing started.
+9/9/2019 6:52:39 AM No PO files found.
+9/9/2019 6:52:39 AM Purchase Order processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V10001
+9/9/2019 6:52:39 AM Process started for SM3171_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Purchase Order processing started.
+9/9/2019 6:52:39 AM No PO files found.
+9/9/2019 6:52:39 AM Purchase Order processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V10889
+9/9/2019 6:52:39 AM Process started for SM0372_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V10889
+9/9/2019 6:52:39 AM Process started for SM3068_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V11920
+9/9/2019 6:52:39 AM Process started for SM0372_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM 
+9/9/2019 6:52:39 AM Supplier: V11920
+9/9/2019 6:52:39 AM Process started for SM3068_WEB
+9/9/2019 6:52:39 AM No RFQ files found.
+9/9/2019 6:52:39 AM RFQ processing stopped.
+9/9/2019 6:52:39 AM DNVGL HTTP Processor stopped
+9/9/2019 6:52:39 AM ====================================================
+9/9/2019 7:07:39 AM ================9/9/2019 7:07:39 AM================
+9/9/2019 7:07:39 AM DNVGL HTTP Processor started
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V10107
+9/9/2019 7:07:39 AM Process started for SM0372_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V10107
+9/9/2019 7:07:39 AM Process started for SM0695_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V10001
+9/9/2019 7:07:39 AM Process started for SM0668_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Purchase Order processing started.
+9/9/2019 7:07:39 AM No PO files found.
+9/9/2019 7:07:39 AM Purchase Order processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V10001
+9/9/2019 7:07:39 AM Process started for SM0711_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Purchase Order processing started.
+9/9/2019 7:07:39 AM No PO files found.
+9/9/2019 7:07:39 AM Purchase Order processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V10001
+9/9/2019 7:07:39 AM Process started for SM0518_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Purchase Order processing started.
+9/9/2019 7:07:39 AM No PO files found.
+9/9/2019 7:07:39 AM Purchase Order processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V10001
+9/9/2019 7:07:39 AM Process started for SM3171_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Purchase Order processing started.
+9/9/2019 7:07:39 AM No PO files found.
+9/9/2019 7:07:39 AM Purchase Order processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V10889
+9/9/2019 7:07:39 AM Process started for SM0372_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V10889
+9/9/2019 7:07:39 AM Process started for SM3068_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V11920
+9/9/2019 7:07:39 AM Process started for SM0372_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM 
+9/9/2019 7:07:39 AM Supplier: V11920
+9/9/2019 7:07:39 AM Process started for SM3068_WEB
+9/9/2019 7:07:39 AM No RFQ files found.
+9/9/2019 7:07:39 AM RFQ processing stopped.
+9/9/2019 7:07:39 AM DNVGL HTTP Processor stopped
+9/9/2019 7:07:39 AM ====================================================
+9/9/2019 7:22:39 AM ================9/9/2019 7:22:39 AM================
+9/9/2019 7:22:39 AM DNVGL HTTP Processor started
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V10107
+9/9/2019 7:22:39 AM Process started for SM0372_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V10107
+9/9/2019 7:22:39 AM Process started for SM0695_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V10001
+9/9/2019 7:22:39 AM Process started for SM0668_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Purchase Order processing started.
+9/9/2019 7:22:39 AM No PO files found.
+9/9/2019 7:22:39 AM Purchase Order processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V10001
+9/9/2019 7:22:39 AM Process started for SM0711_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Purchase Order processing started.
+9/9/2019 7:22:39 AM No PO files found.
+9/9/2019 7:22:39 AM Purchase Order processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V10001
+9/9/2019 7:22:39 AM Process started for SM0518_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Purchase Order processing started.
+9/9/2019 7:22:39 AM No PO files found.
+9/9/2019 7:22:39 AM Purchase Order processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V10001
+9/9/2019 7:22:39 AM Process started for SM3171_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Purchase Order processing started.
+9/9/2019 7:22:39 AM No PO files found.
+9/9/2019 7:22:39 AM Purchase Order processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V10889
+9/9/2019 7:22:39 AM Process started for SM0372_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V10889
+9/9/2019 7:22:39 AM Process started for SM3068_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V11920
+9/9/2019 7:22:39 AM Process started for SM0372_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM 
+9/9/2019 7:22:39 AM Supplier: V11920
+9/9/2019 7:22:39 AM Process started for SM3068_WEB
+9/9/2019 7:22:39 AM No RFQ files found.
+9/9/2019 7:22:39 AM RFQ processing stopped.
+9/9/2019 7:22:39 AM DNVGL HTTP Processor stopped
+9/9/2019 7:22:39 AM ====================================================
+9/9/2019 7:37:39 AM ================9/9/2019 7:37:39 AM================
+9/9/2019 7:37:39 AM DNVGL HTTP Processor started
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V10107
+9/9/2019 7:37:39 AM Process started for SM0372_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V10107
+9/9/2019 7:37:39 AM Process started for SM0695_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V10001
+9/9/2019 7:37:39 AM Process started for SM0668_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Purchase Order processing started.
+9/9/2019 7:37:39 AM No PO files found.
+9/9/2019 7:37:39 AM Purchase Order processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V10001
+9/9/2019 7:37:39 AM Process started for SM0711_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Purchase Order processing started.
+9/9/2019 7:37:39 AM No PO files found.
+9/9/2019 7:37:39 AM Purchase Order processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V10001
+9/9/2019 7:37:39 AM Process started for SM0518_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Purchase Order processing started.
+9/9/2019 7:37:39 AM No PO files found.
+9/9/2019 7:37:39 AM Purchase Order processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V10001
+9/9/2019 7:37:39 AM Process started for SM3171_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Purchase Order processing started.
+9/9/2019 7:37:39 AM No PO files found.
+9/9/2019 7:37:39 AM Purchase Order processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V10889
+9/9/2019 7:37:39 AM Process started for SM0372_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V10889
+9/9/2019 7:37:39 AM Process started for SM3068_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V11920
+9/9/2019 7:37:39 AM Process started for SM0372_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM 
+9/9/2019 7:37:39 AM Supplier: V11920
+9/9/2019 7:37:39 AM Process started for SM3068_WEB
+9/9/2019 7:37:39 AM No RFQ files found.
+9/9/2019 7:37:39 AM RFQ processing stopped.
+9/9/2019 7:37:39 AM DNVGL HTTP Processor stopped
+9/9/2019 7:37:39 AM ====================================================
+9/9/2019 7:52:39 AM ================9/9/2019 7:52:39 AM================
+9/9/2019 7:52:39 AM DNVGL HTTP Processor started
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V10107
+9/9/2019 7:52:39 AM Process started for SM0372_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V10107
+9/9/2019 7:52:39 AM Process started for SM0695_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V10001
+9/9/2019 7:52:39 AM Process started for SM0668_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Purchase Order processing started.
+9/9/2019 7:52:39 AM No PO files found.
+9/9/2019 7:52:39 AM Purchase Order processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V10001
+9/9/2019 7:52:39 AM Process started for SM0711_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Purchase Order processing started.
+9/9/2019 7:52:39 AM No PO files found.
+9/9/2019 7:52:39 AM Purchase Order processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V10001
+9/9/2019 7:52:39 AM Process started for SM0518_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Purchase Order processing started.
+9/9/2019 7:52:39 AM No PO files found.
+9/9/2019 7:52:39 AM Purchase Order processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V10001
+9/9/2019 7:52:39 AM Process started for SM3171_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Purchase Order processing started.
+9/9/2019 7:52:39 AM No PO files found.
+9/9/2019 7:52:39 AM Purchase Order processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V10889
+9/9/2019 7:52:39 AM Process started for SM0372_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V10889
+9/9/2019 7:52:39 AM Process started for SM3068_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V11920
+9/9/2019 7:52:39 AM Process started for SM0372_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM 
+9/9/2019 7:52:39 AM Supplier: V11920
+9/9/2019 7:52:39 AM Process started for SM3068_WEB
+9/9/2019 7:52:39 AM No RFQ files found.
+9/9/2019 7:52:39 AM RFQ processing stopped.
+9/9/2019 7:52:39 AM DNVGL HTTP Processor stopped
+9/9/2019 7:52:39 AM ====================================================
+9/9/2019 8:07:39 AM ================9/9/2019 8:07:39 AM================
+9/9/2019 8:07:39 AM DNVGL HTTP Processor started
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V10107
+9/9/2019 8:07:39 AM Process started for SM0372_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V10107
+9/9/2019 8:07:39 AM Process started for SM0695_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V10001
+9/9/2019 8:07:39 AM Process started for SM0668_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Purchase Order processing started.
+9/9/2019 8:07:39 AM No PO files found.
+9/9/2019 8:07:39 AM Purchase Order processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V10001
+9/9/2019 8:07:39 AM Process started for SM0711_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Purchase Order processing started.
+9/9/2019 8:07:39 AM No PO files found.
+9/9/2019 8:07:39 AM Purchase Order processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V10001
+9/9/2019 8:07:39 AM Process started for SM0518_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Purchase Order processing started.
+9/9/2019 8:07:39 AM No PO files found.
+9/9/2019 8:07:39 AM Purchase Order processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V10001
+9/9/2019 8:07:39 AM Process started for SM3171_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Purchase Order processing started.
+9/9/2019 8:07:39 AM No PO files found.
+9/9/2019 8:07:39 AM Purchase Order processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V10889
+9/9/2019 8:07:39 AM Process started for SM0372_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V10889
+9/9/2019 8:07:39 AM Process started for SM3068_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V11920
+9/9/2019 8:07:39 AM Process started for SM0372_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM 
+9/9/2019 8:07:39 AM Supplier: V11920
+9/9/2019 8:07:39 AM Process started for SM3068_WEB
+9/9/2019 8:07:39 AM No RFQ files found.
+9/9/2019 8:07:39 AM RFQ processing stopped.
+9/9/2019 8:07:39 AM DNVGL HTTP Processor stopped
+9/9/2019 8:07:39 AM ====================================================
+9/9/2019 8:22:39 AM ================9/9/2019 8:22:39 AM================
+9/9/2019 8:22:39 AM DNVGL HTTP Processor started
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V10107
+9/9/2019 8:22:39 AM Process started for SM0372_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V10107
+9/9/2019 8:22:39 AM Process started for SM0695_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V10001
+9/9/2019 8:22:39 AM Process started for SM0668_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Purchase Order processing started.
+9/9/2019 8:22:39 AM No PO files found.
+9/9/2019 8:22:39 AM Purchase Order processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V10001
+9/9/2019 8:22:39 AM Process started for SM0711_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Purchase Order processing started.
+9/9/2019 8:22:39 AM No PO files found.
+9/9/2019 8:22:39 AM Purchase Order processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V10001
+9/9/2019 8:22:39 AM Process started for SM0518_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Purchase Order processing started.
+9/9/2019 8:22:39 AM No PO files found.
+9/9/2019 8:22:39 AM Purchase Order processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V10001
+9/9/2019 8:22:39 AM Process started for SM3171_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Purchase Order processing started.
+9/9/2019 8:22:39 AM No PO files found.
+9/9/2019 8:22:39 AM Purchase Order processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V10889
+9/9/2019 8:22:39 AM Process started for SM0372_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V10889
+9/9/2019 8:22:39 AM Process started for SM3068_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V11920
+9/9/2019 8:22:39 AM Process started for SM0372_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM 
+9/9/2019 8:22:39 AM Supplier: V11920
+9/9/2019 8:22:39 AM Process started for SM3068_WEB
+9/9/2019 8:22:39 AM No RFQ files found.
+9/9/2019 8:22:39 AM RFQ processing stopped.
+9/9/2019 8:22:39 AM DNVGL HTTP Processor stopped
+9/9/2019 8:22:39 AM ====================================================
+9/9/2019 8:37:39 AM ================9/9/2019 8:37:39 AM================
+9/9/2019 8:37:39 AM DNVGL HTTP Processor started
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V10107
+9/9/2019 8:37:39 AM Process started for SM0372_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V10107
+9/9/2019 8:37:39 AM Process started for SM0695_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V10001
+9/9/2019 8:37:39 AM Process started for SM0668_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Purchase Order processing started.
+9/9/2019 8:37:39 AM No PO files found.
+9/9/2019 8:37:39 AM Purchase Order processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V10001
+9/9/2019 8:37:39 AM Process started for SM0711_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Purchase Order processing started.
+9/9/2019 8:37:39 AM No PO files found.
+9/9/2019 8:37:39 AM Purchase Order processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V10001
+9/9/2019 8:37:39 AM Process started for SM0518_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Purchase Order processing started.
+9/9/2019 8:37:39 AM No PO files found.
+9/9/2019 8:37:39 AM Purchase Order processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V10001
+9/9/2019 8:37:39 AM Process started for SM3171_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Purchase Order processing started.
+9/9/2019 8:37:39 AM No PO files found.
+9/9/2019 8:37:39 AM Purchase Order processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V10889
+9/9/2019 8:37:39 AM Process started for SM0372_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V10889
+9/9/2019 8:37:39 AM Process started for SM3068_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V11920
+9/9/2019 8:37:39 AM Process started for SM0372_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM 
+9/9/2019 8:37:39 AM Supplier: V11920
+9/9/2019 8:37:39 AM Process started for SM3068_WEB
+9/9/2019 8:37:39 AM No RFQ files found.
+9/9/2019 8:37:39 AM RFQ processing stopped.
+9/9/2019 8:37:39 AM DNVGL HTTP Processor stopped
+9/9/2019 8:37:39 AM ====================================================
+9/9/2019 8:52:39 AM ================9/9/2019 8:52:39 AM================
+9/9/2019 8:52:39 AM DNVGL HTTP Processor started
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V10107
+9/9/2019 8:52:39 AM Process started for SM0372_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V10107
+9/9/2019 8:52:39 AM Process started for SM0695_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V10001
+9/9/2019 8:52:39 AM Process started for SM0668_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Purchase Order processing started.
+9/9/2019 8:52:39 AM No PO files found.
+9/9/2019 8:52:39 AM Purchase Order processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V10001
+9/9/2019 8:52:39 AM Process started for SM0711_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Purchase Order processing started.
+9/9/2019 8:52:39 AM No PO files found.
+9/9/2019 8:52:39 AM Purchase Order processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V10001
+9/9/2019 8:52:39 AM Process started for SM0518_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Purchase Order processing started.
+9/9/2019 8:52:39 AM No PO files found.
+9/9/2019 8:52:39 AM Purchase Order processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V10001
+9/9/2019 8:52:39 AM Process started for SM3171_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Purchase Order processing started.
+9/9/2019 8:52:39 AM No PO files found.
+9/9/2019 8:52:39 AM Purchase Order processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V10889
+9/9/2019 8:52:39 AM Process started for SM0372_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V10889
+9/9/2019 8:52:39 AM Process started for SM3068_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V11920
+9/9/2019 8:52:39 AM Process started for SM0372_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM 
+9/9/2019 8:52:39 AM Supplier: V11920
+9/9/2019 8:52:39 AM Process started for SM3068_WEB
+9/9/2019 8:52:39 AM No RFQ files found.
+9/9/2019 8:52:39 AM RFQ processing stopped.
+9/9/2019 8:52:39 AM DNVGL HTTP Processor stopped
+9/9/2019 8:52:39 AM ====================================================
+9/9/2019 9:07:39 AM ================9/9/2019 9:07:39 AM================
+9/9/2019 9:07:39 AM DNVGL HTTP Processor started
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V10107
+9/9/2019 9:07:39 AM Process started for SM0372_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V10107
+9/9/2019 9:07:39 AM Process started for SM0695_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V10001
+9/9/2019 9:07:39 AM Process started for SM0668_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Purchase Order processing started.
+9/9/2019 9:07:39 AM No PO files found.
+9/9/2019 9:07:39 AM Purchase Order processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V10001
+9/9/2019 9:07:39 AM Process started for SM0711_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Purchase Order processing started.
+9/9/2019 9:07:39 AM No PO files found.
+9/9/2019 9:07:39 AM Purchase Order processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V10001
+9/9/2019 9:07:39 AM Process started for SM0518_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Purchase Order processing started.
+9/9/2019 9:07:39 AM No PO files found.
+9/9/2019 9:07:39 AM Purchase Order processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V10001
+9/9/2019 9:07:39 AM Process started for SM3171_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Purchase Order processing started.
+9/9/2019 9:07:39 AM No PO files found.
+9/9/2019 9:07:39 AM Purchase Order processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V10889
+9/9/2019 9:07:39 AM Process started for SM0372_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V10889
+9/9/2019 9:07:39 AM Process started for SM3068_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V11920
+9/9/2019 9:07:39 AM Process started for SM0372_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM 
+9/9/2019 9:07:39 AM Supplier: V11920
+9/9/2019 9:07:39 AM Process started for SM3068_WEB
+9/9/2019 9:07:39 AM No RFQ files found.
+9/9/2019 9:07:39 AM RFQ processing stopped.
+9/9/2019 9:07:39 AM DNVGL HTTP Processor stopped
+9/9/2019 9:07:39 AM ====================================================
+9/9/2019 9:22:39 AM ================9/9/2019 9:22:39 AM================
+9/9/2019 9:22:39 AM DNVGL HTTP Processor started
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V10107
+9/9/2019 9:22:39 AM Process started for SM0372_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V10107
+9/9/2019 9:22:39 AM Process started for SM0695_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V10001
+9/9/2019 9:22:39 AM Process started for SM0668_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Purchase Order processing started.
+9/9/2019 9:22:39 AM No PO files found.
+9/9/2019 9:22:39 AM Purchase Order processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V10001
+9/9/2019 9:22:39 AM Process started for SM0711_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Purchase Order processing started.
+9/9/2019 9:22:39 AM No PO files found.
+9/9/2019 9:22:39 AM Purchase Order processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V10001
+9/9/2019 9:22:39 AM Process started for SM0518_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Purchase Order processing started.
+9/9/2019 9:22:39 AM No PO files found.
+9/9/2019 9:22:39 AM Purchase Order processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V10001
+9/9/2019 9:22:39 AM Process started for SM3171_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Purchase Order processing started.
+9/9/2019 9:22:39 AM No PO files found.
+9/9/2019 9:22:39 AM Purchase Order processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V10889
+9/9/2019 9:22:39 AM Process started for SM0372_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V10889
+9/9/2019 9:22:39 AM Process started for SM3068_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V11920
+9/9/2019 9:22:39 AM Process started for SM0372_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM 
+9/9/2019 9:22:39 AM Supplier: V11920
+9/9/2019 9:22:39 AM Process started for SM3068_WEB
+9/9/2019 9:22:39 AM No RFQ files found.
+9/9/2019 9:22:39 AM RFQ processing stopped.
+9/9/2019 9:22:39 AM DNVGL HTTP Processor stopped
+9/9/2019 9:22:39 AM ====================================================
+9/9/2019 9:37:39 AM ================9/9/2019 9:37:39 AM================
+9/9/2019 9:37:39 AM DNVGL HTTP Processor started
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V10107
+9/9/2019 9:37:39 AM Process started for SM0372_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V10107
+9/9/2019 9:37:39 AM Process started for SM0695_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V10001
+9/9/2019 9:37:39 AM Process started for SM0668_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Purchase Order processing started.
+9/9/2019 9:37:39 AM No PO files found.
+9/9/2019 9:37:39 AM Purchase Order processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V10001
+9/9/2019 9:37:39 AM Process started for SM0711_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Purchase Order processing started.
+9/9/2019 9:37:39 AM No PO files found.
+9/9/2019 9:37:39 AM Purchase Order processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V10001
+9/9/2019 9:37:39 AM Process started for SM0518_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Purchase Order processing started.
+9/9/2019 9:37:39 AM No PO files found.
+9/9/2019 9:37:39 AM Purchase Order processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V10001
+9/9/2019 9:37:39 AM Process started for SM3171_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Purchase Order processing started.
+9/9/2019 9:37:39 AM No PO files found.
+9/9/2019 9:37:39 AM Purchase Order processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V10889
+9/9/2019 9:37:39 AM Process started for SM0372_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V10889
+9/9/2019 9:37:39 AM Process started for SM3068_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V11920
+9/9/2019 9:37:39 AM Process started for SM0372_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM 
+9/9/2019 9:37:39 AM Supplier: V11920
+9/9/2019 9:37:39 AM Process started for SM3068_WEB
+9/9/2019 9:37:39 AM No RFQ files found.
+9/9/2019 9:37:39 AM RFQ processing stopped.
+9/9/2019 9:37:39 AM DNVGL HTTP Processor stopped
+9/9/2019 9:37:39 AM ====================================================
+9/9/2019 9:52:39 AM ================9/9/2019 9:52:39 AM================
+9/9/2019 9:52:39 AM DNVGL HTTP Processor started
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V10107
+9/9/2019 9:52:39 AM Process started for SM0372_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V10107
+9/9/2019 9:52:39 AM Process started for SM0695_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V10001
+9/9/2019 9:52:39 AM Process started for SM0668_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Purchase Order processing started.
+9/9/2019 9:52:39 AM No PO files found.
+9/9/2019 9:52:39 AM Purchase Order processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V10001
+9/9/2019 9:52:39 AM Process started for SM0711_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Purchase Order processing started.
+9/9/2019 9:52:39 AM No PO files found.
+9/9/2019 9:52:39 AM Purchase Order processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V10001
+9/9/2019 9:52:39 AM Process started for SM0518_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Purchase Order processing started.
+9/9/2019 9:52:39 AM No PO files found.
+9/9/2019 9:52:39 AM Purchase Order processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V10001
+9/9/2019 9:52:39 AM Process started for SM3171_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Purchase Order processing started.
+9/9/2019 9:52:39 AM No PO files found.
+9/9/2019 9:52:39 AM Purchase Order processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V10889
+9/9/2019 9:52:39 AM Process started for SM0372_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V10889
+9/9/2019 9:52:39 AM Process started for SM3068_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V11920
+9/9/2019 9:52:39 AM Process started for SM0372_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM 
+9/9/2019 9:52:39 AM Supplier: V11920
+9/9/2019 9:52:39 AM Process started for SM3068_WEB
+9/9/2019 9:52:39 AM No RFQ files found.
+9/9/2019 9:52:39 AM RFQ processing stopped.
+9/9/2019 9:52:39 AM DNVGL HTTP Processor stopped
+9/9/2019 9:52:39 AM ====================================================
+9/9/2019 10:07:39 AM ================9/9/2019 10:07:39 AM================
+9/9/2019 10:07:39 AM DNVGL HTTP Processor started
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V10107
+9/9/2019 10:07:39 AM Process started for SM0372_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V10107
+9/9/2019 10:07:39 AM Process started for SM0695_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V10001
+9/9/2019 10:07:39 AM Process started for SM0668_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Purchase Order processing started.
+9/9/2019 10:07:39 AM No PO files found.
+9/9/2019 10:07:39 AM Purchase Order processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V10001
+9/9/2019 10:07:39 AM Process started for SM0711_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Purchase Order processing started.
+9/9/2019 10:07:39 AM No PO files found.
+9/9/2019 10:07:39 AM Purchase Order processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V10001
+9/9/2019 10:07:39 AM Process started for SM0518_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Purchase Order processing started.
+9/9/2019 10:07:39 AM No PO files found.
+9/9/2019 10:07:39 AM Purchase Order processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V10001
+9/9/2019 10:07:39 AM Process started for SM3171_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Purchase Order processing started.
+9/9/2019 10:07:39 AM No PO files found.
+9/9/2019 10:07:39 AM Purchase Order processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V10889
+9/9/2019 10:07:39 AM Process started for SM0372_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V10889
+9/9/2019 10:07:39 AM Process started for SM3068_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V11920
+9/9/2019 10:07:39 AM Process started for SM0372_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM 
+9/9/2019 10:07:39 AM Supplier: V11920
+9/9/2019 10:07:39 AM Process started for SM3068_WEB
+9/9/2019 10:07:39 AM No RFQ files found.
+9/9/2019 10:07:39 AM RFQ processing stopped.
+9/9/2019 10:07:39 AM DNVGL HTTP Processor stopped
+9/9/2019 10:07:39 AM ====================================================
+9/9/2019 10:22:39 AM ================9/9/2019 10:22:39 AM================
+9/9/2019 10:22:39 AM DNVGL HTTP Processor started
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V10107
+9/9/2019 10:22:39 AM Process started for SM0372_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V10107
+9/9/2019 10:22:39 AM Process started for SM0695_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V10001
+9/9/2019 10:22:39 AM Process started for SM0668_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Purchase Order processing started.
+9/9/2019 10:22:39 AM No PO files found.
+9/9/2019 10:22:39 AM Purchase Order processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V10001
+9/9/2019 10:22:39 AM Process started for SM0711_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Purchase Order processing started.
+9/9/2019 10:22:39 AM No PO files found.
+9/9/2019 10:22:39 AM Purchase Order processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V10001
+9/9/2019 10:22:39 AM Process started for SM0518_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Purchase Order processing started.
+9/9/2019 10:22:39 AM No PO files found.
+9/9/2019 10:22:39 AM Purchase Order processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V10001
+9/9/2019 10:22:39 AM Process started for SM3171_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Purchase Order processing started.
+9/9/2019 10:22:39 AM No PO files found.
+9/9/2019 10:22:39 AM Purchase Order processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V10889
+9/9/2019 10:22:39 AM Process started for SM0372_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V10889
+9/9/2019 10:22:39 AM Process started for SM3068_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V11920
+9/9/2019 10:22:39 AM Process started for SM0372_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM 
+9/9/2019 10:22:39 AM Supplier: V11920
+9/9/2019 10:22:39 AM Process started for SM3068_WEB
+9/9/2019 10:22:39 AM No RFQ files found.
+9/9/2019 10:22:39 AM RFQ processing stopped.
+9/9/2019 10:22:39 AM DNVGL HTTP Processor stopped
+9/9/2019 10:22:39 AM ====================================================
+9/9/2019 10:31:13 AM ================9/9/2019 10:31:13 AM================
+9/9/2019 10:31:13 AM DNVGL HTTP Processor started
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V10107
+9/9/2019 10:31:13 AM Process started for SM0372_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V10107
+9/9/2019 10:31:13 AM Process started for SM0695_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V10001
+9/9/2019 10:31:13 AM Process started for SM0668_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Purchase Order processing started.
+9/9/2019 10:31:13 AM No PO files found.
+9/9/2019 10:31:13 AM Purchase Order processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V10001
+9/9/2019 10:31:13 AM Process started for SM0711_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Purchase Order processing started.
+9/9/2019 10:31:13 AM No PO files found.
+9/9/2019 10:31:13 AM Purchase Order processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V10001
+9/9/2019 10:31:13 AM Process started for SM0518_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Purchase Order processing started.
+9/9/2019 10:31:13 AM No PO files found.
+9/9/2019 10:31:13 AM Purchase Order processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V10001
+9/9/2019 10:31:13 AM Process started for SM3171_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Purchase Order processing started.
+9/9/2019 10:31:13 AM No PO files found.
+9/9/2019 10:31:13 AM Purchase Order processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V10889
+9/9/2019 10:31:13 AM Process started for SM0372_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V10889
+9/9/2019 10:31:13 AM Process started for SM3068_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V11920
+9/9/2019 10:31:13 AM Process started for SM0372_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM 
+9/9/2019 10:31:13 AM Supplier: V11920
+9/9/2019 10:31:13 AM Process started for SM3068_WEB
+9/9/2019 10:31:13 AM No RFQ files found.
+9/9/2019 10:31:13 AM RFQ processing stopped.
+9/9/2019 10:31:13 AM DNVGL HTTP Processor stopped
+9/9/2019 10:31:13 AM ====================================================
+9/9/2019 10:31:18 AM ================9/9/2019 10:31:18 AM================
+9/9/2019 10:31:18 AM DNVGL HTTP Processor started
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Supplier: V10107
+9/9/2019 10:31:18 AM Process started for SM0372_WEB
+9/9/2019 10:31:18 AM No RFQ files found.
+9/9/2019 10:31:18 AM RFQ processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Supplier: V10107
+9/9/2019 10:31:18 AM Process started for SM0695_WEB
+9/9/2019 10:31:18 AM No RFQ files found.
+9/9/2019 10:31:18 AM RFQ processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Supplier: V10001
+9/9/2019 10:31:18 AM Process started for SM0668_WEB
+9/9/2019 10:31:18 AM No RFQ files found.
+9/9/2019 10:31:18 AM RFQ processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Purchase Order processing started.
+9/9/2019 10:31:18 AM No PO files found.
+9/9/2019 10:31:18 AM Purchase Order processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Supplier: V10001
+9/9/2019 10:31:18 AM Process started for SM0711_WEB
+9/9/2019 10:31:18 AM No RFQ files found.
+9/9/2019 10:31:18 AM RFQ processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Purchase Order processing started.
+9/9/2019 10:31:18 AM No PO files found.
+9/9/2019 10:31:18 AM Purchase Order processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Supplier: V10001
+9/9/2019 10:31:18 AM Process started for SM0518_WEB
+9/9/2019 10:31:18 AM No RFQ files found.
+9/9/2019 10:31:18 AM RFQ processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Purchase Order processing started.
+9/9/2019 10:31:18 AM No PO files found.
+9/9/2019 10:31:18 AM Purchase Order processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Supplier: V10001
+9/9/2019 10:31:18 AM Process started for SM3171_WEB
+9/9/2019 10:31:18 AM No RFQ files found.
+9/9/2019 10:31:18 AM RFQ processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Purchase Order processing started.
+9/9/2019 10:31:18 AM No PO files found.
+9/9/2019 10:31:18 AM Purchase Order processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Supplier: V10889
+9/9/2019 10:31:18 AM Process started for SM0372_WEB
+9/9/2019 10:31:18 AM No RFQ files found.
+9/9/2019 10:31:18 AM RFQ processing stopped.
+9/9/2019 10:31:18 AM 
+9/9/2019 10:31:18 AM Supplier: V10889
+9/9/2019 10:31:18 AM Process started for SM3068_WEB
+9/9/2019 10:31:18 AM No RFQ files found.
+9/9/2019 10:31:18 AM RFQ processing stopped.
+9/9/2019 10:31:19 AM 
+9/9/2019 10:31:19 AM Supplier: V11920
+9/9/2019 10:31:19 AM Process started for SM0372_WEB
+9/9/2019 10:31:19 AM No RFQ files found.
+9/9/2019 10:31:19 AM RFQ processing stopped.
+9/9/2019 10:31:19 AM 
+9/9/2019 10:31:19 AM Supplier: V11920
+9/9/2019 10:31:19 AM Process started for SM3068_WEB
+9/9/2019 10:31:19 AM No RFQ files found.
+9/9/2019 10:31:19 AM RFQ processing stopped.
+9/9/2019 10:31:19 AM DNVGL HTTP Processor stopped
+9/9/2019 10:31:19 AM ====================================================
+9/9/2019 10:37:39 AM ================9/9/2019 10:37:39 AM================
+9/9/2019 10:37:39 AM DNVGL HTTP Processor started
+9/9/2019 10:37:39 AM 
+9/9/2019 10:37:39 AM Supplier: V10107
+9/9/2019 10:37:39 AM Process started for SM0372_WEB
+9/9/2019 10:37:39 AM No RFQ files found.
+9/9/2019 10:37:39 AM RFQ processing stopped.
+9/9/2019 10:37:39 AM 
+9/9/2019 10:37:39 AM Supplier: V10107
+9/9/2019 10:37:39 AM Process started for SM0695_WEB
+9/9/2019 10:37:40 AM No RFQ files found.
+9/9/2019 10:37:40 AM RFQ processing stopped.
+9/9/2019 10:37:40 AM 
+9/9/2019 10:37:40 AM Supplier: V10001
+9/9/2019 10:37:40 AM Process started for SM0668_WEB
+9/9/2019 10:37:40 AM No RFQ files found.
+9/9/2019 10:37:40 AM RFQ processing stopped.
+9/9/2019 10:37:40 AM 
+9/9/2019 10:37:40 AM Purchase Order processing started.
+9/9/2019 10:37:40 AM No PO files found.
+9/9/2019 10:37:40 AM Purchase Order processing stopped.
+9/9/2019 10:37:40 AM 
+9/9/2019 10:37:40 AM Supplier: V10001
+9/9/2019 10:37:40 AM Process started for SM0711_WEB
+9/9/2019 10:37:40 AM No RFQ files found.
+9/9/2019 10:37:40 AM RFQ processing stopped.
+9/9/2019 10:37:40 AM 
+9/9/2019 10:37:41 AM Purchase Order processing started.
+9/9/2019 10:37:41 AM No PO files found.
+9/9/2019 10:37:41 AM Purchase Order processing stopped.
+9/9/2019 10:37:41 AM 
+9/9/2019 10:37:41 AM Supplier: V10001
+9/9/2019 10:37:41 AM Process started for SM0518_WEB
+9/9/2019 10:37:41 AM No RFQ files found.
+9/9/2019 10:37:41 AM RFQ processing stopped.
+9/9/2019 10:37:41 AM 
+9/9/2019 10:37:41 AM Purchase Order processing started.
+9/9/2019 10:37:41 AM No PO files found.
+9/9/2019 10:37:41 AM Purchase Order processing stopped.
+9/9/2019 10:37:41 AM 
+9/9/2019 10:37:41 AM Supplier: V10001
+9/9/2019 10:37:41 AM Process started for SM3171_WEB
+9/9/2019 10:37:41 AM No RFQ files found.
+9/9/2019 10:37:41 AM RFQ processing stopped.
+9/9/2019 10:37:41 AM 
+9/9/2019 10:37:41 AM Purchase Order processing started.
+9/9/2019 10:37:41 AM No PO files found.
+9/9/2019 10:37:41 AM Purchase Order processing stopped.
+9/9/2019 10:37:41 AM 
+9/9/2019 10:37:41 AM Supplier: V10889
+9/9/2019 10:37:42 AM Process started for SM0372_WEB
+9/9/2019 10:37:42 AM No RFQ files found.
+9/9/2019 10:37:42 AM RFQ processing stopped.
+9/9/2019 10:37:42 AM 
+9/9/2019 10:37:42 AM Supplier: V10889
+9/9/2019 10:37:42 AM Process started for SM3068_WEB
+9/9/2019 10:37:42 AM No RFQ files found.
+9/9/2019 10:37:42 AM RFQ processing stopped.
+9/9/2019 10:37:42 AM 
+9/9/2019 10:37:42 AM Supplier: V11920
+9/9/2019 10:37:42 AM Process started for SM0372_WEB
+9/9/2019 10:37:43 AM No RFQ files found.
+9/9/2019 10:37:43 AM RFQ processing stopped.
+9/9/2019 10:37:43 AM 
+9/9/2019 10:37:43 AM Supplier: V11920
+9/9/2019 10:37:43 AM Process started for SM3068_WEB
+9/9/2019 10:37:43 AM No RFQ files found.
+9/9/2019 10:37:43 AM RFQ processing stopped.
+9/9/2019 10:37:43 AM DNVGL HTTP Processor stopped
+9/9/2019 10:37:43 AM ====================================================
+9/9/2019 10:52:39 AM ================9/9/2019 10:52:39 AM================
+9/9/2019 10:52:39 AM DNVGL HTTP Processor started
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V10107
+9/9/2019 10:52:39 AM Process started for SM0372_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V10107
+9/9/2019 10:52:39 AM Process started for SM0695_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V10001
+9/9/2019 10:52:39 AM Process started for SM0668_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Purchase Order processing started.
+9/9/2019 10:52:39 AM No PO files found.
+9/9/2019 10:52:39 AM Purchase Order processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V10001
+9/9/2019 10:52:39 AM Process started for SM0711_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Purchase Order processing started.
+9/9/2019 10:52:39 AM No PO files found.
+9/9/2019 10:52:39 AM Purchase Order processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V10001
+9/9/2019 10:52:39 AM Process started for SM0518_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Purchase Order processing started.
+9/9/2019 10:52:39 AM No PO files found.
+9/9/2019 10:52:39 AM Purchase Order processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V10001
+9/9/2019 10:52:39 AM Process started for SM3171_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Purchase Order processing started.
+9/9/2019 10:52:39 AM No PO files found.
+9/9/2019 10:52:39 AM Purchase Order processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V10889
+9/9/2019 10:52:39 AM Process started for SM0372_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V10889
+9/9/2019 10:52:39 AM Process started for SM3068_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V11920
+9/9/2019 10:52:39 AM Process started for SM0372_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM 
+9/9/2019 10:52:39 AM Supplier: V11920
+9/9/2019 10:52:39 AM Process started for SM3068_WEB
+9/9/2019 10:52:39 AM No RFQ files found.
+9/9/2019 10:52:39 AM RFQ processing stopped.
+9/9/2019 10:52:39 AM DNVGL HTTP Processor stopped
+9/9/2019 10:52:39 AM ====================================================
+9/9/2019 11:07:39 AM ================9/9/2019 11:07:39 AM================
+9/9/2019 11:07:39 AM DNVGL HTTP Processor started
+9/9/2019 11:07:39 AM 
+9/9/2019 11:07:39 AM Supplier: V10107
+9/9/2019 11:07:39 AM Process started for SM0372_WEB
+9/9/2019 11:07:39 AM No RFQ files found.
+9/9/2019 11:07:39 AM RFQ processing stopped.
+9/9/2019 11:07:39 AM 
+9/9/2019 11:07:39 AM Supplier: V10107
+9/9/2019 11:07:39 AM Process started for SM0695_WEB
+9/9/2019 11:07:39 AM No RFQ files found.
+9/9/2019 11:07:39 AM RFQ processing stopped.
+9/9/2019 11:07:39 AM 
+9/9/2019 11:07:39 AM Supplier: V10001
+9/9/2019 11:07:39 AM Process started for SM0668_WEB
+9/9/2019 11:07:39 AM No RFQ files found.
+9/9/2019 11:07:39 AM RFQ processing stopped.
+9/9/2019 11:07:39 AM 
+9/9/2019 11:07:39 AM Purchase Order processing started.
+9/9/2019 11:07:39 AM No PO files found.
+9/9/2019 11:07:39 AM Purchase Order processing stopped.
+9/9/2019 11:07:39 AM 
+9/9/2019 11:07:39 AM Supplier: V10001
+9/9/2019 11:07:39 AM Process started for SM0711_WEB
+9/9/2019 11:07:40 AM No RFQ files found.
+9/9/2019 11:07:40 AM RFQ processing stopped.
+9/9/2019 11:07:40 AM 
+9/9/2019 11:07:40 AM Purchase Order processing started.
+9/9/2019 11:07:40 AM No PO files found.
+9/9/2019 11:07:40 AM Purchase Order processing stopped.
+9/9/2019 11:07:40 AM 
+9/9/2019 11:07:40 AM Supplier: V10001
+9/9/2019 11:07:40 AM Process started for SM0518_WEB
+9/9/2019 11:07:40 AM No RFQ files found.
+9/9/2019 11:07:40 AM RFQ processing stopped.
+9/9/2019 11:07:40 AM 
+9/9/2019 11:07:40 AM Purchase Order processing started.
+9/9/2019 11:07:40 AM No PO files found.
+9/9/2019 11:07:40 AM Purchase Order processing stopped.
+9/9/2019 11:07:40 AM 
+9/9/2019 11:07:40 AM Supplier: V10001
+9/9/2019 11:07:40 AM Process started for SM3171_WEB
+9/9/2019 11:07:40 AM No RFQ files found.
+9/9/2019 11:07:40 AM RFQ processing stopped.
+9/9/2019 11:07:40 AM 
+9/9/2019 11:07:40 AM Purchase Order processing started.
+9/9/2019 11:07:40 AM No PO files found.
+9/9/2019 11:07:40 AM Purchase Order processing stopped.
+9/9/2019 11:07:40 AM 
+9/9/2019 11:07:40 AM Supplier: V10889
+9/9/2019 11:07:40 AM Process started for SM0372_WEB
+9/9/2019 11:07:40 AM No RFQ files found.
+9/9/2019 11:07:40 AM RFQ processing stopped.
+9/9/2019 11:07:40 AM 
+9/9/2019 11:07:40 AM Supplier: V10889
+9/9/2019 11:07:40 AM Process started for SM3068_WEB
+9/9/2019 11:07:40 AM No RFQ files found.
+9/9/2019 11:07:40 AM RFQ processing stopped.
+9/9/2019 11:07:40 AM 
+9/9/2019 11:07:40 AM Supplier: V11920
+9/9/2019 11:07:40 AM Process started for SM0372_WEB
+9/9/2019 11:07:41 AM No RFQ files found.
+9/9/2019 11:07:41 AM RFQ processing stopped.
+9/9/2019 11:07:41 AM 
+9/9/2019 11:07:41 AM Supplier: V11920
+9/9/2019 11:07:41 AM Process started for SM3068_WEB
+9/9/2019 11:07:41 AM No RFQ files found.
+9/9/2019 11:07:41 AM RFQ processing stopped.
+9/9/2019 11:07:41 AM DNVGL HTTP Processor stopped
+9/9/2019 11:07:41 AM ====================================================
+9/9/2019 11:22:39 AM ================9/9/2019 11:22:39 AM================
+9/9/2019 11:22:39 AM DNVGL HTTP Processor started
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V10107
+9/9/2019 11:22:39 AM Process started for SM0372_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V10107
+9/9/2019 11:22:39 AM Process started for SM0695_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V10001
+9/9/2019 11:22:39 AM Process started for SM0668_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Purchase Order processing started.
+9/9/2019 11:22:39 AM No PO files found.
+9/9/2019 11:22:39 AM Purchase Order processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V10001
+9/9/2019 11:22:39 AM Process started for SM0711_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Purchase Order processing started.
+9/9/2019 11:22:39 AM No PO files found.
+9/9/2019 11:22:39 AM Purchase Order processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V10001
+9/9/2019 11:22:39 AM Process started for SM0518_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Purchase Order processing started.
+9/9/2019 11:22:39 AM No PO files found.
+9/9/2019 11:22:39 AM Purchase Order processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V10001
+9/9/2019 11:22:39 AM Process started for SM3171_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Purchase Order processing started.
+9/9/2019 11:22:39 AM No PO files found.
+9/9/2019 11:22:39 AM Purchase Order processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V10889
+9/9/2019 11:22:39 AM Process started for SM0372_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V10889
+9/9/2019 11:22:39 AM Process started for SM3068_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V11920
+9/9/2019 11:22:39 AM Process started for SM0372_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM 
+9/9/2019 11:22:39 AM Supplier: V11920
+9/9/2019 11:22:39 AM Process started for SM3068_WEB
+9/9/2019 11:22:39 AM No RFQ files found.
+9/9/2019 11:22:39 AM RFQ processing stopped.
+9/9/2019 11:22:39 AM DNVGL HTTP Processor stopped
+9/9/2019 11:22:39 AM ====================================================
+9/9/2019 11:37:39 AM ================9/9/2019 11:37:39 AM================
+9/9/2019 11:37:39 AM DNVGL HTTP Processor started
+9/9/2019 11:37:39 AM 
+9/9/2019 11:37:39 AM Supplier: V10107
+9/9/2019 11:37:39 AM Process started for SM0372_WEB
+9/9/2019 11:37:39 AM No RFQ files found.
+9/9/2019 11:37:39 AM RFQ processing stopped.
+9/9/2019 11:37:39 AM 
+9/9/2019 11:37:39 AM Supplier: V10107
+9/9/2019 11:37:39 AM Process started for SM0695_WEB
+9/9/2019 11:37:39 AM No RFQ files found.
+9/9/2019 11:37:40 AM RFQ processing stopped.
+9/9/2019 11:37:40 AM 
+9/9/2019 11:37:40 AM Supplier: V10001
+9/9/2019 11:37:40 AM Process started for SM0668_WEB
+9/9/2019 11:37:40 AM No RFQ files found.
+9/9/2019 11:37:40 AM RFQ processing stopped.
+9/9/2019 11:37:40 AM 
+9/9/2019 11:37:40 AM Purchase Order processing started.
+9/9/2019 11:37:40 AM No PO files found.
+9/9/2019 11:37:40 AM Purchase Order processing stopped.
+9/9/2019 11:37:40 AM 
+9/9/2019 11:37:40 AM Supplier: V10001
+9/9/2019 11:37:40 AM Process started for SM0711_WEB
+9/9/2019 11:37:40 AM No RFQ files found.
+9/9/2019 11:37:40 AM RFQ processing stopped.
+9/9/2019 11:37:40 AM 
+9/9/2019 11:37:40 AM Purchase Order processing started.
+9/9/2019 11:37:40 AM No PO files found.
+9/9/2019 11:37:40 AM Purchase Order processing stopped.
+9/9/2019 11:37:40 AM 
+9/9/2019 11:37:40 AM Supplier: V10001
+9/9/2019 11:37:41 AM Process started for SM0518_WEB
+9/9/2019 11:37:41 AM No RFQ files found.
+9/9/2019 11:37:41 AM RFQ processing stopped.
+9/9/2019 11:37:41 AM 
+9/9/2019 11:37:41 AM Purchase Order processing started.
+9/9/2019 11:37:41 AM No PO files found.
+9/9/2019 11:37:41 AM Purchase Order processing stopped.
+9/9/2019 11:37:41 AM 
+9/9/2019 11:37:41 AM Supplier: V10001
+9/9/2019 11:37:41 AM Process started for SM3171_WEB
+9/9/2019 11:37:41 AM No RFQ files found.
+9/9/2019 11:37:41 AM RFQ processing stopped.
+9/9/2019 11:37:41 AM 
+9/9/2019 11:37:41 AM Purchase Order processing started.
+9/9/2019 11:37:41 AM No PO files found.
+9/9/2019 11:37:41 AM Purchase Order processing stopped.
+9/9/2019 11:37:41 AM 
+9/9/2019 11:37:41 AM Supplier: V10889
+9/9/2019 11:37:41 AM Process started for SM0372_WEB
+9/9/2019 11:37:41 AM No RFQ files found.
+9/9/2019 11:37:41 AM RFQ processing stopped.
+9/9/2019 11:37:41 AM 
+9/9/2019 11:37:41 AM Supplier: V10889
+9/9/2019 11:37:41 AM Process started for SM3068_WEB
+9/9/2019 11:37:41 AM No RFQ files found.
+9/9/2019 11:37:41 AM RFQ processing stopped.
+9/9/2019 11:37:41 AM 
+9/9/2019 11:37:41 AM Supplier: V11920
+9/9/2019 11:37:41 AM Process started for SM0372_WEB
+9/9/2019 11:37:41 AM No RFQ files found.
+9/9/2019 11:37:41 AM RFQ processing stopped.
+9/9/2019 11:37:41 AM 
+9/9/2019 11:37:41 AM Supplier: V11920
+9/9/2019 11:37:41 AM Process started for SM3068_WEB
+9/9/2019 11:37:41 AM No RFQ files found.
+9/9/2019 11:37:41 AM RFQ processing stopped.
+9/9/2019 11:37:41 AM DNVGL HTTP Processor stopped
+9/9/2019 11:37:41 AM ====================================================
+9/9/2019 12:08:46 PM ================9/9/2019 12:08:46 PM================
+9/9/2019 12:08:48 PM DNVGL HTTP Processor started
+9/9/2019 12:08:50 PM 
+9/9/2019 12:08:50 PM Supplier: V10107
+9/9/2019 12:08:50 PM Process started for SM0372_WEB
+9/9/2019 12:08:50 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Supplier: V10107
+9/9/2019 12:08:51 PM Process started for SM0695_WEB
+9/9/2019 12:08:51 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Supplier: V10001
+9/9/2019 12:08:51 PM Process started for SM0668_WEB
+9/9/2019 12:08:51 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Purchase Order processing started.
+9/9/2019 12:08:51 PM No PO files found.
+9/9/2019 12:08:51 PM Purchase Order processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Supplier: V10001
+9/9/2019 12:08:51 PM Process started for SM0711_WEB
+9/9/2019 12:08:51 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Purchase Order processing started.
+9/9/2019 12:08:51 PM No PO files found.
+9/9/2019 12:08:51 PM Purchase Order processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Supplier: V10001
+9/9/2019 12:08:51 PM Process started for SM0518_WEB
+9/9/2019 12:08:51 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Purchase Order processing started.
+9/9/2019 12:08:51 PM No PO files found.
+9/9/2019 12:08:51 PM Purchase Order processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Supplier: V10001
+9/9/2019 12:08:51 PM Process started for SM3171_WEB
+9/9/2019 12:08:51 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Purchase Order processing started.
+9/9/2019 12:08:51 PM No PO files found.
+9/9/2019 12:08:51 PM Purchase Order processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Supplier: V10889
+9/9/2019 12:08:51 PM Process started for SM0372_WEB
+9/9/2019 12:08:51 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Supplier: V10889
+9/9/2019 12:08:51 PM Process started for SM3068_WEB
+9/9/2019 12:08:51 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Supplier: V11920
+9/9/2019 12:08:51 PM Process started for SM0372_WEB
+9/9/2019 12:08:51 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM 
+9/9/2019 12:08:51 PM Supplier: V11920
+9/9/2019 12:08:51 PM Process started for SM3068_WEB
+9/9/2019 12:08:51 PM No RFQ files found.
+9/9/2019 12:08:51 PM RFQ processing stopped.
+9/9/2019 12:08:51 PM DNVGL HTTP Processor stopped
+9/9/2019 12:08:51 PM ====================================================
+9/9/2019 12:22:39 PM ================9/9/2019 12:22:39 PM================
+9/9/2019 12:22:39 PM DNVGL HTTP Processor started
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V10107
+9/9/2019 12:22:39 PM Process started for SM0372_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V10107
+9/9/2019 12:22:39 PM Process started for SM0695_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V10001
+9/9/2019 12:22:39 PM Process started for SM0668_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Purchase Order processing started.
+9/9/2019 12:22:39 PM No PO files found.
+9/9/2019 12:22:39 PM Purchase Order processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V10001
+9/9/2019 12:22:39 PM Process started for SM0711_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Purchase Order processing started.
+9/9/2019 12:22:39 PM No PO files found.
+9/9/2019 12:22:39 PM Purchase Order processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V10001
+9/9/2019 12:22:39 PM Process started for SM0518_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Purchase Order processing started.
+9/9/2019 12:22:39 PM No PO files found.
+9/9/2019 12:22:39 PM Purchase Order processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V10001
+9/9/2019 12:22:39 PM Process started for SM3171_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Purchase Order processing started.
+9/9/2019 12:22:39 PM No PO files found.
+9/9/2019 12:22:39 PM Purchase Order processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V10889
+9/9/2019 12:22:39 PM Process started for SM0372_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V10889
+9/9/2019 12:22:39 PM Process started for SM3068_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V11920
+9/9/2019 12:22:39 PM Process started for SM0372_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM 
+9/9/2019 12:22:39 PM Supplier: V11920
+9/9/2019 12:22:39 PM Process started for SM3068_WEB
+9/9/2019 12:22:39 PM No RFQ files found.
+9/9/2019 12:22:39 PM RFQ processing stopped.
+9/9/2019 12:22:39 PM DNVGL HTTP Processor stopped
+9/9/2019 12:22:39 PM ====================================================
+9/9/2019 12:37:39 PM ================9/9/2019 12:37:39 PM================
+9/9/2019 12:37:39 PM DNVGL HTTP Processor started
+9/9/2019 12:37:39 PM 
+9/9/2019 12:37:39 PM Supplier: V10107
+9/9/2019 12:37:39 PM Process started for SM0372_WEB
+9/9/2019 12:37:39 PM No RFQ files found.
+9/9/2019 12:37:39 PM RFQ processing stopped.
+9/9/2019 12:37:39 PM 
+9/9/2019 12:37:39 PM Supplier: V10107
+9/9/2019 12:37:39 PM Process started for SM0695_WEB
+9/9/2019 12:37:40 PM No RFQ files found.
+9/9/2019 12:37:40 PM RFQ processing stopped.
+9/9/2019 12:37:40 PM 
+9/9/2019 12:37:40 PM Supplier: V10001
+9/9/2019 12:37:40 PM Process started for SM0668_WEB
+9/9/2019 12:37:40 PM No RFQ files found.
+9/9/2019 12:37:40 PM RFQ processing stopped.
+9/9/2019 12:37:40 PM 
+9/9/2019 12:37:40 PM Purchase Order processing started.
+9/9/2019 12:37:40 PM No PO files found.
+9/9/2019 12:37:40 PM Purchase Order processing stopped.
+9/9/2019 12:37:40 PM 
+9/9/2019 12:37:40 PM Supplier: V10001
+9/9/2019 12:37:40 PM Process started for SM0711_WEB
+9/9/2019 12:37:40 PM No RFQ files found.
+9/9/2019 12:37:40 PM RFQ processing stopped.
+9/9/2019 12:37:40 PM 
+9/9/2019 12:37:40 PM Purchase Order processing started.
+9/9/2019 12:37:40 PM No PO files found.
+9/9/2019 12:37:40 PM Purchase Order processing stopped.
+9/9/2019 12:37:40 PM 
+9/9/2019 12:37:41 PM Supplier: V10001
+9/9/2019 12:37:41 PM Process started for SM0518_WEB
+9/9/2019 12:37:41 PM No RFQ files found.
+9/9/2019 12:37:41 PM RFQ processing stopped.
+9/9/2019 12:37:41 PM 
+9/9/2019 12:37:41 PM Purchase Order processing started.
+9/9/2019 12:37:41 PM No PO files found.
+9/9/2019 12:37:41 PM Purchase Order processing stopped.
+9/9/2019 12:37:41 PM 
+9/9/2019 12:37:41 PM Supplier: V10001
+9/9/2019 12:37:41 PM Process started for SM3171_WEB
+9/9/2019 12:37:41 PM No RFQ files found.
+9/9/2019 12:37:41 PM RFQ processing stopped.
+9/9/2019 12:37:41 PM 
+9/9/2019 12:37:41 PM Purchase Order processing started.
+9/9/2019 12:37:41 PM No PO files found.
+9/9/2019 12:37:41 PM Purchase Order processing stopped.
+9/9/2019 12:37:41 PM 
+9/9/2019 12:37:41 PM Supplier: V10889
+9/9/2019 12:37:41 PM Process started for SM0372_WEB
+9/9/2019 12:37:42 PM No RFQ files found.
+9/9/2019 12:37:42 PM RFQ processing stopped.
+9/9/2019 12:37:42 PM 
+9/9/2019 12:37:42 PM Supplier: V10889
+9/9/2019 12:37:42 PM Process started for SM3068_WEB
+9/9/2019 12:37:42 PM No RFQ files found.
+9/9/2019 12:37:42 PM RFQ processing stopped.
+9/9/2019 12:37:42 PM 
+9/9/2019 12:37:42 PM Supplier: V11920
+9/9/2019 12:37:42 PM Process started for SM0372_WEB
+9/9/2019 12:37:43 PM No RFQ files found.
+9/9/2019 12:37:43 PM RFQ processing stopped.
+9/9/2019 12:37:43 PM 
+9/9/2019 12:37:43 PM Supplier: V11920
+9/9/2019 12:37:43 PM Process started for SM3068_WEB
+9/9/2019 12:37:43 PM No RFQ files found.
+9/9/2019 12:37:43 PM RFQ processing stopped.
+9/9/2019 12:37:43 PM DNVGL HTTP Processor stopped
+9/9/2019 12:37:43 PM ====================================================
+9/9/2019 12:52:39 PM ================9/9/2019 12:52:39 PM================
+9/9/2019 12:52:39 PM DNVGL HTTP Processor started
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Supplier: V10107
+9/9/2019 12:52:39 PM Process started for SM0372_WEB
+9/9/2019 12:52:39 PM No RFQ files found.
+9/9/2019 12:52:39 PM RFQ processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Supplier: V10107
+9/9/2019 12:52:39 PM Process started for SM0695_WEB
+9/9/2019 12:52:39 PM No RFQ files found.
+9/9/2019 12:52:39 PM RFQ processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Supplier: V10001
+9/9/2019 12:52:39 PM Process started for SM0668_WEB
+9/9/2019 12:52:39 PM No RFQ files found.
+9/9/2019 12:52:39 PM RFQ processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Purchase Order processing started.
+9/9/2019 12:52:39 PM No PO files found.
+9/9/2019 12:52:39 PM Purchase Order processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Supplier: V10001
+9/9/2019 12:52:39 PM Process started for SM0711_WEB
+9/9/2019 12:52:39 PM No RFQ files found.
+9/9/2019 12:52:39 PM RFQ processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Purchase Order processing started.
+9/9/2019 12:52:39 PM No PO files found.
+9/9/2019 12:52:39 PM Purchase Order processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Supplier: V10001
+9/9/2019 12:52:39 PM Process started for SM0518_WEB
+9/9/2019 12:52:39 PM No RFQ files found.
+9/9/2019 12:52:39 PM RFQ processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Purchase Order processing started.
+9/9/2019 12:52:39 PM No PO files found.
+9/9/2019 12:52:39 PM Purchase Order processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Supplier: V10001
+9/9/2019 12:52:39 PM Process started for SM3171_WEB
+9/9/2019 12:52:39 PM No RFQ files found.
+9/9/2019 12:52:39 PM RFQ processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Purchase Order processing started.
+9/9/2019 12:52:39 PM No PO files found.
+9/9/2019 12:52:39 PM Purchase Order processing stopped.
+9/9/2019 12:52:39 PM 
+9/9/2019 12:52:39 PM Supplier: V10889
+9/9/2019 12:52:39 PM Process started for SM0372_WEB
+9/9/2019 12:52:40 PM No RFQ files found.
+9/9/2019 12:52:40 PM RFQ processing stopped.
+9/9/2019 12:52:40 PM 
+9/9/2019 12:52:40 PM Supplier: V10889
+9/9/2019 12:52:40 PM Process started for SM3068_WEB
+9/9/2019 12:52:40 PM No RFQ files found.
+9/9/2019 12:52:40 PM RFQ processing stopped.
+9/9/2019 12:52:40 PM 
+9/9/2019 12:52:40 PM Supplier: V11920
+9/9/2019 12:52:40 PM Process started for SM0372_WEB
+9/9/2019 12:52:40 PM No RFQ files found.
+9/9/2019 12:52:40 PM RFQ processing stopped.
+9/9/2019 12:52:40 PM 
+9/9/2019 12:52:40 PM Supplier: V11920
+9/9/2019 12:52:40 PM Process started for SM3068_WEB
+9/9/2019 12:52:40 PM No RFQ files found.
+9/9/2019 12:52:40 PM RFQ processing stopped.
+9/9/2019 12:52:40 PM DNVGL HTTP Processor stopped
+9/9/2019 12:52:40 PM ====================================================
+9/9/2019 1:07:39 PM ================9/9/2019 1:07:39 PM================
+9/9/2019 1:07:39 PM DNVGL HTTP Processor started
+9/9/2019 1:07:39 PM 
+9/9/2019 1:07:39 PM Supplier: V10107
+9/9/2019 1:07:39 PM Process started for SM0372_WEB
+9/9/2019 1:07:39 PM No RFQ files found.
+9/9/2019 1:07:39 PM RFQ processing stopped.
+9/9/2019 1:07:39 PM 
+9/9/2019 1:07:39 PM Supplier: V10107
+9/9/2019 1:07:39 PM Process started for SM0695_WEB
+9/9/2019 1:07:40 PM No RFQ files found.
+9/9/2019 1:07:40 PM RFQ processing stopped.
+9/9/2019 1:07:41 PM 
+9/9/2019 1:07:41 PM Supplier: V10001
+9/9/2019 1:07:41 PM Process started for SM0668_WEB
+9/9/2019 1:07:41 PM No RFQ files found.
+9/9/2019 1:07:41 PM RFQ processing stopped.
+9/9/2019 1:07:41 PM 
+9/9/2019 1:07:41 PM Purchase Order processing started.
+9/9/2019 1:07:41 PM No PO files found.
+9/9/2019 1:07:41 PM Purchase Order processing stopped.
+9/9/2019 1:07:41 PM 
+9/9/2019 1:07:41 PM Supplier: V10001
+9/9/2019 1:07:41 PM Process started for SM0711_WEB
+9/9/2019 1:07:42 PM No RFQ files found.
+9/9/2019 1:07:42 PM RFQ processing stopped.
+9/9/2019 1:07:42 PM 
+9/9/2019 1:07:42 PM Purchase Order processing started.
+9/9/2019 1:07:42 PM No PO files found.
+9/9/2019 1:07:42 PM Purchase Order processing stopped.
+9/9/2019 1:07:42 PM 
+9/9/2019 1:07:42 PM Supplier: V10001
+9/9/2019 1:07:42 PM Process started for SM0518_WEB
+9/9/2019 1:07:42 PM No RFQ files found.
+9/9/2019 1:07:42 PM RFQ processing stopped.
+9/9/2019 1:07:42 PM 
+9/9/2019 1:07:42 PM Purchase Order processing started.
+9/9/2019 1:07:42 PM No PO files found.
+9/9/2019 1:07:42 PM Purchase Order processing stopped.
+9/9/2019 1:07:42 PM 
+9/9/2019 1:07:42 PM Supplier: V10001
+9/9/2019 1:07:42 PM Process started for SM3171_WEB
+9/9/2019 1:07:42 PM No RFQ files found.
+9/9/2019 1:07:42 PM RFQ processing stopped.
+9/9/2019 1:07:42 PM 
+9/9/2019 1:07:42 PM Purchase Order processing started.
+9/9/2019 1:07:43 PM No PO files found.
+9/9/2019 1:07:43 PM Purchase Order processing stopped.
+9/9/2019 1:07:43 PM 
+9/9/2019 1:07:43 PM Supplier: V10889
+9/9/2019 1:07:43 PM Process started for SM0372_WEB
+9/9/2019 1:07:43 PM No RFQ files found.
+9/9/2019 1:07:43 PM RFQ processing stopped.
+9/9/2019 1:07:43 PM 
+9/9/2019 1:07:43 PM Supplier: V10889
+9/9/2019 1:07:43 PM Process started for SM3068_WEB
+9/9/2019 1:07:43 PM No RFQ files found.
+9/9/2019 1:07:43 PM RFQ processing stopped.
+9/9/2019 1:07:43 PM 
+9/9/2019 1:07:43 PM Supplier: V11920
+9/9/2019 1:07:43 PM Process started for SM0372_WEB
+9/9/2019 1:07:43 PM No RFQ files found.
+9/9/2019 1:07:43 PM RFQ processing stopped.
+9/9/2019 1:07:43 PM 
+9/9/2019 1:07:43 PM Supplier: V11920
+9/9/2019 1:07:43 PM Process started for SM3068_WEB
+9/9/2019 1:07:43 PM No RFQ files found.
+9/9/2019 1:07:43 PM RFQ processing stopped.
+9/9/2019 1:07:43 PM DNVGL HTTP Processor stopped
+9/9/2019 1:07:43 PM ====================================================
+9/9/2019 1:22:39 PM ================9/9/2019 1:22:39 PM================
+9/9/2019 1:22:39 PM DNVGL HTTP Processor started
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Supplier: V10107
+9/9/2019 1:22:39 PM Process started for SM0372_WEB
+9/9/2019 1:22:39 PM No RFQ files found.
+9/9/2019 1:22:39 PM RFQ processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Supplier: V10107
+9/9/2019 1:22:39 PM Process started for SM0695_WEB
+9/9/2019 1:22:39 PM No RFQ files found.
+9/9/2019 1:22:39 PM RFQ processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Supplier: V10001
+9/9/2019 1:22:39 PM Process started for SM0668_WEB
+9/9/2019 1:22:39 PM Invalid mail file 190909_130844911.txt
+9/9/2019 1:22:39 PM Invalid mail file 190909_130853880.txt
+9/9/2019 1:22:39 PM No RFQ files found.
+9/9/2019 1:22:39 PM RFQ processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Purchase Order processing started.
+9/9/2019 1:22:39 PM No PO files found.
+9/9/2019 1:22:39 PM Purchase Order processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Supplier: V10001
+9/9/2019 1:22:39 PM Process started for SM0711_WEB
+9/9/2019 1:22:39 PM No RFQ files found.
+9/9/2019 1:22:39 PM RFQ processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Purchase Order processing started.
+9/9/2019 1:22:39 PM No PO files found.
+9/9/2019 1:22:39 PM Purchase Order processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Supplier: V10001
+9/9/2019 1:22:39 PM Process started for SM0518_WEB
+9/9/2019 1:22:39 PM No RFQ files found.
+9/9/2019 1:22:39 PM RFQ processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Purchase Order processing started.
+9/9/2019 1:22:39 PM No PO files found.
+9/9/2019 1:22:39 PM Purchase Order processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Supplier: V10001
+9/9/2019 1:22:39 PM Process started for SM3171_WEB
+9/9/2019 1:22:39 PM No RFQ files found.
+9/9/2019 1:22:39 PM RFQ processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Purchase Order processing started.
+9/9/2019 1:22:39 PM No PO files found.
+9/9/2019 1:22:39 PM Purchase Order processing stopped.
+9/9/2019 1:22:39 PM 
+9/9/2019 1:22:39 PM Supplier: V10889
+9/9/2019 1:22:39 PM Process started for SM0372_WEB
+9/9/2019 1:22:40 PM No RFQ files found.
+9/9/2019 1:22:40 PM RFQ processing stopped.
+9/9/2019 1:22:40 PM 
+9/9/2019 1:22:40 PM Supplier: V10889
+9/9/2019 1:22:40 PM Process started for SM3068_WEB
+9/9/2019 1:22:40 PM No RFQ files found.
+9/9/2019 1:22:40 PM RFQ processing stopped.
+9/9/2019 1:22:40 PM 
+9/9/2019 1:22:40 PM Supplier: V11920
+9/9/2019 1:22:40 PM Process started for SM0372_WEB
+9/9/2019 1:22:40 PM No RFQ files found.
+9/9/2019 1:22:40 PM RFQ processing stopped.
+9/9/2019 1:22:40 PM 
+9/9/2019 1:22:40 PM Supplier: V11920
+9/9/2019 1:22:40 PM Process started for SM3068_WEB
+9/9/2019 1:22:40 PM No RFQ files found.
+9/9/2019 1:22:40 PM RFQ processing stopped.
+9/9/2019 1:22:40 PM DNVGL HTTP Processor stopped
+9/9/2019 1:22:40 PM ====================================================
+9/9/2019 1:37:39 PM ================9/9/2019 1:37:39 PM================
+9/9/2019 1:37:39 PM DNVGL HTTP Processor started
+9/9/2019 1:37:39 PM 
+9/9/2019 1:37:39 PM Supplier: V10107
+9/9/2019 1:37:39 PM Process started for SM0372_WEB
+9/9/2019 1:37:39 PM No RFQ files found.
+9/9/2019 1:37:39 PM RFQ processing stopped.
+9/9/2019 1:37:39 PM 
+9/9/2019 1:37:39 PM Supplier: V10107
+9/9/2019 1:37:39 PM Process started for SM0695_WEB
+9/9/2019 1:37:40 PM No RFQ files found.
+9/9/2019 1:37:40 PM RFQ processing stopped.
+9/9/2019 1:37:40 PM 
+9/9/2019 1:37:40 PM Supplier: V10001
+9/9/2019 1:37:40 PM Process started for SM0668_WEB
+9/9/2019 1:37:40 PM No RFQ files found.
+9/9/2019 1:37:40 PM RFQ processing stopped.
+9/9/2019 1:37:40 PM 
+9/9/2019 1:37:40 PM Purchase Order processing started.
+9/9/2019 1:37:40 PM No PO files found.
+9/9/2019 1:37:40 PM Purchase Order processing stopped.
+9/9/2019 1:37:40 PM 
+9/9/2019 1:37:40 PM Supplier: V10001
+9/9/2019 1:37:40 PM Process started for SM0711_WEB
+9/9/2019 1:37:40 PM No RFQ files found.
+9/9/2019 1:37:40 PM RFQ processing stopped.
+9/9/2019 1:37:40 PM 
+9/9/2019 1:37:40 PM Purchase Order processing started.
+9/9/2019 1:37:40 PM No PO files found.
+9/9/2019 1:37:40 PM Purchase Order processing stopped.
+9/9/2019 1:37:40 PM 
+9/9/2019 1:37:40 PM Supplier: V10001
+9/9/2019 1:37:40 PM Process started for SM0518_WEB
+9/9/2019 1:37:41 PM No RFQ files found.
+9/9/2019 1:37:41 PM RFQ processing stopped.
+9/9/2019 1:37:41 PM 
+9/9/2019 1:37:41 PM Purchase Order processing started.
+9/9/2019 1:37:41 PM No PO files found.
+9/9/2019 1:37:41 PM Purchase Order processing stopped.
+9/9/2019 1:37:41 PM 
+9/9/2019 1:37:41 PM Supplier: V10001
+9/9/2019 1:37:41 PM Process started for SM3171_WEB
+9/9/2019 1:37:41 PM No RFQ files found.
+9/9/2019 1:37:41 PM RFQ processing stopped.
+9/9/2019 1:37:41 PM 
+9/9/2019 1:37:41 PM Purchase Order processing started.
+9/9/2019 1:37:41 PM No PO files found.
+9/9/2019 1:37:41 PM Purchase Order processing stopped.
+9/9/2019 1:37:41 PM 
+9/9/2019 1:37:41 PM Supplier: V10889
+9/9/2019 1:37:41 PM Process started for SM0372_WEB
+9/9/2019 1:37:42 PM No RFQ files found.
+9/9/2019 1:37:42 PM RFQ processing stopped.
+9/9/2019 1:37:42 PM 
+9/9/2019 1:37:42 PM Supplier: V10889
+9/9/2019 1:37:42 PM Process started for SM3068_WEB
+9/9/2019 1:37:42 PM No RFQ files found.
+9/9/2019 1:37:42 PM RFQ processing stopped.
+9/9/2019 1:37:42 PM 
+9/9/2019 1:37:42 PM Supplier: V11920
+9/9/2019 1:37:42 PM Process started for SM0372_WEB
+9/9/2019 1:37:42 PM No RFQ files found.
+9/9/2019 1:37:43 PM RFQ processing stopped.
+9/9/2019 1:37:43 PM 
+9/9/2019 1:37:43 PM Supplier: V11920
+9/9/2019 1:37:43 PM Process started for SM3068_WEB
+9/9/2019 1:37:43 PM No RFQ files found.
+9/9/2019 1:37:43 PM RFQ processing stopped.
+9/9/2019 1:37:43 PM DNVGL HTTP Processor stopped
+9/9/2019 1:37:43 PM ====================================================
+9/9/2019 1:43:47 PM ================9/9/2019 1:43:47 PM================
+9/9/2019 1:43:47 PM DNVGL HTTP Processor started
+9/9/2019 1:44:14 PM ================9/9/2019 1:44:14 PM================
+9/9/2019 1:44:14 PM DNVGL HTTP Processor started
+9/9/2019 1:44:37 PM ================9/9/2019 1:44:37 PM================
+9/9/2019 1:44:37 PM DNVGL HTTP Processor started
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V10107
+9/9/2019 1:44:38 PM Process started for SM0372_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V10107
+9/9/2019 1:44:38 PM Process started for SM0695_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V10001
+9/9/2019 1:44:38 PM Process started for SM0668_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Purchase Order processing started.
+9/9/2019 1:44:38 PM No PO files found.
+9/9/2019 1:44:38 PM Purchase Order processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V10001
+9/9/2019 1:44:38 PM Process started for SM0711_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Purchase Order processing started.
+9/9/2019 1:44:38 PM No PO files found.
+9/9/2019 1:44:38 PM Purchase Order processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V10001
+9/9/2019 1:44:38 PM Process started for SM0518_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Purchase Order processing started.
+9/9/2019 1:44:38 PM No PO files found.
+9/9/2019 1:44:38 PM Purchase Order processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V10001
+9/9/2019 1:44:38 PM Process started for SM3171_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Purchase Order processing started.
+9/9/2019 1:44:38 PM No PO files found.
+9/9/2019 1:44:38 PM Purchase Order processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V10889
+9/9/2019 1:44:38 PM Process started for SM0372_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V10889
+9/9/2019 1:44:38 PM Process started for SM3068_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V11920
+9/9/2019 1:44:38 PM Process started for SM0372_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM 
+9/9/2019 1:44:38 PM Supplier: V11920
+9/9/2019 1:44:38 PM Process started for SM3068_WEB
+9/9/2019 1:44:38 PM No RFQ files found.
+9/9/2019 1:44:38 PM RFQ processing stopped.
+9/9/2019 1:44:38 PM DNVGL HTTP Processor stopped
+9/9/2019 1:44:38 PM ====================================================
+9/9/2019 1:46:55 PM ================9/9/2019 1:46:55 PM================
+9/9/2019 1:46:55 PM DNVGL HTTP Processor started
+9/9/2019 1:46:55 PM 
+9/9/2019 1:46:55 PM Supplier: V10107
+9/9/2019 1:46:55 PM Process started for SM0372_WEB
+9/9/2019 1:46:55 PM No RFQ files found.
+9/9/2019 1:46:55 PM RFQ processing stopped.
+9/9/2019 1:46:55 PM No quote files found to process.
+9/9/2019 1:46:55 PM 
+9/9/2019 1:46:55 PM Supplier: V10107
+9/9/2019 1:46:55 PM Process started for SM0695_WEB
+9/9/2019 1:46:55 PM No RFQ files found.
+9/9/2019 1:46:55 PM RFQ processing stopped.
+9/9/2019 1:46:55 PM No quote files found to process.
+9/9/2019 1:46:55 PM 
+9/9/2019 1:46:55 PM Supplier: V10001
+9/9/2019 1:46:55 PM Process started for SM0668_WEB
+9/9/2019 1:46:55 PM No RFQ files found.
+9/9/2019 1:46:55 PM RFQ processing stopped.
+9/9/2019 1:46:56 PM 
+9/9/2019 1:46:56 PM Purchase Order processing started.
+9/9/2019 1:46:56 PM No PO files found.
+9/9/2019 1:46:56 PM Purchase Order processing stopped.
+9/9/2019 1:46:56 PM No quote files found to process.
+9/9/2019 1:46:56 PM 
+9/9/2019 1:46:56 PM POC processing started.
+9/9/2019 1:46:56 PM Exception while processing RFQ download System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at HTTP_Pacific_Basin_Processor.Program.ReadConfig(String sConfigFile, PBRoutine _wrapper)
+9/9/2019 1:46:56 PM DNVGL HTTP Processor stopped
+9/9/2019 1:46:56 PM ====================================================
+9/9/2019 1:47:35 PM ================9/9/2019 1:47:35 PM================
+9/9/2019 1:47:35 PM DNVGL HTTP Processor started
+9/9/2019 1:47:35 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 1:47:35 PM 
+9/9/2019 1:47:35 PM Supplier: V10107
+9/9/2019 1:47:35 PM Process started for SM0372_WEB
+9/9/2019 1:47:35 PM No RFQ files found.
+9/9/2019 1:47:35 PM RFQ processing stopped.
+9/9/2019 1:47:35 PM No quote files found to process.
+9/9/2019 1:47:35 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 1:47:35 PM 
+9/9/2019 1:47:35 PM Supplier: V10107
+9/9/2019 1:47:35 PM Process started for SM0695_WEB
+9/9/2019 1:47:35 PM No RFQ files found.
+9/9/2019 1:47:35 PM RFQ processing stopped.
+9/9/2019 1:47:35 PM No quote files found to process.
+9/9/2019 1:47:35 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 1:47:35 PM 
+9/9/2019 1:47:35 PM Supplier: V10001
+9/9/2019 1:47:35 PM Process started for SM0668_WEB
+9/9/2019 1:47:35 PM No RFQ files found.
+9/9/2019 1:47:35 PM RFQ processing stopped.
+9/9/2019 1:47:35 PM 
+9/9/2019 1:47:35 PM Purchase Order processing started.
+9/9/2019 1:47:36 PM No PO files found.
+9/9/2019 1:47:36 PM Purchase Order processing stopped.
+9/9/2019 1:47:36 PM No quote files found to process.
+9/9/2019 1:47:36 PM 
+9/9/2019 1:47:36 PM POC processing started.
+9/9/2019 1:47:36 PM Exception while processing RFQ download System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at HTTP_Pacific_Basin_Processor.Program.ReadConfig(String sConfigFile, PBRoutine _wrapper)
+9/9/2019 1:47:36 PM DNVGL HTTP Processor stopped
+9/9/2019 1:47:36 PM ====================================================
+9/9/2019 1:49:03 PM ================9/9/2019 1:49:03 PM================
+9/9/2019 1:49:03 PM DNVGL HTTP Processor started
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V10107
+9/9/2019 1:49:03 PM Process started for SM0372_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V10107
+9/9/2019 1:49:03 PM Process started for SM0695_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V10001
+9/9/2019 1:49:03 PM Process started for SM0668_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Purchase Order processing started.
+9/9/2019 1:49:03 PM No PO files found.
+9/9/2019 1:49:03 PM Purchase Order processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V10001
+9/9/2019 1:49:03 PM Process started for SM0711_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Purchase Order processing started.
+9/9/2019 1:49:03 PM No PO files found.
+9/9/2019 1:49:03 PM Purchase Order processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V10001
+9/9/2019 1:49:03 PM Process started for SM0518_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Purchase Order processing started.
+9/9/2019 1:49:03 PM No PO files found.
+9/9/2019 1:49:03 PM Purchase Order processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V10001
+9/9/2019 1:49:03 PM Process started for SM3171_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Purchase Order processing started.
+9/9/2019 1:49:03 PM No PO files found.
+9/9/2019 1:49:03 PM Purchase Order processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V10889
+9/9/2019 1:49:03 PM Process started for SM0372_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V10889
+9/9/2019 1:49:03 PM Process started for SM3068_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V11920
+9/9/2019 1:49:03 PM Process started for SM0372_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM 
+9/9/2019 1:49:03 PM Supplier: V11920
+9/9/2019 1:49:03 PM Process started for SM3068_WEB
+9/9/2019 1:49:03 PM No RFQ files found.
+9/9/2019 1:49:03 PM RFQ processing stopped.
+9/9/2019 1:49:03 PM DNVGL HTTP Processor stopped
+9/9/2019 1:49:03 PM ====================================================
+9/9/2019 1:52:39 PM ================9/9/2019 1:52:39 PM================
+9/9/2019 1:52:39 PM DNVGL HTTP Processor started
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V10107
+9/9/2019 1:52:39 PM Process started for SM0372_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V10107
+9/9/2019 1:52:39 PM Process started for SM0695_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V10001
+9/9/2019 1:52:39 PM Process started for SM0668_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Purchase Order processing started.
+9/9/2019 1:52:39 PM No PO files found.
+9/9/2019 1:52:39 PM Purchase Order processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V10001
+9/9/2019 1:52:39 PM Process started for SM0711_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Purchase Order processing started.
+9/9/2019 1:52:39 PM No PO files found.
+9/9/2019 1:52:39 PM Purchase Order processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V10001
+9/9/2019 1:52:39 PM Process started for SM0518_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Purchase Order processing started.
+9/9/2019 1:52:39 PM No PO files found.
+9/9/2019 1:52:39 PM Purchase Order processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V10001
+9/9/2019 1:52:39 PM Process started for SM3171_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Purchase Order processing started.
+9/9/2019 1:52:39 PM No PO files found.
+9/9/2019 1:52:39 PM Purchase Order processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V10889
+9/9/2019 1:52:39 PM Process started for SM0372_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V10889
+9/9/2019 1:52:39 PM Process started for SM3068_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V11920
+9/9/2019 1:52:39 PM Process started for SM0372_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM 
+9/9/2019 1:52:39 PM Supplier: V11920
+9/9/2019 1:52:39 PM Process started for SM3068_WEB
+9/9/2019 1:52:39 PM No RFQ files found.
+9/9/2019 1:52:39 PM RFQ processing stopped.
+9/9/2019 1:52:39 PM DNVGL HTTP Processor stopped
+9/9/2019 1:52:39 PM ====================================================
+9/9/2019 1:59:45 PM ================9/9/2019 1:59:45 PM================
+9/9/2019 1:59:45 PM DNVGL HTTP Processor started
+9/9/2019 1:59:45 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 1:59:45 PM 
+9/9/2019 1:59:45 PM Supplier: V10107
+9/9/2019 1:59:45 PM Process started for SM0372_WEB
+9/9/2019 1:59:45 PM No RFQ files found.
+9/9/2019 1:59:45 PM RFQ processing stopped.
+9/9/2019 1:59:45 PM No quote files found to process.
+9/9/2019 1:59:45 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 1:59:45 PM 
+9/9/2019 1:59:45 PM Supplier: V10107
+9/9/2019 1:59:45 PM Process started for SM0695_WEB
+9/9/2019 1:59:45 PM No RFQ files found.
+9/9/2019 1:59:45 PM RFQ processing stopped.
+9/9/2019 1:59:45 PM No quote files found to process.
+9/9/2019 1:59:45 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 1:59:45 PM 
+9/9/2019 1:59:45 PM Supplier: V10001
+9/9/2019 1:59:45 PM Process started for SM0668_WEB
+9/9/2019 1:59:45 PM No RFQ files found.
+9/9/2019 1:59:45 PM RFQ processing stopped.
+9/9/2019 1:59:45 PM 
+9/9/2019 1:59:45 PM Purchase Order processing started.
+9/9/2019 1:59:45 PM No PO files found.
+9/9/2019 1:59:45 PM Purchase Order processing stopped.
+9/9/2019 1:59:45 PM No quote files found to process.
+9/9/2019 1:59:45 PM 
+9/9/2019 1:59:45 PM POC processing started.
+9/9/2019 1:59:45 PM Exception while processing RFQ download System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at HTTP_Pacific_Basin_Processor.Program.ReadConfig(String sConfigFile, PBRoutine _wrapper)
+9/9/2019 1:59:45 PM DNVGL HTTP Processor stopped
+9/9/2019 1:59:45 PM ====================================================
+9/9/2019 2:04:19 PM ================9/9/2019 2:04:19 PM================
+9/9/2019 2:04:19 PM DNVGL HTTP Processor started
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V10107
+9/9/2019 2:04:19 PM Process started for SM0372_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V10107
+9/9/2019 2:04:19 PM Process started for SM0695_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V10001
+9/9/2019 2:04:19 PM Process started for SM0668_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Purchase Order processing started.
+9/9/2019 2:04:19 PM No PO files found.
+9/9/2019 2:04:19 PM Purchase Order processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V10001
+9/9/2019 2:04:19 PM Process started for SM0711_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Purchase Order processing started.
+9/9/2019 2:04:19 PM No PO files found.
+9/9/2019 2:04:19 PM Purchase Order processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V10001
+9/9/2019 2:04:19 PM Process started for SM0518_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Purchase Order processing started.
+9/9/2019 2:04:19 PM No PO files found.
+9/9/2019 2:04:19 PM Purchase Order processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V10001
+9/9/2019 2:04:19 PM Process started for SM3171_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Purchase Order processing started.
+9/9/2019 2:04:19 PM No PO files found.
+9/9/2019 2:04:19 PM Purchase Order processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V10889
+9/9/2019 2:04:19 PM Process started for SM0372_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V10889
+9/9/2019 2:04:19 PM Process started for SM3068_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V11920
+9/9/2019 2:04:19 PM Process started for SM0372_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM 
+9/9/2019 2:04:19 PM Supplier: V11920
+9/9/2019 2:04:19 PM Process started for SM3068_WEB
+9/9/2019 2:04:19 PM No RFQ files found.
+9/9/2019 2:04:19 PM RFQ processing stopped.
+9/9/2019 2:04:19 PM DNVGL HTTP Processor stopped
+9/9/2019 2:04:19 PM ====================================================
+9/9/2019 2:07:39 PM ================9/9/2019 2:07:39 PM================
+9/9/2019 2:07:39 PM DNVGL HTTP Processor started
+9/9/2019 2:07:39 PM 
+9/9/2019 2:07:39 PM Supplier: V10107
+9/9/2019 2:07:39 PM Process started for SM0372_WEB
+9/9/2019 2:07:39 PM No RFQ files found.
+9/9/2019 2:07:39 PM RFQ processing stopped.
+9/9/2019 2:07:39 PM 
+9/9/2019 2:07:39 PM Supplier: V10107
+9/9/2019 2:07:39 PM Process started for SM0695_WEB
+9/9/2019 2:07:39 PM No RFQ files found.
+9/9/2019 2:07:40 PM RFQ processing stopped.
+9/9/2019 2:07:40 PM 
+9/9/2019 2:07:40 PM Supplier: V10001
+9/9/2019 2:07:40 PM Process started for SM0668_WEB
+9/9/2019 2:07:40 PM No RFQ files found.
+9/9/2019 2:07:40 PM RFQ processing stopped.
+9/9/2019 2:07:40 PM 
+9/9/2019 2:07:40 PM Purchase Order processing started.
+9/9/2019 2:07:40 PM No PO files found.
+9/9/2019 2:07:40 PM Purchase Order processing stopped.
+9/9/2019 2:07:40 PM 
+9/9/2019 2:07:40 PM Supplier: V10001
+9/9/2019 2:07:40 PM Process started for SM0711_WEB
+9/9/2019 2:07:40 PM No RFQ files found.
+9/9/2019 2:07:40 PM RFQ processing stopped.
+9/9/2019 2:07:40 PM 
+9/9/2019 2:07:40 PM Purchase Order processing started.
+9/9/2019 2:07:40 PM No PO files found.
+9/9/2019 2:07:40 PM Purchase Order processing stopped.
+9/9/2019 2:07:40 PM 
+9/9/2019 2:07:40 PM Supplier: V10001
+9/9/2019 2:07:40 PM Process started for SM0518_WEB
+9/9/2019 2:07:40 PM No RFQ files found.
+9/9/2019 2:07:40 PM RFQ processing stopped.
+9/9/2019 2:07:40 PM 
+9/9/2019 2:07:41 PM Purchase Order processing started.
+9/9/2019 2:07:41 PM No PO files found.
+9/9/2019 2:07:41 PM Purchase Order processing stopped.
+9/9/2019 2:07:41 PM 
+9/9/2019 2:07:41 PM Supplier: V10001
+9/9/2019 2:07:41 PM Process started for SM3171_WEB
+9/9/2019 2:07:41 PM No RFQ files found.
+9/9/2019 2:07:41 PM RFQ processing stopped.
+9/9/2019 2:07:41 PM 
+9/9/2019 2:07:41 PM Purchase Order processing started.
+9/9/2019 2:07:41 PM No PO files found.
+9/9/2019 2:07:41 PM Purchase Order processing stopped.
+9/9/2019 2:07:41 PM 
+9/9/2019 2:07:41 PM Supplier: V10889
+9/9/2019 2:07:41 PM Process started for SM0372_WEB
+9/9/2019 2:07:41 PM No RFQ files found.
+9/9/2019 2:07:41 PM RFQ processing stopped.
+9/9/2019 2:07:41 PM 
+9/9/2019 2:07:41 PM Supplier: V10889
+9/9/2019 2:07:41 PM Process started for SM3068_WEB
+9/9/2019 2:07:41 PM No RFQ files found.
+9/9/2019 2:07:41 PM RFQ processing stopped.
+9/9/2019 2:07:41 PM 
+9/9/2019 2:07:41 PM Supplier: V11920
+9/9/2019 2:07:41 PM Process started for SM0372_WEB
+9/9/2019 2:07:41 PM No RFQ files found.
+9/9/2019 2:07:41 PM RFQ processing stopped.
+9/9/2019 2:07:41 PM 
+9/9/2019 2:07:41 PM Supplier: V11920
+9/9/2019 2:07:41 PM Process started for SM3068_WEB
+9/9/2019 2:07:41 PM No RFQ files found.
+9/9/2019 2:07:41 PM RFQ processing stopped.
+9/9/2019 2:07:42 PM DNVGL HTTP Processor stopped
+9/9/2019 2:07:42 PM ====================================================
+9/9/2019 2:20:19 PM ================9/9/2019 2:20:19 PM================
+9/9/2019 2:20:19 PM DNVGL HTTP Processor started
+9/9/2019 2:20:19 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:19 PM 
+9/9/2019 2:20:19 PM Supplier: V10107
+9/9/2019 2:20:19 PM Process started for SM0372_WEB
+9/9/2019 2:20:19 PM No RFQ files found.
+9/9/2019 2:20:19 PM RFQ processing stopped.
+9/9/2019 2:20:19 PM No quote files found to process.
+9/9/2019 2:20:19 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:19 PM 
+9/9/2019 2:20:19 PM Supplier: V10107
+9/9/2019 2:20:19 PM Process started for SM0695_WEB
+9/9/2019 2:20:19 PM No RFQ files found.
+9/9/2019 2:20:19 PM RFQ processing stopped.
+9/9/2019 2:20:19 PM No quote files found to process.
+9/9/2019 2:20:19 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:19 PM 
+9/9/2019 2:20:19 PM Supplier: V10001
+9/9/2019 2:20:19 PM Process started for SM0668_WEB
+9/9/2019 2:20:19 PM No RFQ files found.
+9/9/2019 2:20:19 PM RFQ processing stopped.
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Purchase Order processing started.
+9/9/2019 2:20:20 PM No PO files found.
+9/9/2019 2:20:20 PM Purchase Order processing stopped.
+9/9/2019 2:20:20 PM No quote files found to process.
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM POC processing started.
+9/9/2019 2:20:20 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Supplier: V10001
+9/9/2019 2:20:20 PM Process started for SM0711_WEB
+9/9/2019 2:20:20 PM No RFQ files found.
+9/9/2019 2:20:20 PM RFQ processing stopped.
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Purchase Order processing started.
+9/9/2019 2:20:20 PM No PO files found.
+9/9/2019 2:20:20 PM Purchase Order processing stopped.
+9/9/2019 2:20:20 PM No quote files found to process.
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM POC processing started.
+9/9/2019 2:20:20 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Supplier: V10001
+9/9/2019 2:20:20 PM Process started for SM0518_WEB
+9/9/2019 2:20:20 PM No RFQ files found.
+9/9/2019 2:20:20 PM RFQ processing stopped.
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Purchase Order processing started.
+9/9/2019 2:20:20 PM No PO files found.
+9/9/2019 2:20:20 PM Purchase Order processing stopped.
+9/9/2019 2:20:20 PM No quote files found to process.
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM POC processing started.
+9/9/2019 2:20:20 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Supplier: V10001
+9/9/2019 2:20:20 PM Process started for SM3171_WEB
+9/9/2019 2:20:20 PM No RFQ files found.
+9/9/2019 2:20:20 PM RFQ processing stopped.
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Purchase Order processing started.
+9/9/2019 2:20:20 PM No PO files found.
+9/9/2019 2:20:20 PM Purchase Order processing stopped.
+9/9/2019 2:20:20 PM No quote files found to process.
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM POC processing started.
+9/9/2019 2:20:20 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Supplier: V10889
+9/9/2019 2:20:20 PM Process started for SM0372_WEB
+9/9/2019 2:20:20 PM No RFQ files found.
+9/9/2019 2:20:20 PM RFQ processing stopped.
+9/9/2019 2:20:20 PM No quote files found to process.
+9/9/2019 2:20:20 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Supplier: V10889
+9/9/2019 2:20:20 PM Process started for SM3068_WEB
+9/9/2019 2:20:20 PM No RFQ files found.
+9/9/2019 2:20:20 PM RFQ processing stopped.
+9/9/2019 2:20:20 PM No quote files found to process.
+9/9/2019 2:20:20 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Supplier: V11920
+9/9/2019 2:20:20 PM Process started for SM0372_WEB
+9/9/2019 2:20:20 PM No RFQ files found.
+9/9/2019 2:20:20 PM RFQ processing stopped.
+9/9/2019 2:20:20 PM No quote files found to process.
+9/9/2019 2:20:20 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:20 PM 
+9/9/2019 2:20:20 PM Supplier: V11920
+9/9/2019 2:20:20 PM Process started for SM3068_WEB
+9/9/2019 2:20:20 PM No RFQ files found.
+9/9/2019 2:20:20 PM RFQ processing stopped.
+9/9/2019 2:20:20 PM No quote files found to process.
+9/9/2019 2:20:20 PM DNVGL HTTP Processor stopped
+9/9/2019 2:20:20 PM ====================================================
+9/9/2019 2:20:52 PM ================9/9/2019 2:20:52 PM================
+9/9/2019 2:20:52 PM DNVGL HTTP Processor started
+9/9/2019 2:20:52 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:52 PM 
+9/9/2019 2:20:52 PM Supplier: V10107
+9/9/2019 2:20:52 PM Process started for SM0372_WEB
+9/9/2019 2:20:52 PM No RFQ files found.
+9/9/2019 2:20:52 PM RFQ processing stopped.
+9/9/2019 2:20:52 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:52 PM 
+9/9/2019 2:20:52 PM Supplier: V10107
+9/9/2019 2:20:52 PM Process started for SM0695_WEB
+9/9/2019 2:20:52 PM No RFQ files found.
+9/9/2019 2:20:52 PM RFQ processing stopped.
+9/9/2019 2:20:52 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:52 PM 
+9/9/2019 2:20:52 PM Supplier: V10001
+9/9/2019 2:20:52 PM Process started for SM0668_WEB
+9/9/2019 2:20:52 PM No RFQ files found.
+9/9/2019 2:20:52 PM RFQ processing stopped.
+9/9/2019 2:20:52 PM 
+9/9/2019 2:20:52 PM Purchase Order processing started.
+9/9/2019 2:20:52 PM No PO files found.
+9/9/2019 2:20:52 PM Purchase Order processing stopped.
+9/9/2019 2:20:52 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:52 PM 
+9/9/2019 2:20:52 PM Supplier: V10001
+9/9/2019 2:20:52 PM Process started for SM0711_WEB
+9/9/2019 2:20:52 PM No RFQ files found.
+9/9/2019 2:20:52 PM RFQ processing stopped.
+9/9/2019 2:20:52 PM 
+9/9/2019 2:20:52 PM Purchase Order processing started.
+9/9/2019 2:20:52 PM No PO files found.
+9/9/2019 2:20:52 PM Purchase Order processing stopped.
+9/9/2019 2:20:52 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:52 PM 
+9/9/2019 2:20:52 PM Supplier: V10001
+9/9/2019 2:20:52 PM Process started for SM0518_WEB
+9/9/2019 2:20:52 PM No RFQ files found.
+9/9/2019 2:20:52 PM RFQ processing stopped.
+9/9/2019 2:20:52 PM 
+9/9/2019 2:20:52 PM Purchase Order processing started.
+9/9/2019 2:20:52 PM No PO files found.
+9/9/2019 2:20:52 PM Purchase Order processing stopped.
+9/9/2019 2:20:52 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:52 PM 
+9/9/2019 2:20:52 PM Supplier: V10001
+9/9/2019 2:20:52 PM Process started for SM3171_WEB
+9/9/2019 2:20:52 PM No RFQ files found.
+9/9/2019 2:20:52 PM RFQ processing stopped.
+9/9/2019 2:20:53 PM 
+9/9/2019 2:20:53 PM Purchase Order processing started.
+9/9/2019 2:20:53 PM No PO files found.
+9/9/2019 2:20:53 PM Purchase Order processing stopped.
+9/9/2019 2:20:53 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:53 PM 
+9/9/2019 2:20:53 PM Supplier: V10889
+9/9/2019 2:20:53 PM Process started for SM0372_WEB
+9/9/2019 2:20:53 PM No RFQ files found.
+9/9/2019 2:20:53 PM RFQ processing stopped.
+9/9/2019 2:20:53 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:53 PM 
+9/9/2019 2:20:53 PM Supplier: V10889
+9/9/2019 2:20:53 PM Process started for SM3068_WEB
+9/9/2019 2:20:53 PM No RFQ files found.
+9/9/2019 2:20:53 PM RFQ processing stopped.
+9/9/2019 2:20:53 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:53 PM 
+9/9/2019 2:20:53 PM Supplier: V11920
+9/9/2019 2:20:53 PM Process started for SM0372_WEB
+9/9/2019 2:20:53 PM No RFQ files found.
+9/9/2019 2:20:53 PM RFQ processing stopped.
+9/9/2019 2:20:53 PM Exception in Initialise: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PacificRoutine.PBRoutine.LoadAppsettings()
+9/9/2019 2:20:53 PM 
+9/9/2019 2:20:53 PM Supplier: V11920
+9/9/2019 2:20:53 PM Process started for SM3068_WEB
+9/9/2019 2:20:53 PM No RFQ files found.
+9/9/2019 2:20:53 PM RFQ processing stopped.
+9/9/2019 2:20:53 PM DNVGL HTTP Processor stopped
+9/9/2019 2:20:53 PM ====================================================
+9/9/2019 2:21:11 PM ================9/9/2019 2:21:11 PM================
+9/9/2019 2:21:11 PM DNVGL HTTP Processor started
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V10107
+9/9/2019 2:21:11 PM Process started for SM0372_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V10107
+9/9/2019 2:21:11 PM Process started for SM0695_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V10001
+9/9/2019 2:21:11 PM Process started for SM0668_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Purchase Order processing started.
+9/9/2019 2:21:11 PM No PO files found.
+9/9/2019 2:21:11 PM Purchase Order processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V10001
+9/9/2019 2:21:11 PM Process started for SM0711_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Purchase Order processing started.
+9/9/2019 2:21:11 PM No PO files found.
+9/9/2019 2:21:11 PM Purchase Order processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V10001
+9/9/2019 2:21:11 PM Process started for SM0518_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Purchase Order processing started.
+9/9/2019 2:21:11 PM No PO files found.
+9/9/2019 2:21:11 PM Purchase Order processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V10001
+9/9/2019 2:21:11 PM Process started for SM3171_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Purchase Order processing started.
+9/9/2019 2:21:11 PM No PO files found.
+9/9/2019 2:21:11 PM Purchase Order processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V10889
+9/9/2019 2:21:11 PM Process started for SM0372_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V10889
+9/9/2019 2:21:11 PM Process started for SM3068_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V11920
+9/9/2019 2:21:11 PM Process started for SM0372_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM 
+9/9/2019 2:21:11 PM Supplier: V11920
+9/9/2019 2:21:11 PM Process started for SM3068_WEB
+9/9/2019 2:21:11 PM No RFQ files found.
+9/9/2019 2:21:11 PM RFQ processing stopped.
+9/9/2019 2:21:11 PM DNVGL HTTP Processor stopped
+9/9/2019 2:21:11 PM ====================================================

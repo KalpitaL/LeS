@@ -1,0 +1,1122 @@
+@media print {
+    .noprint {
+        display: none;
+    }
+
+    .print {
+        display: block;
+    }
+
+    .context {
+        width: 100% !important;
+        margin-top: 0 !important;
+    }
+
+    .numberSizing {
+        font-size:large;
+    }
+}
+
+@media screen {
+    .noscreen {
+        display: none;
+    }
+
+    .numberSizing {
+        font-size:x-large;
+    }
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    float: left;
+}
+
+body, input, textarea,
+.igdt_Control {
+    font-family: "Trebuchet MS", Helvetica, sans-serif !important;
+}
+
+.progressInfo {
+    position: fixed;
+    left: calc(50% - 70px);
+    top: calc(50% - 70px);
+    background: white;
+    box-shadow: 0px 2px 5px #b2b2b2;
+    width: 140px;
+    height: 140px;
+    z-index: 100;
+    text-align: center;
+}
+
+img {
+    border: none;
+}
+
+.txtReadOnly {
+    display: inline-block;
+}
+
+.validatorCalloutExtender {
+    background: yellow;
+}
+
+.dataOrDaysPicker {
+    float: left;
+    width: 100%;
+}
+
+    .dataOrDaysPicker input {
+        width: calc(100% - 40px) !important;
+    }
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.datePicker_textBox {
+    float: left;
+    width: 75px;
+}
+
+.datePicker_image {
+    float: left;
+    margin-top: 6px;
+    margin-left: 5px;
+}
+
+.totalBorder {
+    border-top: solid 1px #8b8b8b;
+}
+
+.inputError {
+    float: left;
+    margin-top: 3px;
+    height: 20px;
+    width: 20px;
+    font-family: Goudy Stout;
+    font-size: large;
+    text-align: center;
+    background: red;
+    color: Black;
+}
+
+.inputError2 {
+    height: 20px;
+    background: red;
+}
+
+.GridLink {
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+
+.GridLinkUrgent {
+    font-size: medium;
+    font-weight: bold;
+    color: red;
+}
+
+.GridLinkHeader {
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+
+.GridText {
+    font-weight: normal;
+    font-size: medium;
+}
+
+.GridCaption table {
+    width: 100% !important;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.GridCaption td {
+    padding: 0 5px !important;
+    line-height: 30px;
+}
+
+.GridCaption {
+    margin: 0 5px;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+.VersionLabel {
+    font-size: small;
+}
+
+.TextboxSearch {
+    margin-left: 5px;
+    width: 159px;
+}
+
+
+.mainpage, .header, .whiteOverHeader, .loginPage, .blueLineUnderHeader {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.loginLabel, .loginInput {
+    float: left;
+    margin-bottom: 10px;
+}
+
+.loginLabel {
+    width: 120px;
+    padding-right: 10px;
+    clear: both;
+}
+
+.loginInput {
+    width: 270px;
+}
+
+.loginButtonBox {
+    clear: both;
+}
+
+.loginButton {
+    width: 50px;
+    margin-left: 222px;
+    clear: both;
+}
+
+
+.logoBox {
+    height: 121px;
+    float: left;
+    text-align: center;
+}
+
+.logoImage {
+    height: 120px;
+    width: 200px;
+}
+
+.loginContent {
+    margin-top: 15%;
+    margin-left: 35%;
+}
+
+    .loginContent img {
+        width: 30%;
+    }
+
+.loginBox {
+    padding: 20px;
+}
+
+.loginContent h1 {
+    text-align: center;
+    color: #262A33;
+    white-space: nowrap;
+}
+
+.connectLogo {
+    width: 450px !important;
+}
+
+.blueLineUnderHeader {
+    position: fixed;
+    top: 120px;
+    height: 5px;
+    float: left;
+}
+
+.menu, .MenuCompany, .MainFooter, .blueLineUnderHeader, .VersionLabel {
+    background-color: #262A33;
+}
+
+.GridHeader {
+    background-color: #efefef;
+    border-bottom: 1px solid #8b8b8b;
+}
+
+.VersionLabel {
+    background-color: #262A33;
+}
+
+.UrgentLabel {
+    color: red;
+    font-weight: bold;
+}
+
+.quotationLineBackground1 {
+    background: #ffffff;
+}
+
+.quotationLineBackground2 {
+    background: #efefef;
+}
+
+.EquipmentHandlingDimensionRow {
+    width: 100%;
+    padding-bottom: 10px;
+    float: left;
+}
+
+.EquipmentHandlingDimensionBlock {
+    float: left;
+    width: 20%;
+}
+
+.EquipmentHandlingDimensionBlockSpacer {
+    margin-right: 6px;
+}
+
+.EquipmentHandlingDimensionControl {
+    float: left;
+    width: 100%;
+}
+
+
+
+.header {
+    float: left;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    width: calc(100%);
+    height: 121px;
+    background: #ffffff; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, #ffffff, #D2EEF7);
+    background: -o-linear-gradient(right, #ffffff, #D2EEF7);
+    background: -moz-linear-gradient(right, #ffffff, #D2EEF7);
+    background: linear-gradient(to right, #ffffff, #D2EEF7);
+}
+
+.overlay {
+    position: absolute;
+    float: right;
+    width: calc(100%);
+    height: 121px;
+    background: #ffffff; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, rgba(255, 255, 255, 1), rgba(210, 238, 247, 0.40));
+    background: -o-linear-gradient(right, rgba(255, 255, 255, 1), rgba(210, 238, 247, 0.40));
+    background: -moz-linear-gradient(right, rgba(255, 255, 255, 1), rgba(210, 238, 247, 0.40));
+    background: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(210, 238, 247, 0.40));
+}
+
+.headerImg {
+    width: calc(100% - 250px);
+    height: 121px;
+    float: right;
+    overflow: hidden;
+    background: #ffffff; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left, #ffffff, #D2EEF7);
+    background: -o-linear-gradient(right, #ffffff, #D2EEF7);
+    background: -moz-linear-gradient(right, #ffffff, #D2EEF7);
+    background: linear-gradient(to right, #ffffff, #D2EEF7);
+}
+
+    .headerImg img {
+        float: right;
+    }
+
+.headLine {
+    clear: both;
+    width: 100%;
+    text-align: center;
+}
+
+.actionButton {
+    padding: 5px;
+    font-weight: bold;
+}
+
+/* width of tree and related*/
+.menu, .menuTree, .logoBox, .menuFiller {
+    width: 250px;
+}
+
+.menu {
+    float: left;
+    height: 100%;
+    position: fixed;
+    overflow: hidden;
+    top: 120px;
+    margin: 0px 1px 0px 0px;
+}
+
+
+.menuFiller /* div with same width as menu to move content to the right because the fixed position menu does not move content to the right */ {
+    float: left;
+    height: 120px;
+    position: fixed;
+    overflow: hidden;
+    top: 0px;
+    z-index: 3;
+    /*background-color: #ffffff;*/
+}
+
+.menuTree {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin-bottom: 225px; /* height of logoImage + panelSearch + menuCompany */
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.MenuCompany {
+    position: absolute;
+    height: 110px;
+    width: 250px;
+    bottom: 110px;
+    left: 0px;
+    margin: 0px 1px 0px 0px;
+}
+
+.MainFooter {
+    float: left;
+    height: 38px;
+    width: calc(100% - 250px);
+    position: fixed;
+    overflow: auto;
+    overflow-x: hidden;
+    z-index: 300;
+    bottom: 0px;
+    left: 250px;
+    margin: 0px 1px 0px 0px;
+}
+
+
+.doubleTextBox, .doubleDiv {
+    float: left;
+    text-align: right;
+}
+
+.context {
+    float: right;
+    width: calc(100% - 260px);
+    margin: 100px 10px 10px 10px;
+    padding-bottom: 35px;
+}
+
+.qlist {
+    width: 100%;
+    float: left;
+    margin-bottom: 35px;
+}
+
+.qdetail {
+    width: 100%;
+    float: left;
+}
+
+.detailPanels, .qlineEditor_totals, .qlineEditor_remarkAndDelivery {
+    float: left;
+    width: calc(100% - 8px);
+    padding-top: 5px;
+}
+
+
+.qlineEditor_remarkAndDelivery {
+    padding-top: 10px;
+}
+
+    .qlineEditor_remarkAndDelivery input {
+        width: calc(100% - 13px);
+    }
+
+.buttonBar {
+    padding: 5px 0;
+}
+
+    .buttonBar input[type=submit] {
+        margin: 0 0 5px 0;
+    }
+
+.buttonBarRight button, .buttonBarRight input[type=button], .buttonBarRight input[type=submit] {
+    float: right;
+    margin: 5px;
+    white-space: nowrap;
+}
+
+.buttonBarRight2 {
+    width: 100%;
+    float: left;
+}
+
+
+    .buttonBarRight2 input[type=submit] {
+        float: right;
+        margin: 5px 0 5px 5px;
+        white-space: nowrap;
+    }
+
+.buttonBarSpec input[type=submit] {
+    float: left;
+    margin-left: calc(50% - 44px);
+}
+
+.supplierBar {
+    line-height: 34px;
+    float: left;
+    white-space: nowrap;
+}
+
+.bottomPlaceHolder {
+    float: left;
+    height: 50px;
+    width: 100%;
+}
+
+.readonly {
+    background: #efefef;
+}
+
+.detailPanels {
+    float: left;
+    padding: 10px 0;
+    margin: 0 10px;
+    background: white;
+    border-bottom: solid 2px #dddddd;
+}
+
+.detailPanelsSpec {
+    float: left;
+    padding: 10px 0;
+    margin: 0 10px;
+    background: white;
+}
+
+
+.margin {
+    margin: 10px;
+}
+
+
+.remarkTextBox {
+    width: calc(100% - 10px);
+    max-width: calc(100% - 10px) !important;
+    padding: 5px;
+    min-height: 50px;
+}
+
+.col3_1 {
+    float: left;
+    width: 33%;
+}
+
+.col3_2 {
+    float: left;
+    width: calc(33% - 10px);
+    padding: 0 5px;
+}
+
+.col3_3 {
+    float: right;
+    width: 33%;
+}
+
+.col3_3_spec {
+    float: right;
+    width: 25%;
+}
+
+.HeaderPurNoAndVessel {
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 22px;
+    float: right;
+}
+
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+    font-size: medium;
+}
+
+    .GridCaption caption, .table caption {
+        margin: 5px 10px;
+    }
+
+    .table thead tr {
+        background-color: #efefef;
+        border-bottom: 1px solid #8b8b8b;
+        height: 30px;
+    }
+
+    .table tr {
+        width: 100%;
+    }
+
+    .table th {
+        text-align: left;
+    }
+
+    .table td:last-child {
+        padding-right: 5px;
+    }
+
+.col2_1, .col2_2 {
+    width: calc(50% - 5px);
+    float: left;
+}
+
+.col2_1 {
+    padding-right: 5px;
+}
+
+.col2_2 {
+    padding-left: 5px;
+}
+
+    .col2_1 input[type=text], .col2_2 input[type=text], .col2_1 textarea, .col2_2 textarea, .col2_1 select, .col2_2 select {
+        width: calc(100% - 5px);
+    }
+
+.lineItem_totalBox table {
+    width: 100% !important;
+}
+
+.col4_1, .col4_2, .col4_3, .col4_4 {
+    float: left;
+    width: 25%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.NoBullet {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-top: 0;
+}
+
+.quotationLinesEditor {
+    width: 100%;
+    float: left;
+    padding-bottom: 10px;
+}
+
+    .quotationLinesEditor input, .quotationLinesEditor select {
+        margin-bottom: 5px;
+    }
+
+.quotationLinesEditorEdit {
+    width: 100%;
+    font-size: medium;
+}
+
+    .quotationLinesEditorEdit table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    .quotationLinesEditorEdit.tr1, .quotationLinesEditorEdit.tr2 {
+        width: 100%;
+    }
+
+    .quotationLinesEditorEdit td {
+        vertical-align: top;
+    }
+
+    .quotationLinesEditorEdit input, .quotationLinesEditorEdit select {
+        width: calc(100% - 10px);
+    }
+
+    .quotationLinesEditorEdit select {
+        height: 28px !important;
+    }
+
+.row {
+    width: 100%;
+    float: left;
+}
+
+.lineItem_labelAndField {
+    width: 100%;
+}
+
+.lineItem_labelAndFieldSpan {
+    float: left;
+    width: 50%;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+    .lineItem_labelAndFieldSpan input {
+        float: left;
+        width: calc(100% - 30px) !important;
+    }
+
+    .lineItem_labelAndFieldSpan select {
+        float: left;
+        width: calc(100% - 24px) !important;
+    }
+
+.lineItem_totalBox {
+    margin-top: 5px;
+    width: 33%;
+    float: right;
+    border-top: solid 1px #8b8b8b;
+    border-bottom: solid 1px #8b8b8b;
+}
+
+.lineItem_totalBox2 {
+    margin-top: 5px;
+    width: 100%;
+    float: right;
+    border-top: solid 1px #8b8b8b;
+    border-bottom: solid 1px #8b8b8b;
+}
+
+    .lineItem_totalBox2 > div {
+        width: 100%;
+        float: left;
+    }
+
+.blackLine {
+    border: solid 1px black;
+}
+
+.lineItem_totalLabels {
+    float: left;
+    width: 40%;
+    padding: 2px 0;
+}
+
+.lineItem_totalValues {
+    float: right;
+    width: 40%;
+    text-align: right;
+    padding: 2px 0;
+}
+
+    .lineItem_totalValues input {
+        width: 100%;
+    }
+
+.lineItem_totalCurrency {
+    float: left;
+    width: 18%;
+}
+
+.logotop {
+    background: lightyellow;
+    border: solid 0px black;
+}
+
+.totalLabel {
+    font-size: medium;
+    float: none;
+}
+
+.autocomplete_completionListElement {
+    margin: 0px !important;
+    border: buttonshadow;
+    border-width: 1px;
+    border-style: solid;
+    cursor: default;
+    overflow: auto;
+    max-height: 400px;
+    width: 400px !important;
+    position: fixed !important;
+    float: left;
+    top: 200px;
+    text-align: left;
+    list-style-type: none;
+    background-color: inherit;
+    color: windowtext;
+    white-space: nowrap;
+    font-size: 12px;
+}
+
+.autocomplete_highlightedListItem {
+    margin: 0px;
+    padding: 1px;
+    background-color: #ffff99;
+    color: black;
+}
+
+.autocomplete_listItem {
+    padding: 1px;
+    background-color: window;
+    color: windowtext;
+}
+
+.imageContainer {
+    position: absolute;
+    right: 20px;
+    top: 216px;
+    z-index: 0;
+}
+
+.imageButton {
+    margin-top: 6px;
+    cursor: pointer;
+}
+
+.componentSelectorTree {
+}
+
+    .componentSelectorTree .node {
+        margin-left: 3px;
+    }
+
+    .componentSelectorTree td img {
+        vertical-align: bottom;
+    }
+
+    .componentSelectorTree td div {
+        height: 20px !important;
+    }
+
+.noTextBox {
+    width: 80px;
+}
+
+.jobDetails {
+    padding-top: 8px;
+}
+
+.jobMultilineTextBox {
+    width: 760px;
+    height: 120px;
+}
+
+.sparePartLines, .resourceLines {
+    width: 100%;
+    font-size: medium;
+    border-collapse: collapse;
+}
+
+    .sparePartLines TD, .resourceLines TD {
+        padding: 5px;
+    }
+
+.confirmRow {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    float: left;
+}
+
+    .confirmRow input, .confirmRow textarea {
+        width: calc(100% - 10px);
+    }
+
+        .confirmRow input[type=submit] {
+            width: auto;
+        }
+
+.confirmLabel {
+    width: 100%;
+    float: left;
+}
+
+.confirmButton {
+    float: right;
+    margin-bottom: 10px;
+}
+
+.confirmMultiLineText {
+    width: calc(100% - 10px);
+    max-width: calc(100% - 10px);
+    height: 80px;
+}
+
+.inputLabel {
+    font-weight: bold;
+}
+
+.td2 {
+    width: 2%;
+    max-width: 2%;
+    overflow: hidden;
+}
+
+.td6 {
+    width: 6%;
+    max-width: 6%;
+    overflow: hidden;
+}
+
+.td6 {
+    width: 7%;
+    max-width: 7%;
+    overflow: hidden;
+}
+
+.td12 {
+    width: 12%;
+    max-width: 12%;
+    overflow: hidden;
+}
+
+.td5 {
+    width: 5%;
+    max-width: 5%;
+    overflow: hidden;
+}
+
+.td10 {
+    max-width: 10%;
+    width: 10%;
+    overflow: hidden;
+}
+
+.td15 {
+    width: 15%;
+    max-width: 15%;
+    overflow: hidden;
+}
+
+.td20 {
+    width: 20%;
+    max-width: 20%;
+    overflow: hidden;
+}
+
+.td25 {
+    width: 25%;
+    max-width: 25%;
+    overflow: hidden;
+}
+
+.td30 {
+    width: 30%;
+    max-width: 30%;
+    overflow: hidden;
+}
+
+.td35 {
+    width: 35%;
+    max-width: 35%;
+    overflow: hidden;
+}
+
+.td40 {
+    width: 40%;
+    max-width: 40%;
+    overflow: hidden;
+}
+
+.td45 {
+    width: 45%;
+    max-width: 45%;
+    overflow: hidden;
+}
+
+.td50 {
+    width: 50%;
+    max-width: 50%;
+    overflow: hidden;
+}
+
+.td55 {
+    width: 55%;
+    max-width: 55%;
+    overflow: hidden;
+}
+
+.td60 {
+    width: 60%;
+    max-width: 60%;
+    overflow: hidden;
+}
+
+.td65 {
+    width: 65%;
+    max-width: 65%;
+    overflow: hidden;
+}
+
+.td70 {
+    width: 70%;
+    max-width: 70%;
+    overflow: hidden;
+}
+
+.td75 {
+    width: 75%;
+    max-width: 75%;
+    overflow: hidden;
+}
+
+.td80 {
+    width: 80%;
+    max-width: 80%;
+    overflow: hidden;
+}
+
+.td85 {
+    width: 85%;
+    max-width: 85%;
+    overflow: hidden;
+}
+
+.td90 {
+    width: 90%;
+    max-width: 90%;
+    overflow: hidden;
+}
+
+.td95 {
+    width: 95%;
+    max-width: 95%;
+    overflow: hidden;
+}
+
+.td100 {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.rightAlign {
+    text-align: right !important;
+}
+
+.menuSearch {
+    margin: 10px 0 10px 0;
+}
+
+input, textarea {
+    border: 1px solid #b2b2b2;
+    padding: 5px 2px;
+}
+
+    input[readonly], textarea[readonly], input[disabled], textarea[disabled], select[disabled] {
+        background-color: #EFEFEF;
+        color: #343434;
+    }
+
+select {
+    border: 1px solid #b2b2b2;
+    padding: 4px 2px 4px 2px;
+    background-color: #ffffff;
+}
+
+input[type=submit] {
+    padding: 5px;
+}
+
+.menuTree > div table {
+    padding: 15px 0;
+}
+
+.menuTree > div > div {
+    background-color: #2D2F40;
+}
+
+INPUT:focus, SELECT:focus, TEXTAREA:focus {
+    border: 1px solid #45C8DC;
+}
+
+INPUT[readonly]:focus, SELECT[readonly]:focus, TEXTAREA[readonly]:focus {
+    border: 1px solid #b2b2b2;
+}
+
+a {
+    color: #45C8DC;
+}
+
+
+.addBtn {
+    border: 1px solid #b2b2b2;
+    color: #262A33;
+    padding: 5px 10px 5px 25px !important;
+    background-image: url("../Images/add_pimgpsh_fullsize_distr.png");
+    background-position-y: 7px;
+    background-position-x: 5px;
+    background-repeat: no-repeat;
+    background-color: #dddddd!important;
+    background-size: 12px;
+}
+
+.calcBtn {
+    border: 1px solid #b2b2b2;
+    color: #262A33;
+    padding: 5px 10px 5px 25px !important;
+    background-image: url("../Images/calc_pimgpsh_fullsize_distr.png");
+    background-position-y: 7px;
+    background-position-x: 5px;
+    background-repeat: no-repeat;
+    background-color: #dddddd;
+    background-size: 12px;
+}
+
+.declineBtn {
+    border: 1px solid #b2b2b2;
+    color: #262A33;
+    padding: 5px 10px 5px 25px !important;
+    background-image: url("../Images/decline_pimgpsh_fullsize_distr.png");
+    background-position-y: 7px;
+    background-position-x: 5px;
+    background-repeat: no-repeat;
+    background-color: #dddddd;
+    background-size: 12px;
+}
+
+.saveBtn {
+    border: 1px solid #b2b2b2;
+    color: #262A33;
+    padding: 5px 10px 5px 25px !important;
+    background-image: url("../Images/save_pimgpsh_fullsize_distr.png");
+    background-position-y: 7px;
+    background-position-x: 5px;
+    background-repeat: no-repeat;
+    background-color: #dddddd;
+    background-size: 12px;
+}
+
+.sendBtn {
+    border: 1px solid #b2b2b2;
+    color: #262A33;
+    padding: 5px 10px 5px 25px !important;
+    background-image: url("../Images/send_pimgpsh_fullsize_distr.png");
+    background-position-y: 7px;
+    background-position-x: 5px;
+    background-repeat: no-repeat;
+    background-color: #dddddd;
+    background-size: 14px;
+}
+
+.iconImg {
+    width: 10px;
+}
+
+.menuTreeNodes a {
+    color: #ffffff;
+}
+
+.ajax__calendar_today {
+    background-color: #dddddd;
+}
+
+.searchDropdown table {
+    border: none;
+}
+
+    .searchDropdown table:hover {
+        border: none;
+        background-color: #262A33;
+    }
+
+    .searchDropdown table tr {
+        background-color: #ffffff;
+    }
+
+    .searchDropdown table input {
+        background-color: #ffffff;
+    }

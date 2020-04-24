@@ -1,0 +1,41 @@
+12/4/2019 10:03:57 AM ================12/4/2019 10:03:57 AM================
+12/4/2019 10:03:57 AM DNVGL RFQ,PO,Quote,POC processor started
+12/4/2019 10:03:58 AM 
+12/4/2019 10:03:58 AM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/4/2019 10:03:58 AM 
+12/4/2019 10:03:58 AM RFQ processing started.
+12/4/2019 10:03:58 AM No file found.
+12/4/2019 10:03:58 AM RFQ processing stopped.
+12/4/2019 10:03:58 AM 
+12/4/2019 10:03:58 AM Quote processing started.
+12/4/2019 10:03:58 AM Started Loading interchange object.
+12/4/2019 10:03:58 AM stopped Loading interchange object.
+12/4/2019 10:03:58 AM 1 files found to process.
+12/4/2019 10:03:58 AM Started Loading interchange object.
+12/4/2019 10:03:58 AM stopped Loading interchange object.
+12/4/2019 10:03:58 AM 'MTML_QUOTE_KKRAM-2019-ST0036-B(01)_SM0668_V10001_04121911064932.xml' Quote file processing started.
+12/4/2019 10:03:58 AM about:blank
+12/4/2019 10:04:10 AM Login Successfully.
+12/4/2019 10:04:16 AM Currency USD set successfully
+12/4/2019 10:04:21 AM Supplier Ref S104575 set successfully
+12/4/2019 10:04:48 AM ================12/4/2019 10:04:48 AM================
+12/4/2019 10:04:48 AM DNVGL RFQ,PO,Quote,POC processor started
+12/4/2019 10:04:49 AM 
+12/4/2019 10:04:49 AM Buyer: Pacific Basin Shipping (HK) Ltd.
+12/4/2019 10:04:49 AM 
+12/4/2019 10:04:49 AM RFQ processing started.
+12/4/2019 10:04:49 AM No file found.
+12/4/2019 10:04:49 AM RFQ processing stopped.
+12/4/2019 10:04:49 AM 
+12/4/2019 10:04:49 AM Quote processing started.
+12/4/2019 10:04:49 AM Started Loading interchange object.
+12/4/2019 10:04:49 AM stopped Loading interchange object.
+12/4/2019 10:04:49 AM 1 files found to process.
+12/4/2019 10:04:49 AM Started Loading interchange object.
+12/4/2019 10:04:49 AM stopped Loading interchange object.
+12/4/2019 10:04:49 AM 'MTML_QUOTE_KKRAM-2019-ST0036-B(01)_SM0668_V10001_04121911064932.xml' Quote file processing started.
+12/4/2019 10:04:49 AM about:blank
+12/4/2019 10:05:00 AM Login Successfully.
+12/4/2019 10:05:02 AM Currency USD set successfully
+12/4/2019 10:05:03 AM Supplier Ref S104575 set successfully
+12/4/2019 10:06:49 AM Supplier Remarks set successfully

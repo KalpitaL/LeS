@@ -1,0 +1,64 @@
+2/13/2020 11:15:45 AM ================2/13/2020 11:15:45 AM================
+2/13/2020 11:15:46 AM ArcMarine HTTP processor started
+2/13/2020 11:15:46 AM ArcMarine Processor Started.
+2/13/2020 11:15:46 AM Processing File 15000332_200213_115704815.txt
+2/13/2020 11:15:46 AM  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=C6EE52EA-134E-EA11-80EB-06ABAD61BE97&STOCKTYPE=STORE
+2/13/2020 11:15:46 AM Navigating To URL ..
+2/13/2020 11:15:48 AM Page Loaded ..
+2/13/2020 11:15:48 AM Reading Header Details ..
+2/13/2020 11:15:49 AM Reading Item Details ..
+2/13/2020 11:17:00 AM ================2/13/2020 11:17:00 AM================
+2/13/2020 11:17:00 AM ArcMarine HTTP processor started
+2/13/2020 11:17:00 AM ArcMarine Processor Started.
+2/13/2020 11:17:00 AM Processing File 15000332_200213_115704815.txt
+2/13/2020 11:17:00 AM  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=C6EE52EA-134E-EA11-80EB-06ABAD61BE97&STOCKTYPE=STORE
+2/13/2020 11:17:00 AM Navigating To URL ..
+2/13/2020 11:17:02 AM Page Loaded ..
+2/13/2020 11:17:02 AM Reading Header Details ..
+2/13/2020 11:19:15 AM Reading Item Details ..
+2/13/2020 11:19:19 AM ================2/13/2020 11:19:19 AM================
+2/13/2020 11:19:19 AM ArcMarine HTTP processor started
+2/13/2020 11:19:19 AM ArcMarine Processor Started.
+2/13/2020 11:19:19 AM Processing File 15000332_200213_115704815.txt
+2/13/2020 11:19:19 AM  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=C6EE52EA-134E-EA11-80EB-06ABAD61BE97&STOCKTYPE=STORE
+2/13/2020 11:19:21 AM Navigating To URL ..
+2/13/2020 11:19:30 AM Page Loaded ..
+2/13/2020 11:19:34 AM Reading Header Details ..
+2/13/2020 11:26:13 AM ================2/13/2020 11:26:13 AM================
+2/13/2020 11:26:13 AM ArcMarine HTTP processor started
+2/13/2020 11:26:13 AM ArcMarine Processor Started.
+2/13/2020 11:26:13 AM Processing File 15000332_200213_115704815.txt
+2/13/2020 11:26:13 AM  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=C6EE52EA-134E-EA11-80EB-06ABAD61BE97&STOCKTYPE=STORE
+2/13/2020 11:26:14 AM Navigating To URL ..
+2/13/2020 11:26:16 AM Page Loaded ..
+2/13/2020 11:26:17 AM Reading Header Details ..
+2/13/2020 11:26:55 AM ================2/13/2020 11:26:55 AM================
+2/13/2020 11:26:55 AM ArcMarine HTTP processor started
+2/13/2020 11:26:55 AM ArcMarine Processor Started.
+2/13/2020 11:26:55 AM Processing File 15000332_200213_115704815.txt
+2/13/2020 11:26:55 AM  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=C6EE52EA-134E-EA11-80EB-06ABAD61BE97&STOCKTYPE=STORE
+2/13/2020 11:26:57 AM Navigating To URL ..
+2/13/2020 11:26:58 AM Page Loaded ..
+2/13/2020 11:31:23 AM Reading Header Details ..
+2/13/2020 11:34:33 AM ================2/13/2020 11:34:33 AM================
+2/13/2020 11:34:33 AM ArcMarine HTTP processor started
+2/13/2020 11:34:33 AM ArcMarine Processor Started.
+2/13/2020 11:34:33 AM Processing File 15000332_200213_115704815.txt
+2/13/2020 11:34:33 AM  URL : https://apps2.southnests.com:443/ArchangelReports/Purchase/PurchaseQuotationItems.aspx?SESSIONID=C6EE52EA-134E-EA11-80EB-06ABAD61BE97&STOCKTYPE=STORE
+2/13/2020 11:34:35 AM Navigating To URL ..
+2/13/2020 11:34:37 AM Page Loaded ..
+2/13/2020 11:34:38 AM Reading Header Details ..
+2/13/2020 11:35:03 AM Reading Item Details ..
+2/13/2020 11:35:08 AM RFQ 'EN-20-001806' downloaded successfully.
+2/13/2020 11:35:08 AM File saved ..
+2/13/2020 11:35:08 AM 15000332_200213_115704815.txt File moved to Backup
+2/13/2020 11:35:08 AM 
+2/13/2020 11:35:08 AM 
+2/13/2020 11:35:08 AM Started Loading interchange object.
+2/13/2020 11:35:08 AM stopped Loading interchange object.
+2/13/2020 11:35:08 AM Quote processing started.
+2/13/2020 11:35:08 AM Quote processing started for refno: EN-19-011069
+2/13/2020 11:35:09 AM Quote for ref no: EN-19-011069 is already submitted.
+2/13/2020 11:35:10 AM ArcMarine HTTP processor stopped
+2/13/2020 11:35:10 AM ====================================================
+2/13/2020 11:35:10 AM 

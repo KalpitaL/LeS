@@ -1,0 +1,28 @@
+22/08/2019 16:56:35 ================22/08/2019 16:56:35================
+22/08/2019 16:56:35 Navibulgar HTTP Processor started
+22/08/2019 16:56:35 Domain: navbul
+
+22/08/2019 16:56:35 Process started for bburki@nekoship.nl
+22/08/2019 16:56:41 Logged in successfully
+22/08/2019 16:56:41 RFQ processing started.
+22/08/2019 16:56:41 Exception in Process RFQ : System.FormatException: The DateTime represented by the string is not supported in calendar System.Globalization.GregorianCalendar.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Http_Navibulgar_Routine.Http_Download_Routine.GetNewRFQs() in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Navibulgar_Processor\Http_Navibulgar_Routine\Http_Download_Routine.cs:line 215
+   at Http_Navibulgar_Routine.Http_Download_Routine.ProcessRFQ() in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Navibulgar_Processor\Http_Navibulgar_Routine\Http_Download_Routine.cs:line 172
+22/08/2019 16:56:51 
+22/08/2019 16:56:51 Quote processing started.
+22/08/2019 16:56:51 2 Quote files found to process.
+22/08/2019 16:56:57 Started Loading interchange object.
+22/08/2019 16:56:57 stopped Loading interchange object.
+22/08/2019 16:56:58 Quote processing started for refno: E/387/S020/19/1398
+22/08/2019 16:57:02 Reference Number Matched
+22/08/2019 16:57:05 Checking Quote Status
+22/08/2019 16:57:15 Quotation is already submitted for Ref No 'E/387/S020/19/1398'.
+22/08/2019 16:57:15 File MTML_QUOTE_E_387_S020_19_1398_SM0752_V10107_21081922391469.xml moved to error files.
+22/08/2019 16:57:35 Started Loading interchange object.
+22/08/2019 16:57:35 stopped Loading interchange object.
+22/08/2019 16:57:36 Quote processing started for refno: E/387/S028/19/1398
+22/08/2019 16:57:39 Reference Number Matched
+22/08/2019 16:57:41 Checking Quote Status
+22/08/2019 17:02:02 Started filling Header Details

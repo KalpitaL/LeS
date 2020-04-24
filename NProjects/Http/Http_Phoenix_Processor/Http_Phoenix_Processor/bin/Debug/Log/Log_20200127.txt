@@ -1,0 +1,10 @@
+1/27/2020 12:57:19 PM ================1/27/2020 12:57:19 PM================
+1/27/2020 12:57:19 PM Phoenix HTTP processor started
+1/27/2020 12:57:21 PM Phoenix Processor Started.
+1/27/2020 12:57:21 PM Processing File 5001400_200127_150521114.txt
+1/27/2020 12:57:25 PM  URL : https://apps.southnests.com:443/Phoenix/Purchase/PurchaseQuotationItems.aspx?SESSIONID=DE7B5CC2-D140-EA11-80D9-065916D1083C&STOCKTYPE=SERVICE
+1/27/2020 12:57:26 PM Navigating To URL ..
+1/27/2020 1:01:12 PM ================1/27/2020 1:01:12 PM================
+1/27/2020 1:01:12 PM Phoenix HTTP processor started
+1/27/2020 1:01:14 PM Phoenix Processor Started.
+1/27/2020 1:01:14 PM Processing File 4001020_200127_151221920.txt

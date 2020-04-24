@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="S103499" Identifier="UNOC" Recipient="SM0431_Web" Sender="V10001" PreparationDate="2019-Nov-25" PreparationTime="15:39" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2653" LesRecordID="11834749" LesLinkID="103720" ParentRecordID="11834262" MTML_DOCID="F41613E4-EDA0-423A-B9F6-9D5C33A06CF9">
+    <Quote MessageReferenceNumber="0253-131/2019e-I004" MessageNumber="https://atlantic-lloyd.cloudfleetmanager.com/apps/quote/a37e3b04-4160-499f-b3a7-502c7b2e59b2" LineItemCount="5" VersionNumber="1" CurrencyCode="USD" TransportModeCode="_3" LeadTimeDays="7" BuyerRefNo="0253-131/2019e-I004" OriginalFile="OrderQuotation-S103499_191125_153750425.pdf" IsAltItemAllowed="1" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="142.96" BuyerQuoteTotal="142.96">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911251539" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201912020000" />
+      <Comments Qualifier="SUR">
+        <value>Thanks for your inquiry. We're pleased to offer our quotation for your consideration.
+
+Only Item 2 is ex-stock subject to prior sales.
+
+Item 1 is currently not available in stock.
+Lead time: New stock is expected to be available after end of November, subject to carrier approval and custom clearance.
+
+Delivery Charge (alongside) @  Port SHEKOU: USD 616
+**Declaration Surcharge: USD 200
+**Cylinders collection Fee: USD 80 (If applicable &amp; on equal exchange)
+Delivery Lead time: 3 - 4 working days
+Subject to additional delivery charge, hire of barge/crane, custom fee, etc.
+
+Please allow another 1-2 working days’ notice for delivery arrangement.
+
+Cylinder deposits will be applicable if vessel does not have any Unitor Cylinder in return.
+
+We look forward to receiving your earliest order confirmation.
+Best Regards,
+Jaccy Low
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 3 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 616 USD
+Item Added - 4 : ADDITIONAL CHARGE | QTY : 1 | UOM : PCS | Price : 200 USD
+Item Added - 5 : TOTAL CYLINDER DEPOSIT CHARGE | QTY : 1 | UOM : PCS | Price : 2730 USD
+ Item Total : 3688.96 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="0253-131/2019e-I004" />
+      <Reference Qualifier="AAG" ReferenceNumber="S103499" />
+      <Party Qualifier="BY" Name="ASIATIC LLOYD SHIPMANAGEMENT LLP">
+        <Contact>
+          <CommunicationMethod Qualifier="EM" Number="N/A" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="Wilhelmsen Ships Service (S) Pte Ltd">
+        <Contact Name="Mokti, Misnawati">
+          <CommunicationMethod Qualifier="EM" Number="wss.cs.singapore.products@wilhelmsen.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA" Name="Asiatic Wave Shipping Pte. Ltd.">
+        <Contact />
+        <StreetAddress>20 McCallum Street, #16-01, Tokio Marine Centre
+069046 
+Singapore</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="0253. ASIATIC WAVE">
+        <PartyLocation Qualifier="ZUC" Berth="SHEKOU" Port="CNSHK" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Oxygen, O-40 | " MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="d7f70a87-1ec4-440a-9e09-885815977ee7" SystemItemNo="1" MonetaryAmount="107.22" Identification="905034" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="Cylinder" Supp_UOM="PCS" Supp_Price="17.87" BuyerItemTotal="107.22" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="17.87" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="17.87" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Acetylene,A-40 | " MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="22374646-82b2-4440-8d11-ef3c75854b1a" SystemItemNo="2" MonetaryAmount="35.74" Identification="905026" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="Cylinder" Supp_UOM="PCS" Supp_Price="35.74" BuyerItemTotal="35.74" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="35.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="35.74" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="FIXED CHARGE LAST MILE DELIVERY" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="3" MonetaryAmount="616.00" DeliveryTime="7" IsExtraItem="1" ItemType="FREIGHT" ItemStatus="Addition" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="616" BuyerItemTotal="616" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="616" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="ADDITIONAL CHARGE" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="4" MonetaryAmount="200.00" DeliveryTime="7" IsExtraItem="1" ItemType="OTHER" ItemStatus="Addition" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="200" BuyerItemTotal="200" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="200" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="TOTAL CYLINDER DEPOSIT CHARGE" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="5" MonetaryAmount="2730.00" Identification="CYLINDER_DEPOSIT" DeliveryTime="7" IsExtraItem="1" ItemType="DEPOSIT" ItemStatus="Addition" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2730" BuyerItemTotal="2730" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2730" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="3688.960" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="3688.960" />
+      <MonetaryAmount Qualifier="_99" Value="616.000" />
+      <MonetaryAmount Qualifier="_98" Value="200.000" />
+      <MonetaryAmount Qualifier="_97" Value="2730.000" />
+      <MonetaryAmount Qualifier="_90" Value="142.960" />
+      <MonetaryAmount Qualifier="_91" Value="142.960" />
+    </Quote>
+  </Interchange>
+</MTML>

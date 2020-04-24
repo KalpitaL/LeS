@@ -1,0 +1,15 @@
+﻿ITEM_TABLE=SKMISPopupContent_dvBindArea
+ITEM_NO=txtNo#ROW#
+NAME=txtDescription#ROW#
+UNIT=txtUnit#ROW#
+QUANTITY=txtQty#ROW#
+ITEMREF=txtImpa#ROW#
+REMARK=txtVesselRemark#ROW#
+ITEM_PRICE=txtPrice#ROW#
+DELIVERY_TERM=txtDeliveryTerm#ROW#
+SUPPLIER_REMARK=txtSupplierRemark#ROW#
+PARTREF=txtPartNo#ROW#
+EQUIP_REMARKS=txtEquipment#ROW#|txtDwqNo#ROW#
+CHECK_ALL=chkAll
+SPECIFICATION_REMARK=txtRemark_Spec#ROW#
+USED_FOR_REMARK=txtRemark_Used#ROW#

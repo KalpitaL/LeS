@@ -1,0 +1,45 @@
+
+13:34:07 : Phoenix RFQ & PO Downloader Started.
+13:34:07 : Processing File WSS_1.txt
+13:34:45 : RFQ 'AGW-16-0135' downloaded successfully.
+13:34:58 : WSS_1.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+13:34:58 : Processing File WSS_2.txt
+13:35:18 : RFQ 'AJA-16-0090' downloaded successfully.
+13:35:31 : WSS_2.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+13:35:31 : Processing File WSS_3.txt
+13:36:05 : RFQ 'PEX-16-0118' downloaded successfully.
+13:36:18 : WSS_3.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+13:36:18 : Phoenix RFQ Downloader Stopped.
+
+
+17:00:56 : Phoenix RFQ & PO Downloader Started.
+17:00:56 : Processing File 160812_170309335.txt
+17:01:18 : PO 'NGC-16-0114' downloaded successfully.
+17:01:29 : 160812_170309335.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:01:29 : Processing File 160812_170309336.txt
+17:01:43 : PO '' downloaded successfully.
+17:01:54 : 160812_170309336.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:01:54 : Phoenix RFQ Downloader Stopped.
+
+
+17:04:05 : Phoenix RFQ & PO Downloader Started.
+17:04:05 : Processing File 160812_170309336.txt
+17:06:24 : Phoenix RFQ & PO Downloader Started.
+17:06:28 : Processing File 160812_170309336.txt
+17:09:05 : PO '' downloaded successfully.
+17:13:07 : Phoenix RFQ & PO Downloader Started.
+17:13:32 : Processing File 160812_170309335.txt
+17:14:04 : PO 'NGC-16-0114' downloaded successfully.
+17:14:15 : 160812_170309335.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:14:15 : Processing File 160812_170309336.txt
+17:15:38 : PO 'APY-16-0125' downloaded successfully.
+17:15:49 : 160812_170309336.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:15:49 : Phoenix RFQ Downloader Stopped.
+
+
+17:33:38 : Phoenix RFQ & PO Downloader Started.
+17:33:38 : Processing File 160812_170309337.txt
+17:33:48 : PO 'KSR-16-0145' downloaded successfully.
+17:33:59 : 160812_170309337.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:33:59 : Phoenix RFQ Downloader Stopped.
+

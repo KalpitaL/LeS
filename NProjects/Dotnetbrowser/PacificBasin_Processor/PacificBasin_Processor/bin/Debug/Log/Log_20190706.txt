@@ -1,0 +1,285 @@
+06/07/2019 10:29:42 ================06/07/2019 10:29:42================
+06/07/2019 10:29:42 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 10:33:18 
+06/07/2019 10:33:18 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 10:33:18 
+06/07/2019 10:33:18 RFQ processing started.
+06/07/2019 10:33:18 No file found.
+06/07/2019 10:33:18 RFQ processing stopped.
+06/07/2019 10:33:18 
+06/07/2019 10:33:18 Quote processing started.
+06/07/2019 10:33:18 Started Loading interchange object.
+06/07/2019 10:33:18 stopped Loading interchange object.
+06/07/2019 10:33:18 1 files found to process.
+06/07/2019 10:33:18 Started Loading interchange object.
+06/07/2019 10:33:18 stopped Loading interchange object.
+06/07/2019 10:33:19 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 10:33:32 Login Successfully.
+06/07/2019 10:42:28 ================06/07/2019 10:42:28================
+06/07/2019 10:42:28 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 10:42:29 
+06/07/2019 10:42:29 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 10:42:29 
+06/07/2019 10:42:29 RFQ processing started.
+06/07/2019 10:42:29 No file found.
+06/07/2019 10:42:29 RFQ processing stopped.
+06/07/2019 10:42:29 
+06/07/2019 10:42:29 Quote processing started.
+06/07/2019 10:42:29 Started Loading interchange object.
+06/07/2019 10:42:29 stopped Loading interchange object.
+06/07/2019 10:42:29 1 files found to process.
+06/07/2019 10:42:29 Started Loading interchange object.
+06/07/2019 10:42:29 stopped Loading interchange object.
+06/07/2019 10:42:30 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 10:42:42 Login Successfully.
+06/07/2019 10:43:33 ================06/07/2019 10:43:33================
+06/07/2019 10:43:33 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 10:43:34 
+06/07/2019 10:43:34 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 10:43:34 
+06/07/2019 10:43:34 RFQ processing started.
+06/07/2019 10:43:34 No file found.
+06/07/2019 10:43:34 RFQ processing stopped.
+06/07/2019 10:43:34 
+06/07/2019 10:43:34 Quote processing started.
+06/07/2019 10:43:34 Started Loading interchange object.
+06/07/2019 10:43:34 stopped Loading interchange object.
+06/07/2019 10:43:34 1 files found to process.
+06/07/2019 10:43:34 Started Loading interchange object.
+06/07/2019 10:43:34 stopped Loading interchange object.
+06/07/2019 10:43:35 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 10:43:47 Login Successfully.
+06/07/2019 11:49:47 ================06/07/2019 11:49:47================
+06/07/2019 11:49:47 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 11:49:52 
+06/07/2019 11:49:54 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 11:49:54 
+06/07/2019 11:49:54 RFQ processing started.
+06/07/2019 11:49:54 No file found.
+06/07/2019 11:49:54 RFQ processing stopped.
+06/07/2019 11:49:54 
+06/07/2019 11:49:54 Quote processing started.
+06/07/2019 11:49:54 Started Loading interchange object.
+06/07/2019 11:49:54 stopped Loading interchange object.
+06/07/2019 11:49:54 1 files found to process.
+06/07/2019 11:49:54 Started Loading interchange object.
+06/07/2019 11:49:54 stopped Loading interchange object.
+06/07/2019 11:49:55 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 11:50:07 Login Successfully.
+06/07/2019 11:53:13 Currency EUR set successfully
+06/07/2019 11:53:14 Supplier Ref 19005633 set successfully
+06/07/2019 11:53:17 Supplier Remarks set successfully
+06/07/2019 11:53:17 Validity Offer set successfully
+06/07/2019 11:53:21 Start Filling LineItem details
+06/07/2019 12:01:42 ================06/07/2019 12:01:42================
+06/07/2019 12:01:42 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:01:45 
+06/07/2019 12:01:45 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:01:45 
+06/07/2019 12:01:45 RFQ processing started.
+06/07/2019 12:01:45 No file found.
+06/07/2019 12:01:45 RFQ processing stopped.
+06/07/2019 12:01:45 
+06/07/2019 12:01:45 Quote processing started.
+06/07/2019 12:01:45 Started Loading interchange object.
+06/07/2019 12:01:45 stopped Loading interchange object.
+06/07/2019 12:01:45 1 files found to process.
+06/07/2019 12:01:45 Started Loading interchange object.
+06/07/2019 12:01:45 stopped Loading interchange object.
+06/07/2019 12:01:47 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 12:01:59 Login Successfully.
+06/07/2019 12:02:14 Currency EUR set successfully
+06/07/2019 12:02:14 Supplier Ref 19005633 set successfully
+06/07/2019 12:02:18 Supplier Remarks set successfully
+06/07/2019 12:02:18 Validity Offer set successfully
+06/07/2019 12:03:05 Start Filling LineItem details
+06/07/2019 12:04:19 Delivery Time (Days) set successfully
+06/07/2019 12:10:26 ================06/07/2019 12:10:26================
+06/07/2019 12:10:26 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:10:26 
+06/07/2019 12:10:26 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:10:26 
+06/07/2019 12:10:26 RFQ processing started.
+06/07/2019 12:10:26 No file found.
+06/07/2019 12:10:26 RFQ processing stopped.
+06/07/2019 12:10:26 
+06/07/2019 12:10:26 Quote processing started.
+06/07/2019 12:10:26 Started Loading interchange object.
+06/07/2019 12:10:26 stopped Loading interchange object.
+06/07/2019 12:10:26 1 files found to process.
+06/07/2019 12:10:26 Started Loading interchange object.
+06/07/2019 12:10:26 stopped Loading interchange object.
+06/07/2019 12:10:26 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 12:10:38 Login Successfully.
+06/07/2019 12:10:39 Currency EUR set successfully
+06/07/2019 12:10:40 Supplier Ref 19005633 set successfully
+06/07/2019 12:10:44 Supplier Remarks set successfully
+06/07/2019 12:10:44 Validity Offer set successfully
+06/07/2019 12:10:49 Start Filling LineItem details
+06/07/2019 12:13:06 Delivery Time (Days) set successfully
+06/07/2019 12:16:12 ================06/07/2019 12:16:12================
+06/07/2019 12:16:12 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:16:12 
+06/07/2019 12:16:12 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:16:12 
+06/07/2019 12:16:12 RFQ processing started.
+06/07/2019 12:16:12 No file found.
+06/07/2019 12:16:12 RFQ processing stopped.
+06/07/2019 12:16:12 
+06/07/2019 12:16:12 Quote processing started.
+06/07/2019 12:16:12 Started Loading interchange object.
+06/07/2019 12:16:12 stopped Loading interchange object.
+06/07/2019 12:16:12 1 files found to process.
+06/07/2019 12:16:12 Started Loading interchange object.
+06/07/2019 12:16:12 stopped Loading interchange object.
+06/07/2019 12:16:12 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 12:16:24 Login Successfully.
+06/07/2019 12:17:30 ================06/07/2019 12:17:30================
+06/07/2019 12:17:30 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:17:30 
+06/07/2019 12:17:30 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:17:30 
+06/07/2019 12:17:30 RFQ processing started.
+06/07/2019 12:17:30 No file found.
+06/07/2019 12:17:30 RFQ processing stopped.
+06/07/2019 12:17:30 
+06/07/2019 12:17:30 Quote processing started.
+06/07/2019 12:17:30 Started Loading interchange object.
+06/07/2019 12:17:30 stopped Loading interchange object.
+06/07/2019 12:17:30 1 files found to process.
+06/07/2019 12:17:30 Started Loading interchange object.
+06/07/2019 12:17:30 stopped Loading interchange object.
+06/07/2019 12:17:30 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 12:17:42 Login Successfully.
+06/07/2019 12:17:49 Currency EUR set successfully
+06/07/2019 12:17:50 Supplier Ref 19005633 set successfully
+06/07/2019 12:17:53 Supplier Remarks set successfully
+06/07/2019 12:17:54 Validity Offer set successfully
+06/07/2019 12:18:00 Start Filling LineItem details
+06/07/2019 12:20:41 ================06/07/2019 12:20:41================
+06/07/2019 12:20:41 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:20:41 
+06/07/2019 12:20:41 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:20:41 
+06/07/2019 12:20:41 RFQ processing started.
+06/07/2019 12:20:41 No file found.
+06/07/2019 12:20:41 RFQ processing stopped.
+06/07/2019 12:20:41 
+06/07/2019 12:20:41 Quote processing started.
+06/07/2019 12:20:41 Started Loading interchange object.
+06/07/2019 12:20:41 stopped Loading interchange object.
+06/07/2019 12:20:41 1 files found to process.
+06/07/2019 12:20:41 Started Loading interchange object.
+06/07/2019 12:20:41 stopped Loading interchange object.
+06/07/2019 12:20:41 'MTML_QUOTE_DRE-B19X0060(01)FF-5131_SM3068_V11920_05071920264965.xml' Quote file processing started.
+06/07/2019 12:20:54 Login Successfully.
+06/07/2019 12:20:57 Currency EUR set successfully
+06/07/2019 12:20:57 Supplier Ref 19005636 set successfully
+06/07/2019 12:21:01 Supplier Remarks set successfully
+06/07/2019 12:21:01 Validity Offer set successfully
+06/07/2019 12:21:02 Start Filling LineItem details
+06/07/2019 12:29:14 ================06/07/2019 12:29:14================
+06/07/2019 12:29:14 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:29:14 
+06/07/2019 12:29:14 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:29:14 
+06/07/2019 12:29:14 RFQ processing started.
+06/07/2019 12:29:14 No file found.
+06/07/2019 12:29:14 RFQ processing stopped.
+06/07/2019 12:29:14 
+06/07/2019 12:29:14 Quote processing started.
+06/07/2019 12:29:14 Started Loading interchange object.
+06/07/2019 12:29:14 stopped Loading interchange object.
+06/07/2019 12:29:14 1 files found to process.
+06/07/2019 12:29:14 Started Loading interchange object.
+06/07/2019 12:29:14 stopped Loading interchange object.
+06/07/2019 12:29:14 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 12:29:31 Login Successfully.
+06/07/2019 12:29:33 Currency EUR set successfully
+06/07/2019 12:29:34 Supplier Ref 19005633 set successfully
+06/07/2019 12:29:38 Supplier Remarks set successfully
+06/07/2019 12:29:38 Validity Offer set successfully
+06/07/2019 12:29:39 Start Filling LineItem details
+06/07/2019 12:32:58 ================06/07/2019 12:32:58================
+06/07/2019 12:32:58 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:32:58 
+06/07/2019 12:32:58 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:32:58 
+06/07/2019 12:32:58 RFQ processing started.
+06/07/2019 12:32:58 No file found.
+06/07/2019 12:32:58 RFQ processing stopped.
+06/07/2019 12:32:58 
+06/07/2019 12:32:58 Quote processing started.
+06/07/2019 12:32:58 Started Loading interchange object.
+06/07/2019 12:32:58 stopped Loading interchange object.
+06/07/2019 12:32:58 1 files found to process.
+06/07/2019 12:32:58 Started Loading interchange object.
+06/07/2019 12:32:58 stopped Loading interchange object.
+06/07/2019 12:32:58 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 12:33:10 Login Successfully.
+06/07/2019 12:36:26 ================06/07/2019 12:36:26================
+06/07/2019 12:36:26 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:36:26 
+06/07/2019 12:36:26 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:36:26 
+06/07/2019 12:36:26 RFQ processing started.
+06/07/2019 12:36:26 No file found.
+06/07/2019 12:36:26 RFQ processing stopped.
+06/07/2019 12:36:26 
+06/07/2019 12:36:26 Quote processing started.
+06/07/2019 12:36:26 Started Loading interchange object.
+06/07/2019 12:36:26 stopped Loading interchange object.
+06/07/2019 12:36:26 1 files found to process.
+06/07/2019 12:36:26 Started Loading interchange object.
+06/07/2019 12:36:26 stopped Loading interchange object.
+06/07/2019 12:36:26 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 12:36:38 Login Successfully.
+06/07/2019 12:36:42 Currency EUR set successfully
+06/07/2019 12:36:43 Supplier Ref 19005633 set successfully
+06/07/2019 12:36:46 Supplier Remarks set successfully
+06/07/2019 12:36:46 Validity Offer set successfully
+06/07/2019 12:36:48 Start Filling LineItem details
+06/07/2019 12:54:20 ================06/07/2019 12:54:20================
+06/07/2019 12:54:20 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:54:20 
+06/07/2019 12:54:20 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:54:20 
+06/07/2019 12:54:20 RFQ processing started.
+06/07/2019 12:54:20 No file found.
+06/07/2019 12:54:20 RFQ processing stopped.
+06/07/2019 12:54:20 
+06/07/2019 12:54:20 Quote processing started.
+06/07/2019 12:54:20 Started Loading interchange object.
+06/07/2019 12:54:20 stopped Loading interchange object.
+06/07/2019 12:54:20 1 files found to process.
+06/07/2019 12:54:20 Started Loading interchange object.
+06/07/2019 12:54:20 stopped Loading interchange object.
+06/07/2019 12:54:20 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 12:54:33 Login Successfully.
+06/07/2019 12:54:34 Currency EUR set successfully
+06/07/2019 12:54:35 Supplier Ref 19005633 set successfully
+06/07/2019 12:54:38 Supplier Remarks set successfully
+06/07/2019 12:54:38 Validity Offer set successfully
+06/07/2019 12:54:42 Start Filling LineItem details
+06/07/2019 12:56:36 ================06/07/2019 12:56:36================
+06/07/2019 12:56:36 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+06/07/2019 12:56:36 
+06/07/2019 12:56:36 Buyer: Pacific Basin Shipping (HK) Ltd.
+06/07/2019 12:56:36 
+06/07/2019 12:56:36 RFQ processing started.
+06/07/2019 12:56:36 No file found.
+06/07/2019 12:56:36 RFQ processing stopped.
+06/07/2019 12:56:36 
+06/07/2019 12:56:36 Quote processing started.
+06/07/2019 12:56:37 Started Loading interchange object.
+06/07/2019 12:56:37 stopped Loading interchange object.
+06/07/2019 12:56:37 1 files found to process.
+06/07/2019 12:56:37 Started Loading interchange object.
+06/07/2019 12:56:37 stopped Loading interchange object.
+06/07/2019 12:56:37 'MTML_QUOTE_DRE-B19C0008(01)CF-5130_SM3068_V11920_05071920184969.xml' Quote file processing started.
+06/07/2019 12:56:49 Login Successfully.
+06/07/2019 12:56:50 Currency EUR set successfully
+06/07/2019 12:56:51 Supplier Ref 19005633 set successfully
+06/07/2019 12:56:54 Supplier Remarks set successfully
+06/07/2019 12:56:54 Validity Offer set successfully
+06/07/2019 12:56:56 Start Filling LineItem details

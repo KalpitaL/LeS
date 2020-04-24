@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="E6619207" Identifier="UNOC" Recipient="SM0133_FUJI" Sender="V00026" PreparationDate="2019-Oct-24" PreparationTime="14:39" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="625" LesRecordID="11792626" LesLinkID="102080" ParentRecordID="11786216" MTML_DOCID="0A38D749-5A08-4AA3-AC4C-503CAF7059BB">
+    <Quote MessageReferenceNumber="452091" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=452091&amp;validate=0.556348949468051" LineItemCount="3" VersionNumber="1" CurrencyCode="JPY" FunctionCode="_9" LeadTimeDays="10" BuyerRefNo="ECT-7048-B1" OriginalFile="W82048.xml" IsAltItemAllowed="1" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="31680" BuyerQuoteTotal="31680">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201910241439" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201911031436" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201911230000" />
+      <DateTimePeriod Qualifier="_132" FormatQualifier="_203" Value="201910210000" />
+      <Comments Qualifier="SUR">
+        <value> ***REMARK*** OUR OFFER IS VALID ON FULL ITE MS ORDER. WE MAY NEED TO REVISE IF YOUR ORDER IS PARTIAL. ***
+" WE HEREBY DECLARE THAT ALL OF OUR SUPPLYING PRODUCTS ARE ASBESTOS-FREE." *** GENUINE PARTS FROM ORIGINAL MANUFACTURE/MAKER ***
+
+Lead Days : 10</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value> 30 DAYS AFTER SHIPMENT</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="ECT-7048-B1" />
+      <Reference Qualifier="AAG" ReferenceNumber="E6619207" />
+      <Party Qualifier="UD" Name="STRATEGIC ENCOUNTER">
+        <PartyLocation Qualifier="TBA" Berth="TBA" Port="TBA" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M SHIP MANAGEMENT PTE. LTD" City="Singapore">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="TE" Number="+65 6304 1770" />
+          <CommunicationMethod Qualifier="EM" Number="singapore@mtmshipmanagement.com" />
+          <CommunicationMethod Qualifier="FX" Number="65-6220 7988" />
+        </Contact>
+        <StreetAddress>78 SHENTON WAY #13-01 SINGAPORE 079120</StreetAddress>
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING CO. LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="078-4132611-" />
+          <CommunicationMethod Qualifier="EM" Number="mach-5@fujitrading.co.jp" />
+        </Contact>
+        <StreetAddress>6 FUKAEHAMAMACHI</StreetAddress>
+        <StreetAddress>HIGASHINADA-KU</StreetAddress>
+        <StreetAddress>KOBE 658</StreetAddress>
+      </Party>
+      <LineItem Number="1" Description="MAIN SEAL RING" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="2286234_5385456" SystemItemNo="1" MonetaryAmount="13500.00" Identification="455837001" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="6750" BuyerItemTotal="13500" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6750" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6750" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI" ModelNumber=" SJ 20G/GH" />
+      </LineItem>
+      <LineItem Number="2" Description="O RING" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="2286233_5385457" SystemItemNo="2" MonetaryAmount="4680.00" Identification="455882001" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="780" BuyerItemTotal="4680" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="780" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="780" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI" ModelNumber=" SJ 20G/GH" />
+      </LineItem>
+      <LineItem Number="3" Description="O RING" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="2286232_5385458" SystemItemNo="3" MonetaryAmount="13500.00" Identification="455836002" DeliveryTime="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2250" BuyerItemTotal="13500" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2250" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2250" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" MITSUBISHI" ModelNumber=" SJ 20G/GH" />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="31680.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="31680.000" />
+      <MonetaryAmount Qualifier="_90" Value="31680.000" />
+      <MonetaryAmount Qualifier="_91" Value="31680.000" />
+    </Quote>
+  </Interchange>
+</MTML>

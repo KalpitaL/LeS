@@ -1,0 +1,1 @@
+||MTM_HTTP_RFQ_Downloader|191128_092641904.txt||Error|19-11-29 16:10 : LeS-1004.1:Unable to process file191128_092641904.txt due to link not found

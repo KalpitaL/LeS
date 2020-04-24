@@ -1,0 +1,407 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="2QN5002(20)" Identifier="UNOC" Recipient="SM0012_FUJIBVXLS" Sender="V10037" PreparationDate="2019-Jul-06" PreparationTime="00:44" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="1400" LesRecordID="11653506" LesLinkID="102211" ParentRecordID="11652477" MTML_DOCID="6CAB2E9D-AA49-4641-BF2F-0CB3EC09C04C">
+    <Quote MessageReferenceNumber="102211_RFQ_CTR_O0072_RF19_05072019030158125_19070515042515.xlsm" MessageNumber="102211_RFQ_CTR_O0072_RF19_05072019030158125_190705_15042515.xlsm" LineItemCount="37" VersionNumber="" CurrencyCode="EUR" LeadTimeDays="2" OriginalFile="V51058.xml" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201907060044" />
+      <Comments Qualifier="SUR">
+        <value> "WE HEREBY DECLARE THAT ALL OF OUR SUPPLYING PRODUCTS ARE ASBESTOS-FREE."  FROM FUJI TARDING (MARINE B.V.), ROTTERDAM THE NETHERLANDS
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="CTR/O0072/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="2QN5002(20)" />
+      <Party Qualifier="BY" Name="Bernhard Schulte Shipmanagement (UK) Ltd">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING (MARINE) B.V.">
+        <Contact FunctionCode="PD" Name="-">
+          <CommunicationMethod Qualifier="TE" Number="31104298833" />
+          <CommunicationMethod Qualifier="EM" Number="info@fujitrading.nl" />
+        </Contact>
+        <StreetAddress>PO Box 2498 3000Cl Kortenoord 2-8; 3087 AR  Rotterdam</StreetAddress>
+        <StreetAddress>Rotterdam</StreetAddress>
+        <StreetAddress>Sluisjesdijk 109</StreetAddress>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="UD" Name="City of Rotterdam">
+        <PartyLocation Qualifier="ZUC" Port="ZEEBRUGGE" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="YACHT MOP COMPLETE" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="21222448" SystemItemNo="21" MonetaryAmount="10.86" Identification="174271" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.81" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.81" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="LED LENSER H7 LED HEAD TORCH" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222449" SystemItemNo="22" MonetaryAmount="85.50" Identification="RS 715-7752" DeliveryTime="2" IsExtraItem="0" MarkedRemarks=" NEW RS CODE = 792-4219" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="85.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="85.5" />
+        <Comments Qualifier="LIN">
+          <value> NEW RS CODE = 792-4219</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="GLUE GENERAL PURPOSE 150GRM" MeasureUnitQualifier="TUB" Quantity="5" TypeCode="BP" OriginatingSystemRef="21222450" SystemItemNo="23" MonetaryAmount="4.85" Identification="812702" DeliveryTime="2" IsExtraItem="0" MarkedRemarks="**" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.97" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.97" />
+        <Comments Qualifier="LIN">
+          <value>**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="GLUE GENERAL PURPOSE 1KG (For RUBBER)" MeasureUnitQualifier="CAN" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222451" SystemItemNo="24" MonetaryAmount="8.32" Identification="812703" DeliveryTime="2" IsExtraItem="0" MarkedRemarks="**" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.16" />
+        <Comments Qualifier="LIN">
+          <value>**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="JOINT SHEET GRAPHITE HIGH TEMP, PILLAR NO.6633 2.0X1000X1000MM" MeasureUnitQualifier="SHT" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222452" SystemItemNo="25" MonetaryAmount="47.18" Identification="811028" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="23.59" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="23.59" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="JOINT SHEET GRAPHITE HIGH TEMP, PILLAR NO.6633 3.0X1000X1000MM" MeasureUnitQualifier="SHT" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222453" SystemItemNo="26" MonetaryAmount="30.99" Identification="811029" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="30.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="30.99" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="JOINT SHEET SYNTHETIC RUBBER, 2.0X1000X1000MM" MeasureUnitQualifier="MTR" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222454" SystemItemNo="27" MonetaryAmount="5.18" Identification="811133" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.59" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.59" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="JOINT SHEET SYNTHETIC RUBBER, 3.0X1000X1000MM" MeasureUnitQualifier="MTR" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222455" SystemItemNo="28" MonetaryAmount="3.61" Identification="811134" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.61" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="RAG COTTON 100% STERILIZED, WHITE" MeasureUnitQualifier="KGS" Quantity="250" TypeCode="BP" OriginatingSystemRef="21222456" SystemItemNo="29" MonetaryAmount="262.50" Identification="232907" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="SILICON SEALANT CLEAR 330GRM (300grm)" MeasureUnitQualifier="TUB" Quantity="5" TypeCode="BP" OriginatingSystemRef="21222457" SystemItemNo="30" MonetaryAmount="5.55" Identification="812602" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.11" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.11" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="TAPE SEAL TEFLON, 0.1X13MMX5MTR" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="21222458" SystemItemNo="31" MonetaryAmount="1.40" Identification="812501" DeliveryTime="2" IsExtraItem="0" MarkedRemarks=" OFFER : 0.1X12MMX8MTR " ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.07" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.07" />
+        <Comments Qualifier="LIN">
+          <value> OFFER : 0.1X12MMX8MTR </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="REPLACEABLE HEAD FOR YACHT MOP" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="21222459" SystemItemNo="32" MonetaryAmount="6.80" Identification="174272" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="QUICK BONDING ADHESIVE, NO.201 20GRM" MeasureUnitQualifier="TUB" Quantity="5" TypeCode="BP" OriginatingSystemRef="21222460" SystemItemNo="33" MonetaryAmount="11.00" Identification="2136360" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="QUICK BONDING ADHESIVE, NO.202 20GRM" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="21222461" SystemItemNo="34" MonetaryAmount="11.00" Identification="812729" DeliveryTime="2" IsExtraItem="0" MarkedRemarks="**" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.2" />
+        <Comments Qualifier="LIN">
+          <value>**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="SILICONE GASKET 70CC" MeasureUnitQualifier="TUB" Quantity="3" TypeCode="BP" OriginatingSystemRef="21222462" SystemItemNo="35" MonetaryAmount="5.13" Identification="812671" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.71" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.71" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="TAPE SEAL TEFLON 0.1X20MMX10MTR" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="21222463" SystemItemNo="36" MonetaryAmount="3.60" Identification="812502" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.18" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="DIESEL OIL 200LTR" MeasureUnitQualifier="DRM" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222464" SystemItemNo="37" MonetaryAmount="283.51" Identification="450113" DeliveryTime="2" IsExtraItem="0" MarkedRemarks="** DIESEL OIL MUST BE COMPARE TO STANDART ( JIS K2204 )" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="283.51" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="283.51" />
+        <Comments Qualifier="LIN">
+          <value>** DIESEL OIL MUST BE COMPARE TO STANDART ( JIS K2204 )</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="MOLYKOTE M-30 1LTR" MeasureUnitQualifier="CAN" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222465" SystemItemNo="38" MonetaryAmount="188.00" Identification="450536" DeliveryTime="2" IsExtraItem="0" MarkedRemarks="**" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="188" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="188" />
+        <Comments Qualifier="LIN">
+          <value>**</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="PIPE CARBON STEEL STPG ERW, SCH-80 1-1/2&quot;(40A)X5.5MTR" MeasureUnitQualifier="LGH" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222466" SystemItemNo="39" MonetaryAmount="49.98" Identification="710233" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="49.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="49.98" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="BRUSH WIRE CUP PLAITED 60MMDIA, FOR DERUSTING BRUSH MAG9000" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="21222467" SystemItemNo="40" MonetaryAmount="26.00" Identification="2096671" DeliveryTime="2" IsExtraItem="0" MarkedRemarks="OFFER WIRE CUP BRUSH, STEEL,KNOTTED WIRE, 65MM DIA X M14" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.6" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.6" />
+        <Comments Qualifier="LIN">
+          <value>OFFER WIRE CUP BRUSH, STEEL,KNOTTED WIRE, 65MM DIA X M14</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="COMBINATION SPANNER, 8MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222468" SystemItemNo="41" MonetaryAmount="0.84" Identification="610763" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.42" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="COMBINATION SPANNER, 9MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222469" SystemItemNo="42" MonetaryAmount="0.84" Identification="610764" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.42" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="HOIST CHAIN SPUR-GEAR 1TON, 2.5MTR (cert!)" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222470" SystemItemNo="43" MonetaryAmount="76.15" Identification="615007" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="76.15" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="76.15" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="KNIFE PUTTY 75MM" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="21222471" SystemItemNo="44" MonetaryAmount="1.62" Identification="613675" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.54" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.54" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="NUT DRIVER SET, 5MM-12MM, 7PCS/SET" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222472" SystemItemNo="45" MonetaryAmount="7.54" Identification="612366" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.54" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.54" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="SCREWDRIVER INSULATED HANDLE, HEAVY-DUTY PHILLIPS NO.0 75MM" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="21222473" SystemItemNo="46" MonetaryAmount="1.86" Identification="612272" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.62" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="SCREWDRIVER INSULATED HANDLE, HEAVY-DUTY PHILLIPS NO.2 100MM" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="21222474" SystemItemNo="47" MonetaryAmount="3.18" Identification="612274" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.06" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="SCREWDRIVER INSULATED HANDLE, HEAVY-DUTY PHILLIPS NO.3 150MM" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="21222475" SystemItemNo="48" MonetaryAmount="4.86" Identification="612275" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.62" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="SCREWDRIVER PLASTIC HANDLE, SQUARE-BLADE (+) NO.1 75MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222476" SystemItemNo="49" MonetaryAmount="1.48" Identification="612295" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.74" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="SCREWDRIVER PLASTIC HANDLE, SQUARE-BLADE (+) NO.2 100MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222477" SystemItemNo="50" MonetaryAmount="3.06" Identification="612296" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="SCREWDRIVER PLASTIC HANDLE, SQUARE-BLADE (+) NO.3 150MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222478" SystemItemNo="51" MonetaryAmount="3.98" Identification="612297" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.99" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="32" Description="WRENCH OPEN &amp; 12-POINT BOX, 14MM" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="21222479" SystemItemNo="52" MonetaryAmount="2.19" Identification="610769" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.73" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.73" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="33" Description="WRENCH OPEN &amp; 12-POINT BOX, 24MM" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="21222480" SystemItemNo="53" MonetaryAmount="5.55" Identification="610776" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.85" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="34" Description="WRENCH OPEN &amp; 12-POINT BOX, 6MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222481" SystemItemNo="54" MonetaryAmount="0.84" Identification="610761" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.42" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="35" Description="WRENCH OPEN &amp; 12-POINT BOX, 7MM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="21222482" SystemItemNo="55" MonetaryAmount="0.84" Identification="610762" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.42" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="36" Description="WRENCH TORQUE PRESET TYPE, 10-50N.M-CM 9.5MM SQ.DRIVE" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222483" SystemItemNo="56" MonetaryAmount="119.50" Identification="611429" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="119.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="119.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="37" Description="WRENCH TORQUE PRESET TYPE, 20-100N.M-CM 12.7MM SQ.DRIVE" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="21222484" SystemItemNo="57" MonetaryAmount="131.00" Identification="611430" DeliveryTime="2" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="131" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="131" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1416.290" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1416.290" />
+    </Quote>
+  </Interchange>
+</MTML>

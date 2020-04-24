@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<LOGINSETTINGS>
+  <APPSETTINGS>
+    <MailTextFilePath>C:\LeS\eSupplierPortal\WebScriptBuyers\DNVGL_PACIFIC\SEA_CONSORTIUM\INBOX</MailTextFilePath>
+    <AuditPath>C:\LeS\eSupplierPortal\eSupplier_Audit</AuditPath>
+    <RFQ_AttachmentPath>C:\LeS\eSupplierPortal\eSupplier_Attachments</RFQ_AttachmentPath>
+    <Mtml_Quote_UploadPath></Mtml_Quote_UploadPath>
+    <Buyer>SM0668_WEB</Buyer>
+    <Supplier>V10001</Supplier>
+    <BuyerName>Sea Consortium Pte. Ltd.</BuyerName>
+    <Actions>RFQ,PO</Actions>
+  </APPSETTINGS>
+  <APPSETTINGS>
+    <MailTextFilePath>C:\LeS\eSupplierPortal\WebScriptBuyers\DNVGL_PACIFIC\NORBULK\INBOX</MailTextFilePath>
+    <AuditPath>C:\LeS\eSupplierPortal\eSupplier_Audit</AuditPath>
+    <RFQ_AttachmentPath>C:\LeS\eSupplierPortal\eSupplier_Attachments</RFQ_AttachmentPath>
+    <Mtml_Quote_UploadPath></Mtml_Quote_UploadPath>
+    <Buyer>SM0711_WEB</Buyer>
+    <Supplier>V10001</Supplier>
+    <BuyerName>Norbulk Shipping UK Ltd</BuyerName>
+    <Actions>RFQ,PO</Actions>
+  </APPSETTINGS>
+  <APPSETTINGS>
+    <MailTextFilePath>C:\LeS\eSupplierPortal\WebScriptBuyers\DNVGL_PACIFIC\ASP\INBOX</MailTextFilePath>
+    <AuditPath>C:\LeS\eSupplierPortal\eSupplier_Audit</AuditPath>
+    <RFQ_AttachmentPath>C:\LeS\eSupplierPortal\eSupplier_Attachments</RFQ_AttachmentPath>
+    <Mtml_Quote_UploadPath></Mtml_Quote_UploadPath>
+    <Buyer>SM0518_WEB</Buyer>
+    <Supplier>V10001</Supplier>
+    <BuyerName>ASP Procurement Services Pte Ltd</BuyerName>
+    <Actions>RFQ,PO</Actions>
+  </APPSETTINGS>
+  <APPSETTINGS>
+    <MailTextFilePath>C:\LeS\eSupplierPortal\WebScriptBuyers\DNVGL_PACIFIC\X-PRESS\INBOX</MailTextFilePath>
+    <AuditPath>C:\LeS\eSupplierPortal\eSupplier_Audit</AuditPath>
+    <RFQ_AttachmentPath>C:\LeS\eSupplierPortal\eSupplier_Attachments</RFQ_AttachmentPath>
+    <Mtml_Quote_UploadPath></Mtml_Quote_UploadPath>
+    <Buyer>SM3171_WEB</Buyer>
+    <Supplier>V10001</Supplier>
+    <BuyerName>X-Press Container Line UK Ltd</BuyerName>
+    <Actions>RFQ,PO</Actions>
+  </APPSETTINGS>
+</LOGINSETTINGS>

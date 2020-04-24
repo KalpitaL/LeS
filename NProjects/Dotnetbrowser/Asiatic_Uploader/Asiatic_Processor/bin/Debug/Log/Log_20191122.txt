@@ -1,0 +1,14 @@
+22-11-2019 16:41:09 ================22-11-2019 16:41:09================
+22-11-2019 16:41:09 Asiatic Quote,POC HTTP processor started
+22-11-2019 16:41:12 
+22-11-2019 16:41:12 Quote processing started.
+22-11-2019 16:41:12 Started Loading interchange object.
+22-11-2019 16:41:12 stopped Loading interchange object.
+22-11-2019 16:41:13 'MTML_QUOTE_LH2-050_2019d-I004_SM3141_V10001_22111917394523.xml' Quote file processing started.
+22-11-2019 16:42:29 ================22-11-2019 16:42:29================
+22-11-2019 16:42:29 Asiatic Quote,POC HTTP processor started
+22-11-2019 16:42:29 
+22-11-2019 16:42:29 Quote processing started.
+22-11-2019 16:42:29 Started Loading interchange object.
+22-11-2019 16:42:29 stopped Loading interchange object.
+22-11-2019 16:42:57 'MTML_QUOTE_LH2-050_2019d-I004_SM3141_V10001_22111917394523.xml' Quote file processing started.

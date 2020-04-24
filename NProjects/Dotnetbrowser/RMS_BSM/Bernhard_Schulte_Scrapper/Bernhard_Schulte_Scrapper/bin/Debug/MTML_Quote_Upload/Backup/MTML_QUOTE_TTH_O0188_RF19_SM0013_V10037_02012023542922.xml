@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="E1029676" Identifier="UNOC" Recipient="SM0013_FUJIBVXLS" Sender="V10037" PreparationDate="2020-Jan-02" PreparationTime="23:54" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="1400" LesRecordID="11883427" LesLinkID="102210" ParentRecordID="11879014" MTML_DOCID="15E2761C-4E63-433D-BFDD-07D4F406E462">
+    <Quote MessageReferenceNumber="102210_RFQ_TTH_O0188_RF19_30122019103156779.xlsm" MessageNumber="102210_RFQ_TTH_O0188_RF19_30122019103156779.xlsm" LineItemCount="1" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" LeadTimeDays="21" BuyerRefNo="TTH/O0188/RF19" OriginalFile="X58659.xml" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="252.5" BuyerQuoteTotal="272.5">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202001022354" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="202001232321" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202002020000" />
+      <Comments Qualifier="SUR">
+        <value> ***
+" "WE HEREBY DECLARE THAT ALL OF OUR SUPPLYING PRODUCTS ARE ASBESTOS-FREE." "HAVE QUOTED GENUINE SPARE PARTS."  FROM FUJI TRADING (MARINE) B.V. , ROTTERDAM THE NETHERLANDS
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value> 30 DAYS AFTER SHIPMENT</value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value> DAP FUJI ROTTERDAM</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="TTH/O0188/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="E1029676" />
+      <Party Qualifier="BY" Identification="SM0013_FUJIBVXLS" Name="Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd." City="Singapore">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V10037" Name="FUJI TRADING (MARINE) B.V.">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="info@fujitrading.nl" />
+        </Contact>
+        <StreetAddress>PO Box 2498 3000Cl</StreetAddress>
+        <StreetAddress>Rotterdam</StreetAddress>
+        <StreetAddress>Sluisjesdijk 109</StreetAddress>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="MCC Ningbo">
+        <PartyLocation Qualifier="TBA" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="SPRING RETURN ACTUATOR&#xD;&#xA;&#xD;&#xA; MAKER: BELIMO&#xD;&#xA;TYPE: SFA-S2&#xD;&#xA;20 NM; 24240 VAC; 50/60 HZ; 24124 VDC; 18 VA; 7.0 W" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="252.50" Identification="2795964" DeliveryTime="21" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="252.5" BuyerItemTotal="252.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="252.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="252.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" Equip Desc :  Equip no : " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="20.000" />
+      <MonetaryAmount Qualifier="_79" Value="252.500" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="272.500" />
+      <MonetaryAmount Qualifier="_90" Value="252.500" />
+      <MonetaryAmount Qualifier="_91" Value="252.500" />
+    </Quote>
+  </Interchange>
+</MTML>

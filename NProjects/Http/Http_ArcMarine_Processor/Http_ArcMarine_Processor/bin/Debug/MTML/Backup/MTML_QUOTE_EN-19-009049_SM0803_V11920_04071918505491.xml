@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="19005568" Identifier="UNOC" Recipient="SM0803_WEB" Sender="V11920" PreparationDate="2019-Jul-04" PreparationTime="18:50" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3767" LesRecordID="11651670" LesLinkID="104548" MTML_DOCID="1D1F3F11-C899-4EE2-8BD8-08D3C1A9FC3F">
+    <Quote MessageReferenceNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=D551458E-719D-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" MessageNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=D551458E-719D-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" LineItemCount="1" VersionNumber="" CurrencyCode="EUR" LeadTimeDays="0" OriginalFile="QUOTE_EN-19-009049_190703_17283567.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201907041850" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="EN-19-009049" />
+      <Reference Qualifier="AAG" ReferenceNumber="19005568" />
+      <Party Qualifier="BY" Name="Arc Marine PTE Ltd">
+        <Contact Name="LALIT KHAIRNAR">
+          <CommunicationMethod Qualifier="TE" Number="68422822" />
+          <CommunicationMethod Qualifier="EM" Number="storemum4@arcmarine.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="GIMAS SHIP SUPPLY &amp;amp; SERVICES B.V.">
+        <Contact>
+          <CommunicationMethod Qualifier="TE" Number="31103027820 31615286575" />
+          <CommunicationMethod Qualifier="EM" Number="rotterdam@gimas.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+        <StreetAddress>-</StreetAddress>
+      </Party>
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="MAGNETIC CONTACTOR OPER COIL,AE PREHEATER- SCNEIDER AE1 - ACCESSORIES" MeasureUnitQualifier="PC" Quantity="3" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="1" MonetaryAmount="0.00" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>Need complete type</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="0.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="0.000" />
+    </Quote>
+  </Interchange>
+</MTML>

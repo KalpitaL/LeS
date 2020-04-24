@@ -1,0 +1,1180 @@
+﻿/****************************************************************************
+* 업무 그룹명 :
+* 설       명 : ERP 전반에 사용되는 공통 css파일
+* 작   성  자 : 양국성
+* 작   성  일 : 2016.7.26
+* copyright ⓒ CIDO All rights reserved.
+****************************************************************************/
+
+
+/****************************************************************************
+* 기본 HTML 태그 : 소스 전체에 적용
+****************************************************************************/
+
+@import url(framework.css);
+body {
+    font-family: 맑은고딕, tahoma;
+	/*font-family: tahoma, 굴림;*/
+    font-size: 12px !important;
+    line-height: 1.42857143;
+    padding: 0;
+}
+
+
+/****************************************************************************
+* 기본 Class 태그 : 소스 전체에 적용
+****************************************************************************/
+
+
+/* 본문 전체를 싸고있는 div */
+
+.wrapBox {
+    /*width: 100%;*/
+    padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    /*min-width: 980px;*/
+    /*padding-right: 20px;*/
+}
+
+.wrapBox_detail {
+    max-width: 1000px;
+}
+
+/*
+    source : erpPopupCom.css
+
+ */
+
+.wrapBox2 {
+    padding: 10px;
+/*    original
+    width: 98%;
+    margin-left: 12px;
+    */
+}
+
+
+/* 본문 헤더를 싸고있는 div - title, location 포함 */
+
+.headBox {
+    /*min-width: 970px;*/
+    /*
+    border-bottom-style: solid;
+    border-left-width: 10px;
+    border-bottom-width: 1px;
+    border-left-style: solid;
+    /*border-color: #7a7a7a; */
+	/*border-color: #2DACB3; */
+	border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #7a7a7a;
+	
+    padding-bottom: 2px;
+	
+	margin-bottom: 10px;
+}
+
+.headBox2 {
+    /*min-width: 970px;*/
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    /*
+    border-left-width: 10px;
+    border-left-style: solid;
+	*/
+    border-color: #7a7a7a;
+    padding-bottom: 2px;
+	margin-bottom: 10px;
+}
+.headBox2 > title {
+	font-size: 14px !important;
+}
+
+.title {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 5px;
+
+}
+
+.location {
+    display: inline-block;
+    float: right;
+	font-size:11px;
+    /* original
+    font-size:11px;
+    color:#666666;
+    float:left;
+    text-align:right;
+    height:23px;
+    width:100%;
+    margin:-23px 0px 0 0px;
+     */
+}
+
+.location input {
+    vertical-align: middle;
+}
+
+
+/* 페이지 상단에 위치한 버튼부, 페이지 전체 제어 */
+
+.buttonBox_d1 {
+    padding: 2px 0;
+    margin-top: 5px;
+	margin-bottom: 5px;
+    /*float: right*/
+    /* original
+    clear:left;
+    height:27px;
+    text-align:right;
+    padding:4px 0px 2px 5px;
+    margin-bottom:-8px;
+    */
+}
+
+
+/* 페이지 중간에 위치한 버튼부 */
+
+.buttonBox_d2 {
+    padding: 2px 0;
+    margin-top: 2px;
+    /*float: right*/
+    /* original
+    width: 100%;
+    text-align: right;
+    */
+}
+
+
+/* 본문 상단에 위치한 검색부를 싸고있는 div */
+
+.searchBox {
+    clear: both;
+    margin-bottom: 15px;
+    border-top: 2px solid #949494; /*#d2d2d2;*/
+    border-bottom: 1px solid #949494;
+    margin-top: 2px;
+	
+    /*
+    color: #000;
+    margin: 5px 0 10px 0;
+    
+    border-left: 2px solid #367dba;
+    border-right: 2px solid #367dba;
+    border-bottom: 2px solid #367dba;
+    background: url(../image/ERPIndex/bg_searchBoxTop.gif) -5px 1px repeat-x;
+     */
+}
+
+.searchBox_top {
+    /*
+    background: url(../image/ERPIndex/bg_searchBoxTitle.gif) center 0px no-repeat;
+    height: 28px;
+    padding-top: 4px;
+    text-align: center;
+    padding-left: 165px;
+    overflow: hidden;
+     */
+}
+
+.searchBox_body {
+    clear: both;
+    overflow: hidden;
+    background: #F5F5F5;
+    /* padding: 2px 0px 2px 3px; */
+	padding: 10px 10px 10px 10px;
+    /*
+    padding:2px 2px 0px 10px;
+    font-size:12px;
+    background:#FFFFFF /*url(../image/ERPIndex/bg_searchBoxMid.gif) left top repeat-y
+    padding:0px 0px 0px 22px;
+    border-left:1px solid #81511c;
+    border-right:1px solid #81511c;
+     */
+}
+
+.searchBox_foot {
+    /*
+    height: 6px;
+    overflow: hidden;
+     */
+}
+
+
+/* 노란색 검색부 */
+
+.searchBox3 {
+    border: 1px #CCC solid;
+    padding: 2px 0 0 2px;
+	margin-top: 5px;
+    /*
+    font-size: 12px;
+    background: #e7ddc1;
+    margin-bottom: 5px;
+    padding-bottom: 6px;
+    border: 1px solid #81511c;
+    */
+}
+
+.searchBox3_out {
+    /*
+    background: url(../image/ERPIndex/bg_searchBoxBtm2.gif) left top repeat-x;
+    overflow: hidden;
+    */
+}
+
+.searchBox3_in {}
+
+.searchBox3_in2 {
+    /*
+    height: 6px;
+    background: url(../image/ERPIndex/bg_searchBoxTop.gif) left top repeat-x;
+    border-top: 1px solid #81511c;
+    padding: 10px;
+    */
+}
+
+
+/* 본문 중간에 위치한 검색부를 싸고있는 div */
+
+.searchBox2 {
+    border: 1px solid #CCC;
+    margin-bottom: 3px;
+    padding: 2px 0 0 2px/*
+    width: 100%;
+    height: 24px;
+    text-align: center;
+    background: url(../image/bg_searchBox2.gif) left top repeat-x;
+    margin: 12px 0 5px 0;
+    padding-top: 10px;
+    */
+}
+
+
+/* 세부 정보를 나타내는 div - infoBox_title, infoBox_body, infoBox_foot 포함 */
+
+.infoBox {
+    margin: 2px 2px;
+    border-top: 0px #949494 solid; /*#D2D2D2 solid;*/
+    /*border-left: 1px #949494 solid;*/ /*#CCC solid;*/
+    /*border-right: 1px #949494 solid;*/ /*#CCC solid;*/
+    border-bottom: 0px #949494 solid; /*#CCC solid;*/
+    padding: 0px;
+    position: relative;
+
+    /*
+    margin: 0px 0 0 -10px;
+    padding: 0;
+    padding-right: 0px;
+    background: url(../Image/TEC/bg_infoBoxTop.gif) top right no-repeat;
+    */
+}
+
+
+
+.infoBox_title {
+
+    margin-top:10px;
+	
+    font-weight: bold;
+	font-size:14px;
+    padding: 1px 0px 0px 15px;
+    /*border-bottom: 2px solid #7A7A7A;*/
+    width: 100% !important;
+    /* position: relative; */
+    /* left: 10px; *//*
+    color: #000;
+    font-size: 12px;
+    font-family: tahoma;
+    font-weight: bold;
+    background: #FFF url(../Image/TEC/bg_infoBoxTitle.gif) top 10px no-repeat;
+    text-indent: 8px;
+    padding: 0px 0px 0 15px;
+    */
+}
+
+.infoBox_title::before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 1;
+    left: 3px;
+    top: 7px;
+    height: 7px;
+    border-left: 7px solid #7A7A7A;
+}
+
+.infoBox_title::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: calc(100% - 15px);
+    left: 15px;
+    top: 19px;
+    z-index: 1;
+    border-top: 1.5px solid #7A7A7A;
+}
+
+    .infoBox_title > a[onclick] {
+        position: absolute;
+        border: 0px;
+    }
+
+/*
+.infoBox_title::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 4px;
+    height: 6px;
+    left: 0px;
+    top: 8px;
+    background-color: #949494;
+    z-index: 1;
+}
+*/
+
+.infoBox_body {
+	margin-top: 10px;
+    padding: 2px 10px 0px 15px;
+    /*
+    color: #000;
+    font-size: 12px;
+    border-right: 0px solid #d0d0bf;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    margin-left: 14px;
+    margin-top: 5px;
+    */
+}
+
+.infoBox_foot {
+    display:none;
+    /*
+    text-align: right;
+    height: 10px;
+    */
+}
+
+.sup_infoBox {
+    margin: 2px 2px;
+    border-top: 0px #949494 solid; /*#D2D2D2 solid;*/
+    /*border-left: 1px #949494 solid;*/ /*#CCC solid;*/
+    /*border-right: 1px #949494 solid;*/ /*#CCC solid;*/
+    border-bottom: 0px #949494 solid; /*#CCC solid;*/
+    padding: 0px;
+    position: relative;
+
+    /*
+    margin: 0px 0 0 -10px;
+    padding: 0;
+    padding-right: 0px;
+    background: url(../Image/TEC/bg_infoBoxTop.gif) top right no-repeat;
+    */
+}
+
+
+
+.sup_infoBox_title {
+    font-weight: bold;
+    padding: 1px 0px 0px 15px;
+    /*border-bottom: 2px solid #7A7A7A;*/
+    width: 100% !important;
+    /* position: relative; */
+    /* left: 10px; *//*
+    color: #000;
+    font-size: 12px;
+    font-family: tahoma;
+    font-weight: bold;
+    background: #FFF url(../Image/TEC/bg_infoBoxTitle.gif) top 10px no-repeat;
+    text-indent: 8px;
+    padding: 0px 0px 0 15px;
+    */
+}
+
+.sup_infoBox_title::before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 1;
+    left: 3px;
+    top: 7px;
+    height: 7px;
+    border-left: 7px solid #7A7A7A;
+}
+
+.sup_infoBox_title::after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: calc(100% - 15px);
+    left: 15px;
+    top: 19px;
+    z-index: 1;
+    border-top: 1.5px solid #7A7A7A;
+}
+
+/*
+.infoBox_title::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 4px;
+    height: 6px;
+    left: 0px;
+    top: 8px;
+    background-color: #949494;
+    z-index: 1;
+}
+*/
+
+.sup_infoBox_body {
+    padding: 2px 10px 0px 15px;
+    /*
+    color: #000;
+    font-size: 12px;
+    border-right: 0px solid #d0d0bf;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    margin-left: 14px;
+    margin-top: 5px;
+    */
+}
+
+.sup_infoBox_foot {
+    /*
+    text-align: right;
+    height: 10px;
+    */
+}
+
+.searchBox>table .btn-group-xs>.btn, .btn-xs {
+    /*margin-bottom: 12px;*/
+    vertical-align: super;
+}
+
+/* 검색결과를 나타내는 div */
+
+.resultBox {
+    padding: 5px 2px 2px 0/*
+    color: #666666;
+    height: 18px;
+    */
+}
+
+
+/* 현재상태를 나타내는 div */
+
+.statuBox {
+    /*
+    font-size: 12px;
+    color: #707063;
+    padding: 6px 5px 5px 22px;
+    margin: 2px 0 5px 0px;
+    background: #f0f0ec;
+    border: 1px solid #d0d0bf;
+    clear: both;
+    */
+}
+
+
+/* 도움말을 나타내는 div  */
+
+.tipBox {
+    background-color: #f2f2f2;
+    border: 1px solid #d8d8d8;
+    font-size: 12px;
+    padding: 2px;
+    font-weight: bold;
+}
+
+
+/* 도움말을 나타내는 div - 본문 중간에 사용  */
+
+.tipBox2 {
+    /*
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    */
+}
+
+
+/****************************************************************************
+* 시스템 폰트 : 소스 전체에 적용
+****************************************************************************/
+
+
+/*폰트*/
+
+.boldBlack {
+    color: #000000;
+    font-weight: bold;
+}
+
+.boldRed {
+    color: #FF0000;
+    font-weight: bold;
+}
+
+.boldBlue {
+    color: #003399;
+    font-weight: bold;
+}
+
+.black {
+    color: #000000;
+}
+
+.red {
+    color: #FF0000;
+}
+
+.blue {
+    color: #003399;
+}
+
+
+/****************************************************************************
+*   CORE에서 분리해야 할 부분
+*
+*
+****************************************************************************/
+
+
+/*
+    aspx 파일 내에 inline형태로 존재함
+ */
+
+@media print {
+    .noprint {
+        display: none;
+    }
+}
+
+
+/****************************************************************************
+* TEC : TEC 소스 전체에 적용
+****************************************************************************/
+
+
+/* PMS */
+
+
+/* 세부 정보를 나타내는 div - infoBox_title, infoBox_body, infoBox_foot 포함 */
+
+.pms_infoBox {
+    margin: 2px 2px;
+    width: 100%;
+    border-top: 0px #949494 solid; /*#D2D2D2 solid;*/
+    /*border-left: 1px #949494 solid;*/ /*#CCC solid;*/
+    /*border-right: 1px #949494 solid;*/ /*#CCC solid;*/
+    border-bottom: 0px #949494 solid; /*#CCC solid;*/
+    padding: 0px;
+    position: relative;
+
+    /*
+    margin: 0px 0 0 -10px;
+    padding: 0;
+    padding-right: 0px;
+    background: url(../Image/TEC/bg_infoBoxTop.gif) top right no-repeat;
+    */
+}
+
+.pms_infoBox_title {
+    font-weight: bold;
+    padding: 1px 0px 0px 15px;
+    border-bottom: 2px solid #7A7A7A;
+    width: 100% !important;
+    /* position: relative; */
+    /* left: 10px; *//*
+    color: #000;
+    font-size: 12px;
+    font-family: tahoma;
+    font-weight: bold;
+    background: #FFF url(../Image/TEC/bg_infoBoxTitle.gif) top 10px no-repeat;
+    text-indent: 8px;
+    padding: 0px 0px 0 15px;
+    */
+}
+
+.pms_infoBox_title::before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 5px;
+    height: 10px;
+    border-left: 10px solid #7A7A7A;
+}
+
+.pms_infoBox_body {
+    padding: 5px 10px 0px 15px;
+    /*
+    color: #000;
+    font-size: 12px;
+    border-right: 0px solid #d0d0bf;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    margin-left: 14px;
+    margin-top: 5px;
+    */
+}
+
+.pms_infoBox_foot {
+    /*
+    height: 8px;
+    */
+}
+
+
+/* */
+
+.pms_infoBox2 {
+    margin: 7px 2px;
+    border-top: 0px #949494 solid; /*#D2D2D2 solid;*/
+    /*border-left: 1px #949494 solid;*/ /*#CCC solid;*/
+    /*border-right: 1px #949494 solid;*/ /*#CCC solid;*/
+    border-bottom: 0px #949494 solid; /*#CCC solid;*/
+    padding: 0px;
+    position: relative;
+
+    /*
+    margin: 0px 0 0 -10px;
+    padding: 0;
+    padding-right: 0px;
+    background: url(../Image/TEC/bg_infoBoxTop.gif) top right no-repeat;
+    */
+}
+
+.pms_infoBox_title2 {
+    font-weight: bold;
+    padding: 1px 0px 0px 15px;
+    border-bottom: 2px solid #7A7A7A;
+    width: 100% !important;
+    /* position: relative; */
+    /* left: 10px; *//*
+    color: #000;
+    font-size: 12px;
+    font-family: tahoma;
+    font-weight: bold;
+    background: #FFF url(../Image/TEC/bg_infoBoxTitle.gif) top 10px no-repeat;
+    text-indent: 8px;
+    padding: 0px 0px 0 15px;
+    */
+}
+
+.pms_infoBox_title2::before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: 1;
+    left: 0px;
+    top: 5px;
+    height: 10px;
+    border-left: 10px solid #7A7A7A;
+}
+
+.pms_infoBox_body2 {
+    /*
+    padding: 5px;
+    */
+}
+
+.infoBox_body2 {
+    margin-left: 5px;
+    padding: 5px;
+}
+
+
+/*  김소영 추가 */
+
+.toolsBox img {
+    /*
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    */
+}
+
+.toolsBox {
+    /*
+    float: left;
+    width: 135px;
+    margin-left: -2px;
+    padding-top: -20px;
+    border-right: 2px solid #367dba;
+    */
+}
+
+.toolsBox_title {
+    /*
+    height: 29px;
+    background: url(../Image/TEC/img_tools.gif) left top no-repeat;
+    */
+}
+
+.toolsBox_body {
+    /*
+    vertical-align: top;
+    background: #97bcdb;
+    */
+}
+
+.toolsBox_foot {
+    /*
+    height: 2px;
+    background: #367dba;
+    */
+}
+
+
+/****************************************************************************
+* COM : COM 소스 전체에 적용
+****************************************************************************/
+
+
+/*
+    source : comCom.css
+
+ */
+
+
+/* 그리드형 테이블 디자인 - Shop Trial Information에 사용 */
+
+.grayTable {
+    border: 1px solid #CCC/*
+    border-top: 3px solid #999999;
+    border-left: 1px solid #999999;
+    border-right: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+    border-collapse: collapse;
+    */
+}
+
+.grayTable td {
+    /*border:1px solid #CCC*/
+}
+
+.grayTableHead {
+    /*
+    background-color: #E5E5E5;
+    */
+}
+
+.grayTableHeadTd {
+    background: #E6E6E6/*
+    height: 19px;
+    width: 20%;
+    border-bottom: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    */
+}
+
+.grayTableTd {
+    padding: 7px 0 0 3px/*
+    border-bottom: 1px solid #CCCCCC;
+    border-right: 1px solid #EFEFEF;
+    */
+}
+
+.grayTableLeft td {
+    padding: 3px;
+    margin: 1px/*
+    background-color: #F5F5F5;
+    border-bottom: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    */
+}
+
+
+/* 코드그룹관리 화면 관련 */
+
+
+/* 그리드 - gridBox_title 포함 */
+
+.gridBox {
+    /*float:left; */
+}
+
+.gridBox_title {
+    /*
+    font-size: 12px;
+    padding-top: 3px;
+    font-weight: bold;
+    background: url(../Image/icon/icon_arrow.gif) left 5px no-repeat;
+    text-indent: 10px;
+    position: absolute;
+    */
+}
+
+
+/****************************************************************************
+* EPR : ERP 소스 전체에 적용
+****************************************************************************/
+
+
+/*
+    source : erpCom.css
+
+ */
+
+
+/* 문서정보를 나타내는 div */
+
+.docBox {
+    margin: 3px 0;
+    padding: 3px 0 0 3px;
+    border: 1px solid #CCC;
+    border-top: 1px solid #CCC;/*
+    font-size: 12px;
+    color: #707063;
+    padding: 5px 5px 5px 22px;
+    margin: 8px 0 5px 0px;*/
+    background: #f0f0ec;/*
+    border: 1px solid #d0d0bf
+    */
+}
+
+
+/* 아이프레임으로 불러들인 body */
+
+.blankbody {
+    /*
+    width: 970px;
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    */
+}
+
+
+/* 아이프레임으로 불러들인 body */
+
+.blankbody2 {
+    /*
+    width: 950px;
+    margin: 0;
+    padding: 0;
+    background: #FFFFFF;
+    */
+}
+
+
+/*
+    srouce : whsPopupCom.css
+ */
+
+.bodyBox {
+    /*
+    padding: 5px;
+    */
+}
+
+
+/****************************************************************************
+* GRP : GRP 소스 전체에 적용
+****************************************************************************/
+
+
+/*
+    source : grpCom.css;
+*/
+
+
+/* 결재서브메인 화면 - 20080307 추가 */
+
+.approvalBox {
+    /*
+    position: relative;
+    top: 30px;
+    width: 780px;
+    background: url(../Image/PotalIndex/bg_approval.gif) left top no-repeat;
+    */
+}
+
+.approvalBox_btm {
+    /*
+    position: relative;
+    top: 30px;
+    width: 780px;
+    height: 12px;
+    background: url(../Image/PotalIndex/bg_approval_btm.gif) right bottom no-repeat;
+    */
+}
+
+.approvalBox_out {
+    /*
+    position: relative;
+    left: 488px;
+    top: -136px;
+    width: 281px;
+    height: 40px;
+    background: url(../Image/PotalIndex/bg_approval_count.gif) left top no-repeat;
+    padding-left: 30px;
+    font-weight: bold;
+    */
+}
+
+.approvalBox_in {
+    /*
+    width: 205px;
+    float: left;
+    font-size: 11px;
+    margin-top: 3px;
+    */
+}
+
+.approvalBox_in2 {
+    /*
+    float: left;
+    text-align: center;
+    line-height: 40px;
+    */
+}
+
+.approvalBox_out2 {
+    /*
+    position: relative;
+    left: 205px;
+    top: 79px;
+    width: 281px;
+    height: 40px;
+    background: url(../Image/PotalIndex/bg_approval_count2.gif) left top no-repeat;
+    padding-left: 30px;
+    font-weight: bold;
+    */
+}
+
+.alignLeft {
+    /*
+    padding-left: 5px;
+    color: #000000;
+    */
+}
+
+
+/*
+    source : base.com
+ */
+
+.line-font {
+    /*
+    letter-spacing: -0em
+    */
+}
+
+
+/****************************************************************************
+* ACC : ACC 소스 전체에 적용
+****************************************************************************/
+
+
+/*
+    source : acc base.css;
+ */
+
+.Summary_Info {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.Summary_Info_Right {
+    text-align: right;
+    vertical-align: middle;
+}
+
+.Summary_Info_Left {
+    text-align: left;
+    vertical-align: middle;
+}
+
+
+.WebGrid_HeaderStyle_Invoice
+{	
+	/*background-color:#E5E5E5;*/
+	background-color:#4E555F;
+	border-color: #333333;
+	border-style: solid;
+	border-width: 1px;
+	border-left-color: #e6e6e0;
+	border-left-width: 1px;
+	border-top-color: Window;
+	border-top-width: 1px;
+	font-family: Tahoma, 굴림;
+	text-align: center;
+	font-size:12px;
+	color:#FFFFFF;
+	height: 30px;
+	padding-left: 10px;
+	
+	/*
+	UltraWebGrid에서 특정 스타일을 자동으로 만들어주기 때문에
+	스타일 시트로 처리할 수 없음.
+
+	font-weight: bold;
+	color :#414131;
+	*/
+}
+
+.WebGrid_RowStyle_Invoice
+{
+	border-color: #cccccc;
+	border-style: solid;
+	border-width: 1px;
+	font-family: Tahoma, 굴림;
+	font-size:12px;
+	cursor: pointer;
+	padding-left: 3px;
+	text-align: center;
+	height: 30px;
+}
+
+.WebGrid_RowAlternateStyle_Invoice
+{
+	background-color: #F5F5F5;/*F5F5F5*/
+	border-color: #cccccc;
+	border-style: solid;
+	border-width: 1px;
+	font-family: Tahoma, 굴림;
+	font-size:12px;
+	cursor: pointer;
+	padding-left: 3px;
+	text-align: center;
+	height: 30px;
+}
+
+.WebGrid_SelectedRowStyle
+{
+	background-color: #337AB7;
+	border-color: #cccccc; 
+	border : 1px;
+	/*border-left:1px solid #d4ddec;*/
+	font-family: Tahoma, 굴림;
+	font-size:12px;
+	/*font-weight: bold; */
+	cursor: pointer;
+	padding-left: 1px;
+	color : #FFFFFF;
+	text-align: center;
+	height: 30px;
+	padding-left: 3px;
+}
+
+.WebGrid_SelectedRowStyle a {
+    color: white;
+}
+
+.WebGrid_RowColumnFixedStyle
+{
+	white-space:nowrap; 
+	overflow:hidden;
+}
+
+a[disabled="disabled"] {
+    pointer-events: none;
+}
+
+/****************************************************************************
+* Common : flex CSS
+****************************************************************************/
+
+html.flexbox,
+html.flexbox > body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.flexbox-parent {
+    /*width: 100%;*/
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    /* align items in Main Axis */
+    align-items: stretch;
+    /* align items in Cross Axis */
+}w
+
+.flexbox-item-grow {
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    /* same as flex: 1 1 auto; */
+}
+
+ iframe.flexbox-item-grow {
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    /* same as flex: 1 1 auto; */
+}
+
+/****************************************************************************
+* Common : 입력 조회 컨트롤 위치 조정용
+****************************************************************************/
+
+td table ~ a.btn {
+    vertical-align: super !important;
+}
+
+td table ~ span {
+    vertical-align: super;
+}
+
+label {
+    font-weight: normal !important;
+}
+/****************************************************************************
+* Developer : 테스트용
+****************************************************************************/
+
+iframe#crownix-viewer {
+    height: 100%;
+}
+
+iframe#ifrmReport {
+    height: 100%;
+}
+
+.buttonBox_d1 .RadAjaxPanel,
+.buttonBox_d2 .RadAjaxPanel  {
+    display: inline-block !important;
+}
+
+/****************************************************************************
+* Approval : 결재 문서 상세 정보 관련
+****************************************************************************/
+#appDocPanel {
+    padding-left: 30px;
+}
+
+.appDocPanelBtn > i {
+    margin-right: 4px !important;
+    color: green;
+}
+
+
+.activeAppDocPanelItem > i {
+    color: inherit;
+}
+
+/****************************************************************************
+* GRP : 규정 관련
+****************************************************************************/
+/* 링크 */
+.reviselink, .reviseFile
+    {
+    border-bottom:1px dashed #448ac9;
+    cursor:pointer;
+    color:blue;
+    }

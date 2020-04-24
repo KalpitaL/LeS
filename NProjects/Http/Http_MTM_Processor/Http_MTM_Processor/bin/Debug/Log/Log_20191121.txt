@@ -1,0 +1,21 @@
+21-11-2019 15:20:07 ================21-11-2019 15:20:07================
+21-11-2019 15:20:07 MTM RFQ Download HTTP processor started
+21-11-2019 15:20:08 No RFQ Found !
+21-11-2019 15:20:09 Started Loading interchange object.
+21-11-2019 15:20:09 stopped Loading interchange object.
+21-11-2019 15:20:11 Processing quote started for ref no: PHU-5265-B1
+21-11-2019 15:20:12 Currency saved.
+21-11-2019 15:20:23 Item Details saved.
+21-11-2019 15:20:23 Header details saved.
+21-11-2019 15:20:23 Error while setting other header details: Mismatch total of mtml 3161 with site total 4418.70
+21-11-2019 15:20:23 MTM RFQ Download HTTP processor stopped
+21-11-2019 15:20:23 ====================================================
+21-11-2019 15:22:18 ================21-11-2019 15:22:18================
+21-11-2019 15:22:18 MTM RFQ Download HTTP processor started
+21-11-2019 15:22:18 No RFQ Found !
+21-11-2019 15:22:20 Started Loading interchange object.
+21-11-2019 15:22:20 stopped Loading interchange object.
+21-11-2019 15:22:30 Processing quote started for ref no: PHU-5265-B1
+21-11-2019 15:22:37 Currency saved.
+21-11-2019 15:22:46 Item Details saved.
+21-11-2019 15:23:05 Header details saved.

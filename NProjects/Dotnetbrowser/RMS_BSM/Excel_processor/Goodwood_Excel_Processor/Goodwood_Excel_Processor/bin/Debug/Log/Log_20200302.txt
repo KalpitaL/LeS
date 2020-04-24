@@ -1,0 +1,31 @@
+3/2/2020 11:32:29 AM ========================================================
+3/2/2020 11:32:29 AM Excel Special Routine started.
+3/2/2020 11:32:30 AM Excel Special Routine stopped.
+3/2/2020 11:32:30 AM ========================================================
+3/2/2020 11:32:55 AM ========================================================
+3/2/2020 11:32:55 AM Excel Special Routine started.
+3/2/2020 11:32:55 AM 1 Excel file found.
+3/2/2020 11:32:59 AM Process started for '9211284_RFQ_ULY_O0072_RF20_02032020014115512.xlsm'
+3/2/2020 11:33:01 AM Loading config mapping file 'BS_Excel_Mapping.xml'
+3/2/2020 11:33:01 AM Loading Excel Routine started for '9211284_RFQ_ULY_O0072_RF20_02032020014115512.xlsm'
+3/2/2020 11:33:08 AM Loading Excel Routine successful for '9211284_RFQ_ULY_O0072_RF20_02032020014115512.xlsm'
+3/2/2020 11:33:12 AM Processing RFQ details for 9211284_RFQ_ULY_O0072_RF20_02032020014115512.xlsm
+3/2/2020 11:34:52 AM ========================================================
+3/2/2020 11:34:52 AM Excel Special Routine started.
+3/2/2020 11:34:52 AM 1 Excel file found.
+3/2/2020 11:34:53 AM Process started for '9211284_RFQ_ULY_O0072_RF20_02032020014115512.xlsm'
+3/2/2020 11:34:53 AM Loading config mapping file 'BS_Excel_Mapping.xml'
+3/2/2020 11:34:53 AM Loading Excel Routine started for '9211284_RFQ_ULY_O0072_RF20_02032020014115512.xlsm'
+3/2/2020 11:34:55 AM Loading Excel Routine successful for '9211284_RFQ_ULY_O0072_RF20_02032020014115512.xlsm'
+3/2/2020 11:34:56 AM Processing RFQ details for 9211284_RFQ_ULY_O0072_RF20_02032020014115512.xlsm
+3/2/2020 11:35:07 AM Reading Header Details started.
+3/2/2020 11:35:07 AM Buyer Ref : ULY/O0072/RF20
+3/2/2020 11:35:07 AM Vessel : Interlink Utility
+3/2/2020 11:35:07 AM Doc_Date : 3/2/2020 12:00:00 AM
+3/2/2020 11:35:07 AM Currency : 
+3/2/2020 11:35:07 AM PortCode : Incheon
+3/2/2020 11:35:07 AM VendorName : ACE-RMS MARINE SERVICE CO., LTD
+3/2/2020 11:35:08 AM Processing Item details.
+3/2/2020 11:35:09 AM Item details Add to the List : 1~CONDOM (PROPHYLACTIC RUBBER), 12'S Condoms, assorted sizes~391226~~~~~20~PKT~~~~~~20~ Equip Desc :  Equip no : ~
+3/2/2020 11:35:09 AM Item details Add to the List : 2~WATER DISINFECTION SET INCLUDING MEASURE KIT/TEST STRIPS FOR PH AND FOR RESIDUAL CHLORINE~2068556~~~~~1~PCS~~~~~~21~ Equip Desc :  Equip no : ~
+3/2/2020 11:35:09 AM Item details Add to the List : 3~CHLORPYRIFOS-METHYL 7-10G/L, SPRAY  To use against cockroaches in other areas than food storage and preparation area.~391948~~~~~10~PCS~~~~~~22~ Equip Desc :  Equip no : ~

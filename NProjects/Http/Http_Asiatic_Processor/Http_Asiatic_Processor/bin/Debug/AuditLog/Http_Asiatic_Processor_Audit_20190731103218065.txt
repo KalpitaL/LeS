@@ -1,0 +1,1 @@
+||Asiatic_HTTP_RFQ|_RFQError_20190731103215_.png||Error|19-07-31 10:32 : Exception while processing file - 190725_161448073.msg : RFQ Domain not found in list.||LeS_182|||Http_Asiatic_Processor

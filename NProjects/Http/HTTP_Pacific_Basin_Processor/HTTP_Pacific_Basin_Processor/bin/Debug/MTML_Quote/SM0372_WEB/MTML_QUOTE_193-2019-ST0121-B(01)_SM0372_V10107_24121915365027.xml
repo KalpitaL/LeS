@@ -1,0 +1,448 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8820002-1" Identifier="UNOC" Recipient="SM0372_WEB" Sender="V10107" PreparationDate="2019-Dec-24" PreparationTime="15:36" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2026" LesRecordID="11875515" LesLinkID="103276" ParentRecordID="11873570" MTML_DOCID="50E010D1-2F58-4788-B9E6-67F695D284C1">
+    <Quote MessageReferenceNumber="193-2019-ST0121-B(01)" MessageNumber="https://supplierportal.dnvgl.com/#/3lVQGmPY2yGrRd71kNRg/1|aP0ynjq" LineItemCount="45" VersionNumber="1" CurrencyCode="EUR" LeadTimeDays="0" BuyerRefNo="193-2019-ST0121-B(01)" OriginalFile="20191224082438-QUO-193-2019-ST0121-B(01)-1.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="23312.55" BuyerQuoteTotal="23312.55">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201912240936" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202002221536" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>Medicine</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="193-2019-ST0121-B(01)" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8820002-1" />
+      <Party Qualifier="UD" Name="English Bay">
+        <PartyLocation Qualifier="ZUC" Berth=" Belgium" Port="ANTWERPEN " />
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Name="Neko Ship Supply BV">
+        <Contact />
+        <StreetAddress>Klompenmakerstraat 71,Rotterdam,Netherlands</StreetAddress>
+      </Party>
+      <Party Qualifier="BY" Name="Pacific Basin Shipping (HK) Ltd.">
+        <Contact Name="Jacky Cheng">
+          <CommunicationMethod Qualifier="TE" Number="2233 7170" />
+          <CommunicationMethod Qualifier="EM" Number="jcheng@pacificbasin.com" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="ACETYLSALICYLIC/ASPIRIN 300MG 100 TABL" MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="051/01922/2019" SystemItemNo="1" MonetaryAmount="35.28" IsExtraItem="0" ItemStatus="Original" Byr_Qty="600" Supp_Qty="6" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="5.88" BuyerItemTotal="3528" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.88" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 6 | UOM : PCE | ACETYLSALICYLIC/ASPIRIN 300MG 100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="ARTEMETER 80MG/ML-1ML INJECTION 5 AMP" MeasureUnitQualifier="BX" Quantity="4" TypeCode="BP" OriginatingSystemRef="051/01923/2019" SystemItemNo="2" MonetaryAmount="41.04" Identification="391706" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="4" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="10.26" BuyerItemTotal="205.2" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.26" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.26" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 4 | UOM : BO | ARTEMETER 80MG/ML-1ML INJECTION 5 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="ARTEMETER+LUMEFANTRINE 20/120MG 24 TABL" MeasureUnitQualifier="BX" Quantity="8" TypeCode="BP" OriginatingSystemRef="051/01924/2019" SystemItemNo="3" MonetaryAmount="60.00" Identification="391707" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="8" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="7.5" BuyerItemTotal="1500" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.5" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 8 | UOM : BO | ARTEMETER+LUMEFANTRINE 20/120MG 24 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="AZITROMYCIN 500MG      3 TABL" MeasureUnitQualifier="BX" Quantity="100" TypeCode="BP" OriginatingSystemRef="051/01925/2019" SystemItemNo="4" MonetaryAmount="642.00" Identification="391709" IsExtraItem="0" ItemStatus="Original" Byr_Qty="300" Supp_Qty="100" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="6.42" BuyerItemTotal="1926" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.42" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 100 | UOM : BO | AZITROMYCIN 500MG      3 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="CEFTRIAXONE 1GRAM INJECTION 10 AMP" MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01926/2019" SystemItemNo="5" MonetaryAmount="64.78" Identification="391710" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="2" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="32.39" BuyerItemTotal="647.8" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="32.39" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="32.39" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : BO | CEFTRIAXONE 1GRAM INJECTION 10 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="CETIRIZINE 10MG      30 TABL" MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01927/2019" SystemItemNo="6" MonetaryAmount="15.44" Identification="391711" IsExtraItem="0" ItemStatus="Original" Byr_Qty="60" Supp_Qty="2" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="7.72" BuyerItemTotal="463.2" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.72" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : BO | CETIRIZINE 10MG      30 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="CIPROFLOXACIN=CIPROXIN 250MG     20 TABL" MeasureUnitQualifier="BX" Quantity="10" TypeCode="BP" OriginatingSystemRef="051/01928/2019" SystemItemNo="7" MonetaryAmount="62.10" Identification="391713" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="10" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="6.21" BuyerItemTotal="1242" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.21" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.21" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 10 | UOM : BO | CIPROFLOXACIN=CIPROXIN 250MG     20 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="CLOVE OIL/TOOTH ANAESTETIC  20 ML" MeasureUnitQualifier="BX" Quantity="5" TypeCode="BP" OriginatingSystemRef="051/01929/2019" SystemItemNo="8" MonetaryAmount="14.70" Identification="391714" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="2.94" BuyerItemTotal="14.7" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.94" />
+        <Comments Qualifier="LIN">
+          <value>CLOVE OIL/TOOTH ANAESTETIC  20 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="DEXAMETHASON 4MG/ML           5 AMP" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01930/2019" SystemItemNo="9" MonetaryAmount="4.86" Identification="391715" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="1" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="4.86" BuyerItemTotal="24.3" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.86" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.86" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : BO | DEXAMETHASON 4MG/ML           5 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="BISACODYL 5MG EQ DOCUSATE  50 TABL" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01931/2019" SystemItemNo="10" MonetaryAmount="3.61" Identification="391717" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="1" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="3.61" BuyerItemTotal="180.5" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.61" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : BO | BISACODYL 5MG EQ DOCUSATE  50 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="DOXYCYCLINE 100MG             100 TABL" MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01932/2019" SystemItemNo="11" MonetaryAmount="27.96" Identification="390631" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="2" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="13.98" BuyerItemTotal="2796" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="13.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="13.98" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : BO | DOXYCYCLINE 100MG             100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="ETHANOL 70%        500 ML" MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01933/2019" SystemItemNo="12" MonetaryAmount="8.32" Identification="391720" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="4.16" BuyerItemTotal="8.32" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.16" />
+        <Comments Qualifier="LIN">
+          <value>ETHANOL 70%        500 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="ETHANOL 70% HANDCLEANER GEL  250ML" MeasureUnitQualifier="BX" Quantity="12" TypeCode="BP" OriginatingSystemRef="051/01934/2019" SystemItemNo="13" MonetaryAmount="64.08" Identification="391719" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="5.34" BuyerItemTotal="64.08" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.34" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.34" />
+        <Comments Qualifier="LIN">
+          <value>ETHANOL 70% HANDCLEANER GEL  250ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="GLUCAGON 1MG (1IE) INJECTION 1 PCS" MeasureUnitQualifier="BX" Quantity="10" TypeCode="BP" OriginatingSystemRef="051/01935/2019" SystemItemNo="14" MonetaryAmount="399.60" Identification="391723" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="39.96" BuyerItemTotal="399.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="39.96" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="39.96" />
+        <Comments Qualifier="LIN">
+          <value>GLUCAGON 1MG (1IE) INJECTION 1 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="HALOPERIDOL (HALDOL) 5MG/1ML  5 AMP" MeasureUnitQualifier="BX" Quantity="4" TypeCode="BP" OriginatingSystemRef="051/01936/2019" SystemItemNo="15" MonetaryAmount="20.28" Identification="391724" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="4" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="5.07" BuyerItemTotal="101.4" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.07" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.07" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 4 | UOM : BO | HALOPERIDOL (HALDOL) 5MG/1ML  5 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="IBUPROFEN 400MG=BRUFEN       50 TABL" MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01937/2019" SystemItemNo="16" MonetaryAmount="7.34" Identification="391726" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="2" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="3.67" BuyerItemTotal="367" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.67" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : BO | IBUPROFEN 400MG=BRUFEN       50 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="ISOSORBIDE DIN. 5MG/GLYC.TRIN.   20 TABL" MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01938/2019" SystemItemNo="17" MonetaryAmount="3.92" Identification="391727" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="2" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="1.96" BuyerItemTotal="78.4" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.96" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.96" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : BO | ISOSORBIDE DIN. 5MG/GLYC.TRIN.   20 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="LOPERAMIDE 2MG              20 TABL" MeasureUnitQualifier="BX" Quantity="5" TypeCode="BP" OriginatingSystemRef="051/01939/2019" SystemItemNo="18" MonetaryAmount="15.90" Identification="391729" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="5" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="3.18" BuyerItemTotal="318" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.18" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 5 | UOM : BO | LOPERAMIDE 2MG              20 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="MEBENDAZOL 100MG               6 TABL" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01940/2019" SystemItemNo="19" MonetaryAmount="2.70" Identification="391730" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="1" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="2.7" BuyerItemTotal="16.2" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.7" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.7" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : BO | MEBENDAZOL 100MG               6 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="METOPROLOL 100MG          30 TABL" MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01941/2019" SystemItemNo="20" MonetaryAmount="6.36" Identification="391731" IsExtraItem="0" ItemStatus="Original" Byr_Qty="60" Supp_Qty="2" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="3.18" BuyerItemTotal="190.8" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.18" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : BO | METOPROLOL 100MG          30 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="METRONIDAZOL 1 GRAM 10 SUPP" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01942/2019" SystemItemNo="21" MonetaryAmount="14.18" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="1" Supp_UOM="PCE" Supp_Price="14.18" BuyerItemTotal="141.8" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.18" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCE | METRONIDAZOL 1 GRAM 10 SUPP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="MICONAZOL 2% CREAM (DAKTARIN)  30 GRAM" MeasureUnitQualifier="PCE" Quantity="5" TypeCode="BP" OriginatingSystemRef="051/01943/2019" SystemItemNo="22" MonetaryAmount="17.00" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="3.4" BuyerItemTotal="17" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.4" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.4" />
+        <Comments Qualifier="LIN">
+          <value>MICONAZOL 2% CREAM (DAKTARIN)  30 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="MIDAZOLAM 5MG/1ML      5 AMP" MeasureUnitQualifier="BX" Quantity="4" TypeCode="BP" OriginatingSystemRef="051/01944/2019" SystemItemNo="23" MonetaryAmount="43.20" Identification="391734" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="4" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="10.8" BuyerItemTotal="216" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.8" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 4 | UOM : BO | MIDAZOLAM 5MG/1ML      5 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="NALOXONE HCL 0,4MG/ML       6 AMP" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01945/2019" SystemItemNo="24" MonetaryAmount="20.40" Identification="390656" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="1" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="20.4" BuyerItemTotal="102" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="20.4" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="20.4" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCE | NALOXONE HCL 0,4MG/ML       6 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="OMEPRAZOL 20MG     30 PCS" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01946/2019" SystemItemNo="25" MonetaryAmount="5.24" Identification="391739" IsExtraItem="0" ItemStatus="Original" Byr_Qty="30" Supp_Qty="1" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="5.24" BuyerItemTotal="157.2" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.24" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : BO | OMEPRAZOL 20MG     30 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="ONDANSETRON 4MG       10 PCS" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01947/2019" SystemItemNo="26" MonetaryAmount="5.34" Identification="391740" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="1" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="5.34" BuyerItemTotal="53.4" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.34" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.34" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : BO | ONDANSETRON 4MG       10 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="XYLOMETAZOLINE 0,1% NOSEDROPS   10 ML" MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01948/2019" SystemItemNo="27" MonetaryAmount="6.48" Identification="391742" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="3.24" BuyerItemTotal="6.48" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.24" />
+        <Comments Qualifier="LIN">
+          <value>XYLOMETAZOLINE 0,1% NOSEDROPS   10 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="PERMETRINE LOTION 1%  100 ML" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01949/2019" SystemItemNo="28" MonetaryAmount="7.93" Identification="391744" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="7.93" BuyerItemTotal="7.93" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.93" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.93" />
+        <Comments Qualifier="LIN">
+          <value>PERMETRINE LOTION 1%  100 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="PERMETRINE LOTION 5%  250 ML" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01950/2019" SystemItemNo="29" MonetaryAmount="7.07" Identification="391745" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="7.07" BuyerItemTotal="7.07" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.07" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.07" />
+        <Comments Qualifier="LIN">
+          <value>PERMETRINE LOTION 5%  250 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="POVIDONE 10% OINTMENT 25 GRAM" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01951/2019" SystemItemNo="30" MonetaryAmount="4.78" Identification="391746" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="4.78" BuyerItemTotal="4.78" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.78" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.78" />
+        <Comments Qualifier="LIN">
+          <value>POVIDONE 10% OINTMENT 25 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="POVIDONE 10% IODINE SOLUTION  200 ML" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01952/2019" SystemItemNo="31" MonetaryAmount="3.24" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="3.24" BuyerItemTotal="3.24" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.24" />
+        <Comments Qualifier="LIN">
+          <value>POVIDONE 10% IODINE SOLUTION  200 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="32" Description="ANAESTHETIC EYE DROPS 10ML" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01953/2019" SystemItemNo="32" MonetaryAmount="8.32" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="4.16" BuyerItemTotal="8.32" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.16" />
+        <Comments Qualifier="LIN">
+          <value>ANAESTHETIC EYE DROPS 10ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="33" Description="PHYTOMENADIONE 10MG/ML (VIT.K)  1 AMP" MeasureUnitQualifier="BX" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01954/2019" SystemItemNo="33" MonetaryAmount="4.06" Identification="391751" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="2.03" BuyerItemTotal="4.06" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.03" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.03" />
+        <Comments Qualifier="LIN">
+          <value>PHYTOMENADIONE 10MG/ML (VIT.K)  1 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="34" Description="COMBIVIR (ZIDOVUD+LAMIVUDINE)   60 TABL" MeasureUnitQualifier="BX" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01955/2019" SystemItemNo="34" MonetaryAmount="102.55" Identification="391753" IsExtraItem="0" ItemStatus="Original" Byr_Qty="56" Supp_Qty="1" Byr_UOM="BO" Supp_UOM="BO" Supp_Price="102.55" BuyerItemTotal="5742.8" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="102.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="102.55" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : BO | COMBIVIR (ZIDOVUD+LAMIVUDINE)   60 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="35" Description="ACETYLSALICYLIC/ASPIRIN 300MG 100 TABL" MeasureUnitQualifier="PCE" Quantity="4" TypeCode="BP" OriginatingSystemRef="051/01956/2019" SystemItemNo="35" MonetaryAmount="23.52" IsExtraItem="0" ItemStatus="Original" Byr_Qty="380" Supp_Qty="4" Supp_UOM="PCE" Supp_Price="5.88" BuyerItemTotal="2234.4" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.88" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 4 | UOM : PCE | ACETYLSALICYLIC/ASPIRIN 300MG 100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="36" Description="AMOXICILLINE 250MG              100 CAPS" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01957/2019" SystemItemNo="36" MonetaryAmount="7.50" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="1" Supp_UOM="PCE" Supp_Price="7.5" BuyerItemTotal="375" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.5" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCE | AMOXICILLINE 250MG              100 CAPS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="37" Description="FIRST AID DRESSING 1 (13)S   6x8CM 1 PCS" MeasureUnitQualifier="PCE" Quantity="18" TypeCode="BP" OriginatingSystemRef="051/01958/2019" SystemItemNo="37" MonetaryAmount="14.76" IsExtraItem="0" ItemStatus="Original" Byr_Qty="18" Supp_Qty="18" Supp_UOM="PCE" Supp_Price="0.82" BuyerItemTotal="14.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.82" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.82" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 18 | UOM : PCE | FIRST AID DRESSING 1 (13)S   6x8CM 1 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="38" Description="FIRST AID DRESSING 2 (14)M  8x10CM 1 PCS" MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="051/01959/2019" SystemItemNo="38" MonetaryAmount="7.32" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Supp_UOM="PCE" Supp_Price="1.22" BuyerItemTotal="7.32" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.22" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 6 | UOM : PCE | FIRST AID DRESSING 2 (14)M  8x10CM 1 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="39" Description="SAFETY PINS STAINLESS STEEL  6 PCS" MeasureUnitQualifier="PCE" Quantity="3" TypeCode="BP" OriginatingSystemRef="051/01960/2019" SystemItemNo="39" MonetaryAmount="1.35" IsExtraItem="0" ItemStatus="Original" Byr_Qty="18" Supp_Qty="3" Supp_UOM="PCE" Supp_Price="0.45" BuyerItemTotal="8.1" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.45" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 3 | UOM : PCE | SAFETY PINS STAINLESS STEEL  6 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="40" Description="BAND AID ASSORTED SIZES/PLASTER 30 PCS" MeasureUnitQualifier="PCE" Quantity="2" TypeCode="BP" OriginatingSystemRef="051/01961/2019" SystemItemNo="40" MonetaryAmount="3.48" IsExtraItem="0" ItemStatus="Original" Byr_Qty="60" Supp_Qty="2" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="1.74" BuyerItemTotal="104.4" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.74" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCE | BAND AID ASSORTED SIZES/PLASTER 30 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="41" Description="COTTON STERILE (5x3GRAM)     15 GRAM" MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="051/01962/2019" SystemItemNo="41" MonetaryAmount="8.70" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Supp_UOM="PCE" Supp_Price="1.45" BuyerItemTotal="8.7" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.45" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 6 | UOM : PCE | COTTON STERILE (5x3GRAM)     15 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="42" Description="GLOVES DISPOSABLE POLYETHYLENE 12 PCS" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01963/2019" SystemItemNo="42" MonetaryAmount="0.62" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="1" Supp_UOM="PCE" Supp_Price="0.62" BuyerItemTotal="9.3" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.62" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCE | GLOVES DISPOSABLE POLYETHYLENE 12 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="43" Description="INJECTION NEEDLE DRAW 20G 0.9x70MM 1PCS" MeasureUnitQualifier="PCE" Quantity="3" TypeCode="BP" OriginatingSystemRef="051/01964/2019" SystemItemNo="43" MonetaryAmount="0.36" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Supp_UOM="PCE" Supp_Price="0.12" BuyerItemTotal="0.36" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.12" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 3 | UOM : PCE | INJECTION NEEDLE DRAW 20G 0.9x70MM 1PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="44" Description="ALCOHOL SWABS             100 PCS" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/01965/2019" SystemItemNo="44" MonetaryAmount="2.21" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="1" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="2.21" BuyerItemTotal="6.63" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.21" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.21" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 1 | UOM : PCE | ALCOHOL SWABS             100 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="45" Description="Suppliers Declaration of Conformity for Material Declaration Management |   Supplier needs to complete this form with every enquiry / order and send back to Pacific Basin purchase team.Declaration form is attached to this item. Vessel will set delivery for this item when order is delivered on board.In case you cannot find the Declaration - Asbestos and Hazardous materials form in this enquiry / order,please download from the below link.https://drive.google.com/file/d/1v62gBTk5fdOE-lTmmEvTNovvglAcWbBR/view?u" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="051/66114/2019" SystemItemNo="45" MonetaryAmount="0.00" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>Suppliers Declaration of Conformity for Material Declaration Management |   Supplier needs to complete this form with every enquiry / order and send back to Pacific Basin purchase team.Declaration form is attached to this item. Vessel will set delivery for this item when order is delivered on board.In case you cannot find the Declaration - Asbestos and Hazardous materials form in this enquiry / order,please download from the below link.https://drive.google.com/file/d/1v62gBTk5fdOE-lTmmEvTNovvglAcWbBR/view?u</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1819.880" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1819.880" />
+      <MonetaryAmount Qualifier="_90" Value="23312.550" />
+      <MonetaryAmount Qualifier="_91" Value="1819.880" />
+    </Quote>
+  </Interchange>
+</MTML>

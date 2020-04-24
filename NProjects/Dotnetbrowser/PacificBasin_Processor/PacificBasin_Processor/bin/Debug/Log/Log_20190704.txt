@@ -1,0 +1,123 @@
+04/07/2019 14:32:20 ================04/07/2019 14:32:20================
+04/07/2019 14:32:20 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+04/07/2019 14:32:23 
+04/07/2019 14:32:23 Buyer: Pacific Basin Shipping (HK) Ltd.
+04/07/2019 14:32:23 
+04/07/2019 14:32:23 RFQ processing started.
+04/07/2019 14:32:24 No file found.
+04/07/2019 14:32:24 RFQ processing stopped.
+04/07/2019 14:32:24 
+04/07/2019 14:32:24 Quote processing started.
+04/07/2019 14:32:24 Started Loading interchange object.
+04/07/2019 14:32:24 stopped Loading interchange object.
+04/07/2019 14:32:24 1 files found to process.
+04/07/2019 14:32:24 Started Loading interchange object.
+04/07/2019 14:32:24 stopped Loading interchange object.
+04/07/2019 14:32:25 'MTML_QUOTE_VBG-O19X0027(01)FF-5131_SM3068_V11920_04071916025018.xml' Quote file processing started.
+04/07/2019 14:32:38 Login Successfully.
+04/07/2019 14:32:39 Currency EUR set successfully
+04/07/2019 14:32:40 Supplier Ref 19005603 set successfully
+04/07/2019 14:32:44 Supplier Remarks set successfully
+04/07/2019 14:32:45 Validity Offer set successfully
+04/07/2019 14:32:45 Start Filling LineItem details
+04/07/2019 14:33:08 Delivery Time (Days) set successfully
+04/07/2019 14:39:28 ================04/07/2019 14:39:28================
+04/07/2019 14:39:28 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+04/07/2019 14:39:30 
+04/07/2019 14:39:30 Buyer: Pacific Basin Shipping (HK) Ltd.
+04/07/2019 14:39:30 
+04/07/2019 14:39:30 RFQ processing started.
+04/07/2019 14:39:30 No file found.
+04/07/2019 14:39:30 RFQ processing stopped.
+04/07/2019 14:39:30 
+04/07/2019 14:39:30 Quote processing started.
+04/07/2019 14:39:30 Started Loading interchange object.
+04/07/2019 14:39:30 stopped Loading interchange object.
+04/07/2019 14:39:30 1 files found to process.
+04/07/2019 14:39:31 Started Loading interchange object.
+04/07/2019 14:39:31 stopped Loading interchange object.
+04/07/2019 14:39:32 'MTML_QUOTE_VBG-O19X0027(01)FF-5131_SM3068_V11920_04071916025018.xml' Quote file processing started.
+04/07/2019 14:39:44 Login Successfully.
+04/07/2019 14:39:45 Currency EUR set successfully
+04/07/2019 14:39:46 Supplier Ref 19005603 set successfully
+04/07/2019 14:39:49 Supplier Remarks set successfully
+04/07/2019 14:39:50 Validity Offer set successfully
+04/07/2019 14:40:19 Start Filling LineItem details
+04/07/2019 14:43:37 ================04/07/2019 14:43:37================
+04/07/2019 14:43:37 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+04/07/2019 14:44:00 
+04/07/2019 14:44:00 Buyer: Pacific Basin Shipping (HK) Ltd.
+04/07/2019 14:44:00 
+04/07/2019 14:44:00 RFQ processing started.
+04/07/2019 14:44:00 No file found.
+04/07/2019 14:44:00 RFQ processing stopped.
+04/07/2019 14:44:00 
+04/07/2019 14:44:00 Quote processing started.
+04/07/2019 14:44:00 Started Loading interchange object.
+04/07/2019 14:44:00 stopped Loading interchange object.
+04/07/2019 14:44:00 1 files found to process.
+04/07/2019 14:44:00 Started Loading interchange object.
+04/07/2019 14:44:00 stopped Loading interchange object.
+04/07/2019 14:44:01 'MTML_QUOTE_VBG-O19X0027(01)FF-5131_SM3068_V11920_04071916025018.xml' Quote file processing started.
+04/07/2019 14:44:13 Login Successfully.
+04/07/2019 14:44:14 Currency EUR set successfully
+04/07/2019 14:44:15 Supplier Ref 19005603 set successfully
+04/07/2019 14:44:18 Supplier Remarks set successfully
+04/07/2019 14:44:19 Validity Offer set successfully
+04/07/2019 14:44:21 Start Filling LineItem details
+04/07/2019 14:44:47 Delivery Time (Days) set successfully
+04/07/2019 16:40:13 ================04/07/2019 16:40:13================
+04/07/2019 16:40:13 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+04/07/2019 16:40:19 
+04/07/2019 16:40:19 Buyer: Pacific Basin Shipping (HK) Ltd.
+04/07/2019 16:40:19 
+04/07/2019 16:40:19 RFQ processing started.
+04/07/2019 16:40:19 No file found.
+04/07/2019 16:40:19 RFQ processing stopped.
+04/07/2019 16:40:19 
+04/07/2019 16:40:19 Quote processing started.
+04/07/2019 16:40:19 Started Loading interchange object.
+04/07/2019 16:40:19 stopped Loading interchange object.
+04/07/2019 16:40:19 1 files found to process.
+04/07/2019 16:40:19 Started Loading interchange object.
+04/07/2019 16:40:19 stopped Loading interchange object.
+04/07/2019 16:40:21 'MTML_QUOTE_VBG-O19X0027(01)FF-5131_SM3068_V11920_04071916025018.xml' Quote file processing started.
+04/07/2019 16:40:33 Login Successfully.
+04/07/2019 16:42:37 ================04/07/2019 16:42:37================
+04/07/2019 16:42:37 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+04/07/2019 16:42:41 
+04/07/2019 16:42:41 Buyer: Pacific Basin Shipping (HK) Ltd.
+04/07/2019 16:42:41 
+04/07/2019 16:42:41 RFQ processing started.
+04/07/2019 16:42:41 No file found.
+04/07/2019 16:42:41 RFQ processing stopped.
+04/07/2019 16:42:41 
+04/07/2019 16:42:41 Quote processing started.
+04/07/2019 16:42:41 Started Loading interchange object.
+04/07/2019 16:42:41 stopped Loading interchange object.
+04/07/2019 16:42:41 1 files found to process.
+04/07/2019 16:42:41 Started Loading interchange object.
+04/07/2019 16:42:41 stopped Loading interchange object.
+04/07/2019 16:42:43 'MTML_QUOTE_VBG-O19X0027(01)FF-5131_SM3068_V11920_04071916025018.xml' Quote file processing started.
+04/07/2019 16:42:55 Login Successfully.
+04/07/2019 16:43:18 ================04/07/2019 16:43:18================
+04/07/2019 16:43:18 Pacific Basin RFQ,PO,Quote,POC HTTP processor started
+04/07/2019 16:43:20 
+04/07/2019 16:43:20 Buyer: Pacific Basin Shipping (HK) Ltd.
+04/07/2019 16:43:20 
+04/07/2019 16:43:20 RFQ processing started.
+04/07/2019 16:43:20 No file found.
+04/07/2019 16:43:20 RFQ processing stopped.
+04/07/2019 16:43:20 
+04/07/2019 16:43:20 Quote processing started.
+04/07/2019 16:43:20 Started Loading interchange object.
+04/07/2019 16:43:20 stopped Loading interchange object.
+04/07/2019 16:43:20 1 files found to process.
+04/07/2019 16:43:20 Started Loading interchange object.
+04/07/2019 16:43:20 stopped Loading interchange object.
+04/07/2019 16:43:22 'MTML_QUOTE_VBG-O19X0027(01)FF-5131_SM3068_V11920_04071916025018.xml' Quote file processing started.
+04/07/2019 16:43:34 Login Successfully.
+04/07/2019 16:43:39 Currency EUR set successfully
+04/07/2019 16:43:39 Supplier Ref 19005603 set successfully
+04/07/2019 16:43:43 Supplier Remarks set successfully
+04/07/2019 16:43:44 Validity Offer set successfully

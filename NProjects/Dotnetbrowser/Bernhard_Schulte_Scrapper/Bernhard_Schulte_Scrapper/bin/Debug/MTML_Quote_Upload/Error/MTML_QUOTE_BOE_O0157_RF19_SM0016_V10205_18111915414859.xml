@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="BJD1911181425542LET" Identifier="UNOC" Recipient="SM0016_XLS" Sender="V10205" PreparationDate="2019-Nov-18" PreparationTime="15:41" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="9" LesRecordID="868594" LesLinkID="9200152" ParentRecordID="868421" MTML_DOCID="1C8805FE-29C3-4D4A-AD1F-E5A17DBF3B2E">
+    <Quote MessageReferenceNumber="9200152_RFQ_BOE_O0157_RF19_18112019021044633.xlsm" MessageNumber="9200152_RFQ_BOE_O0157_RF19_18112019021044633.xlsm" LineItemCount="24" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" LeadTimeDays="3" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="1383.2" BuyerQuoteTotal="1383.2">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201911181541" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201911210000" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201912180000" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Date promised : 2019-11-21
+Quote validity : 2019-12-18</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="BOE/O0157/RF19" />
+      <Reference Qualifier="AAG" ReferenceNumber="BJD1911181425542LET" />
+      <Party Qualifier="UD" Name="Baosteel Education">
+        <PartyLocation Qualifier="TBA" Port="ZHANJIANG" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Identification="SM0016_XLS" Name="Bernhard Schulte Shipmanagement (India) Private Ltd.">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V10205" Name="RMS MARINE SERVICE COMPANY LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="mt@rmsmarineservice.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="BA">
+        <Contact />
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="LIFEBUOY LIGHT L90 W/O BATTERY, 63-B301 DANIAMANT | Ref.No.:331379 | Ref.No.:331379" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="15.20" Identification="331379" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="7.6" BuyerItemTotal="15.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.6" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.6" />
+        <Comments Qualifier="LIN">
+          <value>GOOD BROTHER,WITH CCS CERT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Universal Marine Bracket for Fire Extinguishers 6 kg / 9 kg / 12 kg | Ref.No.:SURVITEC 711416 | Ref.No.:SURVITEC 711416" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="45.15" Identification="SURVITEC 711416" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="9.03" BuyerItemTotal="45.15" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.03" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.03" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="SELF-LOCKING LIFELINE 12MTR, MAX LOAD 130KGS | Ref.No.:331106 | Ref.No.:331106" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="22" MonetaryAmount="141.38" Identification="331106" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="70.69" BuyerItemTotal="141.38" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="70.69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="70.69" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="LIFEBOAT DIPPER WITH LANYARD | Ref.No.:330210 | Ref.No.:330210" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="23" MonetaryAmount="2.00" Identification="330210" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1" BuyerItemTotal="2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="SOCKS WORKING COTTON FREE SIZE | Ref.No.:190381 | Ref.No.:190381" MeasureUnitQualifier="DOZ" Quantity="2" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="24" MonetaryAmount="21.36" Identification="190381" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="DOZ" Supp_UOM="DOZ" Supp_Price="10.68" BuyerItemTotal="21.36" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="LONG JOHN COLOURED SIZE L | Ref.No.:190672 | Ref.No.:190672" MeasureUnitQualifier="SET" Quantity="12" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="25" MonetaryAmount="106.56" Identification="190672" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="8.88" BuyerItemTotal="106.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="LONG JOHN COLOURED XXL (3L) | Ref.No.:190674 | Ref.No.:190674" MeasureUnitQualifier="SET" Quantity="12" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="26" MonetaryAmount="106.56" Identification="190674" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="8.88" BuyerItemTotal="106.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="BOOTS RUBBER WITH STEEL TOE, LONG 30CM | Ref.No.:190237 | Ref.No.:190237" MeasureUnitQualifier="PRS" Quantity="4" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="27" MonetaryAmount="62.48" Identification="190237" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="15.62" BuyerItemTotal="62.48" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="15.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="15.62" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="GLOVES WORKING COTTON, RUBBER COATED PALM | Ref.No.:190102 | Ref.No.:190102" MeasureUnitQualifier="PRS" Quantity="120" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="28" MonetaryAmount="43.20" Identification="190102" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="120" Supp_Qty="120" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="0.36" BuyerItemTotal="43.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.36" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.36" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="BOOTS RUBBER WITH STEEL TOE, LONG 28CM | Ref.No.:190235 | Ref.No.:190235" MeasureUnitQualifier="PRS" Quantity="6" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="29" MonetaryAmount="46.14" Identification="190235" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="7.69" BuyerItemTotal="46.14" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.69" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="LIFE BUOY WEIGHT OVER 4KGS, HK APPROVED | Ref.No.:330154 | Ref.No.:330154" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="30" MonetaryAmount="17.47" Identification="330154" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="17.47" BuyerItemTotal="17.47" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="17.47" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="17.47" />
+        <Comments Qualifier="LIN">
+          <value>HWAYAN,WITH CCS CERT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="SELF CONTAINED BREATHING, APPARATUS AIR LIFE GEM KS-8C | Ref.No.:330416 | Ref.No.:330416" MeasureUnitQualifier="SET" Quantity="2" TypeCode="BP" OriginatingSystemRef="12" SystemItemNo="31" MonetaryAmount="561.58" Identification="330416" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="280.79" BuyerItemTotal="561.58" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="280.79" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="280.79" />
+        <Comments Qualifier="LIN">
+          <value>HWAYAN,WITH EC CERT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="EAR PLUG SELF-FIT FOAM | Ref.No.:331158 | Ref.No.:331158" MeasureUnitQualifier="PRS" Quantity="10" TypeCode="BP" OriginatingSystemRef="13" SystemItemNo="32" MonetaryAmount="1.60" Identification="331158" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="0.16" BuyerItemTotal="1.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.16" />
+        <Comments Qualifier="LIN">
+          <value>3M</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="GLOVES PLASTIC OIL/ACID RESIST, LONG | Ref.No.:190132 | Ref.No.:190132" MeasureUnitQualifier="PRS" Quantity="10" TypeCode="BP" OriginatingSystemRef="14" SystemItemNo="33" MonetaryAmount="13.60" Identification="190132" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="1.36" BuyerItemTotal="13.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.36" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.36" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="GLOVES PLASTIC OIL/ACID RESIST, SHORT | Ref.No.:190131 | Ref.No.:190131" MeasureUnitQualifier="PRS" Quantity="10" TypeCode="BP" OriginatingSystemRef="15" SystemItemNo="34" MonetaryAmount="12.60" Identification="190131" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="1.26" BuyerItemTotal="12.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.26" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.26" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="GLOVES WORKING COTTON ORDINARY | Ref.No.:190104 | Ref.No.:190104" MeasureUnitQualifier="PRS" Quantity="200" TypeCode="BP" OriginatingSystemRef="16" SystemItemNo="35" MonetaryAmount="28.00" Identification="190104" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="200" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="0.14" BuyerItemTotal="28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.14" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.14" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="EAR CUP KIT LEFT/RIGHT HIGH, SNR 31-H/M/L 32/28/21 BLUE | Ref.No.:331269 | Ref.No.:331269" MeasureUnitQualifier="PRS" Quantity="6" TypeCode="BP" OriginatingSystemRef="17" SystemItemNo="36" MonetaryAmount="19.74" Identification="331269" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="3.29" BuyerItemTotal="19.74" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.29" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="EAR MUFF BILSOM COMFORT #2420, BS/ANSI COMPLETE | Ref.No.:331153 | Ref.No.:331153" MeasureUnitQualifier="PRS" Quantity="5" TypeCode="BP" OriginatingSystemRef="18" SystemItemNo="37" MonetaryAmount="15.80" Identification="331153" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="3.16" BuyerItemTotal="15.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.16" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="HELMET SAFETY SLOTTED V-GARD, W/SATZ-ON SUSPENSION WHITE | Ref.No.:310101 | Ref.No.:310101" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="19" SystemItemNo="38" MonetaryAmount="13.50" Identification="310101" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="2.7" BuyerItemTotal="13.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.7" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.7" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="DUST MASK DISPOSABLE 50'S/PKT | Ref.No.:331130 | Ref.No.:331130" MeasureUnitQualifier="PKT" Quantity="2" TypeCode="BP" OriginatingSystemRef="20" SystemItemNo="39" MonetaryAmount="1.24" Identification="331130" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="34" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.62" BuyerItemTotal="1.24" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.62" />
+        <Comments Qualifier="LIN">
+          <value>3S/PKT,TOTAL PRICE FOR 34PKT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="DUST PROTECTING MASK, ELECTRO-STATIC FILTERING | Ref.No.:331113 | Ref.No.:331113" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="21" SystemItemNo="40" MonetaryAmount="5.44" Identification="331113" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.36" BuyerItemTotal="5.44" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.36" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.36" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="EYEWEAR PROTECTIVE ANTIFOG , BLUE MIRROR LENS #10026008 | Ref.No.:311054 | Ref.No.:311054" MeasureUnitQualifier="PRS" Quantity="12" TypeCode="BP" OriginatingSystemRef="22" SystemItemNo="41" MonetaryAmount="9.00" Identification="311054" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="0.75" BuyerItemTotal="9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.75" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT,GRAY LENS</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="GOGGLE ULTRASONIC UVEX 9302, ORANGE FRAME | Ref.No.:311101 | Ref.No.:311101" MeasureUnitQualifier="PRS" Quantity="12" TypeCode="BP" OriginatingSystemRef="23" SystemItemNo="42" MonetaryAmount="46.20" Identification="311101" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PRS" Supp_UOM="PRS" Supp_Price="3.85" BuyerItemTotal="46.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.85" />
+        <Comments Qualifier="LIN">
+          <value>EQUIVALENT</value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="GLOVES WORKING LEATHER PALM | Ref.No.:190109 | Ref.No.:190109" MeasureUnitQualifier="DOZ" Quantity="5" TypeCode="BP" OriginatingSystemRef="24" SystemItemNo="43" MonetaryAmount="47.40" Identification="190109" DeliveryTime="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="DOZ" Supp_UOM="DOZ" Supp_Price="9.48" BuyerItemTotal="47.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.48" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <DateTimePeriods Qualifier="_69" FormatQualifier="_203" Value="3" />
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1403.040" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1403.040" />
+      <MonetaryAmount Qualifier="_90" Value="1383.200" />
+      <MonetaryAmount Qualifier="_91" Value="1403.040" />
+    </Quote>
+  </Interchange>
+</MTML>

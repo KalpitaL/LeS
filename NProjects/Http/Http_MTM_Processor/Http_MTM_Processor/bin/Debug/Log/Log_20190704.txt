@@ -1,0 +1,59 @@
+04/07/2019 09:54:40 ================04/07/2019 09:54:40================
+04/07/2019 09:54:40 MTM RFQ Download HTTP processor started
+04/07/2019 09:57:36 ================04/07/2019 09:57:36================
+04/07/2019 09:57:36 MTM RFQ Download HTTP processor started
+04/07/2019 09:57:53 MTM Domain not found in 100602_0407201910220836.txt
+04/07/2019 10:02:48 ================04/07/2019 10:02:48================
+04/07/2019 10:02:48 MTM RFQ Download HTTP processor started
+04/07/2019 10:12:12 ================04/07/2019 10:12:12================
+04/07/2019 10:12:12 MTM RFQ Download HTTP processor started
+04/07/2019 10:16:47 ================04/07/2019 10:16:47================
+04/07/2019 10:16:47 MTM RFQ Download HTTP processor started
+04/07/2019 10:21:08 ================04/07/2019 10:21:08================
+04/07/2019 10:21:08 MTM RFQ Download HTTP processor started
+04/07/2019 10:26:27 ================04/07/2019 10:26:27================
+04/07/2019 10:26:27 MTM RFQ Download HTTP processor started
+04/07/2019 10:40:05 ================04/07/2019 10:40:05================
+04/07/2019 10:40:05 MTM RFQ Download HTTP processor started
+04/07/2019 10:41:24 ================04/07/2019 10:41:24================
+04/07/2019 10:41:24 MTM RFQ Download HTTP processor started
+04/07/2019 10:42:03 ================04/07/2019 10:42:03================
+04/07/2019 10:42:03 MTM RFQ Download HTTP processor started
+04/07/2019 10:43:52 ================04/07/2019 10:43:52================
+04/07/2019 10:43:52 MTM RFQ Download HTTP processor started
+04/07/2019 10:46:43 ================04/07/2019 10:46:42================
+04/07/2019 10:46:43 MTM RFQ Download HTTP processor started
+04/07/2019 10:53:20 ================04/07/2019 10:53:20================
+04/07/2019 10:53:20 MTM RFQ Download HTTP processor started
+04/07/2019 10:59:11 ================04/07/2019 10:59:11================
+04/07/2019 10:59:11 MTM RFQ Download HTTP processor started
+04/07/2019 11:00:00 RFQ 'MGB-8322-E1' downloaded successfully.
+04/07/2019 11:00:00 File 100602_0407201910220836.txt moved to backup folder.
+04/07/2019 11:00:40 Unable to process file 100602_0307201916055269.txt; Error - Invalid Link!
+04/07/2019 11:00:40 File 100602_0307201916055269.txt moved to error files.
+04/07/2019 11:01:52 ================04/07/2019 11:01:52================
+04/07/2019 11:01:52 MTM RFQ Download HTTP processor started
+04/07/2019 11:03:09 ================04/07/2019 11:03:09================
+04/07/2019 11:03:09 MTM RFQ Download HTTP processor started
+04/07/2019 11:03:16 Unable to process file 100602_0307201916055269.txt; Error - Invalid Link!
+04/07/2019 11:03:16 File 100602_0307201916055269.txt moved to error files.
+04/07/2019 11:03:16 MTM RFQ Download HTTP processor stopped
+04/07/2019 11:03:16 ====================================================
+04/07/2019 11:03:58 ================04/07/2019 11:03:58================
+04/07/2019 11:03:58 MTM RFQ Download HTTP processor started
+04/07/2019 11:03:59 No RFQ Found !
+04/07/2019 11:04:28 Started Loading interchange object.
+04/07/2019 11:04:28 stopped Loading interchange object.
+04/07/2019 11:05:23 ================04/07/2019 11:05:23================
+04/07/2019 11:05:23 MTM RFQ Download HTTP processor started
+04/07/2019 11:05:25 No RFQ Found !
+04/07/2019 11:05:27 Started Loading interchange object.
+04/07/2019 11:05:27 stopped Loading interchange object.
+04/07/2019 11:05:39 Requested Bid [MGB-8297-A1] is not available for quotation.
+04/07/2019 11:05:39 File MTML_QUOTE_MGB-8297-A1_SM0133_V10001_03071913064937 (1).xml moved to error files.
+04/07/2019 11:05:39 Started Loading interchange object.
+04/07/2019 11:05:39 stopped Loading interchange object.
+04/07/2019 11:28:30 ================04/07/2019 11:28:30================
+04/07/2019 11:28:30 MTM RFQ Download HTTP processor started
+04/07/2019 11:32:32 ================04/07/2019 11:32:32================
+04/07/2019 11:32:32 MTM RFQ Download HTTP processor started

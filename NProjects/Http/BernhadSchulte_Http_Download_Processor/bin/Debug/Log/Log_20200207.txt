@@ -1,0 +1,496 @@
+2/7/2020 11:53:02 AM ================2/7/2020 11:53:02 AM================
+2/7/2020 11:53:02 AM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 11:53:46 AM ================2/7/2020 11:53:46 AM================
+2/7/2020 11:53:46 AM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 11:53:47 AM Parameters not configuredSystem.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.LoadAppsettings() in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Bernhard_Schulte_Http_Download_Routine\Http_Download_Routine.cs:line 88
+2/7/2020 11:53:47 AM Process started for mach-5@fujitrading.co.jp
+2/7/2020 11:53:49 AM Logged in successfully
+2/7/2020 11:53:57 AM RFQ data extracted successfully.
+2/7/2020 11:53:57 AM Processing RFQ for VRNO 'PCT/O0028/RF20'.
+2/7/2020 11:54:24 AM RFQ '103015_RFQ_PCT_O0028_RF20_07022020115357368.xlsm' for VRNO 'PCT/O0028/RF20' downloaded successfully.
+2/7/2020 11:54:24 AM Processing RFQ for VRNO 'MIU/O0024/RF20'.
+2/7/2020 11:55:15 AM ================2/7/2020 11:55:15 AM================
+2/7/2020 11:55:15 AM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 11:59:06 AM ================2/7/2020 11:59:06 AM================
+2/7/2020 11:59:06 AM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 11:59:07 AM Parameters not configuredSystem.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.LoadAppsettings() in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Bernhard_Schulte_Http_Download_Routine\Http_Download_Routine.cs:line 88
+2/7/2020 11:59:07 AM Process started for mach-5@fujitrading.co.jp
+2/7/2020 11:59:09 AM Logged in successfully
+2/7/2020 11:59:33 AM ================2/7/2020 11:59:33 AM================
+2/7/2020 11:59:33 AM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 11:59:56 AM ================2/7/2020 11:59:56 AM================
+2/7/2020 11:59:56 AM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 11:59:57 AM Parameters not configuredSystem.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Bernhard_Schulte_Http_Download_Routine.Http_Download_Routine.LoadAppsettings() in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\BernhadSchulte_Http_Download_Processor\Bernhard_Schulte_Http_Download_Routine\Http_Download_Routine.cs:line 87
+2/7/2020 11:59:57 AM Process started for mach-5@fujitrading.co.jp
+2/7/2020 11:59:59 AM Logged in successfully
+2/7/2020 12:00:05 PM ================2/7/2020 12:00:05 PM================
+2/7/2020 12:00:05 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:02:56 PM ================2/7/2020 12:02:56 PM================
+2/7/2020 12:02:56 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:02:59 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:03:02 PM Logged in successfully
+2/7/2020 12:03:06 PM RFQ data extracted successfully.
+2/7/2020 12:03:06 PM Processing RFQ for VRNO 'MIU/O0024/RF20'.
+2/7/2020 12:08:21 PM ================2/7/2020 12:08:21 PM================
+2/7/2020 12:08:21 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:08:28 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:08:49 PM Login retry
+2/7/2020 12:08:51 PM Login retry
+2/7/2020 12:08:51 PM Login retry
+2/7/2020 12:08:52 PM Login retry
+2/7/2020 12:08:52 PM Login failed
+2/7/2020 12:08:54 PM Process started for info@fujitrading.nl
+2/7/2020 12:08:55 PM Logged in successfully
+2/7/2020 12:09:01 PM RFQ data extracted successfully.
+2/7/2020 12:09:01 PM Processing RFQ for VRNO 'RLD/O0026/RF20'.
+2/7/2020 12:11:07 PM ================2/7/2020 12:11:07 PM================
+2/7/2020 12:11:07 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:11:09 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:11:13 PM Logged in successfully
+2/7/2020 12:11:18 PM RFQ data extracted successfully.
+2/7/2020 12:11:18 PM Processing RFQ for VRNO 'MIU/O0024/RF20'.
+2/7/2020 12:11:47 PM ================2/7/2020 12:11:47 PM================
+2/7/2020 12:11:47 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:11:49 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:11:51 PM Logged in successfully
+2/7/2020 12:11:56 PM RFQ data extracted successfully.
+2/7/2020 12:11:56 PM Processing RFQ for VRNO 'MIU/O0024/RF20'.
+2/7/2020 12:12:09 PM RFQ '103015_RFQ_MIU_O0024_RF20_07022020121156883.xlsm' for VRNO 'MIU/O0024/RF20' downloaded successfully.
+2/7/2020 12:12:09 PM Processing RFQ for VRNO 'MIU/O0022/RF20'.
+2/7/2020 12:12:25 PM RFQ '103015_RFQ_MIU_O0022_RF20_07022020121209736.xlsm' for VRNO 'MIU/O0022/RF20' downloaded successfully.
+2/7/2020 12:12:25 PM Processing RFQ for VRNO 'PCN/O0017/RF20'.
+2/7/2020 12:12:33 PM RFQ '103015_RFQ_PCN_O0017_RF20_07022020121228368.xlsm' for VRNO 'PCN/O0017/RF20' downloaded successfully.
+2/7/2020 12:12:33 PM Processing RFQ for VRNO 'RTL/O0028/RF20'.
+2/7/2020 12:13:47 PM RFQ '103015_RFQ_RTL_O0028_RF20_07022020121239841.xlsm' for VRNO 'RTL/O0028/RF20' downloaded successfully.
+2/7/2020 12:13:47 PM Processing RFQ for VRNO 'HEX/O0022/RF20'.
+2/7/2020 12:13:59 PM RFQ '103015_RFQ_HEX_O0022_RF20_07022020121354287.xlsm' for VRNO 'HEX/O0022/RF20' downloaded successfully.
+2/7/2020 12:13:59 PM Processing RFQ for VRNO 'RHO/O0010/RF20'.
+2/7/2020 12:14:06 PM RFQ '103023_RFQ_RHO_O0010_RF20_07022020121359966.xlsm' for VRNO 'RHO/O0010/RF20' downloaded successfully.
+2/7/2020 12:14:06 PM Processing RFQ for VRNO 'RBY/O0006/RF20'.
+2/7/2020 12:14:08 PM RFQ '103023_RFQ_RBY_O0006_RF20_07022020121406296.xlsm' for VRNO 'RBY/O0006/RF20' downloaded successfully.
+2/7/2020 12:14:08 PM Processing RFQ for VRNO 'IKAR/O0014/RF20'.
+2/7/2020 12:14:08 PM RFQ '103023_RFQ_IKAR_O0014_RF20_07022020121408118.xlsm' for VRNO 'IKAR/O0014/RF20' downloaded successfully.
+2/7/2020 12:14:08 PM Processing RFQ for VRNO 'IKAR/O0013/RF20'.
+2/7/2020 12:14:09 PM RFQ '103023_RFQ_IKAR_O0013_RF20_07022020121408594.xlsm' for VRNO 'IKAR/O0013/RF20' downloaded successfully.
+2/7/2020 12:14:09 PM Processing RFQ for VRNO 'ISS/O0192/RF19'.
+2/7/2020 12:14:09 PM RFQ '103020_RFQ_ISS_O0192_RF19_07022020121409098.xlsm' for VRNO 'ISS/O0192/RF19' downloaded successfully.
+2/7/2020 12:14:09 PM Processing RFQ for VRNO 'PPST/O0020/RF20'.
+2/7/2020 12:14:10 PM RFQ '103024_RFQ_PPST_O0020_RF20_07022020121409746.xlsm' for VRNO 'PPST/O0020/RF20' downloaded successfully.
+2/7/2020 12:14:10 PM Processing RFQ for VRNO 'SOSC/O0015/RF20'.
+2/7/2020 12:14:10 PM RFQ '103020_RFQ_SOSC_O0015_RF20_07022020121410192.xlsm' for VRNO 'SOSC/O0015/RF20' downloaded successfully.
+2/7/2020 12:14:10 PM Processing RFQ for VRNO 'BOE/O0020/RF20'.
+2/7/2020 12:14:11 PM RFQ '103024_RFQ_BOE_O0020_RF20_07022020121410772.xlsm' for VRNO 'BOE/O0020/RF20' downloaded successfully.
+2/7/2020 12:14:11 PM Processing RFQ for VRNO 'CLOV/O0005/RF20'.
+2/7/2020 12:14:12 PM RFQ '103024_RFQ_CLOV_O0005_RF20_07022020121411505.xlsm' for VRNO 'CLOV/O0005/RF20' downloaded successfully.
+2/7/2020 12:14:12 PM 14 RFQ(s) downloaded.
+2/7/2020 12:15:10 PM ================2/7/2020 12:15:10 PM================
+2/7/2020 12:15:10 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:15:12 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:15:14 PM Logged in successfully
+2/7/2020 12:15:19 PM RFQ data extracted successfully.
+2/7/2020 12:20:54 PM No new RFQ(s) downloaded.
+2/7/2020 12:20:56 PM User mach-5@fujitrading.co.jp logged out successfully.
+2/7/2020 12:20:59 PM Process started for info@fujitrading.nl
+2/7/2020 12:20:59 PM Logged in successfully
+2/7/2020 12:21:54 PM ================2/7/2020 12:21:54 PM================
+2/7/2020 12:21:54 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:21:56 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:21:58 PM Logged in successfully
+2/7/2020 12:22:11 PM RFQ data extracted successfully.
+2/7/2020 12:22:11 PM No new RFQ(s) downloaded.
+2/7/2020 12:22:11 PM User mach-5@fujitrading.co.jp logged out successfully.
+2/7/2020 12:22:18 PM Process started for info@fujitrading.nl
+2/7/2020 12:22:18 PM Logged in successfully
+2/7/2020 12:22:23 PM RFQ data extracted successfully.
+2/7/2020 12:22:23 PM Processing RFQ for VRNO 'RLD/O0026/RF20'.
+2/7/2020 12:22:28 PM RFQ '102210_RFQ_RLD_O0026_RF20_07022020122223551.xlsm' for VRNO 'RLD/O0026/RF20' downloaded successfully.
+2/7/2020 12:22:28 PM Processing RFQ for VRNO 'THEL/O0046/RF20'.
+2/7/2020 12:22:29 PM RFQ '102207_RFQ_THEL_O0046_RF20_07022020122228871.xlsm' for VRNO 'THEL/O0046/RF20' downloaded successfully.
+2/7/2020 12:22:29 PM Processing RFQ for VRNO 'ELSC/O0026/RF20'.
+2/7/2020 12:22:31 PM RFQ '102205_RFQ_ELSC_O0026_RF20_07022020122229320.xlsm' for VRNO 'ELSC/O0026/RF20' downloaded successfully.
+2/7/2020 12:22:31 PM Processing RFQ for VRNO 'EQ/SCF/MOR/0055'.
+2/7/2020 12:22:35 PM RFQ '102211_RFQ_EQ_SCF_MOR_0055_07022020122231458.xlsm' for VRNO 'EQ/SCF/MOR/0055' downloaded successfully.
+2/7/2020 12:22:35 PM Processing RFQ for VRNO 'ZSC/O0029/RF20'.
+2/7/2020 12:22:36 PM RFQ '102211_RFQ_ZSC_O0029_RF20_07022020122235839.xlsm' for VRNO 'ZSC/O0029/RF20' downloaded successfully.
+2/7/2020 12:22:36 PM Processing RFQ for VRNO 'TSS/O0011/RF20'.
+2/7/2020 12:22:36 PM RFQ '102210_RFQ_TSS_O0011_RF20_07022020122236260.xlsm' for VRNO 'TSS/O0011/RF20' downloaded successfully.
+2/7/2020 12:22:36 PM Processing RFQ for VRNO 'TSS/O0010/RF20'.
+2/7/2020 12:22:37 PM RFQ '102210_RFQ_TSS_O0010_RF20_07022020122236664.xlsm' for VRNO 'TSS/O0010/RF20' downloaded successfully.
+2/7/2020 12:22:37 PM Processing RFQ for VRNO 'HANN/O0023/RF20'.
+2/7/2020 12:22:37 PM RFQ '102208_RFQ_HANN_O0023_RF20_07022020122237220.xlsm' for VRNO 'HANN/O0023/RF20' downloaded successfully.
+2/7/2020 12:22:37 PM Processing RFQ for VRNO 'JET/O0038/RF20'.
+2/7/2020 12:22:40 PM RFQ '102205_RFQ_JET_O0038_RF20_07022020122237696.xlsm' for VRNO 'JET/O0038/RF20' downloaded successfully.
+2/7/2020 12:22:40 PM Processing RFQ for VRNO 'IRMG/O0012/RF20'.
+2/7/2020 12:22:41 PM RFQ '102211_RFQ_IRMG_O0012_RF20_07022020122240851.xlsm' for VRNO 'IRMG/O0012/RF20' downloaded successfully.
+2/7/2020 12:22:41 PM Processing RFQ for VRNO 'IMMA/O0033/RF20'.
+2/7/2020 12:22:41 PM RFQ '102211_RFQ_IMMA_O0033_RF20_07022020122241335.xlsm' for VRNO 'IMMA/O0033/RF20' downloaded successfully.
+2/7/2020 12:22:41 PM Processing RFQ for VRNO 'IMMA/O0032/RF20'.
+2/7/2020 12:22:42 PM RFQ '102211_RFQ_IMMA_O0032_RF20_07022020122241764.xlsm' for VRNO 'IMMA/O0032/RF20' downloaded successfully.
+2/7/2020 12:22:42 PM Processing RFQ for VRNO 'EGI/O0019/RF20'.
+2/7/2020 12:22:43 PM RFQ '102209_RFQ_EGI_O0019_RF20_07022020122242338.xlsm' for VRNO 'EGI/O0019/RF20' downloaded successfully.
+2/7/2020 12:22:43 PM Processing RFQ for VRNO 'RAG/O0020/RF20'.
+2/7/2020 12:22:51 PM RFQ '102206_RFQ_RAG_O0020_RF20_07022020122247780.xlsm' for VRNO 'RAG/O0020/RF20' downloaded successfully.
+2/7/2020 12:22:51 PM Processing RFQ for VRNO 'HOTH/O0011/RF20'.
+2/7/2020 12:22:53 PM RFQ '102208_RFQ_HOTH_O0011_RF20_07022020122252635.xlsm' for VRNO 'HOTH/O0011/RF20' downloaded successfully.
+2/7/2020 12:22:53 PM Processing RFQ for VRNO 'RAG/O0019/RF20'.
+2/7/2020 12:22:59 PM RFQ '102206_RFQ_RAG_O0019_RF20_07022020122256387.xlsm' for VRNO 'RAG/O0019/RF20' downloaded successfully.
+2/7/2020 12:22:59 PM Processing RFQ for VRNO 'MS3/O0027/RF20'.
+2/7/2020 12:23:01 PM RFQ '102209_RFQ_MS3_O0027_RF20_07022020122300563.xlsm' for VRNO 'MS3/O0027/RF20' downloaded successfully.
+2/7/2020 12:23:01 PM Processing RFQ for VRNO 'TTH/O0020/RF20'.
+2/7/2020 12:23:12 PM ================2/7/2020 12:23:12 PM================
+2/7/2020 12:23:12 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:23:23 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:23:25 PM Logged in successfully
+2/7/2020 12:23:27 PM RFQ data extracted successfully.
+2/7/2020 12:23:27 PM Processing RFQ for VRNO 'SOH/O0025/RF20'.
+2/7/2020 12:23:28 PM RFQ '103016_RFQ_SOH_O0025_RF20_07022020122328147.xlsm' for VRNO 'SOH/O0025/RF20' downloaded successfully.
+2/7/2020 12:23:28 PM 1 RFQ(s) downloaded.
+2/7/2020 12:23:28 PM User mach-5@fujitrading.co.jp logged out successfully.
+2/7/2020 12:23:28 PM Process started for info@fujitrading.nl
+2/7/2020 12:23:29 PM Logged in successfully
+2/7/2020 12:23:31 PM RFQ data extracted successfully.
+2/7/2020 12:23:31 PM Processing RFQ for VRNO 'TTH/O0020/RF20'.
+2/7/2020 12:23:35 PM RFQ '102210_RFQ_TTH_O0020_RF20_07022020122334714.xlsm' for VRNO 'TTH/O0020/RF20' downloaded successfully.
+2/7/2020 12:23:35 PM Processing RFQ for VRNO 'LUS/O0027/RF20'.
+2/7/2020 12:23:36 PM RFQ '102205_RFQ_LUS_O0027_RF20_07022020122335134.xlsm' for VRNO 'LUS/O0027/RF20' downloaded successfully.
+2/7/2020 12:23:36 PM Processing RFQ for VRNO 'CLOV/O0005/RF20'.
+2/7/2020 12:23:37 PM RFQ '102207_RFQ_CLOV_O0005_RF20_07022020122336123.xlsm' for VRNO 'CLOV/O0005/RF20' downloaded successfully.
+2/7/2020 12:23:37 PM 3 RFQ(s) downloaded.
+2/7/2020 12:23:37 PM User info@fujitrading.nl logged out successfully.
+2/7/2020 12:23:37 PM Bernhard Schulte RFQ Download HTTP processor stopped
+2/7/2020 12:23:37 PM ====================================================
+2/7/2020 12:24:09 PM ================2/7/2020 12:24:08 PM================
+2/7/2020 12:24:09 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:24:09 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:24:11 PM Logged in successfully
+2/7/2020 12:24:12 PM RFQ data extracted successfully.
+2/7/2020 12:24:12 PM No new RFQ(s) downloaded.
+2/7/2020 12:24:18 PM ================2/7/2020 12:24:18 PM================
+2/7/2020 12:24:18 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:24:18 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:24:20 PM Logged in successfully
+2/7/2020 12:24:23 PM RFQ data extracted successfully.
+2/7/2020 12:24:23 PM No new RFQ(s) downloaded.
+2/7/2020 12:24:23 PM User mach-5@fujitrading.co.jp logged out successfully.
+2/7/2020 12:24:23 PM Process started for info@fujitrading.nl
+2/7/2020 12:24:24 PM Logged in successfully
+2/7/2020 12:24:26 PM RFQ data extracted successfully.
+2/7/2020 12:24:26 PM No new RFQ(s) downloaded.
+2/7/2020 12:24:26 PM User info@fujitrading.nl logged out successfully.
+2/7/2020 12:24:26 PM Bernhard Schulte RFQ Download HTTP processor stopped
+2/7/2020 12:24:26 PM ====================================================
+2/7/2020 12:36:58 PM ================2/7/2020 12:36:58 PM================
+2/7/2020 12:36:58 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:36:58 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:36:59 PM Logged in successfully
+2/7/2020 12:37:01 PM RFQ data extracted successfully.
+2/7/2020 12:37:01 PM No new RFQ(s) downloaded.
+2/7/2020 12:37:01 PM User mach-5@fujitrading.co.jp logged out successfully.
+2/7/2020 12:37:01 PM Process started for info@fujitrading.nl
+2/7/2020 12:37:02 PM Logged in successfully
+2/7/2020 12:37:03 PM RFQ data extracted successfully.
+2/7/2020 12:37:03 PM No new RFQ(s) downloaded.
+2/7/2020 12:37:03 PM User info@fujitrading.nl logged out successfully.
+2/7/2020 12:37:03 PM Bernhard Schulte RFQ Download HTTP processor stopped
+2/7/2020 12:37:03 PM ====================================================
+2/7/2020 12:38:11 PM ================2/7/2020 12:38:11 PM================
+2/7/2020 12:38:11 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:38:11 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:38:13 PM Logged in successfully
+2/7/2020 12:38:15 PM RFQ data extracted successfully.
+2/7/2020 12:38:15 PM No new RFQ(s) downloaded.
+2/7/2020 12:38:16 PM User mach-5@fujitrading.co.jp logged out successfully.
+2/7/2020 12:38:16 PM Process started for info@fujitrading.nl
+2/7/2020 12:38:16 PM Logged in successfully
+2/7/2020 12:38:20 PM RFQ data extracted successfully.
+2/7/2020 12:38:20 PM Processing RFQ for VRNO 'JOPR/O0016/RF20'.
+2/7/2020 12:38:21 PM RFQ '102210_RFQ_JOPR_O0016_RF20_07022020123820228.xlsm' for VRNO 'JOPR/O0016/RF20' downloaded successfully.
+2/7/2020 12:38:21 PM 1 RFQ(s) downloaded.
+2/7/2020 12:38:21 PM User info@fujitrading.nl logged out successfully.
+2/7/2020 12:38:21 PM Bernhard Schulte RFQ Download HTTP processor stopped
+2/7/2020 12:38:21 PM ====================================================
+2/7/2020 12:38:43 PM ================2/7/2020 12:38:43 PM================
+2/7/2020 12:38:43 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:38:43 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:38:46 PM Logged in successfully
+2/7/2020 12:38:51 PM ================2/7/2020 12:38:51 PM================
+2/7/2020 12:38:51 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:38:51 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:38:53 PM Logged in successfully
+2/7/2020 12:38:56 PM RFQ data extracted successfully.
+2/7/2020 12:40:21 PM Processing RFQ for VRNO 'SOH/O0026/RF20'.
+2/7/2020 12:43:06 PM ================2/7/2020 12:43:06 PM================
+2/7/2020 12:43:07 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:43:07 PM Process started for contact@amos-sg.com
+2/7/2020 12:43:09 PM Logged in successfully
+2/7/2020 12:43:11 PM Filter Data extracted successfully.
+2/7/2020 12:43:13 PM Started Loading interchange object.
+2/7/2020 12:43:13 PM stopped Loading interchange object.
+2/7/2020 12:43:14 PM User contact@amos-sg.com logged out successfully.
+2/7/2020 12:43:14 PM Process started for mt@rmsmarineservice.com
+2/7/2020 12:43:15 PM Logged in successfully
+2/7/2020 12:43:20 PM RFQ data extracted successfully.
+2/7/2020 12:43:22 PM Processing RFQ for VRNO 'OOAN/O0044/RF20'.
+2/7/2020 12:43:24 PM RFQ '9200151_RFQ_OOAN_O0044_RF20_07022020124322760.xlsm' for VRNO 'OOAN/O0044/RF20' downloaded successfully.
+2/7/2020 12:43:33 PM Processing RFQ for VRNO 'SOH/O0024/RF20'.
+2/7/2020 12:43:34 PM RFQ '9200151_RFQ_SOH_O0024_RF20_07022020124333557.xlsm' for VRNO 'SOH/O0024/RF20' downloaded successfully.
+2/7/2020 12:43:34 PM Processing RFQ for VRNO 'JTL/O0012/RF20'.
+2/7/2020 12:43:34 PM RFQ '9200149_RFQ_JTL_O0012_RF20_07022020124334142.xlsm' for VRNO 'JTL/O0012/RF20' downloaded successfully.
+2/7/2020 12:43:34 PM Processing RFQ for VRNO 'JTL/O0020/RF20'.
+2/7/2020 12:43:36 PM RFQ '9200149_RFQ_JTL_O0020_RF20_07022020124334962.xlsm' for VRNO 'JTL/O0020/RF20' downloaded successfully.
+2/7/2020 12:43:36 PM Processing RFQ for VRNO 'VNA/O0014/RF20'.
+2/7/2020 12:43:40 PM RFQ '9200152_RFQ_VNA_O0014_RF20_07022020124336732.xlsm' for VRNO 'VNA/O0014/RF20' downloaded successfully.
+2/7/2020 12:43:40 PM Processing RFQ for VRNO 'JTL/O0028/RF20'.
+2/7/2020 12:43:41 PM RFQ '9200149_RFQ_JTL_O0028_RF20_07022020124340463.xlsm' for VRNO 'JTL/O0028/RF20' downloaded successfully.
+2/7/2020 12:43:41 PM Processing RFQ for VRNO 'JTL/O0027/RF20'.
+2/7/2020 12:43:42 PM RFQ '9200149_RFQ_JTL_O0027_RF20_07022020124341623.xlsm' for VRNO 'JTL/O0027/RF20' downloaded successfully.
+2/7/2020 12:43:42 PM Processing RFQ for VRNO 'SALF/O0046/RF20'.
+2/7/2020 12:43:44 PM RFQ '9200149_RFQ_SALF_O0046_RF20_07022020124342231.xlsm' for VRNO 'SALF/O0046/RF20' downloaded successfully.
+2/7/2020 12:43:44 PM Processing RFQ for VRNO 'SALF/O0049/RF20'.
+2/7/2020 12:43:44 PM RFQ '9200149_RFQ_SALF_O0049_RF20_07022020124344360.xlsm' for VRNO 'SALF/O0049/RF20' downloaded successfully.
+2/7/2020 12:43:44 PM Processing RFQ for VRNO 'SALF/O0048/RF20'.
+2/7/2020 12:43:45 PM RFQ '9200149_RFQ_SALF_O0048_RF20_07022020124344919.xlsm' for VRNO 'SALF/O0048/RF20' downloaded successfully.
+2/7/2020 12:43:45 PM Processing RFQ for VRNO 'XHE/O0014/RF20'.
+2/7/2020 12:43:46 PM RFQ '9200150_RFQ_XHE_O0014_RF20_07022020124345640.xlsm' for VRNO 'XHE/O0014/RF20' downloaded successfully.
+2/7/2020 12:43:46 PM Processing RFQ for VRNO 'OOAN/O0044/RF20'.
+2/7/2020 12:43:48 PM RFQ '9200151_RFQ_OOAN_O0044_RF20_07022020124346350.xlsm' for VRNO 'OOAN/O0044/RF20' downloaded successfully.
+2/7/2020 12:43:48 PM Processing RFQ for VRNO 'IND/O0031/RF20'.
+2/7/2020 12:43:48 PM RFQ '9200153_RFQ_IND_O0031_RF20_07022020124348245.xlsm' for VRNO 'IND/O0031/RF20' downloaded successfully.
+2/7/2020 12:43:48 PM Processing RFQ for VRNO 'CBO/O0032/RF20'.
+2/7/2020 12:43:49 PM RFQ '9200146_RFQ_CBO_O0032_RF20_07022020124348692.xlsm' for VRNO 'CBO/O0032/RF20' downloaded successfully.
+2/7/2020 12:43:49 PM Processing RFQ for VRNO 'CBO/O0028/RF20'.
+2/7/2020 12:43:50 PM RFQ '9200146_RFQ_CBO_O0028_RF20_07022020124349296.xlsm' for VRNO 'CBO/O0028/RF20' downloaded successfully.
+2/7/2020 12:43:50 PM Processing RFQ for VRNO 'CBO/O0026/RF20'.
+2/7/2020 12:43:50 PM RFQ '9200146_RFQ_CBO_O0026_RF20_07022020124350170.xlsm' for VRNO 'CBO/O0026/RF20' downloaded successfully.
+2/7/2020 12:43:50 PM Processing RFQ for VRNO 'OOAN/O0006/RF20'.
+2/7/2020 12:43:56 PM RFQ '9200151_RFQ_OOAN_O0006_RF20_07022020124350777.xlsm' for VRNO 'OOAN/O0006/RF20' downloaded successfully.
+2/7/2020 12:43:56 PM Processing RFQ for VRNO 'VHB/O0010/RF20'.
+2/7/2020 12:43:56 PM RFQ '9200152_RFQ_VHB_O0010_RF20_07022020124356095.xlsm' for VRNO 'VHB/O0010/RF20' downloaded successfully.
+2/7/2020 12:43:56 PM Processing RFQ for VRNO 'JSP/O0021/RF20'.
+2/7/2020 12:43:56 PM RFQ '9200152_RFQ_JSP_O0021_RF20_07022020124356530.xlsm' for VRNO 'JSP/O0021/RF20' downloaded successfully.
+2/7/2020 12:43:56 PM Processing RFQ for VRNO 'HDK/O0013/RF20'.
+2/7/2020 12:43:59 PM RFQ '9200149_RFQ_HDK_O0013_RF20_07022020124356976.xlsm' for VRNO 'HDK/O0013/RF20' downloaded successfully.
+2/7/2020 12:43:59 PM Processing RFQ for VRNO 'TOIN/O0023/RF20'.
+2/7/2020 12:44:00 PM RFQ '9200152_RFQ_TOIN_O0023_RF20_07022020124359329.xlsm' for VRNO 'TOIN/O0023/RF20' downloaded successfully.
+2/7/2020 12:44:00 PM Processing RFQ for VRNO 'ULY/O0053/RF20'.
+2/7/2020 12:44:01 PM RFQ '9200151_RFQ_ULY_O0053_RF20_07022020124400072.xlsm' for VRNO 'ULY/O0053/RF20' downloaded successfully.
+2/7/2020 12:44:01 PM Processing RFQ for VRNO 'HDK/O0012/RF20'.
+2/7/2020 12:44:01 PM RFQ '9200149_RFQ_HDK_O0012_RF20_07022020124401363.xlsm' for VRNO 'HDK/O0012/RF20' downloaded successfully.
+2/7/2020 12:44:01 PM Processing RFQ for VRNO 'ULY/O0034/RF20'.
+2/7/2020 12:44:02 PM RFQ '9200151_RFQ_ULY_O0034_RF20_07022020124401801.xlsm' for VRNO 'ULY/O0034/RF20' downloaded successfully.
+2/7/2020 12:44:02 PM Processing RFQ for VRNO 'LUS/O0012/RF20'.
+2/7/2020 12:44:02 PM RFQ '9200146_RFQ_LUS_O0012_RF20_07022020124402325.xlsm' for VRNO 'LUS/O0012/RF20' downloaded successfully.
+2/7/2020 12:44:02 PM Processing RFQ for VRNO 'KIZ/O0019/RF20'.
+2/7/2020 12:44:03 PM RFQ '9200151_RFQ_KIZ_O0019_RF20_07022020124402966.xlsm' for VRNO 'KIZ/O0019/RF20' downloaded successfully.
+2/7/2020 12:44:03 PM Processing RFQ for VRNO 'LOT/O0026/RF20'.
+2/7/2020 12:44:04 PM RFQ '9200159_RFQ_LOT_O0026_RF20_07022020124403533.xlsm' for VRNO 'LOT/O0026/RF20' downloaded successfully.
+2/7/2020 12:44:04 PM Processing RFQ for VRNO 'TAH/O0024/RF20'.
+2/7/2020 12:44:04 PM RFQ '9200149_RFQ_TAH_O0024_RF20_07022020124404199.xlsm' for VRNO 'TAH/O0024/RF20' downloaded successfully.
+2/7/2020 12:44:04 PM Processing RFQ for VRNO 'SOH/O0020/RF20'.
+2/7/2020 12:44:05 PM RFQ '9200151_RFQ_SOH_O0020_RF20_07022020124404836.xlsm' for VRNO 'SOH/O0020/RF20' downloaded successfully.
+2/7/2020 12:44:05 PM Processing RFQ for VRNO 'TAH/O0022/RF20'.
+2/7/2020 12:44:05 PM RFQ '9200149_RFQ_TAH_O0022_RF20_07022020124405341.xlsm' for VRNO 'TAH/O0022/RF20' downloaded successfully.
+2/7/2020 12:44:05 PM Processing RFQ for VRNO 'LAT/O0015/RF20'.
+2/7/2020 12:44:06 PM RFQ '9200152_RFQ_LAT_O0015_RF20_07022020124405797.xlsm' for VRNO 'LAT/O0015/RF20' downloaded successfully.
+2/7/2020 12:44:06 PM Processing RFQ for VRNO 'SAC/O0043/RF20'.
+2/7/2020 12:44:06 PM RFQ '9200149_RFQ_SAC_O0043_RF20_07022020124406301.xlsm' for VRNO 'SAC/O0043/RF20' downloaded successfully.
+2/7/2020 12:44:06 PM Processing RFQ for VRNO 'LNC/O0057/RF20'.
+2/7/2020 12:44:07 PM RFQ '9200152_RFQ_LNC_O0057_RF20_07022020124406730.xlsm' for VRNO 'LNC/O0057/RF20' downloaded successfully.
+2/7/2020 12:44:07 PM Processing RFQ for VRNO 'NQZ/O0016/RF20'.
+2/7/2020 12:44:08 PM RFQ '9200160_RFQ_NQZ_O0016_RF20_07022020124407909.xlsm' for VRNO 'NQZ/O0016/RF20' downloaded successfully.
+2/7/2020 12:44:08 PM Processing RFQ for VRNO 'NQZ/O0016/RF20'.
+2/7/2020 12:44:08 PM RFQ '9200150_RFQ_NQZ_O0016_RF20_07022020124408396.xlsm' for VRNO 'NQZ/O0016/RF20' downloaded successfully.
+2/7/2020 12:44:08 PM Processing RFQ for VRNO 'RTL/O0022/RF20'.
+2/7/2020 12:44:09 PM RFQ '9200149_RFQ_RTL_O0022_RF20_07022020124408872.xlsm' for VRNO 'RTL/O0022/RF20' downloaded successfully.
+2/7/2020 12:44:09 PM Processing RFQ for VRNO 'SAC/O0041/RF20'.
+2/7/2020 12:44:09 PM RFQ '9200149_RFQ_SAC_O0041_RF20_07022020124409337.xlsm' for VRNO 'SAC/O0041/RF20' downloaded successfully.
+2/7/2020 12:44:09 PM Processing RFQ for VRNO 'AMY/O0035/RF20'.
+2/7/2020 12:44:10 PM RFQ '9200149_RFQ_AMY_O0035_RF20_07022020124409855.xlsm' for VRNO 'AMY/O0035/RF20' downloaded successfully.
+2/7/2020 12:44:10 PM Processing RFQ for VRNO 'TTH/O0016/RF20'.
+2/7/2020 12:44:10 PM RFQ '9200149_RFQ_TTH_O0016_RF20_07022020124410395.xlsm' for VRNO 'TTH/O0016/RF20' downloaded successfully.
+2/7/2020 12:44:10 PM 39 RFQ(s) downloaded.
+2/7/2020 12:44:11 PM User mt@rmsmarineservice.com logged out successfully.
+2/7/2020 12:44:11 PM Bernhard Schulte RFQ Download HTTP processor stopped
+2/7/2020 12:44:11 PM ====================================================
+2/7/2020 12:45:50 PM ================2/7/2020 12:45:50 PM================
+2/7/2020 12:45:50 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:45:50 PM Process started for contact@amos-sg.com
+2/7/2020 12:45:52 PM Logged in successfully
+2/7/2020 12:45:57 PM Filter Data extracted successfully.
+2/7/2020 12:47:50 PM ================2/7/2020 12:47:50 PM================
+2/7/2020 12:47:50 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:47:50 PM Process started for contact@amos-sg.com
+2/7/2020 12:47:53 PM Logged in successfully
+2/7/2020 12:47:53 PM Filter Data extracted successfully.
+2/7/2020 12:47:53 PM Started Loading interchange object.
+2/7/2020 12:48:00 PM ================2/7/2020 12:48:00 PM================
+2/7/2020 12:48:00 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:50:58 PM ================2/7/2020 12:50:58 PM================
+2/7/2020 12:50:58 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:51:00 PM Process started for contact@amos-sg.com
+2/7/2020 12:51:04 PM Logged in successfully
+2/7/2020 12:52:37 PM ================2/7/2020 12:52:37 PM================
+2/7/2020 12:52:37 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:52:37 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:52:39 PM Logged in successfully
+2/7/2020 12:54:15 PM RFQ data extracted successfully.
+2/7/2020 12:55:49 PM Processing RFQ for VRNO 'SOH/O0026/RF20'.
+2/7/2020 12:56:29 PM ================2/7/2020 12:56:29 PM================
+2/7/2020 12:56:29 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 12:56:29 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 12:56:31 PM Logged in successfully
+2/7/2020 12:56:34 PM RFQ data extracted successfully.
+2/7/2020 12:56:35 PM Processing RFQ for VRNO 'SOH/O0026/RF20'.
+2/7/2020 12:57:10 PM Processing RFQ for VRNO 'SOH/O0025/RF20'.
+2/7/2020 12:57:16 PM RFQ '103016_RFQ_SOH_O0025_RF20_07022020125714444.xlsm' for VRNO 'SOH/O0025/RF20' downloaded successfully.
+2/7/2020 12:57:16 PM Processing RFQ for VRNO 'PCT/O0028/RF20'.
+2/7/2020 12:57:18 PM RFQ '103015_RFQ_PCT_O0028_RF20_07022020125718228.xlsm' for VRNO 'PCT/O0028/RF20' downloaded successfully.
+2/7/2020 12:57:18 PM Processing RFQ for VRNO 'MIU/O0024/RF20'.
+2/7/2020 12:57:31 PM RFQ '103015_RFQ_MIU_O0024_RF20_07022020125723948.xlsm' for VRNO 'MIU/O0024/RF20' downloaded successfully.
+2/7/2020 12:57:31 PM Processing RFQ for VRNO 'MIU/O0022/RF20'.
+2/7/2020 12:58:16 PM RFQ '103015_RFQ_MIU_O0022_RF20_07022020125816123.xlsm' for VRNO 'MIU/O0022/RF20' downloaded successfully.
+2/7/2020 12:58:16 PM Processing RFQ for VRNO 'PCN/O0017/RF20'.
+2/7/2020 12:58:19 PM RFQ '103015_RFQ_PCN_O0017_RF20_07022020125816860.xlsm' for VRNO 'PCN/O0017/RF20' downloaded successfully.
+2/7/2020 12:58:19 PM Processing RFQ for VRNO 'RTL/O0028/RF20'.
+2/7/2020 12:58:21 PM RFQ '103015_RFQ_RTL_O0028_RF20_07022020125820508.xlsm' for VRNO 'RTL/O0028/RF20' downloaded successfully.
+2/7/2020 12:58:21 PM Processing RFQ for VRNO 'HEX/O0022/RF20'.
+2/7/2020 12:58:25 PM RFQ '103015_RFQ_HEX_O0022_RF20_07022020125825051.xlsm' for VRNO 'HEX/O0022/RF20' downloaded successfully.
+2/7/2020 12:58:27 PM Processing RFQ for VRNO 'RHO/O0010/RF20'.
+2/7/2020 12:58:28 PM RFQ '103023_RFQ_RHO_O0010_RF20_07022020125827495.xlsm' for VRNO 'RHO/O0010/RF20' downloaded successfully.
+2/7/2020 12:58:28 PM Processing RFQ for VRNO 'RBY/O0006/RF20'.
+2/7/2020 12:58:28 PM RFQ '103023_RFQ_RBY_O0006_RF20_07022020125828152.xlsm' for VRNO 'RBY/O0006/RF20' downloaded successfully.
+2/7/2020 12:58:28 PM Processing RFQ for VRNO 'IKAR/O0014/RF20'.
+2/7/2020 12:58:29 PM RFQ '103023_RFQ_IKAR_O0014_RF20_07022020125828912.xlsm' for VRNO 'IKAR/O0014/RF20' downloaded successfully.
+2/7/2020 12:58:29 PM Processing RFQ for VRNO 'IKAR/O0013/RF20'.
+2/7/2020 12:58:30 PM RFQ '103023_RFQ_IKAR_O0013_RF20_07022020125829576.xlsm' for VRNO 'IKAR/O0013/RF20' downloaded successfully.
+2/7/2020 1:04:07 PM Processing RFQ for VRNO 'ISS/O0192/RF19'.
+2/7/2020 1:04:09 PM RFQ '103020_RFQ_ISS_O0192_RF19_07022020010407769.xlsm' for VRNO 'ISS/O0192/RF19' downloaded successfully.
+2/7/2020 1:04:09 PM Processing RFQ for VRNO 'PPST/O0020/RF20'.
+2/7/2020 1:04:09 PM RFQ '103024_RFQ_PPST_O0020_RF20_07022020010409134.xlsm' for VRNO 'PPST/O0020/RF20' downloaded successfully.
+2/7/2020 1:04:13 PM Processing RFQ for VRNO 'SOSC/O0015/RF20'.
+2/7/2020 1:04:14 PM RFQ '103020_RFQ_SOSC_O0015_RF20_07022020010413934.xlsm' for VRNO 'SOSC/O0015/RF20' downloaded successfully.
+2/7/2020 1:04:14 PM Processing RFQ for VRNO 'BOE/O0020/RF20'.
+2/7/2020 1:04:15 PM RFQ '103024_RFQ_BOE_O0020_RF20_07022020010414507.xlsm' for VRNO 'BOE/O0020/RF20' downloaded successfully.
+2/7/2020 1:04:15 PM Processing RFQ for VRNO 'CLOV/O0005/RF20'.
+2/7/2020 1:04:16 PM RFQ '103024_RFQ_CLOV_O0005_RF20_07022020010415081.xlsm' for VRNO 'CLOV/O0005/RF20' downloaded successfully.
+2/7/2020 1:04:16 PM 16 RFQ(s) downloaded.
+2/7/2020 1:04:16 PM User mach-5@fujitrading.co.jp logged out successfully.
+2/7/2020 1:04:16 PM Process started for info@fujitrading.nl
+2/7/2020 1:04:16 PM Logged in successfully
+2/7/2020 1:54:21 PM ================2/7/2020 1:54:21 PM================
+2/7/2020 1:54:21 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 1:54:21 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 1:54:23 PM Logged in successfully
+2/7/2020 1:54:40 PM RFQ data extracted successfully.
+2/7/2020 1:54:40 PM Processing RFQ for VRNO 'SOH/O0026/RF20'.
+2/7/2020 1:54:41 PM RFQ '103016_RFQ_SOH_O0026_RF20_07022020015440325.xlsm' for VRNO 'SOH/O0026/RF20' downloaded successfully.
+2/7/2020 1:54:41 PM Processing RFQ for VRNO 'SOH/O0025/RF20'.
+2/7/2020 1:54:41 PM RFQ '103016_RFQ_SOH_O0025_RF20_07022020015441264.xlsm' for VRNO 'SOH/O0025/RF20' downloaded successfully.
+2/7/2020 1:54:41 PM Processing RFQ for VRNO 'PCT/O0028/RF20'.
+2/7/2020 1:54:42 PM RFQ '103015_RFQ_PCT_O0028_RF20_07022020015441710.xlsm' for VRNO 'PCT/O0028/RF20' downloaded successfully.
+2/7/2020 1:54:42 PM Processing RFQ for VRNO 'MIU/O0024/RF20'.
+2/7/2020 1:54:42 PM RFQ '103015_RFQ_MIU_O0024_RF20_07022020015442309.xlsm' for VRNO 'MIU/O0024/RF20' downloaded successfully.
+2/7/2020 1:54:42 PM Processing RFQ for VRNO 'MIU/O0022/RF20'.
+2/7/2020 1:54:43 PM RFQ '103015_RFQ_MIU_O0022_RF20_07022020015442858.xlsm' for VRNO 'MIU/O0022/RF20' downloaded successfully.
+2/7/2020 1:54:43 PM Processing RFQ for VRNO 'PCN/O0017/RF20'.
+2/7/2020 1:54:46 PM RFQ '103015_RFQ_PCN_O0017_RF20_07022020015443299.xlsm' for VRNO 'PCN/O0017/RF20' downloaded successfully.
+2/7/2020 1:54:46 PM Processing RFQ for VRNO 'RTL/O0028/RF20'.
+2/7/2020 1:54:46 PM RFQ '103015_RFQ_RTL_O0028_RF20_07022020015446123.xlsm' for VRNO 'RTL/O0028/RF20' downloaded successfully.
+2/7/2020 1:54:46 PM Processing RFQ for VRNO 'HEX/O0022/RF20'.
+2/7/2020 1:54:47 PM RFQ '103015_RFQ_HEX_O0022_RF20_07022020015446633.xlsm' for VRNO 'HEX/O0022/RF20' downloaded successfully.
+2/7/2020 1:54:47 PM Processing RFQ for VRNO 'RHO/O0010/RF20'.
+2/7/2020 1:54:47 PM RFQ '103023_RFQ_RHO_O0010_RF20_07022020015447057.xlsm' for VRNO 'RHO/O0010/RF20' downloaded successfully.
+2/7/2020 1:54:47 PM Processing RFQ for VRNO 'RBY/O0006/RF20'.
+2/7/2020 1:54:47 PM RFQ '103023_RFQ_RBY_O0006_RF20_07022020015447463.xlsm' for VRNO 'RBY/O0006/RF20' downloaded successfully.
+2/7/2020 1:54:47 PM Processing RFQ for VRNO 'IKAR/O0014/RF20'.
+2/7/2020 1:54:48 PM RFQ '103023_RFQ_IKAR_O0014_RF20_07022020015447933.xlsm' for VRNO 'IKAR/O0014/RF20' downloaded successfully.
+2/7/2020 1:54:48 PM Processing RFQ for VRNO 'IKAR/O0013/RF20'.
+2/7/2020 1:54:48 PM RFQ '103023_RFQ_IKAR_O0013_RF20_07022020015448439.xlsm' for VRNO 'IKAR/O0013/RF20' downloaded successfully.
+2/7/2020 1:54:48 PM Processing RFQ for VRNO 'ISS/O0192/RF19'.
+2/7/2020 1:57:09 PM ================2/7/2020 1:57:09 PM================
+2/7/2020 1:57:09 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 1:57:46 PM ================2/7/2020 1:57:46 PM================
+2/7/2020 1:57:46 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 1:58:17 PM ================2/7/2020 1:58:17 PM================
+2/7/2020 1:58:17 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 1:58:17 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 1:58:19 PM Logged in successfully
+2/7/2020 1:58:25 PM RFQ data extracted successfully.
+2/7/2020 1:58:55 PM ================2/7/2020 1:58:55 PM================
+2/7/2020 1:58:55 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 1:58:55 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 1:58:57 PM Logged in successfully
+2/7/2020 1:59:00 PM RFQ data extracted successfully.
+2/7/2020 1:59:07 PM No new RFQ(s) downloaded.
+2/7/2020 1:59:07 PM User mach-5@fujitrading.co.jp logged out successfully.
+2/7/2020 1:59:10 PM Process started for info@fujitrading.nl
+2/7/2020 1:59:11 PM Logged in successfully
+2/7/2020 1:59:38 PM RFQ data extracted successfully.
+2/7/2020 1:59:38 PM Processing RFQ for VRNO 'CLA/O0011/RF20'.
+2/7/2020 1:59:46 PM RFQ '102204_RFQ_CLA_O0011_RF20_07022020015945067.xlsm' for VRNO 'CLA/O0011/RF20' downloaded successfully.
+2/7/2020 1:59:46 PM Processing RFQ for VRNO 'TSS/O0012/RF20'.
+2/7/2020 2:00:58 PM ================2/7/2020 2:00:58 PM================
+2/7/2020 2:00:58 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 2:00:58 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 2:01:00 PM Logged in successfully
+2/7/2020 2:01:09 PM RFQ data extracted successfully.
+2/7/2020 2:02:31 PM Processing RFQ for VRNO 'CLA/O0011/RF20'.
+2/7/2020 2:02:36 PM RFQ '103023_RFQ_CLA_O0011_RF20_07022020020235903.xlsm' for VRNO 'CLA/O0011/RF20' downloaded successfully.
+2/7/2020 2:03:07 PM ================2/7/2020 2:03:07 PM================
+2/7/2020 2:03:07 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 2:03:07 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 2:03:10 PM Logged in successfully
+2/7/2020 2:03:13 PM RFQ data extracted successfully.
+2/7/2020 2:03:24 PM Processing RFQ for VRNO 'APLH/O0010/RF20'.
+2/7/2020 2:03:25 PM RFQ '103023_RFQ_APLH_O0010_RF20_07022020020324360.xlsm' for VRNO 'APLH/O0010/RF20' downloaded successfully.
+2/7/2020 2:03:31 PM Processing RFQ for VRNO 'APLH/O0008/RF20'.
+2/7/2020 2:03:32 PM RFQ '103023_RFQ_APLH_O0008_RF20_07022020020331988.xlsm' for VRNO 'APLH/O0008/RF20' downloaded successfully.
+2/7/2020 2:03:37 PM Processing RFQ for VRNO 'UTP/O0001/RF20'.
+2/7/2020 2:03:41 PM RFQ '103016_RFQ_UTP_O0001_RF20_07022020020337792.xlsm' for VRNO 'UTP/O0001/RF20' downloaded successfully.
+2/7/2020 2:03:55 PM Processing RFQ for VRNO 'AMO/O0005/RF20'.
+2/7/2020 2:03:56 PM RFQ '103023_RFQ_AMO_O0005_RF20_07022020020355574.xlsm' for VRNO 'AMO/O0005/RF20' downloaded successfully.
+2/7/2020 2:04:00 PM Processing RFQ for VRNO 'OGS/O0001/RF20'.
+2/7/2020 2:04:00 PM RFQ '103015_RFQ_OGS_O0001_RF20_07022020020400176.xlsm' for VRNO 'OGS/O0001/RF20' downloaded successfully.
+2/7/2020 2:04:02 PM Processing RFQ for VRNO 'MOPR/O0155/RF19'.
+2/7/2020 2:04:03 PM RFQ '103023_RFQ_MOPR_O0155_RF19_07022020020402688.xlsm' for VRNO 'MOPR/O0155/RF19' downloaded successfully.
+2/7/2020 2:04:05 PM Processing RFQ for VRNO 'MIU/O0131/RF19'.
+2/7/2020 2:04:05 PM RFQ '103015_RFQ_MIU_O0131_RF19_07022020020405023.xlsm' for VRNO 'MIU/O0131/RF19' downloaded successfully.
+2/7/2020 2:04:08 PM Processing RFQ for VRNO 'UND/O0127/RF19'.
+2/7/2020 2:04:10 PM RFQ '103024_RFQ_UND_O0127_RF19_07022020020408810.xlsm' for VRNO 'UND/O0127/RF19' downloaded successfully.
+2/7/2020 2:04:15 PM Processing RFQ for VRNO 'CVE/O0055/RF19'.
+2/7/2020 2:04:16 PM RFQ '103016_RFQ_CVE_O0055_RF19_07022020020416002.xlsm' for VRNO 'CVE/O0055/RF19' downloaded successfully.
+2/7/2020 2:04:29 PM Processing RFQ for VRNO 'MOPR/O0153/RF19'.
+2/7/2020 2:04:30 PM RFQ '103023_RFQ_MOPR_O0153_RF19_07022020020429771.xlsm' for VRNO 'MOPR/O0153/RF19' downloaded successfully.
+2/7/2020 2:04:31 PM Processing RFQ for VRNO 'PPL/O0174/RF19'.
+2/7/2020 2:04:31 PM RFQ '103015_RFQ_PPL_O0174_RF19_07022020020431231.xlsm' for VRNO 'PPL/O0174/RF19' downloaded successfully.
+2/7/2020 2:04:33 PM Processing RFQ for VRNO 'PPL/O0174/RF19'.
+2/7/2020 2:04:34 PM RFQ '103015_RFQ_PPL_O0174_RF19_07022020020433894.xlsm' for VRNO 'PPL/O0174/RF19' downloaded successfully.
+2/7/2020 2:04:36 PM Processing RFQ for VRNO 'PPL/O0174/RF19'.
+2/7/2020 2:04:37 PM RFQ '103015_RFQ_PPL_O0174_RF19_07022020020436579.xlsm' for VRNO 'PPL/O0174/RF19' downloaded successfully.
+2/7/2020 2:04:38 PM Processing RFQ for VRNO 'PPL/O0174/RF19'.
+2/7/2020 2:04:39 PM RFQ '103015_RFQ_PPL_O0174_RF19_07022020020438638.xlsm' for VRNO 'PPL/O0174/RF19' downloaded successfully.
+2/7/2020 2:04:45 PM Processing RFQ for VRNO 'DOR/O0211/RF19'.
+2/7/2020 2:04:45 PM RFQ '103020_RFQ_DOR_O0211_RF19_07022020020445293.xlsm' for VRNO 'DOR/O0211/RF19' downloaded successfully.
+2/7/2020 2:04:48 PM Processing RFQ for VRNO 'SAK/O0045/RF19'.
+2/7/2020 2:04:49 PM RFQ '103015_RFQ_SAK_O0045_RF19_07022020020448545.xlsm' for VRNO 'SAK/O0045/RF19' downloaded successfully.
+2/7/2020 2:04:52 PM Processing RFQ for VRNO 'UND/O0118/RF19'.
+2/7/2020 2:04:53 PM RFQ '103024_RFQ_UND_O0118_RF19_07022020020452444.xlsm' for VRNO 'UND/O0118/RF19' downloaded successfully.
+2/7/2020 2:04:59 PM Processing RFQ for VRNO 'EQ/SCF/RHR/0005'.
+2/7/2020 2:06:38 PM ================2/7/2020 2:06:38 PM================
+2/7/2020 2:06:38 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 2:06:38 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 2:06:40 PM Logged in successfully
+2/7/2020 2:06:43 PM RFQ data extracted successfully.
+2/7/2020 2:06:45 PM Processing RFQ for VRNO 'EQ/SCF/RHR/0005'.
+2/7/2020 2:12:27 PM ================2/7/2020 2:12:27 PM================
+2/7/2020 2:12:27 PM Bernhard Schulte RFQ Download HTTP processor started
+2/7/2020 2:12:27 PM Process started for mach-5@fujitrading.co.jp
+2/7/2020 2:12:29 PM Logged in successfully
+2/7/2020 2:12:31 PM RFQ data extracted successfully.
+2/7/2020 2:12:33 PM Processing RFQ for VRNO 'EQ/SCF/RHR/0005'.

@@ -1,0 +1,29 @@
+15-10-2019 12:45:27 ================15-10-2019 12:45:27================
+15-10-2019 12:45:27 Navibulgar HTTP Processor started
+15-10-2019 12:45:29 Domain: navbul
+
+15-10-2019 12:45:29 Process started for bburki@nekoship.nl
+15-10-2019 12:45:42 Logged in successfully
+15-10-2019 12:45:42 RFQ processing started.
+15-10-2019 12:45:43 Exception in Process RFQ : System.FormatException: String was not recognized as a valid DateTime.
+   at System.DateTimeParse.ParseExact(String s, String format, DateTimeFormatInfo dtfi, DateTimeStyles style)
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at Http_Navibulgar_Routine.Http_Download_Routine.GetNewRFQs() in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Navibulgar_Processor\Http_Navibulgar_Routine\Http_Download_Routine.cs:line 215
+   at Http_Navibulgar_Routine.Http_Download_Routine.ProcessRFQ() in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Navibulgar_Processor\Http_Navibulgar_Routine\Http_Download_Routine.cs:line 172
+15-10-2019 12:46:09 
+15-10-2019 12:46:09 Quote processing started.
+15-10-2019 12:46:09 4 Quote files found to process.
+15-10-2019 12:46:11 Started Loading interchange object.
+15-10-2019 12:46:11 stopped Loading interchange object.
+15-10-2019 12:46:11 Quote processing started for refno: E/278/CS007/19/1398
+15-10-2019 12:46:12 Reference Number Matched
+15-10-2019 12:46:13 Checking Quote Status
+15-10-2019 12:46:20 Quotation is already submitted for Ref No 'E/278/CS007/19/1398'.
+15-10-2019 12:46:20 File MTML_QUOTE_E_278_CS007_19_1398_SM0752_V10107_14101914454589.xml moved to error files.
+15-10-2019 12:46:29 Started Loading interchange object.
+15-10-2019 12:46:29 stopped Loading interchange object.
+15-10-2019 12:46:29 Quote processing started for refno: E/278/DS025/19/1398
+15-10-2019 12:46:30 Reference Number Matched
+15-10-2019 12:46:31 Checking Quote Status
+15-10-2019 12:46:41 Quotation is already submitted for Ref No 'E/278/DS025/19/1398'.
+15-10-2019 12:46:41 File MTML_QUOTE_E_278_DS025_19_1398_SM0752_V10107_14101914452857.xml moved to error files.
