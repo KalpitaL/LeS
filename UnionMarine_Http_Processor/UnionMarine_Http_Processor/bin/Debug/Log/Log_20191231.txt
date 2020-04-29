@@ -1,9 +1,0 @@
-12/31/2019 10:08:02 AM ================12/31/2019 10:08:02 AM================
-12/31/2019 10:08:02 AM Union Marine HTTP processor started
-12/31/2019 10:09:27 AM ================12/31/2019 10:09:27 AM================
-12/31/2019 10:09:27 AM Union Marine HTTP processor started
-12/31/2019 10:10:35 AM ================12/31/2019 10:10:35 AM================
-12/31/2019 10:10:35 AM Union Marine HTTP processor started
-12/31/2019 10:10:45 AM Union Marine login process started for User 1220130196
-12/31/2019 10:10:47 AM Union Marine has login Successfully.
-12/31/2019 10:10:50 AM Processing Quote File MTML_QUOTE_V-19-LNB-047-D_SM0215_V10107_17071918041434.xml started.

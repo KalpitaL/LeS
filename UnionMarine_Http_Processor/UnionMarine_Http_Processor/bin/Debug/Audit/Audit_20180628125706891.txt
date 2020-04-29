@@ -1,4 +1,0 @@
-||UnionMarine_Http_Processor|||Error|18-06-28 12:57 : Exception in Initialise: System.ArgumentNullException: Value cannot be null.
-Parameter name: path
-   at System.IO.Directory.CreateDirectory(String path)
-   at UnionMarine_Http_Routine.Http_Routines.GetAppConfigSettings() in e:\Projects\LES\UnionMarine_Http_Processor\UnionMarine_Http_Routine\Http_Routines.cs:line 43

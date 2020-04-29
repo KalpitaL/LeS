@@ -1,9 +1,0 @@
-SM0215|V10107|UnionMarine_HTTP_Quote_Processor||V-19-LLB-049-E|Error|19-04-18 14:18 : Error while Processing file : System.ArgumentOutOfRangeException: startIndex cannot be larger than length of string.
-Parameter name: startIndex
-   at System.String.InternalSubStringWithChecks(Int32 startIndex, Int32 length, Boolean fAlwaysCopy)
-   at HtmlAgilityPack.HtmlNode.get_OuterHtml()
-   at HtmlAgilityPack.HtmlTextNode.get_Text()
-   at HtmlAgilityPack.HtmlNode.get_InnerText()
-   at HtmlAgilityPack.HtmlNode.get_InnerText()
-   at HtmlAgilityPack.HtmlNode.get_InnerText()
-   at UnionMarine_Http_Routine.Routines.GetFilterRecords(HtmlDocument _htmlDoc, MTMLInterchange _interchange, String cXML_FileName, String cSuppCode, String cF_MessageNumber) in e:\Projects\LES\Http_POST\UnionMarine_Http_Processor\UnionMarine_Http_Routine\Routines.cs:line 242

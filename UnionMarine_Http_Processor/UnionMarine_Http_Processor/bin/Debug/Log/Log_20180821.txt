@@ -1,6 +1,0 @@
-21/08/2018 10:18:52 ================21/08/2018 10:18:52================
-21/08/2018 10:18:52 Union Marine HTTP processor started
-21/08/2018 10:18:59 Union Marine has login Successfully.
-21/08/2018 10:19:01 Download RFQ files for VRNO V-18-SLM-052-D.
-21/08/2018 10:19:02 RFQ 'RFQ_V-18-SLM-052-D_21082018101901.pdf' for VRNO 'V-18-SLM-052-D' downloaded successfully.
-21/08/2018 10:19:35 Processing Quote file for VRNO V-18-SLM-052-D.
