@@ -1,0 +1,221 @@
+5/6/2020 9:24:24 AM ================5/6/2020 9:24:24 AM================
+5/6/2020 9:24:25 AM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 9:24:25 AM 
+5/6/2020 9:24:25 AM Quote processing started.
+5/6/2020 9:24:25 AM Started Loading interchange object.
+5/6/2020 9:24:25 AM stopped Loading interchange object.
+5/6/2020 9:24:25 AM 'MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml' Quote file processing started.
+5/6/2020 9:24:25 AM https://atlantic-lloyd.cloudfleetmanager.com/apps/quote/e25ac230-c393-49c4-b99d-f8d8e1f20291|MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 9:26:46 AM ================5/6/2020 9:26:46 AM================
+5/6/2020 9:26:46 AM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 9:26:46 AM 
+5/6/2020 9:26:46 AM Quote processing started.
+5/6/2020 9:26:46 AM Started Loading interchange object.
+5/6/2020 9:26:46 AM stopped Loading interchange object.
+5/6/2020 9:26:46 AM 'MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml' Quote file processing started.
+5/6/2020 9:26:46 AM https://atlantic-lloyd.cloudfleetmanager.com/apps/quote/e25ac230-c393-49c4-b99d-f8d8e1f20291|MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 9:27:36 AM ================5/6/2020 9:27:36 AM================
+5/6/2020 9:27:36 AM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 9:27:36 AM 
+5/6/2020 9:27:36 AM Quote processing started.
+5/6/2020 9:27:36 AM Started Loading interchange object.
+5/6/2020 9:27:36 AM stopped Loading interchange object.
+5/6/2020 9:27:36 AM 'MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml' Quote file processing started.
+5/6/2020 9:27:36 AM https://atlantic-lloyd.cloudfleetmanager.com/apps/quote/e25ac230-c393-49c4-b99d-f8d8e1f20291|MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 9:28:01 AM Start filling header details
+5/6/2020 9:28:14 AM True||6/5/2020||6/5/2020
+5/6/2020 9:28:14 AM Stop filling header details
+5/6/2020 9:28:14 AM Item Details started
+5/6/2020 9:28:14 AM Start filling line item details
+5/6/2020 9:30:48 AM Stop filling lineitem details
+5/6/2020 9:31:25 AM Filling supplier remarks
+5/6/2020 9:36:34 AM ================5/6/2020 9:36:34 AM================
+5/6/2020 9:36:34 AM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 9:36:34 AM 
+5/6/2020 9:36:34 AM Quote processing started.
+5/6/2020 9:36:35 AM Started Loading interchange object.
+5/6/2020 9:36:35 AM stopped Loading interchange object.
+5/6/2020 9:36:35 AM 'MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml' Quote file processing started.
+5/6/2020 9:36:35 AM https://atlantic-lloyd.cloudfleetmanager.com/apps/quote/e25ac230-c393-49c4-b99d-f8d8e1f20291|MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 9:43:11 AM ================5/6/2020 9:43:11 AM================
+5/6/2020 9:43:11 AM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 9:43:11 AM 
+5/6/2020 9:43:11 AM Quote processing started.
+5/6/2020 9:43:11 AM Started Loading interchange object.
+5/6/2020 9:43:11 AM stopped Loading interchange object.
+5/6/2020 9:43:12 AM 'MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml' Quote file processing started.
+5/6/2020 9:43:12 AM https://atlantic-lloyd.cloudfleetmanager.com/apps/quote/e25ac230-c393-49c4-b99d-f8d8e1f20291|MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 9:43:30 AM ================5/6/2020 9:43:30 AM================
+5/6/2020 9:43:30 AM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 9:43:30 AM 
+5/6/2020 9:43:30 AM Quote processing started.
+5/6/2020 9:43:30 AM Started Loading interchange object.
+5/6/2020 9:43:30 AM stopped Loading interchange object.
+5/6/2020 9:43:30 AM 'MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml' Quote file processing started.
+5/6/2020 9:43:30 AM https://atlantic-lloyd.cloudfleetmanager.com/apps/quote/e25ac230-c393-49c4-b99d-f8d8e1f20291|MTML_QUOTE_0264-044_2020e-I001_SM0431_V10001_06052009064937.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 9:43:44 AM LeS-1008.2:Unable to Save Quote since Quote is in readonly status for  0264-044/2020e-I001
+5/6/2020 9:43:45 AM Quote processing stopped.
+5/6/2020 9:43:45 AM CloudFleetManager Quote,POC HTTP processor stopped.
+5/6/2020 9:43:45 AM ====================================================
+5/6/2020 2:28:54 PM ================5/6/2020 2:28:54 PM================
+5/6/2020 2:28:54 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:28:54 PM 
+5/6/2020 2:28:54 PM Quote processing started.
+5/6/2020 2:28:54 PM Started Loading interchange object.
+5/6/2020 2:28:54 PM stopped Loading interchange object.
+5/6/2020 2:28:54 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:28:54 PM https://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:30:11 PM ================5/6/2020 2:30:11 PM================
+5/6/2020 2:30:11 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:30:11 PM 
+5/6/2020 2:30:11 PM Quote processing started.
+5/6/2020 2:30:11 PM Started Loading interchange object.
+5/6/2020 2:30:11 PM stopped Loading interchange object.
+5/6/2020 2:30:11 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:30:11 PM https://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:30:56 PM ================5/6/2020 2:30:56 PM================
+5/6/2020 2:30:56 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:30:56 PM 
+5/6/2020 2:30:56 PM Quote processing started.
+5/6/2020 2:30:56 PM Started Loading interchange object.
+5/6/2020 2:30:56 PM stopped Loading interchange object.
+5/6/2020 2:30:56 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:30:56 PM https://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:31:42 PM ================5/6/2020 2:31:42 PM================
+5/6/2020 2:31:42 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:31:42 PM 
+5/6/2020 2:31:42 PM Quote processing started.
+5/6/2020 2:31:42 PM Started Loading interchange object.
+5/6/2020 2:31:42 PM stopped Loading interchange object.
+5/6/2020 2:31:42 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:31:42 PM https://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:31:47 PM enquiry no. not found.
+5/6/2020 2:31:47 PM Quote processing stopped.
+5/6/2020 2:31:47 PM CloudFleetManager Quote,POC HTTP processor stopped.
+5/6/2020 2:31:47 PM ====================================================
+5/6/2020 2:32:11 PM ================5/6/2020 2:32:11 PM================
+5/6/2020 2:32:11 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:32:11 PM 
+5/6/2020 2:32:11 PM Quote processing started.
+5/6/2020 2:32:11 PM Started Loading interchange object.
+5/6/2020 2:32:11 PM stopped Loading interchange object.
+5/6/2020 2:32:11 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:32:11 PM https://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:32:45 PM ================5/6/2020 2:32:45 PM================
+5/6/2020 2:32:45 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:32:45 PM 
+5/6/2020 2:32:45 PM Quote processing started.
+5/6/2020 2:32:45 PM Started Loading interchange object.
+5/6/2020 2:32:45 PM stopped Loading interchange object.
+5/6/2020 2:32:45 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:32:45 PM https://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:33:49 PM ================5/6/2020 2:33:49 PM================
+5/6/2020 2:33:49 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:33:49 PM 
+5/6/2020 2:33:49 PM Quote processing started.
+5/6/2020 2:33:50 PM Started Loading interchange object.
+5/6/2020 2:33:50 PM stopped Loading interchange object.
+5/6/2020 2:33:50 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:33:50 PM http://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:34:22 PM ================5/6/2020 2:34:22 PM================
+5/6/2020 2:34:22 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:34:22 PM 
+5/6/2020 2:34:22 PM Quote processing started.
+5/6/2020 2:34:22 PM Started Loading interchange object.
+5/6/2020 2:34:22 PM stopped Loading interchange object.
+5/6/2020 2:34:22 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:34:22 PM http://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:34:48 PM Start filling header details
+5/6/2020 2:34:59 PM True||6/5/2020||6/5/2020
+5/6/2020 2:34:59 PM Stop filling header details
+5/6/2020 2:34:59 PM Item Details started
+5/6/2020 2:35:00 PM Start filling line item details
+5/6/2020 2:35:22 PM Stop filling lineitem details
+5/6/2020 2:35:32 PM LeS-1040:Unable to get details - item Field(s) not present for 05-009/2020-I001
+5/6/2020 2:35:33 PM Quote processing stopped.
+5/6/2020 2:35:33 PM CloudFleetManager Quote,POC HTTP processor stopped.
+5/6/2020 2:35:33 PM ====================================================
+5/6/2020 2:39:12 PM ================5/6/2020 2:39:12 PM================
+5/6/2020 2:39:12 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:39:12 PM 
+5/6/2020 2:39:12 PM Quote processing started.
+5/6/2020 2:39:12 PM Started Loading interchange object.
+5/6/2020 2:39:12 PM stopped Loading interchange object.
+5/6/2020 2:39:12 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:39:12 PM http://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:39:32 PM ================5/6/2020 2:39:32 PM================
+5/6/2020 2:39:32 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:39:32 PM 
+5/6/2020 2:39:32 PM Quote processing started.
+5/6/2020 2:39:32 PM Started Loading interchange object.
+5/6/2020 2:39:32 PM stopped Loading interchange object.
+5/6/2020 2:39:32 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:39:32 PM http://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:39:57 PM Start filling header details
+5/6/2020 2:40:09 PM True||6/5/2020||6/5/2020
+5/6/2020 2:40:09 PM Stop filling header details
+5/6/2020 2:40:09 PM Item Details started
+5/6/2020 2:40:09 PM Start filling line item details
+5/6/2020 2:41:48 PM Stop filling lineitem details
+5/6/2020 2:41:54 PM LeS-1040:Unable to get details - item Field(s) not present for 05-009/2020-I001
+5/6/2020 2:41:55 PM Quote processing stopped.
+5/6/2020 2:41:55 PM CloudFleetManager Quote,POC HTTP processor stopped.
+5/6/2020 2:41:55 PM ====================================================
+5/6/2020 2:43:17 PM ================5/6/2020 2:43:17 PM================
+5/6/2020 2:43:17 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:43:17 PM 
+5/6/2020 2:43:17 PM Quote processing started.
+5/6/2020 2:43:17 PM Started Loading interchange object.
+5/6/2020 2:43:17 PM stopped Loading interchange object.
+5/6/2020 2:43:17 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:43:17 PM http://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:44:18 PM Start filling header details
+5/6/2020 2:44:31 PM True||6/5/2020||6/5/2020
+5/6/2020 2:44:31 PM Stop filling header details
+5/6/2020 2:44:31 PM Item Details started
+5/6/2020 2:44:31 PM Start filling line item details
+5/6/2020 2:45:46 PM Stop filling lineitem details
+5/6/2020 2:47:21 PM ================5/6/2020 2:47:21 PM================
+5/6/2020 2:47:21 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:47:21 PM 
+5/6/2020 2:47:21 PM Quote processing started.
+5/6/2020 2:47:21 PM Started Loading interchange object.
+5/6/2020 2:47:21 PM stopped Loading interchange object.
+5/6/2020 2:47:21 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:47:21 PM http://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 2:47:49 PM Start filling header details
+5/6/2020 2:48:00 PM True||6/5/2020||6/5/2020
+5/6/2020 2:48:00 PM Stop filling header details
+5/6/2020 2:48:00 PM Item Details started
+5/6/2020 2:48:00 PM Start filling line item details
+5/6/2020 2:48:34 PM Stop filling lineitem details
+5/6/2020 2:59:43 PM ================5/6/2020 2:59:43 PM================
+5/6/2020 2:59:43 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 2:59:43 PM 
+5/6/2020 2:59:43 PM Quote processing started.
+5/6/2020 2:59:43 PM Started Loading interchange object.
+5/6/2020 2:59:43 PM stopped Loading interchange object.
+5/6/2020 2:59:43 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 2:59:43 PM http://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 3:00:07 PM Start filling header details
+5/6/2020 3:00:19 PM True||6/5/2020||6/5/2020
+5/6/2020 3:00:19 PM Stop filling header details
+5/6/2020 3:00:19 PM Item Details started
+5/6/2020 3:00:19 PM Start filling line item details
+5/6/2020 3:00:32 PM Stop filling lineitem details
+5/6/2020 3:05:10 PM ================5/6/2020 3:05:10 PM================
+5/6/2020 3:05:10 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 3:05:10 PM 
+5/6/2020 3:05:10 PM Quote processing started.
+5/6/2020 3:05:10 PM Started Loading interchange object.
+5/6/2020 3:05:10 PM stopped Loading interchange object.
+5/6/2020 3:05:10 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 3:05:10 PM http://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload
+5/6/2020 3:37:39 PM ================5/6/2020 3:37:39 PM================
+5/6/2020 3:37:39 PM CloudFleetManager Quote,POC HTTP processor started
+5/6/2020 3:37:39 PM 
+5/6/2020 3:37:39 PM Quote processing started.
+5/6/2020 3:37:39 PM Started Loading interchange object.
+5/6/2020 3:37:39 PM stopped Loading interchange object.
+5/6/2020 3:37:39 PM 'MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml' Quote file processing started.
+5/6/2020 3:37:39 PM http://andromeda.cloudfleetmanager.com/apps/quote/9601dea4-e8a7-4239-89ad-3879a4d0c328|MTML_QUOTE_05-009_2020-I001_SM3364_V10001_06052015485089.xml|D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Dotnetbrowser\Asiatic_Uploader\Asiatic_Processor\bin\Debug\MTML_Quote_Upload

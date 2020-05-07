@@ -1,0 +1,384 @@
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = function (d, b) {
+        extendStatics = Object.setPrototypeOf ||
+            ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+            function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+        return extendStatics(d, b);
+    };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+define(["require", "exports", "core/components/base", "core/app", "core/packages/router", "core/packages/accessControl", "core/packages/logger"], function (require, exports, base, app, router, accessControl, Logger) {
+    var logger = new Logger(this);
+    var root = (function (_super) {
+        __extends(root, _super);
+        function root(params, componentRootPath) {
+            var _this = _super.call(this) || this;
+            _this.params = params;
+            _this.componentRootPath = componentRootPath;
+            _this._childrenFlat = ko.observableArray([]);
+            _this._children = ko.pureComputed(function () {
+                return _this._childrenFlat().filter(function (child) {
+                    return child.key.indexOf("/") == -1;
+                });
+            });
+            _this._selectedChildObs = ko.observable(null);
+            _this._selectedChild = ko.computed({
+                read: function () { return _this._selectedChildObs(); },
+                write: function (child) {
+                    if (!child)
+                        throw new Error("[" + logger.channel + "] Child can't be '" + child + "'");
+                    var hasValueAtStart = !!_this._selectedChildObs();
+                    if (child.hasChildren()) {
+                        child = _this.getDefaultChildrenRecursive(child.children()) || child;
+                    }
+                    _this._selectedChildObs(child);
+                    var root = child.parentKey ? _this.get(child.key.split("/")[0]) : child;
+                    var useCas = root.isCascade;
+                    var cas = app.instance.cascade();
+                    if (!useCas && cas) {
+                        app.instance.cascade(null);
+                    }
+                    else if (useCas) {
+                        if (!cas || cas.key != root.key) {
+                            app.instance.createCascade(root.key, root.title).open();
+                        }
+                    }
+                }
+            });
+            _this._selectedRootChild = ko.pureComputed(function () {
+                var c = _this.selectedChild();
+                if (!c)
+                    return null;
+                if (!c.parentKey)
+                    return c;
+                var rootKey = c.key.split("/")[0];
+                return _this.get(rootKey);
+            });
+            _this._selectedKey = ko.pureComputed({
+                read: function () {
+                    var c = _this._selectedChild();
+                    return c && c.key;
+                },
+                write: function (key) {
+                    var child = _this._childrenFlat().find(function (c) {
+                        return c.key == key;
+                    });
+                    _this.selectedChild(child || null);
+                }
+            });
+            _this._selectedRoute = ko.pureComputed({
+                read: function () {
+                    var c = _this.selectedChild();
+                    return c && c.route;
+                },
+                write: function (route) {
+                    var child = _this._childrenFlat().find(function (c) {
+                        return c.route == route || c.isDefault && !route;
+                    });
+                    _this.selectedChild(child || null);
+                }
+            });
+            _this._class = ko.pureComputed(function () {
+                var values = [];
+                var sc = _this.selectedChild();
+                while (sc) {
+                    values.push(sc.key.replace("/", "-"));
+                    sc = sc.parentKey
+                        ? _this.get(sc.parentKey)
+                        : null;
+                }
+                return values.join(" ");
+            });
+            _this.childComponent = ko.pureComputed(function () {
+                var child = _this.selectedChild();
+                return child && {
+                    name: _this.getComponentName(child.componentName),
+                    params: ko.pureComputed(function () { return _this.getComponentParams(child.paramsFactoryFn); })
+                };
+            }).extend({
+                rateLimit: 1, method: "notifyWhenChangesStop"
+            });
+            _this.disposeLater(_this.params.route.subscribe(function (data, raw) {
+                if (_this.params.route.hasChild) {
+                    _this.params.route.child.disposeSubscriptions(true);
+                }
+            }));
+            _this.disposeLater(function () {
+                if (_this.isRegistered)
+                    app.instance.rootComponentInstance(null);
+            });
+            return _this;
+        }
+        Object.defineProperty(root.prototype, "childrenFlat", {
+            get: function () {
+                return this._childrenFlat;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(root.prototype, "children", {
+            get: function () {
+                return this._children;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(root.prototype, "selectedChild", {
+            get: function () { return this._selectedChild; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(root.prototype, "selectedRootChild", {
+            get: function () { return this._selectedRootChild; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(root.prototype, "selectedKey", {
+            get: function () { return this._selectedKey; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(root.prototype, "selectedRoute", {
+            get: function () { return this._selectedRoute; },
+            enumerable: true,
+            configurable: true
+        });
+        Object.defineProperty(root.prototype, "class", {
+            get: function () { return this._class; },
+            enumerable: true,
+            configurable: true
+        });
+        root.prototype.getComponentName = function (componentName) {
+            if (!componentName)
+                return null;
+            var componentNameParts = componentName.split('/');
+            if (componentNameParts[0] === 'core') {
+                return componentName;
+            }
+            else {
+                componentNameParts.unshift(this.componentRootPath);
+                return componentNameParts.join('/');
+            }
+        };
+        ;
+        root.prototype.getComponentParams = function (paramFn) {
+            return typeof paramFn === "function"
+                ? paramFn()
+                : null;
+        };
+        ;
+        root.prototype.getDefaultChildrenRecursive = function (children) {
+            children = children || this.children();
+            var child = children.find(function (c) { return c.isDefault && c.hasPermission; }) || children.find(function (c) { return !c.isHidden() && c.hasPermission; });
+            return child && child.hasChildren()
+                ? this.getDefaultChildrenRecursive(child.children())
+                : child;
+        };
+        root.prototype.createChildFromOptions = function (childOptions) {
+            var _this = this;
+            var o = childOptions;
+            var key = o.key.toLowerCase(), componentName = (o.componentName && o.componentName.toLowerCase()) || key, text = o.text || o.key.split("/").last().capitalize(true), parentKey = key.split("/").reverse().slice(1).reverse().join("/");
+            var children = ko.pureComputed(function () {
+                var results = _this._childrenFlat().filter(function (c) {
+                    if (!c.key.startsWith(key))
+                        return false;
+                    return c.key.substr(key.length).lastIndexOf("/") == 0;
+                });
+                return results;
+            }), childrenWithoutComponentTab = ko.pureComputed(function () {
+                return o.useComponentTab
+                    ? children().findAll(function (x) { return !x.useComponentTab; })
+                    : [];
+            });
+            var permissionDomain = o.permissionDomain || window['app'].name + '.' + key.split('/').join('.');
+            var hasPermission = acl.can(accessControl.READ, permissionDomain);
+            var isHidden = ko.computed(function () {
+                var hiddenByOption = ko.utils.unwrapObservable(o.isHidden);
+                var hiddenByPermission = !hasPermission;
+                return hiddenByOption || childOptions.isCascade || hiddenByPermission;
+            });
+            var isDisabled = ko.isObservable(o.isDisabled)
+                ? o.isDisabled
+                : ko.observable(o.isDisabled || false);
+            var alignment = typeof o.alignment == "number"
+                ? o.alignment
+                : 0;
+            var route = this.params.route.getOrCreateChild();
+            var child = {
+                key: key,
+                componentName: hasPermission
+                    ? componentName
+                    : 'core/components/common/not-permitted',
+                text: text,
+                parentKey: parentKey,
+                title: o.title || text,
+                route: o.key.replace("/", "-").toLowerCase(),
+                priority: o.priority || 0,
+                hasPermission: hasPermission,
+                useComponentTab: o.useComponentTab,
+                componentTab: {
+                    name: o.useComponentTab
+                        ? this.getComponentName(componentName) + "-tab"
+                        : null,
+                    params: o.useComponentTab
+                        ? {
+                            route: route,
+                            children: childrenWithoutComponentTab
+                        }
+                        :
+                            {
+                                route: route
+                            }
+                },
+                paramsFactoryFn: o.paramsFactoryFn || this.defaultParamFn(key),
+                children: children,
+                hasChildren: ko.pureComputed(function () { return children().length > 0; }),
+                isDefault: o.isDefault || false,
+                isCascade: o.isCascade || false,
+                disableRouteReset: o.disableRouteReset || false,
+                isHidden: isHidden,
+                alignment: alignment,
+                useAside: o.useAside,
+                isSelected: ko.pureComputed({
+                    read: function () { return _this.selectedChild() == child; },
+                    write: function (b) {
+                        if (b) {
+                            var sc = _this.selectedChild();
+                            var pc = child.parentKey ? _this.get(child.parentKey) : child;
+                            if (!!sc && !!pc && !sc.disableRouteReset && (!pc.disableRouteReset || sc.parentKey != pc.key) && (sc.key != child.key)) {
+                                _this.params.route.reset(true);
+                            }
+                            _this.selectedChild(child);
+                        }
+                        else if (_this.selectedChild() == child) {
+                            _this.selectedChild(null);
+                        }
+                    }
+                }),
+                hasSelectedChild: ko.pureComputed(function () {
+                    return child.hasChildren() && !!child.children().find(function (c) {
+                        return c.isSelected() || c.hasSelectedChild();
+                    });
+                }),
+                css: ko.pureComputed(function () {
+                    return {
+                        "active": child.isSelected() || child.hasSelectedChild(),
+                        "is-selected": child.isSelected,
+                        "is-hidden": isHidden,
+                        "is-disabled": child.isDisabled,
+                        "has-children": child.hasChildren,
+                        "has-selected-child": child.hasSelectedChild,
+                        "has-tab-component": child.componentTab.name !== null,
+                    };
+                })
+            };
+            return child;
+        };
+        root.prototype.syncFromRoute = function () {
+            var route = this.params.route.hashPart;
+            var child = this._childrenFlat().find(function (c) {
+                return c.route == route;
+            });
+            logger.log("Sync from route: %s", route, child);
+            if (child) {
+                this.selectedChild(child);
+                router.isCascading(child.isCascade);
+            }
+        };
+        root.prototype.get = function (key) {
+            return this._childrenFlat().find(function (c) { return c.key == key.toLowerCase(); });
+        };
+        root.prototype.getDefault = function () {
+            return this.getDefaultChildrenRecursive();
+        };
+        root.prototype.add = function (childOptions) {
+            var _this = this;
+            if ($.isArray(childOptions)) {
+                var children = childOptions.map(function (opt) {
+                    return _this.createChildFromOptions(opt);
+                });
+                this._childrenFlat.push.apply(this._childrenFlat, children);
+                return children;
+            }
+            else {
+                var child = this.createChildFromOptions(childOptions);
+                this._childrenFlat.push(child);
+                return child;
+            }
+        };
+        root.prototype.defaultParamFn = function (key) {
+            return function () {
+                return {
+                    route: router.root.getOrCreateChild(),
+                    cascade: (app.instance.cascade() && key.startsWith(app.instance.cascade().key))
+                        ? app.instance.cascade()
+                        : null
+                };
+            };
+        };
+        root.prototype.addMissingParents = function () {
+            var _this = this;
+            var orphans = this._childrenFlat().filter(function (c) {
+                return c.parentKey && !_this.get(c.parentKey);
+            });
+            if (!orphans || !orphans.length)
+                return;
+            var missingParentKeys = orphans.map(function (c) {
+                return c.parentKey;
+            }).unique().compact(true);
+            logger.info("Adding missing parent: %s", missingParentKeys);
+            var parentOptions = missingParentKeys.map(function (key) {
+                return {
+                    key: key
+                };
+            });
+            return this.add(parentOptions);
+        };
+        root.prototype.register = function () {
+            var _this = this;
+            if (!this.isRegistered) {
+                this.syncFromRoute();
+                this.disposeLater(this.selectedRoute.subscribe(function (hash) {
+                    if (hash != _this.params.route.hashPart) {
+                        logger.log("Sync to router: %s", hash);
+                        _this.params.route.hashPart = hash || "";
+                        router.update();
+                    }
+                }));
+                this.disposeLater(this.params.route.subscribe(function (data, raw) {
+                    if (_this.isRegistered && raw != _this.selectedRoute()) {
+                        logger.log("Sync from router: %s", raw);
+                        _this.selectedRoute(raw);
+                    }
+                }));
+                app.instance.rootComponentInstance(this);
+            }
+        };
+        Object.defineProperty(root.prototype, "isRegistered", {
+            get: function () {
+                return app.instance && app.instance.rootComponentInstance() == this;
+            },
+            enumerable: true,
+            configurable: true
+        });
+        root.prototype.selectDefault = function () {
+            var c = this.getDefault();
+            if (c)
+                c.isSelected(true);
+            return c;
+        };
+        root.prototype.select = function (key) {
+            var c = this.get(key);
+            if (c)
+                c.isSelected(true);
+            return c;
+        };
+        return root;
+    }(base));
+    return root;
+});
+//# sourceMappingURL=root.js.map

@@ -1,0 +1,583 @@
+define(["require", "exports", "api/AnswerInquiryExternal.g", "purchaseSupplierQuote/data/currencyCache"], function (require, exports, answerInquiryApi, currencyCache) {
+    var inquiry = (function () {
+        function inquiry() {
+            var _this = this;
+            this._inquiryGuid = null;
+            this.newPositionIndex = 0;
+            this.processedCostTypeCodes = {};
+            this._data = ko.observable(null);
+            this.data = ko.pureComputed(function () { return _this.canUserRead() ? _this._data() : null; });
+            this.items = ko.pureComputed(function () { return _this.canUserRead() ? _this.data().Items() : null; });
+            this.isLoaded = ko.pureComputed(function () { return !!_this._data() !== null; });
+            this.canUserRead = ko.pureComputed(function () { return _this.isLoaded() && !!_this._data(); });
+            this.canUserWrite = ko.pureComputed(function () { return _this.canUserRead() && _this._data().CanUserWrite(); });
+        }
+        Object.defineProperty(inquiry.prototype, "_uriInquiryGuid", {
+            get: function () {
+                return window.location.pathname.split("/").last();
+            },
+            enumerable: true,
+            configurable: true
+        });
+        inquiry.prototype.loadAsync = function (inquiryGuid, environment) {
+            var _this = this;
+            if (inquiryGuid === void 0) { inquiryGuid = null; }
+            if (environment === void 0) { environment = null; }
+            var xhr;
+            if (inquiryGuid !== null || this._inquiryGuid === null || this._inquiryGuid !== this._uriInquiryGuid) {
+                this._inquiryGuid = inquiryGuid || this._uriInquiryGuid;
+                xhr = answerInquiryApi.GetInquiry(this._inquiryGuid);
+                xhr.done(function (x) { return _this.processInquiry(x, environment); });
+                xhr.fail(function () { return _this._data(false); });
+            }
+            else {
+                xhr = $.Deferred();
+                var resolveDeferred_1 = function () {
+                    var loadedData = _this._data();
+                    if (!!loadedData) {
+                        xhr.resolve(loadedData);
+                    }
+                    else {
+                        xhr.reject();
+                    }
+                };
+                if (this.isLoaded()) {
+                    resolveDeferred_1();
+                }
+                else {
+                    var subscription_1 = this.isLoaded.subscribe(function (newValue) {
+                        if (newValue) {
+                            resolveDeferred_1();
+                            subscription_1.dispose();
+                        }
+                    });
+                }
+            }
+            return xhr;
+        };
+        inquiry.prototype.processInquiry = function (inquiry, environment) {
+            var _this = this;
+            if (environment === void 0) { environment = null; }
+            var culture = cultureHelper;
+            var currencies = environment !== null ? environment.currencyCache : currencyCache;
+            var isPurchase = environment !== null ? !!environment.isPurchase : false;
+            var today = Date.create('today');
+            var mapped = H.map(inquiry);
+            mapped.inquirySentDateString = ko.pureComputed(function () { return culture.formatDate(mapped.InquirySentDate()); });
+            mapped.replyRequestedUntilString = ko.pureComputed(function () { return culture.formatDate(mapped.ReplyRequestedUntil()); });
+            mapped.requestedCurrencyName = ko.pureComputed(function () {
+                var code = mapped.RequestedInquiryTerms.CurrencyCode();
+                return currencies.findItem(function (x) { return x.IsoCode === code; }).Name;
+            });
+            mapped.deliveryRequestedUntilString = ko.pureComputed(function () {
+                var value = mapped.RequestedDeliveryDate();
+                return value === null ? 'As soon as possible' : culture.formatDate(value);
+            });
+            mapped.offerValidUntilString = ko.notifyingWritableComputed({
+                read: function () {
+                    var value = mapped.OfferValidUntil();
+                    return culture.formatDate(value);
+                },
+                write: function (x) {
+                    var value = culture.parseDateTime(x);
+                    mapped.OfferValidUntil(value);
+                },
+            }).extend({ rateLimit: { method: 'notifyWhenChangesStop', timeout: 800 } });
+            mapped.orderByDateString = ko.notifyingWritableComputed({
+                read: function () {
+                    var value = mapped.OrderByDate();
+                    return culture.formatDate(value);
+                },
+                write: function (x) {
+                    var value = culture.parseDateTime(x);
+                    mapped.OrderByDate(value);
+                },
+            }).extend({ rateLimit: { method: 'notifyWhenChangesStop', timeout: 800 } });
+            mapped.quotedPriceTotalString = ko.notifyingWritableComputed({
+                read: function () {
+                    var value = mapped.QuotedPriceTotal();
+                    return value == null ? null : culture.formatNumber(value, { skipTrailingZeros: false });
+                },
+                write: function (x) {
+                    var value = culture.parseNumber(x);
+                    if (!!value) {
+                        value = value.round(2);
+                    }
+                    mapped.QuotedPriceTotal(value >= 0 ? value : null);
+                },
+            }).extend({ notify: 'always' });
+            mapped.deliveryLeadTimeString = ko.notifyingWritableComputed({
+                read: function () {
+                    var value = mapped.DeliveryLeadTime();
+                    return value == null ? null : culture.formatNumber(value);
+                },
+                write: function (x) {
+                    var value = culture.parseNumber(x);
+                    if (!!value) {
+                        value = value.round();
+                    }
+                    mapped.DeliveryLeadTime(value >= 0 ? value : null);
+                }
+            }).extend({ notify: 'always' });
+            mapped.currencySign = ko.pureComputed(function () {
+                var code = mapped.OfferedInquiryTerms.CurrencyCode();
+                return currencies.findItem(function (x) { return x.IsoCode === code; }).Sign;
+            });
+            mapped.requestedTermsValid = ko.pureComputed(function () {
+                var referenceNumber = mapped.OfferReferenceNumber();
+                if (referenceNumber === null || referenceNumber.isBlank() || referenceNumber.length > 50) {
+                    return false;
+                }
+                var offerValidUntil = mapped.OfferValidUntil();
+                if (offerValidUntil === null) {
+                    return false;
+                }
+                if ((!isPurchase || mapped.QuoteReceivedDate() == null)
+                    && !offerValidUntil.isAfter(today, 1)) {
+                    return false;
+                }
+                return true;
+            });
+            mapped.requestedTermsStatusClass = ko.pureComputed(function () { return _this.getValidStatusClass(mapped.requestedTermsValid()); });
+            mapped.deliveryTermsValid = ko.pureComputed(function () {
+                var deliveryTime = mapped.DeliveryLeadTime();
+                if (deliveryTime === null || deliveryTime < 0) {
+                    return false;
+                }
+                return true;
+            });
+            mapped.deliveryTermsStatusClass = ko.pureComputed(function () { return _this.getValidStatusClass(mapped.deliveryTermsValid()); });
+            mapped.deliveryLocation = ko.pureComputed(function () {
+                var result = mapped.DeliveryTo();
+                if (mapped.IsDirectToVessel()) {
+                    var eta = mapped.DeliveryETA();
+                    var etd = mapped.DeliveryETD();
+                    if (eta || etd) {
+                        result += ", " + (culture.formatDate(eta) || 'n/a') + " - " + (culture.formatDate(etd) || 'n/a');
+                    }
+                }
+                if (mapped.DeliveryAddress() != null) {
+                    result += '\n' + mapped.DeliveryAddress();
+                }
+                return result;
+            });
+            mapped.Items.extend({ rateLimit: { method: 'notifyWhenChangesStop', timeout: 200 } });
+            mapped.discountableTotalSum = ko.pureComputed(function () {
+                if (mapped.UseQuotedPriceTotal()) {
+                    return mapped.QuotedPriceTotal();
+                }
+                return mapped.Items().findAll(function (x) { return x.CostTypeCode() == null; }).sum(function (x) { return x.PositionSum() || 0; }).round(2);
+            });
+            this.processInquiryItemLists(mapped, environment);
+            mapped.isValid = ko.pureComputed(function () {
+                if (mapped.UseQuotedPriceTotal() && (mapped.QuotedPriceTotal() === null || mapped.QuotedPriceTotal() < 0)) {
+                    return false;
+                }
+                return mapped.requestedTermsValid()
+                    && mapped.deliveryTermsValid()
+                    && mapped.Items().all(function (item) { return item.isValid(); });
+            });
+            mapped.statusClass = ko.pureComputed(function () { return _this.getValidStatusClass(mapped.isValid()); });
+            mapped.totalSumString = ko.computed({
+                read: function () {
+                    if (mapped.UseQuotedPriceTotal()) {
+                        return mapped.quotedPriceTotalString();
+                    }
+                    var totalSum = mapped.Items().findAll(function (x) { return x.IsAvailable(); }).sum(function (x) { return x.PositionSum() || 0; }).round(2);
+                    mapped.QuotedPriceTotal(totalSum);
+                    return culture.formatNumber(totalSum, { skipTrailingZeros: false });
+                },
+                write: function (x) {
+                    if (mapped.UseQuotedPriceTotal()) {
+                        mapped.quotedPriceTotalString(x);
+                    }
+                },
+            });
+            mapped.discountPercentageString = ko.notifyingWritableComputed({
+                read: function () {
+                    var value = mapped.QuotedDiscountPercentageTotal();
+                    return value == null ? null : culture.formatNumber(value);
+                },
+                write: function (x) {
+                    var value = culture.parseNumber(x);
+                    var discount = null;
+                    if (!!value) {
+                        value = value.round(2);
+                        value = Math.max(0, Math.min(value, 100));
+                    }
+                    mapped.QuotedDiscountPercentageTotal(value ? value : null);
+                    if (!value) {
+                        mapped.specialPositions().find(function (item) { return item.CostTypeCode() === 'Discount'; }).PositionSum(null);
+                    }
+                },
+            });
+            if (mapped.CanUserWrite()) {
+                mapped.offerValidUntilString.extend({
+                    required: {
+                        message: "Offer valid until date is required"
+                    }
+                }).extend({
+                    validation: [{
+                            validator: function (value) { return mapped.OfferValidUntil() !== null; },
+                            message: function () { return "Offer valid until date has to be a valid date"; },
+                        }]
+                });
+                if (!isPurchase || mapped.QuoteReceivedDate() == null) {
+                    mapped.offerValidUntilString.extend({
+                        validation: [{
+                                validator: function (value) { return mapped.OfferValidUntil().isAfter(today, 1); },
+                                message: function () { return "Offer valid until date cannot be a past date"; },
+                            }]
+                    });
+                }
+                mapped.OfferReferenceNumber.extend({
+                    required: {
+                        message: "Reference number is required"
+                    }
+                }).extend({
+                    maxLength: 50,
+                });
+                mapped.OfferedInquiryTerms.CurrencyCode.extend({
+                    required: {
+                        message: "Offered currency is required"
+                    }
+                });
+                mapped.OfferedPaymentTerms.ID.extend({
+                    required: {
+                        message: "Offered Payment Terms are required"
+                    }
+                });
+                mapped.deliveryLeadTimeString.extend({
+                    required: {
+                        message: "Delivery Time is required"
+                    }
+                });
+                mapped.OfferedInquiryTerms.DeliveryInCoTermCode.extend({
+                    required: {
+                        message: "Offered Delivery Terms is required"
+                    }
+                });
+                mapped.totalSumString.extend({
+                    required: {
+                        message: "Total sum is required",
+                        onlyIf: function () { return mapped.CanUserWrite() && mapped.UseQuotedPriceTotal(); },
+                    }
+                });
+            }
+            mapped.hasContractedItems = ko.pureComputed(function () {
+                return mapped.normalItems().some(function (x) { return x.ContractGuid() != null; });
+            });
+            this._data(mapped);
+        };
+        inquiry.prototype.processInquiryItemLists = function (inquiry, environment) {
+            var _this = this;
+            if (environment === void 0) { environment = null; }
+            var normal = [];
+            var additional = [];
+            var special = [];
+            var foundSpecialPositions = {};
+            inquiry.Items().each(function (item) {
+                _this.processInquiryItem(inquiry, item, environment);
+                if (item.CostTypeCode() != null) {
+                    foundSpecialPositions[item.CostTypeCode()] = item;
+                }
+                else if (item.IsAddedBySupplier()) {
+                    additional.push(item);
+                }
+                else {
+                    normal.push(item);
+                }
+            });
+            inquiry.CostTypeCodes().each(function (mappedCode) {
+                var code = H.unmap(mappedCode);
+                var item = !!foundSpecialPositions[code.IDCode] ? foundSpecialPositions[code.IDCode] : _this.createNewItemInternal(code, inquiry, environment);
+                if (!!item) {
+                    special.push(item);
+                }
+            });
+            if (!inquiry.normalItems) {
+                inquiry.normalItems = ko.observableArray(normal);
+                inquiry.additionalItems = ko.observableArray(additional);
+                inquiry.specialPositions = ko.observableArray(special);
+            }
+            else {
+                inquiry.normalItems(normal);
+                inquiry.additionalItems(additional);
+                inquiry.specialPositions(special);
+            }
+        };
+        inquiry.prototype.processInquiryItem = function (inquiry, item, environment) {
+            var _this = this;
+            if (environment === void 0) { environment = null; }
+            var culture = cultureHelper;
+            var unit;
+            if (item.UnitCode) {
+                item.UnitCode((unit = item.UnitCode()) && unit.toUpperCase());
+            }
+            if (item.VarianceUnit) {
+                item.VarianceUnit((unit = item.VarianceUnit()) && unit.toUpperCase());
+            }
+            item.isAutofilled = ko.observable(false);
+            item.confirmedAutofill = ko.observable(false);
+            item.isVariance = ko.pureComputed(function () { return _this.isVariance(item); });
+            item.isRejected = ko.pureComputed(function () { return !item.IsAvailable(); });
+            item.statusClass = ko.pureComputed(function () { return _this.getItemStatusClass(item); });
+            if (item.CostTypeCode() === 'Discount') {
+                item.positionSumString = ko.notifyingWritableComputed({
+                    read: function () {
+                        var value;
+                        var discountPercentage = inquiry.QuotedDiscountPercentageTotal();
+                        if (discountPercentage === null) {
+                            value = item.PositionSum();
+                        }
+                        else {
+                            value = -(inquiry.discountableTotalSum() / 100 * discountPercentage).round(2);
+                            item.PositionSum(value);
+                        }
+                        return value == null ? null : culture.formatNumber(value, { skipTrailingZeros: false });
+                    },
+                    write: function (x) {
+                        var value = culture.parseNumber(x);
+                        if (!!value) {
+                            value = (value > 0 ? -1 * value : value).round(2);
+                        }
+                        if (inquiry.QuotedDiscountPercentageTotal() != null && item.PositionSum() != value) {
+                            inquiry.QuotedDiscountPercentageTotal(null);
+                        }
+                        item.PositionSum(value ? value : null);
+                    }
+                }).extend({ notify: 'always' });
+            }
+            else {
+                item.positionSumString = ko.notifyingWritableComputed({
+                    read: function () {
+                        var value = item.PositionSum();
+                        return value == null ? null : culture.formatNumber(value, { skipTrailingZeros: false });
+                    },
+                    write: function (x) {
+                        var value = culture.parseNumber(x);
+                        if (!!value) {
+                            value = value.round(2);
+                        }
+                        item.PositionSum(value >= 0 ? value : null);
+                    },
+                }).extend({ notify: 'always' });
+            }
+            item.pricePerUnit = ko.notifyingWritableComputed({
+                read: function () { return (item.PositionSum() === null || item.VarianceQuantity() === null || item.VarianceQuantity() <= 0)
+                    ? null
+                    : (item.PositionSum() / item.VarianceQuantity()).round(2); },
+                write: function (x) { return item.PositionSum(x !== null ? (x * item.VarianceQuantity()).round(2) : null); }
+            });
+            item.pricePerUnitString = ko.notifyingWritableComputed({
+                read: function () {
+                    var value = item.pricePerUnit();
+                    return value == null ? null : culture.formatNumber(value, { skipTrailingZeros: false });
+                },
+                write: function (x) {
+                    var value = culture.parseNumber(x);
+                    if (!!value) {
+                        value = value.round(2);
+                    }
+                    item.pricePerUnit(value >= 0 ? value : null);
+                },
+            }).extend({ notify: 'always' });
+            item.varianceQuantityString = ko.notifyingWritableComputed({
+                read: function () {
+                    var value = item.VarianceQuantity();
+                    return value == null ? null : culture.formatNumber(value);
+                },
+                write: function (x) {
+                    var value;
+                    if (x == "") {
+                        value = item.IsAddedBySupplier() ? 1 : item.Quantity();
+                    }
+                    else {
+                        value = culture.parseNumber(x);
+                        if (!!value) {
+                            value = value.round(5);
+                        }
+                    }
+                    var oldUnitPrice = item.pricePerUnit();
+                    item.VarianceQuantity(value > 0 ? value : null);
+                    item.pricePerUnit(oldUnitPrice);
+                },
+            }).extend({ notify: 'always' });
+            if (!item.IsAddedBySupplier()) {
+                ko.computed(function () {
+                    if (item.VarianceName() == "") {
+                        item.VarianceName(item.Name());
+                    }
+                });
+            }
+            item.deliveryLeadTimeValid = ko.observable(true);
+            item.deliveryLeadTimeString = ko.notifyingWritableComputed({
+                read: function () {
+                    var value = item.DeliveryLeadTime();
+                    return value == null ? null : culture.formatNumber(value);
+                },
+                write: function (x) {
+                    var value = culture.parseNumber(x);
+                    if (!!value) {
+                        value = value.round(2);
+                    }
+                    value = value >= 0 ? value : null;
+                    item.deliveryLeadTimeValid(!x || value !== null);
+                    item.DeliveryLeadTime(value);
+                }
+            }).extend({ notify: 'always' });
+            item.isValid = ko.pureComputed(function () {
+                if (item.isRejected()) {
+                    return true;
+                }
+                if (!inquiry.UseQuotedPriceTotal() && item.CostTypeCode() === null && (item.PositionSum() == null || item.PositionSum() < 0)) {
+                    return false;
+                }
+                if (!item.VarianceName() || (item.CostTypeCode() == null && !item.VarianceQuantity())) {
+                    return false;
+                }
+                if (!item.deliveryLeadTimeValid()) {
+                    return false;
+                }
+                var remark = item.SupplierQuoteRemark();
+                return remark === null ? true : remark.length <= 2000;
+            });
+            if (inquiry.CanUserWrite()) {
+                item.IsAvailable.extend({
+                    required: {
+                        message: "Availability is required"
+                    }
+                });
+                item.positionSumString.extend({
+                    required: {
+                        message: "Position sum is required",
+                        onlyIf: function () { return !inquiry.UseQuotedPriceTotal() && item.IsAvailable() && !item.CostTypeCode(); },
+                    }
+                });
+                item.pricePerUnitString.extend({
+                    required: {
+                        message: "Price per unit is required",
+                        onlyIf: function () { return !inquiry.UseQuotedPriceTotal() && item.IsAvailable(); },
+                    }
+                });
+                item.VarianceName.extend({
+                    required: {
+                        message: "Offered item name is required",
+                        onlyIf: item.IsAvailable,
+                    }
+                });
+                item.varianceQuantityString.extend({
+                    required: {
+                        message: "Offered item quantity is required",
+                        onlyIf: item.IsAvailable,
+                    }
+                });
+                item.VarianceUnit.extend({
+                    required: {
+                        message: "Offered item unit is required",
+                        onlyIf: item.IsAvailable,
+                    }
+                });
+                item.deliveryLeadTimeString.extend({
+                    validation: {
+                        validator: function (x) { return item.deliveryLeadTimeValid(); },
+                        message: "Please enter a valid number",
+                        onlyIf: item.IsAvailable,
+                    }
+                });
+                item.SupplierQuoteRemark.extend({
+                    maxLength: {
+                        params: 2000,
+                        onlyIf: item.IsAvailable,
+                    }
+                });
+            }
+        };
+        inquiry.prototype.save = function (environment) {
+            var _this = this;
+            if (environment === void 0) { environment = null; }
+            var xhr = answerInquiryApi.AnswerInquiry(this._inquiryGuid, H.unmap(this._data()));
+            xhr.done(function (x) { return _this.processInquiry(x, environment); });
+            xhr.fail(function () { return _this._data(false); });
+            return xhr;
+        };
+        inquiry.prototype.cancel = function (environment) {
+            var _this = this;
+            if (environment === void 0) { environment = null; }
+            var xhr = answerInquiryApi.CancelInquiry(this._inquiryGuid);
+            xhr.done(function (x) { return _this.processInquiry(x, environment); });
+            xhr.fail(function () { return _this._data(false); });
+            return xhr;
+        };
+        inquiry.prototype.createNewItemInternal = function (costTypeCode, inquiry, environment) {
+            if (costTypeCode === void 0) { costTypeCode = null; }
+            if (environment === void 0) { environment = null; }
+            var item = this.getItemForCostTypeCode(costTypeCode);
+            this.processInquiryItem(inquiry, item, environment);
+            inquiry.Items.push(item);
+            return item;
+        };
+        inquiry.prototype.createNewItem = function (environment) {
+            if (environment === void 0) { environment = null; }
+            var item = this.createNewItemInternal(null, this.data(), environment);
+            this.data().additionalItems.push(item);
+            return item;
+        };
+        inquiry.prototype.getItemForCostTypeCode = function (costTypeCode) {
+            return {
+                InquiryItemGuid: ko.observable('new-item-' + this.newPositionIndex++),
+                PositionSum: ko.observable(null),
+                VarianceQuantity: ko.observable(null),
+                VarianceUnit: ko.observable('PCE'),
+                Description: ko.observable(''),
+                VarianceName: ko.observable(costTypeCode === null ? '' : costTypeCode.Name),
+                IsAvailable: ko.observable(true),
+                DeliveryLeadTime: ko.observable(null),
+                DeliveryLeadTimeUnit: ko.observable('d'),
+                SupplierQuoteRemark: ko.observable(''),
+                CostTypeCode: ko.observable(costTypeCode === null ? null : costTypeCode.IDCode),
+                IsAddedBySupplier: ko.observable(true),
+            };
+        };
+        inquiry.prototype.removeItem = function (guid, environment) {
+            if (environment === void 0) { environment = null; }
+            if (!this.canUserWrite()) {
+                return;
+            }
+            var itemSelector = function (x) { return x.InquiryItemGuid() === guid; };
+            var item = this.data().Items().find(itemSelector);
+            if (!item.IsAddedBySupplier() || !!item.CostTypeCode()) {
+                return;
+            }
+            this.data().Items(this.data().Items().remove(itemSelector));
+            this.data().additionalItems(this.data().additionalItems().remove(itemSelector));
+        };
+        inquiry.prototype.isVariance = function (item) {
+            return item.IsAddedBySupplier()
+                || (item.VarianceName() !== "" && item.VarianceName() !== item.Name())
+                || (item.VarianceQuantity() !== 0 && item.VarianceQuantity() !== item.Quantity())
+                || (item.VarianceUnit() !== "" && item.VarianceUnit() !== item.UnitCode());
+        };
+        inquiry.prototype.getItemStatusClass = function (item) {
+            if (item.isAutofilled() && !item.confirmedAutofill()) {
+                return 'automatic';
+            }
+            if (item.isRejected()) {
+                return 'alert';
+            }
+            if (item.isVariance()) {
+                return 'warning';
+            }
+            if (item.isValid() && item.PositionSum() > 0) {
+                return 'success';
+            }
+            return 'inactive';
+        };
+        inquiry.prototype.getValidStatusClass = function (isValid) {
+            return isValid ? 'success' : 'alert';
+        };
+        return inquiry;
+    }());
+    return new inquiry();
+});
+//# sourceMappingURL=inquiry.js.map
