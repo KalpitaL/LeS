@@ -1,0 +1,30 @@
+C:\Work\project\Develop\Webscrapers\LeSXML\bin\Debug\LeSXML.dll
+C:\Work\project\Develop\Webscrapers\LeSXML\bin\Debug\LeSXML.pdb
+C:\Work\project\Develop\Webscrapers\LeSXML\obj\Debug\LeSXML.dll
+C:\Work\project\Develop\Webscrapers\LeSXML\obj\Debug\LeSXML.pdb
+C:\Work\project\Develop\Webscrapers\LeSXML\obj\Debug\LeSXML.csprojResolveAssemblyReference.cache
+D:\Projects (Webscrapers)\LeSXML\bin\Debug\LeSXML.dll
+D:\Projects (Webscrapers)\LeSXML\bin\Debug\LeSXML.pdb
+D:\Projects (Webscrapers)\DLL\LeSXML.dll
+D:\Projects (Webscrapers)\DLL\LeSXML.pdb
+D:\Projects (Webscrapers)\LeSXML\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects (Webscrapers)\LeSXML\obj\Debug\LeSXML.dll
+D:\Projects (Webscrapers)\LeSXML\obj\Debug\LeSXML.pdb
+E:\Work\Projects\eSupplierPortal\LeS_webScrapers\DLL\LeSXML.dll
+E:\Work\Projects\eSupplierPortal\LeS_webScrapers\DLL\LeSXML.pdb
+E:\Work\Projects\eSupplierPortal\LeS_webScrapers\LeSXML\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Projects\eSupplierPortal\LeS_webScrapers\LeSXML\obj\Debug\LeSXML.dll
+E:\Work\Projects\eSupplierPortal\LeS_webScrapers\LeSXML\obj\Debug\LeSXML.pdb
+D:\Work\WinAutomation\Watin Codes\RMS Web Scrapper\DLL\LeSXML.dll
+D:\Work\WinAutomation\Watin Codes\RMS Web Scrapper\DLL\LeSXML.pdb
+D:\Work\WinAutomation\Watin Codes\RMS Web Scrapper\LeSXML\obj\Debug\LeSXML.dll
+D:\Work\WinAutomation\Watin Codes\RMS Web Scrapper\LeSXML\obj\Debug\LeSXML.pdb
+D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\DLL\LeSXML.dll
+D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\DLL\LeSXML.pdb
+D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\LeSXML\obj\Debug\LeSXML.dll
+D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\LeSXML\obj\Debug\LeSXML.pdb
+E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\DLL\LeSXML.dll
+E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\DLL\LeSXML.pdb
+E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\LeSXML\obj\Debug\LeSXML.csprojResolveAssemblyReference.cache
+E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\LeSXML\obj\Debug\LeSXML.dll
+E:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\LeSXML\obj\Debug\LeSXML.pdb

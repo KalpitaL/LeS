@@ -1,0 +1,25 @@
+
+2020-02-13 16:58:31 : Task to perform is 'UPLOAD'
+2020-02-13 16:58:34 : Logging to SK Shipping website.
+2020-02-13 16:58:43 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-02-13 17:03:25 : Task to perform is 'UPLOAD'
+2020-02-13 17:03:27 : Logging to SK Shipping website.
+2020-02-13 17:03:32 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-02-13 17:08:42 : Exception in 'Start()' function of 'SKShipping_Routine' class - Timeout while Internet Explorer busy
+   at SKShipping.SKShipping_Routine.LogIn() in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 132
+   at SKShipping.SKShipping_Routine.Start() in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 50
+2020-02-13 17:08:44 : Successfull closing of SK Shipping website.
+
+2020-02-13 17:11:53 : Task to perform is 'UPLOAD'
+2020-02-13 17:12:00 : Logging to SK Shipping website.
+2020-02-13 17:12:07 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-02-13 17:12:50 : Task to perform is 'UPLOAD'
+2020-02-13 17:13:00 : Logging to SK Shipping website.
+2020-02-13 17:13:06 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-02-13 17:15:57 : Task to perform is 'UPLOAD'
+2020-02-13 17:16:00 : Logging to SK Shipping website.
+2020-02-13 17:16:05 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2020-02-13 17:25:06 : Exception in 'Start()' function of 'SKShipping_Routine' class - Timeout while waiting 30 seconds for document to become available.
+   at SKShipping.SKShipping_Routine.LogIn() in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 132
+   at SKShipping.SKShipping_Routine.Start() in e:\Projects\LES\Namrata_Projects\Watin_Live\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 50
+2020-02-13 17:25:07 : Successfull closing of SK Shipping website.

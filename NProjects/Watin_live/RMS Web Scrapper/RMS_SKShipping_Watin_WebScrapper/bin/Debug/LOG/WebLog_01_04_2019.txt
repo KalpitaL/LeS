@@ -1,0 +1,435 @@
+
+2019-04-01 15:25:38 : Task to perform is 'DOWNLOAD'
+2019-04-01 15:26:07 : Logging to SK Shipping website.
+2019-04-01 15:26:21 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-04-01 15:28:00 : Successfull login to SK Shipping website.
+2019-04-01 15:28:07 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-04-01 15:28:11 : Number of Grid Pages found '4'
+2019-04-01 15:28:23 : Started reading Grid.
+2019-04-01 15:28:24 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:28:25 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-04-01 15:28:25 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:25 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:28:25 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:28:25 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-04-01 15:28:26 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-04-01 15:28:26 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:26 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:26 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-04-01 15:28:27 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:27 : Completed reading Grid.
+2019-04-01 15:28:39 : Started reading Grid.
+2019-04-01 15:28:39 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:28:40 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-04-01 15:28:40 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:40 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:41 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:28:41 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-04-01 15:28:41 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:28:41 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-04-01 15:28:42 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-04-01 15:28:42 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-04-01 15:28:42 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-04-01 15:28:43 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-04-01 15:28:43 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-04-01 15:28:43 : Completed reading Grid.
+2019-04-01 15:28:55 : Started reading Grid.
+2019-04-01 15:28:56 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:28:56 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:56 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-04-01 15:28:57 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-04-01 15:28:57 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:57 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-04-01 15:28:58 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-04-01 15:28:58 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:59 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:28:59 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-04-01 15:28:59 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:29:00 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:29:00 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-04-01 15:29:00 : Completed reading Grid.
+2019-04-01 15:29:10 : Started reading Grid.
+2019-04-01 15:29:10 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:29:11 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:29:11 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-04-01 15:29:11 : Completed reading Grid.
+2019-04-01 15:29:23 : Started fetching data from URL 'http://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=C.%20GALAXY&QUONO=CGA-19-IT-040&REQNO=CGADDD19006&ETA=2019-03-21&PORT=QINGDAO%20-%20CHINA&QUODATE=2019-03-29&SEQ=0'
+2019-04-01 15:29:24 : RFQ 'CGA-19-IT-040' of vessel 'C. GALAXY' and port name 'QINGDAO - CHINA' is being downloaded.
+2019-04-01 15:29:24 : Started fetching Header data for RFQ 'CGA-19-IT-040'
+2019-04-01 15:29:24 : Completed fetching Header data.
+2019-04-01 15:29:24 : Started fetching Items data for RFQ 'CGA-19-IT-040'
+2019-04-01 15:29:24 : No equipment data found for RFQ 'CGA-19-IT-040'
+2019-04-01 15:29:25 : 1 Items found for RFQ 'CGA-19-IT-040'
+2019-04-01 15:29:25 : IMPA found.
+2019-04-01 15:29:25 : Remark field having id 'txtVesselRemark0' not found.
+2019-04-01 15:29:25 : Success in fetching Items data.
+2019-04-01 15:29:25 : Completed fetching Items data.
+2019-04-01 15:29:25 : RFQ HTML named 'SKShipping_CGA_19_IT_040_20190401152925246.htm' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-04-01 15:29:27 : RFQ Screenshot named 'SKShipping_CGA_19_IT_040_20190401152925246.png' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-04-01 15:29:27 : Started extracting Header data.
+2019-04-01 15:29:27 : Completed extracting Header data.
+2019-04-01 15:29:27 : Started extracting Address data.
+2019-04-01 15:29:27 : Completed extracting Address data.
+2019-04-01 15:29:27 : Started extracting Items data.
+2019-04-01 15:29:27 : Completed extracting Items data.
+2019-04-01 15:29:27 : RFQ 'CGA-19-IT-040' named RFQ_V10205_CGA_19_IT_040_20190401152927283.xml downloaded successfully on path 'C:\Shipmaster\eSupplierPortal\LES_XML_INBOX'
+2019-04-01 15:29:38 : Started fetching data from URL 'http://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=C.%20MAJESTY&QUONO=CMA-19-IT-028&REQNO=CMAEDD18010&ETA=2018-10-29&PORT=ZHOUSHAN%20-%20CHINA&QUODATE=2019-01-28&SEQ=0'
+2019-04-01 15:29:39 : RFQ 'CMA-19-IT-028' of vessel 'C. MAJESTY' and port name 'ZHOUSHAN - CHINA' is being downloaded.
+2019-04-01 15:29:39 : Started fetching Header data for RFQ 'CMA-19-IT-028'
+2019-04-01 15:29:39 : Completed fetching Header data.
+2019-04-01 15:29:39 : Started fetching Items data for RFQ 'CMA-19-IT-028'
+2019-04-01 15:29:39 : No equipment data found for RFQ 'CMA-19-IT-028'
+2019-04-01 15:29:43 : 70 Items found for RFQ 'CMA-19-IT-028'
+2019-04-01 15:29:43 : IMPA found.
+2019-04-01 15:29:43 : Remark field having id 'txtVesselRemark0' not found.
+2019-04-01 15:29:43 : Remark field having id 'txtVesselRemark1' not found.
+2019-04-01 15:29:43 : Remark field having id 'txtVesselRemark2' not found.
+2019-04-01 15:29:43 : Remark field having id 'txtVesselRemark3' not found.
+2019-04-01 15:29:43 : Remark field having id 'txtVesselRemark4' not found.
+2019-04-01 15:29:43 : Remark field having id 'txtVesselRemark5' not found.
+2019-04-01 15:29:43 : Remark field having id 'txtVesselRemark6' not found.
+2019-04-01 15:29:43 : Remark field having id 'txtVesselRemark7' not found.
+2019-04-01 15:29:43 : Remark field having id 'txtVesselRemark8' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark9' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark10' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark11' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark12' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark13' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark14' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark15' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark16' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark17' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark18' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark19' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark20' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark21' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark22' not found.
+2019-04-01 15:29:44 : Remark field having id 'txtVesselRemark23' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark24' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark25' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark26' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark27' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark28' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark29' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark30' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark31' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark32' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark33' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark34' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark35' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark36' not found.
+2019-04-01 15:29:45 : Remark field having id 'txtVesselRemark37' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark38' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark39' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark40' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark41' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark42' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark43' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark44' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark45' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark46' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark47' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark48' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark49' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark50' not found.
+2019-04-01 15:29:46 : Remark field having id 'txtVesselRemark51' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark52' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark53' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark54' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark55' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark56' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark57' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark58' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark59' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark60' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark61' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark62' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark63' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark64' not found.
+2019-04-01 15:29:47 : Remark field having id 'txtVesselRemark65' not found.
+2019-04-01 15:29:48 : Remark field having id 'txtVesselRemark66' not found.
+2019-04-01 15:29:48 : Remark field having id 'txtVesselRemark67' not found.
+2019-04-01 15:29:48 : Remark field having id 'txtVesselRemark68' not found.
+2019-04-01 15:29:48 : Remark field having id 'txtVesselRemark69' not found.
+2019-04-01 15:29:48 : Success in fetching Items data.
+2019-04-01 15:29:48 : Completed fetching Items data.
+2019-04-01 15:29:48 : RFQ HTML named 'SKShipping_CMA_19_IT_028_20190401152948237.htm' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-04-01 15:29:50 : RFQ Screenshot named 'SKShipping_CMA_19_IT_028_20190401152948237.png' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-04-01 15:29:50 : Started extracting Header data.
+2019-04-01 15:29:50 : Completed extracting Header data.
+2019-04-01 15:29:50 : Started extracting Address data.
+2019-04-01 15:29:50 : Completed extracting Address data.
+2019-04-01 15:29:50 : Started extracting Items data.
+2019-04-01 15:29:50 : Completed extracting Items data.
+2019-04-01 15:29:50 : RFQ 'CMA-19-IT-028' named RFQ_V10205_CMA_19_IT_028_20190401152950051.xml downloaded successfully on path 'C:\Shipmaster\eSupplierPortal\LES_XML_INBOX'
+2019-04-01 15:29:59 : Started fetching data from URL 'http://partner.skshipping.com/MTIS/MTK460E.aspx?KIND=Store&VESSEL=ISLAND%20SINGAPURA&QUONO=ISI-10-IT-026&REQNO=ISIDST10010&ETA=2010-06-18&PORT=XINGANG,%20ANHUI%20PROVINCE%20-%20CHINA&QUODATE=2010-08-24&SEQ=0'
+2019-04-01 15:29:59 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is being downloaded.
+2019-04-01 15:29:59 : Started fetching Header data for RFQ 'ISI-10-IT-026'
+2019-04-01 15:30:00 : Completed fetching Header data.
+2019-04-01 15:30:00 : Started fetching Items data for RFQ 'ISI-10-IT-026'
+2019-04-01 15:30:00 : No equipment data found for RFQ 'ISI-10-IT-026'
+2019-04-01 15:30:02 : 41 Items found for RFQ 'ISI-10-IT-026'
+2019-04-01 15:30:02 : IMPA found.
+2019-04-01 15:30:02 : Remark field having id 'txtVesselRemark0' not found.
+2019-04-01 15:30:02 : Remark field having id 'txtVesselRemark1' not found.
+2019-04-01 15:30:02 : Remark field having id 'txtVesselRemark2' not found.
+2019-04-01 15:30:02 : Remark field having id 'txtVesselRemark3' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark4' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark5' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark6' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark7' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark8' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark9' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark10' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark11' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark12' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark13' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark14' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark15' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark16' not found.
+2019-04-01 15:30:03 : Remark field having id 'txtVesselRemark17' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark18' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark19' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark20' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark21' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark22' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark23' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark24' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark25' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark26' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark27' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark28' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark29' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark30' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark31' not found.
+2019-04-01 15:30:04 : Remark field having id 'txtVesselRemark32' not found.
+2019-04-01 15:30:05 : Remark field having id 'txtVesselRemark33' not found.
+2019-04-01 15:30:05 : Remark field having id 'txtVesselRemark34' not found.
+2019-04-01 15:30:05 : Remark field having id 'txtVesselRemark35' not found.
+2019-04-01 15:30:05 : Remark field having id 'txtVesselRemark36' not found.
+2019-04-01 15:30:05 : Remark field having id 'txtVesselRemark37' not found.
+2019-04-01 15:30:05 : Remark field having id 'txtVesselRemark38' not found.
+2019-04-01 15:30:05 : Remark field having id 'txtVesselRemark39' not found.
+2019-04-01 15:30:05 : Remark field having id 'txtVesselRemark40' not found.
+2019-04-01 15:30:05 : Success in fetching Items data.
+2019-04-01 15:30:05 : Completed fetching Items data.
+2019-04-01 15:30:05 : RFQ HTML named 'SKShipping_ISI_10_IT_026_20190401153005521.htm' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_RFQ'
+2019-04-01 15:30:06 : RFQ Screenshot named 'SKShipping_ISI_10_IT_026_20190401153005521.png' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_RFQ'
+2019-04-01 15:30:06 : Started extracting Header data.
+2019-04-01 15:30:06 : Completed extracting Header data.
+2019-04-01 15:30:06 : Started extracting Address data.
+2019-04-01 15:30:06 : Completed extracting Address data.
+2019-04-01 15:30:06 : Started extracting Items data.
+2019-04-01 15:30:06 : Completed extracting Items data.
+2019-04-01 15:30:06 : RFQ 'ISI-10-IT-026' named RFQ_V10205_ISI_10_IT_026_20190401153006875.xml downloaded successfully on path 'C:\Shipmaster\eSupplierPortal\LES_XML_INBOX'
+2019-04-01 15:30:07 : Successfull closing of SK Shipping website.
+
+2019-04-01 15:30:07 : Task to perform is 'UPLOAD'
+2019-04-01 15:30:56 : Logging to SK Shipping website.
+2019-04-01 15:31:01 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-04-01 15:32:43 : Successfull login to SK Shipping website.
+2019-04-01 15:32:43 : Started processing Quote named MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml present on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX
+2019-04-01 15:32:43 : Uploading Quote of RFQ 'GFO-19-IT-039'
+2019-04-01 15:32:45 : Filling Header
+2019-04-01 15:32:45 : Filling Supplier Ref No
+2019-04-01 15:32:45 : Filling Currency
+2019-04-01 15:32:47 : Filling D/C Percent
+2019-04-01 15:32:47 : Filling Valid From
+2019-04-01 15:32:47 : Filling Valid To
+2019-04-01 15:32:47 : Filling Quotation Remark
+2019-04-01 15:32:47 : Checking Total Items count match.
+2019-04-01 15:32:47 : Filling Items
+2019-04-01 15:34:26 : Error uploading Quote named MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml
+2019-04-01 15:34:26 : Quote HTML named 'SKShipping_GFO_19_IT_039_20190401153426582.htm' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_Quote\Error'
+2019-04-01 15:34:26 : Quote Screenshot named 'SKShipping_GFO_19_IT_039_20190401153426582.png' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_QUOTE\Error'
+2019-04-01 15:34:26 : MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml File moved to C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX\Error
+2019-04-01 15:34:27 : Successfull closing of SK Shipping website.
+2019-04-01 15:35:22 : Task to perform is 'DOWNLOAD'
+2019-04-01 15:35:29 : Logging to SK Shipping website.
+2019-04-01 15:35:39 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-04-01 15:37:36 : Successfull login to SK Shipping website.
+2019-04-01 15:37:42 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-04-01 15:37:46 : Number of Grid Pages found '4'
+2019-04-01 15:37:58 : Started reading Grid.
+2019-04-01 15:37:59 : RFQ 'CGA-19-IT-040' of vessel 'C. GALAXY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:37:59 : RFQ 'CMA-19-IT-028' of vessel 'C. MAJESTY' and port name 'ZHOUSHAN - CHINA' is already downloaded.
+2019-04-01 15:37:59 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:37:59 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-04-01 15:37:59 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:37:59 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:38:00 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:38:00 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-04-01 15:38:00 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-04-01 15:38:00 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:01 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:01 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-04-01 15:38:01 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:01 : Completed reading Grid.
+2019-04-01 15:38:13 : Started reading Grid.
+2019-04-01 15:38:13 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:38:14 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-04-01 15:38:14 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:15 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:15 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:38:15 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-04-01 15:38:15 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:38:16 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-04-01 15:38:16 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-04-01 15:38:16 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-04-01 15:38:16 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-04-01 15:38:16 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-04-01 15:38:17 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-04-01 15:38:17 : Completed reading Grid.
+2019-04-01 15:38:29 : Started reading Grid.
+2019-04-01 15:38:29 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:38:30 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:30 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-04-01 15:38:31 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-04-01 15:38:31 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:31 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-04-01 15:38:31 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-04-01 15:38:32 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:32 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:33 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-04-01 15:38:33 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:38:33 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:34 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-04-01 15:38:34 : Completed reading Grid.
+2019-04-01 15:38:44 : Started reading Grid.
+2019-04-01 15:38:44 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:44 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:38:45 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-04-01 15:38:45 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-04-01 15:38:45 : Completed reading Grid.
+2019-04-01 15:38:46 : Successfull closing of SK Shipping website.
+
+2019-04-01 15:38:46 : Task to perform is 'UPLOAD'
+2019-04-01 15:38:52 : Logging to SK Shipping website.
+2019-04-01 15:38:58 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-04-01 15:41:27 : Successfull login to SK Shipping website.
+2019-04-01 15:41:27 : Started processing Quote named MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml present on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX
+2019-04-01 15:41:27 : Uploading Quote of RFQ 'GFO-19-IT-039'
+2019-04-01 15:41:31 : Filling Header
+2019-04-01 15:41:31 : Filling Supplier Ref No
+2019-04-01 15:41:31 : Filling Currency
+2019-04-01 15:41:33 : Filling D/C Percent
+2019-04-01 15:41:33 : Filling Valid From
+2019-04-01 15:41:33 : Filling Valid To
+2019-04-01 15:41:33 : Filling Quotation Remark
+2019-04-01 15:41:33 : Checking Total Items count match.
+2019-04-01 15:41:33 : Filling Items
+2019-04-01 15:41:59 : Started processing Quote named MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml present on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX
+2019-04-01 15:41:59 : Uploading Quote of RFQ 'GFO-19-IT-039'
+2019-04-01 15:42:03 : Filling Header
+2019-04-01 15:42:03 : Filling Supplier Ref No
+2019-04-01 15:42:03 : Filling Currency
+2019-04-01 15:42:06 : Filling D/C Percent
+2019-04-01 15:42:06 : Filling Valid From
+2019-04-01 15:42:06 : Filling Valid To
+2019-04-01 15:42:06 : Filling Quotation Remark
+2019-04-01 15:42:06 : Checking Total Items count match.
+2019-04-01 15:42:06 : Filling Items
+2019-04-01 15:45:54 : Task to perform is 'DOWNLOAD'
+2019-04-01 15:45:58 : Logging to SK Shipping website.
+2019-04-01 15:46:04 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-04-01 15:47:39 : Successfull login to SK Shipping website.
+2019-04-01 15:47:46 : Successfull loading url 'https://partner.skshipping.com/MTIS/MTK350Q.aspx'
+2019-04-01 15:47:49 : Number of Grid Pages found '4'
+2019-04-01 15:48:02 : Started reading Grid.
+2019-04-01 15:48:03 : RFQ 'CGA-19-IT-040' of vessel 'C. GALAXY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:03 : RFQ 'CMA-19-IT-028' of vessel 'C. MAJESTY' and port name 'ZHOUSHAN - CHINA' is already downloaded.
+2019-04-01 15:48:03 : RFQ 'GCO-18-IP-041' of vessel 'G. COMMANDER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:48:03 : RFQ 'KCN-18-IT-014' of vessel 'K. CONFIDENCE' and port name 'LANSHAN - CHINA' is already downloaded.
+2019-04-01 15:48:04 : RFQ 'KCN-18-IT-006' of vessel 'K. CONFIDENCE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:04 : RFQ 'PEM-17-IT-166' of vessel 'PRO EMERALD' and port name 'DAESAN - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:48:04 : RFQ 'CCA-17-IT-097' of vessel 'C. CHALLENGER' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:48:04 : RFQ 'KOP-17-IT-065' of vessel 'K. OPAL' and port name 'SHANGHAI - CHINA' is already downloaded.
+2019-04-01 15:48:05 : RFQ 'KVI-17-IT-022' of vessel 'K. VICTORY' and port name 'BEILUN - CHINA' is already downloaded.
+2019-04-01 15:48:05 : RFQ 'KVI-17-IP-034' of vessel 'K. VICTORY' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:05 : RFQ 'KAB-16-IT-048' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:05 : RFQ 'KEX-16-IT-048' of vessel 'K. EXPLORER' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-04-01 15:48:06 : RFQ 'KAD-16-IT-028' of vessel 'K. ADVENTURE' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:06 : Completed reading Grid.
+2019-04-01 15:48:22 : Started reading Grid.
+2019-04-01 15:48:22 : RFQ 'PAL-16-IT-028' of vessel 'PRO ALLIANCE' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:48:23 : RFQ 'KJA-16-IP-020' of vessel 'K. JASPER' and port name 'NANTONG - CHINA' is already downloaded.
+2019-04-01 15:48:23 : RFQ 'KAB-16-IT-009' of vessel 'K. AMBITION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:24 : RFQ 'KEX-16-IT-016' of vessel 'K. EXPLORER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:24 : RFQ 'KAM-15-IP-078' of vessel 'K. AMBER' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:48:24 : RFQ 'KRU-15-IP-067' of vessel 'K. RUBY' and port name 'CHINA' is already downloaded.
+2019-04-01 15:48:24 : RFQ 'KCN-15-IT-036' of vessel 'K. CONFIDENCE' and port name 'POHANG - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:48:25 : RFQ 'KAD-15-IT-050' of vessel 'K. ADVENTURE' and port name 'LIANYUNGANG - CHINA' is already downloaded.
+2019-04-01 15:48:25 : RFQ 'KBR-15-IT-034' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-04-01 15:48:25 : RFQ 'KBR-15-IT-036' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-04-01 15:48:26 : RFQ 'KBR-15-IT-037' of vessel 'K. BRAVE' and port name 'TAICHUNG - TAIWAN' is already downloaded.
+2019-04-01 15:48:26 : RFQ 'KJA-15-IT-061' of vessel 'K. JASPER' and port name 'CHIWAN - CHINA' is already downloaded.
+2019-04-01 15:48:26 : RFQ 'KAD-15-IT-043' of vessel 'K. ADVENTURE' and port name 'PORT HEDLAND - AUSTRALIA' is already downloaded.
+2019-04-01 15:48:26 : Completed reading Grid.
+2019-04-01 15:48:38 : Started reading Grid.
+2019-04-01 15:48:39 : RFQ 'KRU-15-IP-046' of vessel 'K. RUBY' and port name 'SINGAPORE - SINGAPORE' is already downloaded.
+2019-04-01 15:48:39 : RFQ 'KOP-15-IT-049' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:39 : RFQ 'KOP-15-IT-052' of vessel 'K. OPAL' and port name 'CHINA' is already downloaded.
+2019-04-01 15:48:40 : RFQ 'KOP-15-IP-029' of vessel 'K. OPAL' and port name '' is already downloaded.
+2019-04-01 15:48:40 : RFQ 'KAM-15-IT-017' of vessel 'K. AMBER' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:41 : RFQ 'KVI-15-IP-032' of vessel 'K. VICTORY' and port name 'BAYUQUAN - CHINA' is already downloaded.
+2019-04-01 15:48:41 : RFQ 'KJA-15-IT-027' of vessel 'K. JASPER' and port name 'TIANJIN - CHINA' is already downloaded.
+2019-04-01 15:48:42 : RFQ 'KGA-15-IT-034' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:42 : RFQ 'KGA-15-IT-032' of vessel 'K. GARNET' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:42 : RFQ 'KVI-15-IT-012' of vessel 'K. VICTORY' and port name 'YANTAI - CHINA' is already downloaded.
+2019-04-01 15:48:43 : RFQ 'KPH-14-IT-060' of vessel 'K. PHOENIX' and port name 'HADONG - KOREA(SOUTH)' is already downloaded.
+2019-04-01 15:48:43 : RFQ 'KPE-14-IP-052' of vessel 'K. PERIDOT' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:43 : RFQ 'KEX-13-IT-048' of vessel 'K. EXPLORER' and port name 'TAICANG - CHINA' is already downloaded.
+2019-04-01 15:48:43 : Completed reading Grid.
+2019-04-01 15:48:54 : Started reading Grid.
+2019-04-01 15:48:54 : RFQ 'KFU-13-IT-046' of vessel 'K. FOUNDATION' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:54 : RFQ 'KOP-13-IT-026' of vessel 'K. OPAL' and port name 'QINGDAO - CHINA' is already downloaded.
+2019-04-01 15:48:54 : RFQ 'KPI-12-IT-016' of vessel 'K. PRIDE' and port name 'INDONESIA' is already downloaded.
+2019-04-01 15:48:54 : RFQ 'ISI-10-IT-026' of vessel 'ISLAND SINGAPURA' and port name 'XINGANG, ANHUI PROVINCE - CHINA' is already downloaded.
+2019-04-01 15:48:54 : Completed reading Grid.
+2019-04-01 15:48:55 : Successfull closing of SK Shipping website.
+
+2019-04-01 15:48:55 : Task to perform is 'UPLOAD'
+2019-04-01 15:48:55 : Logging to SK Shipping website.
+2019-04-01 15:49:01 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-04-01 15:50:38 : Successfull login to SK Shipping website.
+2019-04-01 15:50:38 : Started processing Quote named MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml present on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX
+2019-04-01 15:50:38 : Uploading Quote of RFQ 'GFO-19-IT-039'
+2019-04-01 15:50:40 : Filling Header
+2019-04-01 15:50:40 : Filling Supplier Ref No
+2019-04-01 15:50:40 : Filling Currency
+2019-04-01 15:50:43 : Filling D/C Percent
+2019-04-01 15:50:43 : Filling Valid From
+2019-04-01 15:50:43 : Filling Valid To
+2019-04-01 15:50:43 : Filling Quotation Remark
+2019-04-01 15:50:43 : Checking Total Items count match.
+2019-04-01 15:50:43 : Filling Items
+2019-04-01 15:50:43 : Error uploading Quote named MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml
+2019-04-01 15:50:43 : Quote HTML named 'SKShipping_GFO_19_IT_039_20190401155043306.htm' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_Quote\Error'
+2019-04-01 15:50:44 : Quote Screenshot named 'SKShipping_GFO_19_IT_039_20190401155043306.png' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_QUOTE\Error'
+2019-04-01 15:50:44 : MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml File moved to C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX\Error
+2019-04-01 15:50:45 : Successfull closing of SK Shipping website.
+2019-04-01 15:51:56 : Task to perform is 'DOWNLOAD'
+2019-04-01 15:51:56 : Logging to SK Shipping website.
+2019-04-01 15:52:10 : Task to perform is 'UPLOAD'
+2019-04-01 15:52:10 : Logging to SK Shipping website.
+2019-04-01 15:52:15 : Page Loaded - https://partner.skshipping.com/Login.aspx
+2019-04-01 15:53:52 : Successfull login to SK Shipping website.
+2019-04-01 15:53:52 : Started processing Quote named MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml present on path C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX
+2019-04-01 15:53:52 : Uploading Quote of RFQ 'GFO-19-IT-039'
+2019-04-01 15:53:53 : Filling Header
+2019-04-01 15:53:53 : Filling Supplier Ref No
+2019-04-01 15:53:53 : Filling Currency
+2019-04-01 15:53:56 : Filling D/C Percent
+2019-04-01 15:53:56 : Filling Valid From
+2019-04-01 15:53:56 : Filling Valid To
+2019-04-01 15:53:56 : Filling Quotation Remark
+2019-04-01 15:53:56 : Checking Total Items count match.
+2019-04-01 15:53:56 : Filling Items
+2019-04-01 15:55:43 : Error uploading Quote named MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml
+Error - Error Items not found.
+2019-04-01 15:55:50 :    at SKShipping.SKShipping_Routine.uploadQuote(MTMLInterchange objMTML, FileInfo xmlFile) in d:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 892
+   at SKShipping.SKShipping_Routine.processQuoteFile(FileInfo xmlFile) in d:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\SKShipping\SKShipping_Routine.cs:line 822
+2019-04-01 15:56:30 : Quote HTML named 'SKShipping_GFO_19_IT_039_20190401155630735.htm' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\HTML_Quote\Error'
+2019-04-01 15:56:31 : Quote Screenshot named 'SKShipping_GFO_19_IT_039_20190401155630736.png' saved on path 'D:\Working\Pooja_Projects\SK Shipping\RMS Web Scrapper\RMS_SKShipping_Watin_WebScrapper\bin\Debug\IMAGE_QUOTE\Error'
+2019-04-01 15:56:31 : MTML_QUOTE_GFO-19-IT-039_SM0876_V10205_01041914525097.xml File moved to C:\Shipmaster\eSupplierPortal\LES_XML_OUTBOX\Error
+2019-04-01 15:56:32 : Successfull closing of SK Shipping website.
