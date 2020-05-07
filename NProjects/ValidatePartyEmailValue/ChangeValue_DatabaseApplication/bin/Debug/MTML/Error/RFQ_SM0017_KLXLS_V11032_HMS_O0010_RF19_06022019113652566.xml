@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="" Identifier="UNOC" Recipient="V11032" Sender="SM0017_KLXLS" PreparationDate="2019-Feb-06" PreparationTime="11:36" VersionNumber="1" LesRecordID="0" LesLinkID="0">
+    <RequestForQuote MessageReferenceNumber="104244_RFQ_HMS_O0010_RF19_06022019113621350.xlsm" MessageNumber="104244_RFQ_HMS_O0010_RF19_06022019113621350.xlsm" LineItemCount="2" VersionNumber="1" FunctionCode="_9" BuyerRefNo="HMS/O0010/RF19" OriginalFile="104244_RFQ_HMS_O0010_RF19_06022019113621350.xlsm" IsDeclined="False">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20190110" />
+      <Comments Qualifier="PUR">
+        <value>Security padlocks for cargo hold manholes  and  for doors .</value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="HMS/O0010/RF19" />
+      <Party Qualifier="BY" Identification="SM0017_KLXLS" Name="Bernhard Schulte Shipmanagement (Deutschland) GmbH &amp; Co. KG">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V11032" Name="BASTE + LANGE GMBH">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="technical@bastelange.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN" />
+      <Party Qualifier="BA" />
+      <Party Qualifier="UD" Name="Bomar Hermes">
+        <PartyLocation Qualifier="TBA" Port="At Sea" />
+      </Party>
+      <LineItem Number="1" Description="MASTER KEY ONLY FOR MASTER KEY, SYSTEM PADLOCK 50MM" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="0.00" Identification="490509" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+      <LineItem Number="2" Description="PADLOCK BRASS 50MM, MASTER KEY SYSTEM" MeasureUnitQualifier="PCS" Quantity="40" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="21" MonetaryAmount="0.00" Identification="490512" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

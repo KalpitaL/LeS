@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="" Identifier="UNOC" Recipient="V11032" Sender="SM0013_KLXLS" PreparationDate="2019-Nov-25" PreparationTime="09:26" VersionNumber="1" LesRecordID="0" LesLinkID="0">
+    <RequestForQuote MessageReferenceNumber="104239_RFQ_JUA_O0249_RF19_25112019092544296.xlsm" MessageNumber="104239_RFQ_JUA_O0249_RF19_25112019092544296.xlsm" LineItemCount="1" VersionNumber="1" FunctionCode="_9" BuyerRefNo="JUA/O0249/RF19" OriginalFile="104239_RFQ_JUA_O0249_RF19_25112019092544296.xlsm" IsDeclined="False">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20191125" />
+      <Comments Qualifier="PUR">
+        <value>Draeger part# 8103691 0,25-10 ppm to be delivered</value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="JUA/O0249/RF19" />
+      <Party Qualifier="BY" Identification="SM0013_KLXLS" Name="Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Identification="V11032" Name="BASTE + LANGE GMBH">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="EM" Number="technical@bastelange.com,technical@bastelange.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN" />
+      <Party Qualifier="BA" />
+      <Party Qualifier="UD" Name="Cap San Juan">
+        <PartyLocation Qualifier="TBA" Port="Rotterdam" />
+      </Party>
+      <LineItem Number="1" Description="DRAGER TUBE BENZENE 0.25/A, 0.25 TO 2PPM &amp; 2 TO 10PPM, PT NO:&#xD;&#xA;8103691 (REPLACES BENZENE 8101841 &amp; 6728561)" MeasureUnitQualifier="0/0" Quantity="30" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="20" MonetaryAmount="0.00" Identification="2549130" IsExtraItem="0">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="LIST" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="PUR">
+          <value>
+          </value>
+        </Comments>
+        <Section Description="Equip Desc :  Equip no : " />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>
