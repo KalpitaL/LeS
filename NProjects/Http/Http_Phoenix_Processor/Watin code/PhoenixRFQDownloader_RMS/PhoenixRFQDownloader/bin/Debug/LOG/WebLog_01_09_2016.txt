@@ -1,0 +1,47 @@
+
+14:47:34 : Phoenix RFQ & PO Downloader Started.
+14:47:34 : Processing File 160901_120304332.txt
+14:47:48 : Navigating To URL ..
+14:47:53 : Page Loaded ..
+14:47:53 : Reading Header Details ..
+14:47:53 : Reading Item Details ..
+14:54:31 : Phoenix RFQ & PO Downloader Started.
+14:54:31 : Processing File 160901_120304332.txt
+14:54:33 : Navigating To URL ..
+14:54:37 : Page Loaded ..
+14:54:37 : Reading Header Details ..
+14:54:38 : Reading Item Details ..
+14:57:42 : Phoenix RFQ & PO Downloader Started.
+14:57:42 : Processing File 160901_120304332.txt
+14:57:43 : Navigating To URL ..
+17:28:07 : Phoenix RFQ & PO Downloader Started.
+17:28:07 : Processing File 160901_120304332.txt
+17:28:07 : Navigating To URL ..
+17:28:11 : Page Loaded ..
+17:28:11 : Reading Header Details ..
+17:28:11 : Reading Item Details ..
+17:30:50 : Phoenix RFQ & PO Downloader Started.
+17:30:50 : Processing File 160901_120304332.txt
+17:30:50 : Navigating To URL ..
+17:30:53 : Page Loaded ..
+17:30:53 : Reading Header Details ..
+17:30:53 : Reading Item Details ..
+17:34:51 : Phoenix RFQ & PO Downloader Started.
+17:34:51 : Processing File 160901_120304332.txt
+17:34:51 : Navigating To URL ..
+17:34:54 : Page Loaded ..
+17:34:54 : Reading Header Details ..
+17:34:55 : Reading Item Details ..
+17:37:21 : RFQ 'FUT-16-0149' downloaded successfully.
+17:37:21 : File saved ..
+17:37:39 : 160901_120304332.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:37:39 : Processing File 160901_124805196.txt
+17:37:40 : Navigating To URL ..
+17:37:46 : Page Loaded ..
+17:37:46 : Reading Header Details ..
+17:37:46 : Reading Item Details ..
+17:38:29 : RFQ 'AXO-16-0158' downloaded successfully.
+17:38:29 : File saved ..
+17:38:47 : 160901_124805196.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:38:47 : Phoenix RFQ Downloader Stopped.
+

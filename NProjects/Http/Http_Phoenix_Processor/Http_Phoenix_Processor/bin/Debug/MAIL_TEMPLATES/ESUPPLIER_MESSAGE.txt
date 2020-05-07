@@ -1,0 +1,34 @@
+
+(This is only an automated email alert. Please do not reply to this notification as it is unable to receive replies.)
+
+
+ eSupplier Portal 
+ 
+
+ Buyer: #BUYER_NAME#
+
+
+ Supplier: #SUPPLIER_NAME#
+
+ 
+ Message: #MESSAGE#
+
+
+
+It is recommended that you go through all details in the attachment.
+
+Some information on the attachment may not be imported into your purchasing application due to its import capability. 
+
+For assistance or question on this enclosure, please contact to sender directly.
+
+For assistance or question on LesConnect, you can either email us at support@lighthouse-esolutions.com or call us at +65 6556 2378.
+
+
+
+
+Notification from eSupplier 
+
+
+ 
+
+

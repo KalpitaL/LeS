@@ -1,0 +1,68 @@
+
+15:26:52 : Phoenix RFQ & PO Downloader Started.
+15:26:52 : Processing File 160926_164805623.txt
+15:26:52 : Error in GetRFQDetails() -    at WatiN.Core.IE.CreateNewIEAndGoToUri(Uri uri, IDialogHandler logonDialogHandler, Boolean createInNewProcess)
+   at WatiN.Core.IE..ctor()
+   at WebScraper.IEBrowser..ctor() in d:\Projects (Webscrapers)\WebScraper\WebScraper\IEBrowser.cs:line 16
+   at PhoenixRoutine.Phoenix.GetRFQDetails(String URL) in d:\Projects (Webscrapers)\PhoenixRFQDownloader\PhoenixRoutine\Phoenix.cs:line 403
+15:26:52 : Unable to process link file '160926_164805623.txt'.
+15:26:52 : 160926_164805623.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Error_files
+15:26:52 : Phoenix RFQ Downloader Stopped.
+
+
+15:27:13 : Phoenix RFQ & PO Downloader Started.
+15:27:29 : Phoenix RFQ & PO Downloader Started.
+15:27:29 : Phoenix RFQ Downloader Stopped.
+
+
+15:27:51 : Phoenix RFQ & PO Downloader Started.
+15:28:16 : Processing File 160926_164805623.txt
+15:31:39 : Phoenix RFQ & PO Downloader Started.
+15:31:42 : Processing File 160926_164805623.txt
+15:32:48 : Error in GetRFQDetails() -    at WatiN.Core.IE.CreateNewIEAndGoToUri(Uri uri, IDialogHandler logonDialogHandler, Boolean createInNewProcess)
+   at WatiN.Core.IE..ctor()
+   at WebScraper.IEBrowser..ctor() in d:\Projects (Webscrapers)\WebScraper\WebScraper\IEBrowser.cs:line 16
+   at PhoenixRoutine.Phoenix.GetRFQDetails(String URL)
+15:32:48 : Unable to process link file '160926_164805623.txt'.
+15:32:48 : 160926_164805623.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Error_files
+15:32:48 : Phoenix RFQ Downloader Stopped.
+
+
+15:33:20 : Phoenix RFQ & PO Downloader Started.
+15:33:24 : Phoenix RFQ Downloader Stopped.
+
+15:33:53 : Phoenix RFQ & PO Downloader Started.
+15:33:53 : Processing File 160926_164805623.txt
+15:37:57 : Phoenix RFQ & PO Downloader Started.
+15:37:57 : Processing File 160926_164805623.txt
+15:38:41 : Error in GetRFQDetails() -    at WatiN.Core.IE.CreateNewIEAndGoToUri(Uri uri, IDialogHandler logonDialogHandler, Boolean createInNewProcess)
+   at WatiN.Core.IE..ctor()
+   at WebScraper.IEBrowser..ctor() in d:\Projects (Webscrapers)\WebScraper\WebScraper\IEBrowser.cs:line 16
+   at PhoenixRoutine.Phoenix.GetRFQDetails(String URL) in d:\Projects (Webscrapers)\PhoenixRFQDownloader\PhoenixRoutine\Phoenix.cs:line 416
+15:38:44 : Unable to process link file '160926_164805623.txt'.
+15:38:45 : 160926_164805623.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Error_files
+15:39:18 : Phoenix RFQ & PO Downloader Started.
+15:39:18 : Processing File 160926_170305129.txt
+15:42:51 : Phoenix RFQ & PO Downloader Started.
+15:42:51 : Processing File 160926_170305129.txt
+15:42:57 : Navigating To URL ..
+15:43:09 : Page Loaded ..
+15:43:09 : Reading Header Details ..
+15:43:10 : Reading Item Details ..
+15:43:57 : RFQ 'KMT-16-0097' downloaded successfully.
+15:43:57 : File saved ..
+15:44:15 : 160926_170305129.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+15:44:15 : Phoenix RFQ Downloader Stopped.
+
+
+15:44:26 : Phoenix RFQ & PO Downloader Started.
+15:44:26 : Processing File 160926_164805623.txt
+15:44:26 : Navigating To URL ..
+15:44:30 : Page Loaded ..
+15:44:30 : Reading Header Details ..
+15:44:31 : Reading Item Details ..
+15:45:20 : RFQ 'AWL-16-0171' downloaded successfully.
+15:45:20 : File saved ..
+15:45:38 : 160926_164805623.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+15:45:38 : Phoenix RFQ Downloader Stopped.
+

@@ -1,0 +1,21 @@
+
+12:50:00 : Phoenix RFQ & PO Downloader Started.
+12:50:00 : Processing File PheonixRFQ_RMS.txt
+12:50:00 : Unable to process link file; Link not found in file PheonixRFQ_RMS.txt
+12:50:00 : PheonixRFQ_RMS.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Error_files
+12:50:00 : Phoenix RFQ Downloader Stopped.
+
+
+12:50:42 : Phoenix RFQ & PO Downloader Started.
+12:50:42 : Processing File PheonixRFQ_RMS.txt
+12:51:06 : Phoenix RFQ & PO Downloader Started.
+12:51:06 : Processing File PheonixRFQ_RMS.txt
+12:51:14 : Navigating To URL ..
+12:51:18 : Page Loaded ..
+12:51:18 : Reading Header Details ..
+12:51:53 : Reading Item Details ..
+12:52:16 : RFQ 'ADW-17-9043' downloaded successfully.
+12:52:16 : File saved ..
+12:52:34 : PheonixRFQ_RMS.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+12:52:34 : Phoenix RFQ Downloader Stopped.
+

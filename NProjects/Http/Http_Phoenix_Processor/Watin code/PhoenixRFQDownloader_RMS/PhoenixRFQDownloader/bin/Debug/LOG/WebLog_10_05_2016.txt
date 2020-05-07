@@ -1,0 +1,7 @@
+
+17:26:04 : Phoenix RFQ & PO Downloader Started.
+17:26:04 : Processing File 160510_160306638.txt
+17:26:18 : PO 'BNO-16-0061' downloaded successfully.
+17:26:32 : 160510_160306638.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:26:32 : Phoenix RFQ Downloader Stopped.
+

@@ -1,0 +1,36 @@
+
+11:09:45 : Phoenix RFQ & PO Downloader Started.
+11:09:45 : Processing File 1.txt
+11:24:14 : Navigating To URL ..
+11:24:26 : Page Loaded ..
+11:24:38 : Reading Header Details ..
+11:25:48 : Reading Item Details ..
+11:28:43 : RFQ 'ZAA-17-9217' downloaded successfully.
+11:28:43 : File saved ..
+11:29:01 : 1.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+11:29:01 : Processing File 2.txt
+11:29:08 : Navigating To URL ..
+11:29:10 : Page Loaded ..
+11:29:12 : Reading Header Details ..
+11:29:13 : Reading Item Details ..
+11:29:38 : RFQ 'ZAA-17-9221' downloaded successfully.
+11:29:38 : File saved ..
+11:29:57 : 2.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+11:29:57 : Processing File 3.txt
+11:29:57 : Navigating To URL ..
+11:29:59 : Page Loaded ..
+11:29:59 : Reading Header Details ..
+11:30:00 : Reading Item Details ..
+11:30:25 : RFQ 'ZAA-17-9225' downloaded successfully.
+11:30:25 : File saved ..
+11:30:43 : 3.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+11:30:43 : Processing File 4.txt
+11:30:43 : Navigating To URL ..
+11:30:46 : Page Loaded ..
+11:30:46 : Reading Header Details ..
+11:30:47 : Reading Item Details ..
+11:31:08 : RFQ 'ZAA-17-9223' downloaded successfully.
+11:31:08 : File saved ..
+11:31:26 : 4.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+11:31:26 : Phoenix RFQ Downloader Stopped.
+

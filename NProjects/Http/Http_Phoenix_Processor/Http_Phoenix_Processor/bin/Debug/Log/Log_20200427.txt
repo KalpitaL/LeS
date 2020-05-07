@@ -1,0 +1,18 @@
+4/27/2020 9:53:53 AM ================4/27/2020 9:53:53 AM================
+4/27/2020 9:53:53 AM Phoenix HTTP processor started
+4/27/2020 9:53:53 AM Phoenix Processor Started.
+4/27/2020 9:53:56 AM Processing File 200427_112638624_4001051_42390_ForwardedAttachment_1.txt
+4/27/2020 9:54:08 AM  URL : https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.southnests.com%2FPhoenixTelerik%2FPurchase%2FPurchaseVendorRemark.aspx%3FSESSIONID%3Dc9529248-e385-ea11-80dc-065916d1083c%26STOCKTYPE%3DSTORE&data=02%7C01%7Cpurchasechn23%40executiveship.com%7C1071261f90cd447b538808d7e8f9c632%7Cbaa38c507591493bb52956770cf54231%7C0%7C0%7C637234031805197719&sdata=BwBFaOH7BUEA%2BDa9AQMerOvRz4SVWbig69ACfYPnMU4%3D&reserved=0
+4/27/2020 9:54:29 AM Reading Header Details ..
+4/27/2020 9:57:12 AM ================4/27/2020 9:57:12 AM================
+4/27/2020 9:57:12 AM Phoenix HTTP processor started
+4/27/2020 9:57:12 AM Phoenix Processor Started.
+4/27/2020 9:57:14 AM Processing File 200427_112638624_4001051_42390_ForwardedAttachment_1.txt
+4/27/2020 9:57:18 AM  URL : https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.southnests.com%2FPhoenixTelerik%2FPurchase%2FPurchaseVendorRemark.aspx%3FSESSIONID%3Dc9529248-e385-ea11-80dc-065916d1083c%26STOCKTYPE%3DSTORE&data=02%7C01%7Cpurchasechn23%40executiveship.com%7C1071261f90cd447b538808d7e8f9c632%7Cbaa38c507591493bb52956770cf54231%7C0%7C0%7C637234031805197719&sdata=BwBFaOH7BUEA%2BDa9AQMerOvRz4SVWbig69ACfYPnMU4%3D&reserved=0
+4/27/2020 9:57:25 AM Navigating To URL ..
+4/27/2020 9:58:16 AM ================4/27/2020 9:58:16 AM================
+4/27/2020 9:58:16 AM Phoenix HTTP processor started
+4/27/2020 9:58:16 AM Phoenix Processor Started.
+4/27/2020 9:58:17 AM Processing File 200427_112638624_4001051_42390_ForwardedAttachment_1.txt
+4/27/2020 9:58:19 AM  URL : https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapps.southnests.com%2FPhoenixTelerik%2FPurchase%2FPurchaseVendorRemark.aspx%3FSESSIONID%3Dc9529248-e385-ea11-80dc-065916d1083c%26STOCKTYPE%3DSTORE&data=02%7C01%7Cpurchasechn23%40executiveship.com%7C1071261f90cd447b538808d7e8f9c632%7Cbaa38c507591493bb52956770cf54231%7C0%7C0%7C637234031805197719&sdata=BwBFaOH7BUEA%2BDa9AQMerOvRz4SVWbig69ACfYPnMU4%3D&reserved=0
+4/27/2020 10:00:39 AM Reading Header Details ..

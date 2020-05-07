@@ -1,0 +1,16 @@
+23/07/2019 10:27:54 ================23/07/2019 10:27:54================
+23/07/2019 10:27:54 Phoenix HTTP processor started
+23/07/2019 10:27:54 Phoenix Processor Started.
+23/07/2019 10:27:54 Processing File 190719_183249107.txt
+23/07/2019 10:28:02  URL : https://apps.southnests.com/Phoenix/Purchase/PurchaseVendorRemark.aspx?SESSIONID=3320c82b-fda6-e911-9fc9-06089601e630&amp;STOCKTYPE=STORE
+23/07/2019 10:28:02 Navigating To URL ..
+23/07/2019 10:28:04 Reading Header Details ..
+23/07/2019 10:28:04 Reading Item Details ..
+23/07/2019 10:29:00 PO 'MAR-19-0105' downloaded successfully.
+23/07/2019 10:29:02 190719_183249107.txt File moved to Backup
+23/07/2019 10:29:02 
+23/07/2019 10:29:02 190719_183249107_4001051_08670_MAR-19-0105SUP-002504201907191.pdf File moved to Backup
+23/07/2019 10:29:02 
+23/07/2019 10:29:02 Phoenix HTTP processor stopped
+23/07/2019 10:29:02 ====================================================
+23/07/2019 10:29:02 

@@ -1,0 +1,127 @@
+
+12:25:35 : Phoenix RFQ & PO Downloader Started.
+12:25:35 : Processing File 160511_120305609.txt
+12:33:18 : Phoenix RFQ & PO Downloader Started.
+12:33:18 : Processing File 160511_120305609.txt
+12:35:42 : PO 'GMA-15-0201' downloaded successfully.
+12:35:55 : 160511_120305609.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+12:35:55 : Phoenix RFQ Downloader Stopped.
+
+
+15:56:00 : Phoenix RFQ & PO Downloader Started.
+15:56:00 : Processing File 160511_151809111.txt
+16:09:36 : Phoenix RFQ & PO Downloader Started.
+16:09:36 : Processing File 160511_151809111.txt
+16:10:15 : Phoenix RFQ & PO Downloader Started.
+16:10:15 : Processing File 160511_151809111.txt
+16:12:48 : Error in ExporttoHeader - The given key was not present in the dictionary.
+16:12:48 : Unable to export xml! Error - The given key was not present in the dictionary.
+16:13:18 : Phoenix RFQ & PO Downloader Started.
+16:13:18 : Processing File 160511_151809111.txt
+16:19:47 : Phoenix RFQ & PO Downloader Started.
+16:19:47 : Processing File 160511_151809111.txt
+16:21:03 : Phoenix RFQ & PO Downloader Started.
+16:21:03 : Processing File 160511_151809111.txt
+16:28:13 : Phoenix RFQ & PO Downloader Started.
+16:28:13 : Processing File 160511_151809111.txt
+16:28:31 : Phoenix RFQ & PO Downloader Started.
+16:28:31 : Processing File 160511_151809111.txt
+16:34:43 : Phoenix RFQ & PO Downloader Started.
+16:34:43 : Processing File 160511_151809111.txt
+16:38:57 : Phoenix RFQ & PO Downloader Started.
+16:38:57 : Processing File 160511_151809111.txt
+16:52:22 : Phoenix RFQ & PO Downloader Started.
+16:52:22 : Processing File 160510_200307324.txt
+16:56:20 : Phoenix RFQ & PO Downloader Started.
+16:56:20 : Processing File 160510_200307324.txt
+16:56:32 : PO 'BGE-16-0043' downloaded successfully.
+16:56:55 : Phoenix RFQ & PO Downloader Started.
+16:56:55 : Processing File 160510_200307324.txt
+16:57:03 : Error in ExporttoHeader - Object reference not set to an instance of an object.
+16:57:03 : Unable to export xml! Error - Object reference not set to an instance of an object.
+16:57:16 : Unable to process link file '160510_200307324.txt'.
+16:57:16 : 160510_200307324.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Error_files
+16:57:16 : Processing File 160511_120305609.txt
+16:58:19 : Phoenix RFQ & PO Downloader Started.
+16:58:19 : Processing File 160511_120305609.txt
+17:03:57 : Phoenix RFQ & PO Downloader Started.
+17:03:57 : Processing File 160511_120305609.txt
+17:06:49 : Phoenix RFQ & PO Downloader Started.
+17:06:49 : Processing File 160511_120305609.txt
+17:07:53 : Error in ExporttoHeader - Cannot create a file when that file already exists.
+
+17:08:40 : Phoenix RFQ & PO Downloader Started.
+17:08:40 : Processing File 160511_120305609.txt
+17:08:59 : PO 'GMA-15-0201' downloaded successfully.
+17:09:12 : 160511_120305609.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:09:12 : Processing File 160511_151807112.txt
+17:09:32 : PO 'NGC-16-0060' downloaded successfully.
+17:09:45 : 160511_151807112.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:09:45 : Processing File 160511_151808299.txt
+17:09:54 : PO 'NGC-16-0068' downloaded successfully.
+17:10:07 : 160511_151808299.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:10:07 : Processing File 160511_151809111.txt
+17:13:32 : Phoenix RFQ & PO Downloader Started.
+17:13:32 : Processing File 160511_151809111.txt
+17:15:00 : Phoenix RFQ & PO Downloader Started.
+17:15:00 : Processing File 160511_151809111.txt
+17:15:32 : Error in ExporttoHeader - Could not find a part of the path.
+17:15:32 : Unable to export xml! Error - Could not find a part of the path.
+17:15:45 : Unable to process link file '160511_151809111.txt'.
+17:15:45 : 160511_151809111.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Error_files
+17:15:45 : Phoenix RFQ Downloader Stopped.
+
+
+17:16:20 : Phoenix RFQ & PO Downloader Started.
+17:16:21 : Processing File 160511_151809111.txt
+17:23:26 : Phoenix RFQ & PO Downloader Started.
+17:23:26 : Processing File 160511_151809111.txt
+17:23:30 : Error in ExporttoHeader - Object reference not set to an instance of an object.
+17:23:30 : Unable to export xml! Error - Object reference not set to an instance of an object.
+17:23:46 : Phoenix RFQ & PO Downloader Started.
+17:23:46 : Processing File 160511_151809111.txt
+17:24:26 : PO 'NGC-16-0074' downloaded successfully.
+17:24:40 : 160511_151809111.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:24:40 : Phoenix RFQ Downloader Stopped.
+
+
+17:35:09 : Phoenix RFQ & PO Downloader Started.
+17:35:09 : Processing File 160511_151809111.txt
+17:35:14 : PO 'NGC-16-0074' downloaded successfully.
+17:35:28 : 160511_151809111.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:35:28 : Phoenix RFQ Downloader Stopped.
+
+
+17:36:00 : Phoenix RFQ & PO Downloader Started.
+17:36:00 : Processing File 160511_151809111.txt
+17:37:39 : Phoenix RFQ & PO Downloader Started.
+17:37:39 : Processing File 160511_151809111.txt
+17:37:44 : Error in ExporttoHeader - Object reference not set to an instance of an object.
+17:37:44 : Unable to export xml! Error - Object reference not set to an instance of an object.
+17:37:55 : Phoenix RFQ & PO Downloader Started.
+17:37:55 : Processing File 160511_151809111.txt
+17:39:10 : PO 'NGC-16-0074' downloaded successfully.
+17:39:47 : Phoenix RFQ & PO Downloader Started.
+17:39:47 : Processing File 160511_151809111.txt
+17:39:56 : PO 'NGC-16-0074' downloaded successfully.
+17:40:09 : 160511_151809111.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:40:09 : Phoenix RFQ Downloader Stopped.
+
+
+17:40:46 : Phoenix RFQ & PO Downloader Started.
+17:40:46 : Processing File 160511_151809111.txt
+17:43:47 : Phoenix RFQ & PO Downloader Started.
+17:43:47 : Processing File 160511_151809111.txt
+17:43:52 : Error in ExporttoHeader - Object reference not set to an instance of an object.
+17:43:52 : Unable to export xml! Error - Object reference not set to an instance of an object.
+17:44:05 : Unable to process link file '160511_151809111.txt'.
+17:44:05 : 160511_151809111.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Error_files
+17:44:05 : Phoenix RFQ Downloader Stopped.
+
+
+17:44:30 : Phoenix RFQ & PO Downloader Started.
+17:44:30 : Processing File 160511_151809111.txt
+17:45:38 : PO 'NGC-16-0074' downloaded successfully.
+17:45:53 : 160511_151809111.txt File moved to C:\ShipMaster\eSupplierPortal\WebScriptBuyers\PHOENIX_WEB\Inbox\Backup
+17:45:53 : Phoenix RFQ Downloader Stopped.
+

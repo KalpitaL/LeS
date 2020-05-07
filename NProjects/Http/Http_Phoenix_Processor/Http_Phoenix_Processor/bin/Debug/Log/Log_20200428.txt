@@ -1,0 +1,6 @@
+4/28/2020 10:52:36 AM ================4/28/2020 10:52:36 AM================
+4/28/2020 10:52:36 AM Phoenix HTTP processor started
+4/28/2020 10:52:36 AM Phoenix Processor Started.
+4/28/2020 10:52:46 AM Processing File 5000408_200428_115547262.txt
+4/28/2020 10:52:53 AM  URL : https://apps.southnests.com:443/PhoenixTelerik/Purchase/PurchaseVendorRemark.aspx?SESSIONID=e65a614a-c386-ea11-80dc-065916d1083c&STOCKTYPE=STORE
+4/28/2020 10:53:43 AM Reading Header Details ..
