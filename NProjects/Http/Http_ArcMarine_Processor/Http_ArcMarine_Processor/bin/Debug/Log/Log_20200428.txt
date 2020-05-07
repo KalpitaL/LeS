@@ -1,0 +1,194 @@
+4/28/2020 2:12:56 PM ================4/28/2020 2:12:56 PM================
+4/28/2020 2:12:56 PM ArcMarine HTTP processor started
+4/28/2020 2:12:56 PM ArcMarine Processor Started.
+4/28/2020 2:12:56 PM No files found.
+4/28/2020 2:12:58 PM 
+4/28/2020 2:12:59 PM Started Loading interchange object.
+4/28/2020 2:12:59 PM stopped Loading interchange object.
+4/28/2020 2:12:59 PM Quote processing started.
+4/28/2020 2:13:02 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:13:49 PM ================4/28/2020 2:13:49 PM================
+4/28/2020 2:13:49 PM ArcMarine HTTP processor started
+4/28/2020 2:13:49 PM ArcMarine Processor Started.
+4/28/2020 2:13:49 PM No files found.
+4/28/2020 2:13:55 PM 
+4/28/2020 2:13:55 PM Started Loading interchange object.
+4/28/2020 2:13:55 PM stopped Loading interchange object.
+4/28/2020 2:13:55 PM Quote processing started.
+4/28/2020 2:14:04 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:19:54 PM ================4/28/2020 2:19:54 PM================
+4/28/2020 2:19:54 PM ArcMarine HTTP processor started
+4/28/2020 2:19:54 PM ArcMarine Processor Started.
+4/28/2020 2:19:54 PM No files found.
+4/28/2020 2:19:56 PM 
+4/28/2020 2:19:56 PM Started Loading interchange object.
+4/28/2020 2:19:56 PM stopped Loading interchange object.
+4/28/2020 2:19:56 PM Quote processing started.
+4/28/2020 2:19:57 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:20:34 PM ================4/28/2020 2:20:34 PM================
+4/28/2020 2:20:34 PM ArcMarine HTTP processor started
+4/28/2020 2:20:34 PM ArcMarine Processor Started.
+4/28/2020 2:20:34 PM No files found.
+4/28/2020 2:20:35 PM 
+4/28/2020 2:20:35 PM Started Loading interchange object.
+4/28/2020 2:20:35 PM stopped Loading interchange object.
+4/28/2020 2:20:35 PM Quote processing started.
+4/28/2020 2:20:36 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:20:44 PM Filling Quotation.
+4/28/2020 2:20:53 PM Header details saved.
+4/28/2020 2:20:56 PM Filling items.
+4/28/2020 2:20:57 PM Exception while filling items: The given key was not present in the dictionary.
+4/28/2020 2:21:14 PM ================4/28/2020 2:21:14 PM================
+4/28/2020 2:21:14 PM ArcMarine HTTP processor started
+4/28/2020 2:21:14 PM ArcMarine Processor Started.
+4/28/2020 2:21:14 PM No files found.
+4/28/2020 2:21:18 PM 
+4/28/2020 2:21:18 PM Started Loading interchange object.
+4/28/2020 2:21:18 PM stopped Loading interchange object.
+4/28/2020 2:21:18 PM Quote processing started.
+4/28/2020 2:21:20 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:21:29 PM Filling Quotation.
+4/28/2020 2:21:30 PM Header details saved.
+4/28/2020 2:21:35 PM Filling items.
+4/28/2020 2:35:11 PM ================4/28/2020 2:35:11 PM================
+4/28/2020 2:35:11 PM ArcMarine HTTP processor started
+4/28/2020 2:35:11 PM ArcMarine Processor Started.
+4/28/2020 2:35:11 PM No files found.
+4/28/2020 2:35:13 PM 
+4/28/2020 2:35:13 PM Started Loading interchange object.
+4/28/2020 2:35:13 PM stopped Loading interchange object.
+4/28/2020 2:35:13 PM Quote processing started.
+4/28/2020 2:35:14 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:35:17 PM Filling Quotation.
+4/28/2020 2:35:18 PM Header details saved.
+4/28/2020 2:35:18 PM Filling items.
+4/28/2020 2:37:02 PM Updating item 1
+4/28/2020 2:37:46 PM ================4/28/2020 2:37:46 PM================
+4/28/2020 2:37:46 PM ArcMarine HTTP processor started
+4/28/2020 2:37:46 PM ArcMarine Processor Started.
+4/28/2020 2:37:46 PM No files found.
+4/28/2020 2:37:47 PM 
+4/28/2020 2:37:47 PM Started Loading interchange object.
+4/28/2020 2:37:47 PM stopped Loading interchange object.
+4/28/2020 2:37:47 PM Quote processing started.
+4/28/2020 2:37:48 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:37:51 PM Filling Quotation.
+4/28/2020 2:37:52 PM Header details saved.
+4/28/2020 2:37:52 PM Filling items.
+4/28/2020 2:37:56 PM Updating item 1
+4/28/2020 2:42:04 PM ================4/28/2020 2:42:04 PM================
+4/28/2020 2:42:04 PM ArcMarine HTTP processor started
+4/28/2020 2:42:04 PM ArcMarine Processor Started.
+4/28/2020 2:42:04 PM No files found.
+4/28/2020 2:42:07 PM 
+4/28/2020 2:42:07 PM Started Loading interchange object.
+4/28/2020 2:42:07 PM stopped Loading interchange object.
+4/28/2020 2:42:07 PM Quote processing started.
+4/28/2020 2:42:08 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:42:11 PM Filling Quotation.
+4/28/2020 2:42:12 PM Header details saved.
+4/28/2020 2:42:12 PM Filling items.
+4/28/2020 2:42:15 PM Updating item 1
+4/28/2020 2:47:17 PM ================4/28/2020 2:47:17 PM================
+4/28/2020 2:47:17 PM ArcMarine HTTP processor started
+4/28/2020 2:47:17 PM ArcMarine Processor Started.
+4/28/2020 2:47:17 PM No files found.
+4/28/2020 2:47:21 PM 
+4/28/2020 2:47:21 PM Started Loading interchange object.
+4/28/2020 2:47:21 PM stopped Loading interchange object.
+4/28/2020 2:47:21 PM Quote processing started.
+4/28/2020 2:47:22 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:47:27 PM Filling Quotation.
+4/28/2020 2:47:28 PM Header details saved.
+4/28/2020 2:47:28 PM Filling items.
+4/28/2020 2:47:42 PM Updating item 1
+4/28/2020 2:48:37 PM Updating item 2
+4/28/2020 2:49:13 PM Updating item 3
+4/28/2020 2:49:30 PM Updating item 4
+4/28/2020 2:49:31 PM Exception while filling items: Unable to edit item row 4
+4/28/2020 2:49:31 PM Unable to save item details for ref no: EN-20-004793, Unable to edit item row 4
+4/28/2020 2:49:39 PM ArcMarine HTTP processor stopped
+4/28/2020 2:49:39 PM ====================================================
+4/28/2020 2:49:39 PM 
+4/28/2020 2:50:47 PM ================4/28/2020 2:50:47 PM================
+4/28/2020 2:50:47 PM ArcMarine HTTP processor started
+4/28/2020 2:50:47 PM ArcMarine Processor Started.
+4/28/2020 2:50:47 PM No files found.
+4/28/2020 2:50:49 PM 
+4/28/2020 2:50:49 PM Started Loading interchange object.
+4/28/2020 2:50:49 PM stopped Loading interchange object.
+4/28/2020 2:50:49 PM Quote processing started.
+4/28/2020 2:50:49 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:51:11 PM Exception while  processing Quote MTML: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 119.81.76.122:443
+4/28/2020 2:51:11 PM Exception in Process Quote : Object reference not set to an instance of an object.
+4/28/2020 2:51:11 PM ArcMarine HTTP processor stopped
+4/28/2020 2:51:11 PM ====================================================
+4/28/2020 2:51:11 PM 
+4/28/2020 2:52:07 PM ================4/28/2020 2:52:07 PM================
+4/28/2020 2:52:07 PM ArcMarine HTTP processor started
+4/28/2020 2:52:07 PM ArcMarine Processor Started.
+4/28/2020 2:52:07 PM No files found.
+4/28/2020 2:52:11 PM 
+4/28/2020 2:52:11 PM Started Loading interchange object.
+4/28/2020 2:52:11 PM stopped Loading interchange object.
+4/28/2020 2:52:11 PM Quote processing started.
+4/28/2020 2:52:12 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:52:19 PM Filling Quotation.
+4/28/2020 2:52:26 PM Header details saved.
+4/28/2020 2:52:26 PM Filling items.
+4/28/2020 2:52:59 PM Updating item 1
+4/28/2020 2:53:15 PM Updating item 2
+4/28/2020 2:54:16 PM ================4/28/2020 2:54:16 PM================
+4/28/2020 2:54:16 PM ArcMarine HTTP processor started
+4/28/2020 2:54:16 PM ArcMarine Processor Started.
+4/28/2020 2:54:16 PM No files found.
+4/28/2020 2:54:19 PM 
+4/28/2020 2:54:19 PM Started Loading interchange object.
+4/28/2020 2:54:19 PM stopped Loading interchange object.
+4/28/2020 2:54:19 PM Quote processing started.
+4/28/2020 2:54:20 PM Quote processing started for refno: EN-20-004793
+4/28/2020 2:54:29 PM Filling Quotation.
+4/28/2020 2:54:32 PM Header details saved.
+4/28/2020 2:54:32 PM Filling items.
+4/28/2020 2:54:40 PM Updating item 1
+4/28/2020 2:55:43 PM Updating item 2
+4/28/2020 2:56:15 PM Updating item 3
+4/28/2020 2:57:09 PM Updating item 4
+4/28/2020 2:58:50 PM Updating item 5
+4/28/2020 3:01:47 PM Unable to update item 6; Item Price is zero.
+4/28/2020 3:01:47 PM Updating item 7
+4/28/2020 3:01:49 PM Updating item 8
+4/28/2020 3:01:53 PM Exception while filling items: Object reference not set to an instance of an object.
+4/28/2020 3:01:53 PM Unable to save item details for ref no: EN-20-004793, Object reference not set to an instance of an object.
+4/28/2020 3:01:57 PM ArcMarine HTTP processor stopped
+4/28/2020 3:01:57 PM ====================================================
+4/28/2020 3:01:57 PM 
+4/28/2020 4:56:13 PM ================4/28/2020 4:56:13 PM================
+4/28/2020 4:56:13 PM ArcMarine HTTP processor started
+4/28/2020 4:56:13 PM ArcMarine Processor Started.
+4/28/2020 4:56:13 PM No files found.
+4/28/2020 4:56:27 PM 
+4/28/2020 4:56:27 PM No quotes found.
+4/28/2020 4:57:43 PM ================4/28/2020 4:57:43 PM================
+4/28/2020 4:57:43 PM ArcMarine HTTP processor started
+4/28/2020 4:57:43 PM ArcMarine Processor Started.
+4/28/2020 4:57:43 PM No files found.
+4/28/2020 4:57:44 PM 
+4/28/2020 4:57:44 PM Started Loading interchange object.
+4/28/2020 4:57:44 PM stopped Loading interchange object.
+4/28/2020 4:57:44 PM Quote processing started.
+4/28/2020 4:57:51 PM Quote processing started for refno: EN-20-004793
+4/28/2020 4:58:01 PM Quote for ref no: EN-20-004793 is already submitted.
+4/28/2020 4:58:09 PM ArcMarine HTTP processor stopped
+4/28/2020 4:58:09 PM ====================================================
+4/28/2020 4:58:09 PM 
+4/28/2020 5:04:55 PM ================4/28/2020 5:04:55 PM================
+4/28/2020 5:04:55 PM ArcMarine HTTP processor started
+4/28/2020 5:04:55 PM ArcMarine Processor Started.
+4/28/2020 5:04:55 PM No files found.
+4/28/2020 5:05:19 PM 
+4/28/2020 5:05:22 PM Started Loading interchange object.
+4/28/2020 5:05:22 PM stopped Loading interchange object.
+4/28/2020 5:05:23 PM Quote processing started.
+4/28/2020 5:05:27 PM Quote processing started for refno: EN-20-004880
+4/28/2020 5:05:45 PM Quote for ref no: EN-20-004880 is already submitted.

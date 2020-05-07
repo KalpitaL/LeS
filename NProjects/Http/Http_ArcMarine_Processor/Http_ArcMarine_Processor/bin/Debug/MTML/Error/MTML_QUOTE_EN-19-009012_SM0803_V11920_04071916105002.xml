@@ -1,0 +1,979 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="19005609" Identifier="UNOC" Recipient="SM0803_WEB" Sender="V11920" PreparationDate="2019-Jul-04" PreparationTime="16:10" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3767" LesRecordID="11651190" LesLinkID="104548" MTML_DOCID="4511D281-23E6-4E4F-A402-90B9F11A5B36">
+    <Quote MessageReferenceNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=98625294-519D-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" MessageNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=98625294-519D-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" LineItemCount="104" VersionNumber="" LeadTimeDays="0" OriginalFile="QUOTE_EN-19-009012_190703_13362482.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201907041610" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="EN-19-009012" />
+      <Reference Qualifier="AAG" ReferenceNumber="19005609" />
+      <Party Qualifier="BY" Name="Arc Marine PTE Ltd">
+        <Contact Name="KAJAL ADAGALE">
+          <CommunicationMethod Qualifier="TE" Number="68422822" />
+          <CommunicationMethod Qualifier="EM" Number="storemum2@arcmarine.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="GIMAS SHIP SUPPLY &amp;amp; SERVICES B.V.">
+        <Contact>
+          <CommunicationMethod Qualifier="TE" Number="31103027820 31615286575" />
+          <CommunicationMethod Qualifier="EM" Number="rotterdam@gimas.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+        <StreetAddress>-</StreetAddress>
+      </Party>
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <LineItem Number="3" Description="ACETYLSALICYLIC ACID TABLET, 300MG" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="3" MonetaryAmount="5.94" Identification="391701" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.99" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.99" />
+        <Comments Qualifier="LIN">
+          <value>ACETYLSALICYLIC/ASPIRIN 300MG 100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="ACICLOVIR TABLET 400MG" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="4" MonetaryAmount="10.85" Identification="391702" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.76" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.76" />
+        <Comments Qualifier="LIN">
+          <value>ACICLOVIR 400MG                 30 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="AMETHOCAINE 0.5%EYE DROPS,1 ML" MeasureUnitQualifier="PCS" Quantity="8" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="5" MonetaryAmount="52.43" Identification="391704" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.71" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.71" />
+        <Comments Qualifier="LIN">
+          <value>TETRACAINE / AMETHOCAINE 0.5%  10 MINIMS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="AMOXYCILLIN CAPSULES 500MG" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="6" MonetaryAmount="6.24" Identification="391901" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.34" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.34" />
+        <Comments Qualifier="LIN">
+          <value>AMOXICILLINE 500MG               30 CAPS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="ARTEMETER AMPOULE 1 ML =(80MG)" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="7" MonetaryAmount="41.41" Identification="391706" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.18" />
+        <Comments Qualifier="LIN">
+          <value>ARTEMETER 80MG/ML-1ML INJECTION 5 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="ARTEMETHER + LUMEFANTRINE, TABLETS 20 MG + 120 MG" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="8" MonetaryAmount="52.02" Identification="391707" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.2" />
+        <Comments Qualifier="LIN">
+          <value>ARTEMETER+LUMEFANTRINE 20/120MG 24 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="AZICIP 250MG TAB (AZITHROMYCIN TAB)" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="9" MonetaryAmount="117.10" Identification="391709" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.48" />
+        <Comments Qualifier="LIN">
+          <value>AZITROMYCIN 250MG      6 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="CETRIZINE TABLET 10MG" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="10" MonetaryAmount="46.77" Identification="391711" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.17" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.17" />
+        <Comments Qualifier="LIN">
+          <value>CETIRIZINE 10MG      30 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="CHARCOAL,ACTIVATED POWDER, 50GRM" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="11" MonetaryAmount="69.97" Identification="391910" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="13.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="13.72" />
+        <Comments Qualifier="LIN">
+          <value>CHARCOAL POWDER     50 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="CIPROFLOXACIN TABLET 250MG" MeasureUnitQualifier="PCS" Quantity="7" TypeCode="BP" OriginatingSystemRef="12" SystemItemNo="12" MonetaryAmount="59.14" Identification="391713" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.94" />
+        <Comments Qualifier="LIN">
+          <value>CIPROFLOXACIN=CIPROXIN 250MG     20 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="CLOVES, OIL OF 10ML" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="13" SystemItemNo="13" MonetaryAmount="29.67" Identification="391714" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.49" />
+        <Comments Qualifier="LIN">
+          <value>CLOVE OIL/TOOTH ANAESTETIC  20 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="DIAZEPAM 10 MG AMPOULE" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="14" SystemItemNo="14" MonetaryAmount="73.57" Identification="391911" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="17.31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="17.31" />
+        <Comments Qualifier="LIN">
+          <value>DIAZEPAM 10MG/2ML INJECTION      10 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="DOCUSATE WITH SENNA TAB 50 MG + 8 MG" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="15" SystemItemNo="15" MonetaryAmount="14.55" Identification="391717" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.28" />
+        <Comments Qualifier="LIN">
+          <value>BISACODYL 5MG EQ DOCUSATE  50 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="DOXYCYCLINE TABLETS" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="16" SystemItemNo="16" MonetaryAmount="28.24" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="16.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="16.61" />
+        <Comments Qualifier="LIN">
+          <value>DOXYCYCLINE 100MG             100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="ETHANOL 70% HAND CLEANSER GEL, 250ML" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="17" SystemItemNo="17" MonetaryAmount="107.95" Identification="391719" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.35" />
+        <Comments Qualifier="LIN">
+          <value>ETHANOL 70% HANDCLEANER GEL  250ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="FRUSEMIDE AMPOULE 4 ML = 40 MG" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="18" SystemItemNo="18" MonetaryAmount="75.89" Identification="391722" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.44" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.44" />
+        <Comments Qualifier="LIN">
+          <value>FUROSEMIDE 40MG/4ML               5 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="NOVO GLUCAGON INJECTION 1MG/ML" MeasureUnitQualifier="PCS" Quantity="9" TypeCode="BP" OriginatingSystemRef="19" SystemItemNo="19" MonetaryAmount="363.22" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="47.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="47.48" />
+        <Comments Qualifier="LIN">
+          <value>GLUCAGON 1MG (1IE) INJECTION 1 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="HYDROCORTISONE OINTMENT 1% - 30GRM TUBE" MeasureUnitQualifier="PCS" Quantity="13" TypeCode="BP" OriginatingSystemRef="20" SystemItemNo="20" MonetaryAmount="49.61" Identification="390644" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.49" />
+        <Comments Qualifier="LIN">
+          <value>HYDROCORTISON 1% OINTMENT   2X15 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="IBUPROFEN TAB" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="21" SystemItemNo="21" MonetaryAmount="14.82" Identification="391726" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.36" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.36" />
+        <Comments Qualifier="LIN">
+          <value>IBUPROFEN 400MG=BRUFEN       50 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="ISOSORBIDE DINITRATE TABLET, 5 MG" MeasureUnitQualifier="PCS" Quantity="8" TypeCode="BP" OriginatingSystemRef="22" SystemItemNo="22" MonetaryAmount="15.84" Identification="391727" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.33" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.33" />
+        <Comments Qualifier="LIN">
+          <value>ISOSORBIDE DIN. 5MG/GLYC.TRIN.   20 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="IMODIUM CAP (LOPERAMIDE CAP)" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="23" SystemItemNo="23" MonetaryAmount="20.81" Identification="391608" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.08" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.08" />
+        <Comments Qualifier="LIN">
+          <value>LOPERAMIDE 2MG              20 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="MEBENDAZOLE TABLET 100 MG" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="24" SystemItemNo="24" MonetaryAmount="38.15" Identification="391730" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="22.44" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="22.44" />
+        <Comments Qualifier="LIN">
+          <value>MEBENDAZOL 100MG             50 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="METOPROLOL TABLET 100 MG" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="25" SystemItemNo="25" MonetaryAmount="3.21" Identification="391731" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.78" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.78" />
+        <Comments Qualifier="LIN">
+          <value>METOPROLOL 100MG          30 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="METRONIDAZOLE TABLET 500 MG" MeasureUnitQualifier="PCS" Quantity="15" TypeCode="BP" OriginatingSystemRef="26" SystemItemNo="26" MonetaryAmount="111.18" Identification="391732" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.72" />
+        <Comments Qualifier="LIN">
+          <value>METRONIDAZOL 500MG           20 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="MICONAZOLE NITRATE 2% VAGINAL - CREAM IN 80GM CONTAINER" MeasureUnitQualifier="PCS" Quantity="8" TypeCode="BP" OriginatingSystemRef="27" SystemItemNo="27" MonetaryAmount="75.21" Identification="390652" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.06" />
+        <Comments Qualifier="LIN">
+          <value>MICONAZOL 2% VAGINAL CREAM   78 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="MIDAZOLAM AMPOULE 1 ML, (= 5 MG)" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="28" SystemItemNo="28" MonetaryAmount="21.81" Identification="391734" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.83" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.83" />
+        <Comments Qualifier="LIN">
+          <value>MIDAZOLAM 5MG/1ML      5 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="MISOPROSTOL TABLET 200 MICRO G" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="29" SystemItemNo="29" MonetaryAmount="34.78" Identification="391735" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="20.46" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="20.46" />
+        <Comments Qualifier="LIN">
+          <value>CYTOTEC / MISOPROSTOL 200MCG   10 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="MORPHINE (ORAL)LIQUID 1MG/ML 100ML" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="30" SystemItemNo="30" MonetaryAmount="13.57" Identification="391737" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.32" />
+        <Comments Qualifier="LIN">
+          <value>TRAMADOL / MORPHINE ORAL LIQUID  10 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="OMEPRAZOLE TABLET 20 MG" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="31" SystemItemNo="31" MonetaryAmount="52.87" Identification="391739" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.22" />
+        <Comments Qualifier="LIN">
+          <value>OMEPRAZOL 20MG     30 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="32" Description="ONDANESTRON TAB 4 MG" MeasureUnitQualifier="PCS" Quantity="7" TypeCode="BP" OriginatingSystemRef="32" SystemItemNo="32" MonetaryAmount="37.78" Identification="391740" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.35" />
+        <Comments Qualifier="LIN">
+          <value>ONDANSETRON 4MG       10 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="33" Description="ORAL REHYDRATION SALTS IN - WATER-PROOF BAG" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="33" SystemItemNo="33" MonetaryAmount="26.71" Identification="390658" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="31.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="31.42" />
+        <Comments Qualifier="LIN">
+          <value>ORAL REHYDRATION SALTS 20 GRAM 100 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="34" Description="OXYMETAZOLINE NASELINE" MeasureUnitQualifier="PCS" Quantity="14" TypeCode="BP" OriginatingSystemRef="34" SystemItemNo="34" MonetaryAmount="48.20" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.05" />
+        <Comments Qualifier="LIN">
+          <value>XYLOMETAZOLINE 0,1% NOSESPRAY   10 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="35" Description="DOLO -650MG" MeasureUnitQualifier="PCS" Quantity="750" TypeCode="BP" OriginatingSystemRef="35" SystemItemNo="35" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>DOLO-650MG ? MORE INFO</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="36" Description="PARACETAMOL,0.5G" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="36" SystemItemNo="36" MonetaryAmount="14.83" Identification="391921" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.49" />
+        <Comments Qualifier="LIN">
+          <value>PARACETAMOL 500MG          100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="37" Description="PERMETHRIN 1% LOTION 250ML" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="37" SystemItemNo="37" MonetaryAmount="80.16" Identification="391744" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.43" />
+        <Comments Qualifier="LIN">
+          <value>PERMETRINE LOTION 1%  100 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="38" Description="PERMETHRIN 5% LOTION VIAL OF, 250G" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="38" SystemItemNo="38" MonetaryAmount="35.70" Identification="391745" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.4" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.4" />
+        <Comments Qualifier="LIN">
+          <value>PERMETRINE LOTION 5%  250 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="39" Description="POVIDONE IODINE OINTMENT 10%" MeasureUnitQualifier="PCS" Quantity="25" TypeCode="BP" OriginatingSystemRef="39" SystemItemNo="39" MonetaryAmount="120.70" Identification="391746" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.68" />
+        <Comments Qualifier="LIN">
+          <value>POVIDONE 10% OINTMENT 25 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="40" Description="POVIDONE IODINE SOLUTION 10%, 30 TO 120ML" MeasureUnitQualifier="PCS" Quantity="7" TypeCode="BP" OriginatingSystemRef="40" SystemItemNo="40" MonetaryAmount="22.91" Identification="391748" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.85" />
+        <Comments Qualifier="LIN">
+          <value>POVIDONE 10% IODINE SOLUTION  200 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="41" Description="PREDNIZONE TAB" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="41" SystemItemNo="41" MonetaryAmount="10.51" Identification="391747" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.12" />
+        <Comments Qualifier="LIN">
+          <value>PREDNISOLONE   5MG               30 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="42" Description="SEROFLO 250 (INHALER) WITH ZEROSTAT SPACER INHALER DRUG - FLUTICASONE PROPIONATE (250 MCG) + SALMETE" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="42" SystemItemNo="42" MonetaryAmount="36.98" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="43.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="43.5" />
+        <Comments Qualifier="LIN">
+          <value>FLUTICASON AEROSOL 250  1 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="43" Description="SODIUM CHLORIDE 0.9% INFUSION, 10ML" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="43" SystemItemNo="43" MonetaryAmount="2.64" Identification="390674" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.55" />
+        <Comments Qualifier="LIN">
+          <value>SODIUM CHLORIDE 0.9% INFUSION   10 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="44" Description="TETRA CYCLINE 1%OINTMENT" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="44" SystemItemNo="44" MonetaryAmount="43.10" Identification="391750" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.07" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.07" />
+        <Comments Qualifier="LIN">
+          <value>TETRACYCLINE EQ FUCID SKIN CREAM 15 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="45" Description="WATER FOR INJECTION 5ML 10AMP" MeasureUnitQualifier="PCS" Quantity="7" TypeCode="BP" OriginatingSystemRef="45" SystemItemNo="45" MonetaryAmount="15.59" Identification="390560" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.62" />
+        <Comments Qualifier="LIN">
+          <value>WATER FOR INJECTION 5ML    10 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="48" Description="TAB. ROBINAXOL-D" MeasureUnitQualifier="PCS" Quantity="150" TypeCode="BP" OriginatingSystemRef="48" SystemItemNo="48" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>ROBINAXOL NOT AVAIL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="49" Description="TAB. BUSCOPAN" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="49" SystemItemNo="49" MonetaryAmount="6.49" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.63" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.63" />
+        <Comments Qualifier="LIN">
+          <value>BUSCOPAN 10MG (HYOSIN.BUTYL.)  50 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="50" Description="OTEK AC DROP" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="50" SystemItemNo="50" MonetaryAmount="49.47" Identification="392736" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.82" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.82" />
+        <Comments Qualifier="LIN">
+          <value>TETRACYCLINE/ANTIBIOTIC EAR DROPS 10 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="51" Description="GENTIGYN H EYE DROPS" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="51" SystemItemNo="51" MonetaryAmount="80.24" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.72" />
+        <Comments Qualifier="LIN">
+          <value>GENTAMYCINE 0,3% EYEDROPS ANTIB 5ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="52" Description="CLOBEN G OINTMENT" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="52" SystemItemNo="52" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>CLOBEN - G  NOT AVAILABLE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="53" Description="BECLATE 200 INHALER" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="53" SystemItemNo="53" MonetaryAmount="49.01" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="19.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="19.22" />
+        <Comments Qualifier="LIN">
+          <value>BECLOMETHASON 100MCG/200D INHALER  1 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="54" Description="BURN HEAL OINTMENT" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="54" SystemItemNo="54" MonetaryAmount="45.22" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.32" />
+        <Comments Qualifier="LIN">
+          <value>BURN CREAM 1% (SILVER SULPH)  50 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="55" Description="BURNOL CREAM" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="55" SystemItemNo="55" MonetaryAmount="31.62" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.72" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.72" />
+        <Comments Qualifier="LIN">
+          <value>BURN OINTMENT  (SEAF)            30 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="56" Description="CHLOROCOL EYE OINTMENT" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="56" SystemItemNo="56" MonetaryAmount="12.37" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.91" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.91" />
+        <Comments Qualifier="LIN">
+          <value>CHLORAMPHENICOL 1% EYE OINTMENT 5 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="57" Description="TAB RESOCHIN 500/LARIAGO" MeasureUnitQualifier="PCS" Quantity="120" TypeCode="BP" OriginatingSystemRef="57" SystemItemNo="57" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>ROSOCHIN NOT AVAILABLE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="58" Description="CIPLOX D EYE DROPS" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="58" SystemItemNo="58" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>CIPLOX NOT AVAILABLE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="59" Description="TAB ULTICEPT / CIFRAN(CIPROFLOXACIN TAB 500MG)" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="59" SystemItemNo="59" MonetaryAmount="48.79" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.48" />
+        <Comments Qualifier="LIN">
+          <value>CIPROFLOXACIN=CIPROXIN 500MG     20 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="60" Description="ZENDRIL COUGH SYRUP" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="60" SystemItemNo="60" MonetaryAmount="27.07" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.37" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.37" />
+        <Comments Qualifier="LIN">
+          <value>DEXTROMETHORFAN COUGHSYRUP  150 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="61" Description="D-COLD TOTAL" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="61" SystemItemNo="61" MonetaryAmount="4.03" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.37" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.37" />
+        <Comments Qualifier="LIN">
+          <value>COLD TABLETS (PARACOF)           30 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="62" Description="DERMABOND SKIN ADHESIVE 0.36ML" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="62" SystemItemNo="62" MonetaryAmount="47.97" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="56.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="56.43" />
+        <Comments Qualifier="LIN">
+          <value>SKINGLUE (CYANOAC)   0,5ML    1 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="63" Description="DETTOL 100ML" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="63" SystemItemNo="63" MonetaryAmount="17.77" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.45" />
+        <Comments Qualifier="LIN">
+          <value>DETTOL   DISINFECTANT  500 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="64" Description="OLFEN INJECTION/ VOVERAN" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="64" SystemItemNo="64" MonetaryAmount="32.71" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.62" />
+        <Comments Qualifier="LIN">
+          <value>DICLOFENAC 25MG/ML-3ML       5 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="65" Description="DICLOFENAC GASTRO RESISTANT TABLETS IP (VOVERAN 50 GE" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="65" SystemItemNo="65" MonetaryAmount="24.72" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.54" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.54" />
+        <Comments Qualifier="LIN">
+          <value>DICLOFENAC=VOLTAREN   50MG       50 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="66" Description="DIGUSIL SYRUP 100 TABS DIGUSIL MPS(ANTACID)" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="66" SystemItemNo="66" MonetaryAmount="24.82" Identification="392083" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.84" />
+        <Comments Qualifier="LIN">
+          <value>ALUMINIUM HYDROXIDE GEL      200 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="67" Description="TAB DRAMINATE 50MG /TAB GRAVOL" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="67" SystemItemNo="67" MonetaryAmount="6.18" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.27" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.27" />
+        <Comments Qualifier="LIN">
+          <value>SEASICKNESS/CINNARIZINE 25MG   100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="68" Description="ENO" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="68" SystemItemNo="68" MonetaryAmount="6.87" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.08" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.08" />
+        <Comments Qualifier="LIN">
+          <value>ENO FRUIT   150 GRAM 1 BOT</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="69" Description="ERYTHRO- 250" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="69" SystemItemNo="69" MonetaryAmount="19.07" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="22.44" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="22.44" />
+        <Comments Qualifier="LIN">
+          <value>ERYTHROMYCINE 250MG            100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="70" Description="DERIPHYLLIN" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="70" SystemItemNo="70" MonetaryAmount="39.20" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.53" />
+        <Comments Qualifier="LIN">
+          <value>THEOLAIR/THEOPHYLLIN  250MG  30 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="71" Description="FLUCORT N CREAM (20GM)" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="71" SystemItemNo="71" MonetaryAmount="106.42" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.26" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.26" />
+        <Comments Qualifier="LIN">
+          <value>BETAMETHASON 0,1% CREAM 30 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="72" Description="GLUCOSE POWDER" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="72" SystemItemNo="72" MonetaryAmount="21.63" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.09" />
+        <Comments Qualifier="LIN">
+          <value>GLUCOSE POWDER                  400 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="73" Description="FOAM HAND SANITIZER" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="73" SystemItemNo="73" MonetaryAmount="53.98" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.35" />
+        <Comments Qualifier="LIN">
+          <value>ETHANOL 70% HANDCLEANER GEL  250ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="74" Description="INJ EFCORLIN 100MG DRUG - INJ HYDROCORTISONE" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="74" SystemItemNo="74" MonetaryAmount="127.77" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="37.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="37.58" />
+        <Comments Qualifier="LIN">
+          <value>HYDROCORTISON 100MG INJ+AQUA  5 AMP</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="75" Description="TINCTURE OF IODINE 500ML" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="75" SystemItemNo="75" MonetaryAmount="32.73" Identification="390511" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.85" />
+        <Comments Qualifier="LIN">
+          <value>POVIDONE 10% IODINE SOLUTION  200 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="76" Description="LOX 4%, 50 GM DRUG - LIGNOCAINE SOLUTION 50ML" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="76" SystemItemNo="76" MonetaryAmount="21.42" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.4" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.4" />
+        <Comments Qualifier="LIN">
+          <value>PERMETRINE LOTION 5%  250 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="77" Description="MOUTHWASH LISTERINE 12 fl-oz" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="77" SystemItemNo="77" MonetaryAmount="29.78" Identification="390394" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.84" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.84" />
+        <Comments Qualifier="LIN">
+          <value>LISTERINE MOUTHWASH             250 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="78" Description="BECOSULE Z" MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="78" SystemItemNo="78" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>BECOSULE Z NOT AVAILABLE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="79" Description="NASIVION/OTRIVIN NASAL SPRAY" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="79" SystemItemNo="79" MonetaryAmount="34.43" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.05" />
+        <Comments Qualifier="LIN">
+          <value>XYLOMETAZOLINE 0,1% NOSESPRAY   10 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="80" Description="NEOMYCIN &amp; BACITRACIN OINTMENT - 30GRM TUBE" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="80" SystemItemNo="80" MonetaryAmount="54.57" Identification="390657" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.21" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.21" />
+        <Comments Qualifier="LIN">
+          <value>NEOMYCIN+BACITRACIN OINTMENT 2X15GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="81" Description="INTASPORIN" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="81" SystemItemNo="81" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>INTASPORIN MORE INFO PLEASE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="82" Description="LOX4 30GM" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="82" SystemItemNo="82" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>LOX4 MORE INFO PLEASE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="83" Description="NORCIN TAB (NORFLOXACIN 400MG TAB)" MeasureUnitQualifier="PCS" Quantity="7" TypeCode="BP" OriginatingSystemRef="83" SystemItemNo="83" MonetaryAmount="66.10" Identification="392732" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.11" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.11" />
+        <Comments Qualifier="LIN">
+          <value>NORFLOXACIN=NOROXIN 400MG   14TAB</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="84" Description="PERLICE CREAM" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="84" SystemItemNo="84" MonetaryAmount="16.03" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.43" />
+        <Comments Qualifier="LIN">
+          <value>PERMETRINE LOTION 1%  100 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="85" Description="VASALGEL" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="85" SystemItemNo="85" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>vasalgel - not available</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="86" Description="PHENYTOIN SODIUM INJ. USP (EPTOIN)" MeasureUnitQualifier="PCS" Quantity="120" TypeCode="BP" OriginatingSystemRef="86" SystemItemNo="86" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>phenytoin injection - tablets ?? more io</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="87" Description="PRICKLY HEAT POWDER 150G DRUG - NEEM AND TULSI" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="87" SystemItemNo="87" MonetaryAmount="7.36" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.33" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.33" />
+        <Comments Qualifier="LIN">
+          <value>PRICKLYS HEAT POWDER 100 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="88" Description="TAB AVOMINE/ TAB PHENERGAN" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="88" SystemItemNo="88" MonetaryAmount="6.38" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.5" />
+        <Comments Qualifier="LIN">
+          <value>ANTIHISTAMINE PROMETHAZINE 25MG 40 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="89" Description="QUININE SULFATE TABLET 300MG - 100S" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="89" SystemItemNo="89" MonetaryAmount="30.04" Identification="390670" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="17.67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="17.67" />
+        <Comments Qualifier="LIN">
+          <value>QUININE SULPHATE 300MG        100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="90" Description="RANTAC 300 DRUG - RANITIDINE 300MG" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="90" SystemItemNo="90" MonetaryAmount="43.56" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.25" />
+        <Comments Qualifier="LIN">
+          <value>RANITIDINE 300MG                 30 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="91" Description="ASTHALIN INHALER" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="91" SystemItemNo="91" MonetaryAmount="30.90" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.27" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.27" />
+        <Comments Qualifier="LIN">
+          <value>SALBUTAMOL 200 DOSE (VENTOLIN) 1 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="92" Description="SALT TABLET 500TAB" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="92" SystemItemNo="92" MonetaryAmount="15.83" Identification="390455" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="18.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="18.62" />
+        <Comments Qualifier="LIN">
+          <value>SODIUM+DEXTROSE 500MG           500 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="93" Description="SAVLON" MeasureUnitQualifier="PCS" Quantity="6" TypeCode="BP" OriginatingSystemRef="93" SystemItemNo="93" MonetaryAmount="30.35" Identification="392089" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.95" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.95" />
+        <Comments Qualifier="LIN">
+          <value>HIBICET (CHLORHEXIDINE+CETRIMIDE) 250 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="94" Description="SENASOF / CUSENA(12MG)" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="94" SystemItemNo="94" MonetaryAmount="3.64" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.28" />
+        <Comments Qualifier="LIN">
+          <value>BISACODYL 5MG EQ DOCUSATE  50 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="95" Description="SILVEREX OINTMENT(20GM) DRUG - CHLORHEXIDINE GLUCONATE TOPICAL AND SULFADIAZINE" MeasureUnitQualifier="PCS" Quantity="15" TypeCode="BP" OriginatingSystemRef="95" SystemItemNo="95" MonetaryAmount="67.83" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.32" />
+        <Comments Qualifier="LIN">
+          <value>BURN CREAM 1% (SILVER SULPH)  50 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="96" Description="SYRUP DUPHALAC 150ML" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="96" SystemItemNo="96" MonetaryAmount="19.42" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.57" />
+        <Comments Qualifier="LIN">
+          <value>LACTULOSE SYRUP                300 ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="97" Description="URISPAS TAB (FLAVOXATE TAB)" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="97" SystemItemNo="97" MonetaryAmount="27.52" Identification="391611" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="32.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="32.38" />
+        <Comments Qualifier="LIN">
+          <value>URISPAS 200MG 90 PCS  22141</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="98" Description="TETANUS IMMUNE HUMAN GLOBULIN - 250 UNITS VIAL" MeasureUnitQualifier="PCS" Quantity="3" TypeCode="BP" OriginatingSystemRef="98" SystemItemNo="98" MonetaryAmount="149.33" Identification="390678" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="58.56" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="58.56" />
+        <Comments Qualifier="LIN">
+          <value>TETANUS HUMANE 250IE 1 PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="99" Description="TETRACYCLINE 3% SKIN OINTMENT 15 MG" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="99" SystemItemNo="99" MonetaryAmount="43.10" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.07" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.07" />
+        <Comments Qualifier="LIN">
+          <value>TETRACYCLINE EQ FUCID SKIN CREAM 15 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="101" Description="CELIN" MeasureUnitQualifier="PCS" Quantity="150" TypeCode="BP" OriginatingSystemRef="101" SystemItemNo="101" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>celin ? more info</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="103" Description="BENZOIC SALICYLIC ACID OINTMENT (WINFIELD OINTMENT (20G))" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="103" SystemItemNo="103" MonetaryAmount="31.11" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.66" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.66" />
+        <Comments Qualifier="LIN">
+          <value>ATHLETES FOOTOINT/BENZOIC ACID 40 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="104" Description="VICKS VOPORUB" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="104" SystemItemNo="104" MonetaryAmount="60.52" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.12" />
+        <Comments Qualifier="LIN">
+          <value>VICKS VAPORUB=VAPOUR RUB      50 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="105" Description="STREPSILS" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="105" SystemItemNo="105" MonetaryAmount="10.57" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.22" />
+        <Comments Qualifier="LIN">
+          <value>STREPSILS LEMON/HONEY  24 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="106" Description="ENERGEX A-Z MULTIVITAMIN IN TABLET - 500TAB" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="106" SystemItemNo="106" MonetaryAmount="64.86" Identification="392084" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="15.26" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="15.26" />
+        <Comments Qualifier="LIN">
+          <value>VITAMINE MULTI DAGRAVIT TOTAAL 100 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="46" Description="ZIDOVUDINE PLUS LAMIVUDINE" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="46" SystemItemNo="46" MonetaryAmount="78.27" Identification="391753" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="23.02" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="23.02" />
+        <Comments Qualifier="LIN">
+          <value>COMBIVIR (ZIDOVUD+LAMIVUDINE)   10 TABL</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="47" Description="ZINC OXIDE PASTE 30GRM TUBE" MeasureUnitQualifier="PCS" Quantity="16" TypeCode="BP" OriginatingSystemRef="47" SystemItemNo="47" MonetaryAmount="52.09" Identification="390683" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.83" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.83" />
+        <Comments Qualifier="LIN">
+          <value>ZINC OXIDE OINTMENT/PASTE 10%    30 GRAM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="100" Description="TIGER BALM" MeasureUnitQualifier="PCS" Quantity="10" TypeCode="BP" OriginatingSystemRef="100" SystemItemNo="100" MonetaryAmount="67.66" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.96" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.96" />
+        <Comments Qualifier="LIN">
+          <value>TIGERBALSEM     19 GRAM           1 JAR</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="102" Description="VOVILUP SPRAY" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="102" SystemItemNo="102" MonetaryAmount="0.00" Identification="NON IMPA ITEM" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>vovulip ? more info</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="4081.377" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="4081.377" />
+    </Quote>
+  </Interchange>
+</MTML>

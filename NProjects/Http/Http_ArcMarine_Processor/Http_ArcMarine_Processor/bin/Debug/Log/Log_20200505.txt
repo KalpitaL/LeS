@@ -1,0 +1,209 @@
+5/5/2020 9:22:51 AM ================5/5/2020 9:22:51 AM================
+5/5/2020 9:22:51 AM ArcMarine HTTP processor started
+5/5/2020 9:22:51 AM ArcMarine Processor Started.
+5/5/2020 9:22:51 AM No files found.
+5/5/2020 9:22:51 AM 
+5/5/2020 9:22:52 AM Started Loading interchange object.
+5/5/2020 9:22:52 AM stopped Loading interchange object.
+5/5/2020 9:22:52 AM Quote processing started.
+5/5/2020 9:22:52 AM Quote processing started for refno: EN-20-005168
+5/5/2020 9:22:54 AM Filling Quotation.
+5/5/2020 9:22:54 AM Quotation Header filling started
+5/5/2020 9:22:54 AM Header details saved.
+5/5/2020 9:22:54 AM Quotation Header filling ended.
+5/5/2020 9:22:54 AM Quotation Items filling started.
+5/5/2020 9:23:02 AM Updating item 1
+5/5/2020 9:23:04 AM Updating item 2
+5/5/2020 9:23:05 AM Updating item 3
+5/5/2020 9:23:09 AM Updating item 4
+5/5/2020 9:23:10 AM Exception while filling items: The given key was not present in the dictionary.
+5/5/2020 9:23:10 AM Unable to save item details for ref no: EN-20-005168, The given key was not present in the dictionary.
+5/5/2020 9:24:14 AM ================5/5/2020 9:24:14 AM================
+5/5/2020 9:24:14 AM ArcMarine HTTP processor started
+5/5/2020 9:24:14 AM ArcMarine Processor Started.
+5/5/2020 9:24:14 AM No files found.
+5/5/2020 9:24:14 AM 
+5/5/2020 9:24:15 AM Started Loading interchange object.
+5/5/2020 9:24:15 AM stopped Loading interchange object.
+5/5/2020 9:24:15 AM Quote processing started.
+5/5/2020 9:24:15 AM Quote processing started for refno: EN-20-005168
+5/5/2020 9:24:16 AM Filling Quotation.
+5/5/2020 9:24:16 AM Quotation Header filling started
+5/5/2020 9:24:17 AM Header details saved.
+5/5/2020 9:24:17 AM Quotation Header filling ended.
+5/5/2020 9:24:17 AM Quotation Items filling started.
+5/5/2020 9:24:18 AM Updating item 1
+5/5/2020 9:25:30 AM Updating item 2
+5/5/2020 9:25:38 AM Updating item 3
+5/5/2020 9:26:39 AM Updating item 4
+5/5/2020 9:53:29 AM ================5/5/2020 9:53:29 AM================
+5/5/2020 9:53:29 AM ArcMarine HTTP processor started
+5/5/2020 9:53:29 AM ArcMarine Processor Started.
+5/5/2020 9:53:29 AM No files found.
+5/5/2020 9:53:29 AM 
+5/5/2020 9:53:29 AM Started Loading interchange object.
+5/5/2020 9:53:29 AM stopped Loading interchange object.
+5/5/2020 9:53:29 AM Quote processing started.
+5/5/2020 9:53:29 AM Quote processing started for refno: EN-20-005168
+5/5/2020 9:53:32 AM Filling Quotation.
+5/5/2020 9:53:32 AM Quotation Header filling started
+5/5/2020 9:53:33 AM Header details saved.
+5/5/2020 9:53:33 AM Quotation Header filling ended.
+5/5/2020 9:53:33 AM Quotation Items filling started.
+5/5/2020 9:53:48 AM Updating item 1
+5/5/2020 9:53:55 AM Exception while filling items: An item with the same key has already been added.
+5/5/2020 9:53:55 AM Unable to save item details for ref no: EN-20-005168, An item with the same key has already been added.
+5/5/2020 9:56:51 AM ================5/5/2020 9:56:51 AM================
+5/5/2020 9:56:51 AM ArcMarine HTTP processor started
+5/5/2020 9:56:51 AM ArcMarine Processor Started.
+5/5/2020 9:56:51 AM No files found.
+5/5/2020 9:56:51 AM 
+5/5/2020 9:56:51 AM Started Loading interchange object.
+5/5/2020 9:56:51 AM stopped Loading interchange object.
+5/5/2020 9:56:51 AM Quote processing started.
+5/5/2020 9:56:51 AM Quote processing started for refno: EN-20-005168
+5/5/2020 9:56:52 AM Filling Quotation.
+5/5/2020 9:56:52 AM Quotation Header filling started
+5/5/2020 9:56:53 AM Header details saved.
+5/5/2020 9:56:53 AM Quotation Header filling ended.
+5/5/2020 9:56:53 AM Quotation Items filling started.
+5/5/2020 9:56:59 AM Updating item 1
+5/5/2020 9:58:16 AM Updating item 2
+5/5/2020 9:58:25 AM Updating item 3
+5/5/2020 9:58:50 AM Updating item 4
+5/5/2020 9:59:25 AM Exception while filling items: Unable to edit item row 4
+5/5/2020 9:59:25 AM Unable to save item details for ref no: EN-20-005168, Unable to edit item row 4
+5/5/2020 10:35:02 AM ================5/5/2020 10:35:02 AM================
+5/5/2020 10:35:02 AM ArcMarine HTTP processor started
+5/5/2020 10:35:02 AM ArcMarine Processor Started.
+5/5/2020 10:35:02 AM No files found.
+5/5/2020 10:35:02 AM 
+5/5/2020 10:35:03 AM Started Loading interchange object.
+5/5/2020 10:35:03 AM stopped Loading interchange object.
+5/5/2020 10:35:03 AM Quote processing started.
+5/5/2020 10:35:03 AM Quote processing started for refno: EN-20-005168
+5/5/2020 10:35:08 AM Filling Quotation.
+5/5/2020 10:35:08 AM Quotation Header filling started
+5/5/2020 10:35:09 AM Header details saved.
+5/5/2020 10:35:09 AM Quotation Header filling ended.
+5/5/2020 10:35:09 AM Quotation Items filling started.
+5/5/2020 10:35:13 AM Updating item 1
+5/5/2020 10:35:20 AM Updating item 2
+5/5/2020 10:35:26 AM Updating item 3
+5/5/2020 10:38:50 AM ================5/5/2020 10:38:50 AM================
+5/5/2020 10:38:50 AM ArcMarine HTTP processor started
+5/5/2020 10:38:50 AM ArcMarine Processor Started.
+5/5/2020 10:38:50 AM No files found.
+5/5/2020 10:38:50 AM 
+5/5/2020 10:38:50 AM Started Loading interchange object.
+5/5/2020 10:38:50 AM stopped Loading interchange object.
+5/5/2020 10:38:50 AM Quote processing started.
+5/5/2020 10:38:50 AM Quote processing started for refno: EN-20-005168
+5/5/2020 10:38:51 AM Filling Quotation.
+5/5/2020 10:38:51 AM Quotation Header filling started
+5/5/2020 10:38:52 AM Header details saved.
+5/5/2020 10:38:52 AM Quotation Header filling ended.
+5/5/2020 10:38:52 AM Quotation Items filling started.
+5/5/2020 10:38:55 AM Updating item 1
+5/5/2020 10:39:00 AM Updating item 2
+5/5/2020 10:39:02 AM Updating item 3
+5/5/2020 10:39:06 AM Updating item 4
+5/5/2020 10:39:22 AM Unable to update item 5; Item Price is zero.
+5/5/2020 10:39:27 AM Updating item 6
+5/5/2020 10:39:54 AM Updating item 7
+5/5/2020 10:39:57 AM Updating item 8
+5/5/2020 10:40:00 AM Updating item 9
+5/5/2020 10:40:04 AM Updating item 10
+5/5/2020 10:40:07 AM Updating item 11
+5/5/2020 10:40:11 AM Updating item 12
+5/5/2020 10:40:14 AM Updating item 13
+5/5/2020 10:40:16 AM Updating item 14
+5/5/2020 10:40:17 AM Updating item 15
+5/5/2020 10:40:21 AM Updating item 16
+5/5/2020 10:40:22 AM Updating item 17
+5/5/2020 10:40:24 AM Updating item 18
+5/5/2020 10:40:27 AM Updating item 19
+5/5/2020 10:40:30 AM Updating item 20
+5/5/2020 10:40:33 AM Updating item 21
+5/5/2020 10:40:35 AM Updating item 22
+5/5/2020 10:40:38 AM Updating item 23
+5/5/2020 10:40:41 AM Updating item 24
+5/5/2020 10:40:43 AM Unable to update item 25; Item Price is zero.
+5/5/2020 10:40:45 AM Updating item 26
+5/5/2020 10:40:46 AM Updating item 27
+5/5/2020 10:40:49 AM Updating item 28
+5/5/2020 10:40:50 AM Updating item 29
+5/5/2020 10:40:52 AM Updating item 30
+5/5/2020 10:40:53 AM Unable to update item 31; Item Price is zero.
+5/5/2020 10:40:55 AM Updating item 33
+5/5/2020 10:40:56 AM Updating item 35
+5/5/2020 10:40:58 AM Updating item 36
+5/5/2020 10:40:59 AM Updating item 37
+5/5/2020 10:41:00 AM Updating item 38
+5/5/2020 10:41:01 AM Updating item 39
+5/5/2020 10:41:03 AM Updating item 40
+5/5/2020 10:41:04 AM Updating item 42
+5/5/2020 10:41:06 AM Updating item 43
+5/5/2020 10:41:07 AM Updating item 49
+5/5/2020 10:41:08 AM Updating item 51
+5/5/2020 10:41:10 AM Updating item 52
+5/5/2020 10:41:11 AM Updating item 53
+5/5/2020 10:41:13 AM Updating item 54
+5/5/2020 10:41:15 AM Updating item 56
+5/5/2020 10:41:17 AM Updating item 57
+5/5/2020 10:41:20 AM Updating item 59
+5/5/2020 10:41:23 AM Updating item 60
+5/5/2020 10:41:24 AM Updating item 62
+5/5/2020 10:42:13 AM Updating item 32
+5/5/2020 10:42:14 AM Updating item 34
+5/5/2020 10:42:17 AM Updating item 3
+5/5/2020 10:42:18 AM Exception while filling items: Unable to edit item row 3
+5/5/2020 10:42:18 AM Unable to save item details for ref no: EN-20-005168, Unable to edit item row 3
+5/5/2020 10:45:27 AM ================5/5/2020 10:45:27 AM================
+5/5/2020 10:45:27 AM ArcMarine HTTP processor started
+5/5/2020 10:45:27 AM ArcMarine Processor Started.
+5/5/2020 10:45:27 AM No files found.
+5/5/2020 10:45:27 AM 
+5/5/2020 10:45:27 AM Started Loading interchange object.
+5/5/2020 10:45:27 AM stopped Loading interchange object.
+5/5/2020 10:45:27 AM Quote processing started.
+5/5/2020 10:45:27 AM Quote processing started for refno: EN-20-005168
+5/5/2020 10:45:29 AM Filling Quotation.
+5/5/2020 10:45:29 AM Quotation Header filling started
+5/5/2020 10:45:30 AM Header details saved.
+5/5/2020 10:45:30 AM Quotation Header filling ended.
+5/5/2020 10:45:30 AM Quotation Items filling started.
+5/5/2020 10:45:40 AM Updating item 1
+5/5/2020 10:45:42 AM Updating item 2
+5/5/2020 10:45:44 AM Updating item 3
+5/5/2020 10:45:47 AM Updating item 4
+5/5/2020 10:45:50 AM Unable to update item 5; Item Price is zero.
+5/5/2020 10:45:52 AM Updating item 6
+5/5/2020 10:45:55 AM Updating item 7
+5/5/2020 10:45:58 AM Updating item 8
+5/5/2020 10:46:01 AM Updating item 9
+5/5/2020 10:46:03 AM Updating item 10
+5/5/2020 10:46:06 AM Updating item 11
+5/5/2020 10:46:09 AM Updating item 12
+5/5/2020 10:46:11 AM Updating item 13
+5/5/2020 10:46:13 AM Updating item 14
+5/5/2020 10:46:15 AM Updating item 15
+5/5/2020 10:46:18 AM Updating item 16
+5/5/2020 10:46:20 AM Updating item 17
+5/5/2020 10:46:21 AM Updating item 18
+5/5/2020 10:46:24 AM Updating item 19
+5/5/2020 10:46:28 AM Updating item 20
+5/5/2020 10:46:33 AM Updating item 21
+5/5/2020 10:46:36 AM Updating item 22
+5/5/2020 10:46:39 AM Updating item 23
+5/5/2020 10:46:41 AM Quotation Items filling ended.
+5/5/2020 10:47:04 AM ================5/5/2020 10:47:04 AM================
+5/5/2020 10:47:04 AM ArcMarine HTTP processor started
+5/5/2020 10:47:04 AM ArcMarine Processor Started.
+5/5/2020 10:47:04 AM No files found.
+5/5/2020 10:47:04 AM 
+5/5/2020 10:47:04 AM Started Loading interchange object.
+5/5/2020 10:47:04 AM stopped Loading interchange object.
+5/5/2020 10:47:04 AM Quote processing started.
+5/5/2020 10:47:04 AM Quote processing started for refno: EN-20-005168
+5/5/2020 10:47:06 AM Quote for ref no: EN-20-005168 is already submitted.

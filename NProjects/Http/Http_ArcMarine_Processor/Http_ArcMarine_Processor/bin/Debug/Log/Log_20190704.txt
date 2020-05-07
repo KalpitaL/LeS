@@ -1,0 +1,63 @@
+04/07/2019 14:02:14 ================04/07/2019 14:02:14================
+04/07/2019 14:02:14 ArcMarine HTTP processor started
+04/07/2019 14:02:19 ArcMarine Processor Started.
+04/07/2019 14:02:21 No files found.
+04/07/2019 14:02:24 
+04/07/2019 14:02:26 Started Loading interchange object.
+04/07/2019 14:02:26 stopped Loading interchange object.
+04/07/2019 14:02:28 Quote processing started.
+04/07/2019 14:02:31 Quote processing started for refno: EN-19-009012
+04/07/2019 14:02:35 Filling Quotation.
+04/07/2019 14:04:24 ================04/07/2019 14:04:24================
+04/07/2019 14:04:24 ArcMarine HTTP processor started
+04/07/2019 14:04:25 ArcMarine Processor Started.
+04/07/2019 14:04:25 No files found.
+04/07/2019 14:04:26 
+04/07/2019 14:04:26 Started Loading interchange object.
+04/07/2019 14:04:26 stopped Loading interchange object.
+04/07/2019 14:04:26 Quote processing started.
+04/07/2019 14:04:26 Quote processing started for refno: EN-19-009012
+04/07/2019 14:04:29 Filling Quotation.
+04/07/2019 14:06:04 ================04/07/2019 14:06:04================
+04/07/2019 14:06:04 ArcMarine HTTP processor started
+04/07/2019 14:06:05 ArcMarine Processor Started.
+04/07/2019 14:06:06 No files found.
+04/07/2019 14:06:06 
+04/07/2019 14:06:06 Started Loading interchange object.
+04/07/2019 14:10:09 ================04/07/2019 14:10:09================
+04/07/2019 14:10:09 ArcMarine HTTP processor started
+04/07/2019 14:10:10 ArcMarine Processor Started.
+04/07/2019 14:10:10 No files found.
+04/07/2019 14:10:11 
+04/07/2019 14:10:11 Started Loading interchange object.
+04/07/2019 14:10:13 stopped Loading interchange object.
+04/07/2019 14:10:13 Quote processing started.
+04/07/2019 14:10:13 Quote processing started for refno: EN-19-009012
+04/07/2019 14:10:16 Filling Quotation.
+04/07/2019 14:11:52 ================04/07/2019 14:11:52================
+04/07/2019 14:11:52 ArcMarine HTTP processor started
+04/07/2019 14:11:53 ArcMarine Processor Started.
+04/07/2019 14:11:57 No files found.
+04/07/2019 14:11:58 
+04/07/2019 14:11:58 Started Loading interchange object.
+04/07/2019 14:12:00 stopped Loading interchange object.
+04/07/2019 14:12:00 Quote processing started.
+04/07/2019 14:12:00 Quote processing started for refno: EN-19-009012
+04/07/2019 14:12:02 Filling Quotation.
+04/07/2019 14:12:14 Filling items.
+04/07/2019 16:58:56 ================04/07/2019 16:58:56================
+04/07/2019 16:58:56 ArcMarine HTTP processor started
+04/07/2019 16:59:02 ArcMarine Processor Started.
+04/07/2019 16:59:02 No files found.
+04/07/2019 16:59:03 
+04/07/2019 16:59:03 Started Loading interchange object.
+04/07/2019 16:59:04 stopped Loading interchange object.
+04/07/2019 16:59:04 Quote processing started.
+04/07/2019 16:59:04 Quote processing started for refno: EN-19-009049
+04/07/2019 16:59:06 Filling Quotation.
+04/07/2019 16:59:13 Filling items.
+04/07/2019 16:59:57 Unable to update item 1; Item Price is zero.
+04/07/2019 17:00:00 Unable to save item details for ref no: EN-19-009049
+04/07/2019 17:00:03 ArcMarine HTTP processor stopped
+04/07/2019 17:00:03 ====================================================
+04/07/2019 17:00:03 

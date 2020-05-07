@@ -1,0 +1,874 @@
+12/08/2019 15:04:23 ================12/08/2019 15:04:23================
+12/08/2019 15:04:23 ArcMarine HTTP processor started
+12/08/2019 15:04:23 ArcMarine Processor Started.
+12/08/2019 15:04:23 No files found.
+12/08/2019 15:04:23 
+12/08/2019 15:04:23 Started Loading interchange object.
+12/08/2019 15:04:23 stopped Loading interchange object.
+12/08/2019 15:04:23 Quote processing started.
+12/08/2019 15:04:23 Quote processing started for refno: EN-19-010837
+12/08/2019 15:04:25 Filling Quotation.
+12/08/2019 15:04:26 Header details saved.
+12/08/2019 15:04:31 Filling items.
+12/08/2019 15:04:37 Updating item 2
+12/08/2019 15:04:39 Updating item 3
+12/08/2019 15:04:40 Updating item 4
+12/08/2019 15:04:41 Updating item 5
+12/08/2019 15:04:42 Updating item 8
+12/08/2019 15:04:44 Updating item 11
+12/08/2019 15:04:45 Updating item 12
+12/08/2019 15:04:46 Updating item 13
+12/08/2019 15:04:47 Updating item 15
+12/08/2019 15:04:48 Updating item 18
+12/08/2019 15:04:50 Updating item 19
+12/08/2019 15:04:51 Updating item 20
+12/08/2019 15:04:52 Updating item 21
+12/08/2019 15:04:53 Updating item 25
+12/08/2019 15:04:54 Updating item 26
+12/08/2019 15:04:56 Updating item 28
+12/08/2019 15:04:57 Updating item 30
+12/08/2019 15:04:58 Updating item 31
+12/08/2019 15:04:59 Updating item 32
+12/08/2019 15:05:00 Updating item 33
+12/08/2019 15:05:02 Updating item 34
+12/08/2019 15:05:03 Updating item 36
+12/08/2019 15:05:04 Updating item 37
+12/08/2019 15:05:05 Updating item 38
+12/08/2019 15:05:07 Updating item 39
+12/08/2019 15:05:08 Updating item 43
+12/08/2019 15:05:09 Updating item 46
+12/08/2019 15:05:10 Updating item 48
+12/08/2019 15:05:11 Updating item 49
+12/08/2019 15:05:12 Updating item 51
+12/08/2019 15:05:14 Updating item 54
+12/08/2019 15:05:15 Updating item 56
+12/08/2019 15:05:16 Updating item 57
+12/08/2019 15:05:17 Updating item 60
+12/08/2019 15:05:18 Updating item 61
+12/08/2019 15:05:20 Updating item 63
+12/08/2019 15:05:21 Updating item 65
+12/08/2019 15:05:22 Updating item 66
+12/08/2019 15:05:23 Updating item 67
+12/08/2019 15:05:25 Updating item 69
+12/08/2019 15:05:26 Updating item 72
+12/08/2019 15:05:27 Updating item 74
+12/08/2019 15:05:28 Updating item 75
+12/08/2019 15:05:29 Updating item 77
+12/08/2019 15:05:31 Updating item 78
+12/08/2019 15:05:32 Updating item 80
+12/08/2019 15:05:33 Updating item 81
+12/08/2019 15:05:34 Updating item 82
+12/08/2019 15:05:35 Updating item 83
+12/08/2019 15:05:37 Updating item 84
+12/08/2019 15:05:38 Updating item 85
+12/08/2019 15:05:39 Updating item 86
+12/08/2019 15:05:41 Updating item 88
+12/08/2019 15:05:42 Updating item 89
+12/08/2019 15:05:43 Updating item 90
+12/08/2019 15:05:45 Updating item 91
+12/08/2019 15:05:46 Updating item 92
+12/08/2019 15:05:47 Updating item 93
+12/08/2019 15:05:49 Updating item 94
+12/08/2019 15:05:50 Updating item 96
+12/08/2019 15:05:51 Updating item 97
+12/08/2019 15:05:52 Updating item 98
+12/08/2019 15:05:54 Updating item 99
+12/08/2019 15:05:55 Updating item 101
+12/08/2019 15:05:56 Updating item 103
+12/08/2019 15:05:57 Updating item 106
+12/08/2019 15:05:59 Updating item 109
+12/08/2019 15:06:00 Updating item 110
+12/08/2019 15:06:01 Updating item 112
+12/08/2019 15:06:02 Updating item 117
+12/08/2019 15:06:03 Updating item 118
+12/08/2019 15:06:05 Updating item 119
+12/08/2019 15:06:06 Updating item 120
+12/08/2019 15:06:07 Updating item 121
+12/08/2019 15:06:08 Updating item 127
+12/08/2019 15:06:09 Updating item 128
+12/08/2019 15:06:11 Updating item 130
+12/08/2019 15:06:12 Updating item 131
+12/08/2019 15:06:13 Updating item 132
+12/08/2019 15:06:14 Error while updating item remarks : item no - 132;    at HTTPWrapper.HTTPWrapper.LoadURL(String _request, String validateNodeTitle, String validateAttribute, String attributeValue, String CookieName, String HiddenAttributeKey, Boolean _ReadResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_ArcMarine_Processor\HTTPWrapper\HTTPWrapper.cs:line 105
+   at LeSCommon.LeSCommon.LoadURL(String validateNodeType, String validateAttribute, String attributeValue, Boolean _readResponse) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_ArcMarine_Processor\LeSCommon\LeSCommon.cs:line 114
+   at Http_ArcMarine_Routine.Http_Download_Routine.FillItemRemarks(String iRemarks, HtmlNode _inpRemarks, String ItemNo) in e:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_ArcMarine_Processor\Http_ArcMarine_Routine\Http_Download_Routine.cs:line 1800
+12/08/2019 15:06:14 Updating item 133
+12/08/2019 15:07:20 ================12/08/2019 15:07:20================
+12/08/2019 15:07:20 ArcMarine HTTP processor started
+12/08/2019 15:07:20 ArcMarine Processor Started.
+12/08/2019 15:07:20 No files found.
+12/08/2019 15:07:20 
+12/08/2019 15:07:20 Started Loading interchange object.
+12/08/2019 15:07:20 stopped Loading interchange object.
+12/08/2019 15:07:20 Quote processing started.
+12/08/2019 15:07:20 Quote processing started for refno: EN-19-010837
+12/08/2019 15:07:22 Filling Quotation.
+12/08/2019 15:07:23 Header details saved.
+12/08/2019 15:07:26 Filling items.
+12/08/2019 15:10:28 ================12/08/2019 15:10:28================
+12/08/2019 15:10:28 ArcMarine HTTP processor started
+12/08/2019 15:10:28 ArcMarine Processor Started.
+12/08/2019 15:10:28 No files found.
+12/08/2019 15:10:28 
+12/08/2019 15:10:28 Started Loading interchange object.
+12/08/2019 15:10:28 stopped Loading interchange object.
+12/08/2019 15:10:28 Quote processing started.
+12/08/2019 15:10:28 Quote processing started for refno: EN-19-010837
+12/08/2019 15:10:30 Filling Quotation.
+12/08/2019 15:10:31 Header details saved.
+12/08/2019 15:10:34 Filling items.
+12/08/2019 15:12:07 Updating item 7
+12/08/2019 15:13:58 ================12/08/2019 15:13:58================
+12/08/2019 15:13:58 ArcMarine HTTP processor started
+12/08/2019 15:13:58 ArcMarine Processor Started.
+12/08/2019 15:13:58 No files found.
+12/08/2019 15:13:58 
+12/08/2019 15:13:59 Started Loading interchange object.
+12/08/2019 15:13:59 stopped Loading interchange object.
+12/08/2019 15:13:59 Quote processing started.
+12/08/2019 15:13:59 Quote processing started for refno: EN-19-010837
+12/08/2019 15:14:00 Filling Quotation.
+12/08/2019 15:14:01 Header details saved.
+12/08/2019 15:14:02 Filling items.
+12/08/2019 15:15:49 Updating item 7
+12/08/2019 15:18:36 ================12/08/2019 15:18:36================
+12/08/2019 15:18:36 ArcMarine HTTP processor started
+12/08/2019 15:18:36 ArcMarine Processor Started.
+12/08/2019 15:18:36 No files found.
+12/08/2019 15:18:36 
+12/08/2019 15:18:36 Started Loading interchange object.
+12/08/2019 15:18:36 stopped Loading interchange object.
+12/08/2019 15:18:36 Quote processing started.
+12/08/2019 15:18:36 Quote processing started for refno: EN-19-010837
+12/08/2019 15:18:38 Filling Quotation.
+12/08/2019 15:18:39 Header details saved.
+12/08/2019 15:18:39 Filling items.
+12/08/2019 15:18:44 Updating item 7
+12/08/2019 15:19:07 Updating item 9
+12/08/2019 15:19:22 Updating item 16
+12/08/2019 15:19:38 Updating item 17
+12/08/2019 15:19:43 Updating item 23
+12/08/2019 15:20:29 Updating item 27
+12/08/2019 15:20:37 Updating item 29
+12/08/2019 15:20:46 Updating item 35
+12/08/2019 15:21:03 Updating item 42
+12/08/2019 15:21:07 Updating item 44
+12/08/2019 15:21:10 Updating item 45
+12/08/2019 15:21:17 Updating item 47
+12/08/2019 15:21:21 Updating item 50
+12/08/2019 15:21:25 Updating item 52
+12/08/2019 15:21:33 Updating item 53
+12/08/2019 15:21:40 Updating item 55
+12/08/2019 15:21:51 Updating item 58
+12/08/2019 15:21:56 Updating item 62
+12/08/2019 15:21:59 Updating item 68
+12/08/2019 15:22:02 Updating item 70
+12/08/2019 15:22:05 Updating item 71
+12/08/2019 15:22:08 Updating item 73
+12/08/2019 15:22:11 Updating item 76
+12/08/2019 15:22:15 Updating item 79
+12/08/2019 15:22:19 Updating item 87
+12/08/2019 15:22:22 Updating item 95
+12/08/2019 15:22:47 Updating item 100
+12/08/2019 15:22:51 Updating item 104
+12/08/2019 15:22:54 Updating item 108
+12/08/2019 15:22:58 Updating item 111
+12/08/2019 15:23:01 Updating item 113
+12/08/2019 15:23:05 Updating item 116
+12/08/2019 15:23:08 Updating item 129
+12/08/2019 15:23:13 Updating item 137
+12/08/2019 15:23:17 Updating item 138
+12/08/2019 15:23:20 Updating item 141
+12/08/2019 15:23:24 Updating item 147
+12/08/2019 15:23:28 Updating item 149
+12/08/2019 15:23:40 Updating item 151
+12/08/2019 15:23:42 Updating item 152
+12/08/2019 15:23:45 Updating item 156
+12/08/2019 15:23:47 Updating item 160
+12/08/2019 15:23:50 Updating item 161
+12/08/2019 15:23:55 Updating item 164
+12/08/2019 15:23:58 Updating item 168
+12/08/2019 15:24:01 Updating item 169
+12/08/2019 15:24:05 Updating item 170
+12/08/2019 15:24:17 Updating item 171
+12/08/2019 15:24:19 Updating item 172
+12/08/2019 15:24:22 Updating item 173
+12/08/2019 15:24:25 Updating item 174
+12/08/2019 15:24:30 Updating item 175
+12/08/2019 15:24:33 Updating item 176
+12/08/2019 15:24:38 Updating item 177
+12/08/2019 15:24:41 Updating item 178
+12/08/2019 15:25:12 Updating item 179
+12/08/2019 15:25:16 Updating item 180
+12/08/2019 15:25:18 Updating item 181
+12/08/2019 15:25:30 Updating item 182
+12/08/2019 15:25:32 Updating item 183
+12/08/2019 15:25:34 Updating item 184
+12/08/2019 15:25:36 Updating item 185
+12/08/2019 15:25:39 Updating item 186
+12/08/2019 15:25:41 Updating item 188
+12/08/2019 15:25:45 Updating item 189
+12/08/2019 15:25:49 Unable to update item 190; Item Price is zero.
+12/08/2019 15:30:56 ================12/08/2019 15:30:56================
+12/08/2019 15:30:56 ArcMarine HTTP processor started
+12/08/2019 15:30:56 ArcMarine Processor Started.
+12/08/2019 15:30:56 No files found.
+12/08/2019 15:30:56 
+12/08/2019 15:30:56 Started Loading interchange object.
+12/08/2019 15:30:56 stopped Loading interchange object.
+12/08/2019 15:30:56 Quote processing started.
+12/08/2019 15:30:56 Quote processing started for refno: EN-19-010837
+12/08/2019 15:31:08 ================12/08/2019 15:31:08================
+12/08/2019 15:31:08 ArcMarine HTTP processor started
+12/08/2019 15:31:08 ArcMarine Processor Started.
+12/08/2019 15:31:08 No files found.
+12/08/2019 15:31:08 
+12/08/2019 15:31:09 Started Loading interchange object.
+12/08/2019 15:31:09 stopped Loading interchange object.
+12/08/2019 15:31:09 Quote processing started.
+12/08/2019 15:31:09 Quote processing started for refno: EN-19-010837
+12/08/2019 15:31:11 Filling Quotation.
+12/08/2019 15:31:11 Header details saved.
+12/08/2019 15:31:14 Filling items.
+12/08/2019 15:31:21 Updating item 7
+12/08/2019 15:31:25 Updating item 9
+12/08/2019 15:31:27 Updating item 16
+12/08/2019 15:31:29 Updating item 17
+12/08/2019 15:31:31 Updating item 23
+12/08/2019 15:31:33 Updating item 27
+12/08/2019 15:31:34 Updating item 29
+12/08/2019 15:31:35 Updating item 35
+12/08/2019 15:31:36 Updating item 42
+12/08/2019 15:31:38 Updating item 44
+12/08/2019 15:31:39 Updating item 45
+12/08/2019 15:31:40 Updating item 47
+12/08/2019 15:31:41 Updating item 50
+12/08/2019 15:31:43 Updating item 52
+12/08/2019 15:31:51 Updating item 53
+12/08/2019 15:31:53 Updating item 55
+12/08/2019 15:31:54 Updating item 58
+12/08/2019 15:31:55 Updating item 62
+12/08/2019 15:31:56 Updating item 68
+12/08/2019 15:31:58 Updating item 70
+12/08/2019 15:31:59 Updating item 71
+12/08/2019 15:32:00 Updating item 73
+12/08/2019 15:32:02 Updating item 76
+12/08/2019 15:32:03 Updating item 79
+12/08/2019 15:32:04 Updating item 87
+12/08/2019 15:32:05 Updating item 95
+12/08/2019 15:32:06 Updating item 100
+12/08/2019 15:32:08 Updating item 104
+12/08/2019 15:32:09 Updating item 108
+12/08/2019 15:32:10 Updating item 111
+12/08/2019 15:32:11 Updating item 113
+12/08/2019 15:32:13 Updating item 116
+12/08/2019 15:32:14 Updating item 129
+12/08/2019 15:32:15 Updating item 137
+12/08/2019 15:32:16 Updating item 138
+12/08/2019 15:32:17 Updating item 141
+12/08/2019 15:32:19 Updating item 147
+12/08/2019 15:32:20 Updating item 149
+12/08/2019 15:32:21 Updating item 151
+12/08/2019 15:32:22 Updating item 152
+12/08/2019 15:32:24 Updating item 156
+12/08/2019 15:32:25 Updating item 160
+12/08/2019 15:32:26 Updating item 161
+12/08/2019 15:32:27 Updating item 164
+12/08/2019 15:32:29 Updating item 168
+12/08/2019 15:32:30 Updating item 169
+12/08/2019 15:32:31 Updating item 170
+12/08/2019 15:32:32 Updating item 171
+12/08/2019 15:32:33 Updating item 172
+12/08/2019 15:32:35 Updating item 173
+12/08/2019 15:32:36 Updating item 174
+12/08/2019 15:32:37 Updating item 175
+12/08/2019 15:32:39 Updating item 176
+12/08/2019 15:32:40 Updating item 177
+12/08/2019 15:32:41 Updating item 178
+12/08/2019 15:32:42 Updating item 179
+12/08/2019 15:32:43 Updating item 180
+12/08/2019 15:32:45 Updating item 181
+12/08/2019 15:32:46 Updating item 182
+12/08/2019 15:32:47 Updating item 183
+12/08/2019 15:32:48 Updating item 184
+12/08/2019 15:32:50 Updating item 185
+12/08/2019 15:32:51 Updating item 186
+12/08/2019 15:32:52 Updating item 188
+12/08/2019 15:32:53 Updating item 189
+12/08/2019 15:32:55 Unable to update item 190; Item Price is zero.
+12/08/2019 15:35:08 ================12/08/2019 15:35:08================
+12/08/2019 15:35:08 ArcMarine HTTP processor started
+12/08/2019 15:35:09 ArcMarine Processor Started.
+12/08/2019 15:35:09 No files found.
+12/08/2019 15:35:09 
+12/08/2019 15:35:09 Started Loading interchange object.
+12/08/2019 15:35:09 stopped Loading interchange object.
+12/08/2019 15:35:09 Quote processing started.
+12/08/2019 15:35:09 Quote processing started for refno: EN-19-010837
+12/08/2019 15:35:11 Filling Quotation.
+12/08/2019 15:35:12 Header details saved.
+12/08/2019 15:35:16 Filling items.
+12/08/2019 15:35:18 Updating item 7
+12/08/2019 15:35:20 Updating item 9
+12/08/2019 15:35:21 Updating item 16
+12/08/2019 15:35:22 Updating item 17
+12/08/2019 15:35:24 Updating item 23
+12/08/2019 15:35:25 Updating item 27
+12/08/2019 15:35:26 Updating item 29
+12/08/2019 15:35:28 Updating item 35
+12/08/2019 15:35:29 Updating item 42
+12/08/2019 15:35:30 Updating item 44
+12/08/2019 15:35:32 Updating item 45
+12/08/2019 15:35:33 Updating item 47
+12/08/2019 15:35:35 Updating item 50
+12/08/2019 15:35:36 Updating item 52
+12/08/2019 15:35:38 Updating item 53
+12/08/2019 15:35:39 Updating item 55
+12/08/2019 15:35:41 Updating item 58
+12/08/2019 15:35:42 Updating item 62
+12/08/2019 15:35:43 Updating item 68
+12/08/2019 15:35:45 Updating item 70
+12/08/2019 15:35:46 Updating item 71
+12/08/2019 15:35:47 Updating item 73
+12/08/2019 15:35:49 Updating item 76
+12/08/2019 15:35:50 Updating item 79
+12/08/2019 15:35:51 Updating item 87
+12/08/2019 15:35:52 Updating item 95
+12/08/2019 15:35:54 Updating item 100
+12/08/2019 15:35:55 Updating item 104
+12/08/2019 15:35:56 Updating item 108
+12/08/2019 15:35:58 Updating item 111
+12/08/2019 15:35:59 Updating item 113
+12/08/2019 15:36:00 Updating item 116
+12/08/2019 15:36:02 Updating item 129
+12/08/2019 15:36:03 Updating item 137
+12/08/2019 15:36:04 Updating item 138
+12/08/2019 15:36:05 Updating item 141
+12/08/2019 15:36:07 Updating item 147
+12/08/2019 15:36:08 Updating item 149
+12/08/2019 15:36:09 Updating item 151
+12/08/2019 15:36:11 Updating item 152
+12/08/2019 15:36:12 Updating item 156
+12/08/2019 15:36:13 Updating item 160
+12/08/2019 15:36:15 Updating item 161
+12/08/2019 15:36:16 Updating item 164
+12/08/2019 15:36:18 Updating item 168
+12/08/2019 15:36:19 Updating item 169
+12/08/2019 15:36:21 Updating item 170
+12/08/2019 15:36:22 Updating item 171
+12/08/2019 15:36:23 Updating item 172
+12/08/2019 15:36:25 Updating item 173
+12/08/2019 15:36:26 Updating item 174
+12/08/2019 15:36:28 Updating item 175
+12/08/2019 15:36:29 Updating item 176
+12/08/2019 15:36:31 Updating item 177
+12/08/2019 15:36:32 Updating item 178
+12/08/2019 15:36:33 Updating item 179
+12/08/2019 15:36:35 Updating item 180
+12/08/2019 15:36:36 Updating item 181
+12/08/2019 15:36:37 Updating item 182
+12/08/2019 15:36:39 Updating item 183
+12/08/2019 15:36:40 Updating item 184
+12/08/2019 15:36:41 Updating item 185
+12/08/2019 15:36:42 Updating item 186
+12/08/2019 15:36:44 Updating item 188
+12/08/2019 15:36:45 Updating item 189
+12/08/2019 15:36:46 Unable to update item 190; Item Price is zero.
+12/08/2019 15:39:52 ================12/08/2019 15:39:52================
+12/08/2019 15:39:52 ArcMarine HTTP processor started
+12/08/2019 15:39:52 ArcMarine Processor Started.
+12/08/2019 15:39:52 No files found.
+12/08/2019 15:39:52 
+12/08/2019 15:39:52 Started Loading interchange object.
+12/08/2019 15:39:52 stopped Loading interchange object.
+12/08/2019 15:39:52 Quote processing started.
+12/08/2019 15:39:52 Quote processing started for refno: EN-19-010837
+12/08/2019 15:39:54 Filling Quotation.
+12/08/2019 15:39:55 Header details saved.
+12/08/2019 15:39:56 Filling items.
+12/08/2019 15:39:58 Updating item 7
+12/08/2019 15:40:00 Updating item 9
+12/08/2019 15:40:01 Updating item 16
+12/08/2019 15:40:02 Updating item 17
+12/08/2019 15:40:04 Updating item 23
+12/08/2019 15:40:05 Updating item 27
+12/08/2019 15:40:06 Updating item 29
+12/08/2019 15:40:07 Updating item 35
+12/08/2019 15:40:08 Updating item 42
+12/08/2019 15:40:10 Updating item 44
+12/08/2019 15:40:11 Updating item 45
+12/08/2019 15:40:12 Updating item 47
+12/08/2019 15:40:13 Updating item 50
+12/08/2019 15:40:15 Updating item 52
+12/08/2019 15:40:16 Updating item 53
+12/08/2019 15:40:17 Updating item 55
+12/08/2019 15:40:18 Updating item 58
+12/08/2019 15:40:20 Updating item 62
+12/08/2019 15:40:21 Updating item 68
+12/08/2019 15:40:22 Updating item 70
+12/08/2019 15:40:24 Updating item 71
+12/08/2019 15:40:25 Updating item 73
+12/08/2019 15:40:26 Updating item 76
+12/08/2019 15:40:27 Updating item 79
+12/08/2019 15:40:29 Updating item 87
+12/08/2019 15:40:30 Updating item 95
+12/08/2019 15:40:31 Updating item 100
+12/08/2019 15:40:32 Updating item 104
+12/08/2019 15:40:34 Updating item 108
+12/08/2019 15:40:35 Updating item 111
+12/08/2019 15:40:36 Updating item 113
+12/08/2019 15:40:37 Updating item 116
+12/08/2019 15:40:39 Updating item 129
+12/08/2019 15:40:40 Updating item 137
+12/08/2019 15:40:41 Updating item 138
+12/08/2019 15:40:42 Updating item 141
+12/08/2019 15:40:44 Updating item 147
+12/08/2019 15:40:45 Updating item 149
+12/08/2019 15:40:46 Updating item 151
+12/08/2019 15:40:47 Updating item 152
+12/08/2019 15:40:49 Updating item 156
+12/08/2019 15:40:50 Updating item 160
+12/08/2019 15:40:51 Updating item 161
+12/08/2019 15:40:52 Updating item 164
+12/08/2019 15:40:54 Updating item 168
+12/08/2019 15:40:55 Updating item 169
+12/08/2019 15:40:56 Updating item 170
+12/08/2019 15:40:57 Updating item 171
+12/08/2019 15:40:58 Updating item 172
+12/08/2019 15:41:00 Updating item 173
+12/08/2019 15:41:01 Updating item 174
+12/08/2019 15:41:02 Updating item 175
+12/08/2019 15:41:03 Updating item 176
+12/08/2019 15:41:05 Updating item 177
+12/08/2019 15:41:06 Updating item 178
+12/08/2019 15:41:07 Updating item 179
+12/08/2019 15:41:08 Updating item 180
+12/08/2019 15:41:10 Updating item 181
+12/08/2019 15:41:11 Updating item 182
+12/08/2019 15:41:12 Updating item 183
+12/08/2019 15:41:13 Updating item 184
+12/08/2019 15:41:15 Updating item 185
+12/08/2019 15:41:16 Updating item 186
+12/08/2019 15:41:17 Updating item 188
+12/08/2019 15:41:18 Updating item 189
+12/08/2019 15:41:20 Unable to update item 190; Item Price is zero.
+12/08/2019 15:41:23 Updating item 191
+12/08/2019 15:41:24 Updating item 192
+12/08/2019 15:41:25 Updating item 193
+12/08/2019 15:41:26 Updating item 194
+12/08/2019 15:41:28 Updating item 195
+12/08/2019 15:41:29 Updating item 196
+12/08/2019 15:41:30 Updating item 197
+12/08/2019 15:41:31 Updating item 198
+12/08/2019 15:41:33 Updating item 199
+12/08/2019 15:43:07 ================12/08/2019 15:43:07================
+12/08/2019 15:43:07 ArcMarine HTTP processor started
+12/08/2019 15:43:07 ArcMarine Processor Started.
+12/08/2019 15:43:07 No files found.
+12/08/2019 15:43:07 
+12/08/2019 15:43:07 Started Loading interchange object.
+12/08/2019 15:43:07 stopped Loading interchange object.
+12/08/2019 15:43:07 Quote processing started.
+12/08/2019 15:43:07 Quote processing started for refno: EN-19-010837
+12/08/2019 15:43:09 Filling Quotation.
+12/08/2019 15:43:10 Header details saved.
+12/08/2019 15:43:48 ================12/08/2019 15:43:48================
+12/08/2019 15:43:48 ArcMarine HTTP processor started
+12/08/2019 15:43:48 ArcMarine Processor Started.
+12/08/2019 15:43:48 No files found.
+12/08/2019 15:43:48 
+12/08/2019 15:43:48 Started Loading interchange object.
+12/08/2019 15:43:48 stopped Loading interchange object.
+12/08/2019 15:43:48 Quote processing started.
+12/08/2019 15:43:48 Quote processing started for refno: EN-19-010837
+12/08/2019 15:43:50 Filling Quotation.
+12/08/2019 15:43:51 Header details saved.
+12/08/2019 15:44:05 Filling items.
+12/08/2019 15:44:08 Updating item 7
+12/08/2019 15:44:09 Updating item 9
+12/08/2019 15:44:11 Updating item 16
+12/08/2019 15:44:12 Updating item 17
+12/08/2019 15:44:13 Updating item 23
+12/08/2019 15:44:14 Updating item 27
+12/08/2019 15:44:16 Updating item 29
+12/08/2019 15:44:17 Updating item 35
+12/08/2019 15:44:18 Updating item 42
+12/08/2019 15:44:19 Updating item 44
+12/08/2019 15:44:20 Updating item 45
+12/08/2019 15:44:22 Updating item 47
+12/08/2019 15:44:23 Updating item 50
+12/08/2019 15:44:24 Updating item 52
+12/08/2019 15:44:25 Updating item 53
+12/08/2019 15:44:27 Updating item 55
+12/08/2019 15:44:28 Updating item 58
+12/08/2019 15:44:29 Updating item 62
+12/08/2019 15:44:30 Updating item 68
+12/08/2019 15:44:31 Updating item 70
+12/08/2019 15:44:33 Updating item 71
+12/08/2019 15:44:34 Updating item 73
+12/08/2019 15:44:35 Updating item 76
+12/08/2019 15:44:36 Updating item 79
+12/08/2019 15:44:37 Updating item 87
+12/08/2019 15:44:39 Updating item 95
+12/08/2019 15:44:40 Updating item 100
+12/08/2019 15:44:41 Updating item 104
+12/08/2019 15:44:42 Updating item 108
+12/08/2019 15:44:44 Updating item 111
+12/08/2019 15:44:45 Updating item 113
+12/08/2019 15:44:47 Updating item 116
+12/08/2019 15:44:48 Updating item 129
+12/08/2019 15:44:49 Updating item 137
+12/08/2019 15:44:51 Updating item 138
+12/08/2019 15:44:52 Updating item 141
+12/08/2019 15:44:53 Updating item 147
+12/08/2019 15:44:54 Updating item 149
+12/08/2019 15:44:56 Updating item 151
+12/08/2019 15:44:57 Updating item 152
+12/08/2019 15:44:58 Updating item 156
+12/08/2019 15:44:59 Updating item 160
+12/08/2019 15:45:00 Updating item 161
+12/08/2019 15:45:02 Updating item 164
+12/08/2019 15:45:03 Updating item 168
+12/08/2019 15:45:04 Updating item 169
+12/08/2019 15:45:05 Updating item 170
+12/08/2019 15:45:06 Updating item 171
+12/08/2019 15:45:08 Updating item 172
+12/08/2019 15:45:09 Updating item 173
+12/08/2019 15:45:10 Updating item 174
+12/08/2019 15:45:11 Updating item 175
+12/08/2019 15:45:12 Updating item 176
+12/08/2019 15:45:14 Updating item 177
+12/08/2019 15:45:15 Updating item 178
+12/08/2019 15:45:17 Updating item 179
+12/08/2019 15:45:18 Updating item 180
+12/08/2019 15:45:19 Updating item 181
+12/08/2019 15:45:20 Updating item 182
+12/08/2019 15:45:21 Updating item 183
+12/08/2019 15:45:23 Updating item 184
+12/08/2019 15:45:24 Updating item 185
+12/08/2019 15:45:25 Updating item 186
+12/08/2019 15:45:26 Updating item 188
+12/08/2019 15:45:27 Updating item 189
+12/08/2019 15:45:29 Unable to update item 190; Item Price is zero.
+12/08/2019 15:45:31 Updating item 191
+12/08/2019 15:45:32 Updating item 192
+12/08/2019 15:45:34 Updating item 193
+12/08/2019 15:45:35 Updating item 194
+12/08/2019 15:45:36 Updating item 195
+12/08/2019 15:45:37 Updating item 196
+12/08/2019 15:45:38 Updating item 197
+12/08/2019 15:45:40 Updating item 198
+12/08/2019 15:45:41 Updating item 199
+12/08/2019 15:45:45 Updating item 200
+12/08/2019 15:45:46 Updating item 201
+12/08/2019 15:45:48 Updating item 202
+12/08/2019 15:45:49 Updating item 203
+12/08/2019 15:45:50 Updating item 204
+12/08/2019 15:45:51 Updating item 205
+12/08/2019 15:45:52 Updating item 206
+12/08/2019 15:45:54 Updating item 207
+12/08/2019 15:45:55 Updating item 208
+12/08/2019 15:45:56 Updating item 209
+12/08/2019 15:45:57 Updating item 210
+12/08/2019 15:45:58 Updating item 211
+12/08/2019 15:46:00 Updating item 212
+12/08/2019 15:46:01 Updating item 213
+12/08/2019 15:46:02 Updating item 214
+12/08/2019 15:46:03 Updating item 215
+12/08/2019 15:46:05 Updating item 216
+12/08/2019 15:46:06 Updating item 217
+12/08/2019 15:46:07 Updating item 218
+12/08/2019 15:46:08 Updating item 219
+12/08/2019 15:46:09 Updating item 220
+12/08/2019 15:46:11 Updating item 221
+12/08/2019 15:46:12 Updating item 222
+12/08/2019 15:46:14 Updating item 223
+12/08/2019 15:56:07 ================12/08/2019 15:56:07================
+12/08/2019 15:56:07 ArcMarine HTTP processor started
+12/08/2019 15:56:07 ArcMarine Processor Started.
+12/08/2019 15:56:07 No files found.
+12/08/2019 15:56:07 
+12/08/2019 15:56:07 Started Loading interchange object.
+12/08/2019 15:56:07 stopped Loading interchange object.
+12/08/2019 15:56:07 Quote processing started.
+12/08/2019 15:56:07 Quote processing started for refno: EN-19-010837
+12/08/2019 15:56:08 Filling Quotation.
+12/08/2019 15:56:21 ================12/08/2019 15:56:21================
+12/08/2019 15:56:21 ArcMarine HTTP processor started
+12/08/2019 15:56:21 ArcMarine Processor Started.
+12/08/2019 15:56:21 No files found.
+12/08/2019 15:56:21 
+12/08/2019 15:56:21 Started Loading interchange object.
+12/08/2019 15:56:21 stopped Loading interchange object.
+12/08/2019 15:56:21 Quote processing started.
+12/08/2019 15:56:21 Quote processing started for refno: EN-19-010837
+12/08/2019 15:56:23 Filling Quotation.
+12/08/2019 15:56:24 Header details saved.
+12/08/2019 15:56:28 Filling items.
+12/08/2019 15:56:50 Updating item 2
+12/08/2019 16:00:20 ================12/08/2019 16:00:20================
+12/08/2019 16:00:20 ArcMarine HTTP processor started
+12/08/2019 16:00:20 ArcMarine Processor Started.
+12/08/2019 16:00:20 No files found.
+12/08/2019 16:00:20 
+12/08/2019 16:00:20 Started Loading interchange object.
+12/08/2019 16:00:20 stopped Loading interchange object.
+12/08/2019 16:00:20 Quote processing started.
+12/08/2019 16:00:20 Quote processing started for refno: EN-19-010837
+12/08/2019 16:00:22 Filling Quotation.
+12/08/2019 16:00:23 Header details saved.
+12/08/2019 16:00:25 Filling items.
+12/08/2019 16:00:29 Updating item 2
+12/08/2019 16:03:04 ================12/08/2019 16:03:04================
+12/08/2019 16:03:04 ArcMarine HTTP processor started
+12/08/2019 16:03:04 ArcMarine Processor Started.
+12/08/2019 16:03:04 No files found.
+12/08/2019 16:03:04 
+12/08/2019 16:03:04 Started Loading interchange object.
+12/08/2019 16:03:04 stopped Loading interchange object.
+12/08/2019 16:03:04 Quote processing started.
+12/08/2019 16:03:04 Quote processing started for refno: EN-19-010837
+12/08/2019 16:03:06 Filling Quotation.
+12/08/2019 16:03:07 Header details saved.
+12/08/2019 16:03:14 Filling items.
+12/08/2019 16:03:18 Updating item 2
+12/08/2019 16:05:45 ================12/08/2019 16:05:45================
+12/08/2019 16:05:45 ArcMarine HTTP processor started
+12/08/2019 16:05:45 ArcMarine Processor Started.
+12/08/2019 16:05:45 No files found.
+12/08/2019 16:05:45 
+12/08/2019 16:05:45 Started Loading interchange object.
+12/08/2019 16:05:45 stopped Loading interchange object.
+12/08/2019 16:05:45 Quote processing started.
+12/08/2019 16:05:45 Quote processing started for refno: EN-19-010837
+12/08/2019 16:05:47 Filling Quotation.
+12/08/2019 16:05:48 Header details saved.
+12/08/2019 16:05:51 Filling items.
+12/08/2019 16:05:57 Updating item 2
+12/08/2019 16:06:14 Updating item 3
+12/08/2019 16:06:15 Updating item 4
+12/08/2019 16:06:16 Updating item 5
+12/08/2019 16:06:18 Updating item 8
+12/08/2019 16:06:19 Updating item 11
+12/08/2019 16:06:21 Updating item 12
+12/08/2019 16:06:22 Updating item 13
+12/08/2019 16:06:23 Updating item 15
+12/08/2019 16:06:25 Updating item 18
+12/08/2019 16:06:26 Updating item 19
+12/08/2019 16:06:28 Updating item 20
+12/08/2019 16:06:29 Updating item 21
+12/08/2019 16:06:31 Updating item 25
+12/08/2019 16:06:32 Updating item 26
+12/08/2019 16:06:34 Updating item 28
+12/08/2019 16:06:35 Updating item 30
+12/08/2019 16:06:36 Updating item 31
+12/08/2019 16:06:38 Updating item 32
+12/08/2019 16:06:39 Updating item 33
+12/08/2019 16:06:40 Updating item 34
+12/08/2019 16:06:42 Updating item 36
+12/08/2019 16:06:43 Updating item 37
+12/08/2019 16:06:44 Updating item 38
+12/08/2019 16:06:45 Updating item 39
+12/08/2019 16:06:47 Updating item 43
+12/08/2019 16:06:48 Updating item 46
+12/08/2019 16:06:49 Updating item 48
+12/08/2019 16:06:51 Updating item 49
+12/08/2019 16:06:52 Updating item 51
+12/08/2019 16:06:53 Updating item 54
+12/08/2019 16:06:55 Updating item 56
+12/08/2019 16:06:56 Updating item 57
+12/08/2019 16:06:57 Updating item 60
+12/08/2019 16:06:59 Updating item 61
+12/08/2019 16:07:01 Updating item 63
+12/08/2019 16:07:02 Updating item 65
+12/08/2019 16:07:04 Updating item 66
+12/08/2019 16:07:05 Updating item 67
+12/08/2019 16:07:06 Updating item 69
+12/08/2019 16:07:08 Updating item 72
+12/08/2019 16:07:09 Updating item 74
+12/08/2019 16:07:10 Updating item 75
+12/08/2019 16:07:12 Updating item 77
+12/08/2019 16:07:13 Updating item 78
+12/08/2019 16:07:14 Updating item 80
+12/08/2019 16:07:15 Updating item 81
+12/08/2019 16:07:17 Updating item 82
+12/08/2019 16:07:18 Updating item 83
+12/08/2019 16:07:19 Updating item 84
+12/08/2019 16:07:21 Updating item 85
+12/08/2019 16:07:22 Updating item 86
+12/08/2019 16:07:23 Updating item 88
+12/08/2019 16:07:25 Updating item 89
+12/08/2019 16:07:26 Updating item 90
+12/08/2019 16:07:27 Updating item 91
+12/08/2019 16:07:28 Updating item 92
+12/08/2019 16:07:30 Updating item 93
+12/08/2019 16:07:31 Updating item 94
+12/08/2019 16:07:32 Updating item 96
+12/08/2019 16:07:34 Updating item 97
+12/08/2019 16:07:35 Updating item 98
+12/08/2019 16:07:37 Updating item 99
+12/08/2019 16:07:38 Updating item 101
+12/08/2019 16:07:39 Updating item 103
+12/08/2019 16:07:41 Updating item 106
+12/08/2019 16:07:42 Updating item 109
+12/08/2019 16:07:43 Updating item 110
+12/08/2019 16:07:45 Updating item 112
+12/08/2019 16:07:46 Updating item 117
+12/08/2019 16:07:47 Updating item 118
+12/08/2019 16:07:49 Updating item 119
+12/08/2019 16:07:50 Updating item 120
+12/08/2019 16:07:51 Updating item 121
+12/08/2019 16:07:53 Updating item 127
+12/08/2019 16:07:54 Updating item 128
+12/08/2019 16:07:55 Updating item 130
+12/08/2019 16:07:57 Updating item 131
+12/08/2019 16:07:58 Updating item 132
+12/08/2019 16:08:17 Exception while filling items: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+12/08/2019 16:08:17 Unable to save item details for ref no: EN-19-010837, startIndex cannot be larger than length of string.
+Parameter name: startIndex
+12/08/2019 16:08:21 ArcMarine HTTP processor stopped
+12/08/2019 16:08:21 ====================================================
+12/08/2019 16:08:21 
+12/08/2019 16:09:01 ================12/08/2019 16:09:01================
+12/08/2019 16:09:01 ArcMarine HTTP processor started
+12/08/2019 16:09:01 ArcMarine Processor Started.
+12/08/2019 16:09:01 No files found.
+12/08/2019 16:09:01 
+12/08/2019 16:09:01 Started Loading interchange object.
+12/08/2019 16:09:01 stopped Loading interchange object.
+12/08/2019 16:09:01 Quote processing started.
+12/08/2019 16:09:01 Quote processing started for refno: EN-19-010837
+12/08/2019 16:09:03 Filling Quotation.
+12/08/2019 16:09:04 Header details saved.
+12/08/2019 16:09:07 Filling items.
+12/08/2019 16:09:08 Updating item 2
+12/08/2019 16:09:10 Updating item 3
+12/08/2019 16:09:13 Updating item 4
+12/08/2019 16:09:14 Updating item 5
+12/08/2019 16:09:16 Updating item 8
+12/08/2019 16:09:17 Updating item 11
+12/08/2019 16:09:19 Updating item 12
+12/08/2019 16:09:20 Updating item 13
+12/08/2019 16:09:21 Updating item 15
+12/08/2019 16:09:23 Updating item 18
+12/08/2019 16:09:24 Updating item 19
+12/08/2019 16:09:26 Updating item 20
+12/08/2019 16:09:27 Updating item 21
+12/08/2019 16:09:28 Updating item 25
+12/08/2019 16:09:30 Updating item 26
+12/08/2019 16:09:31 Updating item 28
+12/08/2019 16:09:33 Updating item 30
+12/08/2019 16:09:34 Updating item 31
+12/08/2019 16:09:35 Updating item 32
+12/08/2019 16:09:37 Updating item 33
+12/08/2019 16:09:38 Updating item 34
+12/08/2019 16:09:39 Updating item 36
+12/08/2019 16:09:41 Updating item 37
+12/08/2019 16:09:42 Updating item 38
+12/08/2019 16:09:43 Updating item 39
+12/08/2019 16:09:45 Updating item 43
+12/08/2019 16:09:46 Updating item 46
+12/08/2019 16:09:47 Updating item 48
+12/08/2019 16:09:49 Updating item 49
+12/08/2019 16:09:50 Updating item 51
+12/08/2019 16:09:52 Updating item 54
+12/08/2019 16:09:53 Updating item 56
+12/08/2019 16:09:54 Updating item 57
+12/08/2019 16:09:56 Updating item 60
+12/08/2019 16:09:57 Updating item 61
+12/08/2019 16:09:58 Updating item 63
+12/08/2019 16:10:00 Updating item 65
+12/08/2019 16:10:01 Updating item 66
+12/08/2019 16:10:02 Updating item 67
+12/08/2019 16:10:04 Updating item 69
+12/08/2019 16:10:05 Updating item 72
+12/08/2019 16:10:06 Updating item 74
+12/08/2019 16:10:08 Updating item 75
+12/08/2019 16:10:09 Updating item 77
+12/08/2019 16:11:16 ================12/08/2019 16:11:16================
+12/08/2019 16:11:16 ArcMarine HTTP processor started
+12/08/2019 16:11:16 ArcMarine Processor Started.
+12/08/2019 16:11:16 No files found.
+12/08/2019 16:11:16 
+12/08/2019 16:11:16 Started Loading interchange object.
+12/08/2019 16:11:16 stopped Loading interchange object.
+12/08/2019 16:11:16 Quote processing started.
+12/08/2019 16:11:16 Quote processing started for refno: EN-19-010837
+12/08/2019 16:11:18 Filling Quotation.
+12/08/2019 16:11:19 Header details saved.
+12/08/2019 16:11:21 Filling items.
+12/08/2019 16:11:23 Updating item 2
+12/08/2019 16:11:28 Updating item 3
+12/08/2019 16:11:29 Updating item 4
+12/08/2019 16:11:31 Updating item 5
+12/08/2019 16:11:32 Updating item 8
+12/08/2019 16:11:34 Updating item 11
+12/08/2019 16:11:35 Updating item 12
+12/08/2019 16:11:37 Updating item 13
+12/08/2019 16:11:38 Updating item 15
+12/08/2019 16:11:39 Updating item 18
+12/08/2019 16:11:41 Updating item 19
+12/08/2019 16:11:42 Updating item 20
+12/08/2019 16:11:44 Updating item 21
+12/08/2019 16:18:22 ================12/08/2019 16:18:22================
+12/08/2019 16:18:22 ArcMarine HTTP processor started
+12/08/2019 16:18:22 ArcMarine Processor Started.
+12/08/2019 16:18:22 No files found.
+12/08/2019 16:18:22 
+12/08/2019 16:18:22 Started Loading interchange object.
+12/08/2019 16:18:22 stopped Loading interchange object.
+12/08/2019 16:18:22 Quote processing started.
+12/08/2019 16:18:22 Quote processing started for refno: EN-19-010837
+12/08/2019 16:18:33 Filling Quotation.
+12/08/2019 16:18:42 Header details saved.
+12/08/2019 16:18:45 Filling items.
+12/08/2019 16:19:01 Updating item 7
+12/08/2019 16:19:47 ================12/08/2019 16:19:47================
+12/08/2019 16:19:47 ArcMarine HTTP processor started
+12/08/2019 16:19:47 ArcMarine Processor Started.
+12/08/2019 16:19:47 No files found.
+12/08/2019 16:19:47 
+12/08/2019 16:19:47 Started Loading interchange object.
+12/08/2019 16:19:47 stopped Loading interchange object.
+12/08/2019 16:19:47 Quote processing started.
+12/08/2019 16:19:47 Quote processing started for refno: EN-19-010837
+12/08/2019 16:20:11 Filling Quotation.
+12/08/2019 16:20:27 Header details saved.
+12/08/2019 16:20:30 Filling items.
+12/08/2019 16:21:17 Updating item 7
+12/08/2019 16:23:18 ================12/08/2019 16:23:18================
+12/08/2019 16:23:18 ArcMarine HTTP processor started
+12/08/2019 16:23:18 ArcMarine Processor Started.
+12/08/2019 16:23:18 No files found.
+12/08/2019 16:23:18 
+12/08/2019 16:23:18 Started Loading interchange object.
+12/08/2019 16:23:18 stopped Loading interchange object.
+12/08/2019 16:23:18 Quote processing started.
+12/08/2019 16:23:18 Quote processing started for refno: EN-19-010837
+12/08/2019 16:23:37 Filling Quotation.
+12/08/2019 16:23:52 Header details saved.
+12/08/2019 16:23:54 Filling items.
+12/08/2019 16:24:07 Updating item 7
+12/08/2019 16:24:39 ================12/08/2019 16:24:39================
+12/08/2019 16:24:39 ArcMarine HTTP processor started
+12/08/2019 16:24:39 ArcMarine Processor Started.
+12/08/2019 16:24:39 No files found.
+12/08/2019 16:24:39 
+12/08/2019 16:24:39 Started Loading interchange object.
+12/08/2019 16:24:39 stopped Loading interchange object.
+12/08/2019 16:24:39 Quote processing started.
+12/08/2019 16:24:39 Quote processing started for refno: EN-19-010837
+12/08/2019 16:24:51 Filling Quotation.
+12/08/2019 16:25:07 Header details saved.
+12/08/2019 16:26:29 ================12/08/2019 16:26:29================
+12/08/2019 16:26:29 ArcMarine HTTP processor started
+12/08/2019 16:26:29 ArcMarine Processor Started.
+12/08/2019 16:26:29 No files found.
+12/08/2019 16:26:29 
+12/08/2019 16:26:29 Started Loading interchange object.
+12/08/2019 16:26:29 stopped Loading interchange object.
+12/08/2019 16:26:29 Quote processing started.
+12/08/2019 16:26:29 Quote processing started for refno: EN-19-010837
+12/08/2019 16:26:32 Filling Quotation.
+12/08/2019 16:26:35 Header details saved.

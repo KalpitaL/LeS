@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="20003894" Identifier="UNOC" Recipient="SM0803_WEB" Sender="V11920" PreparationDate="2020-May-04" PreparationTime="16:36" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="2" LesGroupID="3767" LesRecordID="12070866" LesLinkID="104548" ParentRecordID="12069404" MTML_DOCID="073B5D36-6F33-4A85-A84F-4572AB5FA760">
+    <Quote MessageReferenceNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=C76186C3-4D8C-EA11-80EB-06ABAD61BE97&amp;STOCKTYPE=BONDED_STORE" MessageNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=C76186C3-4D8C-EA11-80EB-06ABAD61BE97&amp;STOCKTYPE=BONDED_STORES" LineItemCount="6" VersionNumber="" CurrencyCode="EUR" LeadTimeDays="1" BuyerRefNo="EN-20-005169" OriginalFile="QUOTE_EN-20-005169_200502_16483053.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="2" BuyerItemTotal="1631.72" BuyerQuoteTotal="1631.72">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202005041636" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="202005040000" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202006020000" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="EN-20-005169" />
+      <Reference Qualifier="AAG" ReferenceNumber="20003894" />
+      <Party Qualifier="BY" Name="Arc Marine PTE Ltd">
+        <Contact Name="AKSHAY SHIPANKAR">
+          <CommunicationMethod Qualifier="TE" Number="68422822" />
+          <CommunicationMethod Qualifier="EM" Number="arcmum4@arcmarine.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="GIMAS SHIP SUPPLY &amp;amp; SERVICES B.V.">
+        <Contact>
+          <CommunicationMethod Qualifier="TE" Number="31103027820 31615286575" />
+          <CommunicationMethod Qualifier="EM" Number="rotterdam@gimas.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+        <StreetAddress>-</StreetAddress>
+      </Party>
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Cigarettes L &amp; M Blue | " MeasureUnitQualifier="CTN" Quantity="50" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="1" MonetaryAmount="641.50" Identification="Bond_1" DeliveryTime="1" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="CTN" Supp_UOM="CTN" Supp_Price="12.83" BuyerItemTotal="641.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.83" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.83" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Cigarettes L &amp; M Red | " MeasureUnitQualifier="CTN" Quantity="50" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="2" MonetaryAmount="641.50" Identification="Bond_2" DeliveryTime="1" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="CTN" Supp_UOM="CTN" Supp_Price="12.83" BuyerItemTotal="641.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.83" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.83" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="Planters Mixed nuts | " MeasureUnitQualifier="TINS" Quantity="18" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="3" MonetaryAmount="59.40" Identification="Bond_3" DeliveryTime="1" IsExtraItem="0" ItemStatus="Original" Byr_Qty="18" Supp_Qty="18" Byr_UOM="TINS" Supp_UOM="TINS" Supp_Price="3.3" BuyerItemTotal="59.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.3" />
+        <Comments Qualifier="LIN">
+          <value>PINAR BRAND</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="Planters Peanuts | " MeasureUnitQualifier="TINS" Quantity="18" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="4" MonetaryAmount="40.32" Identification="Bond_4" DeliveryTime="1" IsExtraItem="0" ItemStatus="Original" Byr_Qty="18" Supp_Qty="18" Byr_UOM="TINS" Supp_UOM="TINS" Supp_Price="2.24" BuyerItemTotal="40.32" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.24" />
+        <Comments Qualifier="LIN">
+          <value>PINAR BRAND</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="Cocacola | " MeasureUnitQualifier="CASE" Quantity="12" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="5" MonetaryAmount="125.16" Identification="Bond_5" DeliveryTime="1" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="CASE" Supp_UOM="CASE" Supp_Price="10.43" BuyerItemTotal="125.16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.43" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="Mineral water | " MeasureUnitQualifier="CASE" Quantity="24" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="6" MonetaryAmount="123.84" Identification="Bond_6" DeliveryTime="1" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="CASE" Supp_UOM="CASE" Supp_Price="5.16" BuyerItemTotal="123.84" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.16" />
+        <Comments Qualifier="LIN">
+          <value>MINERAL WATER SPARKLING KIZILAY 24X200ML</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1631.720" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1631.720" />
+      <MonetaryAmount Qualifier="_90" Value="1631.720" />
+      <MonetaryAmount Qualifier="_91" Value="1631.720" />
+    </Quote>
+  </Interchange>
+</MTML>

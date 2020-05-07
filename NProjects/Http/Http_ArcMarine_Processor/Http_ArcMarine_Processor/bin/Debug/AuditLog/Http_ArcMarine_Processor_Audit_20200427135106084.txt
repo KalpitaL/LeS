@@ -1,0 +1,1 @@
+||ArcMarine_Http_RFQ|15000332_200426_210904598.txt||Error|20-04-27 13:51 : Unable to process link file '15000332_200426_210904598.txt'. Error - The remote name could not be resolved: 'apps2.southnests.com'||LeS_242|||Http_ArcMarine_Processor

@@ -1,0 +1,209 @@
+17/07/2019 15:55:00 ================17/07/2019 15:55:00================
+17/07/2019 15:55:00 ArcMarine HTTP processor started
+17/07/2019 15:55:00 ArcMarine Processor Started.
+17/07/2019 15:55:00 No files found.
+17/07/2019 15:55:00 
+17/07/2019 15:55:00 Started Loading interchange object.
+17/07/2019 15:55:00 stopped Loading interchange object.
+17/07/2019 15:55:00 Quote processing started.
+17/07/2019 15:55:00 Quote processing started for refno: EN-19-009703
+17/07/2019 15:55:03 Filling Quotation.
+17/07/2019 16:26:50 Header details saved.
+17/07/2019 16:26:58 Filling items.
+17/07/2019 16:43:35 Updating item 2
+17/07/2019 16:46:03 ================17/07/2019 16:46:03================
+17/07/2019 16:46:03 ArcMarine HTTP processor started
+17/07/2019 16:46:03 ArcMarine Processor Started.
+17/07/2019 16:46:03 No files found.
+17/07/2019 16:46:03 
+17/07/2019 16:46:03 Started Loading interchange object.
+17/07/2019 16:46:03 stopped Loading interchange object.
+17/07/2019 16:46:03 Quote processing started.
+17/07/2019 16:46:03 Quote processing started for refno: EN-19-009703
+17/07/2019 16:46:07 Filling Quotation.
+17/07/2019 16:46:11 Header details saved.
+17/07/2019 16:46:15 Filling items.
+17/07/2019 16:47:12 Updating item 2
+17/07/2019 16:48:46 Updating item 3
+17/07/2019 16:49:11 Updating item 5
+17/07/2019 16:49:16 Updating item 6
+17/07/2019 16:49:22 Updating item 7
+17/07/2019 16:49:28 Updating item 8
+17/07/2019 16:49:34 Updating item 9
+17/07/2019 16:49:40 Updating item 10
+17/07/2019 16:52:16 Updating item 11
+17/07/2019 16:52:23 Updating item 12
+17/07/2019 16:52:28 Updating item 13
+17/07/2019 16:52:34 Updating item 14
+17/07/2019 16:52:40 Updating item 18
+17/07/2019 16:52:45 Updating item 19
+17/07/2019 16:52:50 Updating item 20
+17/07/2019 16:52:55 Updating item 21
+17/07/2019 16:53:00 Updating item 22
+17/07/2019 16:53:07 Updating item 23
+17/07/2019 16:53:13 Updating item 24
+17/07/2019 16:53:18 Updating item 25
+17/07/2019 16:53:23 Updating item 26
+17/07/2019 16:53:28 Updating item 27
+17/07/2019 16:53:33 Updating item 28
+17/07/2019 16:53:38 Updating item 29
+17/07/2019 16:53:43 Updating item 30
+17/07/2019 16:53:47 Updating item 32
+17/07/2019 16:53:52 Unable to update item 33; Item Price is zero.
+17/07/2019 16:53:57 Exception while filling items: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+17/07/2019 16:53:57 Unable to save item details for ref no: EN-19-009703, startIndex cannot be larger than length of string.
+Parameter name: startIndex
+17/07/2019 16:54:00 ArcMarine HTTP processor stopped
+17/07/2019 16:54:00 ====================================================
+17/07/2019 16:54:00 
+17/07/2019 16:54:26 ================17/07/2019 16:54:26================
+17/07/2019 16:54:26 ArcMarine HTTP processor started
+17/07/2019 16:54:26 ArcMarine Processor Started.
+17/07/2019 16:54:26 No files found.
+17/07/2019 16:54:26 
+17/07/2019 16:54:26 Started Loading interchange object.
+17/07/2019 16:54:26 stopped Loading interchange object.
+17/07/2019 16:54:26 Quote processing started.
+17/07/2019 16:54:26 Quote processing started for refno: EN-19-009703
+17/07/2019 16:54:29 Filling Quotation.
+17/07/2019 16:54:34 Header details saved.
+17/07/2019 16:54:37 Filling items.
+17/07/2019 16:54:41 Updating item 2
+17/07/2019 16:54:45 Updating item 3
+17/07/2019 16:54:50 Updating item 5
+17/07/2019 16:54:55 Updating item 6
+17/07/2019 16:54:56 Exception while filling items: Unable to edit item row 6
+17/07/2019 16:54:56 Unable to save item details for ref no: EN-19-009703, Unable to edit item row 6
+17/07/2019 16:54:59 ArcMarine HTTP processor stopped
+17/07/2019 16:54:59 ====================================================
+17/07/2019 16:54:59 
+17/07/2019 16:57:47 ================17/07/2019 16:57:47================
+17/07/2019 16:57:47 ArcMarine HTTP processor started
+17/07/2019 16:57:47 ArcMarine Processor Started.
+17/07/2019 16:57:47 No files found.
+17/07/2019 16:57:47 
+17/07/2019 16:57:47 No quotes found.
+17/07/2019 16:57:47 ArcMarine HTTP processor stopped
+17/07/2019 16:57:47 ====================================================
+17/07/2019 16:57:47 
+17/07/2019 16:58:00 ================17/07/2019 16:58:00================
+17/07/2019 16:58:00 ArcMarine HTTP processor started
+17/07/2019 16:58:00 ArcMarine Processor Started.
+17/07/2019 16:58:00 No files found.
+17/07/2019 16:58:00 
+17/07/2019 16:58:00 Started Loading interchange object.
+17/07/2019 16:58:00 stopped Loading interchange object.
+17/07/2019 16:58:00 Quote processing started.
+17/07/2019 16:58:00 Quote processing started for refno: EN-19-009703
+17/07/2019 16:58:03 Filling Quotation.
+17/07/2019 16:58:08 Header details saved.
+17/07/2019 16:58:08 Filling items.
+17/07/2019 16:58:09 Updating item 2
+17/07/2019 16:58:13 Updating item 3
+17/07/2019 16:58:18 Updating item 5
+17/07/2019 16:58:23 Updating item 6
+17/07/2019 16:58:27 Updating item 7
+17/07/2019 16:58:32 Updating item 8
+17/07/2019 16:58:36 Updating item 9
+17/07/2019 16:58:41 Updating item 10
+17/07/2019 16:58:46 Updating item 11
+17/07/2019 16:58:54 Updating item 12
+17/07/2019 16:59:01 Updating item 13
+17/07/2019 16:59:06 Updating item 14
+17/07/2019 16:59:10 Updating item 18
+17/07/2019 16:59:15 Updating item 19
+17/07/2019 16:59:20 Updating item 20
+17/07/2019 16:59:24 Updating item 21
+17/07/2019 16:59:29 Updating item 22
+17/07/2019 16:59:34 Updating item 23
+17/07/2019 16:59:39 Updating item 24
+17/07/2019 16:59:44 Updating item 25
+17/07/2019 16:59:48 Updating item 26
+17/07/2019 16:59:54 Updating item 27
+17/07/2019 16:59:58 Updating item 28
+17/07/2019 17:00:03 Updating item 29
+17/07/2019 17:00:08 Updating item 30
+17/07/2019 17:00:15 Updating item 32
+17/07/2019 17:00:42 Unable to update item 33; Item Price is zero.
+17/07/2019 17:01:09 Exception while filling items: startIndex cannot be larger than length of string.
+Parameter name: startIndex
+17/07/2019 17:01:09 Unable to save item details for ref no: EN-19-009703, startIndex cannot be larger than length of string.
+Parameter name: startIndex
+17/07/2019 17:01:11 ArcMarine HTTP processor stopped
+17/07/2019 17:01:11 ====================================================
+17/07/2019 17:01:11 
+17/07/2019 17:01:45 ================17/07/2019 17:01:45================
+17/07/2019 17:01:45 ArcMarine HTTP processor started
+17/07/2019 17:01:45 ArcMarine Processor Started.
+17/07/2019 17:01:45 No files found.
+17/07/2019 17:01:45 
+17/07/2019 17:01:45 No quotes found.
+17/07/2019 17:01:45 ArcMarine HTTP processor stopped
+17/07/2019 17:01:45 ====================================================
+17/07/2019 17:01:45 
+17/07/2019 17:01:54 ================17/07/2019 17:01:54================
+17/07/2019 17:01:54 ArcMarine HTTP processor started
+17/07/2019 17:01:54 ArcMarine Processor Started.
+17/07/2019 17:01:54 No files found.
+17/07/2019 17:01:54 
+17/07/2019 17:01:54 Started Loading interchange object.
+17/07/2019 17:01:54 stopped Loading interchange object.
+17/07/2019 17:01:54 Quote processing started.
+17/07/2019 17:01:54 Quote processing started for refno: EN-19-009703
+17/07/2019 17:01:57 Filling Quotation.
+17/07/2019 17:01:58 Header details saved.
+17/07/2019 17:01:58 Filling items.
+17/07/2019 17:02:43 Updating item 56
+17/07/2019 17:03:54 ================17/07/2019 17:03:54================
+17/07/2019 17:03:54 ArcMarine HTTP processor started
+17/07/2019 17:03:54 ArcMarine Processor Started.
+17/07/2019 17:03:54 No files found.
+17/07/2019 17:03:54 
+17/07/2019 17:03:54 Started Loading interchange object.
+17/07/2019 17:03:54 stopped Loading interchange object.
+17/07/2019 17:03:54 Quote processing started.
+17/07/2019 17:03:54 Quote processing started for refno: EN-19-009703
+17/07/2019 17:03:56 Filling Quotation.
+17/07/2019 17:03:58 Header details saved.
+17/07/2019 17:03:58 Filling items.
+17/07/2019 17:04:16 Updating item 56
+17/07/2019 17:06:51 ================17/07/2019 17:06:51================
+17/07/2019 17:06:51 ArcMarine HTTP processor started
+17/07/2019 17:06:51 ArcMarine Processor Started.
+17/07/2019 17:06:51 No files found.
+17/07/2019 17:06:51 
+17/07/2019 17:06:51 Started Loading interchange object.
+17/07/2019 17:06:51 stopped Loading interchange object.
+17/07/2019 17:06:51 Quote processing started.
+17/07/2019 17:06:51 Quote processing started for refno: EN-19-009703
+17/07/2019 17:06:53 Filling Quotation.
+17/07/2019 17:06:55 Header details saved.
+17/07/2019 17:06:55 Filling items.
+17/07/2019 17:07:04 Updating item 56
+17/07/2019 18:01:56 ================17/07/2019 18:01:56================
+17/07/2019 18:01:56 ArcMarine HTTP processor started
+17/07/2019 18:01:56 ArcMarine Processor Started.
+17/07/2019 18:01:56 No files found.
+17/07/2019 18:01:56 
+17/07/2019 18:01:56 Started Loading interchange object.
+17/07/2019 18:01:56 stopped Loading interchange object.
+17/07/2019 18:01:56 Quote processing started.
+17/07/2019 18:01:56 Quote processing started for refno: EN-19-009703
+17/07/2019 18:01:59 Filling Quotation.
+17/07/2019 18:02:01 Header details saved.
+17/07/2019 18:02:01 Filling items.
+17/07/2019 18:02:05 Updating item 56
+17/07/2019 18:02:59 ================17/07/2019 18:02:59================
+17/07/2019 18:02:59 ArcMarine HTTP processor started
+17/07/2019 18:02:59 ArcMarine Processor Started.
+17/07/2019 18:02:59 No files found.
+17/07/2019 18:02:59 
+17/07/2019 18:02:59 Started Loading interchange object.
+17/07/2019 18:02:59 stopped Loading interchange object.
+17/07/2019 18:02:59 Quote processing started.
+17/07/2019 18:02:59 Quote processing started for refno: EN-19-009703
+17/07/2019 18:03:02 Filling Quotation.
+17/07/2019 18:03:03 Header details saved.
+17/07/2019 18:03:03 Filling items.
+17/07/2019 18:03:09 Updating item 56

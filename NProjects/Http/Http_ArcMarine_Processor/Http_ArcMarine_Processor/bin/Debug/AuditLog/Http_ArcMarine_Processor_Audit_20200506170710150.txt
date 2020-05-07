@@ -1,0 +1,1 @@
+||Arc_Http_Quote|ArcMarine_QuoteError_20200506170655.png|EN-20-005319|Error|20-05-06 17:07 : Unable to save item details for ref no: EN-20-005319, An existing connection was forcibly closed by the remote host||LeS_242|SM0803_WEB|V11920|Http_ArcMarine_Processor

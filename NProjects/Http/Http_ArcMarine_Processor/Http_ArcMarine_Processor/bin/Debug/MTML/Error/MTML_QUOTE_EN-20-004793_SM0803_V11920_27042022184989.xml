@@ -1,0 +1,2037 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="MU/2704" Identifier="UNOC" Recipient="SM0803_WEB" Sender="V11920" PreparationDate="2020-Apr-27" PreparationTime="22:18" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="2" LesGroupID="3767" LesRecordID="12062539" LesLinkID="104548" ParentRecordID="12062157" MTML_DOCID="BF36F63D-3F0A-48A3-881F-04E556E52424">
+    <Quote MessageReferenceNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=CFB814EB-1D86-EA11-80EB-06ABAD61BE97&amp;STOCKTYPE=PROVISIONS" MessageNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=CFB814EB-1D86-EA11-80EB-06ABAD61BE97&amp;STOCKTYPE=PROVISIONS" LineItemCount="206" VersionNumber="" CurrencyCode="EUR" LeadTimeDays="0" BuyerRefNo="EN-20-004793" OriginalFile="QUOTE_EN-20-004793_200427_19123411.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="2" BuyerItemTotal="10986.57" BuyerQuoteTotal="10986.57">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202004272218" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="EN-20-004793" />
+      <Reference Qualifier="AAG" ReferenceNumber="MU/2704" />
+      <Party Qualifier="BY" Name="Arc Marine PTE Ltd">
+        <Contact Name="POOJA DORNALA">
+          <CommunicationMethod Qualifier="TE" Number="68422822" />
+          <CommunicationMethod Qualifier="EM" Number="arcmum5@arcmarine.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="GIMAS SHIP SUPPLY &amp;amp; SERVICES B.V.">
+        <Contact>
+          <CommunicationMethod Qualifier="TE" Number="31103027820 31615286575" />
+          <CommunicationMethod Qualifier="EM" Number="rotterdam@gimas.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+        <StreetAddress>-</StreetAddress>
+      </Party>
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="ALMOND WITHOUT SHELL | " MeasureUnitQualifier="KG" Quantity="2" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="1" MonetaryAmount="27.76" Identification="1" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="13.88" BuyerItemTotal="27.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="13.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="13.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="APPLES RED | " MeasureUnitQualifier="KG" Quantity="40" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="2" MonetaryAmount="45.20" Identification="2" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="40" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.13" BuyerItemTotal="45.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="BAKING POWDER | " MeasureUnitQualifier="PKT" Quantity="2" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="3" MonetaryAmount="4.02" Identification="3" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="2.01" BuyerItemTotal="4.02" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.01" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.01" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="BANANA HALF RIPE | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="4" MonetaryAmount="22.60" Identification="4" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.13" BuyerItemTotal="22.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="BEAN KIDNEY(RAJMA) | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="5" MonetaryAmount="29.10" Identification="5" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="2.91" BuyerItemTotal="29.1" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.91" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.91" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="BITTER GOURD (KARELA) | " MeasureUnitQualifier="KG" Quantity="5" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="6" MonetaryAmount="0.00" Identification="6" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>N/A</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="BLACK CHANNA | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="7" MonetaryAmount="30.60" Identification="7" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.06" BuyerItemTotal="30.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.06" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="BREAD BUN | " MeasureUnitQualifier="PCE" Quantity="300" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="8" MonetaryAmount="54.00" Identification="8" IsExtraItem="0" ItemStatus="Original" Byr_Qty="300" Supp_Qty="300" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="0.18" BuyerItemTotal="54" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.18" />
+        <Comments Qualifier="LIN">
+          <value>48S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="BREAD CRUMBS | " MeasureUnitQualifier="KG" Quantity="2" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="9" MonetaryAmount="3.46" Identification="9" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.73" BuyerItemTotal="3.46" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.73" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.73" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="BREAD SLICED | " MeasureUnitQualifier="PKT" Quantity="100" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="10" MonetaryAmount="145.00" Identification="10" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.45" BuyerItemTotal="145" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.45" />
+        <Comments Qualifier="LIN">
+          <value>12S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="BRINJAL | " MeasureUnitQualifier="KG" Quantity="12" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="11" MonetaryAmount="16.20" Identification="11" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.35" BuyerItemTotal="16.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.35" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="BUTTER FRESH | " MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="12" SystemItemNo="12" MonetaryAmount="63.80" Identification="12" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="3.19" BuyerItemTotal="63.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.19" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.19" />
+        <Comments Qualifier="LIN">
+          <value>10KG/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="CARROTS | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="13" SystemItemNo="13" MonetaryAmount="5.70" Identification="13" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="0.38" BuyerItemTotal="5.7" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.38" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="CASHEW NUTS | " MeasureUnitQualifier="KG" Quantity="2" TypeCode="BP" OriginatingSystemRef="14" SystemItemNo="14" MonetaryAmount="23.86" Identification="14" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="11.93" BuyerItemTotal="23.86" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.93" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.93" />
+        <Comments Qualifier="LIN">
+          <value>UNROASTED</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="CAULIFLOWER | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="15" SystemItemNo="15" MonetaryAmount="22.50" Identification="15" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.5" BuyerItemTotal="22.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="CHAT MASALA | " MeasureUnitQualifier="KG" Quantity="6" TypeCode="BP" OriginatingSystemRef="16" SystemItemNo="16" MonetaryAmount="11.28" Identification="16" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.88" BuyerItemTotal="11.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.88" />
+        <Comments Qualifier="LIN">
+          <value>100GR PKT PRICE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="CHEESE SLICED | " MeasureUnitQualifier="PKT" Quantity="16" TypeCode="BP" OriginatingSystemRef="17" SystemItemNo="17" MonetaryAmount="19.52" Identification="17" IsExtraItem="0" ItemStatus="Original" Byr_Qty="16" Supp_Qty="16" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.22" BuyerItemTotal="19.52" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.22" />
+        <Comments Qualifier="LIN">
+          <value>18S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="CHICKEN MINCE | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="18" SystemItemNo="18" MonetaryAmount="0.00" Identification="18" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>N/A</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="CHICKEN SAUSAGES | " MeasureUnitQualifier="PKT" Quantity="10" TypeCode="BP" OriginatingSystemRef="19" SystemItemNo="19" MonetaryAmount="37.50" Identification="19" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="3.75" BuyerItemTotal="37.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.75" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="CHICKEN WHOLE | " MeasureUnitQualifier="KG" Quantity="180" TypeCode="BP" OriginatingSystemRef="20" SystemItemNo="20" MonetaryAmount="419.40" Identification="20" IsExtraItem="0" ItemStatus="Original" Byr_Qty="180" Supp_Qty="180" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="2.33" BuyerItemTotal="419.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.33" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.33" />
+        <Comments Qualifier="LIN">
+          <value>15KG/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="CINNAMOM POWDER | " MeasureUnitQualifier="KG" Quantity="1" TypeCode="BP" OriginatingSystemRef="21" SystemItemNo="21" MonetaryAmount="11.20" Identification="21" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="11.2" BuyerItemTotal="11.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="COCONUT DESSICATED | " MeasureUnitQualifier="KG" Quantity="5" TypeCode="BP" OriginatingSystemRef="22" SystemItemNo="22" MonetaryAmount="21.45" Identification="22" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="4.29" BuyerItemTotal="21.45" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.29" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="COCONUT FRESH | " MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="23" SystemItemNo="23" MonetaryAmount="5.88" Identification="23" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="0.98" BuyerItemTotal="5.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.98" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="COFFEE MATE | " MeasureUnitQualifier="BTL" Quantity="12" TypeCode="BP" OriginatingSystemRef="24" SystemItemNo="24" MonetaryAmount="17.52" Identification="24" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="1.46" BuyerItemTotal="17.52" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.46" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.46" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="COOKING OIL | " MeasureUnitQualifier="TIN" Quantity="80" TypeCode="BP" OriginatingSystemRef="25" SystemItemNo="25" MonetaryAmount="157.60" Identification="25" IsExtraItem="0" ItemStatus="Original" Byr_Qty="80" Supp_Qty="80" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="1.97" BuyerItemTotal="157.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.97" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.97" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="CORNFLAKES | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="26" SystemItemNo="26" MonetaryAmount="15.84" Identification="26" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.32" BuyerItemTotal="15.84" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.32" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="CORRIANDER LEAVES | " MeasureUnitQualifier="KG" Quantity="3" TypeCode="BP" OriginatingSystemRef="27" SystemItemNo="27" MonetaryAmount="20.25" Identification="27" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="6.75" BuyerItemTotal="20.25" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.75" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="CUCUMBER | " MeasureUnitQualifier="KG" Quantity="12" TypeCode="BP" OriginatingSystemRef="28" SystemItemNo="28" MonetaryAmount="13.56" Identification="28" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.13" BuyerItemTotal="13.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="CUMIN POWDER | " MeasureUnitQualifier="KG" Quantity="2" TypeCode="BP" OriginatingSystemRef="29" SystemItemNo="29" MonetaryAmount="14.94" Identification="29" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="7.47" BuyerItemTotal="14.94" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.47" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.47" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="CUMINSEED | " MeasureUnitQualifier="KG" Quantity="4" TypeCode="BP" OriginatingSystemRef="30" SystemItemNo="30" MonetaryAmount="29.28" Identification="30" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="7.32" BuyerItemTotal="29.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.32" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="CURRY LEAVES | " MeasureUnitQualifier="KG" Quantity="1" TypeCode="BP" OriginatingSystemRef="31" SystemItemNo="31" MonetaryAmount="0.00" Identification="31" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>N/A</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="32" Description="DAL MASOOR | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="32" SystemItemNo="32" MonetaryAmount="26.85" Identification="32" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.79" BuyerItemTotal="26.85" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.79" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.79" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="33" Description="DAL MOONG | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="33" SystemItemNo="33" MonetaryAmount="64.00" Identification="33" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.2" BuyerItemTotal="64" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="34" Description="DAL TOOR | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="34" SystemItemNo="34" MonetaryAmount="59.20" Identification="34" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="2.96" BuyerItemTotal="59.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.96" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.96" />
+        <Comments Qualifier="LIN">
+          <value>PLAIN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="35" Description="FISH FINGER | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="35" SystemItemNo="35" MonetaryAmount="30.90" Identification="35" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.09" BuyerItemTotal="30.9" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.09" />
+        <Comments Qualifier="LIN">
+          <value>5KG/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="36" Description="FISH KING | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="36" SystemItemNo="36" MonetaryAmount="97.60" Identification="36" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="4.88" BuyerItemTotal="97.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="37" Description="FISH MACKEREL | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="37" SystemItemNo="37" MonetaryAmount="18.00" Identification="37" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.8" BuyerItemTotal="18" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.8" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.8" />
+        <Comments Qualifier="LIN">
+          <value>20KG/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="38" Description="FISH POMFRET | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="38" SystemItemNo="38" MonetaryAmount="75.40" Identification="38" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.77" BuyerItemTotal="75.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.77" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.77" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="39" Description="FRENCH BEANS | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="39" SystemItemNo="39" MonetaryAmount="45.00" Identification="39" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="4.5" BuyerItemTotal="45" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="40" Description="FRESH LIMES/LEMONS | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="40" SystemItemNo="40" MonetaryAmount="45.00" Identification="40" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="2.25" BuyerItemTotal="45" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.25" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="41" Description="FROZEN FRENCH FRIES | " MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="41" SystemItemNo="41" MonetaryAmount="21.00" Identification="41" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="21" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="42" Description="FROZEN SPINACH | " MeasureUnitQualifier="PKT" Quantity="15" TypeCode="BP" OriginatingSystemRef="42" SystemItemNo="42" MonetaryAmount="21.60" Identification="42" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.44" BuyerItemTotal="21.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.44" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.44" />
+        <Comments Qualifier="LIN">
+          <value>10KG/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="43" Description="GARLIC WHOLE | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="43" SystemItemNo="43" MonetaryAmount="39.80" Identification="43" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.98" BuyerItemTotal="39.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.98" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="44" Description="GHEE | " MeasureUnitQualifier="KG" Quantity="2" TypeCode="BP" OriginatingSystemRef="44" SystemItemNo="44" MonetaryAmount="20.86" Identification="44" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="10.43" BuyerItemTotal="20.86" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.43" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="45" Description="GINGER WHOLE | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="45" SystemItemNo="45" MonetaryAmount="112.50" Identification="45" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="7.5" BuyerItemTotal="112.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="46" Description="GRAPE JUICE | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="46" SystemItemNo="46" MonetaryAmount="12.60" Identification="46" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="12.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>SOUR CHEERY JUICE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="47" Description="GRAPES SEEDLESS | " MeasureUnitQualifier="KG" Quantity="12" TypeCode="BP" OriginatingSystemRef="47" SystemItemNo="47" MonetaryAmount="31.56" Identification="47" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="2.63" BuyerItemTotal="31.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.63" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.63" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="48" Description="GULAB JAMUN TIN | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="48" SystemItemNo="48" MonetaryAmount="69.84" Identification="48" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="5.82" BuyerItemTotal="69.84" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.82" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.82" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="49" Description="HONEY | " MeasureUnitQualifier="BTL" Quantity="6" TypeCode="BP" OriginatingSystemRef="49" SystemItemNo="49" MonetaryAmount="14.16" Identification="49" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="2.36" BuyerItemTotal="14.16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.36" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.36" />
+        <Comments Qualifier="LIN">
+          <value>12S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="50" Description="JUICE APPLE | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="50" SystemItemNo="50" MonetaryAmount="12.60" Identification="50" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="12.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="51" Description="JUICE FRUIT COCKTAIL | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="51" SystemItemNo="51" MonetaryAmount="12.60" Identification="51" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="12.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="52" Description="JUICE MANGO | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="52" SystemItemNo="52" MonetaryAmount="14.16" Identification="52" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.59" BuyerItemTotal="14.16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.59" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.59" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="53" Description="JUICE ORANGE | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="53" SystemItemNo="53" MonetaryAmount="25.20" Identification="53" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="25.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="54" Description="JUICE PINEAPPLE | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="54" SystemItemNo="54" MonetaryAmount="12.60" Identification="54" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="12.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="55" Description="KELLOGS RICE KRISPIES | " MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="55" SystemItemNo="55" MonetaryAmount="11.28" Identification="55" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.88" BuyerItemTotal="11.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.88" />
+        <Comments Qualifier="LIN">
+          <value>16S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="56" Description="LETTUCE | " MeasureUnitQualifier="KG" Quantity="8" TypeCode="BP" OriginatingSystemRef="56" SystemItemNo="56" MonetaryAmount="13.20" Identification="56" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.65" BuyerItemTotal="13.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.65" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="57" Description="MAGGIE SEASONING | " MeasureUnitQualifier="PKT" Quantity="8" TypeCode="BP" OriginatingSystemRef="57" SystemItemNo="57" MonetaryAmount="8.40" Identification="57" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="8.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="58" Description="MASALA PAV BHAJI | " MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="58" SystemItemNo="58" MonetaryAmount="8.28" Identification="58" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.38" BuyerItemTotal="8.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.38" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="59" Description="MAYONNAISE | " MeasureUnitQualifier="BTL" Quantity="8" TypeCode="BP" OriginatingSystemRef="59" SystemItemNo="59" MonetaryAmount="11.76" Identification="59" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="1.47" BuyerItemTotal="11.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.47" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.47" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="60" Description="MILK COCONUT | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="60" SystemItemNo="60" MonetaryAmount="8.88" Identification="60" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="0.74" BuyerItemTotal="8.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.74" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="61" Description="MILK LONGLIFE 1LTR | " MeasureUnitQualifier="PKT" Quantity="200" TypeCode="BP" OriginatingSystemRef="61" SystemItemNo="61" MonetaryAmount="192.00" Identification="61" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="200" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.96" BuyerItemTotal="192" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.96" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.96" />
+        <Comments Qualifier="LIN">
+          <value>12S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="62" Description="MILK POWDER | " MeasureUnitQualifier="TIN" Quantity="6" TypeCode="BP" OriginatingSystemRef="62" SystemItemNo="62" MonetaryAmount="134.58" Identification="62" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="22.43" BuyerItemTotal="134.58" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="22.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="22.43" />
+        <Comments Qualifier="LIN">
+          <value>2,5KG/TIN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="63" Description="MILO | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="63" SystemItemNo="63" MonetaryAmount="52.20" Identification="63" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="4.35" BuyerItemTotal="52.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.35" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="64" Description="MIX DOSA | " MeasureUnitQualifier="PKT" Quantity="40" TypeCode="BP" OriginatingSystemRef="64" SystemItemNo="64" MonetaryAmount="52.80" Identification="64" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="40" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.32" BuyerItemTotal="52.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.32" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="65" Description="MIX IDLI | " MeasureUnitQualifier="PKT" Quantity="40" TypeCode="BP" OriginatingSystemRef="65" SystemItemNo="65" MonetaryAmount="52.80" Identification="65" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="40" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.32" BuyerItemTotal="52.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.32" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="66" Description="MIX VADA | " MeasureUnitQualifier="PKT" Quantity="40" TypeCode="BP" OriginatingSystemRef="66" SystemItemNo="66" MonetaryAmount="68.00" Identification="66" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="40" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.7" BuyerItemTotal="68" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.7" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.7" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="67" Description="MUSELI ALPEN | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="67" SystemItemNo="67" MonetaryAmount="29.52" Identification="67" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.23" BuyerItemTotal="29.52" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.23" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.23" />
+        <Comments Qualifier="LIN">
+          <value>1KG/PKT</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="68" Description="MUSTARD OIL | " MeasureUnitQualifier="LTR" Quantity="6" TypeCode="BP" OriginatingSystemRef="68" SystemItemNo="68" MonetaryAmount="24.60" Identification="68" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="LTR" Supp_UOM="LTR" Supp_Price="4.1" BuyerItemTotal="24.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="69" Description="MUTTON WHOLE LEG BONE | " MeasureUnitQualifier="KG" Quantity="40" TypeCode="BP" OriginatingSystemRef="69" SystemItemNo="69" MonetaryAmount="348.00" Identification="69" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="40" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="8.7" BuyerItemTotal="348" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.7" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.7" />
+        <Comments Qualifier="LIN">
+          <value>18KG/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="70" Description="NOODLES MAGGIE | " MeasureUnitQualifier="CTN" Quantity="3" TypeCode="BP" OriginatingSystemRef="70" SystemItemNo="70" MonetaryAmount="109.44" Identification="70" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="CTN" Supp_UOM="CTN" Supp_Price="36.48" BuyerItemTotal="109.44" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="36.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="36.48" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="71" Description="OKRA | " MeasureUnitQualifier="KG" Quantity="8" TypeCode="BP" OriginatingSystemRef="71" SystemItemNo="71" MonetaryAmount="17.68" Identification="71" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="2.21" BuyerItemTotal="17.68" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.21" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.21" />
+        <Comments Qualifier="LIN">
+          <value>FROZEN- 10KG/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="72" Description="ONIONS | " MeasureUnitQualifier="KG" Quantity="220" TypeCode="BP" OriginatingSystemRef="72" SystemItemNo="72" MonetaryAmount="112.20" Identification="72" IsExtraItem="0" ItemStatus="Original" Byr_Qty="220" Supp_Qty="220" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="0.51" BuyerItemTotal="112.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.51" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.51" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="73" Description="ORANGES | " MeasureUnitQualifier="KG" Quantity="40" TypeCode="BP" OriginatingSystemRef="73" SystemItemNo="73" MonetaryAmount="60.00" Identification="73" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="40" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.5" BuyerItemTotal="60" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="74" Description="PANEER | " MeasureUnitQualifier="KG" Quantity="6" TypeCode="BP" OriginatingSystemRef="74" SystemItemNo="74" MonetaryAmount="49.32" Identification="74" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="8.22" BuyerItemTotal="49.32" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.22" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="75" Description="PAPAYA | " MeasureUnitQualifier="KG" Quantity="12" TypeCode="BP" OriginatingSystemRef="75" SystemItemNo="75" MonetaryAmount="45.00" Identification="75" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.75" BuyerItemTotal="45" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.75" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="76" Description="PEANUT BUTTER | " MeasureUnitQualifier="BTL" Quantity="6" TypeCode="BP" OriginatingSystemRef="76" SystemItemNo="76" MonetaryAmount="7.38" Identification="76" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="1.23" BuyerItemTotal="7.38" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.23" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.23" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="77" Description="PEANUTS | " MeasureUnitQualifier="KG" Quantity="8" TypeCode="BP" OriginatingSystemRef="77" SystemItemNo="77" MonetaryAmount="36.64" Identification="77" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="4.58" BuyerItemTotal="36.64" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.58" />
+        <Comments Qualifier="LIN">
+          <value>UNROASTED</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="78" Description="PEARS | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="78" SystemItemNo="78" MonetaryAmount="22.50" Identification="78" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.5" BuyerItemTotal="22.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="79" Description="PEPPER POWDER | " MeasureUnitQualifier="KG" Quantity="1" TypeCode="BP" OriginatingSystemRef="79" SystemItemNo="79" MonetaryAmount="5.58" Identification="79" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="5.58" BuyerItemTotal="5.58" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.58" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="80" Description="PEPPER RED | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="80" SystemItemNo="80" MonetaryAmount="37.50" Identification="80" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.75" BuyerItemTotal="37.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.75" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="81" Description="PICKLE MIXED INDIAN | " MeasureUnitQualifier="BTL" Quantity="12" TypeCode="BP" OriginatingSystemRef="81" SystemItemNo="81" MonetaryAmount="34.92" Identification="81" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="2.91" BuyerItemTotal="34.92" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.91" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.91" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="82" Description="PIZZA BASE | " MeasureUnitQualifier="PCE" Quantity="24" TypeCode="BP" OriginatingSystemRef="82" SystemItemNo="82" MonetaryAmount="14.16" Identification="82" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="0.59" BuyerItemTotal="14.16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.59" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.59" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="83" Description="PORK CHOPS | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="83" SystemItemNo="83" MonetaryAmount="52.50" Identification="83" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="5.25" BuyerItemTotal="52.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.25" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="84" Description="POTATOES | " MeasureUnitQualifier="KG" Quantity="150" TypeCode="BP" OriginatingSystemRef="84" SystemItemNo="84" MonetaryAmount="45.00" Identification="84" IsExtraItem="0" ItemStatus="Original" Byr_Qty="150" Supp_Qty="150" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="0.3" BuyerItemTotal="45" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.3" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="85" Description="POWDER RASAM | " MeasureUnitQualifier="KG" Quantity="24" TypeCode="BP" OriginatingSystemRef="85" SystemItemNo="85" MonetaryAmount="38.64" Identification="85" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.61" BuyerItemTotal="38.64" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.61" />
+        <Comments Qualifier="LIN">
+          <value>100GR PKT PRICE - CHECK QTY</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="86" Description="POWDER SAMBAR | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="86" SystemItemNo="86" MonetaryAmount="63.84" Identification="86" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="2.66" BuyerItemTotal="63.84" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.66" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.66" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="109" Description="MINESTRONE SOUP | " MeasureUnitQualifier="TUB" Quantity="2" TypeCode="BP" OriginatingSystemRef="109" SystemItemNo="109" MonetaryAmount="57.94" Identification="109" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="TUB" Supp_UOM="TUB" Supp_Price="28.97" BuyerItemTotal="57.94" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="28.97" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="28.97" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="110" Description="PEACH IN SYRUP | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="110" SystemItemNo="110" MonetaryAmount="15.36" Identification="110" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="1.28" BuyerItemTotal="15.36" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.28" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="111" Description="GREEN CHILLY | " MeasureUnitQualifier="KG" Quantity="5" TypeCode="BP" OriginatingSystemRef="111" SystemItemNo="111" MonetaryAmount="15.00" Identification="111" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3" BuyerItemTotal="15" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="112" Description="BISCUIT GOODDAY | " MeasureUnitQualifier="PKT" Quantity="200" TypeCode="BP" OriginatingSystemRef="112" SystemItemNo="112" MonetaryAmount="258.00" Identification="112" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="200" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.29" BuyerItemTotal="258" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.29" />
+        <Comments Qualifier="LIN">
+          <value>DIFF BRAND-15S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="113" Description="BEASN CHANNA ATTA | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="113" SystemItemNo="113" MonetaryAmount="58.35" Identification="113" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.89" BuyerItemTotal="58.35" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.89" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.89" />
+        <Comments Qualifier="LIN">
+          <value>GRAM FLOUR</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="114" Description="BISCUIT - PARLE HIDE &amp; SEEK | " MeasureUnitQualifier="PKT" Quantity="100" TypeCode="BP" OriginatingSystemRef="114" SystemItemNo="114" MonetaryAmount="50.00" Identification="114" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.5" BuyerItemTotal="50" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.5" />
+        <Comments Qualifier="LIN">
+          <value>DIFF BRAND-24X92GR/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="115" Description="BISCUIT - PARLE MONACO | " MeasureUnitQualifier="PKT" Quantity="100" TypeCode="BP" OriginatingSystemRef="115" SystemItemNo="115" MonetaryAmount="50.00" Identification="115" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.5" BuyerItemTotal="50" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.5" />
+        <Comments Qualifier="LIN">
+          <value>DIFF BRAND 24X100GR/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="117" Description="BROCCOLI | " MeasureUnitQualifier="KG" Quantity="8" TypeCode="BP" OriginatingSystemRef="117" SystemItemNo="117" MonetaryAmount="36.00" Identification="117" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="4.5" BuyerItemTotal="36" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="118" Description="BLACK OLIVES | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="118" SystemItemNo="118" MonetaryAmount="45.00" Identification="118" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="3.75" BuyerItemTotal="45" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.75" />
+        <Comments Qualifier="LIN">
+          <value>10KG/TIN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="119" Description="BROWN BREAD | " MeasureUnitQualifier="LGH" Quantity="75" TypeCode="BP" OriginatingSystemRef="119" SystemItemNo="119" MonetaryAmount="111.00" Identification="119" IsExtraItem="0" ItemStatus="Original" Byr_Qty="75" Supp_Qty="75" Byr_UOM="LGH" Supp_UOM="LGH" Supp_Price="1.48" BuyerItemTotal="111" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.48" />
+        <Comments Qualifier="LIN">
+          <value>12S/BOX- SLICED</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="120" Description="CHEESE SPREAD | " MeasureUnitQualifier="TIN" Quantity="6" TypeCode="BP" OriginatingSystemRef="120" SystemItemNo="120" MonetaryAmount="10.44" Identification="120" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="1.74" BuyerItemTotal="10.44" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.74" />
+        <Comments Qualifier="LIN">
+          <value>12S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="121" Description="PLAIN CURD | " MeasureUnitQualifier="KG" Quantity="50" TypeCode="BP" OriginatingSystemRef="121" SystemItemNo="121" MonetaryAmount="324.00" Identification="121" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="6.48" BuyerItemTotal="324" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.48" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.48" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="123" Description="ASSTD BISCUITS - SWEET | " MeasureUnitQualifier="PKT" Quantity="50" TypeCode="BP" OriginatingSystemRef="123" SystemItemNo="123" MonetaryAmount="74.50" Identification="123" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.49" BuyerItemTotal="74.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.49" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="124" Description="ASSTD BISCUITS - SALTED | " MeasureUnitQualifier="PKT" Quantity="50" TypeCode="BP" OriginatingSystemRef="124" SystemItemNo="124" MonetaryAmount="19.50" Identification="124" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.39" BuyerItemTotal="19.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.39" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.39" />
+        <Comments Qualifier="LIN">
+          <value>24X65GR/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="87" Description="RADISH WHITE | " MeasureUnitQualifier="KG" Quantity="5" TypeCode="BP" OriginatingSystemRef="87" SystemItemNo="87" MonetaryAmount="6.40" Identification="87" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.28" BuyerItemTotal="6.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.28" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="88" Description="RAISIN | " MeasureUnitQualifier="KG" Quantity="2" TypeCode="BP" OriginatingSystemRef="88" SystemItemNo="88" MonetaryAmount="9.46" Identification="88" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="4.73" BuyerItemTotal="9.46" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.73" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.73" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="89" Description="RASGULLA - HALDIRAM | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="89" SystemItemNo="89" MonetaryAmount="71.28" Identification="89" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="5.94" BuyerItemTotal="71.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.94" />
+        <Comments Qualifier="LIN">
+          <value>DIFF BRAND</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="90" Description="RICE POWDER | " MeasureUnitQualifier="KG" Quantity="5" TypeCode="BP" OriginatingSystemRef="90" SystemItemNo="90" MonetaryAmount="23.80" Identification="90" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="4.76" BuyerItemTotal="23.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.76" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.76" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="91" Description="SALT TABLE | " MeasureUnitQualifier="PKT" Quantity="20" TypeCode="BP" OriginatingSystemRef="91" SystemItemNo="91" MonetaryAmount="10.00" Identification="91" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.5" BuyerItemTotal="10" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="92" Description="SAMOSA PETTIS | " MeasureUnitQualifier="PCE" Quantity="200" TypeCode="BP" OriginatingSystemRef="92" SystemItemNo="92" MonetaryAmount="16.00" Identification="92" IsExtraItem="0" ItemStatus="Original" Byr_Qty="200" Supp_Qty="200" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="0.08" BuyerItemTotal="16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.08" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.08" />
+        <Comments Qualifier="LIN">
+          <value>80S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="93" Description="SAUCE TABASCO | " MeasureUnitQualifier="BTL" Quantity="12" TypeCode="BP" OriginatingSystemRef="93" SystemItemNo="93" MonetaryAmount="32.04" Identification="93" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="2.67" BuyerItemTotal="32.04" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.67" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="94" Description="SAUCE THOUSAND ISLAND | " MeasureUnitQualifier="BTL" Quantity="6" TypeCode="BP" OriginatingSystemRef="94" SystemItemNo="94" MonetaryAmount="6.48" Identification="94" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="1.08" BuyerItemTotal="6.48" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.08" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.08" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="95" Description="SAUCE TOMATO | " MeasureUnitQualifier="BTL" Quantity="24" TypeCode="BP" OriginatingSystemRef="95" SystemItemNo="95" MonetaryAmount="21.60" Identification="95" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="0.9" BuyerItemTotal="21.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.9" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.9" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="96" Description="SPINACH WHOLE LEAF | " MeasureUnitQualifier="KG" Quantity="6" TypeCode="BP" OriginatingSystemRef="96" SystemItemNo="96" MonetaryAmount="18.00" Identification="96" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3" BuyerItemTotal="18" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="97" Description="SPRING ONIONS | " MeasureUnitQualifier="KG" Quantity="4" TypeCode="BP" OriginatingSystemRef="97" SystemItemNo="97" MonetaryAmount="16.52" Identification="97" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="4.13" BuyerItemTotal="16.52" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="98" Description="SPRITE 2LTR BOTTLES | " MeasureUnitQualifier="PCE" Quantity="6" TypeCode="BP" OriginatingSystemRef="98" SystemItemNo="98" MonetaryAmount="8.10" Identification="98" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="1.35" BuyerItemTotal="8.1" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.35" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.35" />
+        <Comments Qualifier="LIN">
+          <value>6X1,75LT/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="99" Description="SUGAR | " MeasureUnitQualifier="KG" Quantity="100" TypeCode="BP" OriginatingSystemRef="99" SystemItemNo="99" MonetaryAmount="96.00" Identification="99" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="0.96" BuyerItemTotal="96" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.96" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.96" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="100" Description="SWEET CORN | " MeasureUnitQualifier="TIN" Quantity="24" TypeCode="BP" OriginatingSystemRef="100" SystemItemNo="100" MonetaryAmount="13.68" Identification="100" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="0.57" BuyerItemTotal="13.68" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.57" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="101" Description="TAMARIND SEEDLESS | " MeasureUnitQualifier="KG" Quantity="5" TypeCode="BP" OriginatingSystemRef="101" SystemItemNo="101" MonetaryAmount="0.00" Identification="101" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>N/A</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="102" Description="TOMATO JUICE | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="102" SystemItemNo="102" MonetaryAmount="24.24" Identification="102" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.01" BuyerItemTotal="24.24" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.01" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.01" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="103" Description="TUNA CANNED | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="103" SystemItemNo="103" MonetaryAmount="19.32" Identification="103" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="1.61" BuyerItemTotal="19.32" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.61" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="104" Description="WATERMELON | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="104" SystemItemNo="104" MonetaryAmount="28.60" Identification="104" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.43" BuyerItemTotal="28.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.43" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="105" Description="WHEATABIX | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="105" SystemItemNo="105" MonetaryAmount="50.88" Identification="105" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="2.12" BuyerItemTotal="50.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.12" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.12" />
+        <Comments Qualifier="LIN">
+          <value>18S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="106" Description="WHIPPING CREAM | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="106" SystemItemNo="106" MonetaryAmount="59.76" Identification="106" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="4.98" BuyerItemTotal="59.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.98" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="107" Description="WHITE MARROW(BOTTLE GOURD) | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="107" SystemItemNo="107" MonetaryAmount="24.75" Identification="107" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.65" BuyerItemTotal="24.75" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.65" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="108" Description="WHITE SNAPPER WHOLE | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="108" SystemItemNo="108" MonetaryAmount="47.25" Identification="108" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.15" BuyerItemTotal="47.25" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.15" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.15" />
+        <Comments Qualifier="LIN">
+          <value>REDSNAPPER 17KG/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="116" Description="SAFFRON | " MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="116" SystemItemNo="116" MonetaryAmount="26.58" Identification="116" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="4.43" BuyerItemTotal="26.58" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.43" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="122" Description="SALMON FISH | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="122" SystemItemNo="122" MonetaryAmount="257.40" Identification="122" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="17.16" BuyerItemTotal="257.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="17.16" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="17.16" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="125" Description="TOMATOES HALF RIPE | " MeasureUnitQualifier="KG" Quantity="40" TypeCode="BP" OriginatingSystemRef="125" SystemItemNo="125" MonetaryAmount="57.20" Identification="125" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="40" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.43" BuyerItemTotal="57.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.43" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="126" Description="TOMATOES - PEELED | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="126" SystemItemNo="126" MonetaryAmount="13.56" Identification="126" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="1.13" BuyerItemTotal="13.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="127" Description="BLACK CARP(TILAPIA) | " MeasureUnitQualifier="KG" Quantity="40" TypeCode="BP" OriginatingSystemRef="127" SystemItemNo="127" MonetaryAmount="114.00" Identification="127" IsExtraItem="0" ItemStatus="Original" Byr_Qty="40" Supp_Qty="40" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="2.85" BuyerItemTotal="114" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.85" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="128" Description="BUTTER COOKIES APP.1KG | " MeasureUnitQualifier="TIN" Quantity="24" TypeCode="BP" OriginatingSystemRef="128" SystemItemNo="128" MonetaryAmount="59.76" Identification="128" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="2.49" BuyerItemTotal="59.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.49" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="133" Description="BISCUITS BUTTER COOKIES IN PKTS | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="133" SystemItemNo="133" MonetaryAmount="98.40" Identification="133" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="4.1" BuyerItemTotal="98.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.1" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.1" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="136" Description="BISCUITS BRITANNIA BOURBON | " MeasureUnitQualifier="PKT" Quantity="100" TypeCode="BP" OriginatingSystemRef="136" SystemItemNo="136" MonetaryAmount="62.00" Identification="136" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.62" BuyerItemTotal="62" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.62" />
+        <Comments Qualifier="LIN">
+          <value>DIFF BRAND</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="139" Description="CHOCO FLAKES | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="139" SystemItemNo="139" MonetaryAmount="35.16" Identification="139" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="2.93" BuyerItemTotal="35.16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.93" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.93" />
+        <Comments Qualifier="LIN">
+          <value>10S/BOX- CHOCO POPS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="144" Description="BISCUIT CREAM CRACKER | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="144" SystemItemNo="144" MonetaryAmount="79.08" Identification="144" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="6.59" BuyerItemTotal="79.08" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.59" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.59" />
+        <Comments Qualifier="LIN">
+          <value>SKYFLAKES 8S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="147" Description="BISCUITS - DIGESTIVE 400GM | " MeasureUnitQualifier="TIN" Quantity="24" TypeCode="BP" OriginatingSystemRef="147" SystemItemNo="147" MonetaryAmount="27.36" Identification="147" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="1.14" BuyerItemTotal="27.36" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.14" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.14" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="150" Description="BISCUIT MASKA CHASKA | " MeasureUnitQualifier="PKT" Quantity="100" TypeCode="BP" OriginatingSystemRef="150" SystemItemNo="150" MonetaryAmount="62.00" Identification="150" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.62" BuyerItemTotal="62" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.62" />
+        <Comments Qualifier="LIN">
+          <value>24SX175GR/BOX PETIT BEURE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="158" Description="AVOCADO | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="158" SystemItemNo="158" MonetaryAmount="30.00" Identification="158" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3" BuyerItemTotal="30" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="161" Description="CHOCOLATE MIDNIGHT COOKIES | " MeasureUnitQualifier="TUB" Quantity="24" TypeCode="BP" OriginatingSystemRef="161" SystemItemNo="161" MonetaryAmount="28.08" Identification="161" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="TUB" Supp_UOM="TUB" Supp_Price="1.17" BuyerItemTotal="28.08" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.17" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.17" />
+        <Comments Qualifier="LIN">
+          <value>DIFF BRAND 5LT/CAN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="162" Description="CHOCOLATE KITKAT | " MeasureUnitQualifier="BAG" Quantity="150" TypeCode="BP" OriginatingSystemRef="162" SystemItemNo="162" MonetaryAmount="82.50" Identification="162" IsExtraItem="0" ItemStatus="Original" Byr_Qty="150" Supp_Qty="150" Byr_UOM="BAG" Supp_UOM="BAG" Supp_Price="0.55" BuyerItemTotal="82.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.55" />
+        <Comments Qualifier="LIN">
+          <value>36S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="163" Description="BOONDI | " MeasureUnitQualifier="KG" Quantity="5" TypeCode="BP" OriginatingSystemRef="163" SystemItemNo="163" MonetaryAmount="48.20" Identification="163" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="9.64" BuyerItemTotal="48.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.64" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.64" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="168" Description="BIRYANI RICE | " MeasureUnitQualifier="KG" Quantity="50" TypeCode="BP" OriginatingSystemRef="168" SystemItemNo="168" MonetaryAmount="65.50" Identification="168" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.31" BuyerItemTotal="65.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.31" />
+        <Comments Qualifier="LIN">
+          <value>BASMATI RICE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="169" Description="CHOCOLATES MARS | " MeasureUnitQualifier="C/S" Quantity="4" TypeCode="BP" OriginatingSystemRef="169" SystemItemNo="169" MonetaryAmount="47.72" Identification="169" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="C/S" Supp_UOM="C/S" Supp_Price="11.93" BuyerItemTotal="47.72" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.93" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.93" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="171" Description="BISCUITS OREO | " MeasureUnitQualifier="PKT" Quantity="100" TypeCode="BP" OriginatingSystemRef="171" SystemItemNo="171" MonetaryAmount="57.00" Identification="171" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.57" BuyerItemTotal="57" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.57" />
+        <Comments Qualifier="LIN">
+          <value>DIFF BRAND- 24S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="173" Description="CHICKEN BIRYANI MASALA | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="173" SystemItemNo="173" MonetaryAmount="33.12" Identification="173" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.38" BuyerItemTotal="33.12" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.38" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="175" Description="CHOCOLATE -ASSORTED | " MeasureUnitQualifier="PKT" Quantity="150" TypeCode="BP" OriginatingSystemRef="175" SystemItemNo="175" MonetaryAmount="223.50" Identification="175" IsExtraItem="0" ItemStatus="Original" Byr_Qty="150" Supp_Qty="150" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.49" BuyerItemTotal="223.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.49" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="176" Description="CHOCLATES | " MeasureUnitQualifier="PCS" Quantity="100" TypeCode="BP" OriginatingSystemRef="176" SystemItemNo="176" MonetaryAmount="120.00" Identification="176" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="1.2" BuyerItemTotal="120" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.2" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.2" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="177" Description="ATTA - AASHIRVAAD INDIAN | " MeasureUnitQualifier="KG" Quantity="250" TypeCode="BP" OriginatingSystemRef="177" SystemItemNo="177" MonetaryAmount="392.50" Identification="177" IsExtraItem="0" ItemStatus="Original" Byr_Qty="250" Supp_Qty="250" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.57" BuyerItemTotal="392.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.57" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="178" Description="CHOCOLATE DAIRY MILK | " MeasureUnitQualifier="PCE" Quantity="150" TypeCode="BP" OriginatingSystemRef="178" SystemItemNo="178" MonetaryAmount="232.50" Identification="178" IsExtraItem="0" ItemStatus="Original" Byr_Qty="150" Supp_Qty="150" Byr_UOM="PCE" Supp_UOM="PCE" Supp_Price="1.55" BuyerItemTotal="232.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.55" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.55" />
+        <Comments Qualifier="LIN">
+          <value>RITTER SPORT</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="181" Description="BISCUIT CHOCOCHIPS | " MeasureUnitQualifier="PKT" Quantity="50" TypeCode="BP" OriginatingSystemRef="181" SystemItemNo="181" MonetaryAmount="25.00" Identification="181" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.5" BuyerItemTotal="25" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.5" />
+        <Comments Qualifier="LIN">
+          <value>24X92GR/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="182" Description="BEEF T-BONE SREAK | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="182" SystemItemNo="182" MonetaryAmount="88.80" Identification="182" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="8.88" BuyerItemTotal="88.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="190" Description="CHICKEN CUBE KNORR 6S | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="190" SystemItemNo="190" MonetaryAmount="16.08" Identification="190" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.34" BuyerItemTotal="16.08" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.34" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.34" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="191" Description="CHOLE (KABULI) | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="191" SystemItemNo="191" MonetaryAmount="23.70" Identification="191" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.58" BuyerItemTotal="23.7" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.58" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.58" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="129" Description="DRAGON FRUITS | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="129" SystemItemNo="129" MonetaryAmount="0.00" Identification="129" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>N/A</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="130" Description="MOZZARELLA CHEESE, SHREDDED | " MeasureUnitQualifier="KG" Quantity="4" TypeCode="BP" OriginatingSystemRef="130" SystemItemNo="130" MonetaryAmount="32.88" Identification="130" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="8.22" BuyerItemTotal="32.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.22" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.22" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="131" Description="RITZ CRACKERS (PKT) | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="131" SystemItemNo="131" MonetaryAmount="12.48" Identification="131" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.04" BuyerItemTotal="12.48" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.04" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.04" />
+        <Comments Qualifier="LIN">
+          <value>16S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="132" Description="ICE CREAM VANILA IN TUB | " MeasureUnitQualifier="LTR" Quantity="4" TypeCode="BP" OriginatingSystemRef="132" SystemItemNo="132" MonetaryAmount="4.52" Identification="132" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="LTR" Supp_UOM="LTR" Supp_Price="1.13" BuyerItemTotal="4.52" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.13" />
+        <Comments Qualifier="LIN">
+          <value>5LT/CAN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="135" Description="MASALA FISH | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="135" SystemItemNo="135" MonetaryAmount="22.56" Identification="135" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.88" BuyerItemTotal="22.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.88" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="137" Description="JUICE LYCHEE | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="137" SystemItemNo="137" MonetaryAmount="12.60" Identification="137" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="12.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>APRICOT JUICE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="138" Description="JUICE GUAVA | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="138" SystemItemNo="138" MonetaryAmount="12.60" Identification="138" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="12.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="140" Description="DATES | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="140" SystemItemNo="140" MonetaryAmount="112.50" Identification="140" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="11.25" BuyerItemTotal="112.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="11.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="11.25" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="141" Description="RADISH RED | " MeasureUnitQualifier="KG" Quantity="3" TypeCode="BP" OriginatingSystemRef="141" SystemItemNo="141" MonetaryAmount="3.39" Identification="141" IsExtraItem="0" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.13" BuyerItemTotal="3.39" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="145" Description="JELLY POWDER ASSORTED | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="145" SystemItemNo="145" MonetaryAmount="92.64" Identification="145" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="3.86" BuyerItemTotal="92.64" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.86" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.86" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="146" Description="ICE CREAM RUM RAISIN | " MeasureUnitQualifier="KG" Quantity="8" TypeCode="BP" OriginatingSystemRef="146" SystemItemNo="146" MonetaryAmount="12.16" Identification="146" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.52" BuyerItemTotal="12.16" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.52" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.52" />
+        <Comments Qualifier="LIN">
+          <value>5KG/CAN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="148" Description="DANISH BUSCUIT 400GM | " MeasureUnitQualifier="BOX" Quantity="12" TypeCode="BP" OriginatingSystemRef="148" SystemItemNo="148" MonetaryAmount="29.88" Identification="148" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="BOX" Supp_UOM="BOX" Supp_Price="2.49" BuyerItemTotal="29.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.49" />
+        <Comments Qualifier="LIN">
+          <value>DUPLICATED ITEM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="149" Description="PICKLE GONGURA | " MeasureUnitQualifier="BTL" Quantity="12" TypeCode="BP" OriginatingSystemRef="149" SystemItemNo="149" MonetaryAmount="34.20" Identification="149" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="2.85" BuyerItemTotal="34.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.85" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="151" Description="KELLOGS COCO POPS | " MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="151" SystemItemNo="151" MonetaryAmount="17.58" Identification="151" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="2.93" BuyerItemTotal="17.58" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.93" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.93" />
+        <Comments Qualifier="LIN">
+          <value>10S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="152" Description="GREEN TEA | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="152" SystemItemNo="152" MonetaryAmount="62.64" Identification="152" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="2.61" BuyerItemTotal="62.64" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.61" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="153" Description="FISH COD FILLET | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="153" SystemItemNo="153" MonetaryAmount="69.00" Identification="153" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.45" BuyerItemTotal="69" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.45" />
+        <Comments Qualifier="LIN">
+          <value>ALASKA POLLACK FILLET</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="154" Description="SAMBAL OLEK | " MeasureUnitQualifier="BTL" Quantity="24" TypeCode="BP" OriginatingSystemRef="154" SystemItemNo="154" MonetaryAmount="39.60" Identification="154" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="1.65" BuyerItemTotal="39.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.65" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="155" Description="KASOORI MEETHI | " MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="155" SystemItemNo="155" MonetaryAmount="15.78" Identification="155" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="2.63" BuyerItemTotal="15.78" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.63" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.63" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="156" Description="HORLICKS BISCUIT | " MeasureUnitQualifier="PKT" Quantity="50" TypeCode="BP" OriginatingSystemRef="156" SystemItemNo="156" MonetaryAmount="28.50" Identification="156" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.57" BuyerItemTotal="28.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.57" />
+        <Comments Qualifier="LIN">
+          <value>DIFF BRAND</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="157" Description="SAUCE PIZZA | " MeasureUnitQualifier="BTL" Quantity="6" TypeCode="BP" OriginatingSystemRef="157" SystemItemNo="157" MonetaryAmount="12.54" Identification="157" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="2.09" BuyerItemTotal="12.54" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.09" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="159" Description="MUTTON MEAT BONELESS | " MeasureUnitQualifier="KG" Quantity="50" TypeCode="BP" OriginatingSystemRef="159" SystemItemNo="159" MonetaryAmount="634.00" Identification="159" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="12.68" BuyerItemTotal="634" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="12.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="12.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="160" Description="MIXED VEG CUBE | " MeasureUnitQualifier="PKT" Quantity="30" TypeCode="BP" OriginatingSystemRef="160" SystemItemNo="160" MonetaryAmount="11.10" Identification="160" IsExtraItem="0" ItemStatus="Original" Byr_Qty="30" Supp_Qty="30" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.37" BuyerItemTotal="11.1" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.37" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.37" />
+        <Comments Qualifier="LIN">
+          <value>BOUILLON POWDER</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="165" Description="FRENCH ONION SOUP | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="165" SystemItemNo="165" MonetaryAmount="88.32" Identification="165" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="3.68" BuyerItemTotal="88.32" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.68" />
+        <Comments Qualifier="LIN">
+          <value>750GR PCS</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="166" Description="DRIED FISH | " MeasureUnitQualifier="KG" Quantity="2" TypeCode="BP" OriginatingSystemRef="166" SystemItemNo="166" MonetaryAmount="18.76" Identification="166" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="9.38" BuyerItemTotal="18.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.38" />
+        <Comments Qualifier="LIN">
+          <value>10KG/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="167" Description="RUSK | " MeasureUnitQualifier="KG" Quantity="15" TypeCode="BP" OriginatingSystemRef="167" SystemItemNo="167" MonetaryAmount="22.35" Identification="167" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.49" BuyerItemTotal="22.35" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.49" />
+        <Comments Qualifier="LIN">
+          <value>125GR PKT PRICE- DIFF BRAND</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="170" Description="CRABS FRESH | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="170" SystemItemNo="170" MonetaryAmount="106.50" Identification="170" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="10.65" BuyerItemTotal="106.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10.65" />
+        <Comments Qualifier="LIN">
+          <value>FROZEN</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="172" Description="JAM CHERRY | " MeasureUnitQualifier="BTL" Quantity="6" TypeCode="BP" OriginatingSystemRef="172" SystemItemNo="172" MonetaryAmount="6.78" Identification="172" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="1.13" BuyerItemTotal="6.78" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="174" Description="MADRAS CURRY MASALA | " MeasureUnitQualifier="PKT" Quantity="4" TypeCode="BP" OriginatingSystemRef="174" SystemItemNo="174" MonetaryAmount="7.56" Identification="174" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.89" BuyerItemTotal="7.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.89" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.89" />
+        <Comments Qualifier="LIN">
+          <value>CURRY POWDER 450GR</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="179" Description="KELLOGS ALL BRAN APPLE &amp; FIG | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="179" SystemItemNo="179" MonetaryAmount="107.76" Identification="179" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="4.49" BuyerItemTotal="107.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.49" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.49" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="180" Description="LEMON TEA BAGS | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="180" SystemItemNo="180" MonetaryAmount="46.56" Identification="180" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.94" BuyerItemTotal="46.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.94" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="183" Description="DONUTS | " MeasureUnitQualifier="PKT" Quantity="50" TypeCode="BP" OriginatingSystemRef="183" SystemItemNo="183" MonetaryAmount="34.50" Identification="183" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="0.69" BuyerItemTotal="34.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.69" />
+        <Comments Qualifier="LIN">
+          <value>48S/BOX</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="184" Description="FLOUR WHITE 25KGS/BAG | " MeasureUnitQualifier="BAG" Quantity="100" TypeCode="BP" OriginatingSystemRef="184" SystemItemNo="184" MonetaryAmount="75.00" Identification="184" IsExtraItem="0" ItemStatus="Original" Byr_Qty="100" Supp_Qty="100" Byr_UOM="BAG" Supp_UOM="BAG" Supp_Price="0.75" BuyerItemTotal="75" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.75" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="185" Description="FLOUR SEMOLINA | " MeasureUnitQualifier="KG" Quantity="5" TypeCode="BP" OriginatingSystemRef="185" SystemItemNo="185" MonetaryAmount="7.15" Identification="185" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.43" BuyerItemTotal="7.15" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.43" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.43" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="186" Description="HONEY PURE 500 GRM | " MeasureUnitQualifier="BTL" Quantity="12" TypeCode="BP" OriginatingSystemRef="186" SystemItemNo="186" MonetaryAmount="23.76" Identification="186" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="BTL" Supp_UOM="BTL" Supp_Price="1.98" BuyerItemTotal="23.76" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.98" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.98" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="187" Description="JUICE APPLE 100% 1 LTR X 12 PKT | " MeasureUnitQualifier="CTN" Quantity="36" TypeCode="BP" OriginatingSystemRef="187" SystemItemNo="187" MonetaryAmount="37.80" Identification="187" IsExtraItem="0" ItemStatus="Original" Byr_Qty="36" Supp_Qty="36" Byr_UOM="CTN" Supp_UOM="CTN" Supp_Price="1.05" BuyerItemTotal="37.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="188" Description="JUICE ORANGE 100% 1 LTR X 12 PKT | " MeasureUnitQualifier="CTN" Quantity="36" TypeCode="BP" OriginatingSystemRef="188" SystemItemNo="188" MonetaryAmount="37.80" Identification="188" IsExtraItem="0" ItemStatus="Original" Byr_Qty="36" Supp_Qty="36" Byr_UOM="CTN" Supp_UOM="CTN" Supp_Price="1.05" BuyerItemTotal="37.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="189" Description="COCONUT MILK 400 ML | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="189" SystemItemNo="189" MonetaryAmount="8.88" Identification="189" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="0.74" BuyerItemTotal="8.88" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.74" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.74" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="192" Description="CORN FLOUR 400 GRM | " MeasureUnitQualifier="PKT" Quantity="24" TypeCode="BP" OriginatingSystemRef="192" SystemItemNo="192" MonetaryAmount="30.72" Identification="192" IsExtraItem="0" ItemStatus="Original" Byr_Qty="24" Supp_Qty="24" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.28" BuyerItemTotal="30.72" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.28" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.28" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="193" Description="EGG FRESH MEDIUM 360S/CTN | " MeasureUnitQualifier="CTN" Quantity="4" TypeCode="BP" OriginatingSystemRef="193" SystemItemNo="193" MonetaryAmount="194.40" Identification="193" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="CTN" Supp_UOM="CTN" Supp_Price="48.6" BuyerItemTotal="194.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="48.6" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="48.6" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="194" Description="JUICE PINEAPPLE 1 LTR | " MeasureUnitQualifier="PKT" Quantity="36" TypeCode="BP" OriginatingSystemRef="194" SystemItemNo="194" MonetaryAmount="37.80" Identification="194" IsExtraItem="0" ItemStatus="Original" Byr_Qty="36" Supp_Qty="36" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="37.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="195" Description="PAV BHAJI MASALA 100 GRM | " MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="195" SystemItemNo="195" MonetaryAmount="8.28" Identification="195" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.38" BuyerItemTotal="8.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.38" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.38" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="196" Description="RASGOLLA TIN 800 GRM | " MeasureUnitQualifier="TIN" Quantity="12" TypeCode="BP" OriginatingSystemRef="196" SystemItemNo="196" MonetaryAmount="71.28" Identification="196" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="TIN" Supp_UOM="TIN" Supp_Price="5.94" BuyerItemTotal="71.28" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.94" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="197" Description="LETTUCE ICEBERG FRESH | " MeasureUnitQualifier="KG" Quantity="8" TypeCode="BP" OriginatingSystemRef="197" SystemItemNo="197" MonetaryAmount="13.20" Identification="197" IsExtraItem="0" ItemStatus="Original" Byr_Qty="8" Supp_Qty="8" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.65" BuyerItemTotal="13.2" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.65" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="198" Description="FISH SQUID CLEANED | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="198" SystemItemNo="198" MonetaryAmount="82.60" Identification="198" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="4.13" BuyerItemTotal="82.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="199" Description="JUICE FRUIT COCKTAIL, 12/1LTR | " MeasureUnitQualifier="LTR" Quantity="36" TypeCode="BP" OriginatingSystemRef="199" SystemItemNo="199" MonetaryAmount="37.80" Identification="199" IsExtraItem="0" ItemStatus="Original" Byr_Qty="36" Supp_Qty="36" Byr_UOM="LTR" Supp_UOM="LTR" Supp_Price="1.05" BuyerItemTotal="37.8" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>MIXED JUICE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="201" Description="JUICE LYCHEE 1LTR | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="201" SystemItemNo="201" MonetaryAmount="12.60" Identification="201" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.05" BuyerItemTotal="12.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.05" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.05" />
+        <Comments Qualifier="LIN">
+          <value>PEACH JUICE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="202" Description="NUTS PISTACHIO RAW | " MeasureUnitQualifier="KG" Quantity="1" TypeCode="BP" OriginatingSystemRef="202" SystemItemNo="202" MonetaryAmount="22.50" Identification="202" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="22.5" BuyerItemTotal="22.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="22.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="22.5" />
+        <Comments Qualifier="LIN">
+          <value>ROASTED- SHEEL ON</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="203" Description="COFFEE BEAN 1KG(LAVAZZA TORIVA, ITALIA- 1895) | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="203" SystemItemNo="203" MonetaryAmount="149.40" Identification="203" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="14.94" BuyerItemTotal="149.4" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.94" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="205" Description="EARL GREY TEA | " MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="205" SystemItemNo="205" MonetaryAmount="13.50" Identification="205" IsExtraItem="0" ItemStatus="Original" Byr_Qty="6" Supp_Qty="6" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="2.25" BuyerItemTotal="13.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.25" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="206" Description="RADISH RED | " MeasureUnitQualifier="KG" Quantity="5" TypeCode="BP" OriginatingSystemRef="206" SystemItemNo="206" MonetaryAmount="5.65" Identification="206" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="5" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.13" BuyerItemTotal="5.65" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.13" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="134" Description="YELLOW PEPPER | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="134" SystemItemNo="134" MonetaryAmount="37.50" Identification="134" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="3.75" BuyerItemTotal="37.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.75" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.75" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="142" Description="SHRIMP PEELED MEDIUM | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="142" SystemItemNo="142" MonetaryAmount="190.60" Identification="142" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="9.53" BuyerItemTotal="190.6" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.53" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.53" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="143" Description="SWEET MELONS HALF RIPE | " MeasureUnitQualifier="KG" Quantity="20" TypeCode="BP" OriginatingSystemRef="143" SystemItemNo="143" MonetaryAmount="30.00" Identification="143" IsExtraItem="0" ItemStatus="Original" Byr_Qty="20" Supp_Qty="20" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.5" BuyerItemTotal="30" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.5" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.5" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="164" Description="VEGETABLE MASALA | " MeasureUnitQualifier="PKT" Quantity="12" TypeCode="BP" OriginatingSystemRef="164" SystemItemNo="164" MonetaryAmount="22.56" Identification="164" IsExtraItem="0" ItemStatus="Original" Byr_Qty="12" Supp_Qty="12" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="1.88" BuyerItemTotal="22.56" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.88" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.88" />
+        <Comments Qualifier="LIN">
+          <value>CHAT MASALA</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="200" Description="TAMARIND PASTE 500 GRM | " MeasureUnitQualifier="PKT" Quantity="15" TypeCode="BP" OriginatingSystemRef="200" SystemItemNo="200" MonetaryAmount="30.45" Identification="200" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="PKT" Supp_UOM="PKT" Supp_Price="2.03" BuyerItemTotal="30.45" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="2.03" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="2.03" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="204" Description="SWEET POTATO | " MeasureUnitQualifier="KG" Quantity="10" TypeCode="BP" OriginatingSystemRef="204" SystemItemNo="204" MonetaryAmount="16.50" Identification="204" IsExtraItem="0" ItemStatus="Original" Byr_Qty="10" Supp_Qty="10" Byr_UOM="KG" Supp_UOM="KG" Supp_Price="1.65" BuyerItemTotal="16.5" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.65" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="10986.570" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="10986.570" />
+      <MonetaryAmount Qualifier="_90" Value="10986.570" />
+      <MonetaryAmount Qualifier="_91" Value="10986.570" />
+    </Quote>
+  </Interchange>
+</MTML>

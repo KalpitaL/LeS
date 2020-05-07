@@ -1,0 +1,392 @@
+21/08/2019 14:16:02 ================21/08/2019 14:16:02================
+21/08/2019 14:16:02 ArcMarine HTTP processor started
+21/08/2019 14:16:02 ArcMarine Processor Started.
+21/08/2019 14:16:02 No files found.
+21/08/2019 14:16:02 
+21/08/2019 14:16:02 No quotes found.
+21/08/2019 14:16:02 ArcMarine HTTP processor stopped
+21/08/2019 14:16:02 ====================================================
+21/08/2019 14:16:02 
+21/08/2019 14:16:20 ================21/08/2019 14:16:20================
+21/08/2019 14:16:20 ArcMarine HTTP processor started
+21/08/2019 14:16:20 ArcMarine Processor Started.
+21/08/2019 14:16:20 No files found.
+21/08/2019 14:16:20 
+21/08/2019 14:16:20 Started Loading interchange object.
+21/08/2019 14:16:20 stopped Loading interchange object.
+21/08/2019 14:16:20 Quote processing started.
+21/08/2019 14:16:20 Quote processing started for refno: EN-19-011069
+21/08/2019 14:16:22 Filling Quotation.
+21/08/2019 14:16:24 Header details saved.
+21/08/2019 14:16:26 Filling items.
+21/08/2019 14:16:30 Updating item 25
+21/08/2019 14:17:12 Exception while filling items: Object reference not set to an instance of an object.
+21/08/2019 14:17:12 Unable to save item details for ref no: EN-19-011069, Object reference not set to an instance of an object.
+21/08/2019 14:17:15 ArcMarine HTTP processor stopped
+21/08/2019 14:17:15 ====================================================
+21/08/2019 14:17:15 
+21/08/2019 14:18:06 ================21/08/2019 14:18:06================
+21/08/2019 14:18:06 ArcMarine HTTP processor started
+21/08/2019 14:18:07 ArcMarine Processor Started.
+21/08/2019 14:18:07 No files found.
+21/08/2019 14:18:07 
+21/08/2019 14:18:07 No quotes found.
+21/08/2019 14:18:07 ArcMarine HTTP processor stopped
+21/08/2019 14:18:07 ====================================================
+21/08/2019 14:18:07 
+21/08/2019 14:18:52 ================21/08/2019 14:18:52================
+21/08/2019 14:18:52 ArcMarine HTTP processor started
+21/08/2019 14:18:52 ArcMarine Processor Started.
+21/08/2019 14:18:52 No files found.
+21/08/2019 14:18:52 
+21/08/2019 14:18:52 Started Loading interchange object.
+21/08/2019 14:18:52 stopped Loading interchange object.
+21/08/2019 14:18:52 Quote processing started.
+21/08/2019 14:18:52 Quote processing started for refno: EN-19-011069
+21/08/2019 14:18:55 Filling Quotation.
+21/08/2019 14:18:55 Header details saved.
+21/08/2019 14:18:58 Filling items.
+21/08/2019 14:19:04 Updating item 25
+21/08/2019 14:19:09 Updating item 26
+21/08/2019 14:19:10 Updating item 27
+21/08/2019 14:19:11 Updating item 28
+21/08/2019 14:19:11 Updating item 33
+21/08/2019 14:19:12 Updating item 34
+21/08/2019 14:19:13 Updating item 35
+21/08/2019 14:19:14 Updating item 41
+21/08/2019 14:19:15 Updating item 42
+21/08/2019 14:19:16 Updating item 43
+21/08/2019 14:19:17 Updating item 49
+21/08/2019 14:19:18 Unable to update item 50; Item Price is zero.
+21/08/2019 14:19:25 Updating item 59
+21/08/2019 14:19:26 Updating item 66
+21/08/2019 14:19:27 Updating item 73
+21/08/2019 14:19:28 Updating item 76
+21/08/2019 14:19:28 Updating item 84
+21/08/2019 14:19:29 Updating item 91
+21/08/2019 14:19:30 Updating item 92
+21/08/2019 14:19:31 Updating item 99
+21/08/2019 14:19:32 Updating item 108
+21/08/2019 14:19:33 Unable to update item 114; Item Price is zero.
+21/08/2019 14:19:59 Unable to update item 121; Item Price is zero.
+21/08/2019 14:19:59 Updating item 124
+21/08/2019 14:20:02 Unable to save item details for ref no: EN-19-011069
+21/08/2019 14:35:43 ================21/08/2019 14:35:43================
+21/08/2019 14:35:43 ArcMarine HTTP processor started
+21/08/2019 14:35:43 ArcMarine Processor Started.
+21/08/2019 14:35:43 No files found.
+21/08/2019 14:35:43 
+21/08/2019 14:35:43 Started Loading interchange object.
+21/08/2019 14:35:43 stopped Loading interchange object.
+21/08/2019 14:35:43 Quote processing started.
+21/08/2019 14:35:43 Quote processing started for refno: EN-19-011069
+21/08/2019 14:38:37 ================21/08/2019 14:38:37================
+21/08/2019 14:38:37 ArcMarine HTTP processor started
+21/08/2019 14:38:37 ArcMarine Processor Started.
+21/08/2019 14:38:37 No files found.
+21/08/2019 14:38:37 
+21/08/2019 14:38:37 Started Loading interchange object.
+21/08/2019 14:38:37 stopped Loading interchange object.
+21/08/2019 14:38:37 Quote processing started.
+21/08/2019 14:38:37 Quote processing started for refno: EN-19-011069
+21/08/2019 14:38:40 Filling Quotation.
+21/08/2019 14:39:09 ================21/08/2019 14:39:09================
+21/08/2019 14:39:09 ArcMarine HTTP processor started
+21/08/2019 14:39:09 ArcMarine Processor Started.
+21/08/2019 14:39:09 No files found.
+21/08/2019 14:39:09 
+21/08/2019 14:39:09 Started Loading interchange object.
+21/08/2019 14:39:09 stopped Loading interchange object.
+21/08/2019 14:39:09 Quote processing started.
+21/08/2019 14:39:09 Quote processing started for refno: EN-19-011069
+21/08/2019 14:39:11 Filling Quotation.
+21/08/2019 14:39:12 Header details saved.
+21/08/2019 14:39:13 Filling items.
+21/08/2019 14:39:14 Updating item 25
+21/08/2019 15:09:23 ================21/08/2019 15:09:23================
+21/08/2019 15:09:23 ArcMarine HTTP processor started
+21/08/2019 15:09:23 ArcMarine Processor Started.
+21/08/2019 15:09:23 No files found.
+21/08/2019 15:09:23 
+21/08/2019 15:09:23 Started Loading interchange object.
+21/08/2019 15:09:23 stopped Loading interchange object.
+21/08/2019 15:09:23 Quote processing started.
+21/08/2019 15:09:23 Quote processing started for refno: EN-19-011069
+21/08/2019 15:09:25 Filling Quotation.
+21/08/2019 15:09:25 Header details saved.
+21/08/2019 15:09:35 Filling items.
+21/08/2019 15:09:36 Updating item 25
+21/08/2019 15:10:18 Exception while filling items: Object reference not set to an instance of an object.
+21/08/2019 15:10:18 Unable to save item details for ref no: EN-19-011069, Object reference not set to an instance of an object.
+21/08/2019 15:10:19 ArcMarine HTTP processor stopped
+21/08/2019 15:10:19 ====================================================
+21/08/2019 15:10:19 
+21/08/2019 15:10:37 ================21/08/2019 15:10:37================
+21/08/2019 15:10:37 ArcMarine HTTP processor started
+21/08/2019 15:10:37 ArcMarine Processor Started.
+21/08/2019 15:10:37 No files found.
+21/08/2019 15:10:37 
+21/08/2019 15:10:37 Started Loading interchange object.
+21/08/2019 15:10:37 stopped Loading interchange object.
+21/08/2019 15:10:37 Quote processing started.
+21/08/2019 15:10:37 Quote processing started for refno: EN-19-011069
+21/08/2019 15:10:39 Filling Quotation.
+21/08/2019 15:10:40 Header details saved.
+21/08/2019 15:10:41 Filling items.
+21/08/2019 15:10:44 Updating item 25
+21/08/2019 15:22:02 ================21/08/2019 15:22:02================
+21/08/2019 15:22:02 ArcMarine HTTP processor started
+21/08/2019 15:22:02 ArcMarine Processor Started.
+21/08/2019 15:22:02 No files found.
+21/08/2019 15:22:02 
+21/08/2019 15:22:02 Started Loading interchange object.
+21/08/2019 15:22:02 stopped Loading interchange object.
+21/08/2019 15:22:02 Quote processing started.
+21/08/2019 15:22:02 Quote processing started for refno: EN-19-011069
+21/08/2019 15:22:04 Filling Quotation.
+21/08/2019 15:22:05 Header details saved.
+21/08/2019 15:22:06 Filling items.
+21/08/2019 15:22:07 Updating item 25
+21/08/2019 15:23:35 Exception while filling items: Object reference not set to an instance of an object.
+21/08/2019 15:23:35 Unable to save item details for ref no: EN-19-011069, Object reference not set to an instance of an object.
+21/08/2019 15:23:37 ArcMarine HTTP processor stopped
+21/08/2019 15:23:37 ====================================================
+21/08/2019 15:23:37 
+21/08/2019 15:24:29 ================21/08/2019 15:24:29================
+21/08/2019 15:24:29 ArcMarine HTTP processor started
+21/08/2019 15:24:29 ArcMarine Processor Started.
+21/08/2019 15:24:29 No files found.
+21/08/2019 15:24:29 
+21/08/2019 15:24:29 Started Loading interchange object.
+21/08/2019 15:24:29 stopped Loading interchange object.
+21/08/2019 15:24:29 Quote processing started.
+21/08/2019 15:24:29 Quote processing started for refno: EN-19-011069
+21/08/2019 15:24:50 Exception while  processing Quote MTML: The remote server returned an error: (502) Bad Gateway.
+21/08/2019 15:24:50 Exception in Process Quote : Object reference not set to an instance of an object.
+21/08/2019 15:24:50 ArcMarine HTTP processor stopped
+21/08/2019 15:24:50 ====================================================
+21/08/2019 15:24:50 
+21/08/2019 15:25:10 ================21/08/2019 15:25:10================
+21/08/2019 15:25:10 ArcMarine HTTP processor started
+21/08/2019 15:25:10 ArcMarine Processor Started.
+21/08/2019 15:25:10 No files found.
+21/08/2019 15:25:10 
+21/08/2019 15:25:11 Started Loading interchange object.
+21/08/2019 15:25:11 stopped Loading interchange object.
+21/08/2019 15:25:11 Quote processing started.
+21/08/2019 15:25:11 Quote processing started for refno: EN-19-011069
+21/08/2019 15:25:23 Exception while  processing Quote MTML: The remote server returned an error: (502) Bad Gateway.
+21/08/2019 15:25:23 Exception in Process Quote : Object reference not set to an instance of an object.
+21/08/2019 15:25:23 ArcMarine HTTP processor stopped
+21/08/2019 15:25:23 ====================================================
+21/08/2019 15:25:23 
+21/08/2019 15:29:01 ================21/08/2019 15:29:01================
+21/08/2019 15:29:01 ArcMarine HTTP processor started
+21/08/2019 15:29:01 ArcMarine Processor Started.
+21/08/2019 15:29:01 No files found.
+21/08/2019 15:29:01 
+21/08/2019 15:29:01 Started Loading interchange object.
+21/08/2019 15:29:01 stopped Loading interchange object.
+21/08/2019 15:29:01 Quote processing started.
+21/08/2019 15:29:01 Quote processing started for refno: EN-19-011069
+21/08/2019 15:29:03 Filling Quotation.
+21/08/2019 15:29:04 Header details saved.
+21/08/2019 15:29:06 Filling items.
+21/08/2019 15:29:07 Updating item 25
+21/08/2019 15:30:47 ================21/08/2019 15:30:47================
+21/08/2019 15:30:47 ArcMarine HTTP processor started
+21/08/2019 15:30:47 ArcMarine Processor Started.
+21/08/2019 15:30:47 No files found.
+21/08/2019 15:30:47 
+21/08/2019 15:30:47 Started Loading interchange object.
+21/08/2019 15:30:47 stopped Loading interchange object.
+21/08/2019 15:30:47 Quote processing started.
+21/08/2019 15:30:47 Quote processing started for refno: EN-19-011069
+21/08/2019 15:30:49 Filling Quotation.
+21/08/2019 15:30:50 Header details saved.
+21/08/2019 15:30:51 Filling items.
+21/08/2019 15:30:52 Updating item 25
+21/08/2019 15:31:03 Exception while filling items: Object reference not set to an instance of an object.
+21/08/2019 15:31:03 Unable to save item details for ref no: EN-19-011069, Object reference not set to an instance of an object.
+21/08/2019 15:31:21 ================21/08/2019 15:31:21================
+21/08/2019 15:31:21 ArcMarine HTTP processor started
+21/08/2019 15:31:21 ArcMarine Processor Started.
+21/08/2019 15:31:21 No files found.
+21/08/2019 15:31:21 
+21/08/2019 15:31:22 Started Loading interchange object.
+21/08/2019 15:31:22 stopped Loading interchange object.
+21/08/2019 15:31:22 Quote processing started.
+21/08/2019 15:31:22 Quote processing started for refno: EN-19-011069
+21/08/2019 15:31:24 Filling Quotation.
+21/08/2019 15:31:25 Header details saved.
+21/08/2019 15:31:26 Filling items.
+21/08/2019 15:31:28 Updating item 25
+21/08/2019 15:32:46 ================21/08/2019 15:32:46================
+21/08/2019 15:32:46 ArcMarine HTTP processor started
+21/08/2019 15:32:46 ArcMarine Processor Started.
+21/08/2019 15:32:46 No files found.
+21/08/2019 15:32:46 
+21/08/2019 15:32:46 Started Loading interchange object.
+21/08/2019 15:32:46 stopped Loading interchange object.
+21/08/2019 15:32:46 Quote processing started.
+21/08/2019 15:32:46 Quote processing started for refno: EN-19-011069
+21/08/2019 15:32:48 Filling Quotation.
+21/08/2019 15:32:49 Header details saved.
+21/08/2019 15:32:50 Filling items.
+21/08/2019 15:32:52 Updating item 25
+21/08/2019 15:33:27 ================21/08/2019 15:33:27================
+21/08/2019 15:33:27 ArcMarine HTTP processor started
+21/08/2019 15:33:27 ArcMarine Processor Started.
+21/08/2019 15:33:27 No files found.
+21/08/2019 15:33:27 
+21/08/2019 15:33:27 Started Loading interchange object.
+21/08/2019 15:33:27 stopped Loading interchange object.
+21/08/2019 15:33:27 Quote processing started.
+21/08/2019 15:33:27 Quote processing started for refno: EN-19-011069
+21/08/2019 15:33:30 Filling Quotation.
+21/08/2019 15:33:31 Header details saved.
+21/08/2019 15:33:32 Filling items.
+21/08/2019 15:33:33 Updating item 25
+21/08/2019 15:34:21 ================21/08/2019 15:34:21================
+21/08/2019 15:34:21 ArcMarine HTTP processor started
+21/08/2019 15:34:21 ArcMarine Processor Started.
+21/08/2019 15:34:21 No files found.
+21/08/2019 15:34:21 
+21/08/2019 15:34:21 Started Loading interchange object.
+21/08/2019 15:34:21 stopped Loading interchange object.
+21/08/2019 15:34:21 Quote processing started.
+21/08/2019 15:34:21 Quote processing started for refno: EN-19-011069
+21/08/2019 15:34:24 Filling Quotation.
+21/08/2019 15:34:25 Header details saved.
+21/08/2019 15:34:25 Filling items.
+21/08/2019 15:34:27 Updating item 25
+21/08/2019 15:35:20 ================21/08/2019 15:35:20================
+21/08/2019 15:35:20 ArcMarine HTTP processor started
+21/08/2019 15:35:20 ArcMarine Processor Started.
+21/08/2019 15:35:20 No files found.
+21/08/2019 15:35:20 
+21/08/2019 15:35:20 Started Loading interchange object.
+21/08/2019 15:35:20 stopped Loading interchange object.
+21/08/2019 15:35:20 Quote processing started.
+21/08/2019 15:35:20 Quote processing started for refno: EN-19-011069
+21/08/2019 15:35:23 Filling Quotation.
+21/08/2019 15:35:24 Header details saved.
+21/08/2019 15:35:42 Filling items.
+21/08/2019 15:35:44 Updating item 25
+21/08/2019 15:47:39 ================21/08/2019 15:47:39================
+21/08/2019 15:47:39 ArcMarine HTTP processor started
+21/08/2019 15:47:39 ArcMarine Processor Started.
+21/08/2019 15:47:39 No files found.
+21/08/2019 15:47:39 
+21/08/2019 15:47:39 Started Loading interchange object.
+21/08/2019 15:47:39 stopped Loading interchange object.
+21/08/2019 15:47:39 Quote processing started.
+21/08/2019 15:47:39 Quote processing started for refno: EN-19-011069
+21/08/2019 15:47:41 Filling Quotation.
+21/08/2019 15:47:42 Header details saved.
+21/08/2019 15:47:43 Filling items.
+21/08/2019 15:47:46 Updating item 25
+21/08/2019 15:50:20 ================21/08/2019 15:50:20================
+21/08/2019 15:50:20 ArcMarine HTTP processor started
+21/08/2019 15:50:20 ArcMarine Processor Started.
+21/08/2019 15:50:20 No files found.
+21/08/2019 15:50:20 
+21/08/2019 15:50:20 Started Loading interchange object.
+21/08/2019 15:50:20 stopped Loading interchange object.
+21/08/2019 15:50:20 Quote processing started.
+21/08/2019 15:50:20 Quote processing started for refno: EN-19-011069
+21/08/2019 15:50:25 Filling Quotation.
+21/08/2019 15:50:26 Header details saved.
+21/08/2019 15:50:28 Filling items.
+21/08/2019 15:50:33 Updating item 25
+21/08/2019 15:52:45 ================21/08/2019 15:52:45================
+21/08/2019 15:52:45 ArcMarine HTTP processor started
+21/08/2019 15:52:45 ArcMarine Processor Started.
+21/08/2019 15:52:45 No files found.
+21/08/2019 15:52:45 
+21/08/2019 15:52:45 Started Loading interchange object.
+21/08/2019 15:52:45 stopped Loading interchange object.
+21/08/2019 15:52:45 Quote processing started.
+21/08/2019 15:52:45 Quote processing started for refno: EN-19-011069
+21/08/2019 15:52:47 Filling Quotation.
+21/08/2019 15:52:48 Header details saved.
+21/08/2019 15:52:49 Filling items.
+21/08/2019 15:52:50 Updating item 25
+21/08/2019 15:54:14 ================21/08/2019 15:54:14================
+21/08/2019 15:54:14 ArcMarine HTTP processor started
+21/08/2019 15:54:14 ArcMarine Processor Started.
+21/08/2019 15:54:14 No files found.
+21/08/2019 15:54:14 
+21/08/2019 15:54:14 Started Loading interchange object.
+21/08/2019 15:54:14 stopped Loading interchange object.
+21/08/2019 15:54:14 Quote processing started.
+21/08/2019 15:54:14 Quote processing started for refno: EN-19-011069
+21/08/2019 15:54:16 Filling Quotation.
+21/08/2019 15:54:17 Header details saved.
+21/08/2019 15:54:18 Filling items.
+21/08/2019 15:54:41 Updating item 25
+21/08/2019 15:58:16 ================21/08/2019 15:58:16================
+21/08/2019 15:58:16 ArcMarine HTTP processor started
+21/08/2019 15:58:16 ArcMarine Processor Started.
+21/08/2019 15:58:16 No files found.
+21/08/2019 15:58:16 
+21/08/2019 15:58:16 Started Loading interchange object.
+21/08/2019 15:58:16 stopped Loading interchange object.
+21/08/2019 15:58:16 Quote processing started.
+21/08/2019 15:58:16 Quote processing started for refno: EN-19-011069
+21/08/2019 15:58:21 Filling Quotation.
+21/08/2019 15:58:23 Header details saved.
+21/08/2019 15:58:25 Filling items.
+21/08/2019 15:58:26 Updating item 25
+21/08/2019 15:59:30 ================21/08/2019 15:59:30================
+21/08/2019 15:59:30 ArcMarine HTTP processor started
+21/08/2019 15:59:30 ArcMarine Processor Started.
+21/08/2019 15:59:30 No files found.
+21/08/2019 15:59:30 
+21/08/2019 15:59:30 Started Loading interchange object.
+21/08/2019 15:59:30 stopped Loading interchange object.
+21/08/2019 15:59:30 Quote processing started.
+21/08/2019 15:59:30 Quote processing started for refno: EN-19-011069
+21/08/2019 15:59:32 Filling Quotation.
+21/08/2019 15:59:33 Header details saved.
+21/08/2019 15:59:34 Filling items.
+21/08/2019 15:59:35 Updating item 25
+21/08/2019 16:04:41 ================21/08/2019 16:04:41================
+21/08/2019 16:04:41 ArcMarine HTTP processor started
+21/08/2019 16:04:41 ArcMarine Processor Started.
+21/08/2019 16:04:41 No files found.
+21/08/2019 16:04:41 
+21/08/2019 16:04:41 Started Loading interchange object.
+21/08/2019 16:04:41 stopped Loading interchange object.
+21/08/2019 16:04:41 Quote processing started.
+21/08/2019 16:04:41 Quote processing started for refno: EN-19-011069
+21/08/2019 16:04:46 Filling Quotation.
+21/08/2019 16:04:47 Header details saved.
+21/08/2019 16:04:49 Filling items.
+21/08/2019 16:04:51 Updating item 25
+21/08/2019 16:07:12 ================21/08/2019 16:07:12================
+21/08/2019 16:07:12 ArcMarine HTTP processor started
+21/08/2019 16:07:12 ArcMarine Processor Started.
+21/08/2019 16:07:12 No files found.
+21/08/2019 16:07:12 
+21/08/2019 16:07:12 Started Loading interchange object.
+21/08/2019 16:07:12 stopped Loading interchange object.
+21/08/2019 16:07:12 Quote processing started.
+21/08/2019 16:07:12 Quote processing started for refno: EN-19-011069
+21/08/2019 16:07:15 Filling Quotation.
+21/08/2019 16:07:15 Header details saved.
+21/08/2019 16:07:16 Filling items.
+21/08/2019 16:07:17 Updating item 25
+21/08/2019 16:12:14 ================21/08/2019 16:12:14================
+21/08/2019 16:12:14 ArcMarine HTTP processor started
+21/08/2019 16:12:14 ArcMarine Processor Started.
+21/08/2019 16:12:14 No files found.
+21/08/2019 16:12:14 
+21/08/2019 16:12:14 Started Loading interchange object.
+21/08/2019 16:12:14 stopped Loading interchange object.
+21/08/2019 16:12:14 Quote processing started.
+21/08/2019 16:12:14 Quote processing started for refno: EN-19-011069
+21/08/2019 16:12:16 Filling Quotation.
+21/08/2019 16:12:17 Header details saved.
+21/08/2019 16:12:19 Filling items.
+21/08/2019 16:12:20 Updating item 25

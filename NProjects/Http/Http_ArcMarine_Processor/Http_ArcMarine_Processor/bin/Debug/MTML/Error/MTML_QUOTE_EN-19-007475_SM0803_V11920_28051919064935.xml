@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="19004458" Identifier="UNOC" Recipient="SM0803_WEB" Sender="V11920" PreparationDate="2019-May-28" PreparationTime="19:06" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3767" LesRecordID="11608226" LesLinkID="104548" MTML_DOCID="C52B7450-6D4B-42B3-B05D-E9ED0608718F">
+    <Quote MessageReferenceNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=E4AFF5E4-FC80-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" MessageNumber="https://apps2.southnests.com/ArchangelReports/Purchase/PurchaseQuotationRFQ.aspx?SESSIONID=E4AFF5E4-FC80-E911-80E9-06ABAD61BE97&amp;STOCKTYPE=STORE" LineItemCount="37" VersionNumber="" CurrencyCode="EUR" LeadTimeDays="0" OriginalFile="QUOTE_EN-19-007475_190528_12243109.XLS" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201905281906" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="EN-19-007475" />
+      <Reference Qualifier="AAG" ReferenceNumber="19004458" />
+      <Party Qualifier="BY" Name="Arc Marine PTE Ltd">
+        <Contact Name="ABHISHEK SALUNKHE">
+          <CommunicationMethod Qualifier="TE" Number="68422822" />
+          <CommunicationMethod Qualifier="EM" Number="storemum3@arcmarine.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="VN" Name="GIMAS SHIP SUPPLY &amp;amp; SERVICES B.V.">
+        <Contact>
+          <CommunicationMethod Qualifier="TE" Number="31103027820 31615286575" />
+          <CommunicationMethod Qualifier="EM" Number="rotterdam@gimas.com" />
+        </Contact>
+      </Party>
+      <Party Qualifier="CN">
+        <Contact />
+        <StreetAddress>-</StreetAddress>
+      </Party>
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="HEXAGON HEAD BOLT WITH NUT  STEEL M10X50MM" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="1" SystemItemNo="1" MonetaryAmount="7.65" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.18" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.18" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="HEXAGON HEAD BOLT WITH NUT  STEEL M12X100MM" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="2" SystemItemNo="2" MonetaryAmount="17.43" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.41" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.41" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="HEXAGON HEAD BOLT WITH NUT  STEEL M14X100MM" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="3" SystemItemNo="3" MonetaryAmount="28.90" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.68" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.68" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="HEXAGON HEAD BOLT WITH NUT  STEEL M18X120MM" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="4" SystemItemNo="4" MonetaryAmount="56.10" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.32" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.32" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="ROD CUTTER ELECTRIC PORTABLE - WHEEL DIA 405MM AC220V 1-PHASE" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="5" SystemItemNo="5" MonetaryAmount="136.55" Identification="591157" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="160.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="160.65" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="CUTTING WHEEL OD405MM - 4800MTR/MIN F/ELEC ROD CUTTER" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="6" SystemItemNo="6" MonetaryAmount="51.61" Identification="591162" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.06" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.06" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="WHEEL CUT-OFF RESINOID GRAIN36 - 100X2.0X15.88MM 4300MTR/MIN" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="7" SystemItemNo="7" MonetaryAmount="7.82" Identification="614859" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.46" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.46" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="8" Description="LEAK DETECTOR - SUPER COLOR CHECK 300CC 6S" MeasureUnitQualifier="SET" Quantity="2" TypeCode="BP" OriginatingSystemRef="8" SystemItemNo="8" MonetaryAmount="24.33" Identification="617026" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="14.31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="14.31" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="WHEEL MOUNTED SHAPE-W - 25X50X40MM SHAFT DIAM 6MM" MeasureUnitQualifier="PCS" Quantity="5" TypeCode="BP" OriginatingSystemRef="9" SystemItemNo="9" MonetaryAmount="3.61" Identification="614573" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.85" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.85" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="10" Description="WHEEL GRINDING OFFSET RESINOID - 180X6X22MM GRAIN36 4300MTR/MIN" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="10" SystemItemNo="10" MonetaryAmount="14.48" Identification="614811" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.42" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="11" Description="WHEEL GRINDING OFFSET RESINOID - 100X6X15MM GRAIN36 4300MTR/MIN" MeasureUnitQualifier="PCS" Quantity="12" TypeCode="BP" OriginatingSystemRef="11" SystemItemNo="11" MonetaryAmount="6.73" Identification="614803" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.66" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.66" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="12" Description="TUBE PVC ELECTRIC ID-15MM" MeasureUnitQualifier="MTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="12" SystemItemNo="12" MonetaryAmount="40.38" Identification="795488" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.95" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.95" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="13" Description="SHEET PACKING NON-ASBESTOS - #172 3.0X1500X1500MM" MeasureUnitQualifier="SHT" Quantity="5" TypeCode="BP" OriginatingSystemRef="13" SystemItemNo="13" MonetaryAmount="74.04" Identification="811285" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="17.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="17.42" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="14" Description="JOINT SHEET NATURAL RUBBER - 3.0X1000X1000MM" MeasureUnitQualifier="MTR" Quantity="3" TypeCode="BP" OriginatingSystemRef="14" SystemItemNo="14" MonetaryAmount="10.81" Identification="811114" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.24" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.24" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="15" Description="FLUX WELDING 0.1KG - FOR ALUMINIUM WELDING" MeasureUnitQualifier="CAN" Quantity="2" TypeCode="BP" OriginatingSystemRef="15" SystemItemNo="15" MonetaryAmount="31.55" Identification="850486" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="18.56" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="18.56" />
+        <Comments Qualifier="LIN">
+          <value>GAS WELDING FLUX ALUMINIUM (250 gram)
+</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="16" Description="GLOVES WORKING COTTON - NON SLIP DOTS" MeasureUnitQualifier="PCS" Quantity="200" TypeCode="BP" OriginatingSystemRef="16" SystemItemNo="16" MonetaryAmount="52.70" Identification="190103" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.31" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.31" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="17" Description="RAG COTTON OVER 60% STERILIZED - WHITE" MeasureUnitQualifier="KG" Quantity="200" TypeCode="BP" OriginatingSystemRef="17" SystemItemNo="17" MonetaryAmount="153.00" Identification="232906" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.9" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.9" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="18" Description="ANTI-SEIZE COMPOUND 500GRM" MeasureUnitQualifier="TIN" Quantity="2" TypeCode="BP" OriginatingSystemRef="18" SystemItemNo="18" MonetaryAmount="10.10" Identification="450566" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.94" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.94" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="19" Description="LUBRICANT WD-40 SPRAY 360ML" MeasureUnitQualifier="TIN" Quantity="10" TypeCode="BP" OriginatingSystemRef="19" SystemItemNo="19" MonetaryAmount="12.41" Identification="450702" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.46" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.46" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="20" Description="STEEL EQUAL ANGLE HOT-ROLLED - 50X50X6MM 5.5MTR" MeasureUnitQualifier="LGH" Quantity="30" TypeCode="BP" OriginatingSystemRef="20" SystemItemNo="20" MonetaryAmount="776.73" Identification="670608" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="30.46" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="30.46" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="21" Description="STEEL PLATE UNGALV HOT-ROLLED - 0.8X914X1829MM" MeasureUnitQualifier="SHT" Quantity="1" TypeCode="BP" OriginatingSystemRef="21" SystemItemNo="21" MonetaryAmount="19.22" Identification="670702" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="22.61" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="22.61" />
+        <Comments Qualifier="LIN">
+          <value>2000 x 1000 x 1,0 mm</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="22" Description="STEEL PLATE UNGALV HOT-ROLLED - 12X914X1829MM" MeasureUnitQualifier="SHT" Quantity="1" TypeCode="BP" OriginatingSystemRef="22" SystemItemNo="22" MonetaryAmount="200.81" Identification="670715" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="236.25" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="236.25" />
+        <Comments Qualifier="LIN">
+          <value>2000 x 1000 x 12,0 mm</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="23" Description="LAMP FLUORESCENT DAYLIGHT - FL-20SSD/18-24 18W 27X588.7MM" MeasureUnitQualifier="PCS" Quantity="75" TypeCode="BP" OriginatingSystemRef="23" SystemItemNo="23" MonetaryAmount="36.34" Identification="791432" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.57" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.57" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="24" Description="HEXAGON HEAD BOLT WITH NUT  STEEL M16X130MM" MeasureUnitQualifier="PCS" Quantity="50" TypeCode="BP" OriginatingSystemRef="24" SystemItemNo="24" MonetaryAmount="79.05" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.86" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.86" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="25" Description="HEXAGON HEAD BOLT WITH NUT  STEEL M4X35MM" MeasureUnitQualifier="PCS" Quantity="20" TypeCode="BP" OriginatingSystemRef="25" SystemItemNo="25" MonetaryAmount="0.68" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0.04" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0.04" />
+        <Comments Qualifier="LIN">
+          <value>HEX HEAD BOLT/NUT STEEL UNGALV, M4 X 40MM</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="26" Description="ELECTRODE B-1 3.2MM 5KG - FOR MILD STEEL" MeasureUnitQualifier="PKT" Quantity="10" TypeCode="BP" OriginatingSystemRef="26" SystemItemNo="26" MonetaryAmount="60.27" Identification="850602" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.09" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="27" Description="ELECTRODE B-1 4.0MM 5KG - FOR MILD STEEL" MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="27" SystemItemNo="27" MonetaryAmount="36.16" Identification="850603" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.09" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="28" Description="ELECTRODE 16 3.2MM 5KG - FOR MILD STEEL" MeasureUnitQualifier="PKT" Quantity="10" TypeCode="BP" OriginatingSystemRef="28" SystemItemNo="28" MonetaryAmount="80.33" Identification="850672" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.45" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.45" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="29" Description="ELECTRODE L-55 2.6MM 5KG - FOR HIGH TENSILE STEEL" MeasureUnitQualifier="PKT" Quantity="5" TypeCode="BP" OriginatingSystemRef="29" SystemItemNo="29" MonetaryAmount="41.61" Identification="850701" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.79" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.79" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="30" Description="ELECTRODE C-1N 3.2MM 2KG - FOR CAST IRON" MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="30" SystemItemNo="30" MonetaryAmount="487.82" Identification="850731" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="95.65" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="95.65" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="31" Description="ELECTRODE 309-R 2.0MM 2.5KG - FOR STAINLESS STEEL" MeasureUnitQualifier="PKT" Quantity="6" TypeCode="BP" OriginatingSystemRef="31" SystemItemNo="31" MonetaryAmount="148.46" Identification="850741" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="29.11" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="29.11" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="32" Description="FL LIGHTBULB COMPACT GLOBELESS, E-26 220V 60W DAYLIGHT" MeasureUnitQualifier="PCS" Quantity="40" TypeCode="BP" OriginatingSystemRef="32" SystemItemNo="32" MonetaryAmount="55.08" Identification="791592" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.62" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="33" Description="GLOVES WORKING LEATHER PALM" MeasureUnitQualifier="PCS" Quantity="200" TypeCode="BP" OriginatingSystemRef="33" SystemItemNo="33" MonetaryAmount="185.30" Identification="190111" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.09" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.09" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="34" Description="SILICON SEALANT 100GRM" MeasureUnitQualifier="TUB" Quantity="5" TypeCode="BP" OriginatingSystemRef="34" SystemItemNo="34" MonetaryAmount="5.70" Identification="812601" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="1.34" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="1.34" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="35" Description="SEALING AGENT PERMATEX - FORM-A GASKET NO.2 1.5 OZ" MeasureUnitQualifier="TUB" Quantity="5" TypeCode="BP" OriginatingSystemRef="35" SystemItemNo="35" MonetaryAmount="32.60" Identification="812614" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.67" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.67" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="36" Description="GLUE GENERAL PURPOSE 1KG" MeasureUnitQualifier="CAN" Quantity="3" TypeCode="BP" OriginatingSystemRef="36" SystemItemNo="36" MonetaryAmount="11.99" Identification="812703" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.7" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.7" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="37" Description="TEFLON ROUND 22X1000MM" MeasureUnitQualifier="LGH" Quantity="1" TypeCode="BP" OriginatingSystemRef="37" SystemItemNo="37" MonetaryAmount="3.79" Identification="812521" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.46" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="15" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.46" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="3002.107" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="3002.107" />
+    </Quote>
+  </Interchange>
+</MTML>
