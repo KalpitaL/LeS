@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8822993-1" Identifier="UNOC" Recipient="SM0752_WEB" Sender="V10107" PreparationDate="2020-Jan-08" PreparationTime="18:24" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2679" LesRecordID="11892288" LesLinkID="103736" ParentRecordID="11888965" MTML_DOCID="088B297C-B76E-45CE-B9EF-546D16ACACEB">
+    <Quote MessageReferenceNumber="E/383/DS004/20/1398" MessageNumber="https://webquote.navbul.com/suppliers/Edit_Req.aspx?LeadIDT=E/383/DS004/20/1398" LineItemCount="1" VersionNumber="1" CurrencyCode="EUR" LeadTimeDays="0" BuyerRefNo="E/383/DS004/20/1398" OriginalFile="20200108111741-QUO-E-383-DS004-20-1398-1.xml" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="247.92" BuyerQuoteTotal="247.92">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202001081224" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202003081824" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="E/383/DS004/20/1398" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8822993-1" />
+      <Party Qualifier="BY" Name="Navigation Maritime Bulgare">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="SLAVYANKA">
+        <PartyLocation Qualifier="ZUC" Berth="SKAGEN" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="COMET PAINS WESSEX LINE THROWING ROCKET 9162700 # 50080 UN0431 CLASS 1.4G" MeasureUnitQualifier="Pieces" Quantity="2" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_0" SystemItemNo="1" MonetaryAmount="247.92" Identification="3313XX" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="123.96" BuyerItemTotal="247.92" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="123.96" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="123.96" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 2 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="247.920" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="247.920" />
+      <MonetaryAmount Qualifier="_90" Value="247.920" />
+      <MonetaryAmount Qualifier="_91" Value="247.920" />
+    </Quote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8817239-2" Identifier="UNOC" Recipient="SM0752_WEB" Sender="V10107" PreparationDate="2019-Dec-13" PreparationTime="12:24" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="2" LesGroupID="2679" LesRecordID="11861224" LesLinkID="103736" ParentRecordID="11859194" MTML_DOCID="60F13B63-3CE6-49A0-8F60-088DBBAC2CDB">
+    <Quote MessageReferenceNumber="E/364/DS022/19/1398" MessageNumber="https://webquote.navbul.com/suppliers/Edit_Req.aspx?LeadIDT=E/364/DS022/19/1398" LineItemCount="1" VersionNumber="1" CurrencyCode="EUR" LeadTimeDays="0" BuyerRefNo="E/364/DS022/19/1398" OriginalFile="20191212165818-QUO-E-364-DS022-19-1398-2.xml" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="2" BuyerItemTotal="851.69" BuyerQuoteTotal="851.69">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201912130624" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202002111224" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="E/364/DS022/19/1398" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8817239-2" />
+      <Party Qualifier="BY" Name="Navigation Maritime Bulgare">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="OBORISHTE">
+        <PartyLocation Qualifier="ZUC" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="TETRA SP-215. Elektrische dompelpomp. 220V. 60Hz. 3Ph. 2&#xA;HP. 2&quot; aansluiting. Max Opvoerhoogte 28m. Max Cap. 0.33&#xA;m3/min&#xA;3 fase 220 V&#xA;Meets the requirements&#xA;HS-code: 8413702100 Brondocument: Taiwan" MeasureUnitQualifier="SET" Quantity="1" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_0" SystemItemNo="1" MonetaryAmount="851.69" Identification="SHIPSERVSET" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="SET" Supp_UOM="SET" Supp_Price="851.69" BuyerItemTotal="851.69" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="851.69" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="851.69" />
+        <Comments Qualifier="LIN">
+          <value>
+TETRA SP-215. Elektrische dompelpomp. 220V. 60Hz. 3Ph. 2
+HP. 2" aansluiting. Max Opvoerhoogte 28m. Max Cap. 0.33
+m3/min
+3 fase 220 V
+Meets the requirements
+HS-code: 8413702100 Brondocument: Taiwa
+TETRA SP-322/440. Elektrische dompelpomp. 440V. 3Ph. 60 Hz.
+3HP. 3" aansluiting. Max Opvoerhoogte 33m. Max Cap. 0.55
+m3/min
+3 fase 440 V
+meets the requirements
+HS-code: 8413702100 Brondocument: T</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="851.690" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="851.690" />
+      <MonetaryAmount Qualifier="_90" Value="851.690" />
+      <MonetaryAmount Qualifier="_91" Value="851.690" />
+    </Quote>
+  </Interchange>
+</MTML>

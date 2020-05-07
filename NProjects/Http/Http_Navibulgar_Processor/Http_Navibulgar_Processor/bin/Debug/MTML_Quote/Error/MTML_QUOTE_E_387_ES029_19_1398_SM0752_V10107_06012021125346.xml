@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8822342-1" Identifier="UNOC" Recipient="SM0752_WEB" Sender="V10107" PreparationDate="2020-Jan-06" PreparationTime="21:12" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2679" LesRecordID="11887589" LesLinkID="103736" ParentRecordID="11884967" MTML_DOCID="3F1F4030-6B08-4AB6-B68E-8FBE26C2ACA3">
+    <Quote MessageReferenceNumber="E/387/ES029/19/1398" MessageNumber="https://webquote.navbul.com/suppliers/Edit_Req.aspx?LeadIDT=E/387/ES029/19/1398" LineItemCount="3" VersionNumber="1" CurrencyCode="EUR" LeadTimeDays="0" BuyerRefNo="E/387/ES029/19/1398" OriginalFile="20200106140349-QUO-E-387-ES029-19-1398-1.xml" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="303.46" BuyerQuoteTotal="303.46">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202001061512" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202003062112" />
+      <Comments Qualifier="SUR">
+        <value>
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="E/387/ES029/19/1398" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8822342-1" />
+      <Party Qualifier="BY" Name="Navigation Maritime Bulgare">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="VESLETS">
+        <PartyLocation Qualifier="ZUC" Berth="BRUNSBUTTEL" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="S.S. FLARELESS ELBOW UNION 10MM " MeasureUnitQualifier="Pieces" Quantity="16" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_0" SystemItemNo="1" MonetaryAmount="82.08" Identification="734423" IsExtraItem="0" ItemStatus="Original" Byr_Qty="16" Supp_Qty="16" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="5.13" BuyerItemTotal="82.08" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="5.13" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="5.13" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 16 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="S.S. FLARELESS UNION 10MM " MeasureUnitQualifier="Pieces" Quantity="50" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_1" SystemItemNo="2" MonetaryAmount="181.00" Identification="734403" IsExtraItem="0" ItemStatus="Original" Byr_Qty="50" Supp_Qty="50" Byr_UOM="Pieces" Supp_UOM="PCE" Supp_Price="3.62" BuyerItemTotal="181" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="3.62" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="3.62" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 50 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="SEAMLESS STAINLESS STEEL TUBING 304(L),     10X1,5 " MeasureUnitQualifier="Meters" Quantity="5" TypeCode="BP" OriginatingSystemRef="MainContent_GridView1_TextBox1_2" SystemItemNo="3" MonetaryAmount="40.38" Identification="711206" IsExtraItem="0" ItemStatus="Original" Byr_Qty="5" Supp_Qty="6" Byr_UOM="Meters" Supp_UOM="MTR" Supp_Price="6.73" BuyerItemTotal="40.38" IsQtyAmended="true">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.076" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.076" />
+        <Comments Qualifier="LIN">
+          <value> QTY : 6 | UOM : MTR</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="303.460" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="303.460" />
+      <MonetaryAmount Qualifier="_90" Value="303.460" />
+      <MonetaryAmount Qualifier="_91" Value="303.460" />
+    </Quote>
+  </Interchange>
+</MTML>
