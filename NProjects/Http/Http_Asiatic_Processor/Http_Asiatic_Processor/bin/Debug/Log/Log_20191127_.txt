@@ -1,0 +1,95 @@
+11/27/2019 11:22:15 AM ================11/27/2019 11:22:15 AM================
+11/27/2019 11:22:15 AM Asiatic HTTP Processor started
+11/27/2019 11:22:20 AM 
+11/27/2019 11:22:26 AM 
+11/27/2019 11:22:26 AM Reading file 191126_121438406.txt
+11/27/2019 11:23:04 AM Processing PO file '191126_121438406.txt
+11/27/2019 11:23:07 AM 191126_121438406_20191127112305.pdf downloaded successfully for 191126_121438406.msg
+11/27/2019 11:23:36 AM 
+11/27/2019 11:23:36 AM Reading file 191126_121440358.txt
+11/27/2019 11:23:43 AM Processing PO file '191126_121440358.txt
+11/27/2019 11:23:43 AM PO for url 'https://cfmatlanticlloyd.blob.core.windows.net/private/exports/purchase/orders/1847f555-84e7-4044-baa3-3f5cd0ea154f/SINGAPORE_Vessel_Order_Template_-_Asiatic_Lloyd_COINV_-_port_-_0226-114-2019e-O001.pdf?sv=2017-07-29&sr=b&si=ReadGroupPolicy&sig=1C5HWaQ5nuYbk%2BTOrkzCrogYHYfRTjCo3y45DSxhpxQ%3D&se=2019-12-11T04%3A11%3A02Z' already processed.
+11/27/2019 11:26:35 AM ================11/27/2019 11:26:35 AM================
+11/27/2019 11:26:35 AM Asiatic HTTP Processor started
+11/27/2019 11:26:35 AM 
+11/27/2019 11:26:37 AM 
+11/27/2019 11:26:37 AM Reading file 191126_231449275.txt
+11/27/2019 11:26:42 AM Unable to process file 191126_231449275.msg due to PO Domain not found in list.
+11/27/2019 11:27:55 AM ================11/27/2019 11:27:55 AM================
+11/27/2019 11:27:55 AM Asiatic HTTP Processor started
+11/27/2019 11:27:56 AM 
+11/27/2019 11:27:59 AM 
+11/27/2019 11:27:59 AM Reading file 191126_231449275.txt
+11/27/2019 11:28:39 AM Unable to process file 191126_231449275.msg due to PO Domain not found in list.
+11/27/2019 11:44:16 AM ================11/27/2019 11:44:16 AM================
+11/27/2019 11:44:16 AM Asiatic HTTP Processor started
+11/27/2019 11:44:18 AM 
+11/27/2019 11:44:22 AM 
+11/27/2019 11:44:22 AM Reading file 191126_231449275.txt
+11/27/2019 11:51:05 AM ================11/27/2019 11:51:05 AM================
+11/27/2019 11:51:05 AM Asiatic HTTP Processor started
+11/27/2019 11:51:10 AM 
+11/27/2019 11:51:12 AM 
+11/27/2019 11:51:12 AM Reading file 191126_231449275.txt
+11/27/2019 11:51:15 AM Unable to process file 191126_231449275.msg due to PO Domain not found in list.
+11/27/2019 11:51:46 AM ================11/27/2019 11:51:46 AM================
+11/27/2019 11:51:46 AM Asiatic HTTP Processor started
+11/27/2019 11:51:47 AM 
+11/27/2019 11:51:48 AM 
+11/27/2019 11:51:48 AM Reading file 191126_231449275.txt
+11/27/2019 11:52:29 AM ================11/27/2019 11:52:29 AM================
+11/27/2019 11:52:29 AM Asiatic HTTP Processor started
+11/27/2019 11:52:30 AM 
+11/27/2019 11:52:31 AM 
+11/27/2019 11:52:31 AM Reading file 191126_231449275.txt
+11/27/2019 11:52:38 AM Unable to process file 191126_231449275.msg due to PO Domain not found in list.
+11/27/2019 11:53:08 AM Asiatic HTTP Processor stopped at 11/27/2019 11:53:08 AM
+11/27/2019 11:53:08 AM ====================================================
+11/27/2019 12:01:38 PM ================11/27/2019 12:01:38 PM================
+11/27/2019 12:01:38 PM Asiatic HTTP Processor started
+11/27/2019 12:01:38 PM 
+11/27/2019 12:01:38 PM 
+11/27/2019 12:01:38 PM Reading file 191126_121440358.txt
+11/27/2019 12:01:43 PM Processing PO file '191126_121440358.txt
+11/27/2019 12:01:43 PM PO for url 'https://cfmatlanticlloyd.blob.core.windows.net/private/exports/purchase/orders/1847f555-84e7-4044-baa3-3f5cd0ea154f/SINGAPORE_Vessel_Order_Template_-_Asiatic_Lloyd_COINV_-_port_-_0226-114-2019e-O001.pdf?sv=2017-07-29&sr=b&si=ReadGroupPolicy&sig=1C5HWaQ5nuYbk%2BTOrkzCrogYHYfRTjCo3y45DSxhpxQ%3D&se=2019-12-11T04%3A11%3A02Z' already processed.
+11/27/2019 12:01:43 PM 
+11/27/2019 12:01:43 PM Reading file 191126_231449275.txt
+11/27/2019 12:01:43 PM URL not found for navigation in file: 191126_231449275.txt
+11/27/2019 12:01:43 PM 
+11/27/2019 12:01:43 PM Reading file 191127_002653179.txt
+11/27/2019 12:01:43 PM Processing RFQ file '191127_002653179.txt'
+11/27/2019 12:01:43 PM https://vega.cloudfleetmanager.com/apps/quote/a516e5ae-d294-42f1-a4e0-0bc1e3123889
+11/27/2019 12:01:46 PM RFQ data extracted successfully.
+11/27/2019 12:01:46 PM Start Getting Header details
+11/27/2019 12:01:46 PM Getting Header details completed successfully.
+11/27/2019 12:01:46 PM Start Getting LineItem details
+11/27/2019 12:01:46 PM Getting LineItem details successfully
+11/27/2019 12:01:46 PM Start Getting address details
+11/27/2019 12:01:46 PM Getting address details successfully
+11/27/2019 12:01:46 PM 191127_002653179_RFQ_-1208_2019e-I001_20191127120146.xml downloaded successfully for 191127_002653179.msg
+11/27/2019 12:01:46 PM 
+11/27/2019 12:01:46 PM Reading file L101007_191126_231449275.txt
+11/27/2019 12:01:46 PM URL not found for navigation in file: L101007_191126_231449275.txt
+11/27/2019 12:01:46 PM Asiatic HTTP Processor stopped at 11/27/2019 12:01:46 PM
+11/27/2019 12:01:46 PM ====================================================
+11/27/2019 12:13:41 PM ================11/27/2019 12:13:41 PM================
+11/27/2019 12:13:41 PM Asiatic HTTP Processor started
+11/27/2019 12:13:41 PM 
+11/27/2019 12:13:41 PM 
+11/27/2019 12:13:41 PM Reading file 191126_121438406.txt
+11/27/2019 12:13:44 PM --------------------------------------
+11/27/2019 12:13:44 PM Processing PO file '191126_121438406.txt
+11/27/2019 12:13:44 PM PO for url 'https://cfmatlanticlloyd.blob.core.windows.net/private/exports/purchase/orders/1847f555-84e7-4044-baa3-3f5cd0ea154f/SINGAPORE_Vessel_Order_Template_-_Asiatic_Lloyd_COINV_-_port_-_0226-114-2019e-O001.pdf?sv=2017-07-29&sr=b&si=ReadGroupPolicy&sig=1C5HWaQ5nuYbk%2BTOrkzCrogYHYfRTjCo3y45DSxhpxQ%3D&se=2019-12-11T04%3A11%3A02Z' already processed.
+11/27/2019 12:13:44 PM 
+11/27/2019 12:13:44 PM Reading file 191126_121440358.txt
+11/27/2019 12:13:45 PM --------------------------------------
+11/27/2019 12:13:45 PM Processing PO file '191126_121440358.txt
+11/27/2019 12:13:45 PM PO for url 'https://cfmatlanticlloyd.blob.core.windows.net/private/exports/purchase/orders/1847f555-84e7-4044-baa3-3f5cd0ea154f/SINGAPORE_Vessel_Order_Template_-_Asiatic_Lloyd_COINV_-_port_-_0226-114-2019e-O001.pdf?sv=2017-07-29&sr=b&si=ReadGroupPolicy&sig=1C5HWaQ5nuYbk%2BTOrkzCrogYHYfRTjCo3y45DSxhpxQ%3D&se=2019-12-11T04%3A11%3A02Z' already processed.
+11/27/2019 12:13:45 PM 
+11/27/2019 12:13:45 PM Reading file 191126_231449275.txt
+11/27/2019 12:13:45 PM PO Domain not found in list.
+11/27/2019 12:13:45 PM --------------------------------------
+11/27/2019 12:13:45 PM URL not found for navigation in file: 191126_231449275.txt
+11/27/2019 12:13:45 PM Unable to process file 191126_231449275.msg due to The file 'E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Asiatic_Processor\Http_Asiatic_Processor\bin\Debug\ScreenShots\191126_231449275.txt' already exists.
+11/27/2019 12:13:45 PM Asiatic HTTP Processor stopped at 11/27/2019 12:13:45 PM
+11/27/2019 12:13:45 PM ====================================================

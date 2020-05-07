@@ -1,0 +1,5 @@
+4/30/2020 11:57:07 AM ================4/30/2020 11:57:07 AM================
+4/30/2020 11:57:07 AM CloudFleetManager HTTP Processor started
+4/30/2020 11:57:07 AM 
+4/30/2020 11:57:13 AM 
+4/30/2020 11:57:14 AM Reading file AW  MV 05  ELBFEEDER    -   RfQ of our Inq -No  05-033 2020d-Inq001.txt

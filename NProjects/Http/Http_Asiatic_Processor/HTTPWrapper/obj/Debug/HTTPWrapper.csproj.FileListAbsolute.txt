@@ -1,0 +1,81 @@
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\obj\Debug\HTTPWrapper.pdb
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\bin\Debug\HtmlAgilityPack.dll
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\bin\Debug\HTTPMethods.dll
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\bin\Debug\HtmlAgilityPack.pdb
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\bin\Debug\HtmlAgilityPack.xml
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+D:\Work\HTTPRoutines\HTTPWrapper\HTTPWrapper\obj\Debug\HTTPWrapper.csprojResolveAssemblyReference.cache
+D:\Working\HTTP_POST\Http_Phoenix_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+D:\Working\HTTP_POST\Http_Phoenix_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+D:\Working\HTTP_POST\Http_Phoenix_Processor\HTTPWrapper\bin\Debug\HTTPMethods.dll
+D:\Working\HTTP_POST\Http_Phoenix_Processor\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+D:\Working\HTTP_POST\Http_Phoenix_Processor\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+D:\Working\HTTP_POST\Http_Phoenix_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+D:\Working\HTTP_POST\Http_Phoenix_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.pdb
+D:\Working\HTTP_POST\Http_Phoenix_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.csprojResolveAssemblyReference.cache
+D:\Working\HTTP_POST\Http_Navibulgar_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+D:\Working\HTTP_POST\Http_Navibulgar_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+D:\Working\HTTP_POST\Http_Navibulgar_Processor\HTTPWrapper\bin\Debug\HTTPMethods.dll
+D:\Working\HTTP_POST\Http_Navibulgar_Processor\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+D:\Working\HTTP_POST\Http_Navibulgar_Processor\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+D:\Working\HTTP_POST\Http_Navibulgar_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+D:\Working\HTTP_POST\Http_Navibulgar_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.pdb
+D:\Working\HTTP_POST\Http_Navibulgar_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.csprojResolveAssemblyReference.cache
+D:\Working\HTTP_POST\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+D:\Working\HTTP_POST\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+D:\Working\HTTP_POST\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.dll
+D:\Working\HTTP_POST\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+D:\Working\HTTP_POST\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+D:\Working\HTTP_POST\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+D:\Working\HTTP_POST\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.pdb
+D:\Working\HTTP_POST\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.csprojResolveAssemblyReference.cache
+D:\Temp\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+D:\Temp\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+D:\Temp\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.dll
+D:\Temp\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+D:\Temp\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+D:\Temp\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+D:\Temp\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.pdb
+D:\Working\HTTP_POST\Asiatic\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+D:\Working\HTTP_POST\Asiatic\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+D:\Working\HTTP_POST\Asiatic\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.dll
+D:\Working\HTTP_POST\Asiatic\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+D:\Working\HTTP_POST\Asiatic\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+D:\Working\HTTP_POST\Asiatic\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+D:\Working\HTTP_POST\Asiatic\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.pdb
+E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.dll
+E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.pdb
+D:\Anita\Projects\Processors\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+D:\Anita\Projects\Processors\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+D:\Anita\Projects\Processors\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.dll
+D:\Anita\Projects\Processors\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+D:\Anita\Projects\Processors\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+D:\Anita\Projects\Processors\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.csprojResolveAssemblyReference.cache
+D:\Anita\Projects\Processors\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+D:\Anita\Projects\Processors\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.pdb
+E:\Projects\LES\Namrata_Projects\HTTP_Live_Scrappers\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.csprojResolveAssemblyReference.cache
+D:\Office Work\Namrata_Projects_16032020\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+D:\Office Work\Namrata_Projects_16032020\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+D:\Office Work\Namrata_Projects_16032020\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.dll
+D:\Office Work\Namrata_Projects_16032020\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+D:\Office Work\Namrata_Projects_16032020\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+D:\Office Work\Namrata_Projects_16032020\Http\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.csprojResolveAssemblyReference.cache
+D:\Office Work\Namrata_Projects_16032020\Http\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+D:\Office Work\Namrata_Projects_16032020\Http\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.pdb
+D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.dll
+D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPWrapper.pdb
+D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.dll
+D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\SautinSoft.PdfVision.dll
+D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Http\Http_Asiatic_Processor\HTTPWrapper\bin\Debug\HTTPMethods.pdb
+D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Http\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.csprojResolveAssemblyReference.cache
+D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Http\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.dll
+D:\Office Work\Git_Office\Git_Officework\Projects\LeS\NProjects\Http\Http_Asiatic_Processor\HTTPWrapper\obj\Debug\HTTPWrapper.pdb

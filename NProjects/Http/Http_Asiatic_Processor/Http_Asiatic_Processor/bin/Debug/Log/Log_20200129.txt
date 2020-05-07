@@ -1,0 +1,86 @@
+1/29/2020 11:05:22 AM ================1/29/2020 11:05:22 AM================
+1/29/2020 11:05:22 AM CloudFleetManager HTTP Processor started
+1/29/2020 11:05:22 AM 
+1/29/2020 11:05:22 AM 
+1/29/2020 11:05:22 AM Reading file 200128_090226014.txt
+1/29/2020 11:05:23 AM Processing RFQ file '200128_090226014.txt'
+1/29/2020 11:05:23 AM https://cr.cloudfleetmanager.com/apps/quote/2a26df08-630a-4041-9d6b-dac9849ef927
+1/29/2020 11:05:28 AM RFQ data extracted successfully.
+1/29/2020 11:05:28 AM Start Getting Header details
+1/29/2020 11:05:28 AM Getting Header details completed successfully.
+1/29/2020 11:05:28 AM Start Getting LineItem details
+1/29/2020 11:20:32 AM ================1/29/2020 11:20:32 AM================
+1/29/2020 11:20:32 AM CloudFleetManager HTTP Processor started
+1/29/2020 11:20:32 AM 
+1/29/2020 11:20:32 AM 
+1/29/2020 11:20:32 AM Reading file 200128_090226014.txt
+1/29/2020 11:20:35 AM Processing RFQ file '200128_090226014.txt'
+1/29/2020 11:20:35 AM https://cr.cloudfleetmanager.com/apps/quote/2a26df08-630a-4041-9d6b-dac9849ef927
+1/29/2020 11:20:40 AM RFQ data extracted successfully.
+1/29/2020 11:20:40 AM Start Getting Header details
+1/29/2020 11:20:40 AM Getting Header details completed successfully.
+1/29/2020 11:20:40 AM Start Getting LineItem details
+1/29/2020 11:20:43 AM Getting LineItem details successfully
+1/29/2020 11:20:43 AM Start Getting address details
+1/29/2020 11:20:43 AM Getting address details successfully
+1/29/2020 11:20:43 AM 200128_090226014_RFQ_M_V-155_2020d-I001_20200129112043.xml downloaded successfully for 200128_090226014.msg
+1/29/2020 11:21:09 AM --------------------------------------
+1/29/2020 11:21:09 AM CloudFleetManager HTTP Processor stopped at 1/29/2020 11:21:09 AM
+1/29/2020 11:21:09 AM ====================================================
+1/29/2020 11:23:38 AM ================1/29/2020 11:23:38 AM================
+1/29/2020 11:23:38 AM CloudFleetManager HTTP Processor started
+1/29/2020 11:23:38 AM 
+1/29/2020 11:23:38 AM 
+1/29/2020 11:23:38 AM Reading file 200128_090226014.txt
+1/29/2020 11:23:39 AM Processing RFQ file '200128_090226014.txt'
+1/29/2020 11:23:39 AM https://cr.cloudfleetmanager.com/apps/quote/2a26df08-630a-4041-9d6b-dac9849ef927
+1/29/2020 11:23:39 AM RFQ for url 'https://cr.cloudfleetmanager.com/apps/quote/2a26df08-630a-4041-9d6b-dac9849ef927' already processed.
+1/29/2020 11:23:39 AM --------------------------------------
+1/29/2020 11:23:39 AM CloudFleetManager HTTP Processor stopped at 1/29/2020 11:23:39 AM
+1/29/2020 11:23:39 AM ====================================================
+1/29/2020 11:24:03 AM ================1/29/2020 11:24:03 AM================
+1/29/2020 11:24:03 AM CloudFleetManager HTTP Processor started
+1/29/2020 11:24:03 AM 
+1/29/2020 11:24:03 AM 
+1/29/2020 11:24:03 AM Reading file 200128_090226014.txt
+1/29/2020 11:24:04 AM Processing RFQ file '200128_090226014.txt'
+1/29/2020 11:24:04 AM https://cr.cloudfleetmanager.com/apps/quote/2a26df08-630a-4041-9d6b-dac9849ef927
+1/29/2020 11:24:04 AM RFQ for url 'https://cr.cloudfleetmanager.com/apps/quote/2a26df08-630a-4041-9d6b-dac9849ef927' already processed.
+1/29/2020 11:24:04 AM --------------------------------------
+1/29/2020 11:24:04 AM CloudFleetManager HTTP Processor stopped at 1/29/2020 11:24:04 AM
+1/29/2020 11:24:04 AM ====================================================
+1/29/2020 11:24:40 AM ================1/29/2020 11:24:40 AM================
+1/29/2020 11:24:40 AM CloudFleetManager HTTP Processor started
+1/29/2020 11:24:40 AM 
+1/29/2020 11:24:40 AM No file found.
+1/29/2020 11:24:40 AM CloudFleetManager HTTP Processor stopped at 1/29/2020 11:24:40 AM
+1/29/2020 11:24:40 AM ====================================================
+1/29/2020 11:24:51 AM ================1/29/2020 11:24:51 AM================
+1/29/2020 11:24:51 AM CloudFleetManager HTTP Processor started
+1/29/2020 11:24:51 AM 
+1/29/2020 11:24:51 AM 
+1/29/2020 11:24:51 AM Reading file 200128_090226014.txt
+1/29/2020 11:24:51 AM Processing RFQ file '200128_090226014.txt'
+1/29/2020 11:24:51 AM https://cr.cloudfleetmanager.com/apps/quote/2a26df08-630a-4041-9d6b-dac9849ef927
+1/29/2020 11:24:55 AM RFQ data extracted successfully.
+1/29/2020 11:24:55 AM Start Getting Header details
+1/29/2020 11:24:55 AM Getting Header details completed successfully.
+1/29/2020 11:24:55 AM Start Getting LineItem details
+1/29/2020 11:25:16 AM ================1/29/2020 11:25:16 AM================
+1/29/2020 11:25:16 AM CloudFleetManager HTTP Processor started
+1/29/2020 11:25:16 AM 
+1/29/2020 11:25:16 AM 
+1/29/2020 11:25:16 AM Reading file 200128_090226014.txt
+1/29/2020 11:25:17 AM Processing RFQ file '200128_090226014.txt'
+1/29/2020 11:25:17 AM https://cr.cloudfleetmanager.com/apps/quote/2a26df08-630a-4041-9d6b-dac9849ef927
+1/29/2020 11:25:21 AM RFQ data extracted successfully.
+1/29/2020 11:25:21 AM Start Getting Header details
+1/29/2020 11:25:21 AM Getting Header details completed successfully.
+1/29/2020 11:25:21 AM Start Getting LineItem details
+1/29/2020 11:25:31 AM Getting LineItem details successfully
+1/29/2020 11:25:31 AM Start Getting address details
+1/29/2020 11:25:31 AM Getting address details successfully
+1/29/2020 11:25:31 AM 200128_090226014_RFQ_M_V-155_2020d-I001_20200129112531.xml downloaded successfully for 200128_090226014.msg
+1/29/2020 11:25:34 AM --------------------------------------
+1/29/2020 11:25:34 AM CloudFleetManager HTTP Processor stopped at 1/29/2020 11:25:34 AM
+1/29/2020 11:25:34 AM ====================================================

@@ -1,0 +1,23 @@
+06/08/2019 17:48:08 ================06/08/2019 17:48:08================
+06/08/2019 17:48:08 Asiatic HTTP Processor started
+06/08/2019 17:48:08 
+06/08/2019 17:48:18 
+06/08/2019 17:48:18 Reading file 190806_194453232.txt
+06/08/2019 17:49:09 ================06/08/2019 17:49:09================
+06/08/2019 17:49:09 Asiatic HTTP Processor started
+06/08/2019 17:49:09 
+06/08/2019 17:49:10 
+06/08/2019 17:49:10 Reading file 190806_194453232.txt
+06/08/2019 17:50:44 ================06/08/2019 17:50:44================
+06/08/2019 17:50:44 Asiatic HTTP Processor started
+06/08/2019 17:50:44 
+06/08/2019 17:50:45 
+06/08/2019 17:50:45 Reading file 190806_194453232.txt
+06/08/2019 17:51:06 Processing RFQ file '190806_194453232.txt'
+06/08/2019 17:51:08 RFQ data extracted successfully.
+06/08/2019 17:51:08 Start Getting Header details
+06/08/2019 17:51:08 Getting Header details completed successfully.
+06/08/2019 17:51:08 Start Getting LineItem details
+06/08/2019 17:51:08 Getting LineItem details successfully
+06/08/2019 17:51:08 Start Getting address details
+06/08/2019 17:51:08 Getting address details successfully

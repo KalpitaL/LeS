@@ -1,0 +1,1 @@
+||Asiatic_HTTP_|||Error|19-11-07 10:22 : LeS-1004:Unable to process file 191008_111452575.msg due to RFQ Domain not found in list.||LeS_182|||Http_Asiatic_Processor
