@@ -1,0 +1,12 @@
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\bin\Debug\PasificBasinRoutine.dll
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\bin\Debug\PasificBasinRoutine.pdb
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\bin\Debug\Aspose.Cells.dll
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\bin\Debug\DotNetBrowser.dll
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\bin\Debug\DotNetBrowserWrapper.dll
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\bin\Debug\LeSXML.dll
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\bin\Debug\MTML.GENERATOR.dll
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\bin\Debug\DotNetBrowser.Chromium.dll
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\bin\Debug\DotNetBrowserWrapper.pdb
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\obj\Debug\PasificBasinRoutine.csprojResolveAssemblyReference.cache
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\obj\Debug\PasificBasinRoutine.dll
+D:\Working\DotNetBrowser\PasificBasin_Neko\PasificBasin_Processor\PasificBasinRoutine\obj\Debug\PasificBasinRoutine.pdb
