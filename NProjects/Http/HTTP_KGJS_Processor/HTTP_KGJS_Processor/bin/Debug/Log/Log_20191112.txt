@@ -1,0 +1,13 @@
+12-11-2019 10:20:20 ================12-11-2019 10:20:20================
+12-11-2019 10:20:20 KGJS HTTP Processor started
+12-11-2019 10:20:21 No file found.
+12-11-2019 10:20:23 Quote processing started.
+12-11-2019 10:20:23 1 Quote files found to process.
+12-11-2019 10:20:27 Quote processing started for refno: 227-19-0171
+12-11-2019 10:20:54 Quote Amount matched
+12-11-2019 10:26:19 ================12-11-2019 10:26:19================
+12-11-2019 10:26:19 KGJS HTTP Processor started
+12-11-2019 10:26:20 No file found.
+12-11-2019 10:31:02 Quote processing started.
+12-11-2019 10:31:02 1 Quote files found to process.
+12-11-2019 10:31:05 Quote processing started for refno: 227-19-0171

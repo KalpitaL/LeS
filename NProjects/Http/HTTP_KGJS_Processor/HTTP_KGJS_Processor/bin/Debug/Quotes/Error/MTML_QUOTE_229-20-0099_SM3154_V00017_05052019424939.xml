@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Q2004867(20)" Identifier="UNOC" Recipient="SM3154_HTML" Sender="V00017" PreparationDate="2020-May-05" PreparationTime="19:42" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3300" LesRecordID="12073740" LesLinkID="104210" ParentRecordID="12073064" MTML_DOCID="C8C08C67-DA01-4256-806C-D0E81F17561E">
+    <Quote MessageReferenceNumber="229-20-0099" MessageNumber="https://external.kgjs.no/PurchasePortal/login/token?tokenId=bb11c70c-18cc-4782-8211-216e2de19959" LineItemCount="1" VersionNumber="1" CurrencyCode="SGD" LeadTimeDays="3" BuyerRefNo="229-20-0099" AdditionalDiscount="1.5" OriginalFile="Z16981.xml" IsAltItemAllowed="0" IsPriceAveraged="2" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="60" BuyerQuoteTotal="60">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202005051942" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="202005081939" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202005310000" />
+      <DateTimePeriod Qualifier="_2" FormatQualifier="_203" Value="202005120000" />
+      <Comments Qualifier="SUR">
+        <value> EX STKS SUB PRIOR SALES 3 WORKING DAYS OR AS INDICATED, UPON CONFIRMATION. "WE HEREBY DECLARE THAT ALL OF OUR SUPPLIED PRODUCTS ARE ASBESTOS-FREE."
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value> RMT 30 DAYS</value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>Battery for ME counter</value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value> EX QUAY AT SINGAPORE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="229-20-0099" />
+      <Reference Qualifier="AAG" ReferenceNumber="Q2004867(20)" />
+      <Party Qualifier="BY" Name="K.G.JEBSEN SKIPSREDERI A/S">
+        <Contact Name="Yvonne Kwek">
+          <CommunicationMethod Qualifier="TE" Number="+4755175100" />
+          <CommunicationMethod Qualifier="EM" Number="PURCHASE@KGJS.NO" />
+        </Contact>
+        <StreetAddress>Zander Kaaes Gate 7,Post Box 423,5832 BERGEN,Norway</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="SKS Doda / DOD">
+        <PartyLocation Qualifier="ZUC" Berth="EX QUAY AT SINGAPORE" Port="SGSIN" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Battery, 3.6 v,  lithium, ls 14250 | " MeasureUnitQualifier="Pcs" Quantity="2" TypeCode="BP" OriginatingSystemRef="hidQuantity_0" SystemItemNo="1" MonetaryAmount="60.00" Identification="201-9422" DeliveryTime="3" IsExtraItem="0" MarkedRemarks="OFFER:LS14250 1/2AA 3.6V =&#xD;&#xA;LITHIUM BATTERY ONLY =&#xD;&#xA;BRAND:SAFT =&#xD;&#xA;DELIVERY 2 WORKING DAYS ARO =&#xD;&#xA;****NON RETURNABLE ITEM****" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="Pcs" Supp_UOM="PCE" Supp_Price="30" BuyerItemTotal="60" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="30" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="30" />
+        <Comments Qualifier="LIN">
+          <value>OFFER:LS14250 1/2AA 3.6V =
+LITHIUM BATTERY ONLY =
+BRAND:SAFT =
+DELIVERY 2 WORKING DAYS ARO =
+****NON RETURNABLE ITEM**** |  QTY : 2 | UOM : PCE</value>
+        </Comments>
+        <Section Name="RS" Manufacturer="RS COMPONENTS AS" ModelNumber="Product Catalogue" />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="60.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="59.100" />
+      <MonetaryAmount Qualifier="_90" Value="60.000" />
+      <MonetaryAmount Qualifier="_91" Value="60.000" />
+    </Quote>
+  </Interchange>
+</MTML>

@@ -1,0 +1,70 @@
+16-09-2019 10:25:05 ================16-09-2019 10:25:05================
+16-09-2019 10:25:05 KGJS HTTP Processor started
+16-09-2019 10:25:11 No file found.
+16-09-2019 10:25:38 ================16-09-2019 10:25:38================
+16-09-2019 10:25:38 KGJS HTTP Processor started
+16-09-2019 10:25:41 
+16-09-2019 10:25:41 Reading file 4001020_190916_084239528_4001020_49341_rq-310_01-310-19-0183-201909160229339.html
+16-09-2019 10:26:20 Processing RFQ file 
+16-09-2019 10:27:24 ================16-09-2019 10:27:24================
+16-09-2019 10:27:24 KGJS HTTP Processor started
+16-09-2019 10:27:27 
+16-09-2019 10:27:27 Reading file 4001020_190916_084239528_4001020_49341_rq-310_01-310-19-0183-201909160229339.html
+16-09-2019 10:29:52 Processing RFQ file 
+16-09-2019 10:29:56 Start Getting Header details
+16-09-2019 10:29:56 Getting Header details completed successfully.
+16-09-2019 10:29:56 Start Getting LineItem details
+16-09-2019 10:29:56 Getting LineItem details successfully
+16-09-2019 10:30:01 Start Getting address details
+16-09-2019 10:30:04 Getting address details successfully
+16-09-2019 10:30:04 4001020_190916_084239528_4001020_49341_rq-310_01-310-19-0183-201909160229339.xml downloaded successfully.
+16-09-2019 10:30:04 
+16-09-2019 10:40:57 ================16-09-2019 10:40:57================
+16-09-2019 10:40:57 KGJS HTTP Processor started
+16-09-2019 10:40:58 
+16-09-2019 10:40:58 Reading file 4001020_190916_084239528_4001020_49341_rq-310_01-310-19-0183-201909160229339.html
+16-09-2019 10:40:59 Processing RFQ file 
+16-09-2019 10:41:03 Start Getting Header details
+16-09-2019 10:41:03 Getting Header details completed successfully.
+16-09-2019 10:41:03 Start Getting LineItem details
+16-09-2019 10:41:03 Getting LineItem details successfully
+16-09-2019 10:41:11 Start Getting address details
+16-09-2019 10:41:17 Getting address details successfully
+16-09-2019 10:41:17 4001020_190916_084239528_4001020_49341_rq-310_01-310-19-0183-201909160229339.xml downloaded successfully.
+16-09-2019 10:41:17 
+16-09-2019 10:41:37 Quote processing started.
+16-09-2019 10:41:37 No quote file found.
+16-09-2019 10:41:37 Quote processing stopped.
+16-09-2019 10:41:38 KGJS HTTP Processor stopped
+16-09-2019 10:41:38 ====================================================
+16-09-2019 10:48:01 ================16-09-2019 10:48:01================
+16-09-2019 10:48:01 KGJS HTTP Processor started
+16-09-2019 10:48:04 
+16-09-2019 10:48:04 Reading file 4001020_190916_084239528_4001020_49341_rq-310_01-310-19-0183-201909160229339.html
+16-09-2019 10:48:05 Processing RFQ file 
+16-09-2019 10:48:07 Exception while processing RFQ : System.Security.Authentication.AuthenticationException: The remote certificate is invalid according to the validation procedure.
+   at System.Net.Security.SslState.StartSendAuthResetSignal(ProtocolToken message, AsyncProtocolRequest asyncRequest, Exception exception)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessReceivedBlob(Byte[] buffer, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartReceiveBlob(Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest)
+   at System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   at System.Net.TlsStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.PooledStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Net.ConnectStream.WriteHeaders(Boolean async)
+16-09-2019 10:52:44 ================16-09-2019 10:52:44================
+16-09-2019 10:52:44 KGJS HTTP Processor started
+16-09-2019 10:52:45 
+16-09-2019 10:52:45 Reading file 4001020_190916_084239528_4001020_49341_rq-310_01-310-19-0183-201909160229339.html
+16-09-2019 10:52:50 Processing RFQ file 

@@ -1,0 +1,16 @@
+28/06/2019 11:44:38 ================28/06/2019 11:44:38================
+28/06/2019 11:44:38 KGJS HTTP Processor started
+28/06/2019 11:44:42 No file found.
+28/06/2019 11:48:05 ================28/06/2019 11:48:05================
+28/06/2019 11:48:05 KGJS HTTP Processor started
+28/06/2019 11:48:07 
+28/06/2019 11:48:07 Reading file MTML_QUOTE_256-19-0117_SM3154_V00017_28061911064960.xml
+28/06/2019 11:49:30 Quote processing started.
+28/06/2019 11:49:31 1 Quote files found to process.
+28/06/2019 11:49:55 Quote processing started for refno: 256-19-0117
+28/06/2019 11:55:14 ================28/06/2019 11:55:14================
+28/06/2019 11:55:14 KGJS HTTP Processor started
+28/06/2019 11:55:14 No file found.
+28/06/2019 11:55:16 Quote processing started.
+28/06/2019 11:55:16 1 Quote files found to process.
+28/06/2019 11:55:24 Quote processing started for refno: 256-19-0117

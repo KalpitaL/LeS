@@ -1,0 +1,202 @@
+5/5/2020 10:07:21 AM ================5/5/2020 10:07:21 AM================
+5/5/2020 10:07:21 AM KGJS HTTP Processor started
+5/5/2020 10:07:37 AM 
+5/5/2020 10:07:37 AM Reading file 4001020_200505_103212905_4001020_15482_rq-011_01-011-20-0014-202005050420578.html
+5/5/2020 10:08:00 AM Processing RFQ file 
+5/5/2020 10:11:55 AM ================5/5/2020 10:11:55 AM================
+5/5/2020 10:11:55 AM KGJS HTTP Processor started
+5/5/2020 10:11:58 AM 
+5/5/2020 10:11:58 AM Reading file 4001020_200505_103212905_4001020_15482_rq-011_01-011-20-0014-202005050420578.html
+5/5/2020 10:12:00 AM Processing RFQ file 
+5/5/2020 10:12:41 AM Start Getting Header details
+5/5/2020 10:12:41 AM Getting Header details completed successfully.
+5/5/2020 10:12:41 AM Start Getting LineItem details
+5/5/2020 10:12:41 AM Getting LineItem details successfully
+5/5/2020 10:14:39 AM ================5/5/2020 10:14:39 AM================
+5/5/2020 10:14:39 AM KGJS HTTP Processor started
+5/5/2020 10:14:43 AM 
+5/5/2020 10:14:43 AM Reading file 4001020_200505_103212905_4001020_15482_rq-011_01-011-20-0014-202005050420578.html
+5/5/2020 10:14:45 AM Processing RFQ file 
+5/5/2020 10:14:59 AM Start Getting Header details
+5/5/2020 10:14:59 AM Getting Header details completed successfully.
+5/5/2020 10:14:59 AM Start Getting LineItem details
+5/5/2020 10:16:00 AM Getting LineItem details successfully
+5/5/2020 10:22:21 AM ================5/5/2020 10:22:21 AM================
+5/5/2020 10:22:21 AM KGJS HTTP Processor started
+5/5/2020 10:22:24 AM 
+5/5/2020 10:22:24 AM Reading file 4001020_200505_103212905_4001020_15482_rq-011_01-011-20-0014-202005050420578.html
+5/5/2020 10:22:26 AM Processing RFQ file 
+5/5/2020 10:22:41 AM Start Getting Header details
+5/5/2020 10:22:41 AM Getting Header details completed successfully.
+5/5/2020 10:22:41 AM Start Getting LineItem details
+5/5/2020 10:22:41 AM Getting LineItem details successfully
+5/5/2020 10:22:52 AM Start Getting address details
+5/5/2020 10:22:52 AM Getting address details successfully
+5/5/2020 10:22:52 AM 4001020_200505_103212905_4001020_15482_rq-011_01-011-20-0014-202005050420578.xml downloaded successfully.
+5/5/2020 10:22:52 AM 
+5/5/2020 10:25:22 AM ================5/5/2020 10:25:22 AM================
+5/5/2020 10:25:22 AM KGJS HTTP Processor started
+5/5/2020 10:25:26 AM 
+5/5/2020 10:25:26 AM Reading file 4001020_200505_103212905_4001020_15482_rq-011_01-011-20-0014-202005050420578.html
+5/5/2020 10:25:37 AM Processing RFQ file 
+5/5/2020 10:25:49 AM Start Getting Header details
+5/5/2020 10:25:49 AM Getting Header details completed successfully.
+5/5/2020 10:25:49 AM Start Getting LineItem details
+5/5/2020 10:25:50 AM Getting LineItem details successfully
+5/5/2020 10:27:16 AM ================5/5/2020 10:27:16 AM================
+5/5/2020 10:27:16 AM KGJS HTTP Processor started
+5/5/2020 10:27:23 AM 
+5/5/2020 10:27:23 AM Reading file 4001020_200505_103212905_4001020_15482_rq-011_01-011-20-0014-202005050420578.html
+5/5/2020 10:27:27 AM Processing RFQ file 
+5/5/2020 10:27:41 AM Start Getting Header details
+5/5/2020 10:27:41 AM Getting Header details completed successfully.
+5/5/2020 10:27:41 AM Start Getting LineItem details
+5/5/2020 10:27:41 AM Getting LineItem details successfully
+5/5/2020 10:29:07 AM ================5/5/2020 10:29:07 AM================
+5/5/2020 10:29:07 AM KGJS HTTP Processor started
+5/5/2020 10:29:09 AM 
+5/5/2020 10:29:09 AM Reading file 4001020_200505_103212905_4001020_15482_rq-011_01-011-20-0014-202005050420578.html
+5/5/2020 10:29:11 AM Processing RFQ file 
+5/5/2020 10:29:18 AM Start Getting Header details
+5/5/2020 10:29:18 AM Getting Header details completed successfully.
+5/5/2020 10:29:18 AM Start Getting LineItem details
+5/5/2020 10:29:19 AM Getting LineItem details successfully
+5/5/2020 10:30:16 AM Start Getting address details
+5/5/2020 10:30:16 AM Getting address details successfully
+5/5/2020 10:30:16 AM 4001020_200505_103212905_4001020_15482_rq-011_01-011-20-0014-202005050420578.xml downloaded successfully.
+5/5/2020 10:30:16 AM 
+5/5/2020 4:35:31 PM ================5/5/2020 4:35:31 PM================
+5/5/2020 4:35:31 PM KGJS HTTP Processor started
+5/5/2020 4:35:35 PM No file found.
+5/5/2020 4:35:39 PM Quote processing started.
+5/5/2020 4:35:39 PM 1 Quote files found to process.
+5/5/2020 4:35:51 PM Quote processing started for refno: 229-20-0100
+5/5/2020 4:36:19 PM 0|1.05
+
+5/5/2020 4:36:19 PM 1|2.1
+
+5/5/2020 4:36:19 PM 2|1.05
+
+5/5/2020 4:36:19 PM 3|1.5
+
+5/5/2020 4:36:19 PM 4|1.5
+
+5/5/2020 4:36:19 PM 5|4.15
+
+5/5/2020 4:36:19 PM 6|4.15
+
+5/5/2020 4:36:19 PM 7|4.15
+
+5/5/2020 4:36:19 PM 8|3.5
+
+5/5/2020 4:36:19 PM 9|4.15
+
+5/5/2020 4:36:19 PM 10|1.05
+
+5/5/2020 4:36:19 PM 11|1.05
+
+5/5/2020 4:36:19 PM 12|1.05
+
+5/5/2020 4:36:24 PM Quote Amount matched
+5/5/2020 4:40:47 PM ================5/5/2020 4:40:46 PM================
+5/5/2020 4:40:47 PM KGJS HTTP Processor started
+5/5/2020 4:40:49 PM No file found.
+5/5/2020 4:40:51 PM Quote processing started.
+5/5/2020 4:40:51 PM 1 Quote files found to process.
+5/5/2020 4:40:55 PM Quote processing started for refno: 229-20-0100
+5/5/2020 4:41:05 PM 0|1.05
+
+5/5/2020 4:41:05 PM 1|2.1
+
+5/5/2020 4:41:05 PM 2|1.05
+
+5/5/2020 4:41:05 PM 3|1.5
+
+5/5/2020 4:41:05 PM 4|1.5
+
+5/5/2020 4:41:05 PM 5|4.15
+
+5/5/2020 4:41:05 PM 6|4.15
+
+5/5/2020 4:41:05 PM 7|4.15
+
+5/5/2020 4:41:05 PM 8|3.5
+
+5/5/2020 4:41:05 PM 9|4.15
+
+5/5/2020 4:41:05 PM 10|1.05
+
+5/5/2020 4:41:05 PM 11|1.05
+
+5/5/2020 4:41:05 PM 12|1.05
+
+5/5/2020 4:41:06 PM Quote Amount matched
+5/5/2020 4:41:16 PM The remote server returned an error: (500) Internal Server Error.
+5/5/2020 4:41:16 PM File MTML_QUOTE_229-20-0100_SM3154_V00017_05052018425091.xml moved to error files.
+5/5/2020 4:41:16 PM Quote processing stopped.
+5/5/2020 4:41:16 PM KGJS HTTP Processor stopped
+5/5/2020 4:41:16 PM ====================================================
+5/5/2020 5:32:17 PM ================5/5/2020 5:32:17 PM================
+5/5/2020 5:32:17 PM KGJS HTTP Processor started
+5/5/2020 5:32:46 PM No file found.
+5/5/2020 5:32:48 PM Quote processing started.
+5/5/2020 5:32:48 PM 3 Quote files found to process.
+5/5/2020 5:32:53 PM Quote processing started for refno: 229-20-0099
+5/5/2020 5:33:04 PM 0|30
+
+5/5/2020 5:33:06 PM Quote Amount matched
+5/5/2020 5:37:51 PM ================5/5/2020 5:37:51 PM================
+5/5/2020 5:37:51 PM KGJS HTTP Processor started
+5/5/2020 5:38:04 PM No file found.
+5/5/2020 5:38:06 PM Quote processing started.
+5/5/2020 5:38:06 PM 3 Quote files found to process.
+5/5/2020 5:38:10 PM Quote processing started for refno: 229-20-0099
+5/5/2020 5:38:21 PM 0|30
+
+5/5/2020 5:38:24 PM Quote Amount matched
+5/5/2020 6:01:09 PM ================5/5/2020 6:01:09 PM================
+5/5/2020 6:01:09 PM KGJS HTTP Processor started
+5/5/2020 6:01:11 PM No file found.
+5/5/2020 6:01:13 PM Quote processing started.
+5/5/2020 6:01:13 PM 2 Quote files found to process.
+5/5/2020 6:01:16 PM Quote processing started for refno: 229-20-0100
+5/5/2020 6:01:24 PM File MTML_QUOTE_229-20-0100_SM3154_V00017_05052018425091.xml moved to error files.
+5/5/2020 6:01:24 PM  This Quotation has already been completed   
+
+
+
+This Quotation has already been completed 
+
+It looks like this Quotation was already accepted by your company. The quote is no longer available for editing. 
+
+
+
+
+© 2020 - Kristian Gerhard Jebsen Skipsrederi A/S
+  
+5/5/2020 6:01:24 PM  This Quotation has already been completed   
+
+
+
+This Quotation has already been completed 
+
+It looks like this Quotation was already accepted by your company. The quote is no longer available for editing. 
+
+
+
+
+© 2020 - Kristian Gerhard Jebsen Skipsrederi A/S
+  
+5/5/2020 6:02:21 PM Quote processing started for refno: 251-20-5027
+5/5/2020 6:02:31 PM 0|29
+
+5/5/2020 6:02:34 PM Quote Amount matched
+5/5/2020 6:08:10 PM ================5/5/2020 6:08:10 PM================
+5/5/2020 6:08:10 PM KGJS HTTP Processor started
+5/5/2020 6:08:14 PM No file found.
+5/5/2020 6:08:15 PM Quote processing started.
+5/5/2020 6:08:16 PM 1 Quote files found to process.
+5/5/2020 6:08:19 PM Quote processing started for refno: 251-20-5027
+5/5/2020 6:08:29 PM 0|29
+
+5/5/2020 6:08:31 PM Quote Amount matched

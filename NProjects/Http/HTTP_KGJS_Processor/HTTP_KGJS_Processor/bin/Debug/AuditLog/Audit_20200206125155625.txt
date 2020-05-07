@@ -1,0 +1,1 @@
+SM3154_HTML|V00017|KGJS_HTTP_Quote|KGJS__227_20_0023_06022020125154760.png|227-20-0023|Error|20-02-06 12:51 : LeS-1004:Unable to process file due to Quote total mismatched. Web Quote Amount - 0.

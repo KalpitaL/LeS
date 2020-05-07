@@ -1,0 +1,3202 @@
+<RFQ>
+  <DocumentHeader>
+    <DocID>20200505102918</DocID>
+    <Created_Date>20200505</Created_Date>
+    <Doc_Type>RFQ</Doc_Type>
+    <Dialect>Kristian Gerhard Jebsen Skipsrederi A/S</Dialect>
+    <Version>1</Version>
+    <Date_Document>20200505</Date_Document>
+    <Date_Preparation>20200505</Date_Preparation>
+    <Time_Preparation>10:29</Time_Preparation>
+    <Sender_Code>SM3154_HTML</Sender_Code>
+    <Recipient_Code>V00017</Recipient_Code>
+    <Sender_Name>
+    </Sender_Name>
+    <Recipient_Name>
+    </Recipient_Name>
+    <DocReferenceID>011-20-0014</DocReferenceID>
+    <DocLinkID>https://external.kgjs.no/PurchasePortal/login/token?tokenId=1cf65048-78a8-4e8e-a913-245db3d9d59a</DocLinkID>
+    <OrigDocReference>
+    </OrigDocReference>
+    <OrigDocFile>
+    </OrigDocFile>
+    <DocParentId>
+    </DocParentId>
+    <Active>1</Active>
+    <Vessel>BTG Everest / EVE</Vessel>
+    <IMONO>
+    </IMONO>
+    <BuyerRef>011-20-0014</BuyerRef>
+    <PortCode>
+    </PortCode>
+    <PortName>
+    </PortName>
+    <Currency>USD</Currency>
+    <Date_ETA>
+    </Date_ETA>
+    <Date_ETD>
+    </Date_ETD>
+    <Date_Delivery>
+    </Date_Delivery>
+    <Date_Validity>
+    </Date_Validity>
+    <LeadTimeDays>
+    </LeadTimeDays>
+    <Remark_DeliveryTerms>
+    </Remark_DeliveryTerms>
+    <Remark_PaymentTerms>
+    </Remark_PaymentTerms>
+    <Remark_Sender>
+    </Remark_Sender>
+    <Remark_Header>** PLEASE GIVE BEST PRICE AND DELIVERY TIME **</Remark_Header>
+    <Remark_Title>Engine store singapore ( SEE DETAILS )</Remark_Title>
+    <Reference_Document>
+    </Reference_Document>
+    <Total_LineItems>134</Total_LineItems>
+    <Total_LineItems_Discount>0</Total_LineItems_Discount>
+    <Total_LineItems_Net>0</Total_LineItems_Net>
+    <Total_Additional_Discount>0</Total_Additional_Discount>
+    <Total_Freight>0</Total_Freight>
+    <Total_Other>0</Total_Other>
+    <Total_Net_Final>0</Total_Net_Final>
+    <Equipment>
+    </Equipment>
+    <EquipMaker>
+    </EquipMaker>
+    <EquipType>
+    </EquipType>
+    <EquipRemarks>
+    </EquipRemarks>
+  </DocumentHeader>
+  <LineItems>
+    <Item>
+      <Number>1</Number>
+      <OrigItemNumber>1</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Ctn</Unit>
+      <Quantity>1</Quantity>
+      <Name>CHLORINATED ISOCYANURATE, TABLET 10KGS</Name>
+      <ItemRef>550676</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>55 - Cleaning Material &amp;amp; Chemicals</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_0</OriginatingSystemRef>
+      <SystemRef>1</SystemRef>
+    </Item>
+    <Item>
+      <Number>2</Number>
+      <OrigItemNumber>2</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>12</Quantity>
+      <Name>REPLACEABLE HEAD FOR YACHT MOP</Name>
+      <ItemRef>174272</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_1</OriginatingSystemRef>
+      <SystemRef>2</SystemRef>
+    </Item>
+    <Item>
+      <Number>3</Number>
+      <OrigItemNumber>3</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>WRENCH SET ALLEN HEXAGON, 2.5-12MM 8S</Name>
+      <ItemRef>611281</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_2</OriginatingSystemRef>
+      <SystemRef>3</SystemRef>
+    </Item>
+    <Item>
+      <Number>4</Number>
+      <OrigItemNumber>4</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>WRENCH SET OPEN &amp;amp; 12-POINT BOX, 8X8 TO 24X24MM 10S</Name>
+      <ItemRef>610531</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_3</OriginatingSystemRef>
+      <SystemRef>4</SystemRef>
+    </Item>
+    <Item>
+      <Number>5</Number>
+      <OrigItemNumber>5</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>SOCKET WRENCH 12-POINT, 12.7MM/SQ DRIVEX10MM</Name>
+      <ItemRef>610268</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_4</OriginatingSystemRef>
+      <SystemRef>5</SystemRef>
+    </Item>
+    <Item>
+      <Number>6</Number>
+      <OrigItemNumber>6</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>SOCKET WRENCH 12-POINT, 12.7MM/SQ DRIVEX12MM (15/32)</Name>
+      <ItemRef>610270</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_5</OriginatingSystemRef>
+      <SystemRef>6</SystemRef>
+    </Item>
+    <Item>
+      <Number>7</Number>
+      <OrigItemNumber>7</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>SOCKET WRENCH 12-POINT, 12.7MM/SQ DRIVEX13MM</Name>
+      <ItemRef>610271</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_6</OriginatingSystemRef>
+      <SystemRef>7</SystemRef>
+    </Item>
+    <Item>
+      <Number>8</Number>
+      <OrigItemNumber>8</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>SOCKET WRENCH 12-POINT, 12.7MM/SQ DRIVEX17MM (21/32)</Name>
+      <ItemRef>610276</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_7</OriginatingSystemRef>
+      <SystemRef>8</SystemRef>
+    </Item>
+    <Item>
+      <Number>9</Number>
+      <OrigItemNumber>9</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>SOCKET WRENCH SET 12.7MM/SQ, 10-27MM&amp;amp;7/16-1 24SOCKET&amp;amp;8TOOL</Name>
+      <ItemRef>610140</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_8</OriginatingSystemRef>
+      <SystemRef>9</SystemRef>
+    </Item>
+    <Item>
+      <Number>10</Number>
+      <OrigItemNumber>10</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>SOCKET WRENCH 12-POINT, 12.7MM/SQ DRIVEX24MM (15/16)</Name>
+      <ItemRef>610284</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_9</OriginatingSystemRef>
+      <SystemRef>10</SystemRef>
+    </Item>
+    <Item>
+      <Number>11</Number>
+      <OrigItemNumber>11</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>SOCKET WRENCH 12-POINT, 12.7MM/SQ DRIVEX30MM (1-3/16)</Name>
+      <ItemRef>610289</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_10</OriginatingSystemRef>
+      <SystemRef>11</SystemRef>
+    </Item>
+    <Item>
+      <Number>12</Number>
+      <OrigItemNumber>12</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>SOCKET WRENCH SET 12.7MM/SQ, 10-32MM 13SOCKET &amp;amp; 4TOOL 760M</Name>
+      <ItemRef>610142</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_11</OriginatingSystemRef>
+      <SystemRef>12</SystemRef>
+    </Item>
+    <Item>
+      <Number>13</Number>
+      <OrigItemNumber>13</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>60</Quantity>
+      <Name>Wheel cut-off resinoid 125x1x22 mm</Name>
+      <ItemRef>61480x</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_12</OriginatingSystemRef>
+      <SystemRef>13</SystemRef>
+    </Item>
+    <Item>
+      <Number>14</Number>
+      <OrigItemNumber>14</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Kg</Unit>
+      <Quantity>300</Quantity>
+      <Name>RAG COTTON OVER 100% STERILIZED, WHITE</Name>
+      <ItemRef>232907</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_13</OriginatingSystemRef>
+      <SystemRef>14</SystemRef>
+    </Item>
+    <Item>
+      <Number>15</Number>
+      <OrigItemNumber>15</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Mtr</Unit>
+      <Quantity>40</Quantity>
+      <Name>AIR FILTER 15X1600MM</Name>
+      <ItemRef>813102</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_14</OriginatingSystemRef>
+      <SystemRef>15</SystemRef>
+    </Item>
+    <Item>
+      <Number>16</Number>
+      <OrigItemNumber>16</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>OIL JUG PLASTIC 1LTR</Name>
+      <ItemRef>617745</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_15</OriginatingSystemRef>
+      <SystemRef>16</SystemRef>
+    </Item>
+    <Item>
+      <Number>17</Number>
+      <OrigItemNumber>17</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>OIL JUG PLASTIC 3LTR</Name>
+      <ItemRef>617747</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_16</OriginatingSystemRef>
+      <SystemRef>17</SystemRef>
+    </Item>
+    <Item>
+      <Number>18</Number>
+      <OrigItemNumber>18</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>OIL JUG PLASTIC 5LTR</Name>
+      <ItemRef>617749</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_17</OriginatingSystemRef>
+      <SystemRef>18</SystemRef>
+    </Item>
+    <Item>
+      <Number>19</Number>
+      <OrigItemNumber>19</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>OILER PUMP WITH FLEXIBLE SPOUT, H.D. 350CC</Name>
+      <ItemRef>617737</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_18</OriginatingSystemRef>
+      <SystemRef>19</SystemRef>
+    </Item>
+    <Item>
+      <Number>20</Number>
+      <OrigItemNumber>20</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>OIL SYRINGE BRASS 200 CC</Name>
+      <ItemRef>617716</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_19</OriginatingSystemRef>
+      <SystemRef>20</SystemRef>
+    </Item>
+    <Item>
+      <Number>21</Number>
+      <OrigItemNumber>21</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pck</Unit>
+      <Quantity>3</Quantity>
+      <Name>SPARE FLINT FOR WELDER GAS, LIGHTER FRICTION TYPE 10PCS</Name>
+      <ItemRef>850289</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>85 - Welding Equipment</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_20</OriginatingSystemRef>
+      <SystemRef>21</SystemRef>
+    </Item>
+    <Item>
+      <Number>22</Number>
+      <OrigItemNumber>22</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WELDER GAS LIGHTER, FRICTION TYPE</Name>
+      <ItemRef>850286</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_21</OriginatingSystemRef>
+      <SystemRef>22</SystemRef>
+    </Item>
+    <Item>
+      <Number>23</Number>
+      <OrigItemNumber>23</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Rls</Unit>
+      <Quantity>6</Quantity>
+      <Name>TAPE PIPE INSULATION HIGH TEMP, W:100MM X L:3.3MTR</Name>
+      <ItemRef>813872</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_22</OriginatingSystemRef>
+      <SystemRef>23</SystemRef>
+    </Item>
+    <Item>
+      <Number>24</Number>
+      <OrigItemNumber>24</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>2</Quantity>
+      <Name>O-RING KIT 17SIZES/222PCS, IN ACRYL CASE</Name>
+      <ItemRef>813072</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_23</OriginatingSystemRef>
+      <SystemRef>24</SystemRef>
+    </Item>
+    <Item>
+      <Number>25</Number>
+      <OrigItemNumber>25</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>2</Quantity>
+      <Name>COPPER RING KIT 30SIZES/568PCS, IN ACRYL CASE</Name>
+      <ItemRef>813080</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_24</OriginatingSystemRef>
+      <SystemRef>25</SystemRef>
+    </Item>
+    <Item>
+      <Number>26</Number>
+      <OrigItemNumber>26</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>12</Quantity>
+      <Name>TAPE SEAL TEFLON, 0.1X13MMX5MTR</Name>
+      <ItemRef>812501</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_25</OriginatingSystemRef>
+      <SystemRef>26</SystemRef>
+    </Item>
+    <Item>
+      <Number>27</Number>
+      <OrigItemNumber>27</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Mtr</Unit>
+      <Quantity>2</Quantity>
+      <Name>JOINT SHEET CANVAS-INSERTION, RUBBER 1.0X1000X1000MM</Name>
+      <ItemRef>811161</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>81 - Packing &amp;amp; Jointing</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_26</OriginatingSystemRef>
+      <SystemRef>27</SystemRef>
+    </Item>
+    <Item>
+      <Number>28</Number>
+      <OrigItemNumber>28</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Mtr</Unit>
+      <Quantity>2</Quantity>
+      <Name>JOINT SHEET CANVAS-INSERTION, RUBBER 1.5X1000X1000MM</Name>
+      <ItemRef>811162</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>81 - Packing &amp;amp; Jointing</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_27</OriginatingSystemRef>
+      <SystemRef>28</SystemRef>
+    </Item>
+    <Item>
+      <Number>29</Number>
+      <OrigItemNumber>29</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Lth</Unit>
+      <Quantity>3</Quantity>
+      <Name>STEEL EQUAL ANGLE HOT-ROLLED, 50X50X4MM 5.5MTR</Name>
+      <ItemRef>670607</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>67 - Metal Sheet, Bars, etc.</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_28</OriginatingSystemRef>
+      <SystemRef>29</SystemRef>
+    </Item>
+    <Item>
+      <Number>30</Number>
+      <OrigItemNumber>30</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Lth</Unit>
+      <Quantity>3</Quantity>
+      <Name>STEEL ROUND HOT-ROLLED 12MM, 5.5MTR</Name>
+      <ItemRef>670254</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>67 - Metal Sheet, Bars, etc.</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_29</OriginatingSystemRef>
+      <SystemRef>30</SystemRef>
+    </Item>
+    <Item>
+      <Number>31</Number>
+      <OrigItemNumber>31</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Lth</Unit>
+      <Quantity>3</Quantity>
+      <Name>STEEL ROUND HOT-ROLLED 16MM, 5.5MTR</Name>
+      <ItemRef>670256</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>67 - Metal Sheet, Bars, etc.</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_30</OriginatingSystemRef>
+      <SystemRef>31</SystemRef>
+    </Item>
+    <Item>
+      <Number>32</Number>
+      <OrigItemNumber>32</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>4</Quantity>
+      <Name>Water finding paste 75grm, yellow to red</Name>
+      <ItemRef>650890</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_31</OriginatingSystemRef>
+      <SystemRef>32</SystemRef>
+    </Item>
+    <Item>
+      <Number>33</Number>
+      <OrigItemNumber>33</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>4</Quantity>
+      <Name>GASOLINE AND OIL FINDING PASTE, 75GRM BLUE TO RED</Name>
+      <ItemRef>650891</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_32</OriginatingSystemRef>
+      <SystemRef>33</SystemRef>
+    </Item>
+    <Item>
+      <Number>34</Number>
+      <OrigItemNumber>34</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>KNURLING TOOL HOLDER TYPE-B, 9.5X22X140MM</Name>
+      <ItemRef>633244</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>63 - Cutting Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_33</OriginatingSystemRef>
+      <SystemRef>34</SystemRef>
+    </Item>
+    <Item>
+      <Number>35</Number>
+      <OrigItemNumber>35</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>TOOL BIT MATERIAL HSS SQUARE, 13X13X300MM</Name>
+      <ItemRef>632674</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>63 - Cutting Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_34</OriginatingSystemRef>
+      <SystemRef>35</SystemRef>
+    </Item>
+    <Item>
+      <Number>36</Number>
+      <OrigItemNumber>36</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>TOOL BIT MATERIAL HSS, RECTANGULAR 3X13X300MM</Name>
+      <ItemRef>632681</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>63 - Cutting Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_35</OriginatingSystemRef>
+      <SystemRef>36</SystemRef>
+    </Item>
+    <Item>
+      <Number>37</Number>
+      <OrigItemNumber>37</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>TORCH GAS COMPACT COMPLETE SET, WITH BURNER</Name>
+      <ItemRef>617016</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_36</OriginatingSystemRef>
+      <SystemRef>37</SystemRef>
+    </Item>
+    <Item>
+      <Number>38</Number>
+      <OrigItemNumber>38</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>3</Quantity>
+      <Name>SPARE CARTRIDGE FOR GAS TORCH</Name>
+      <ItemRef>617017</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_37</OriginatingSystemRef>
+      <SystemRef>38</SystemRef>
+    </Item>
+    <Item>
+      <Number>39</Number>
+      <OrigItemNumber>39</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>ENGINE CLEANER, FOR TIP ID 1.4MM W/1.5MTR HOSE</Name>
+      <ItemRef>270601</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_38</OriginatingSystemRef>
+      <SystemRef>39</SystemRef>
+    </Item>
+    <Item>
+      <Number>40</Number>
+      <OrigItemNumber>40</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>AIR DUSTER COMMON, NOZZLE DIA 2MMXL24MM</Name>
+      <ItemRef>270611</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_39</OriginatingSystemRef>
+      <SystemRef>40</SystemRef>
+    </Item>
+    <Item>
+      <Number>41</Number>
+      <OrigItemNumber>41</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>20</Quantity>
+      <Name>NIPPLE HEXAGON BRASS 1/4, THREADED</Name>
+      <ItemRef>732352</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_40</OriginatingSystemRef>
+      <SystemRef>41</SystemRef>
+    </Item>
+    <Item>
+      <Number>42</Number>
+      <OrigItemNumber>42</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>20</Quantity>
+      <Name>NIPPLE HEXAGON BRASS 3/8, THREADED</Name>
+      <ItemRef>732353</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_41</OriginatingSystemRef>
+      <SystemRef>42</SystemRef>
+    </Item>
+    <Item>
+      <Number>43</Number>
+      <OrigItemNumber>43</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>20</Quantity>
+      <Name>NIPPLE HEXAGON BRASS 1/2, THREADED</Name>
+      <ItemRef>732354</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_42</OriginatingSystemRef>
+      <SystemRef>43</SystemRef>
+    </Item>
+    <Item>
+      <Number>44</Number>
+      <OrigItemNumber>44</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>20</Quantity>
+      <Name>NIPPLE HEXAGON BRASS 3/4, THREADED</Name>
+      <ItemRef>732355</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_43</OriginatingSystemRef>
+      <SystemRef>44</SystemRef>
+    </Item>
+    <Item>
+      <Number>45</Number>
+      <OrigItemNumber>45</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>SCREW PITCH GAUGE 158, METRIC 60DEG 0.5-7.0 PITCH</Name>
+      <ItemRef>650603</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>65 - Measuring Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_44</OriginatingSystemRef>
+      <SystemRef>45</SystemRef>
+    </Item>
+    <Item>
+      <Number>46</Number>
+      <OrigItemNumber>46</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>3</Quantity>
+      <Name>FACESHIELD WITH FOREHEAD, PROTECTION</Name>
+      <ItemRef>331144</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_45</OriginatingSystemRef>
+      <SystemRef>46</SystemRef>
+    </Item>
+    <Item>
+      <Number>47</Number>
+      <OrigItemNumber>47</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>6</Quantity>
+      <Name>SPARE SHIELD POLYCARBONATE FOR, SPARE SHIELD POLYCARBONATE F</Name>
+      <ItemRef>331148</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_46</OriginatingSystemRef>
+      <SystemRef>47</SystemRef>
+    </Item>
+    <Item>
+      <Number>48</Number>
+      <OrigItemNumber>48</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>24</Quantity>
+      <Name>SAFETY SIGN 5, 150X75MM</Name>
+      <ItemRef>334205</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_47</OriginatingSystemRef>
+      <SystemRef>48</SystemRef>
+    </Item>
+    <Item>
+      <Number>50</Number>
+      <OrigItemNumber>50</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>6</Quantity>
+      <Name>COUPLING CAM&amp;amp;GROOVE S. STEEL, D SOCKET FEMALE THREAD 1-1/4</Name>
+      <ItemRef>351834</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>35 - Hose &amp;amp; Couplings</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_48</OriginatingSystemRef>
+      <SystemRef>50</SystemRef>
+    </Item>
+    <Item>
+      <Number>51</Number>
+      <OrigItemNumber>51</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>6</Quantity>
+      <Name>COUPLING CAM&amp;amp;GROOVE S. STEEL, E PLUG W/HOSE END 1-1/4</Name>
+      <ItemRef>351933</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>35 - Hose &amp;amp; Couplings</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_49</OriginatingSystemRef>
+      <SystemRef>51</SystemRef>
+    </Item>
+    <Item>
+      <Number>52</Number>
+      <OrigItemNumber>52</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>6</Quantity>
+      <Name>COUPLING CAM&amp;amp;GROOVE S. STEEL, B SOCKET W/MALE THREAD 1-1/4</Name>
+      <ItemRef>351884</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>35 - Hose &amp;amp; Couplings</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_50</OriginatingSystemRef>
+      <SystemRef>52</SystemRef>
+    </Item>
+    <Item>
+      <Number>53</Number>
+      <OrigItemNumber>53</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>6</Quantity>
+      <Name>COUPLING CAM&amp;amp;GROOVE S. STEEL, F PLUG W/MALE THREAD 1-1/4</Name>
+      <ItemRef>351784</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>35 - Hose &amp;amp; Couplings</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_51</OriginatingSystemRef>
+      <SystemRef>53</SystemRef>
+    </Item>
+    <Item>
+      <Number>54</Number>
+      <OrigItemNumber>54</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>6</Quantity>
+      <Name>COUPLING CAM&amp;amp;GROOVE S. STEEL, DUST CAP 1-1/4</Name>
+      <ItemRef>352083</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_52</OriginatingSystemRef>
+      <SystemRef>54</SystemRef>
+    </Item>
+    <Item>
+      <Number>55</Number>
+      <OrigItemNumber>55</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>6</Quantity>
+      <Name>COUPLING CAM&amp;amp;GROOVE S. STEEL, DUST PLUG 1-1/4</Name>
+      <ItemRef>351983</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>35 - Hose &amp;amp; Couplings</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_53</OriginatingSystemRef>
+      <SystemRef>55</SystemRef>
+    </Item>
+    <Item>
+      <Number>56</Number>
+      <OrigItemNumber>56</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>2</Quantity>
+      <Name>AIR LINE PRESSURE REGULATOR, PT 1/2</Name>
+      <ItemRef>590823</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>59 - Pneumatic &amp;amp; Electrical Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_54</OriginatingSystemRef>
+      <SystemRef>56</SystemRef>
+    </Item>
+    <Item>
+      <Number>58</Number>
+      <OrigItemNumber>58</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>WRENCH SET ALLEN HEXAGON, 1/8-1/2 8S</Name>
+      <ItemRef>611282</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_55</OriginatingSystemRef>
+      <SystemRef>58</SystemRef>
+    </Item>
+    <Item>
+      <Number>60</Number>
+      <OrigItemNumber>60</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>SOCKET WRENCH SET 5-41MM 6.35/, 12.7/19MM/SQ 47SOCKET/18TOOL</Name>
+      <ItemRef>610101</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_56</OriginatingSystemRef>
+      <SystemRef>60</SystemRef>
+    </Item>
+    <Item>
+      <Number>61</Number>
+      <OrigItemNumber>61</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>SOCKET ADAPTOR, 9.5MM-MALEX6.35MM-FEMALE</Name>
+      <ItemRef>610471</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_57</OriginatingSystemRef>
+      <SystemRef>61</SystemRef>
+    </Item>
+    <Item>
+      <Number>62</Number>
+      <OrigItemNumber>62</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>SOCKET ADAPTOR, 6.35MM-MALEX9.5MM-FEMALE</Name>
+      <ItemRef>610472</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_58</OriginatingSystemRef>
+      <SystemRef>62</SystemRef>
+    </Item>
+    <Item>
+      <Number>63</Number>
+      <OrigItemNumber>63</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>SOCKET ADAPTOR, 12.7MM-MALEX9.5MM-FEMALE</Name>
+      <ItemRef>610473</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_59</OriginatingSystemRef>
+      <SystemRef>63</SystemRef>
+    </Item>
+    <Item>
+      <Number>64</Number>
+      <OrigItemNumber>64</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>BIT SET HEXAGON 3-10MM, 6 BITS &amp;amp; 6 TOOLS</Name>
+      <ItemRef>611287</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_60</OriginatingSystemRef>
+      <SystemRef>64</SystemRef>
+    </Item>
+    <Item>
+      <Number>65</Number>
+      <OrigItemNumber>65</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>BIT SET HEXAGON 6-17MM, 6 BITS &amp;amp; 6 TOOLS</Name>
+      <ItemRef>611288</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_61</OriginatingSystemRef>
+      <SystemRef>65</SystemRef>
+    </Item>
+    <Item>
+      <Number>66</Number>
+      <OrigItemNumber>66</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 6MM</Name>
+      <ItemRef>610761</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_62</OriginatingSystemRef>
+      <SystemRef>66</SystemRef>
+    </Item>
+    <Item>
+      <Number>67</Number>
+      <OrigItemNumber>67</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 7MM</Name>
+      <ItemRef>610762</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_63</OriginatingSystemRef>
+      <SystemRef>67</SystemRef>
+    </Item>
+    <Item>
+      <Number>68</Number>
+      <OrigItemNumber>68</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 8MM</Name>
+      <ItemRef>610763</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_64</OriginatingSystemRef>
+      <SystemRef>68</SystemRef>
+    </Item>
+    <Item>
+      <Number>69</Number>
+      <OrigItemNumber>69</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 9MM</Name>
+      <ItemRef>610764</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_65</OriginatingSystemRef>
+      <SystemRef>69</SystemRef>
+    </Item>
+    <Item>
+      <Number>70</Number>
+      <OrigItemNumber>70</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 10MM</Name>
+      <ItemRef>610765</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_66</OriginatingSystemRef>
+      <SystemRef>70</SystemRef>
+    </Item>
+    <Item>
+      <Number>71</Number>
+      <OrigItemNumber>71</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 13MM</Name>
+      <ItemRef>610768</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_67</OriginatingSystemRef>
+      <SystemRef>71</SystemRef>
+    </Item>
+    <Item>
+      <Number>72</Number>
+      <OrigItemNumber>72</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 14MM</Name>
+      <ItemRef>610769</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_68</OriginatingSystemRef>
+      <SystemRef>72</SystemRef>
+    </Item>
+    <Item>
+      <Number>73</Number>
+      <OrigItemNumber>73</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>3</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 17MM</Name>
+      <ItemRef>610771</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_69</OriginatingSystemRef>
+      <SystemRef>73</SystemRef>
+    </Item>
+    <Item>
+      <Number>74</Number>
+      <OrigItemNumber>74</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>3</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 19MM</Name>
+      <ItemRef>610772</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_70</OriginatingSystemRef>
+      <SystemRef>74</SystemRef>
+    </Item>
+    <Item>
+      <Number>75</Number>
+      <OrigItemNumber>75</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 21MM</Name>
+      <ItemRef>610773</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_71</OriginatingSystemRef>
+      <SystemRef>75</SystemRef>
+    </Item>
+    <Item>
+      <Number>76</Number>
+      <OrigItemNumber>76</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 22MM</Name>
+      <ItemRef>610774</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_72</OriginatingSystemRef>
+      <SystemRef>76</SystemRef>
+    </Item>
+    <Item>
+      <Number>77</Number>
+      <OrigItemNumber>77</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>3</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 24MM</Name>
+      <ItemRef>610776</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_73</OriginatingSystemRef>
+      <SystemRef>77</SystemRef>
+    </Item>
+    <Item>
+      <Number>78</Number>
+      <OrigItemNumber>78</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 27MM</Name>
+      <ItemRef>610778</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_74</OriginatingSystemRef>
+      <SystemRef>78</SystemRef>
+    </Item>
+    <Item>
+      <Number>79</Number>
+      <OrigItemNumber>79</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 30MM</Name>
+      <ItemRef>610779</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_75</OriginatingSystemRef>
+      <SystemRef>79</SystemRef>
+    </Item>
+    <Item>
+      <Number>80</Number>
+      <OrigItemNumber>80</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 32MM</Name>
+      <ItemRef>610780</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_76</OriginatingSystemRef>
+      <SystemRef>80</SystemRef>
+    </Item>
+    <Item>
+      <Number>81</Number>
+      <OrigItemNumber>81</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH OPEN &amp;amp; 12-POINT BOX, 36MM</Name>
+      <ItemRef>610782</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_77</OriginatingSystemRef>
+      <SystemRef>81</SystemRef>
+    </Item>
+    <Item>
+      <Number>82</Number>
+      <OrigItemNumber>82</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>2</Quantity>
+      <Name>THISTLEBOND STANDARD RESIN, 225GRM TRK 19000</Name>
+      <ItemRef>812216</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>81 - Packing &amp;amp; Jointing</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_78</OriginatingSystemRef>
+      <SystemRef>82</SystemRef>
+    </Item>
+    <Item>
+      <Number>83</Number>
+      <OrigItemNumber>83</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Rls</Unit>
+      <Quantity>2</Quantity>
+      <Name>THISTLEBOND GLASS TAPE, 50MMX50MTR TRK 19007</Name>
+      <ItemRef>812223</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>81 - Packing &amp;amp; Jointing</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_79</OriginatingSystemRef>
+      <SystemRef>83</SystemRef>
+    </Item>
+    <Item>
+      <Number>84</Number>
+      <OrigItemNumber>84</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>4</Quantity>
+      <Name>GLUE SUPER BONDER LOCTITE 496, BOND IN SECOND 20GRM</Name>
+      <ItemRef>812759</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_80</OriginatingSystemRef>
+      <SystemRef>84</SystemRef>
+    </Item>
+    <Item>
+      <Number>86</Number>
+      <OrigItemNumber>86</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>4</Quantity>
+      <Name>GLUE SUPER BONDER LOCTITE 495, BOND IN SECOND 20GRM</Name>
+      <ItemRef>812758</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_81</OriginatingSystemRef>
+      <SystemRef>86</SystemRef>
+    </Item>
+    <Item>
+      <Number>88</Number>
+      <OrigItemNumber>88</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Sht</Unit>
+      <Quantity>1</Quantity>
+      <Name>JOINT SHT GASKET PILLAR 5611, NON-ASBESTOS 2.0X1200X3810MM</Name>
+      <ItemRef>811048</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>81 - Packing &amp;amp; Jointing</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_82</OriginatingSystemRef>
+      <SystemRef>88</SystemRef>
+    </Item>
+    <Item>
+      <Number>89</Number>
+      <OrigItemNumber>89</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Sht</Unit>
+      <Quantity>1</Quantity>
+      <Name>JOINT SHT GASKET PILLAR 5611, NON-ASBESTOS 1.0X1200X3810MM</Name>
+      <ItemRef>811046</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>81 - Packing &amp;amp; Jointing</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_83</OriginatingSystemRef>
+      <SystemRef>89</SystemRef>
+    </Item>
+    <Item>
+      <Number>90</Number>
+      <OrigItemNumber>90</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>LEAK DETECTOR, SUPER COLOR CHECK 300CC 6S</Name>
+      <ItemRef>617026</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_84</OriginatingSystemRef>
+      <SystemRef>90</SystemRef>
+    </Item>
+    <Item>
+      <Number>91</Number>
+      <OrigItemNumber>91</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>8</Quantity>
+      <Name>Wd40 200ml 1950-aerosol 2,5 fadr 20G53</Name>
+      <ItemRef>175312</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMATECH BV NL</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>Imatech</Equipment>
+      <EquipMaker>IMATECH BV NL</EquipMaker>
+      <EquipType>Product Catalogue</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_85</OriginatingSystemRef>
+      <SystemRef>91</SystemRef>
+    </Item>
+    <Item>
+      <Number>92</Number>
+      <OrigItemNumber>92</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Bag</Unit>
+      <Quantity>1</Quantity>
+      <Name>WALNUT SHELL DRY GRIT 10, 1680-2380 MICRON 20KGS</Name>
+      <ItemRef>232977</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>23 - Rigging Equipment &amp;amp; Gen. Deck Items</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_86</OriginatingSystemRef>
+      <SystemRef>92</SystemRef>
+    </Item>
+    <Item>
+      <Number>93</Number>
+      <OrigItemNumber>93</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Bag</Unit>
+      <Quantity>4</Quantity>
+      <Name>WALNUT SHELL DRY GRIT 16, 1000-1410 MICRON 20KGS</Name>
+      <ItemRef>232974</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_87</OriginatingSystemRef>
+      <SystemRef>93</SystemRef>
+    </Item>
+    <Item>
+      <Number>94</Number>
+      <OrigItemNumber>94</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Box</Unit>
+      <Quantity>5</Quantity>
+      <Name>RAG PAPER ROLL A-TORK 2PLY, 290MMX240MTR 4ROLLS/BOX</Name>
+      <ItemRef>232921</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_88</OriginatingSystemRef>
+      <SystemRef>94</SystemRef>
+    </Item>
+    <Item>
+      <Number>96</Number>
+      <OrigItemNumber>96</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Rls</Unit>
+      <Quantity>2</Quantity>
+      <Name>TAPE ANTI-SPLASHING 50MMX10MTR, NK/UL/ABS/LRS/BV APPROVED</Name>
+      <ItemRef>871802</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_89</OriginatingSystemRef>
+      <SystemRef>96</SystemRef>
+    </Item>
+    <Item>
+      <Number>97</Number>
+      <OrigItemNumber>97</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>100</Quantity>
+      <Name>BAG SLUDGE POLYPROPYLENE, W/INNER BAG W600MMXL1000MM</Name>
+      <ItemRef>232940</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_90</OriginatingSystemRef>
+      <SystemRef>97</SystemRef>
+    </Item>
+    <Item>
+      <Number>98</Number>
+      <OrigItemNumber>98</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Box</Unit>
+      <Quantity>1</Quantity>
+      <Name>CHALK WELDER SQUARE BAR, 100S</Name>
+      <ItemRef>851102</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_91</OriginatingSystemRef>
+      <SystemRef>98</SystemRef>
+    </Item>
+    <Item>
+      <Number>99</Number>
+      <OrigItemNumber>99</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>1</Quantity>
+      <Name>ROD CUTTER ELECTRIC PORTABLE, WHEEL DIA 405MM AC220V 1-PHASE</Name>
+      <ItemRef>591157</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_92</OriginatingSystemRef>
+      <SystemRef>99</SystemRef>
+    </Item>
+    <Item>
+      <Number>100</Number>
+      <OrigItemNumber>100</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>12</Quantity>
+      <Name>CUTTING WHEEL OD405MM, 4800MTR/MIN F/ELEC ROD CUTTER</Name>
+      <ItemRef>591162</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_93</OriginatingSystemRef>
+      <SystemRef>100</SystemRef>
+    </Item>
+    <Item>
+      <Number>101</Number>
+      <OrigItemNumber>101</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>FRAME HACKSAW ADJUSTABLE PIPE, 250-300MM</Name>
+      <ItemRef>613426</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_94</OriginatingSystemRef>
+      <SystemRef>101</SystemRef>
+    </Item>
+    <Item>
+      <Number>102</Number>
+      <OrigItemNumber>102</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>30</Quantity>
+      <Name>BLADE MACHINE SAW HIGH SPEED, STEEL 300X25X1.65MMX10TEETH</Name>
+      <ItemRef>613480</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_95</OriginatingSystemRef>
+      <SystemRef>102</SystemRef>
+    </Item>
+    <Item>
+      <Number>107</Number>
+      <OrigItemNumber>107</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pck</Unit>
+      <Quantity>3</Quantity>
+      <Name>PLASTIC BAG BLACK, 500X400X1300MM 50S</Name>
+      <ItemRef>174176</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_96</OriginatingSystemRef>
+      <SystemRef>107</SystemRef>
+    </Item>
+    <Item>
+      <Number>108</Number>
+      <OrigItemNumber>108</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>TAPE OIL GAUGE STAINLESS STEEL, METRIC 30MTR</Name>
+      <ItemRef>650873</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_97</OriginatingSystemRef>
+      <SystemRef>108</SystemRef>
+    </Item>
+    <Item>
+      <Number>110</Number>
+      <OrigItemNumber>110</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>2</Quantity>
+      <Name>CUTTER TUBE COPPER &amp;amp; BRASS, FOR 5 - 45MM</Name>
+      <ItemRef>612036</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_98</OriginatingSystemRef>
+      <SystemRef>110</SystemRef>
+    </Item>
+    <Item>
+      <Number>111</Number>
+      <OrigItemNumber>111</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Mtr</Unit>
+      <Quantity>20</Quantity>
+      <Name>TUBE COPPER ANNEALED SEAMLESS, 10X1MM</Name>
+      <ItemRef>711506</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_99</OriginatingSystemRef>
+      <SystemRef>111</SystemRef>
+    </Item>
+    <Item>
+      <Number>112</Number>
+      <OrigItemNumber>112</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Mtr</Unit>
+      <Quantity>20</Quantity>
+      <Name>TUBE COPPER ANNEALED SEAMLESS, 8X1MM</Name>
+      <ItemRef>711504</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_100</OriginatingSystemRef>
+      <SystemRef>112</SystemRef>
+    </Item>
+    <Item>
+      <Number>113</Number>
+      <OrigItemNumber>113</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WHEEL MOUNTED SHAPE-W, 25X25X40MM SHAFT DIAM 6MM</Name>
+      <ItemRef>614571</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_101</OriginatingSystemRef>
+      <SystemRef>113</SystemRef>
+    </Item>
+    <Item>
+      <Number>114</Number>
+      <OrigItemNumber>114</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WHEEL MOUNTED SHAPE-W, 32X32X40MM SHAFT DIAM 6MM</Name>
+      <ItemRef>614575</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_102</OriginatingSystemRef>
+      <SystemRef>114</SystemRef>
+    </Item>
+    <Item>
+      <Number>115</Number>
+      <OrigItemNumber>115</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WHEEL MOUNTED SHAPE-W, 16X32X40MM SHAFT DIAM 6MM</Name>
+      <ItemRef>614567</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_103</OriginatingSystemRef>
+      <SystemRef>115</SystemRef>
+    </Item>
+    <Item>
+      <Number>116</Number>
+      <OrigItemNumber>116</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>8</Quantity>
+      <Name>GASKET F/CAM&amp;amp;GROOVE COUPLING, BUNA N 32MM SM980032</Name>
+      <ItemRef>352104</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_104</OriginatingSystemRef>
+      <SystemRef>116</SystemRef>
+    </Item>
+    <Item>
+      <Number>117</Number>
+      <OrigItemNumber>117</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>8</Quantity>
+      <Name>GASKET F/CAM&amp;amp;GROOVE COUPLING, BUNA N 40MM SM980040</Name>
+      <ItemRef>352105</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>67 - Metal Sheet, Bars, etc.</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_105</OriginatingSystemRef>
+      <SystemRef>117</SystemRef>
+    </Item>
+    <Item>
+      <Number>118</Number>
+      <OrigItemNumber>118</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>ROTARY BUR CARBIDE TYPE-A, 6MM SHANK/9MM BLADE</Name>
+      <ItemRef>632505</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_106</OriginatingSystemRef>
+      <SystemRef>118</SystemRef>
+    </Item>
+    <Item>
+      <Number>119</Number>
+      <OrigItemNumber>119</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>ROTARY BUR CARBIDE TYPE-A, 6MM SHANK/13MM BLADE</Name>
+      <ItemRef>632506</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>63 - Cutting Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_107</OriginatingSystemRef>
+      <SystemRef>119</SystemRef>
+    </Item>
+    <Item>
+      <Number>120</Number>
+      <OrigItemNumber>120</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>5</Quantity>
+      <Name>BRUSH SWEEPING SOFT BRISTLE, HEAD ONLY W300MM</Name>
+      <ItemRef>510624</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_108</OriginatingSystemRef>
+      <SystemRef>120</SystemRef>
+    </Item>
+    <Item>
+      <Number>122</Number>
+      <OrigItemNumber>122</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>10</Quantity>
+      <Name>ELBOW STEEL BUTT-WELDING 90DEG, LONG RADIUS H.P. SCH-80 40A</Name>
+      <ItemRef>731475</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_109</OriginatingSystemRef>
+      <SystemRef>122</SystemRef>
+    </Item>
+    <Item>
+      <Number>123</Number>
+      <OrigItemNumber>123</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Set</Unit>
+      <Quantity>2</Quantity>
+      <Name>DRILL SET HSS STRAIGHT SHANK, 1-10MM 19S IN STEEL CASE</Name>
+      <ItemRef>630254</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_110</OriginatingSystemRef>
+      <SystemRef>123</SystemRef>
+    </Item>
+    <Item>
+      <Number>124</Number>
+      <OrigItemNumber>124</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>5</Quantity>
+      <Name>BRUSH SWEEP W/HAIR MIX, PLASTIC VIKAN3150 280MM WIDTH</Name>
+      <ItemRef>510888</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_111</OriginatingSystemRef>
+      <SystemRef>124</SystemRef>
+    </Item>
+    <Item>
+      <Number>125</Number>
+      <OrigItemNumber>125</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>4</Quantity>
+      <Name>Wringer mop bucket</Name>
+      <ItemRef>174280</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_112</OriginatingSystemRef>
+      <SystemRef>125</SystemRef>
+    </Item>
+    <Item>
+      <Number>126</Number>
+      <OrigItemNumber>126</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Lth</Unit>
+      <Quantity>4</Quantity>
+      <Name>Zinc casting round solid, 20x300mm</Name>
+      <ItemRef>673401</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_113</OriginatingSystemRef>
+      <SystemRef>126</SystemRef>
+    </Item>
+    <Item>
+      <Number>127</Number>
+      <OrigItemNumber>127</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Lth</Unit>
+      <Quantity>5</Quantity>
+      <Name>ZINC CASTING ROUND SOLID, 30X300MM</Name>
+      <ItemRef>673403</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_114</OriginatingSystemRef>
+      <SystemRef>127</SystemRef>
+    </Item>
+    <Item>
+      <Number>128</Number>
+      <OrigItemNumber>128</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Lth</Unit>
+      <Quantity>5</Quantity>
+      <Name>Zinc casting round solid, 35x300mm</Name>
+      <ItemRef>673404</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_115</OriginatingSystemRef>
+      <SystemRef>128</SystemRef>
+    </Item>
+    <Item>
+      <Number>129</Number>
+      <OrigItemNumber>129</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Lth</Unit>
+      <Quantity>5</Quantity>
+      <Name>ZINC CASTING ROUND SOLID, 40X300MM</Name>
+      <ItemRef>673405</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_116</OriginatingSystemRef>
+      <SystemRef>129</SystemRef>
+    </Item>
+    <Item>
+      <Number>130</Number>
+      <OrigItemNumber>130</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Lth</Unit>
+      <Quantity>5</Quantity>
+      <Name>Zinc casting round solid, 50x300mm</Name>
+      <ItemRef>673407</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_117</OriginatingSystemRef>
+      <SystemRef>130</SystemRef>
+    </Item>
+    <Item>
+      <Number>131</Number>
+      <OrigItemNumber>131</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Lth</Unit>
+      <Quantity>1</Quantity>
+      <Name>Stainless steel round, hot-rolled sus-304 9mm 4mtr</Name>
+      <ItemRef>671451</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>67 - Metal Sheet, Bars, etc.</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_118</OriginatingSystemRef>
+      <SystemRef>131</SystemRef>
+    </Item>
+    <Item>
+      <Number>132</Number>
+      <OrigItemNumber>132</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>WRENCH SINGLE OPEN END 60MM</Name>
+      <ItemRef>610631</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_119</OriginatingSystemRef>
+      <SystemRef>132</SystemRef>
+    </Item>
+    <Item>
+      <Number>133</Number>
+      <OrigItemNumber>133</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>WRENCH STRIKING SINGLE OPENEND, 15DEG BENT 60MM</Name>
+      <ItemRef>611151</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_120</OriginatingSystemRef>
+      <SystemRef>133</SystemRef>
+    </Item>
+    <Item>
+      <Number>135</Number>
+      <OrigItemNumber>135</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>1</Quantity>
+      <Name>DIE ROUND ADJ UNIFIED COARSE, 1/2-13UNCXOD38MM CARBON STEEL</Name>
+      <ItemRef>631914</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>63 - Cutting Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_121</OriginatingSystemRef>
+      <SystemRef>135</SystemRef>
+    </Item>
+    <Item>
+      <Number>136</Number>
+      <OrigItemNumber>136</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>BRUSH TUBE STEEL CONDENSER, 38MM X 1/2 MALE THREAD</Name>
+      <ItemRef>510713</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_122</OriginatingSystemRef>
+      <SystemRef>136</SystemRef>
+    </Item>
+    <Item>
+      <Number>137</Number>
+      <OrigItemNumber>137</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>8</Quantity>
+      <Name>FLANGE CARBON STEEL SLIP-ON , DIN2573 PN6 15MM</Name>
+      <ItemRef>735502</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>73 - Pipe &amp;amp; Tube Fittings</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_123</OriginatingSystemRef>
+      <SystemRef>137</SystemRef>
+    </Item>
+    <Item>
+      <Number>138</Number>
+      <OrigItemNumber>138</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>8</Quantity>
+      <Name>FLANGE CARBON STEEL SLIP-ON , DIN2573 PN6 25MM</Name>
+      <ItemRef>735504</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_124</OriginatingSystemRef>
+      <SystemRef>138</SystemRef>
+    </Item>
+    <Item>
+      <Number>139</Number>
+      <OrigItemNumber>139</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>8</Quantity>
+      <Name>FLANGE CARBON STEEL SLIP-ON , DIN2573 PN6 32MM</Name>
+      <ItemRef>735505</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>73 - Pipe &amp;amp; Tube Fittings</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_125</OriginatingSystemRef>
+      <SystemRef>139</SystemRef>
+    </Item>
+    <Item>
+      <Number>140</Number>
+      <OrigItemNumber>140</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>8</Quantity>
+      <Name>FLANGE CARBON STEEL SLIP-ON , DIN2573 PN6 50MM</Name>
+      <ItemRef>735507</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>73 - Pipe &amp;amp; Tube Fittings</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_126</OriginatingSystemRef>
+      <SystemRef>140</SystemRef>
+    </Item>
+    <Item>
+      <Number>141</Number>
+      <OrigItemNumber>141</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>8</Quantity>
+      <Name>FLANGE CARBON STEEL SLIP-ON , DIN2573 PN6 65MM</Name>
+      <ItemRef>735508</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>73 - Pipe &amp;amp; Tube Fittings</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_127</OriginatingSystemRef>
+      <SystemRef>141</SystemRef>
+    </Item>
+    <Item>
+      <Number>142</Number>
+      <OrigItemNumber>142</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>SCREWDRIVER PLASTIC HANDLE, NON-INSULATE PHILLIPS 2 100MM</Name>
+      <ItemRef>612194</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_128</OriginatingSystemRef>
+      <SystemRef>142</SystemRef>
+    </Item>
+    <Item>
+      <Number>143</Number>
+      <OrigItemNumber>143</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>SCREWDRIVER PLASTIC HANDLE, NON-INSULATE PHILLIPS 3 150MM</Name>
+      <ItemRef>612195</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_129</OriginatingSystemRef>
+      <SystemRef>143</SystemRef>
+    </Item>
+    <Item>
+      <Number>144</Number>
+      <OrigItemNumber>144</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>SCREWDRIVER PLASTIC HANDLE, NON-INSULATE PHILLIPS 4 200MM</Name>
+      <ItemRef>612196</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>61 - Hand Tools</Equipment>
+      <EquipMaker>IMPA</EquipMaker>
+      <EquipType>NA</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_130</OriginatingSystemRef>
+      <SystemRef>144</SystemRef>
+    </Item>
+    <Item>
+      <Number>145</Number>
+      <OrigItemNumber>145</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pair</Unit>
+      <Quantity>2</Quantity>
+      <Name>PLIER SIDE-CUTTING W/PLASTIC, GRIP BAHCO 2628G-160 167MM</Name>
+      <ItemRef>616213</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>Maker:IMPA</Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>6 M Stores - All Accounts</Equipment>
+      <EquipMaker>Maker detail not available</EquipMaker>
+      <EquipType>All Accounts</EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_131</OriginatingSystemRef>
+      <SystemRef>145</SystemRef>
+    </Item>
+    <Item>
+      <Number>146</Number>
+      <OrigItemNumber>146</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>WRENCH ADJUSTABLE BAHCO 8071, 205MM</Name>
+      <ItemRef>616103</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>
+      </Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>
+      </Equipment>
+      <EquipMaker>
+      </EquipMaker>
+      <EquipType>
+      </EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_132</OriginatingSystemRef>
+      <SystemRef>146</SystemRef>
+    </Item>
+    <Item>
+      <Number>148</Number>
+      <OrigItemNumber>148</OrigItemNumber>
+      <Description>
+      </Description>
+      <Unit>Pcs</Unit>
+      <Quantity>2</Quantity>
+      <Name>RATCHET HANDLE MALE, 6.35MM/SQ DRIVE 115MM</Name>
+      <ItemRef>610401</ItemRef>
+      <Discount>0</Discount>
+      <ListPrice>0</ListPrice>
+      <NetPrice>0</NetPrice>
+      <ItemTotal>0</ItemTotal>
+      <Remark>
+      </Remark>
+      <LeadDays>0</LeadDays>
+      <Equipment>
+      </Equipment>
+      <EquipMaker>
+      </EquipMaker>
+      <EquipType>
+      </EquipType>
+      <EquipRemarks>
+      </EquipRemarks>
+      <OriginatingSystemRef>hidQuantity_133</OriginatingSystemRef>
+      <SystemRef>148</SystemRef>
+    </Item>
+  </LineItems>
+  <Addresses>
+    <Address>
+      <Qualifier>BY</Qualifier>
+      <AddressName>BTG ARROW IV AS</AddressName>
+      <Identification>
+      </Identification>
+      <Address1>c/o K. G. Jebsen Skipsrederi A/S,Post Box 423 Marken,**,5832 BERGEN,Norway</Address1>
+      <Address2>
+      </Address2>
+      <PostCode>
+      </PostCode>
+      <City>
+      </City>
+      <Country>
+      </Country>
+      <ContactPerson>Daphne Tan Puay Sze</ContactPerson>
+      <Phone>4755175100</Phone>
+      <eMail>purchase@kgjs.no</eMail>
+    </Address>
+    <Address>
+      <Qualifier>VN</Qualifier>
+      <AddressName>FUJI TRADING (SINGAPORE) PTE .LTD.</AddressName>
+      <Identification>
+      </Identification>
+      <Address1>24, CHIA PING ROAD , SINGAPORE 619976 , Singapore</Address1>
+      <Address2>
+      </Address2>
+      <PostCode>
+      </PostCode>
+      <City>
+      </City>
+      <Country>
+      </Country>
+      <ContactPerson>
+      </ContactPerson>
+      <Phone>6562641755</Phone>
+      <eMail>info@fujifts.com</eMail>
+    </Address>
+  </Addresses>
+</RFQ>

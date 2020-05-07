@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Q2004879(20)" Identifier="UNOC" Recipient="SM3154_HTML" Sender="V00017" PreparationDate="2020-May-05" PreparationTime="19:42" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="3300" LesRecordID="12073741" LesLinkID="104210" ParentRecordID="12073369" MTML_DOCID="97AF8F2D-3FF3-4DA5-AEC9-42F1EABF3058">
+    <Quote MessageReferenceNumber="251-20-5027" MessageNumber="https://external.kgjs.no/PurchasePortal/login/token?tokenId=691a25ae-127b-4833-bf0e-bf33fc85fe0a" LineItemCount="1" VersionNumber="1" CurrencyCode="SGD" LeadTimeDays="2" BuyerRefNo="251-20-5027" AdditionalDiscount="1.49" OriginalFile="Z16982.xml" IsAltItemAllowed="0" IsPriceAveraged="2" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="87" BuyerQuoteTotal="87">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202005051942" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="202005071939" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202005310000" />
+      <Comments Qualifier="SUR">
+        <value> EX STKS SUB PRIOR SALES 2 WORKING DAYS OR AS INDICATED, UPON CONFIRMATION. "WE HEREBY DECLARE THAT ALL OF OUR SUPPLIED PRODUCTS ARE ASBESTOS-FREE."
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value> RMT 30 DAYS</value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>Power extension cord (Split 0067)</value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value> EX QUAY AT SINGAPORE</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="251-20-5027" />
+      <Reference Qualifier="AAG" ReferenceNumber="Q2004879(20)" />
+      <Party Qualifier="BY" Name="K.G.JEBSEN SKIPSREDERI A/S">
+        <Contact Name="Daphne Tan Puay Sze">
+          <CommunicationMethod Qualifier="TE" Number="+4755175100" />
+          <CommunicationMethod Qualifier="EM" Number="PURCHASE@KGJS.NO" />
+        </Contact>
+        <StreetAddress>Zander Kaaes Gate 7,Post Box 423,5832 BERGEN,Norway</StreetAddress>
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING (SINGAPORE) PTE .LTD.">
+        <Contact>
+          <CommunicationMethod Qualifier="TE" Number="6562641755" />
+          <CommunicationMethod Qualifier="EM" Number="info@fujifts.com" />
+        </Contact>
+        <StreetAddress>24, CHIA PING ROAD , SINGAPORE 619976 , Singapore</StreetAddress>
+      </Party>
+      <Party Qualifier="UD" Name="SKS Sinni / SIN">
+        <PartyLocation Qualifier="ZUC" Berth="EX QUAY AT SINGAPORE" Port="SGSIN" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="Power extension cord, 6 way universal, 110-230V, on/off swit | " MeasureUnitQualifier="Pcs" Quantity="3" TypeCode="BP" OriginatingSystemRef="hidQuantity_0" SystemItemNo="1" MonetaryAmount="87.00" Identification="MACRO MA 8866WN,2500W" DeliveryTime="2" IsExtraItem="0" MarkedRemarks="OFFER:EQUIVALENT =&#xD;&#xA;DELIVERY 2 WORKING DAYS ARO =&#xD;&#xA;***NON RETURNABLE ITEM*****" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="Pcs" Supp_UOM="PCE" Supp_Price="29" BuyerItemTotal="87" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="29" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="29" />
+        <Comments Qualifier="LIN">
+          <value>OFFER:EQUIVALENT =
+DELIVERY 2 WORKING DAYS ARO =
+***NON RETURNABLE ITEM***** |  QTY : 3 | UOM : PCE</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="87.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="85.700" />
+      <MonetaryAmount Qualifier="_90" Value="87.000" />
+      <MonetaryAmount Qualifier="_91" Value="87.000" />
+    </Quote>
+  </Interchange>
+</MTML>
