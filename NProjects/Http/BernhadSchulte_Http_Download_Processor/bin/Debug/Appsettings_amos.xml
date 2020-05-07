@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<LOGINSETTINGS>
+  <APPSETTINGS>
+      <SITE_URL>https://paleconnect.bs-shipmanagement.com/</SITE_URL>    
+    <USERNAME>contact@amos-sg.com</USERNAME>    
+    <PASSWORD>amosbsm156</PASSWORD>    
+    <LOGINRETRY>3</LOGINRETRY>    
+    <SUPPLIER>V00128</SUPPLIER>    
+    <BUYER/>
+    <BUYER_NAME>Bernhard Schulte Shipmanagement (Hong Kong) Ltd. Partnership|BERNHARD SCHULTE SHIPMANAGEMENT (HONG KONG) LTD. PARTNERSHIP|Bernhard Schulte Shipmanagement (Hong Kong) Limite|BSM (Hong Kong)|Bernhard Schulte Shipmanagement (Cyprus) Ltd.|BSM (Cyprus)|BSM (Singapore)|Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.|BSM (China)|Bernhard Schulte Shipmanagement (China) Company Ltd.|BSM (India)|Bernhard Schulte Shipmanagement (India) Private Ltd.|BSM (UK)|Bernhard Schulte Shipmanagement (UK) Limited|BSM (Deutschland)|BSM (Hellas)|Bernhard Schulte Shipmanagement (Hellas) SPLLC|BS Cruise
+	|BSM (Hellas)|Bernhard Schulte Shipmanagement (Hellas) SPLLC|FFM NORWAY</BUYER_NAME>
+    <BUYER_SUPPLIER_LINK>91000016|91000016|91000016|91000016|91000011|91000011|91000014|91000014|91000015|91000015|91000017|91000017|91000013|91000013|91000018|91000012|91000012|91000018|91000018|91000018|91000018</BUYER_SUPPLIER_LINK>
+    <RFQRECEIVED_DATE></RFQRECEIVED_DATE>    
+    <PROCESSOR_NAME>Bernhard Schulte Http Downloader</PROCESSOR_NAME>    
+    <ACTIONS>RFQ</ACTIONS>    
+    <PENDINGRFQFILE>C:\Shipmaster\LeS_eSupplierProcessors\win_Applications\BS_New_Processor\BSM_HTTP_RFQ_Downloader\Amos\Pending_RFQ.txt</PENDINGRFQFILE>
+    <PROCESSEDRFQFILE>C:\Shipmaster\LeS_eSupplierProcessors\win_Applications\BS_New_Processor\BSM_HTTP_RFQ_Downloader\Amos\RFQ_Downloaded.txt</PROCESSEDRFQFILE>
+    <RFQ_PATH>C:\Shipmaster\LeS_eSupplierProcessors\win_Applications\BS_New_Processor\BSM_HTTP_RFQ_Downloader\Amos\RFQ</RFQ_PATH>
+    <LOGPATH>C:\Shipmaster\LeS_eSupplierProcessors\win_Applications\BS_New_Processor\BSM_HTTP_RFQ_Downloader\Log</LOGPATH>
+    <AUDITPATH>C:\Shipmaster\LeS_eSupplierProcessors\win_Applications\BS_New_Processor\BSM_HTTP_RFQ_Downloader\AuditLog</AUDITPATH>
+    <SEACHEF_BUYER_NAME>BSM (India)|Bernhard Schulte Shipmanagement (India) Private Ltd.</SEACHEF_BUYER_NAME>
+    <SEACHEF_BUYER_SUPPLIER_LINK>91000844|91000844</SEACHEF_BUYER_SUPPLIER_LINK>
+  </APPSETTINGS> 
+</LOGINSETTINGS>

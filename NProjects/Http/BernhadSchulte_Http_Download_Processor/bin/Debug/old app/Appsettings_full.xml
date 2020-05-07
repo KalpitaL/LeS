@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<LOGINSETTINGS>
+<APPSETTINGS>
+      <SITE_URL>https://paleconnect.bs-shipmanagement.com/</SITE_URL>    
+    <USERNAME>info@fujifts.com</USERNAME>    
+    <PASSWORD>619976</PASSWORD>    
+    <LOGINRETRY>3</LOGINRETRY>    
+    <SUPPLIER>V00017</SUPPLIER>    
+    <BUYER/>
+    <BUYER_NAME>Bernhard Schulte Shipmanagement (Hong Kong) Ltd. Partnership|BERNHARD SCHULTE SHIPMANAGEMENT (HONG KONG) LTD. PARTNERSHIP|
+       Bernhard Schulte Shipmanagement (Hong Kong) Limite|BSM (Hong Kong)|Bernhard Schulte Shipmanagement (Cyprus) Ltd.|BSM (Cyprus)|BSM (Singapore)|Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.|BSM (China)|
+       Bernhard Schulte Shipmanagement (China) Company Ltd.|Bernhard Schulte Shipmanagement (India) Private Ltd.|BSM (UK)|Bernhard Schulte Shipmanagement (UK) Limited|BSM (India)|BSM (Hellas)|Bernhard Schulte Shipmanagement (Hellas) SPLLC</BUYER_NAME>
+    <BUYER_SUPPLIER_LINK>B60108|B60108|B60108|B60108|B60105|B60105|110341|110341|B60106|B60106|SM0016_XLS|B60111|B60111|abc|abcd|abcd</BUYER_SUPPLIER_LINK>
+<RFQRECEIVED_DATE></RFQRECEIVED_DATE>    
+<PROCESSOR_NAME>Bernhard Schulte Http Download Processor</PROCESSOR_NAME>    
+<ACTIONS>RFQ</ACTIONS>    
+<PENDINGRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiSingapore\Pending_RFQ.txt</PENDINGRFQFILE>
+<PROCESSEDRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiSingapore\RFQ_Downloaded.txt</PROCESSEDRFQFILE>
+<RFQ_PATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiSingapore\RFQ</RFQ_PATH>
+<LOGPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\Log</LOGPATH>
+<AUDITPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\AuditLog</AUDITPATH>
+  <MTML_QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\MTML_Quote_Upload</MTML_QUOTE_UPLOADPATH>
+    <QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\Quote_Upload</QUOTE_UPLOADPATH>
+  </APPSETTINGS> 
+<APPSETTINGS>
+      <SITE_URL>https://paleconnect.bs-shipmanagement.com/</SITE_URL>    
+    <USERNAME>mach-5@fujitrading.co.jp</USERNAME>    
+    <PASSWORD>ed6f0c45</PASSWORD>    
+    <LOGINRETRY>3</LOGINRETRY>    
+    <SUPPLIER>V00026</SUPPLIER>    
+    <BUYER/>
+    <BUYER_NAME>Bernhard Schulte Shipmanagement (Hong Kong) Ltd. Partnership|BERNHARD SCHULTE SHIPMANAGEMENT (HONG KONG) LTD. PARTNERSHIP|Bernhard Schulte Shipmanagement (Hong Kong) Limite|BSM (Hong Kong)|Bernhard Schulte Shipmanagement (Cyprus) Ltd.|BSM (Cyprus)|BSM (Singapore)|Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.|BSM (China)|Bernhard Schulte Shipmanagement (China) Company Ltd.|BSM (India)|Bernhard Schulte Shipmanagement (India) Private Ltd.|BSM (UK)|Bernhard Schulte Shipmanagement (UK) Limited|BSM (Deutschland)|BSM (Hellas)|Bernhard Schulte Shipmanagement (Hellas) SPLLC|BSM (Isle of Man)|Bernhard Schulte Shipmanagement (Isle of Man) Ltd</BUYER_NAME>
+    <BUYER_SUPPLIER_LINK>103016|103016|103016|103016|103020|103020|103015|103015|103023|103023|103024|103024|103022|103022|103025|103021|103021|103017|103017</BUYER_SUPPLIER_LINK>
+<RFQRECEIVED_DATE></RFQRECEIVED_DATE>    
+<PROCESSOR_NAME>Bernhard Schulte Http Download Processor</PROCESSOR_NAME>    
+<ACTIONS>QUOTE</ACTIONS>    
+<PENDINGRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiJapan\Pending_RFQ.txt</PENDINGRFQFILE>
+<PROCESSEDRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiJapan\RFQ_Downloaded.txt</PROCESSEDRFQFILE>
+<RFQ_PATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiJapan\RFQ</RFQ_PATH>
+<LOGPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\Log</LOGPATH>
+<AUDITPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\AuditLog</AUDITPATH>
+  <MTML_QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\MTML_Quote_Upload</MTML_QUOTE_UPLOADPATH>
+    <QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\Quote_Upload</QUOTE_UPLOADPATH>
+  </APPSETTINGS> 
+<APPSETTINGS>
+      <SITE_URL>https://paleconnect.bs-shipmanagement.com/</SITE_URL>    
+    <USERNAME>info@fujitrading.nl</USERNAME>    
+    <PASSWORD>Nihon775#</PASSWORD>    
+    <LOGINRETRY>3</LOGINRETRY>    
+    <SUPPLIER>V10037</SUPPLIER>    
+    <BUYER/>
+    <BUYER_NAME>Bernhard Schulte Shipmanagement (Hong Kong) Ltd. Partnership|BERNHARD SCHULTE SHIPMANAGEMENT (HONG KONG) LTD. PARTNERSHIP|Bernhard Schulte Shipmanagement (Hong Kong) Limite|BSM (Hong Kong)|Bernhard Schulte Shipmanagement (Cyprus) Ltd.|BSM (Cyprus)|BSM (Singapore)|Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.|BSM (China)|Bernhard Schulte Shipmanagement (China) Company Ltd.|BSM (India)|Bernhard Schulte Shipmanagement (India) Private Ltd.|BSM (UK)|Bernhard Schulte Shipmanagement (UK) Limited|BSM (Deutschland)|BSM (Hellas)|Bernhard Schulte Shipmanagement (Hellas) SPLLC</BUYER_NAME>
+    <BUYER_SUPPLIER_LINK>102209|102209|102209|102209|102205|102205|102210|102210|102204|102204|102207|102207|102211|102211|102206|102208|102208</BUYER_SUPPLIER_LINK>
+<RFQRECEIVED_DATE></RFQRECEIVED_DATE>    
+<PROCESSOR_NAME>Bernhard Schulte Http Download Processor</PROCESSOR_NAME>    
+<ACTIONS>RFQ</ACTIONS>    
+<PENDINGRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiRotterdam\Pending_RFQ.txt</PENDINGRFQFILE>
+<PROCESSEDRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiRotterdam\RFQ_Downloaded.txt</PROCESSEDRFQFILE>
+<RFQ_PATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiRotterdam\RFQ</RFQ_PATH>
+<LOGPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\Log</LOGPATH>
+<AUDITPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\AuditLog</AUDITPATH>
+  <MTML_QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\MTML_Quote_Upload</MTML_QUOTE_UPLOADPATH>
+    <QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\Quote_Upload</QUOTE_UPLOADPATH>
+  </APPSETTINGS>  
+<APPSETTINGS>
+    <SITE_URL>https://paleconnect.bs-shipmanagement.com/</SITE_URL>    
+    <USERNAME>mt@rmsmarineservice.com</USERNAME>    
+    <PASSWORD>RaMbSc</PASSWORD>    
+    <LOGINRETRY>3</LOGINRETRY>   
+    <SUPPLIER_SINGAPORE>V10204</SUPPLIER_SINGAPORE> 
+    <SUPPLIER>V10205</SUPPLIER>    
+    <BUYER/>
+    <BUYER_NAME>Bernhard Schulte Shipmanagement (Hong Kong) Ltd. Partnership|BERNHARD SCHULTE SHIPMANAGEMENT (HONG KONG) LTD. PARTNERSHIP|
+       Bernhard Schulte Shipmanagement (Hong Kong) Limite|BSM (Hong Kong)|Bernhard Schulte Shipmanagement (Cyprus) Ltd.|BSM (Cyprus)|BSM (Singapore)|Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.|BSM (China)|
+       Bernhard Schulte Shipmanagement (China) Company Ltd.|BSM (UK)|Bernhard Schulte Shipmanagement (UK) Limited|BSM (India)|BERNHARD SCHULTE SHIPMANAGEMENT (INDIA) PRIVATE LTD.|BSM (Hellas)|BSM (Deutschland)|BERNHARD SCHULTE SHIPMANAGEMENT (DEUTSCHLAND) GMBH &amp; CO. KG|BSM (Isle of Man)</BUYER_NAME>
+<BUYER_SUPPLIER_LINK_SINGAPORE>9200161|9200161|9200161|9200161|9200156|9200156|9200159|9200159|9200160|9200160|9200158|9200158|9200162|9200162|9200157|9200163|9200163|9200155</BUYER_SUPPLIER_LINK_SINGAPORE>
+    <BUYER_SUPPLIER_LINK>9200151|9200151|9200151|9200151|9200146|9200146|9200149|9200149|9200150|9200150|9200148|9200148|9200152|9200152|9200147|9200153|9200153|9200145</BUYER_SUPPLIER_LINK>
+<RFQRECEIVED_DATE></RFQRECEIVED_DATE>    
+<PROCESSOR_NAME>Bernhard Schulte Http Download Processor</PROCESSOR_NAME>    
+<ACTIONS>RFQ</ACTIONS>    
+<PENDINGRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiRotterdam\Pending_RFQ.txt</PENDINGRFQFILE>
+<PROCESSEDRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiRotterdam\RFQ_Downloaded.txt</PROCESSEDRFQFILE>
+<RFQ_PATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\FujiRotterdam\RFQ</RFQ_PATH>
+<LOGPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\Log</LOGPATH>
+<AUDITPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\AuditLog</AUDITPATH>
+  <MTML_QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\MTML_Quote_Upload</MTML_QUOTE_UPLOADPATH>
+    <QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\Quote_Upload</QUOTE_UPLOADPATH>
+  </APPSETTINGS>
+<APPSETTINGS>
+    <SITE_URL>https://paleconnect.bs-shipmanagement.com/</SITE_URL>    
+    <USERNAME>contact@amos-sg.com</USERNAME>    
+    <PASSWORD>amosbsm156</PASSWORD>    
+    <LOGINRETRY>3</LOGINRETRY>    
+    <SUPPLIER>V00128</SUPPLIER>    
+    <BUYER/>
+    <BUYER_NAME>Bernhard Schulte Shipmanagement (Hong Kong) Ltd. Partnership|BERNHARD SCHULTE SHIPMANAGEMENT (HONG KONG) LTD. PARTNERSHIP|Bernhard Schulte Shipmanagement (Hong Kong) Limite|BSM (Hong Kong)|Bernhard Schulte Shipmanagement (Cyprus) Ltd.|BSM (Cyprus)|BSM (Singapore)|Bernhard Schulte Shipmanagement (Singapore) Pte. Ltd.|BSM (China)|Bernhard Schulte Shipmanagement (China) Company Ltd.|BSM (India)|Bernhard Schulte Shipmanagement (India) Private Ltd.|BSM (UK)|Bernhard Schulte Shipmanagement (UK) Limited|BSM (Deutschland)|BSM (Hellas)|Bernhard Schulte Shipmanagement (Hellas) SPLLC</BUYER_NAME>
+    <BUYER_SUPPLIER_LINK>91000016|91000016|91000016|91000016|91000011|91000011|91000014|91000014|91000015|91000015|91000017|91000017|91000013|91000013|91000018|91000012|91000012</BUYER_SUPPLIER_LINK>
+<RFQRECEIVED_DATE></RFQRECEIVED_DATE>    
+<PROCESSOR_NAME>Bernhard Schulte Http Downloader</PROCESSOR_NAME>    
+<ACTIONS>RFQ</ACTIONS>    
+<PENDINGRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\Amos\Pending_RFQ.txt</PENDINGRFQFILE>
+<PROCESSEDRFQFILE>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\Amos\RFQ_Downloaded.txt</PROCESSEDRFQFILE>
+<RFQ_PATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\Amos\RFQ</RFQ_PATH>
+<LOGPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\Log</LOGPATH>
+<AUDITPATH>D:\Working\HTTP_POST\BernhadSchulte_Http_Download_Processor\bin\Debug\AuditLog</AUDITPATH>
+<SEACHEF_BUYER_NAME>BSM (India)|Bernhard Schulte Shipmanagement (India) Private Ltd.</SEACHEF_BUYER_NAME>
+<SEACHEF_BUYER_SUPPLIER_LINK>91000844|91000844</SEACHEF_BUYER_SUPPLIER_LINK>
+  <MTML_QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\MTML_Quote_Upload</MTML_QUOTE_UPLOADPATH>
+    <QUOTE_UPLOADPATH>E:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Scrapper\bin\Debug\Quote_Upload</QUOTE_UPLOADPATH>
+  </APPSETTINGS> 
+</LOGINSETTINGS>
