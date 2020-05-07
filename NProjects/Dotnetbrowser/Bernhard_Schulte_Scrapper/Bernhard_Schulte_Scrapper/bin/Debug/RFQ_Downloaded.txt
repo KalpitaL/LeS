@@ -1,0 +1,10 @@
+LAHI/O0070/RF17|31-Jul-2017|Lady Hilde|Antwerp|31-Jul-2017
+KGLS/O0116/RF17|31-Jul-2017|Kokuka Glorious|Rotterdam|31-Jul-2017
+HYDE/O0047/RF17|31-Aug-2017|Hyde|Amsterdam|10-Sep-2017
+NQZ/O0075/RF17|12-Sep-2017|New Quzhou|Rotterdam|13-Sep-2017
+HNR/O0170/RF17|13-Sep-2017|MOL Glide|Rotterdam|13-Sep-2017
+HYDE/O0055/RF17|12-Sep-2017|Hyde|Amsterdam|12-Sep-2017
+MOR/O0135/RF17|12-Sep-2017|Moritz Schulte||12-Sep-2017
+MOR/O0133/RF17|12-Sep-2017|Moritz Schulte||12-Sep-2017
+RAU/O0146/RF17|12-Sep-2017|Rio Arauca|Setubal|12-Sep-2017
+ANZ/O0175/RF17|12-Sep-2017|Ana Nzinga|Rotterdam|12-Sep-2017

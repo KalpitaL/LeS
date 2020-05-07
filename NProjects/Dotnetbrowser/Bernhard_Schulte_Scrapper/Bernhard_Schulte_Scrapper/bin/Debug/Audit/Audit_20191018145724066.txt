@@ -1,0 +1,5 @@
+SM0016_FUJIJPXLS|V00026|Bernhard Schulte Quote|BS_Quote_UND_O0087_RF19_20191018145720_V00026.pdf|UND/O0087/RF19|Error|19-10-18 14:57 : Exception while processing Quote MTML : System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s, NumberStyles style, IFormatProvider provider)
+   at Bernhard_Schulte_Routine.BSRoutine.Add_ValidDate_Remarks(String FileName, String MTML_FileName) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 3059
+   at Bernhard_Schulte_Routine.BSRoutine.ProcessQuoteMTML(String MTML_QuoteFile) in e:\Projects\LES\Namrata_Projects\DotNetBrowser\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\BSRoutine.cs:line 1433

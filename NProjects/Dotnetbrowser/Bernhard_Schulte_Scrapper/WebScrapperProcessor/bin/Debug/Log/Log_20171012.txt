@@ -1,0 +1,11 @@
+
+12-10-2017 10:13:01 Bernhard Schulte Processor Started.
+12-10-2017 10:13:03 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+12-10-2017 10:13:07 about:blank
+12-10-2017 10:13:07 about:blank
+12-10-2017 10:13:07 about:blank
+
+12-10-2017 10:13:18 Bernhard Schulte Processor Started.
+12-10-2017 10:13:21 https://paleconnect.bs-shipmanagement.com/Enquiry/Index
+12-10-2017 10:13:22 about:blank
+12-10-2017 10:13:24 Login Successfully.
