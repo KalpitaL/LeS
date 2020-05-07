@@ -1,0 +1,59 @@
+11/28/2019 10:17:45 AM ================11/28/2019 10:17:45 AM================
+11/28/2019 10:17:45 AM MTM RFQ Download HTTP processor started
+11/28/2019 10:17:55 AM MTM Domain not found in 191126_130838762.txt
+11/28/2019 10:17:55 AM No PDF file found for file 191126_130838762.txt
+11/28/2019 10:17:55 AM Unable to process file191126_130838762.txt due to link not found
+11/28/2019 10:17:55 AM File 191126_130838762.txt moved to error files.
+11/28/2019 10:17:55 AM MTM Domain not found in 191128_092641904.txt
+11/28/2019 10:17:55 AM File 191128_092641904_4001051_47830_RFQ-VIT-E-19-5364-B1.pdf moved to error files.
+11/28/2019 10:17:55 AM MTM Domain not found in 4001020_191126_180215631.txt
+11/28/2019 10:17:55 AM No PDF file found for file 4001020_191126_180215631.txt
+11/28/2019 10:17:55 AM Unable to process file4001020_191126_180215631.txt due to link not found
+11/28/2019 10:17:55 AM File 4001020_191126_180215631.txt moved to error files.
+11/28/2019 10:17:55 AM MTM Domain not found in 4001020_191127_154222376.txt
+11/28/2019 10:17:55 AM No PDF file found for file 4001020_191127_154222376.txt
+11/28/2019 10:17:55 AM Unable to process file4001020_191127_154222376.txt due to link not found
+11/28/2019 10:17:55 AM File 4001020_191127_154222376.txt moved to error files.
+11/28/2019 10:17:55 AM MTM Domain not found in 4001020_191128_095218392.txt
+11/28/2019 10:17:55 AM File 4001020_191128_095218392_4001020_22389_file-160691.pdf moved to backup files.
+11/28/2019 10:17:55 AM File 4001020_191128_095218392.txt moved to backup files.
+11/28/2019 10:17:55 AM File '4001020_191128_095218392.txt' processed successfully.
+11/28/2019 10:17:55 AM File '4001020_191128_095218392.txt' processed successfully.
+11/28/2019 10:17:58 AM RFQ 'EBO-5242-A1' downloaded successfully.
+11/28/2019 10:17:58 AM File 5000264_191128_101945528.txt moved to backup folder.
+11/28/2019 10:17:59 AM RFQ 'MTR-7761-B1' downloaded successfully.
+11/28/2019 10:17:59 AM File 4001020_191128_101213573.txt moved to backup folder.
+11/28/2019 10:18:00 AM 1004.2Unable to process file 191122_123839124.txt due to Invalid Link
+11/28/2019 10:18:00 AM File 191122_123839124.txt moved to error files.
+11/28/2019 10:18:00 AM MTM RFQ Download HTTP processor stopped
+11/28/2019 10:18:00 AM ====================================================
+11/28/2019 10:20:00 AM ================11/28/2019 10:20:00 AM================
+11/28/2019 10:20:00 AM MTM RFQ Download HTTP processor started
+11/28/2019 10:20:55 AM MTM Domain not found in 191128_092641904.txt
+11/28/2019 10:23:03 AM ================11/28/2019 10:23:03 AM================
+11/28/2019 10:23:03 AM MTM RFQ Download HTTP processor started
+11/28/2019 10:23:42 AM MTM Domain not found in 191128_092641904.txt
+11/28/2019 10:25:12 AM File 191128_092641904_4001051_47830_RFQ-VIT-E-19-5364-B1.pdf moved to error files.
+11/28/2019 10:25:21 AM No RFQ Found !
+11/28/2019 10:26:09 AM ================11/28/2019 10:26:09 AM================
+11/28/2019 10:26:09 AM MTM RFQ Download HTTP processor started
+11/28/2019 10:26:12 AM MTM Domain not found in 191128_092641904.txt
+11/28/2019 10:26:15 AM No PDF file found for file 191128_092641904.txt
+11/28/2019 10:26:15 AM Unable to process file191128_092641904.txt due to link not found
+11/28/2019 10:26:15 AM File 191128_092641904.txt moved to error files.
+11/28/2019 10:26:18 AM No RFQ Found !
+11/28/2019 10:26:19 AM MTM RFQ Download HTTP processor stopped
+11/28/2019 10:26:19 AM ====================================================
+11/28/2019 12:33:23 PM ================11/28/2019 12:33:23 PM================
+11/28/2019 12:33:23 PM MTM RFQ Download HTTP processor started
+11/28/2019 12:34:31 PM ================11/28/2019 12:34:31 PM================
+11/28/2019 12:34:31 PM MTM RFQ Download HTTP processor started
+11/28/2019 12:37:26 PM ================11/28/2019 12:37:26 PM================
+11/28/2019 12:37:26 PM MTM RFQ Download HTTP processor started
+11/28/2019 12:38:08 PM ================11/28/2019 12:38:08 PM================
+11/28/2019 12:38:08 PM MTM RFQ Download HTTP processor started
+11/28/2019 12:38:20 PM ================11/28/2019 12:38:20 PM================
+11/28/2019 12:38:20 PM MTM RFQ Download HTTP processor started
+11/28/2019 12:38:28 PM MTM Domain not found in 191128_092641904.txt
+11/28/2019 12:38:35 PM ================11/28/2019 12:38:35 PM================
+11/28/2019 12:38:35 PM MTM RFQ Download HTTP processor started

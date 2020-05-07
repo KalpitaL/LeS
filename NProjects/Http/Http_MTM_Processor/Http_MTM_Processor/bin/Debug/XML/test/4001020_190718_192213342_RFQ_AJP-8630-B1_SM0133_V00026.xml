@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange Identifier="UNOC" Recipient="V00026" Sender="SM0133_FUJI" PreparationDate="20190718" PreparationTime="181228" VersionNumber="1">
+    <RequestForQuote MessageReferenceNumber="429270" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=429270&amp;validate=0.646951530998495" LineItemCount="4" VersionNumber="1" FunctionCode="_9" BuyerRefNo="AJP-8630-B1" OriginalFile="MTM_SHIP_V00026_SM0133_AJP_8630_B1_18071918122846.png">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20190701" />
+      <Reference Qualifier="UC" ReferenceNumber="AJP-8630-B1" />
+      <Party Qualifier="UD" />
+      <Party Qualifier="BY" Name="M.T.M. SHIP MANAGEMENT PTE. LTD">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING CO. LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="078-4132611-" />
+          <CommunicationMethod Qualifier="EM" Number="mach-5@fujitrading.co.jp" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="SHAFT SEAL" Identification="038201500" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2190904_5167195" SystemItemNo="1">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 31739-029</value>
+        </Comments>
+        <Section Manufacturer=" JETS" ModelNumber=" VACUUMARATOR 15MB/15MB-D" />
+      </LineItem>
+      <LineItem Number="2" Description="PRESSURE CHAMBER" Identification="029150900" MeasureUnitQualifier="PCS" Quantity="2" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2190903_5167196" SystemItemNo="2">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 31739-029</value>
+        </Comments>
+        <Section Manufacturer=" JETS VACUUM" ModelNumber=" JETS 15MB-D/610625" />
+      </LineItem>
+      <LineItem Number="3" Description="ROTOR" Identification="029150700" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2190902_5167198" SystemItemNo="3">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 31739-029</value>
+        </Comments>
+        <Section Manufacturer=" JETS VACUUM" ModelNumber=" JETS 15MB-D/610625" />
+      </LineItem>
+      <LineItem Number="4" Description="SEAL" Identification="037504200" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2190901_5167197" SystemItemNo="4">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 32833-054.idw</value>
+        </Comments>
+        <Section Manufacturer=" JETS VACUUM SYSTEM" ModelNumber=" 64 FD/VPC-V" />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

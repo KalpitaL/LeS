@@ -1,0 +1,1 @@
+SM0133|V10001|MTM_HTTP_Processor|MTM_SHIP_V10001_SM0133_CBO_6483_A1_08022011312744.png|CBO-6483-A1|Error|20-02-08 11:33 : LeS:1003-Issue after loading URL since Requested Bid [CBO-6483-A1] is not available for quotation.

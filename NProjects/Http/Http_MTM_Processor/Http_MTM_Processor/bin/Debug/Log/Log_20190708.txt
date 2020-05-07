@@ -1,0 +1,6 @@
+08/07/2019 15:03:58 ================08/07/2019 15:03:58================
+08/07/2019 15:03:58 MTM RFQ Download HTTP processor started
+08/07/2019 15:04:38 RFQ 'MAW-7119-B1' downloaded successfully.
+08/07/2019 15:04:38 File 4001020_190708_162216491.txt moved to backup folder.
+08/07/2019 15:04:38 MTM RFQ Download HTTP processor stopped
+08/07/2019 15:04:38 ====================================================

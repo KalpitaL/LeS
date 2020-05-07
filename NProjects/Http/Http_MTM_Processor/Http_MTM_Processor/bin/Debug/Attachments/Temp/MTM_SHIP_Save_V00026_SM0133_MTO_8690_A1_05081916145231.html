@@ -1,0 +1,440 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	MTMSM : Quote Manager
+</title><link href="../CSS/rfqStyle.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="../JS/jquery_v1.10.2.min.js"></script>    
+    <link href="../CSS/CalenderStyle.css" rel="Stylesheet" type="text/css" />
+    <script src="../JS/Calender.js" type="text/javascript"></script>
+    <script src="../JS/jquery.datetimepicker.js"></script>
+    <link href="../CSS/jquery.datetimepicker.css" rel="stylesheet" type="text/css" />
+     <style type="text/css">
+        div.panel {
+            border:solid 1px red;
+            z-index:99999;
+        }
+        .bordered tr td {
+            border:solid 1px #d7d7d7;
+            color:#292929;
+            padding:5px;
+        }
+        .headerrow td{
+            background-color:#cdcdce;
+            font-size: 12px;
+            padding:5px;
+            color:#333 !important;
+        }
+        input[type='text'],select
+        {
+            line-height:18px;
+            height:23px;
+            padding-left:5px;
+            padding-right:5px;
+            background-color:#ffea9e;
+            font-size:11px !important;
+            text-align:right;
+            border:solid 1px #d7d7d7 !important;
+        }
+        td{
+            vertical-align:middle;
+        }
+    </style>
+    <script type="text/javascript" language="javascript">
+function DisableBackButton() {
+window.history.forward()
+}
+DisableBackButton();
+window.onload = DisableBackButton;
+window.onpageshow = function(evt) { if (evt.persisted) DisableBackButton() }
+window.onunload = function() { void (0) }
+</script>
+    <script type="text/javascript">
+
+        function AttachFunc()
+        {
+            $('.date_only').datetimepicker({ timepicker: false, format: 'd-M-Y', formatDate: 'd-M-Y', allowBlank: true, defaultSelect: false, validateOnBlur: false });
+
+            $(".cal").keyup(function () {
+
+                var UpdateValue = 0;
+                var field = $(this).attr("f_name");
+                var BidItemID = $(this).attr("BidItemID");
+                var BidId = $(this).attr("BidId");
+                var RecID = $(this).attr("RecID");
+                var curentrate = $(".curentrate").html();
+                var ShippingTotalLc = $(".ShippingTotalLc").val();
+                var ShippingTotalUSD = $(".ShippingTotalUSD").html();
+
+                ShippingTotalLc = parseFloat(ShippingTotalLc);
+                ShippingTotalUSD = parseFloat(ShippingTotalUSD);
+
+                var objpricelc = $(this).closest(".row").find(".pricelc");
+                var priceusd = $(this).closest(".row").find(".priceusd");
+                var VendorDescription = $(this).closest(".row").find(".description");
+                var BidQty = $(this).closest(".row").find(".qty");
+                var UnitPrice = $(this).closest(".row").find(".unit");               
+
+                
+                BidItemID = parseInt(BidItemID);
+                BidId = parseInt(BidId);
+                RecID = parseInt(RecID);
+
+                var bq = $(BidQty).val();
+                var up = $(UnitPrice).val();
+                var vd = $(VendorDescription).val().replace("'","`");
+                if (isNaN(parseFloat(bq)))
+                {
+                    bq = 0.0;
+                }
+                if (isNaN(parseFloat(up))) {
+                    up = 0.0;
+                }
+
+                if (parseFloat(bq) < 0) {
+                    bq = Math.abs(bq);
+                    $(this).closest(".row").find(".qty").val(bq);
+                }
+                if (parseFloat(up) < 0) {
+                    up = Math.abs(up);
+                    $(this).closest(".row").find(".unit").val(up);
+                }
+
+
+                $.ajax({
+                    url: 'QuoteManager.aspx/Update_unitpriceAndquantity',
+                    data: "{ 'BidItemID': '" + BidItemID + "','BidQty': '" + bq + "','UnitPrice': '" + up + "','BidId': '" + BidId + "','RecID': '" + RecID + "','curentrate': '" + curentrate + "','vendordescription': '" + vd + "' }",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (data) {
+                        var myobj = JSON.parse(data.d);
+                        objpricelc.html(parseFloat(myobj.priceLC).toFixed(2));
+                        priceusd.html(parseFloat(myobj.priceUSD).toFixed(2));
+
+                        var totPriceLC = 0;
+                        var totPriceUsd = 0;
+                        $(".cal.pricelc").each(function () {
+                            totPriceLC = totPriceLC + parseFloat($(this).html());
+                        });
+                        $(".cal.priceusd").each(function () {
+                            totPriceUsd = totPriceUsd + parseFloat($(this).html());
+
+                        });
+
+                        totPriceLC = totPriceLC + ShippingTotalLc;
+                        totPriceUsd = totPriceUsd + ShippingTotalUSD;
+                        $(".QuoteTotalLc").html(totPriceLC.toFixed(2));
+                        $(".QuoteTotalUsd").html(totPriceUsd.toFixed(2));
+                    },
+                    error: function (data, status, jqXHR) { alert(jqXHR); }
+                });
+            });
+        }
+        $(document).ready(function () {
+            AttachFunc();
+        })
+    </script>
+
+</head>
+<body>
+    <form name="form1" method="post" action="./quotemanager.aspx?key=434794&amp;validate=0.732048214808466" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="ToolkitScriptManager1_HiddenField" id="ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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UyBBUkUgQVNCRVNUT1MtRlJFRS4iICoqKiBHRU5VSU5FIFBBUlRTIEZST00gT1JJR0lOQUwgTUFOVUZBQ1RVUkUvTUFLRVIgKioqIExlYWQgRGF5cyA6IDVkZAIZDw8WAh8FBQQwLjAwZGQCGw8PFgIfBQUEMC4wMGRkAh0PFgIfCQIBFgJmD2QWAmYPFQsBMQlXQUxMIFRZUEUNUkExMTE2LTYxMDMtMQATV0FMTCBUWVBFIFRFTEVQSE9ORUhXL0JSQUNLRVQgUC9OIFdBTEwgVFlQRTsgRGVsIERheXMgOiA1OyA7IFF1b3RlZCBRdHk6IDM7IFF1b3RlZCBVbml0OiBTRVQBMwNTRVQFMjk4NTAJODksNTUwLjAwBjg0MC40MGQCHw8PFgIfBQUIODk1NTAuMDBkZAIhDw8WAh8FBQY4NDAuNDBkZAInDw8WAh8EaGRkAikPFwMFA2Nzc2UFBEJBU0VkBQ9SZXBvcnRWaWV3U3RhdGUXAwUHUmVmcmVzaGgFElBhZ2VSZXF1ZXN0Q29udGV4dBcDBRVJc0xhc3RQYWdlTnVtYmVyS25vd25oBQpQYWdlTnVtYmVyAgEFDkxhc3RQYWdlTnVtYmVyZgUHRmFjdG9yeQWWAUNyeXN0YWxEZWNpc2lvbnMuUmVwb3J0U291cmNlLlJlcG9ydFNvdXJjZUZhY3RvcnksQ3J5c3RhbERlY2lzaW9ucy5SZXBvcnRTb3VyY2UsIFZlcnNpb249MTAuNS4zNzAwLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NjkyZmJlYTU1MjFlMTMwNBYCAgIPFwQFBHNpcG5mBQJicwKf////DwUDcHN0ZAUDc2h3aBYCAgsPEA8WAh8IZ2QPFgFmFgEQBQtNYWluIFJlcG9ydAWoA0FBRUFBQUQvLy8vL0FRQUFBQUFBQUFBRUFRQUFBQnhUZVhOMFpXMHVRMjlzYkdWamRHbHZibk11U0dGemFIUmhZbXhsQndBQUFBcE1iMkZrUm1GamRHOXlCMVpsY25OcGIyNElRMjl0Y0dGeVpYSVFTR0Z6YUVOdlpHVlFjbTkyYVdSbGNnaElZWE5vVTJsNlpRUkxaWGx6QmxaaGJIVmxjd0FBQXdNQUJRVUxDQnhUZVhOMFpXMHVRMjlzYkdWamRHbHZibk11U1VOdmJYQmhjbVZ5SkZONWMzUmxiUzVEYjJ4c1pXTjBhVzl1Y3k1SlNHRnphRU52WkdWUWNtOTJhV1JsY2dqc1VUZy9CQUFBQUFvS0J3QUFBQWtDQUFBQUNRTUFBQUFRQWdBQUFBTUFBQUFHQkFBQUFBNU1ZWE4wVUdGblpVNTFiV0psY2dZRkFBQUFDbEJoWjJWT2RXMWlaWElHQmdBQUFCVkpjMHhoYzNSUVlXZGxUblZ0WW1WeVMyNXZkMjRRQXdBQUFBTUFBQUFJQ0FBQUFBQUlDQUVBQUFBSUFRQUxnFgFmZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WCwUgQ3J5c3RhbFJlcG9ydFZpZXdlcjEkY3RsMDIkY3RsMDAFIENyeXN0YWxSZXBvcnRWaWV3ZXIxJGN0bDAyJGN0bDAxBSBDcnlzdGFsUmVwb3J0Vmlld2VyMSRjdGwwMiRjdGwwMgUgQ3J5c3RhbFJlcG9ydFZpZXdlcjEkY3RsMDIkY3RsMDMFIENyeXN0YWxSZXBvcnRWaWV3ZXIxJGN0bDAyJGN0bDA0BSBDcnlzdGFsUmVwb3J0Vmlld2VyMSRjdGwwMiRjdGwwNQUgQ3J5c3RhbFJlcG9ydFZpZXdlcjEkY3RsMDIkY3RsMDYFIENyeXN0YWxSZXBvcnRWaWV3ZXIxJGN0bDAyJGN0bDA3BSBDcnlzdGFsUmVwb3J0Vmlld2VyMSRjdGwwMiRjdGwxMAUgQ3J5c3RhbFJlcG9ydFZpZXdlcjEkY3RsMDIkY3RsMTIFIENyeXN0YWxSZXBvcnRWaWV3ZXIxJGN0bDAyJGN0bDE08vP/UfBpN0fBRD4OLQpr4fzVfFHpERGEB2YtRypwTdI=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/public/WebResource.axd?d=Bzk0sMnMIYDTremhGBrf8dDzTihCDblvl1PmQsJ0dCNHYvJVTNaijW85wGtUCa7B1b7A3u7ygCr3e9H7zAR9Z3tl4-xZuq-Bexoq58Ri6S41&amp;t=636511736826842555" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+function ScrollToCrystalHighLighted() {
+                var highlighted = document.getElementById('CrystalHighLighted');
+                if(highlighted != null)
+                {
+                    var offset = highlighted.offsetTop;
+                    var myOffsetParent = highlighted.offsetParent;
+                    while( myOffsetParent )
+                    {
+                        offset += myOffsetParent.offsetTop;
+                        myOffsetParent = myOffsetParent.offsetParent;
+                    }
+                    window.scrollTo( 0, offset);
+                }
+            }//]]>
+</script>
+
+<script src="/public/ScriptResource.axd?d=USCqDBoAA_1722uYPKCGNfCv7x2dVeW-kFC6o0L0TClfME-8-7R6Nl7BRlY-4a_TY20HAp3Rn5e-0b0HlDwMAxJXSx6kwDHHrDPN9EhWOahDiy8Q3ZeI76m2TXtjMc4tacJaQg2pYbcRCiv-EwrisQ2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/public/ScriptResource.axd?d=jwji612utBRFDKRFbU1jJczxwITYdVvSiUwkAsYUYEvr1YU4ScEyEDq0qOvvbBzlloh8MBmttJBYnp5DZrO1yIyXOatqWq50_DqxAezU66m3ydaQBY-9XyNdUDTuq9AH0l1JKKZILNKyjeB6t2YlUA2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3E5CF63C" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOh8yVKcXqczXibm0JAcbN59Ry7q7Arm5KiVHJT/vcoOx5nZ+D7PsIbGz6fLLnJ8KvSb1dpNeGhXb/mYKZwMyzP7A0TEfLj2HhDcPAyfWnRgA==" />
+</div>
+        
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ToolkitScriptManager1', 'form1', [], [], [], 90, '');
+//]]>
+</script>
+       
+        
+        
+
+
+             <div id="UpdatePanel2">
+	
+        
+        
+
+        <div id="dv_Final" style="position: absolute; top: 0px; left: 0px; height: 100%; width: 100%;">
+                <center>
+                  <div style="position: absolute; top: 0px; left: 0px; height: 100%; width: 100%;background-color: black; z-index: 305; opacity: 0.8; filter: alpha(opacity=80)"></div>
+                  <div style="position: absolute; left:30px; right:30px;top:30px;bottom:30px; padding: 0px; text-align: center;background: white; z-index: 306; border: solid 10px #333;font-size:11px;">
+                      <div style="font-size:16px;height:24px;line-height:24px;font-weight:bold;background-color:#1aac9a;color:white;">Request For Quote</div>
+                      <div>
+                          <div style="position:absolute;top:24px;left:0px;bottom:100px;width:300px;overflow-x:hidden;overflow-y:scroll;">
+                            <div style="padding:3px; text-align:left;border-bottom:solid 2px #f63623;color:#f63623">
+                           <b>RFQ Details </b>
+                              </div>
+                          <div style="background-color:#f3f3f3;">
+                            <table width="100%">
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right; width:110px;">RFQ # </td>
+                                          <td style="text-align:left;"> : <span id="lblRFQNo_P" style="font-weight:bold;">MTO - 8690 - A1</span></td>                                          
+                                      </tr>
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right;">RFQ Date</td>
+                                          <td style="text-align:left"> : <span id="lblRFQDate_P" style="font-weight:bold;">02-Aug-2019</span></td>     
+                                      </tr>
+                                    </table>
+                          </div>
+                          <div style="padding:3px; text-align:left;border-bottom:solid 2px #1aac9a;color:#1aac9a">
+                           <b>Currency & Exchange Rates </b>
+                              </div>
+                          <div style="background-color:#f3f3f3;">
+                            <table width="100%">
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right;width:110px;">Date </td>
+                                          <td style="text-align:left;"> : <span id="lblRateDate_P" style="font-weight:bold;">05-Aug-2019</span></td>                                          
+                                         </tr>
+                                      <tr>
+                                           <td style="padding:5PX; text-align:right;">Currency </td>
+                                          <td style="text-align:left;"> : <span id="lblCurr_P" style="font-weight:bold;">JPY</span></td>     
+                                     </tr>
+                                      <tr>
+                                                <td style="padding:5PX;; text-align:right;">Exch. Rates </td>
+                                          <td style="text-align:left"> : <span id="lblExchRates_P" style="font-weight:bold;">106.556</span></td>     
+                                      </tr>
+                                    </table>
+                          </div>
+                          <div id="makerdetails_P" style="padding:3px; text-align:left;border-bottom:solid 2px #1aac9a;color:#1aac9a">
+                           <b>Spare Specification & Maker Details  </b>
+                              </div>
+                          <div id="makerdetails_P1" style="background-color:#f3f3f3;">
+                            <table width="100%">
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right;width:110px;">Maker </td>
+                                          <td style="text-align:left;"> : <span id="lblMaker_P" style="font-weight:bold;">THREE MARINE TELEPHONES ARE REQUIRED FOR GALLEY & TWO CABINS.
+MODEL:  ODA1182-1 OR SIMILAR.</span></td>                                          
+                                         </tr>
+                                      <tr>
+                                           <td style="padding:5PX; text-align:right;">Equipment </td>
+                                          <td style="text-align:left;"> : <span id="lblEquipment_P" style="font-weight:bold;">Automatic Exchange Telephone System</span></td>     
+                                     </tr>
+                                      <tr>
+                                                <td style="padding:5PX;; text-align:right;">Modal & Type </td>
+                                          <td style="text-align:left"> : <span id="lblModal_P" style="font-weight:bold;">NIPPON HAKUYO, ODA1182-1A</span></td>     
+                                      </tr>
+                                <tr>
+                                                <td style="padding:5PX;; text-align:right;">Serial #</td>
+                                          <td style="text-align:left"> : <span id="lblSerial_P" style="font-weight:bold;">-</span></td>     
+                                      </tr>
+                                <tr>
+                                                <td style="padding:5PX;; text-align:right;">Year Built </td>
+                                          <td style="text-align:left"> : <span id="lblYear_P" style="font-weight:bold;">0</span></td>     
+                                      </tr>
+                                    </table>
+                          </div>
+                          <div style="padding:3px; text-align:left;border-bottom:solid 2px #178dd1;color:#178dd1">
+                           <b>Delivery Details & Vendor Comments </b>
+                          </div>
+                          <div style="background-color:#f3f3f3;">
+                            <table width="100%">
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right;width:110px;">Delivery Date </td>
+                                          <td style="text-align:left;"> : <span id="lblDelDate_P" style="font-weight:bold;">10-Aug-2019</span></td>                                          
+                              </tr>
+                                      <tr>
+                                                      <td style="padding:5PX; text-align:right;">Delivery Port </td>
+                                          <td style="text-align:left;"> : <span id="lblDelPort_P" style="font-weight:bold;">TBA</span></td>     
+                                </tr>
+                                      <tr>
+                                                    <td style="padding:5PX;text-align:right;">Quote Ref. No.</td>
+                                          <td style="text-align:left;"> : <span id="lblQRNo_P" style="font-weight:bold;">E6571578</span></td>     
+                            </tr>
+                                      <tr>              <td style="padding:5PX;text-align:right;">Quote Exp. Date.</td>
+                                          <td style="text-align:left"> : <span id="lblQRExpDt_P" style="font-weight:bold;">04-Sep-2019</span></td>     
+                                      </tr>
+                                 <tr>
+                                          <td style="padding:5PX;text-align:center; " colspan="3">
+                                              Vendor Comments
+                                              <div style="font-weight:bold; padding:5px; font-style:italic; text-align:left; color:red">
+                                                  <span id="lblVC_P" style="font-weight:bold;">*** " WE HEREBY DECLARE THAT ALL OF OUR SUPPLYING PRODUCTS ARE ASBESTOS-FREE." *** GENUINE PARTS FROM ORIGINAL MANUFACTURE/MAKER *** Lead Days : 5</span>
+                                              </div>
+                                          </td>
+                                          
+                                      </tr>
+                             </table>
+                          </div>
+                          <div style="padding:3px; text-align:left;border-bottom:solid 2px #d516d7;color:#d516d7">
+                           <b>Shipping and handling Charges </b>
+                          </div>
+                          <div style="background-color:#f3f3f3;">
+                            <table width="100%">
+                                      <tr>
+                                          <td style="padding:5PX; text-align:right;width:110px;">LC </td>
+                                          <td style="text-align:left;"> : <span id="lblLC_P" style="font-weight:bold;">0.00</span></td>                                          
+                              </tr>
+                                      <tr>
+                                                      <td style="padding:5PX; text-align:right;">USD </td>
+                                          <td style="text-align:left;"> : <span id="lblUSD_P" style="font-weight:bold;">0.00</span></td>     
+                                </tr>
+                                    
+                             </table>
+                          </div>
+                          </div>
+                          <div style="position:absolute;top:24px;left:300px;bottom:100px;right:0px;overflow-x:hidden;overflow-y:hidden;">
+                              <div>
+                                  <table width="100%" class="bordered" cellpadding="0" cellspacing="0" style="border-collapse:collapse;height:40px;margin-right:17px;">
+                                      <tr style="font-weight:bold; background-color:#b3ded9;">
+                                          <td style="width:40px">Sr#</td>
+                                          <td style="text-align:left">
+                                              [ <span style="color:darkorange">Part #</span>
+                                              <b>/</b>
+                                              <span style="color:green">Drawing #</span>
+                                              <b>/</b>
+                                              <span style="color:Blue">Code #</span> ]
+                                              <br />
+                                              Item Name</td>
+                                          <td style="width:70px">Bid Qty</td>
+                                          <td style="width:100px">Unit</td>
+                                          <td style="width:80px">Unit Price</td>
+                                          <td style="width:100px">Amount (LC)</td>
+                                          <td style="width:120px">Amount (USD)</td>
+                                          <td style="width:17px">&nbsp;</td>
+                                      </tr>
+                                  </table>
+                                  <div style="position:absolute;top:40px;left:0px;bottom:0px;right:0px;overflow-x:hidden;overflow-y:scroll;">
+                                      <table width="100%" class="bordered" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+                                          
+                                                  <tr>
+                                                      <td style="width:40px">1.</td>
+                                                      <td style="text-align:left;">
+                                                          [ <span style="color:darkorange">WALL TYPE</span>
+                                                          <span style="color:green">RA1116-6103-1</span>
+                                                          <span style="color:blue"></span> ]
+                                                          <br />
+                                                          WALL TYPE TELEPHONE
+                                                          <div style="color:red;font-style:italic; font-weight:bold;">
+                                                              W/BRACKET P/N WALL TYPE; Del Days : 5; ; Quoted Qty: 3; Quoted Unit: SET                                                          
+                                                          </div>
+                                                      </td>
+                                                      <td style="text-align:right;width:70px">3</td>
+                                                      <td style="text-align:left;width:100px">SET</td>
+                                                      <td style="text-align:right;width:80px">29850</td>
+                                                      <td style="text-align:right;width:100px">89,550.00</td>
+                                                      <td style="text-align:right;width:120px">840.40</td>
+                                                  </tr>
+                                              
+                                      </table>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                      
+                      <div style="position:absolute; left:0px;bottom:0px; width:100%; font-size :14px;font-weight:bold;background-color:#feffc0;height:100px;">
+                          <div style="padding:5px; text-align:right;">
+                              <span style="float:left">
+                                  <div>
+                                      <table width="100%">
+                                          <tr>
+                                              <td>Total Amount ( LC ) </td>
+                                              <td style="width:150px; text-align:left">: <span id="lblTotLC_P" style="font-size:20px;font-weight:bold;">89550.00</span></td>
+                                              <td>Total Amount ( USD ) </td>
+                                              <td>: <span id="lblTotUSD_P" style="font-size:20px;font-weight:bold;">840.40</span></td>
+                                          </tr>
+                                      </table>
+                                  </div>
+                              </span>
+                            <input type="submit" name="btnFinal" value="Yes - Submit My Quote" id="btnFinal" style="height:40px;width:180px;text-align:center;background-color:#1cb011;font-size:13px;border:none;color:white;margin-left:10px;" />
+                            <input type="submit" name="btnBack" value="Go Back to Editing" id="btnBack" style="height:40px;width:180px;text-align:center;background-color:#f52b0f;font-size:13px;border:none;color:white;margin-left:10px;" />
+                            
+                 
+                          </div>
+                              <div style="width:100%; color:red; text-align:center;padding:8px;font-weight:bold;">
+                                  NOTE : Please review your quote and press submit button to submit your quote.
+                              </div>
+                          <div style="display:none;">
+                                <LINK rel="stylesheet" type="text/css" href="/aspnet_client/System_Web/4_7_2623/CrystalReportWebFormViewer4/css/default.css">
+                          </div>
+                      </div>
+                  </div>
+                 </center>
+             </div>
+     
+            
+</div>
+       
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();settop();ScrollToCrystalHighLighted();//]]>
+</script>
+</form>
+    <script type="text/javascript">
+        function settop()
+        {
+            $(".content").css("margin-top", $(".FixedHeader").height() + 'px');
+	    $(".content").css("padding-bottom", '130px');
+//            $(document.body).css("margin-bottom", ($(".footer").height() + 300) + 'px');
+        }
+        $(document).ready(function () {
+            settop();
+        });
+        $(window).resize(function () {
+            settop();
+        });
+    </script>
+     <script type="text/javascript">
+       
+</script>
+</body>
+</html>

@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	MTMSM : Quote Manager
+</title><link href="../CSS/rfqStyle.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="../JS/jquery_v1.10.2.min.js"></script>    
+    <link href="../CSS/CalenderStyle.css" rel="Stylesheet" type="text/css">
+    <script src="../JS/Calender.js" type="text/javascript"></script>
+    <script src="../JS/jquery.datetimepicker.js"></script>
+    <link href="../CSS/jquery.datetimepicker.css" rel="stylesheet" type="text/css">
+     <style type="text/css">
+        div.panel {
+            border:solid 1px red;
+            z-index:99999;
+        }
+        .bordered tr td {
+            border:solid 1px #d7d7d7;
+            color:#292929;
+            padding:5px;
+        }
+        .headerrow td{
+            background-color:#cdcdce;
+            font-size: 12px;
+            padding:5px;
+            color:#333 !important;
+        }
+        input[type='text'],select
+        {
+            line-height:18px;
+            height:23px;
+            padding-left:5px;
+            padding-right:5px;
+            background-color:#ffea9e;
+            font-size:11px !important;
+            text-align:right;
+            border:solid 1px #d7d7d7 !important;
+        }
+        td{
+            vertical-align:middle;
+        }
+    </style>
+    <script type="text/javascript" language="javascript">
+function DisableBackButton() {
+window.history.forward()
+}
+DisableBackButton();
+window.onload = DisableBackButton;
+window.onpageshow = function(evt) { if (evt.persisted) DisableBackButton() }
+window.onunload = function() { void (0) }
+</script>
+    <script type="text/javascript">
+
+        function AttachFunc()
+        {
+            $('.date_only').datetimepicker({ timepicker: false, format: 'd-M-Y', formatDate: 'd-M-Y', allowBlank: true, defaultSelect: false, validateOnBlur: false });
+
+            $(".cal").keyup(function () {
+
+                var UpdateValue = 0;
+                var field = $(this).attr("f_name");
+                var BidItemID = $(this).attr("BidItemID");
+                var BidId = $(this).attr("BidId");
+                var RecID = $(this).attr("RecID");
+                var curentrate = $(".curentrate").html();
+                var ShippingTotalLc = $(".ShippingTotalLc").val();
+                var ShippingTotalUSD = $(".ShippingTotalUSD").html();
+
+                ShippingTotalLc = parseFloat(ShippingTotalLc);
+                ShippingTotalUSD = parseFloat(ShippingTotalUSD);
+
+                var objpricelc = $(this).closest(".row").find(".pricelc");
+                var priceusd = $(this).closest(".row").find(".priceusd");
+                var VendorDescription = $(this).closest(".row").find(".description");
+                var BidQty = $(this).closest(".row").find(".qty");
+                var UnitPrice = $(this).closest(".row").find(".unit");               
+
+                
+                BidItemID = parseInt(BidItemID);
+                BidId = parseInt(BidId);
+                RecID = parseInt(RecID);
+
+                var bq = $(BidQty).val();
+                var up = $(UnitPrice).val();
+                var vd = $(VendorDescription).val().replace("'","`");
+                if (isNaN(parseFloat(bq)))
+                {
+                    bq = 0.0;
+                }
+                if (isNaN(parseFloat(up))) {
+                    up = 0.0;
+                }
+
+                if (parseFloat(bq) < 0) {
+                    bq = Math.abs(bq);
+                    $(this).closest(".row").find(".qty").val(bq);
+                }
+                if (parseFloat(up) < 0) {
+                    up = Math.abs(up);
+                    $(this).closest(".row").find(".unit").val(up);
+                }
+
+
+                $.ajax({
+                    url: 'QuoteManager.aspx/Update_unitpriceAndquantity',
+                    data: "{ 'BidItemID': '" + BidItemID + "','BidQty': '" + bq + "','UnitPrice': '" + up + "','BidId': '" + BidId + "','RecID': '" + RecID + "','curentrate': '" + curentrate + "','vendordescription': '" + vd + "' }",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (data) {
+                        var myobj = JSON.parse(data.d);
+                        objpricelc.html(parseFloat(myobj.priceLC).toFixed(2));
+                        priceusd.html(parseFloat(myobj.priceUSD).toFixed(2));
+
+                        var totPriceLC = 0;
+                        var totPriceUsd = 0;
+                        $(".cal.pricelc").each(function () {
+                            totPriceLC = totPriceLC + parseFloat($(this).html());
+                        });
+                        $(".cal.priceusd").each(function () {
+                            totPriceUsd = totPriceUsd + parseFloat($(this).html());
+
+                        });
+
+                        totPriceLC = totPriceLC + ShippingTotalLc;
+                        totPriceUsd = totPriceUsd + ShippingTotalUSD;
+                        $(".QuoteTotalLc").html(totPriceLC.toFixed(2));
+                        $(".QuoteTotalUsd").html(totPriceUsd.toFixed(2));
+                    },
+                    error: function (data, status, jqXHR) { alert(jqXHR); }
+                });
+            });
+        }
+        $(document).ready(function () {
+            AttachFunc();
+        })
+    </script>
+
+</head>
+<body>
+    <form name="form1" method="post" action="./quotemanager.aspx?key=446652&amp;validate=0.0784057139369192" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="ToolkitScriptManager1_HiddenField" id="ToolkitScriptManager1_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI1MjY0MDAzMQ8WBh4GdXNlcmlkAv////8PHglfVXNlck5hbWUFFFZlbmRvci9QdWJsaWMgUG9ydGFsHgVCaWRJZGYWAgIDD2QWBAIDDxYCHgdWaXNpYmxlZ2QCBQ8PFgIfA2hkFgQCAQ9kFgQCEw8PFgIeBFRleHQFCzI0LU9jdC0yMDE5ZGQCFQ8QDxYGHg1EYXRhVGV4dEZpZWxkBQRDdXJyHg5EYXRhVmFsdWVGaWVsZAUEQ3Vych4LXyFEYXRhQm91bmRnZBAVXAADQUVEA0FGTgNBTEwDQVJTA0FVRANCQkQDQkRUA0JHTgNCSEQDQk1EA0JSTANCU0QDQ0FEA0NIRgNDTFADQ05ZA0NPUANDUkMDQ1lQA0NaSwNES0sDRE9QA0RaRANFRUsDRUdQA0VVUgNGSkQDR0JQA0hLRANIUksDSFVGA0lEUgNJTFMDSU5SA0lRRANJUlIDSVNLA0pNRANKT0QDSlBZA0tFUwNLUlcDS1dEA0xCUANMS1IDTUFEA01UTANNVVIDTVhOA01ZUgNOQUQDTkdOA05PSwNOWkQDT01SA1BFTgNQR0sDUEhQA1BLUgNQTE4DUUFSA1JNQgNST04DUlVCA1NBUgNTREQDU0VLA1NHRANTSVQDU0tLA1RIQgNUTkQDVFJZA1RURANUV0QDVVNEA1ZFQgNWTkQDVlVWA1dPTgNYQUYDWEFHA1hBVQNYQ0QDWERSA1hPRgNYUEQDWFBGA1hQVANaQVIDWk1LFVwAA0FFRANBRk4DQUxMA0FSUwNBVUQDQkJEA0JEVANCR04DQkhEA0JNRANCUkwDQlNEA0NBRANDSEYDQ0xQA0NOWQNDT1ADQ1JDA0NZUANDWksDREtLA0RPUANEWkQDRUVLA0VHUANFVVIDRkpEA0dCUANIS0QDSFJLA0hVRgNJRFIDSUxTA0lOUgNJUUQDSVJSA0lTSwNKTUQDSk9EA0pQWQNLRVMDS1JXA0tXRANMQlADTEtSA01BRANNVEwDTVVSA01YTgNNWVIDTkFEA05HTgNOT0sDTlpEA09NUgNQRU4DUEdLA1BIUANQS1IDUExOA1FBUgNSTUIDUk9OA1JVQgNTQVIDU0REA1NFSwNTR0QDU0lUA1NLSwNUSEIDVE5EA1RSWQNUVEQDVFdEA1VTRANWRUIDVk5EA1ZVVgNXT04DWEFGA1hBRwNYQVUDWENEA1hEUgNYT0YDWFBEA1hQRgNYUFQDWkFSA1pNSxQrA1xnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZxYBZmQCAw9kFgICKQ8XAwUDY3NzZQUPUmVwb3J0Vmlld1N0YXRlFwMFB1JlZnJlc2hoBRJQYWdlUmVxdWVzdENvbnRleHQXAwUVSXNMYXN0UGFnZU51bWJlcktub3duaAUKUGFnZU51bWJlcgIBBQ5MYXN0UGFnZU51bWJlcmYFB0ZhY3RvcnkFlgFDcnlzdGFsRGVjaXNpb25zLlJlcG9ydFNvdXJjZS5SZXBvcnRTb3VyY2VGYWN0b3J5LENyeXN0YWxEZWNpc2lvbnMuUmVwb3J0U291cmNlLCBWZXJzaW9uPTEwLjUuMzcwMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTY5MmZiZWE1NTIxZTEzMDQFBEJBU0VkFgRmDxcBBQ1Qcm9tcHRpbmdJbmZvZGQCAg8XBAUEc2lwbmYFAmJzAp////8PBQNwc3RkBQNzaHdoFgQCCw8QDxYCHwdnZA8WAWYWARAFC01haW4gUmVwb3J0BagDQUFFQUFBRC8vLy8vQVFBQUFBQUFBQUFFQVFBQUFCeFRlWE4wWlcwdVEyOXNiR1ZqZEdsdmJuTXVTR0Z6YUhSaFlteGxCd0FBQUFwTWIyRmtSbUZqZEc5eUIxWmxjbk5wYjI0SVEyOXRjR0Z5WlhJUVNHRnphRU52WkdWUWNtOTJhV1JsY2doSVlYTm9VMmw2WlFSTFpYbHpCbFpoYkhWbGN3QUFBd01BQlFVTENCeFRlWE4wWlcwdVEyOXNiR1ZqZEdsdmJuTXVTVU52YlhCaGNtVnlKRk41YzNSbGJTNURiMnhzWldOMGFXOXVjeTVKU0dGemFFTnZaR1ZRY205MmFXUmxjZ2pzVVRnL0JBQUFBQW9LQndBQUFBa0NBQUFBQ1FNQUFBQVFBZ0FBQUFNQUFBQUdCQUFBQUE1TVlYTjBVR0ZuWlU1MWJXSmxjZ1lGQUFBQUNsQmhaMlZPZFcxaVpYSUdCZ0FBQUJWSmMweGhjM1JRWVdkbFRuVnRZbVZ5UzI1dmQyNFFBd0FBQUFNQUFBQUlDQUFBQUFBSUNBRUFBQUFJQVFBTGcWAWZkAg0PDxYCHgxBdXRvUG9zdEJhY2toFgIeCm9ua2V5cHJlc3MFpwFpZiAoKGV2ZW50LndoaWNoICYmIGV2ZW50LndoaWNoID09IDEzKSB8fCAoZXZlbnQua2V5Q29kZSAmJiBldmVudC5rZXlDb2RlID09IDEzKSkgeyBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnQ3J5c3RhbFJlcG9ydFZpZXdlcjFfY3RsMDJfY3RsMTQnKS5jbGljaygpOyByZXR1cm4gZmFsc2U7fWRkzewCc1bv8qEZ7rsw7hMbDHs2Uz3melJYOfp9aUAvoI8=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/public/WebResource.axd?d=Bzk0sMnMIYDTremhGBrf8dDzTihCDblvl1PmQsJ0dCNHYvJVTNaijW85wGtUCa7B1b7A3u7ygCr3e9H7zAR9Z3tl4-xZuq-Bexoq58Ri6S41&amp;t=636511736826842555" type="text/javascript"></script>
+
+
+<script src="/public/ScriptResource.axd?d=USCqDBoAA_1722uYPKCGNfCv7x2dVeW-kFC6o0L0TClfME-8-7R6Nl7BRlY-4a_TY20HAp3Rn5e-0b0HlDwMAxJXSx6kwDHHrDPN9EhWOahDiy8Q3ZeI76m2TXtjMc4tacJaQg2pYbcRCiv-EwrisQ2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/public/ScriptResource.axd?d=jwji612utBRFDKRFbU1jJczxwITYdVvSiUwkAsYUYEvr1YU4ScEyEDq0qOvvbBzlloh8MBmttJBYnp5DZrO1yIyXOatqWq50_DqxAezU66m3ydaQBY-9XyNdUDTuq9AH0l1JKKZILNKyjeB6t2YlUA2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3E5CF63C">
+</div>
+        
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ToolkitScriptManager1', 'form1', [], [], [], 90, '');
+//]]>
+</script>
+       
+        
+        <div id="dvmodal">&nbsp;
+           <h2> OOPS ! </h2><br> <br>
+           <h4>Requested Bid is not available for quotation.<br> <br>
+            Contact purchase department.<br> <br>
+            Thank You !!
+           </h4> 
+        </div>
+
+
+             
+       
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();settop();//]]>
+</script>
+</form>
+    <script type="text/javascript">
+        function settop()
+        {
+            $(".content").css("margin-top", $(".FixedHeader").height() + 'px');
+	    $(".content").css("padding-bottom", '130px');
+//            $(document.body).css("margin-bottom", ($(".footer").height() + 300) + 'px');
+        }
+        $(document).ready(function () {
+            settop();
+        });
+        $(window).resize(function () {
+            settop();
+        });
+    </script>
+     <script type="text/javascript">
+       
+</script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+||MTM_HTTP_RFQ_Downloader|4001020_191126_180215631.txt||Error|19-11-28 10:17 : LeS-1004.1:Unable to process file4001020_191126_180215631.txt due to link not found

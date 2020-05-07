@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange Identifier="UNOC" Recipient="V00026" Sender="SM0133_FUJI" PreparationDate="20190805" PreparationTime="144958" VersionNumber="1">
+    <RequestForQuote MessageReferenceNumber="435080" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=435080&amp;validate=0.817813808968694" LineItemCount="4" VersionNumber="1" FunctionCode="_9" BuyerRefNo="MNY-6131-A1" OriginalFile="4001020_190805_140216373_4001020_25654_RFQ-MNY-E-19-6131-A1.pdf">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20190805" />
+      <DateTimePeriod Qualifier="_132" FormatQualifier="_102" Value="20190807" />
+      <Reference Qualifier="UC" ReferenceNumber="MNY-6131-A1" />
+      <Party Qualifier="UD" Name="MTM New York">
+        <PartyLocation Qualifier="TBA" Berth="First Convenient port" />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M SHIP MANAGEMENT PTE. LTD">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="TE" Number="+65 6304 1770" />
+          <CommunicationMethod Qualifier="FX" Number="65-6220 7988" />
+          <CommunicationMethod Qualifier="EM" Number="singapore@mtmshipmanagement.com" />
+        </Contact>
+        <StreetAddress>78 SHENTON WAY #13-01 SINGAPORE 079120</StreetAddress>
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING CO. LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="078-4132611-" />
+          <CommunicationMethod Qualifier="EM" Number="mach-5@fujitrading.co.jp" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="AIR OPERATED 3-WAY VALVE JIS 5K-32A; AC110/110V" Identification="1" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2217109_5228639" SystemItemNo="1">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 101023R</value>
+        </Comments>
+        <Section Manufacturer=" HEISHIN PUMP WORKS" ModelNumber=" HFM-200" />
+      </LineItem>
+      <LineItem Number="2" Description="MOTOR VALVE" Identification="NO.7" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2217108_5228640" SystemItemNo="2">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 11 48 54</value>
+        </Comments>
+        <Section Manufacturer=" HEISHIN PUMP WORKS" ModelNumber=" HFM-200" />
+      </LineItem>
+      <LineItem Number="3" Description="OIL LEVEL PROBE" Identification="NO.5" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2217107_5228642" SystemItemNo="3">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 11 48 54</value>
+        </Comments>
+        <Section Manufacturer=" HEISHIN PUMP WORKS" ModelNumber=" HFM-200" />
+      </LineItem>
+      <LineItem Number="4" Description="OIL DISCHARGE VALVE" Identification="NO. 6" MeasureUnitQualifier="PCS" Quantity="1" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2217106_5228641" SystemItemNo="4">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 11 48 54</value>
+        </Comments>
+        <Section Manufacturer=" HEISHIN PUMP WORKS" ModelNumber=" HFM - 200" />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

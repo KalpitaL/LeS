@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="Quote:8778267-1" Identifier="UNOC" Recipient="SM0133_NEKO" Sender="V10107" PreparationDate="2019-Aug-08" PreparationTime="14:29" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="1422" LesRecordID="11693245" LesLinkID="102866" ParentRecordID="11690096" MTML_DOCID="A83B20DD-1E43-401C-A780-1DBC284AA187">
+    <Quote MessageReferenceNumber="435462" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=435462&amp;validate=0.252269879805875" LineItemCount="3" VersionNumber="1" CurrencyCode="EUR" FunctionCode="_9" LeadTimeDays="1" OriginalFile="20190808081646-QUO-ECT-6965-B1-1.xml" IsAltItemAllowed="0" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="3634.05" BuyerQuoteTotal="3634.05">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201908080829" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201908090000" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201910071429" />
+      <DateTimePeriod Qualifier="_132" FormatQualifier="_203" Value="201908130000" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Item Added - 4 : CAM &amp; GROOVE FEMALE COUPLING 
+76090000 TYPE: PART C -- MATERIAL: LM -- HOSE END: 2" | QTY : 1 | UOM : PCE | Price : 3.84 EUR
+Item Added - 5 : HOSE CLIP
+ SIZE: 50-70 MM N. 3 -- MATERIAL: GALVANIZED -- BRAND:
+MIKALOR | QTY : 2 | UOM : PCE | Price : 0.78 EUR
+Item Added - 6 : CAM &amp; GROOVE FEMALE COUPLING 
+ TYPE: PART C -- MATERIAL: LM -- HOSE END: 2" | QTY : 1 | UOM : PCE | Price : 3.84 EUR
+Item Added - 7 : HOSE CLIP
+ SIZE: 50-70 MM N. 3 -- MATERIAL: GALVANIZED -- BRAND:
+MIKALOR | QTY : 2 | UOM : PCE | Price : 0.78 EUR
+ Item Total : 1076.17 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>
+        </value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="ECT-6965-B1" />
+      <Reference Qualifier="AAG" ReferenceNumber="Quote:8778267-1" />
+      <Party Qualifier="UD" Name="STRATEGIC ENCOUNTER">
+        <PartyLocation Qualifier="TBA" Berth="ARA" Port="ARA" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M SHIP MANAGEMENT PTE. LTD" City="Singapore">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="TE" Number="+65 6304 1770" />
+          <CommunicationMethod Qualifier="EM" Number="singapore@mtmshipmanagement.com" />
+          <CommunicationMethod Qualifier="FX" Number="65-6220 7988" />
+        </Contact>
+        <StreetAddress>78 SHENTON WAY #13-01 SINGAPORE 079120</StreetAddress>
+      </Party>
+      <Party Qualifier="VN" Name="NEKO SHIP SUPPLY BV">
+        <Contact FunctionCode="SR" Name="Dick Tol">
+          <CommunicationMethod Qualifier="TE" Number="31-10-8005555" />
+          <CommunicationMethod Qualifier="EM" Number="mruiz@nekoship.nl ;  dtol@nekoship.nl" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="STEEL COIL REINFORCED HOSE &#xA;PRESSURE: 5 BAR -- INSIDE DIAMETER: 50 MM -- OUTSIDE&#xA;DIAMETER: 65 MM -- COIL LENGTH: 50 MTR -- MATERIAL:&#xA;PVC&#xA;&#xA;**TYPE COUPLING:CAM &amp; GROOVE!!" MeasureUnitQualifier="MTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="2218462_5233921" SystemItemNo="1" MonetaryAmount="341.00" Identification="0" DeliveryTime="1" IsExtraItem="0" MarkedRemarks="TYPE COUPLING:CAM &amp; GROOVE!!" ItemStatus="Original" Byr_Qty="45" Supp_Qty="50" Byr_UOM="MTR" Supp_UOM="MTR" Supp_Price="6.82" BuyerItemTotal="306.9">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.82" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.82" />
+        <Comments Qualifier="LIN">
+          <value>STEEL COIL REINFORCED HOSE 
+PRESSURE: 5 BAR -- INSIDE DIAMETER: 50 MM -- OUTSIDE
+DIAMETER: 65 MM -- COIL LENGTH: 50 MTR -- MATERIAL:
+PVC
+
+**TYPE COUPLING:CAM &amp; GROOVE!!</value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="2" Description="STEEL COIL REINFORCED HOSE&#xA;PRESSURE: 5 BAR -- INSIDE DIAMETER: 50 MM -- OUTSIDE&#xA;DIAMETER: 65 MM -- COIL LENGTH: 20 MTR -- MATERIAL:&#xA;PVC&#xA;&#xA;**TYPE COUPLING:CAM &amp; GROOVE!!" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="2218461_5233922" SystemItemNo="2" MonetaryAmount="136.42" Identification="0" DeliveryTime="1" IsExtraItem="0" MarkedRemarks="TYPE COUPLING:CAM &amp; GROOVE!!" ItemStatus="Original" Byr_Qty="20" Supp_Qty="1" Byr_UOM="MTR" Supp_UOM="PCE" Supp_Price="136.42" BuyerItemTotal="2728.4">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="136.42" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="136.42" />
+        <Comments Qualifier="LIN">
+          <value>STEEL COIL REINFORCED HOSE
+PRESSURE: 5 BAR -- INSIDE DIAMETER: 50 MM -- OUTSIDE
+DIAMETER: 65 MM -- COIL LENGTH: 20 MTR -- MATERIAL:
+PVC
+
+**TYPE COUPLING:CAM &amp; GROOVE!!</value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="3" Description="DIAPHRAGM PUMP AIR-OPERATED, WILDEN T-2(EX.M-4) AL DIAPHRAGM PUMP AIR-OPERATED, WILDEN T-2(EX.M-4) ALUMI CASE  2 INCH PORT 50 MM 591706 DIAPHRAGM PUMP AIR-OPERATED, WILDEN T-2(EX.M-4) AL DIAPHRAGM PUMP AIR-OPERATED, WILDEN T-2(EX.M-4) ALUMI CASE  2 INCH PORT 50 MM" MeasureUnitQualifier="PCE" Quantity="1" TypeCode="BP" OriginatingSystemRef="2218460_5233923" SystemItemNo="3" MonetaryAmount="587.95" Identification="591706" DeliveryTime="1" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCE" Supp_Price="587.95" BuyerItemTotal="587.95">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="587.95" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="587.95" />
+        <Comments Qualifier="LIN">
+          <value>DIAPHRAGM PUMP AIR-OPERATED, WILDEN T-2(EX.M-4) AL DIAPHRAGM PUMP AIR-OPERATED, WILDEN T-2(EX.M-4) ALUMI CASE  2 INCH PORT 50 MM 591706 DIAPHRAGM PUMP AIR-OPERATED, WILDEN T-2(EX.M-4) AL DIAPHRAGM PUMP AIR-OPERATED, WILDEN T-2(EX.M-4) ALUMI CASE  2 INCH PORT 50 MM</value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1076.170" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1076.170" />
+      <MonetaryAmount Qualifier="_90" Value="1065.370" />
+    </Quote>
+  </Interchange>
+</MTML>

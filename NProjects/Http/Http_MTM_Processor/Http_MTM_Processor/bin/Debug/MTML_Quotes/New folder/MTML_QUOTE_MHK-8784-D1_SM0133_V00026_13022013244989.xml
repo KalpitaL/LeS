@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="E6690842" Identifier="UNOC" Recipient="SM0133_FUJI" Sender="V00026" PreparationDate="2020-Feb-13" PreparationTime="13:24" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="625" LesRecordID="11950102" LesLinkID="102080" ParentRecordID="11949849" MTML_DOCID="07169C93-0E5C-445C-89A7-ECB1BE1E6606">
+    <Quote MessageReferenceNumber="476313" MessageNumber="https://portal.mtmsm.com/public/pos/quotemanager.aspx?key=476313&amp;validate=0.409320851768676" LineItemCount="7" VersionNumber="1" CurrencyCode="JPY" FunctionCode="_9" LeadTimeDays="30" BuyerRefNo="MHK-8784-D1" OriginalFile="Y17201.xml" IsAltItemAllowed="1" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="540000" BuyerQuoteTotal="540000">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202002131324" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="202003141321" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="202003140000" />
+      <DateTimePeriod Qualifier="_132" FormatQualifier="_203" Value="202002180000" />
+      <Comments Qualifier="SUR">
+        <value> ***REMARK*** OUR OFFER IS VALID ON FULL ITE MS ORDER. WE MAY NEED TO REVISE IF YOUR ORDER IS PARTIAL. ITEM#4 &gt;&gt;IT IS N/A TO EXCHANGE ITEM#6 &gt;&gt;IT IS INCLUDED ITEM#1 X 4PCS &gt;&gt;PLEASE CONFIRM QTY !! ITEM#7 &gt;&gt;IT IS INCLUDED ITEM#5 X 1PCS &gt;&gt;PLEASE CONFIRM QTY !! ***
+" WE HEREBY DECLARE THAT ALL OF OUR SUPPLYING PRODUCTS ARE ASBESTOS-FREE." *** GENUINE PARTS FROM ORIGINAL MANUFACTURE/MAKER ***
+
+Lead Days : 30</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value> 30 DAYS AFTER SHIPMENT</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="MHK-8784-D1" />
+      <Reference Qualifier="AAG" ReferenceNumber="E6690842" />
+      <Party Qualifier="UD" Name="MTM HONGKONG">
+        <PartyLocation Qualifier="TBA" Berth="TBA" Port="TBA" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M SHIP MANAGEMENT PTE. LTD" City="Singapore">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="TE" Number="+65 6304 1770" />
+          <CommunicationMethod Qualifier="EM" Number="singapore@mtmsm.com" />
+          <CommunicationMethod Qualifier="FX" Number="65-6220 7988" />
+        </Contact>
+        <StreetAddress>78 SHENTON WAY #13-01 SINGAPORE 079120</StreetAddress>
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING CO. LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="078-4132611-" />
+          <CommunicationMethod Qualifier="EM" Number="mach-5@fujitrading.co.jp" />
+        </Contact>
+        <StreetAddress>6 FUKAEHAMAMACHI</StreetAddress>
+        <StreetAddress>HIGASHINADA-KU</StreetAddress>
+        <StreetAddress>KOBE 658</StreetAddress>
+      </Party>
+      <Equipment Name="M/E FW COOLERS" Description="MODEL / TYPE : YAMASHINA SEIKI   CO.LTD, FW COOLER/FCH2F-25B16,SURFACE  25.0 M2" ModelNumber="1234" />
+      <LineItem Number="1" Description="Protecting Zinc  Diam 50 mm x L=80 mm Please supply protecting zinc with attached holders" MeasureUnitQualifier="PCS" Quantity="4" TypeCode="BP" OriginatingSystemRef="2401295_5636837" SystemItemNo="1" MonetaryAmount="37200.00" Identification="15" DeliveryTime="30" IsExtraItem="0" ItemStatus="Original" Byr_Qty="4" Supp_Qty="4" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="9300" BuyerItemTotal="37200" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9300" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9300" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="2" Description="Gasket , T=1.5 mm" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="2401294_5636838" SystemItemNo="2" MonetaryAmount="15100.00" Identification="12" DeliveryTime="30" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="7550" BuyerItemTotal="15100" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7550" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7550" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="3" Description="Gasket , T=1.5 mm" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="2401293_5636842" SystemItemNo="3" MonetaryAmount="20100.00" Identification="10" DeliveryTime="30" IsExtraItem="0" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="10050" BuyerItemTotal="20100" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="10050" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="10050" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="4" Description="Gasket ,T=1.5 mm" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="2401292_5636841" SystemItemNo="4" MonetaryAmount="0.00" Identification="11" DeliveryTime="30" IsExtraItem="0" MarkedRemarks="&gt;N/A P/N 11" ItemStatus="Original" Byr_Qty="2" Supp_Qty="2" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="0" BuyerItemTotal="0" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>&gt;N/A P/N 11</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="5" Description="Protecting Zinc  Diam 100  x t 50 Please supply protecting zinc with attached holder" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="2401291_5636840" SystemItemNo="5" MonetaryAmount="20700.00" Identification="16" DeliveryTime="30" IsExtraItem="0" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="20700" BuyerItemTotal="20700" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="20700" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="20700" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="6" Description="Water  Chamber  / Material : FC200" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="2401290_5636839" SystemItemNo="6" MonetaryAmount="260750.00" Identification="2" DeliveryTime="30" IsExtraItem="0" MarkedRemarks="&gt;INCLUDED ITEM#1 X 4PCS P/N 2" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="260750" BuyerItemTotal="260750" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="260750" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="260750" />
+        <Comments Qualifier="LIN">
+          <value>&gt;INCLUDED ITEM#1 X 4PCS P/N 2</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="7" Description="Return Chamber  / Material : FC200" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="BP" OriginatingSystemRef="2401289_5636843" SystemItemNo="7" MonetaryAmount="186150.00" Identification="3" DeliveryTime="30" IsExtraItem="0" MarkedRemarks="&gt;INCLUDED ITEM#5 X 1PCS P/N 3" ItemStatus="Original" Byr_Qty="1" Supp_Qty="1" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="186150" BuyerItemTotal="186150" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="186150" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="186150" />
+        <Comments Qualifier="LIN">
+          <value>&gt;INCLUDED ITEM#5 X 1PCS P/N 3</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="540000.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="540000.000" />
+      <MonetaryAmount Qualifier="_90" Value="540000.000" />
+      <MonetaryAmount Qualifier="_91" Value="540000.000" />
+    </Quote>
+  </Interchange>
+</MTML>

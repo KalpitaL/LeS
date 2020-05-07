@@ -1,0 +1,1201 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	MTMSM : Quote Manager
+</title><link href="../CSS/rfqStyle.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="../JS/jquery_v1.10.2.min.js"></script>    
+    <link href="../CSS/CalenderStyle.css" rel="Stylesheet" type="text/css" />
+    <script src="../JS/Calender.js" type="text/javascript"></script>
+    <script src="../JS/jquery.datetimepicker.js"></script>
+    <link href="../CSS/jquery.datetimepicker.css" rel="stylesheet" type="text/css" />
+     <style type="text/css">
+        div.panel {
+            border:solid 1px red;
+            z-index:99999;
+        }
+        .bordered tr td {
+            border:solid 1px #d7d7d7;
+            color:#292929;
+            padding:5px;
+        }
+        .headerrow td{
+            background-color:#cdcdce;
+            font-size: 12px;
+            padding:5px;
+            color:#333 !important;
+        }
+        input[type='text'],select
+        {
+            line-height:18px;
+            height:23px;
+            padding-left:5px;
+            padding-right:5px;
+            background-color:#ffea9e;
+            font-size:11px !important;
+            text-align:right;
+            border:solid 1px #d7d7d7 !important;
+        }
+        td{
+            vertical-align:middle;
+        }
+    </style>
+    <script type="text/javascript" language="javascript">
+function DisableBackButton() {
+window.history.forward()
+}
+DisableBackButton();
+window.onload = DisableBackButton;
+window.onpageshow = function(evt) { if (evt.persisted) DisableBackButton() }
+window.onunload = function() { void (0) }
+</script>
+    <script type="text/javascript">
+
+        function AttachFunc()
+        {
+            $('.date_only').datetimepicker({ timepicker: false, format: 'd-M-Y', formatDate: 'd-M-Y', allowBlank: true, defaultSelect: false, validateOnBlur: false });
+
+            $(".cal").keyup(function () {
+
+                var UpdateValue = 0;
+                var field = $(this).attr("f_name");
+                var BidItemID = $(this).attr("BidItemID");
+                var BidId = $(this).attr("BidId");
+                var RecID = $(this).attr("RecID");
+                var curentrate = $(".curentrate").html();
+                var ShippingTotalLc = $(".ShippingTotalLc").val();
+                var ShippingTotalUSD = $(".ShippingTotalUSD").html();
+
+                ShippingTotalLc = parseFloat(ShippingTotalLc);
+                ShippingTotalUSD = parseFloat(ShippingTotalUSD);
+
+                var objpricelc = $(this).closest(".row").find(".pricelc");
+                var priceusd = $(this).closest(".row").find(".priceusd");
+                var VendorDescription = $(this).closest(".row").find(".description");
+                var BidQty = $(this).closest(".row").find(".qty");
+                var UnitPrice = $(this).closest(".row").find(".unit");               
+
+                
+                BidItemID = parseInt(BidItemID);
+                BidId = parseInt(BidId);
+                RecID = parseInt(RecID);
+
+                var bq = $(BidQty).val();
+                var up = $(UnitPrice).val();
+                var vd = $(VendorDescription).val().replace("'","`");
+                if (isNaN(parseFloat(bq)))
+                {
+                    bq = 0.0;
+                }
+                if (isNaN(parseFloat(up))) {
+                    up = 0.0;
+                }
+
+                if (parseFloat(bq) < 0) {
+                    bq = Math.abs(bq);
+                    $(this).closest(".row").find(".qty").val(bq);
+                }
+                if (parseFloat(up) < 0) {
+                    up = Math.abs(up);
+                    $(this).closest(".row").find(".unit").val(up);
+                }
+
+
+                $.ajax({
+                    url: 'QuoteManager.aspx/Update_unitpriceAndquantity',
+                    data: "{ 'BidItemID': '" + BidItemID + "','BidQty': '" + bq + "','UnitPrice': '" + up + "','BidId': '" + BidId + "','RecID': '" + RecID + "','curentrate': '" + curentrate + "','vendordescription': '" + vd + "' }",
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (data) {
+                        var myobj = JSON.parse(data.d);
+                        objpricelc.html(parseFloat(myobj.priceLC).toFixed(2));
+                        priceusd.html(parseFloat(myobj.priceUSD).toFixed(2));
+
+                        var totPriceLC = 0;
+                        var totPriceUsd = 0;
+                        $(".cal.pricelc").each(function () {
+                            totPriceLC = totPriceLC + parseFloat($(this).html());
+                        });
+                        $(".cal.priceusd").each(function () {
+                            totPriceUsd = totPriceUsd + parseFloat($(this).html());
+
+                        });
+
+                        totPriceLC = totPriceLC + ShippingTotalLc;
+                        totPriceUsd = totPriceUsd + ShippingTotalUSD;
+                        $(".QuoteTotalLc").html(totPriceLC.toFixed(2));
+                        $(".QuoteTotalUsd").html(totPriceUsd.toFixed(2));
+                    },
+                    error: function (data, status, jqXHR) { alert(jqXHR); }
+                });
+            });
+        }
+        $(document).ready(function () {
+            AttachFunc();
+        })
+    </script>
+
+</head>
+<body>
+    <form name="form1" method="post" action="./quotemanager.aspx?key=431775&amp;validate=0.627450239717201" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="ToolkitScriptManager1_HiddenField" id="ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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dVNHRnphSFJoWW14bEJ3QUFBQXBNYjJGa1JtRmpkRzl5QjFabGNuTnBiMjRJUTI5dGNHRnlaWElRU0dGemFFTnZaR1ZRY205MmFXUmxjZ2hJWVhOb1UybDZaUVJMWlhsekJsWmhiSFZsY3dBQUF3TUFCUVVMQ0J4VGVYTjBaVzB1UTI5c2JHVmpkR2x2Ym5NdVNVTnZiWEJoY21WeUpGTjVjM1JsYlM1RGIyeHNaV04wYVc5dWN5NUpTR0Z6YUVOdlpHVlFjbTkyYVdSbGNnanNVVGcvQkFBQUFBb0tCd0FBQUFrQ0FBQUFDUU1BQUFBUUFnQUFBQU1BQUFBR0JBQUFBQTVNWVhOMFVHRm5aVTUxYldKbGNnWUZBQUFBQ2xCaFoyVk9kVzFpWlhJR0JnQUFBQlZKYzB4aGMzUlFZV2RsVG5WdFltVnlTMjV2ZDI0UUF3QUFBQU1BQUFBSUNBQUFBQUFJQ0FFQUFBQUlBUUFMZxYBZmQCDQ8PFgIeDEF1dG9Qb3N0QmFja2gWAh4Kb25rZXlwcmVzcwWnAWlmICgoZXZlbnQud2hpY2ggJiYgZXZlbnQud2hpY2ggPT0gMTMpIHx8IChldmVudC5rZXlDb2RlICYmIGV2ZW50LmtleUNvZGUgPT0gMTMpKSB7IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdDcnlzdGFsUmVwb3J0Vmlld2VyMV9jdGwwMl9jdGwxNCcpLmNsaWNrKCk7IHJldHVybiBmYWxzZTt9ZGRAUc+BljwKKWNvvsNFchtLOSsLQd0mRwbAa8cBZ1H8QQ==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/public/WebResource.axd?d=Bzk0sMnMIYDTremhGBrf8dDzTihCDblvl1PmQsJ0dCNHYvJVTNaijW85wGtUCa7B1b7A3u7ygCr3e9H7zAR9Z3tl4-xZuq-Bexoq58Ri6S41&amp;t=636511736826842555" type="text/javascript"></script>
+
+
+<script src="/public/ScriptResource.axd?d=NkVGSPze5qRajP_c-Z-jI252Bwv5FkVdjMc0VKlRyBtQ9FL4Z0dvfTZ6MCVw1rpzFgEz-a4aScok1JYaqzlrqU0eSk-yoS8DgFBn-HTfYZKCWaeC_jjsp3u3mNYc3wkh0v7tVkj89Q31ZL9EApH9UEe7_9IIV1HG9jpTxY3oO7w1&amp;t=ffffffff85b84bae" type="text/javascript"></script>
+<script src="/public/ScriptResource.axd?d=USCqDBoAA_1722uYPKCGNfCv7x2dVeW-kFC6o0L0TClfME-8-7R6Nl7BRlY-4a_TY20HAp3Rn5e-0b0HlDwMAxJXSx6kwDHHrDPN9EhWOahDiy8Q3ZeI76m2TXtjMc4tacJaQg2pYbcRCiv-EwrisQ2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/public/ScriptResource.axd?d=jwji612utBRFDKRFbU1jJczxwITYdVvSiUwkAsYUYEvr1YU4ScEyEDq0qOvvbBzlloh8MBmttJBYnp5DZrO1yIyXOatqWq50_DqxAezU66m3ydaQBY-9XyNdUDTuq9AH0l1JKKZILNKyjeB6t2YlUA2&amp;t=ffffffffec54f2d7" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="3E5CF63C" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+</div>
+        
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ToolkitScriptManager1', 'form1', [], [], [], 90, '');
+//]]>
+</script>
+       
+        
+        
+
+
+             <div id="UpdatePanel2">
+	
+        <div id="pnlData">
+		
+        <div class="FixedHeader">
+        <div style="background-color:#6e88a2;color:white;">
+            <table cellpadding="5" cellspacing="0" width="100%" border="0" >
+            <tr>
+			<td style="text-align:center;font-size:15px;">                
+                 
+                M.T.M. SHIP MANAGEMENT PTE. LTD                
+			</td>
+			</tr>
+        </table>        
+            </div>
+
+        <div style ="text-align:center;padding:4px;background-color:#cdcdce;position:relative;">            
+            <div style="font-weight:bold;font-size:13px; text-align:center;">
+                REQUEST FOR QUOTE [ RFQ# : <span id="lblRFQNO">SVI - 6183 - K1</span> ] 
+            </div>
+             <span style="position:absolute;right:5px;top:5px; font-weight:bold;">
+                    RFQ Date : <span id="lblDateCreated">20-May-2019</span>
+            </span>
+        </div>
+           
+        <table cellpadding="5" cellspacing="0" border="0" rules="none"  width="100%" >
+            <col width="50%" />
+            <col />
+            <td style="vertical-align:top;">
+                <table cellpadding="1" cellspacing="0" rules="none" border="0"  width="100%"  >
+                    <col width="130px" />
+                    <col width="10px" />
+                    <col  />
+                    <tr>
+                        <td> Vendor Name </td>
+                        <td>:</td>
+                        <td><span id="lblVendorName">NEKO SHIP SUPPLY BV</span></td>
+                    </tr>
+                    <tr>
+                        <td>Contact Name </td>
+                        <td>:</td>
+                        <td><span id="lblVendorContactName">Dick Tol</span></td>
+                    </tr>
+                    <tr>
+                        <td>Contact Details </td>
+                        <td>:</td>
+                        <td><span id="lblVendorPhone">31-10-8005555</span>, <span id="lblVendorEmail">mruiz@nekoship.nl ;  dtol@nekoship.nl</span></td>
+                    </tr>
+                  
+                </table>
+               
+            </td>
+            
+            
+        </table>
+            
+              <table cellpadding="3" cellspacing="0" border="0" rules="none" width="100%" style="background-color:#6e88a2;font-weight:bold;color:white;"  >
+                  <col style="width:50px" />
+                  <col style="width:10px" />
+                  <col style="width:120px" />
+                  
+                  <col style="width:80px" />
+                  <col style="width:10px" />
+                  <col style="width:70px" />
+                  <col style="width:100px" />
+                  <col style="width:80px" />
+                  <col style="width:10px" />
+                  <col/>
+                      <tr>
+                         <td>Date</td>
+                         <td>:</td>
+                         <td><span id="txtCurrDate">18-Jul-2019</span></td>
+                          
+                         
+                         <td>Currency</td>
+                         <td>:</td>
+                         <td>
+                             <select name="ddlCurrency" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ddlCurrency\&#39;,\&#39;\&#39;)&#39;, 0)" id="ddlCurrency" style="width:65px;">
+			<option selected="selected" value=""></option>
+			<option value="AED">AED</option>
+			<option value="AFN">AFN</option>
+			<option value="ALL">ALL</option>
+			<option value="ARS">ARS</option>
+			<option value="AUD">AUD</option>
+			<option value="BBD">BBD</option>
+			<option value="BDT">BDT</option>
+			<option value="BGN">BGN</option>
+			<option value="BHD">BHD</option>
+			<option value="BMD">BMD</option>
+			<option value="BRL">BRL</option>
+			<option value="BSD">BSD</option>
+			<option value="CAD">CAD</option>
+			<option value="CHF">CHF</option>
+			<option value="CLP">CLP</option>
+			<option value="CNY">CNY</option>
+			<option value="COP">COP</option>
+			<option value="CRC">CRC</option>
+			<option value="CYP">CYP</option>
+			<option value="CZK">CZK</option>
+			<option value="DKK">DKK</option>
+			<option value="DOP">DOP</option>
+			<option value="DZD">DZD</option>
+			<option value="EEK">EEK</option>
+			<option value="EGP">EGP</option>
+			<option value="EUR">EUR</option>
+			<option value="FJD">FJD</option>
+			<option value="GBP">GBP</option>
+			<option value="HKD">HKD</option>
+			<option value="HRK">HRK</option>
+			<option value="HUF">HUF</option>
+			<option value="IDR">IDR</option>
+			<option value="ILS">ILS</option>
+			<option value="INR">INR</option>
+			<option value="IQD">IQD</option>
+			<option value="IRR">IRR</option>
+			<option value="ISK">ISK</option>
+			<option value="JMD">JMD</option>
+			<option value="JOD">JOD</option>
+			<option value="JPY">JPY</option>
+			<option value="KES">KES</option>
+			<option value="KRW">KRW</option>
+			<option value="KWD">KWD</option>
+			<option value="LBP">LBP</option>
+			<option value="LKR">LKR</option>
+			<option value="MAD">MAD</option>
+			<option value="MTL">MTL</option>
+			<option value="MUR">MUR</option>
+			<option value="MXN">MXN</option>
+			<option value="MYR">MYR</option>
+			<option value="NAD">NAD</option>
+			<option value="NGN">NGN</option>
+			<option value="NOK">NOK</option>
+			<option value="NZD">NZD</option>
+			<option value="OMR">OMR</option>
+			<option value="PEN">PEN</option>
+			<option value="PGK">PGK</option>
+			<option value="PHP">PHP</option>
+			<option value="PKR">PKR</option>
+			<option value="PLN">PLN</option>
+			<option value="QAR">QAR</option>
+			<option value="RMB">RMB</option>
+			<option value="RON">RON</option>
+			<option value="RUB">RUB</option>
+			<option value="SAR">SAR</option>
+			<option value="SDD">SDD</option>
+			<option value="SEK">SEK</option>
+			<option value="SGD">SGD</option>
+			<option value="SIT">SIT</option>
+			<option value="SKK">SKK</option>
+			<option value="THB">THB</option>
+			<option value="TND">TND</option>
+			<option value="TRY">TRY</option>
+			<option value="TTD">TTD</option>
+			<option value="TWD">TWD</option>
+			<option value="USD">USD</option>
+			<option value="VEB">VEB</option>
+			<option value="VND">VND</option>
+			<option value="WON">WON</option>
+			<option value="XAF">XAF</option>
+			<option value="XAG">XAG</option>
+			<option value="XAU">XAU</option>
+			<option value="XCD">XCD</option>
+			<option value="XDR">XDR</option>
+			<option value="XOF">XOF</option>
+			<option value="XPD">XPD</option>
+			<option value="XPF">XPF</option>
+			<option value="XPT">XPT</option>
+			<option value="ZAR">ZAR</option>
+			<option value="ZMK">ZMK</option>
+
+		</select>
+                         </td>
+                          <td><span id="RequiredFieldValidator1" style="color:Red;visibility:hidden;">Required.</span></td>
+                         <td>Exch. Rate</td>
+                         <td>:</td>
+                         <td><span id="lblCurrRate" class="curentrate">0</span></td>
+                        
+                     </tr>
+                     </table>
+<div style="height:27px;overflow-x:hidden;overflow-y:scroll;">
+        <table cellspacing="0" border="0" cellpadding="0" style="width:100%;border-collapse:collapse;" class="bordered">            
+            <col style="width:50px;" />
+            <col />
+            <col style="width:120px;" />
+            <col style="width:120px;" />
+            <col style="width:120px;" />
+            <col style="width:100px;" />
+            <col style="width:100px;" />
+            <col style="width:100px;" />
+            <col style="width:120px;" />
+            <col style="width:120px;" />  
+            <tr align="left" class="headerrow">
+                <td>S.No.</td>
+                <td>Description</td>
+                <td>Part#/I.Code</td>
+                <td>Drawing#</td>
+                <td>Code#</td>
+                <td>Bid Qty</td>
+                <td>UOM</td>
+                <td style="text-align:right;">Unit Price</td>
+                <td style="text-align:right;">Price(LC)</td>
+                <td style="text-align:right;">Price(USD)</td>                
+            </tr>
+            </table>
+
+        </div>          
+        </div>        
+                
+        <div class="content" style="overflow-x:hidden;overflow-y:scroll;">          
+            <table cellspacing="0" border="0" class="bordered" cellpadding="0" style="width:100%;border-collapse:collapse;">               
+            <col style="width:50px;" />
+            <col />
+            <col style="width:120px;" />
+            <col style="width:120px;" />
+            <col style="width:120px;" />
+            <col style="width:100px;" />
+            <col style="width:100px;" />
+            <col style="width:100px;" />
+            <col style="width:120px;" />
+            <col style="width:120px;" />        
+        
+                    <tr id='tr2154748' class='row'>
+                    <td style="text-align:center;">1.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl00_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6205ZC3 Ball Bearing, 6205ZC3</span> 
+                        <input name="rptItems$ctl00$txtVendorDesctiption" type="text" id="rptItems_ctl00_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154748" BidId="431775" BidItemID="5190216" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>NO IMPA</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl00$txtBidQty" type="text" value="2" id="rptItems_ctl00_txtBidQty" disabled="disabled" class="cal qty" RecID="2154748" BidId="431775" BidItemID="5190216" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl00$hfItemID" id="rptItems_ctl00_hfItemID" value="5190216" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl00$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl00_txtUnitPrice" class="cal unit" RecID="2154748" BidId="431775" BidItemID="5190216" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl00_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl00_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154747' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">2.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl01_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6204ZC3 Ball Bearing, 6204ZC3</span> 
+                        <input name="rptItems$ctl01$txtVendorDesctiption" type="text" id="rptItems_ctl01_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154747" BidId="431775" BidItemID="5190217" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl01$txtBidQty" type="text" value="2" id="rptItems_ctl01_txtBidQty" disabled="disabled" class="cal qty" RecID="2154747" BidId="431775" BidItemID="5190217" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl01$hfItemID" id="rptItems_ctl01_hfItemID" value="5190217" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl01$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl01_txtUnitPrice" class="cal unit" RecID="2154747" BidId="431775" BidItemID="5190217" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl01_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl01_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                    <tr id='tr2154746' class='row'>
+                    <td style="text-align:center;">3.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl02_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6314/C3 Ball Bearing, 6314/C3</span> 
+                        <input name="rptItems$ctl02$txtVendorDesctiption" type="text" id="rptItems_ctl02_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154746" BidId="431775" BidItemID="5190221" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl02$txtBidQty" type="text" value="4" id="rptItems_ctl02_txtBidQty" disabled="disabled" class="cal qty" RecID="2154746" BidId="431775" BidItemID="5190221" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl02$hfItemID" id="rptItems_ctl02_hfItemID" value="5190221" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl02$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl02_txtUnitPrice" class="cal unit" RecID="2154746" BidId="431775" BidItemID="5190221" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl02_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl02_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154745' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">4.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl03_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6206ZZC3 Ball Bearing, 6206ZZC3</span> 
+                        <input name="rptItems$ctl03$txtVendorDesctiption" type="text" id="rptItems_ctl03_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154745" BidId="431775" BidItemID="5190220" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl03$txtBidQty" type="text" value="4" id="rptItems_ctl03_txtBidQty" disabled="disabled" class="cal qty" RecID="2154745" BidId="431775" BidItemID="5190220" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl03$hfItemID" id="rptItems_ctl03_hfItemID" value="5190220" />
+                    </td> 
+                    <td>pcs</td>
+                    <td>
+                        <input name="rptItems$ctl03$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl03_txtUnitPrice" class="cal unit" RecID="2154745" BidId="431775" BidItemID="5190220" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl03_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl03_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                    <tr id='tr2154744' class='row'>
+                    <td style="text-align:center;">5.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl04_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6212ZC3 Ball Bearing, 6212ZC3</span> 
+                        <input name="rptItems$ctl04$txtVendorDesctiption" type="text" id="rptItems_ctl04_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154744" BidId="431775" BidItemID="5190219" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl04$txtBidQty" type="text" value="2" id="rptItems_ctl04_txtBidQty" disabled="disabled" class="cal qty" RecID="2154744" BidId="431775" BidItemID="5190219" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl04$hfItemID" id="rptItems_ctl04_hfItemID" value="5190219" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl04$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl04_txtUnitPrice" class="cal unit" RecID="2154744" BidId="431775" BidItemID="5190219" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl04_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl04_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154743' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">6.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl05_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6311ZZ Ball Bearing, 6311ZZ</span> 
+                        <input name="rptItems$ctl05$txtVendorDesctiption" type="text" id="rptItems_ctl05_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154743" BidId="431775" BidItemID="5190218" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl05$txtBidQty" type="text" value="2" id="rptItems_ctl05_txtBidQty" disabled="disabled" class="cal qty" RecID="2154743" BidId="431775" BidItemID="5190218" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl05$hfItemID" id="rptItems_ctl05_hfItemID" value="5190218" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl05$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl05_txtUnitPrice" class="cal unit" RecID="2154743" BidId="431775" BidItemID="5190218" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl05_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl05_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                    <tr id='tr2154742' class='row'>
+                    <td style="text-align:center;">7.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl06_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6209ZZ Ball Bearing, 6209ZZ</span> 
+                        <input name="rptItems$ctl06$txtVendorDesctiption" type="text" id="rptItems_ctl06_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154742" BidId="431775" BidItemID="5190229" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl06$txtBidQty" type="text" value="2" id="rptItems_ctl06_txtBidQty" disabled="disabled" class="cal qty" RecID="2154742" BidId="431775" BidItemID="5190229" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl06$hfItemID" id="rptItems_ctl06_hfItemID" value="5190229" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl06$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl06_txtUnitPrice" class="cal unit" RecID="2154742" BidId="431775" BidItemID="5190229" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl06_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl06_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154741' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">8.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl07_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6202ZZC3 Ball Bearing, 6202ZZC3</span> 
+                        <input name="rptItems$ctl07$txtVendorDesctiption" type="text" id="rptItems_ctl07_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154741" BidId="431775" BidItemID="5190228" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>NO IMPA</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl07$txtBidQty" type="text" value="8" id="rptItems_ctl07_txtBidQty" disabled="disabled" class="cal qty" RecID="2154741" BidId="431775" BidItemID="5190228" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl07$hfItemID" id="rptItems_ctl07_hfItemID" value="5190228" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl07$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl07_txtUnitPrice" class="cal unit" RecID="2154741" BidId="431775" BidItemID="5190228" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl07_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl07_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                    <tr id='tr2154740' class='row'>
+                    <td style="text-align:center;">9.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl08_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6203ZZC3 Ball Bearing, 6203ZZC3</span> 
+                        <input name="rptItems$ctl08$txtVendorDesctiption" type="text" id="rptItems_ctl08_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154740" BidId="431775" BidItemID="5190227" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>NO IMPA</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl08$txtBidQty" type="text" value="8" id="rptItems_ctl08_txtBidQty" disabled="disabled" class="cal qty" RecID="2154740" BidId="431775" BidItemID="5190227" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl08$hfItemID" id="rptItems_ctl08_hfItemID" value="5190227" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl08$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl08_txtUnitPrice" class="cal unit" RecID="2154740" BidId="431775" BidItemID="5190227" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl08_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl08_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154739' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">10.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl09_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6212-2Z/ C4-GXN Ball Bearing, 6212-2Z/ C4-GXN</span> 
+                        <input name="rptItems$ctl09$txtVendorDesctiption" type="text" id="rptItems_ctl09_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154739" BidId="431775" BidItemID="5190226" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>NO IMPA CODE</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl09$txtBidQty" type="text" value="2" id="rptItems_ctl09_txtBidQty" disabled="disabled" class="cal qty" RecID="2154739" BidId="431775" BidItemID="5190226" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl09$hfItemID" id="rptItems_ctl09_hfItemID" value="5190226" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl09$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl09_txtUnitPrice" class="cal unit" RecID="2154739" BidId="431775" BidItemID="5190226" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl09_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl09_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                    <tr id='tr2154738' class='row'>
+                    <td style="text-align:center;">11.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl10_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6211ZC3 Ball Bearing, 6211ZC3</span> 
+                        <input name="rptItems$ctl10$txtVendorDesctiption" type="text" id="rptItems_ctl10_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154738" BidId="431775" BidItemID="5190225" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl10$txtBidQty" type="text" value="3" id="rptItems_ctl10_txtBidQty" disabled="disabled" class="cal qty" RecID="2154738" BidId="431775" BidItemID="5190225" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl10$hfItemID" id="rptItems_ctl10_hfItemID" value="5190225" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl10$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl10_txtUnitPrice" class="cal unit" RecID="2154738" BidId="431775" BidItemID="5190225" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl10_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl10_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154737' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">12.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl11_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6311C3 Ball Bearing, 6311C3</span> 
+                        <input name="rptItems$ctl11$txtVendorDesctiption" type="text" id="rptItems_ctl11_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154737" BidId="431775" BidItemID="5190224" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl11$txtBidQty" type="text" value="2" id="rptItems_ctl11_txtBidQty" disabled="disabled" class="cal qty" RecID="2154737" BidId="431775" BidItemID="5190224" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl11$hfItemID" id="rptItems_ctl11_hfItemID" value="5190224" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl11$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl11_txtUnitPrice" class="cal unit" RecID="2154737" BidId="431775" BidItemID="5190224" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl11_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl11_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                    <tr id='tr2154736' class='row'>
+                    <td style="text-align:center;">13.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl12_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6318C3 Ball Bearing, 6318C3</span> 
+                        <input name="rptItems$ctl12$txtVendorDesctiption" type="text" id="rptItems_ctl12_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154736" BidId="431775" BidItemID="5190223" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl12$txtBidQty" type="text" value="2" id="rptItems_ctl12_txtBidQty" disabled="disabled" class="cal qty" RecID="2154736" BidId="431775" BidItemID="5190223" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl12$hfItemID" id="rptItems_ctl12_hfItemID" value="5190223" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl12$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl12_txtUnitPrice" class="cal unit" RecID="2154736" BidId="431775" BidItemID="5190223" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl12_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl12_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154735' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">14.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl13_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6313C3 Ball Bearing, 6313C3</span> 
+                        <input name="rptItems$ctl13$txtVendorDesctiption" type="text" id="rptItems_ctl13_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154735" BidId="431775" BidItemID="5190222" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>NO IMPA CODE</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl13$txtBidQty" type="text" value="2" id="rptItems_ctl13_txtBidQty" disabled="disabled" class="cal qty" RecID="2154735" BidId="431775" BidItemID="5190222" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl13$hfItemID" id="rptItems_ctl13_hfItemID" value="5190222" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl13$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl13_txtUnitPrice" class="cal unit" RecID="2154735" BidId="431775" BidItemID="5190222" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl13_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl13_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                    <tr id='tr2154734' class='row'>
+                    <td style="text-align:center;">15.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl14_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6316C3 Ball Bearing, 6316C3</span> 
+                        <input name="rptItems$ctl14$txtVendorDesctiption" type="text" id="rptItems_ctl14_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154734" BidId="431775" BidItemID="5190235" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>NO IMPA CODE</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl14$txtBidQty" type="text" value="4" id="rptItems_ctl14_txtBidQty" disabled="disabled" class="cal qty" RecID="2154734" BidId="431775" BidItemID="5190235" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl14$hfItemID" id="rptItems_ctl14_hfItemID" value="5190235" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl14$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl14_txtUnitPrice" class="cal unit" RecID="2154734" BidId="431775" BidItemID="5190235" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl14_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl14_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154733' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">16.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl15_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6312ZZC3 Ball Bearing, 6312ZZC3</span> 
+                        <input name="rptItems$ctl15$txtVendorDesctiption" type="text" id="rptItems_ctl15_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154733" BidId="431775" BidItemID="5190234" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>NO IMPA CODE</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl15$txtBidQty" type="text" value="3" id="rptItems_ctl15_txtBidQty" disabled="disabled" class="cal qty" RecID="2154733" BidId="431775" BidItemID="5190234" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl15$hfItemID" id="rptItems_ctl15_hfItemID" value="5190234" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl15$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl15_txtUnitPrice" class="cal unit" RecID="2154733" BidId="431775" BidItemID="5190234" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl15_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl15_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                    <tr id='tr2154732' class='row'>
+                    <td style="text-align:center;">17.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl16_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6309ZZC3 Ball Bearing, 6309ZZC3</span> 
+                        <input name="rptItems$ctl16$txtVendorDesctiption" type="text" id="rptItems_ctl16_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154732" BidId="431775" BidItemID="5190233" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl16$txtBidQty" type="text" value="4" id="rptItems_ctl16_txtBidQty" disabled="disabled" class="cal qty" RecID="2154732" BidId="431775" BidItemID="5190233" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl16$hfItemID" id="rptItems_ctl16_hfItemID" value="5190233" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl16$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl16_txtUnitPrice" class="cal unit" RecID="2154732" BidId="431775" BidItemID="5190233" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl16_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl16_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154731' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">18.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl17_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6213C3 Ball Bearing, 6213C3</span> 
+                        <input name="rptItems$ctl17$txtVendorDesctiption" type="text" id="rptItems_ctl17_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154731" BidId="431775" BidItemID="5190232" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>no impa code</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl17$txtBidQty" type="text" value="2" id="rptItems_ctl17_txtBidQty" disabled="disabled" class="cal qty" RecID="2154731" BidId="431775" BidItemID="5190232" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl17$hfItemID" id="rptItems_ctl17_hfItemID" value="5190232" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl17$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl17_txtUnitPrice" class="cal unit" RecID="2154731" BidId="431775" BidItemID="5190232" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl17_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl17_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                    <tr id='tr2154730' class='row'>
+                    <td style="text-align:center;">19.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl18_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6314C3 Ball Bearing, 6314C3</span> 
+                        <input name="rptItems$ctl18$txtVendorDesctiption" type="text" id="rptItems_ctl18_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154730" BidId="431775" BidItemID="5190231" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                         <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                      <td>NO IMPA CODE</td>
+                     <td></td>
+                     <td></td>
+                    <td>
+                        <input name="rptItems$ctl18$txtBidQty" type="text" value="2" id="rptItems_ctl18_txtBidQty" disabled="disabled" class="cal qty" RecID="2154730" BidId="431775" BidItemID="5190231" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl18$hfItemID" id="rptItems_ctl18_hfItemID" value="5190231" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl18$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl18_txtUnitPrice" class="cal unit" RecID="2154730" BidId="431775" BidItemID="5190231" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl18_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl18_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+                 <tr id='tr2154729' class='row' style="background-color:#f2eeee;">
+                    <td style="text-align:center;">20.</td> 
+                    <td style="text-align :left">
+                        
+                        <span id="rptItems_ctl19_txtDesc" TextMode="MultiLine" style="display:inline-block;width:100%;margin-bottom:4px;">Ball Bearing, 6310ZZC3 Ball Bearing, 6310ZZC3</span> 
+                        <input name="rptItems$ctl19$txtVendorDesctiption" type="text" id="rptItems_ctl19_txtVendorDesctiption" placeholder="Vendor remarks ( if any )" class="cal description" RecID="2154729" BidId="431775" BidItemID="5190230" style="width:100%;text-align:left;font-weight:100;color:red;font-style:italic;" /> 
+                        <span style="color:blue"> Maker : </span>
+                        <span style="color:maroon"> Modal : </span>
+                    </td>
+                     <td>NO IMPA CODE</td>
+                     <td></td>
+                     <td></td>
+
+                    <td>
+                        <input name="rptItems$ctl19$txtBidQty" type="text" value="5" id="rptItems_ctl19_txtBidQty" disabled="disabled" class="cal qty" RecID="2154729" BidId="431775" BidItemID="5190230" style="width:100%;" />
+                        
+                        <input type="hidden" name="rptItems$ctl19$hfItemID" id="rptItems_ctl19_hfItemID" value="5190230" />
+                    </td> 
+                    <td>PCS</td>
+                    <td>
+                        <input name="rptItems$ctl19$txtUnitPrice" type="text" value="0" maxlength="10" id="rptItems_ctl19_txtUnitPrice" class="cal unit" RecID="2154729" BidId="431775" BidItemID="5190230" style="width:100%;text-align:right;" />
+                        
+                    </td> 
+                    <td style="text-align:right;">
+                        <span id="rptItems_ctl19_lblLC" class="cal pricelc">0.00</span>
+                    </td>
+                    <td style="text-align:right;">
+                        $&nbsp;<span id="rptItems_ctl19_lblUsd" class="cal priceusd">0.00</span>
+                    </td>
+                    
+                </tr>
+            
+        </table>          
+        </div>
+                
+        <div class="footer">   
+            <table cellspacing="0" border="0" cellpadding="0" style="width:100%;border-collapse:collapse;" class="bordered">            
+             <col style="width:50px;" />
+            <col />
+            <col style="width:120px;" />
+            <col style="" />  
+            <tr align="left" class="headerrow">
+                <td>&nbsp;</td>
+                <td style="text-align:right;">Estd. Shipping/Handling Charges :</td>
+                <td style="text-align:right;"><input name="txtLCRow1" type="text" value="0" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;txtLCRow1\&#39;,\&#39;\&#39;)&#39;, 0)" onkeypress="if (WebForm_TextBoxKeyHandler(event) == false) return false;" id="txtLCRow1" class="ShippingTotalLc" style="width:100%;" /></td>
+                <td style="text-align:right;">$&nbsp;<span id="lblUSDRow1" class="ShippingTotalUSD">0</span></td>                
+            </tr>
+                <tr align="left" class="headerrow">
+                <td>&nbsp;</td>
+                <td style="text-align:right;">Total : </td>
+                <td style="text-align:right;"><span id="lblLCRow2" class="QuoteTotalLc">0.00</span></td>
+                <td style="text-align:right;">$&nbsp;<span id="lblUSDRow2" class="QuoteTotalUsd">0.00</span></td>                
+            </tr>
+            </table>
+            <div style="background-color:#6e88a2;padding:2px;color:white;">
+                <table width="100%" border="0" cellpadding="0" cellspacing="0" >
+                    <tr>
+                        <td>
+                 
+                     <table cellpadding="3" cellspacing="0" border="0"  rules="none" width="100%"  >
+                      <col style="width:120px" />
+                      <col style="width:10px" />
+                      <col style="width:90px" />
+                      <col style="width:100px" />
+                      <col style="width:10px" />
+                      <col style="width:100px" />
+                      <col style="width:100px" />
+                      <col style="width:10px" />
+                      <col style="width:130px" />
+                      <col style="width:100px" />
+                      <col style="width:10px" />
+                      
+                      <col/>
+                      <tr>
+                        <td>Delivery Date</td>
+                        <td>:</td>
+                        <td><input name="txtDeliveryDate" type="text" maxlength="15" id="txtDeliveryDate" class="date_only" placeholder="dd-MMM-yyyy" style="width:90px;" />  </td>
+                        <td>Delivery Port</td>
+                        <td>:</td>
+                        <td><input name="txtDeliveryPort" type="text" maxlength="15" id="txtDeliveryPort" style="width:140px;text-align:left;" /></td>
+                        <td>Quote Ref No. #</td>
+                        <td>:</td>
+                        <td><input name="txtVenRef" type="text" id="txtVenRef" style="width:140px;text-align:left;" /></td>
+                        <td style="text-align:right">Quote Exp Dt.</td>
+                        <td>:</td>
+                        <td style="text-align:left;"><input name="txtExpires" type="text" maxlength="15" id="txtExpires" class="date_only" placeholder="dd-MMM-yyyy" style="width:90px;" /></td>
+                    </tr>
+                         </table>
+                     <table cellpadding="3" cellspacing="0" border="0"  rules="none" width="100%"  >
+                         <col style="width:120px" />
+                         <col style="width:10px" />
+                         <col/>
+                     <tr>
+                         <td>Vendor Comments</td>
+                         <td>:</td>
+                         <td style="text-align:left">
+                              <input name="txtVendorComments" type="text" id="txtVendorComments" style="width:100%;text-align:left;" />
+                         </td>
+                     </tr>
+                    </table>
+                    </td>
+                        <td>
+                            
+
+                            <input type="submit" name="btnSubmit" value="Preview &amp; Submit" id="btnSubmit" style="height:30px;width:180px;text-align:center;background-color:#f52b0f;font-size:13px;border:none;color:white;margin-left:10px;" />
+                        </td>
+                    </tr>
+                    </table>
+            </div>
+        </div>
+            
+	</div>
+        
+
+        
+     
+            
+</div>
+       
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("RequiredFieldValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var RequiredFieldValidator1 = document.all ? document.all["RequiredFieldValidator1"] : document.getElementById("RequiredFieldValidator1");
+RequiredFieldValidator1.controltovalidate = "ddlCurrency";
+RequiredFieldValidator1.errormessage = "Required.";
+RequiredFieldValidator1.validationGroup = "abc";
+RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator1.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();settop();AttachFunc();
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('RequiredFieldValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator1'));
+}
+//]]>
+</script>
+</form>
+    <script type="text/javascript">
+        function settop()
+        {
+            $(".content").css("margin-top", $(".FixedHeader").height() + 'px');
+	    $(".content").css("padding-bottom", '130px');
+//            $(document.body).css("margin-bottom", ($(".footer").height() + 300) + 'px');
+        }
+        $(document).ready(function () {
+            settop();
+        });
+        $(window).resize(function () {
+            settop();
+        });
+    </script>
+     <script type="text/javascript">
+       
+</script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="TQ20016295" Identifier="UNOC" Recipient="MTMS_HTM" Sender="GLAS00001227" PreparationDate="2020-Feb-06" PreparationTime="13:16" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="86" LesRecordID="94235499" LesLinkID="100602" ParentRecordID="94235479" MTML_DOCID="295FC3A3-0E95-4555-A2D9-8A4A628B391D">
+    <Quote MessageReferenceNumber="474559" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=474559&amp;validate=0.738201610375637" LineItemCount="1" VersionNumber="1" CurrencyCode="SGD" FunctionCode="_9" OriginatingSystemRef="94235479" LeadTimeDays="2" BuyerRefNo="DZV-5721-B1" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" SupplierORGRef="500094235479" BuyerItemTotal="1035" BuyerQuoteTotal="1035">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="202002061316" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Item 1 : 
+QUOTED
+HT544 VHF MARINE I.S. (PRESET WITH INT/US/CAN FREQ) 4W DISPLAY SUBMERSIBLE; IP68
+C/W ANTENNA, SINGLE RAPID CHARGER, BELTCLIP, MANUAL, CNB550E-LI-ION 1800MAH I.S. BATTERY
+
+Upon confirmation, pls advise:
+Charger Voltage is 120V or 230V?
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>30 Days</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="DZV-5721-B1" />
+      <Reference Qualifier="AAG" ReferenceNumber="TQ20016295" />
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" Berth="TBA" Port="TBA" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M. SHIP MANAGEMENT PTE. LTD" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="SINWA (SINGAPORE) PTE LTD">
+        <Contact FunctionCode="SR" Name="Josphine Lim">
+          <CommunicationMethod Qualifier="TE" Number="68626300--" />
+          <CommunicationMethod Qualifier="EM" Number="purchc1@sinwaglobal.com; sinwa@sinwaglobal.com" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="Handheld portable radios, ENTEL HT 544 Intrinsical Handheld portable radios, ENTEL HT 544 Intrinsically safe VHF" MeasureUnitQualifier="pcs" Quantity="3" TypeCode="BP" OriginatingSystemRef="2393046_5619795" SystemItemNo="1" MonetaryAmount="1035.00" Identification="NONE" DeliveryTime="2" IsExtraItem="0" MarkedRemarks="&#xA;QUOTED&#xA;HT544 VHF MARINE I.S. (PRESET WITH INT/US/CAN FREQ) 4W DISPLAY SUBMERSIBLE; IP68&#xA;C/W ANTENNA, SINGLE RAPID CHARGER, BELTCLIP, MANUAL, CNB550E-LI-ION 1800MAH I.S. BATTERY&#xA;&#xA;Upon confirmation, pls advise:&#xA;Charger Voltage is 120V or 230V?&#xA;" ItemStatus="Original" Byr_Qty="3" Supp_Qty="3" Byr_UOM="pcs" Supp_UOM="pcs" Supp_Price="345" BuyerItemTotal="1035" IsQtyAmended="false">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="345" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="345" />
+        <Comments Qualifier="LIN">
+          <value>
+QUOTED
+HT544 VHF MARINE I.S. (PRESET WITH INT/US/CAN FREQ) 4W DISPLAY SUBMERSIBLE; IP68
+C/W ANTENNA, SINGLE RAPID CHARGER, BELTCLIP, MANUAL, CNB550E-LI-ION 1800MAH I.S. BATTERY
+
+Upon confirmation, pls advise:
+Charger Voltage is 120V or 230V?
+</value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1035.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1035.000" />
+      <MonetaryAmount Qualifier="_90" Value="1035.000" />
+      <MonetaryAmount Qualifier="_91" Value="1035.000" />
+    </Quote>
+  </Interchange>
+</MTML>

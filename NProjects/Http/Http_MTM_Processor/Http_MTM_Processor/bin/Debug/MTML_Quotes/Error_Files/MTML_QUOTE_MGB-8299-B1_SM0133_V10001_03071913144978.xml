@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="5156153" Identifier="UNOC" Recipient="SM0133_HTM" Sender="V10001" PreparationDate="2019-Jul-03" PreparationTime="13:14" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="3" LesGroupID="220" LesRecordID="11649205" LesLinkID="100787" ParentRecordID="11649112" MTML_DOCID="881C9912-C2DB-4B67-BE83-7BA719B42B4C">
+    <Quote MessageReferenceNumber="421805" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=421805&amp;amp;validate=0.109299252926178" LineItemCount="9" VersionNumber="1" CurrencyCode="USD" FunctionCode="_9" TransportModeCode="_3" LeadTimeDays="7" OriginalFile="OrderQuotation-5156153_190703_130735906.pdf" IsAltItemAllowed="1" IsPriceAveraged="0" IsUOMChanged="1" IsDeclined="False" RevisionNumber="3">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201907031314" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201907100000" />
+      <DateTimePeriod Qualifier="_132" FormatQualifier="_203" Value="201905300000" />
+      <Comments Qualifier="SUR">
+        <value>Thanks for your inquiry. We're pleased to offer our quotation for your consideration.
+
+All quoted items are ex-stock subject to prior sales EXCEPT:
+
+Item 4
+Freight Charge: USD 50
+Lead time: 2-3 working days subject to carrier approval and custom clearance. 
+
+Delivery Charge (alongside) @  Port SUEZ : USD 86.60
+Delivery Lead time: 2-3  working days
+Subject to additional delivery charge, hire of barge/crane, custom fee, etc.
+
+Please allow another 1-2 working days’ notice for delivery arrangement.
+
+We look forward to receiving your earliest order confirmation.
+
+Best Regards,
+Emilee Heng
+General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is at all times subject to the WSS Standard Terms and Conditions for the Supply of Products and Gas Cylinders. These can be found at:  http://wilhelmsen.com/terms-and-conditions/
+
+Item Added - 8 : FIXED CHARGE LAST MILE DELIVERY | QTY : 1 | UOM : PCS | Price : 86.6 USD
+Item Added - 9 : FREIGHT CHARGE | QTY : 1 | UOM : PCS | Price : 50 USD
+ Item Total : 3696.25 (including additional items) </value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>General Conditions: The provision of products and/or services by Wilhelmsen Ships Services (WSS) is </value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value>FREE ALONGSIDE SHIP (Port Quayside)</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="MGB-8299-B1" />
+      <Reference Qualifier="AAG" ReferenceNumber="5156153" />
+      <Party Qualifier="UD" Name="MTM GIBRALTAR">
+        <PartyLocation Qualifier="TBA" Berth="SUEZ" Port="EGSUZ" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M SHIP MANAGEMENT PTE. LTD" City="Singapore">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="TE" Number="+65 6304 1770" />
+          <CommunicationMethod Qualifier="EM" Number="singapore@mtmshipmanagement.com" />
+          <CommunicationMethod Qualifier="FX" Number="65-6220 7988" />
+        </Contact>
+        <StreetAddress>78 SHENTON WAY #13-01 SINGAPORE 079120</StreetAddress>
+      </Party>
+      <Party Qualifier="VN" Name="WILHELMSEN SHIPS SERVICE AS">
+        <Contact FunctionCode="SR" Name="Lawrence Lai">
+          <CommunicationMethod Qualifier="TE" Number="67785022--" />
+          <CommunicationMethod Qualifier="EM" Number="wss.cs.singapore.products@wilhelmsen.com" />
+        </Contact>
+        <StreetAddress>128376</StreetAddress>
+      </Party>
+      <LineItem Number="1" Description="Sea care OSD Sea care OSD" MeasureUnitQualifier="LTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="2160219_5100011" SystemItemNo="1" MonetaryAmount="341.32" Identification="764420" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.8264" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.8264" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="2" Description="Vaptreat Vaptreat" MeasureUnitQualifier="LTR" Quantity="125" TypeCode="BP" OriginatingSystemRef="2160216_5100012" SystemItemNo="2" MonetaryAmount="1078.19" Identification="571364" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="8.6255" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="8.6255" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="3" Description="Descaling Liquid Descaling Liquid" MeasureUnitQualifier="LTR" Quantity="75" TypeCode="BP" OriginatingSystemRef="2160215_5100016" SystemItemNo="3" MonetaryAmount="302.82" Identification="571653" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="4.0376" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="4.0376" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="4" Description="ACC Plus ACC Plus" MeasureUnitQualifier="LTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="2160214_5100015" SystemItemNo="4" MonetaryAmount="381.08" Identification="698704" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.6216" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.6216" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="5" Description="Disclean Disclean" MeasureUnitQualifier="LTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="2160213_5100014" SystemItemNo="5" MonetaryAmount="366.52" Identification="571687" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="7.3304" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="7.3304" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="6" Description="Rocor NB Rocor NB" MeasureUnitQualifier="LTR" Quantity="100" TypeCode="BP" OriginatingSystemRef="2160212_5100013" SystemItemNo="6" MonetaryAmount="607.10" Identification="571356" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="6.071" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="6.071" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="7" Description="Condensate Control Condensate Control" MeasureUnitQualifier="LTR" Quantity="50" TypeCode="BP" OriginatingSystemRef="2160211_5100017" SystemItemNo="7" MonetaryAmount="482.62" Identification="774828" DeliveryTime="7" IsExtraItem="0" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="9.6524" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="9.6524" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Manufacturer=" " ModelNumber=" " />
+      </LineItem>
+      <LineItem Number="8" Description="FIXED CHARGE LAST MILE DELIVERY" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="8" MonetaryAmount="86.60" DeliveryTime="7" IsExtraItem="1" ItemType="FREIGHT" ItemStatus="Addition">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="86.6" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <LineItem Number="9" Description="FREIGHT CHARGE" MeasureUnitQualifier="PCS" Quantity="1" TypeCode="VP" OriginatingSystemRef="" SystemItemNo="9" MonetaryAmount="50.00" Identification="OTHER_CHARGE" DeliveryTime="7" IsExtraItem="1" ItemType="FREIGHT" ItemStatus="Addition">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="50" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="3696.250" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="3696.250" />
+      <MonetaryAmount Qualifier="_99" Value="136.600" />
+      <MonetaryAmount Qualifier="_90" Value="3559.650" />
+    </Quote>
+  </Interchange>
+</MTML>

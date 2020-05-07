@@ -1,0 +1,1 @@
+||MTM_HTTP_RFQ_Downloader|190716_183850593.txt||Error|19-07-18 17:28 : Unable to process file - Link not found in file 190716_183850593.txt

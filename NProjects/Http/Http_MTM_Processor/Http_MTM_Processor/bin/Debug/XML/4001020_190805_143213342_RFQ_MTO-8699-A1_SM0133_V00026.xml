@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange Identifier="UNOC" Recipient="V00026" Sender="SM0133_FUJI" PreparationDate="20190805" PreparationTime="144954" VersionNumber="1">
+    <RequestForQuote MessageReferenceNumber="435115" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=435115&amp;validate=0.829744162302084" LineItemCount="1" VersionNumber="1" FunctionCode="_9" BuyerRefNo="MTO-8699-A1" OriginalFile="4001020_190805_143213342_4001020_39310_RFQ-MTO-E-19-8699-A1.pdf">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_102" Value="20190805" />
+      <DateTimePeriod Qualifier="_132" FormatQualifier="_102" Value="20190915" />
+      <Reference Qualifier="UC" ReferenceNumber="MTO-8699-A1" />
+      <Party Qualifier="UD" Name="MTM TOKYO">
+        <PartyLocation Qualifier="TBA" Berth="SINGAPORE" />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M SHIP MANAGEMENT PTE. LTD">
+        <Contact FunctionCode="PD">
+          <CommunicationMethod Qualifier="TE" Number="+65 6304 1770" />
+          <CommunicationMethod Qualifier="FX" Number="65-6220 7988" />
+          <CommunicationMethod Qualifier="EM" Number="singapore@mtmshipmanagement.com" />
+        </Contact>
+        <StreetAddress>78 SHENTON WAY #13-01 SINGAPORE 079120</StreetAddress>
+      </Party>
+      <Party Qualifier="VN" Name="FUJI TRADING CO. LTD">
+        <Contact FunctionCode="SR">
+          <CommunicationMethod Qualifier="TE" Number="078-4132611-" />
+          <CommunicationMethod Qualifier="EM" Number="mach-5@fujitrading.co.jp" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="NO-FUSE BREAKER" Identification="2P. 30A" MeasureUnitQualifier="PCS" Quantity="2" MonetaryAmount="0.00" TypeCode="BP" OriginatingSystemRef="2216581_5228740" SystemItemNo="1">
+        <Comments Qualifier="LIN">
+          <value>DrawNo : 110-1485470</value>
+        </Comments>
+        <Section Manufacturer=" MORITA ELECTRIC IND. CO LTD" ModelNumber=" TB-5P 2P, 30A,TERASAKI" />
+      </LineItem>
+    </RequestForQuote>
+  </Interchange>
+</MTML>

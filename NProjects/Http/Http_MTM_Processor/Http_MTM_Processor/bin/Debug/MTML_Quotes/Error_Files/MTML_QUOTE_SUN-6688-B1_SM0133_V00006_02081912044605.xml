@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="TQ19075861" Identifier="UNOC" Recipient="MTMS_HTM" Sender="GLAS00001227" PreparationDate="2019-Aug-02" PreparationTime="12:04" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="86" LesRecordID="94170976" LesLinkID="100602" ParentRecordID="94170875" MTML_DOCID="DB383B2A-4905-4C13-A3A4-B10115ABB200">
+    <Quote MessageReferenceNumber="434715" MessageNumber="http://portal.mtmsm.com/public/pos/quotemanager.aspx?key=434715&amp;validate=0.332190648859377" LineItemCount="1" VersionNumber="1" CurrencyCode="SGD" FunctionCode="_9" OriginatingSystemRef="94170875" LeadTimeDays="2" IsAltItemAllowed="0" IsPriceAveraged="1" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" SupplierORGRef="500094170875">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201908021204" />
+      <Comments Qualifier="SUR">
+        <value>
+
+Item 1 : 
+QUOTED
+DANFOSS PRESSURE TRANSMITTER 
+MBS 3100-1811-6XXXX 
+RANGE P(E): 0..6BAR 
+OUTPUT: 4..20MA, SUPP: 9..32VDC 
+MECH: G 1/2
+Output: 4~20 mA 
+Supply: 9~32 VDC
+CODE : 060G1613 
+Delivery : 2 PCS EX-STOCK. Subject To Prior Sales
+QUOTED QTY 2 PCS
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value>30 Days</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="SUN-6688-B1" />
+      <Reference Qualifier="AAG" ReferenceNumber="TQ19075861" />
+      <Party Qualifier="UD">
+        <PartyLocation Qualifier="ZUC" Berth="TBA" Port="TBA" />
+        <Contact />
+      </Party>
+      <Party Qualifier="BY" Name="M.T.M. SHIP MANAGEMENT PTE. LTD" City="Singapore">
+        <Contact FunctionCode="PD" />
+      </Party>
+      <Party Qualifier="VN" Name="SINWA (SINGAPORE) PTE LTD">
+        <Contact FunctionCode="SR" Name="Josphine Lim">
+          <CommunicationMethod Qualifier="TE" Number="68626300--" />
+          <CommunicationMethod Qualifier="EM" Number="purchc1@sinwaglobal.com; sinwa@sinwaglobal.com" />
+        </Contact>
+      </Party>
+      <LineItem Number="1" Description="PRESSURE TRANSMITTER Supply: 9~32 VDC&#xD;&#xA;Working pressure: 0~6 bar&#xD;&#xA;Output: 4~20 mA" MeasureUnitQualifier="PCS" Quantity="2" TypeCode="BP" OriginatingSystemRef="2211066_5225709" SystemItemNo="1" MonetaryAmount="1250.00" Identification="060G1613" DeliveryTime="2" IsExtraItem="0" MarkedRemarks="&#xA;QUOTED&#xA;DANFOSS PRESSURE TRANSMITTER &#xA;MBS 3100-1811-6XXXX &#xA;RANGE P(E): 0..6BAR &#xA;OUTPUT: 4..20MA, SUPP: 9..32VDC &#xA;MECH: G 1/2&#xA;Output: 4~20 mA &#xA;Supply: 9~32 VDC&#xA;CODE : 060G1613 &#xA;Delivery : 2 PCS EX-STOCK. Subject To Prior Sales&#xA;QUOTED QTY 2 PCS&#xA;" ItemStatus="Original">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="625" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="625" />
+        <Comments Qualifier="LIN">
+          <value>
+QUOTED
+DANFOSS PRESSURE TRANSMITTER 
+MBS 3100-1811-6XXXX 
+RANGE P(E): 0..6BAR 
+OUTPUT: 4..20MA, SUPP: 9..32VDC 
+MECH: G 1/2
+Output: 4~20 mA 
+Supply: 9~32 VDC
+CODE : 060G1613 
+Delivery : 2 PCS EX-STOCK. Subject To Prior Sales
+QUOTED QTY 2 PCS
+</value>
+        </Comments>
+        <Section Manufacturer=" DANFOSS" ModelNumber=" MBS 3100" />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="1250.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="1250.000" />
+    </Quote>
+  </Interchange>
+</MTML>
