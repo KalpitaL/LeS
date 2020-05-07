@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<MTML>
+  <Interchange ControlReference="E6561213" Identifier="UNOC" Recipient="SM0645_WEB" Sender="V00026" PreparationDate="2019-Jul-23" PreparationTime="17:34" RecipientCodeQualifier="ZEX" SenderCodeQualifier="ZEX" VersionNumber="1" LesGroupID="2077" LesRecordID="11673566" LesLinkID="103316" ParentRecordID="11664249" MTML_DOCID="5BC994D6-CFC6-4ECB-843D-4E33A0D586DB">
+    <Quote MessageReferenceNumber="GREA-1907-0027-01" MessageNumber="http://client.cidoship.com/SHORE/SUP/Purchase/frmPurVenQutMgt.aspx?SysReqNo=GREA-SUP-PUR-190715-0001&amp;SysInqNo=01&amp;VdrCode=1002176&amp;Vcode=0028&amp;POPUP=Y&amp;MENUSEQ=1009" LineItemCount="1" VersionNumber="1" CurrencyCode="JPY" LeadTimeDays="60" OriginalFile="V71644.xml" IsAltItemAllowed="0" IsPriceAveraged="2" IsUOMChanged="1" IsDeclined="False" RevisionNumber="1" BuyerItemTotal="411750" BuyerQuoteTotal="411750">
+      <DateTimePeriod Qualifier="_137" FormatQualifier="_203" Value="201907231734" />
+      <DateTimePeriod Qualifier="_69" FormatQualifier="_203" Value="201909211731" />
+      <DateTimePeriod Qualifier="_36" FormatQualifier="_203" Value="201908220000" />
+      <DateTimePeriod Qualifier="_2" FormatQualifier="_203" Value="201907150000" />
+      <Comments Qualifier="SUR">
+        <value> #1: TYPE:1LX7003-R ***
+" WE HEREBY DECLARE THAT ALL OF OUR SUPPLYING PRODUCTS ARE ASBESTOS-FREE." *** GENUINE PARTS FROM ORIGINAL MANUFACTURE/MAKER ***
+</value>
+      </Comments>
+      <Comments Qualifier="ZTP">
+        <value> 60 DAYS AFTER SHIPMENT</value>
+      </Comments>
+      <Comments Qualifier="ZAT">
+        <value>EXPLOSION PROOF TYPE LIMIT SWITCH FOR DUMPER</value>
+      </Comments>
+      <Comments Qualifier="ZTC">
+        <value> EX WAREHOUSE KOBE UNPACKED</value>
+      </Comments>
+      <Reference Qualifier="UC" ReferenceNumber="GREA-1907-0027-01" />
+      <Reference Qualifier="AAG" ReferenceNumber="E6561213" />
+      <Party Qualifier="BY" Name="CIDO SHIPPING (KOREA) CO., Ltd.">
+        <Contact />
+      </Party>
+      <Party Qualifier="VN" Name="Fuji Trading Co Ltd Kobe (Mach Dept)">
+        <Contact />
+      </Party>
+      <Party Qualifier="UD" Name="GRAND EAGLE">
+        <PartyLocation Qualifier="ZUC" Port="SGSIN" />
+        <Contact />
+      </Party>
+      <LineItem Number="1" Description="EXPLOSION PROOF TYPE LIMIT SWITCH FOR DUMPER" MeasureUnitQualifier="PCS" Quantity="15" TypeCode="BP" OriginatingSystemRef="0028-E0555-S0001-P0001-01" SystemItemNo="1" MonetaryAmount="411750.00" Identification="1LX5003 &amp;amp; 2PA-JEX110" DeliveryTime="60" IsExtraItem="0" ItemStatus="Original" Byr_Qty="15" Supp_Qty="15" Byr_UOM="PCS" Supp_UOM="PCS" Supp_Price="27450" BuyerItemTotal="411750">
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="GRP" Value="27450" />
+        <PriceDetails Qualifier="CAL" TypeCode="QT" TypeQualifier="DPR" Value="0" />
+        <PriceDetails Qualifier="CAL" TypeCode="" TypeQualifier="LIST" Value="27450" />
+        <Comments Qualifier="LIN">
+          <value>
+          </value>
+        </Comments>
+        <Section Description=" HIGH EXPANSION FOAM FIRE EXTINGUISHING SYSTEM (KASHIWA CO., LTD. / 5136/5137) / GENERAL" />
+      </LineItem>
+      <MonetaryAmount Qualifier="_106" Value="0.000" />
+      <MonetaryAmount Qualifier="_64" Value="0.000" />
+      <MonetaryAmount Qualifier="_79" Value="411750.000" />
+      <MonetaryAmount Qualifier="_204" Value="0.000" />
+      <MonetaryAmount Qualifier="_259" Value="411750.000" />
+    </Quote>
+  </Interchange>
+</MTML>

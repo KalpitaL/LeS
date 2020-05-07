@@ -1,0 +1,14 @@
+.RadInput,
+.RadInputMgr {
+    /*font: 14px "Segoe UI", Arial, Helvetica, sans-serif;*/
+    font-family: tahoma, gulim !important;
+}
+
+.RadInput .riTextBox,
+.RadInputMgr {
+    border-color: #cdcdcd;
+    background: #ffffff;
+    color: #333333;
+    padding: 0px 1px 0px 0px !important;
+    border-radius: 0px !important;
+}
