@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<LOGINSETTINGS>
+  <APPSETTINGS>
+    <SITE_URL>https://www.zodiac-maritime.com/extranet/suppliers/getQuotations.do</SITE_URL>
+    <USERNAME>yanmar@fujitrading.nl</USERNAME>
+    <PASSWORD>S1113</PASSWORD>
+    <DOMAIN>Zodiac_FujiBV</DOMAIN>
+    <BUYERCODE>SM0385</BUYERCODE>
+    <SUPPLIERCODE>V10037</SUPPLIERCODE>
+    <!--<BUYERNAME>Zodiac Maritime Ltd</BUYERNAME>-->
+    <SUPPLIERNAME>NFuji Trading (Marine) (Nederlands) BV</SUPPLIERNAME> 
+    <LOGINRETRY>3</LOGINRETRY>
+    <ACTIONS>RFQ,QUOTE</ACTIONS>
+    <IMAGE_PATH></IMAGE_PATH>
+    <RFQPATH></RFQPATH>
+    <AUDITPATH></AUDITPATH>
+    <MAX_DATE_RANGE>3</MAX_DATE_RANGE>
+  </APPSETTINGS>
+</LOGINSETTINGS>
