@@ -1,0 +1,29 @@
+D:\Temp\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\Bernhard_Schulte_Routine.dll
+D:\Temp\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\Bernhard_Schulte_Routine.pdb
+D:\Temp\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\DotNetBrowserWrapper.dll
+D:\Temp\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\PluginInterface.dll
+D:\Temp\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\DotNetBrowserWrapper.pdb
+D:\Temp\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\PluginInterface.pdb
+D:\Temp\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\obj\Debug\Bernhard_Schulte_Routine.csprojResolveAssemblyReference.cache
+D:\Temp\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\obj\Debug\Bernhard_Schulte_Routine.dll
+D:\Temp\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\obj\Debug\Bernhard_Schulte_Routine.pdb
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\Bernhard_Schulte_Routine.dll
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\Bernhard_Schulte_Routine.pdb
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\DotNetBrowserWrapper.dll
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\PluginInterface.dll
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\DotNetBrowserWrapper.pdb
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\PluginInterface.pdb
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\obj\Debug\Bernhard_Schulte_Routine.csprojResolveAssemblyReference.cache
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\obj\Debug\Bernhard_Schulte_Routine.dll
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\obj\Debug\Bernhard_Schulte_Routine.pdb
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\DotNetBrowser.dll
+D:\Working\DotNetBrowser\Bernhard Schulte\RMS\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\DotNetBrowser.Chromium.dll
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\Bernhard_Schulte_Routine.dll
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\Bernhard_Schulte_Routine.pdb
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\DotNetBrowserWrapper.dll
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\PluginInterface.dll
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\DotNetBrowserWrapper.pdb
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\bin\Debug\PluginInterface.pdb
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\obj\Debug\Bernhard_Schulte_Routine.csprojResolveAssemblyReference.cache
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\obj\Debug\Bernhard_Schulte_Routine.dll
+E:\Projects\LES\Namrata_Projects\DotNetBrowser\RMS_BSM\Bernhard_Schulte_Scrapper\Bernhard_Schulte_Routine\obj\Debug\Bernhard_Schulte_Routine.pdb
